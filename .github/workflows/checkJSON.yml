@@ -34,7 +34,8 @@ jobs:
     # Runs a single command using the runners shell
     - name: Check the JSONs
       run: | 
-        JSON_FILES=$(find ${{ steps.get_file_changes.outputs.files }} -type f -name "*.json")
+        JSON_FILES=$(find ${{ steps.get_file_changes.outputs.files }} -type f -name "*.json" )
+        echo JSON files to be processed: ${JSON_FILES} 
         if [ "${JSON_FILES}" != "" ]; then
            echo Process json files: ${JSON_FILES}
            sudo apt-get update

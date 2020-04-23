@@ -1,0 +1,31 @@
+#myTable_filter {
+   display: none;
+}
+
+table {
+  border-spacing: 0;
+  width: 100%;
+  border: 1px solid #ddd;
+  font-size: 60%;
+}
+
+th {
+  cursor: pointer;
+}
+
+th, td {
+  text-align: left;
+  padding: 16px;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2
+}
+
+table select{
+   font-size: 100%;
+}
+
+table input{
+   font-size: 100%;
+}

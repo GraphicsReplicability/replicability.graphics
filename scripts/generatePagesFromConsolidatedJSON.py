@@ -503,6 +503,7 @@ def explanationBadges(findex):
     <li> <i class="fas fa-square" style="font-size:150%;color:#7570b3;" alt="Preprint PDF available (author web page, project page, institution page, arxiv...)"></i> Preprint PDF available (author web page, project page, institution page, arxiv...)
     <li> <i class="fas fa-square" style="font-size:150%;color:#d95f02;" alt="PDF only available on the Digital Library (not Open Access)"></i> PDF only available on the Digital Library (not Open Access)
       </ul>
+    <hr />
     """)
     
 with open(sys.argv[1]) as json_file:
@@ -530,6 +531,18 @@ with open(sys.argv[1]) as json_file:
    ''')
 
    explanationBadges(findex)
+
+   findex.write('''
+            <div class="row">
+                <div class="column2 chart-container">
+                    <canvas height="150" id="myChartTopics" class="chartjs-render-monitor"></canvas>
+                </div>
+                <div class="column2 chart-container">
+                    <canvas height="150" id="myChartPdf" class="chartjs-render-monitor"></canvas>
+                </div>
+            </div>
+   ''')
+
    dumpTableHeader(findex)
 
 
@@ -660,14 +673,13 @@ with open(sys.argv[1]) as json_file:
       <p style="text-align:left">This website provides an interactive tool to explore our results and evaluation data.
       It also provides tools to comment on the various codes either as an author or as a user.</p>
 
-     <p style="text-align:left">A companion website is the <a href="http://ReplicabilityStamp.org">Graphics
-     Replicability Stamp Initiative</a> one whose objective is to highlight
-     research works in Computer Graphics with the highest replicability scores.</p>
+     <p style="text-align:left"> Our project aims at providing the community with tools to improve Computer Graphics research replicability. Sharing this goal is the <a href="http://ReplicabilityStamp.org">Graphics
+     Replicability Stamp Initiative</a> whose objective is to highlight replicable research works in Computer Graphics.</p>
   
       <p style="text-align:left">You can contribute new code analysis for computer graphics
-      paper. We're looking forward to your <a href="#Contribute">contributions</a>.</p>
+      papers. We're looking forward to your <a href="#third" class="scrolly">contributions</a>. You can also <a href="#fourth" class="scrolly">contact us</a>.</p>
 
-
+
 	</div>
       </header>
       <div class="content dark style1 featured">
@@ -764,21 +776,6 @@ with open(sys.argv[1]) as json_file:
             </div>
         </div>
     </section>
-	    <div class="container medium">
-	      <form method="post" action="#">
-		<div class="row gtr-50">
-		  <div class="col-6 col-12-mobile"><input type="text" placeholder="Name" /></div>
-		  <div class="col-6 col-12-mobile"><input type="text" placeholder="Email" /></div>
-		  <div class="col-12"><textarea name="message" placeholder="Message"></textarea></div>
-		  <div class="col-12">
-		    <ul class="actions special">
-		      <li><input type="submit" class="button" value="Send Message" /></li>
-		      <li><input type="reset" class="button alt" value="Clear Form" /></li>
-		    </ul>
-		  </div>
-		</div>
-	      </form>
-	    </div>
 	  </div>
     ''')
    findex.close()
