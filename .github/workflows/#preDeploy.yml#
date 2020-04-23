@@ -1,0 +1,46 @@
+
+name: preDeploy (checking the website generate before the deploy)
+
+# Controls when the action will run. Triggers the workflow on push or pull request
+# events but only for the master branch
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+    - uses: actions/checkout@v2
+    
+    # Source: https://dev.to/flipp-engineering/linting-only-changed-files-with-github-actions-4ddp
+    - name: Get file changes
+      id: get_file_changes
+      uses: trilom/file-changes-action@v1.2.3
+      with:
+        output: ' '
+
+    - name: echo changed files echo
+      run: |
+        echo Changed files: ${{ steps.get_file_changes.outputs.files }}
+
+    # Runs a single command using the runners shell
+    - name: Concatenate & Generate
+      run: |
+        mkdir tmp
+        git clone 
+        cp -R website-source/* tmp
+        scripts/concatenateJSON.sh
+        python3 scripts/fetchData.py tmp/consolidated.json
+        python3 scripts/generatePagesFromConsolidatedJSON.py tmp/consolidated.json
+        cd tmp
+        ./concat.sh core.html
+        
