@@ -421,7 +421,7 @@ def dumpTableHeader(findex):
 
 def dumpTableFooter(findex,topicsGlobal):
   findex.write('</tbody></table>')
-  findex.write("""<script type="text/javascript" src="assets/js/updateViz.js"></script>""")
+  findex.write("""<script type="text/javascript" src="assets/js/browse-updateViz.js"></script>""")
   findex.write("""
   <script>
   $(document).ready(function() {
