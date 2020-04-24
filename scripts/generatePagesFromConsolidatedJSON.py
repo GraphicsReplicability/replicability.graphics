@@ -490,6 +490,22 @@ def getAuthors(pathPages,doi,doiclean):
       return data['message']['author']
 
 
+def getAltmetric(pathPages,doiclean):
+ altm=open(pathPages+doiclean+"/Altmetric.json")
+ for line in altm:
+  if line=="Not Found":
+   return [-1,"xx","xx"]
+   
+ line ="[" + line + "]"
+ fout=codecs.open('tmp.json', "w+","UTF-8")
+ fout.write(line)
+ fout.close()
+ tmp=open("tmp.json")
+ altmdata = json.load(tmp)
+ return [altmdata[0]["score"], altmdata[0]["images"]["small"], altmdata[0]["details_url"]]
+ 
+
+  
 def explanationBadges(findex):
     findex.write("""
     <h3 style="text-align:left;">Badges</h3>
@@ -589,7 +605,9 @@ with open(sys.argv[1]) as json_file:
                   hasPseudoCode = '×'
 
               paperBadge = genBadges(variant)
-                  
+
+              altmetric = getAltmetric(pathPages,doiclean)
+              
               if thumbExists(pathPages,doiclean):
                  findex.write('<td><img class="thumb" src="papers/'+doiclean+'/'+doiclean+'-thumb-small.png"></td>')
               else:
@@ -615,6 +633,11 @@ with open(sys.argv[1]) as json_file:
               #GG
               findex.write("<td></td>")
               #altmetric
+              if altmetric[0] != -1:
+                  findex.write('   <td> <a href="'+altmetric[2]+'">'+str(altmetric[0])+'</a></td>')
+              else:
+                  findex.write("<td></td>")
+                  
               findex.write("<td></td>")
               findex.write("</tr>")
               cpt+=1

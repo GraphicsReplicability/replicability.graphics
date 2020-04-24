@@ -28,9 +28,9 @@ jobs:
 
     - name: echo changed files echo
       run: |
-        echo Changed files: ${{ steps.get_file_changes.outputs.files }}
+        echo Changed files: ${{ steps.get_file_changes.outputs.files_added }} ${{ steps.get_file_changes.outputs.files_modified }}
 
     # Runs a single command using the runners shell
     - name: Concatenate & Generate
       run: |
-        scripts/deployWeb.sh
+        scripts/deployWeb.sh ${{ secrets.AltmetricKey }}
