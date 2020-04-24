@@ -1,8 +1,5 @@
 import csv,os,sys, json,re,codecs
-#from pyaltmetric import Altmetric
 import hashlib
-
-# importing shutil module
 import shutil
 
 def genChartHeader(f):
@@ -638,7 +635,6 @@ with open(sys.argv[1]) as json_file:
               else:
                   findex.write("<td></td>")
                   
-              findex.write("<td></td>")
               findex.write("</tr>")
               cpt+=1
 
