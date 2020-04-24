@@ -606,7 +606,7 @@ with open(sys.argv[1]) as json_file:
               altmetric = getAltmetric(pathPages,doiclean)
               
               if thumbExists(pathPages,doiclean):
-                 findex.write('<td><img class="thumb" src="papers/'+doiclean+'/'+doiclean+'-thumb-small.png"></td>')
+                 findex.write('<td style="text-align:center;vertical-align: middle;"><img class="thumb" src="papers/'+doiclean+'/'+doiclean+'-thumb-small.png"></td>')
               else:
                  findex.write('<td></td>')
               findex.write("<td> <a href=papers/"+doiclean+"/index.html>"+variant['Title']+"</a> "+authorstring+"</td>")

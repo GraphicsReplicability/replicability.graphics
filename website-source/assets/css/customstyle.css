@@ -37,6 +37,8 @@ table input{
     /* border-style: solid;*/
     color: lightgray;
     width: 60px;
+    text-align: center;
+    vertical-align: middle;
 }
 
 
