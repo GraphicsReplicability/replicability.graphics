@@ -29,12 +29,12 @@ jobs:
 
     - name: echo changed files echo
       run: |
-        echo Changed files: ${{ steps.get_file_changes.outputs.files }}
+        echo Changed files: ${{ steps.get_file_changes.outputs.files_added }} ${{ steps.get_file_changes.outputs.files_modified }}
 
     # Runs a single command using the runners shell
     - name: Check the JSONs
       run: | 
-        JSON_FILES=$(find ${{ steps.get_file_changes.outputs.files }} -type f -name "*.json" )
+        JSON_FILES=$(find ${{ steps.get_file_changes.outputs.files_added }} ${{ steps.get_file_changes.outputs.files_modified }}  -type f -name "*.json" )
         echo JSON files to be processed: ${JSON_FILES} 
         if [ "${JSON_FILES}" != "" ]; then
            echo Process json files: ${JSON_FILES}
