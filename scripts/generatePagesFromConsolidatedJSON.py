@@ -377,7 +377,7 @@ def generateAllPages(pathPages,paper):
  *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
  /*
  var disqus_config = function () {
- this.page.url = """+"'https://perso.liris.cnrs.fr/david.coeurjolly/TMP/output/"+doiclean+"10.1145-3197517.3201374/index.html'"+""";  // Replace PAGE_URL with your page's canonical URL variable
+ this.page.url = """+"'https://replicability.graphics'"+""";  // Replace PAGE_URL with your page's canonical URL variable
  this.page.identifier = '""" + doiclean+ """'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
  };
  */
