@@ -674,8 +674,8 @@ with open(sys.argv[1]) as json_file:
       It also provides tools to comment on the various codes either as an author or as a user.</p>
 
 
-      <p style="text-align:left">All materials (data, scripts..) that  have been used to generate these results are available on the <a
-      href="https://github.com/GraphicsReplicability/replicability.graphics">replicability.graphics
+      <p style="text-align:left">All materials (data, scripts..) that  have been used to generate these results are available on the  <a
+      href="https://github.com/GraphicsReplicability/replicability.graphics"> <img width="20pt" src="images/github.png"/> replicability.graphics
       GitHub project</a>.</p>
 
 
