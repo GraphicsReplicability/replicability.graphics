@@ -673,6 +673,12 @@ with open(sys.argv[1]) as json_file:
       <p style="text-align:left">This website provides an interactive tool to explore our results and evaluation data.
       It also provides tools to comment on the various codes either as an author or as a user.</p>
 
+
+      <p style="text-align:left">All materials (data, scripts..) that  have been used to generate these results are available on the  <a
+      href="https://github.com/GraphicsReplicability/replicability.graphics"> <img width="20pt" src="images/github.png"/> replicability.graphics
+      GitHub project</a>.</p>
+
+
      <p style="text-align:left"> Our project aims at providing the community with tools to improve Computer Graphics research replicability. Sharing this goal is the <a href="http://ReplicabilityStamp.org">Graphics
      Replicability Stamp Initiative</a> whose objective is to highlight replicable research works in Computer Graphics.</p>
   
@@ -739,13 +745,57 @@ with open(sys.argv[1]) as json_file:
 	  <header>
 	    <div class="container">
 	      <h2>Contribute</h2>
-              <p>There are several ways in which you can contribute and help us improve Computer Graphics research replicability</p>
-              <ul>
+              <p style="text-align:left">There are several ways in which you can contribute and help us improve Computer Graphics research replicability</p>
+              <ul style="text-align:left">
               <li> Add a comment (alternative compilation tricks, details on the code...) via the discussion on each paper page.</li>
-              <li> Add a new code analysis by filling out <a href="template.json">template file</a> and sending it to us by mail</li>
-              <li> Add a new code analysis by creating a Pull Request on github see <a href="">here</a> for more details</li>
+              <li> Add a new variant (replicability test), <i>i.e.</i> edit an existing JSON file (see below). 
+              <li> Add a new entry to the system (new paper), <i>i.e.</i> submit a new JSON file.
               </ul>
-            </div>
+
+                <p style="text-align:left">For the last two cases, you
+                can either submit a proper JSON file as a <a
+                href="https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request">pull-request</a>
+                to this project, or set the JSON file to <a href=mailto:GraphicsReplicability@liris.cnrs.fr">GraphicsReplicability@liris.cnrs.fr</a>.</p>
+
+
+
+                <p style="text-align:left">In our system, the website
+                is fully generated from data available on JSON
+                documents. You can browse the database on the <a
+                href="https://github.com/GraphicsReplicability/replicability.graphics/tree/master/data">github
+                project page</a>. Each paper is a single JSON file, named by the paper DOI, 
+                with multiple "variant" records. Each variant is a
+                build test on a specific system, environment or
+                reviewer. For example, an article wit DOI <b>10.1145/2601097.2601102</b> has a <b>10.1145-2601097.2601102.json</b> file which looks like </p>
+                <pre class="prejson">
+
+                [
+                  {
+                    ....
+                    ... data for variant A ...
+                    ...
+                  },
+                  {
+                    ....
+                    ... data for variant B ...
+                    ...
+                  },
+                  ....
+                ]
+                </pre>
+                
+                <p style="text-align:left">We highly recommend having a look to our <a
+                href="https://github.com/dcoeurjo/ReplData-private/blob/master/template.json">template
+                JSON</a> with all the explanations about the fields we
+                are using.</p>
+
+                <p style="text-align:left">If you have any question,
+                feature requests or found any bug, do not hesitate to
+                report an <a
+                href="https://github.com/GraphicsReplicability/replicability.graphics/issues/new/choose">Issue</a>.
+                </p>
+
+                </div>
            </header>
         </section>
 
@@ -758,7 +808,7 @@ with open(sys.argv[1]) as json_file:
                 </div>
 	  <div class="content style4 featured">
 	    <div class="container medium">
-	      <form method="post" action="#">
+	      <form method="post" action="mailto:GraphicsReplicability@liris.cnrs.fr">
 		<div class="row gtr-50">
 		  <div class="col-6 col-12-mobile"><input type="text" placeholder="Name" /></div>
 		  <div class="col-6 col-12-mobile"><input type="text" placeholder="Email" /></div>
