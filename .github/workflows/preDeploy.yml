@@ -33,4 +33,4 @@ jobs:
     # Runs a single command using the runners shell
     - name: Concatenate & Generate
       run: |
-        scripts/deployWeb.sh
+        scripts/deployWeb.sh ${{ secrets.AltmetricKey }}
