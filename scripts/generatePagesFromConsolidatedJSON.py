@@ -488,19 +488,21 @@ def getAuthors(pathPages,doi,doiclean):
 
 
 def getAltmetric(pathPages,doiclean):
- altm=open(pathPages+doiclean+"/Altmetric.json")
- for line in altm:
-  if line=="Not Found":
-   return [-1,"xx","xx"]
-   
- line ="[" + line + "]"
- fout=codecs.open('tmp.json', "w+","UTF-8")
- fout.write(line)
- fout.close()
- tmp=open("tmp.json")
- altmdata = json.load(tmp)
- return [altmdata[0]["score"], altmdata[0]["images"]["small"], altmdata[0]["details_url"]]
- 
+ filename=pathPages+doiclean+"/Altmetric.json"
+ if os.path.isfile(filename):
+  altm=open(filename)   
+  for line in altm:
+    if line=="Not Found":
+      return [-1,"xx","xx"]
+      
+    line ="[" + line + "]"
+    fout=codecs.open('tmp.json', "w+","UTF-8")
+    fout.write(line)
+    fout.close()
+    tmp=open("tmp.json")
+    altmdata = json.load(tmp)
+    return [altmdata[0]["score"], altmdata[0]["images"]["small"], altmdata[0]["details_url"]]
+ return [-1,"xx","xx"]
 
   
 def explanationBadges(findex):
