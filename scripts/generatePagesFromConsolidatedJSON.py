@@ -707,6 +707,15 @@ with open(sys.argv[1]) as json_file:
       <p style="text-align:left">You can contribute new code analysis for computer graphics
       papers. We're looking forward to your <a href="#contribute" class="scrolly">contributions</a>. You can also <a href="#contact" class="scrolly">contact us</a>.</p>
 
+    <div class="row">
+        <div class="column2 chart-container">
+            <canvas height="150" id="myChartTopics" class="chartjs-render-monitor"></canvas>
+        </div>
+        <div class="column2 chart-container">
+            <canvas height="150" id="myChartPdf" class="chartjs-render-monitor"></canvas>
+        </div>
+    </div>
+
 
 	</div>
       </header>
