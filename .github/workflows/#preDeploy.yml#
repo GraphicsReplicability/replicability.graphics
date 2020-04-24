@@ -4,8 +4,6 @@ name: preDeploy (checking the website generate before the deploy)
 # Controls when the action will run. Triggers the workflow on push or pull request
 # events but only for the master branch
 on:
-  push:
-    branches: [ master ]
   pull_request:
     branches: [ master ]
 
@@ -35,12 +33,4 @@ jobs:
     # Runs a single command using the runners shell
     - name: Concatenate & Generate
       run: |
-        mkdir tmp
-        git clone 
-        cp -R website-source/* tmp
-        scripts/concatenateJSON.sh
-        python3 scripts/fetchData.py tmp/consolidated.json
-        python3 scripts/generatePagesFromConsolidatedJSON.py tmp/consolidated.json
-        cd tmp
-        ./concat.sh core.html
-        
+        scripts/deployWeb.sh ${{ secrets.AltmetricKey }}

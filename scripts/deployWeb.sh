@@ -1,6 +1,7 @@
 #!/bin/bash
 set -e
 
+## $1 is the Altmetric API key
 
 echo "========= Init =========="
 sudo apt-get install -y graphicsmagick
@@ -24,7 +25,7 @@ echo "========= Concatenate the JSON =========="
 scripts/concatenateJSON.sh
 
 echo "========= Fetching the data =========="
-python3 scripts/fetchData.py tmp/consolidated.json
+python3 scripts/fetchData.py tmp/consolidated.json $1
 
 echo "========= Generate pages ================"
 python3 scripts/generatePagesFromConsolidatedJSON.py tmp/consolidated.json

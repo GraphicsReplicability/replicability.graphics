@@ -61,12 +61,21 @@ def getAuthors(pathPages,doi,doiclean):
       json.dump(data, fout,indent=4)
       return data['message']['author']
 
+    
+def getAlmetric(pathPages,doi,doiclean,key):
+ if not(os.path.exists(pathPages+doiclean+"/Altmetric.json")):
+  url ="http://api.altmetric.com/v1/doi/"+doi+"?key="+key
+  cmd= "cd "+pathPages + doiclean+" ; curl '" + url + "' > Altmetric.json"
+  print(cmd)
+  os.system(cmd)
 
 
 with open(sys.argv[1]) as json_file:
    fulldata = json.load(json_file)
    line_count = 0
-  
+
+   altkey = sys.argv[2]
+   
    pathPages='tmp/papers/'
    cmd = "mkdir  tmp/papers"
    os.system(cmd)
@@ -91,6 +100,10 @@ with open(sys.argv[1]) as json_file:
             
           if not(authorsExists(pathPages,doiclean)):
            authors = getAuthors(pathPages,doi,doiclean)
+
+          
+          getAlmetric(pathPages,doi,doiclean, altkey)
+          
       cpt+=1
       
    print("Number of entries = "+str(cpt))
