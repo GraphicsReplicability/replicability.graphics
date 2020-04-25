@@ -15,7 +15,7 @@ echo "========= Downloading the data =========="
 if [ -e allData.tgz ]; then
   rm allData.tgz
 fi
-aria2c  -l "" https://dcoeurjo.github.io/ReplData-private/allData.tgz
+aria2c  -l "" https://replicability.graphics/allData.tgz
 cd tmp
 tar zxf ../allData.tgz
 cd ..
