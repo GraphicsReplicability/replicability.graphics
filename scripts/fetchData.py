@@ -74,8 +74,12 @@ with open(sys.argv[1]) as json_file:
    fulldata = json.load(json_file)
    line_count = 0
 
-   altkey = sys.argv[2]
-   
+   if len(sys.argv) == 3:
+     altkey = sys.argv[2]
+   else:
+     print("No AltKey given")
+     altKey=""
+     
    pathPages='tmp/papers/'
    cmd = "mkdir  tmp/papers"
    os.system(cmd)
@@ -102,7 +106,8 @@ with open(sys.argv[1]) as json_file:
            authors = getAuthors(pathPages,doi,doiclean)
 
           
-          getAlmetric(pathPages,doi,doiclean, altkey)
+          if altKey != "":
+            getAlmetric(pathPages,doi,doiclean, altkey)
           
       cpt+=1
       
