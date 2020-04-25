@@ -354,7 +354,7 @@ def generateAllPages(pathPages,paper):
 
  f.write('''<div id=review-%s>
             There are two options to add a review to this article:
-            <ul><li>Open a pull request at https://github.com/dcoeurjo/ReplData-private</li><li>Fill the form below (this option requires manual work and might be avoided if possible): <br>TODO: ADD FORM</li></ul>
+            <ul><li>Open a pull request at <a href="https://github.com/GraphicsReplicability/replicability.graphics">https://github.com/GraphicsReplicability/replicability.graphics</a></li><li>Fill the form below (this option requires manual work and might be avoided if possible): <br>TODO: ADD FORM</li></ul>
             </div>
             '''% (len(paper)+1));
 
@@ -675,8 +675,8 @@ with open(sys.argv[1]) as json_file:
 	  <p style="text-align:left"> Being able to duplicate published research results is an
         important process of conducting research whether to build upon
         these findings or to compare with them.  This process is
-        called ``replicability'' when using the original authors'
-        artifacts (e.g., code), or ``reproducibility'' otherwise
+        called &ldquo;replicability&rdquo; when using the original authors'
+        artifacts (e.g., code), or &ldquo;reproducibility&rdquo; otherwise
         (e.g., re-implementing algorithms).  Reproducibility and
         replicability of research results have gained a lot of
         interest recently with assessment studies being led in various
@@ -775,8 +775,8 @@ with open(sys.argv[1]) as json_file:
 
                 <p style="text-align:left">For the last two cases, you
                 can either submit a proper JSON file as a <a
-                href="https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request">pull-request</a>
-                to this project, or set the JSON file to <a href=mailto:GraphicsReplicability@liris.cnrs.fr">GraphicsReplicability@liris.cnrs.fr</a>.</p>
+                href="https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request">pull request</a>
+                to this <a href="https://github.com/GraphicsReplicability/replicability.graphics">project</a>, or set the JSON file to <a href=mailto:GraphicsReplicability@liris.cnrs.fr">GraphicsReplicability@liris.cnrs.fr</a>.</p>
 
 
 
@@ -787,7 +787,7 @@ with open(sys.argv[1]) as json_file:
                 project page</a>. Each paper is a single JSON file, named by the paper DOI, 
                 with multiple "variant" records. Each variant is a
                 build test on a specific system, environment or
-                reviewer. For example, an article wit DOI <b>10.1145/2601097.2601102</b> has a <b>10.1145-2601097.2601102.json</b> file which looks like </p>
+                reviewer. For example, an article with DOI <b>10.1145/2601097.2601102</b> has a <b>10.1145-2601097.2601102.json</b> file which looks like </p>
                 <pre class="prejson">
 
                 [
@@ -806,7 +806,7 @@ with open(sys.argv[1]) as json_file:
                 </pre>
                 
                 <p style="text-align:left">We highly recommend having a look to our <a
-                href="https://github.com/dcoeurjo/ReplData-private/blob/master/template.json">template
+                href="https://github.com/GraphicsReplicability/replicability.graphics/blob/master/template.json">template
                 JSON</a> with all the explanations about the fields we
                 are using.</p>
 
