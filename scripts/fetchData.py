@@ -74,11 +74,11 @@ with open(sys.argv[1]) as json_file:
    fulldata = json.load(json_file)
    line_count = 0
 
+   altKey=""
    if len(sys.argv) == 3:
      altkey = sys.argv[2]
    else:
      print("No AltKey given")
-     altKey=""
      
    pathPages='tmp/papers/'
    cmd = "mkdir  tmp/papers"
