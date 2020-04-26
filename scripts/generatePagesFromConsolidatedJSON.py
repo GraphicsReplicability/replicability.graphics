@@ -367,6 +367,7 @@ def generateAllPages(pathPages,paper):
  path = "siggraph-"+str(variant['Year'])+'/'
  f.write('</code></pre>')
  f.write("</body>")
+ f.write("<div style=\"height:30px;display:block;\"></div>")
  f.write("""<div id="disqus_thread"></div>
  <script>
  /**
@@ -533,13 +534,13 @@ with open(sys.argv[1]) as json_file:
 
    findex.write('''
       <footer>
-       <a href="index.html#first" class="button">The Project</a>
-       <a href="#first" class="button scrolly">The Data</a>
-       <a href="index.html#third" class="button">Contribute</a>
+       <a href="index.html#project" class="button">The Project</a>
+       <a href="#data" class="button scrolly">The Data</a>
+       <a href="index.html#contribute" class="button">Contribute</a>
 	    </footer>
     </section>
     <!-- First -->
-    <section id="first" class="main">
+    <section id="data" class="main">
       <header>
         <div class="container">
             <h2>The Data</h2>
@@ -662,13 +663,13 @@ with open(sys.argv[1]) as json_file:
 
    findex.write('''
       <footer>
-	<a href="#first" class="button scrolly">The Project</a>
-	<a href="browse.html#first" class="button">The Data</a>
-	<a href="#third" class="button scrolly">Contribute</a>
+	<a href="#project" class="button scrolly">The Project</a>
+	<a href="browse.html#data" class="button">The Data</a>
+	<a href="#contribute" class="button scrolly">Contribute</a>
       </footer>
     </section>
     <!-- First -->
-    <section id="first" class="main">
+    <section id="project" class="main">
       <header>
 	<div class="container">
 	  <h2>The Project</h2>
@@ -704,7 +705,7 @@ with open(sys.argv[1]) as json_file:
      Replicability Stamp Initiative</a> whose objective is to highlight replicable research works in Computer Graphics.</p>
   
       <p style="text-align:left">You can contribute new code analysis for computer graphics
-      papers. We're looking forward to your <a href="#third" class="scrolly">contributions</a>. You can also <a href="#fourth" class="scrolly">contact us</a>.</p>
+      papers. We're looking forward to your <a href="#contribute" class="scrolly">contributions</a>. You can also <a href="#contact" class="scrolly">contact us</a>.</p>
 
 
 	</div>
@@ -717,7 +718,7 @@ with open(sys.argv[1]) as json_file:
 		<span class="feature-icon"><span class="icon 
 		solid fa-book-open"></span></span>
 		<header>
-		  <h3><a href="browse.html#first">Explore</a></h3>
+		  <h3><a href="browse.html#data">Explore</a></h3>
 		</header>
 		<p>Explore the data and our replicability scores</p>
 	      </section>
@@ -726,7 +727,7 @@ with open(sys.argv[1]) as json_file:
 	      <section>
 		<span class="feature-icon"><span class="icon solid fa-microscope"></span></span>
 		<header>
-		  <h3><a href="#second" class="scrolly">Analyze</a></h3>
+		  <h3><a href="#publication" class="scrolly">Analyze</a></h3>
 		</header>
 		<p>Read our Siggraph 2020 paper on '''+ str(cpt) +''' analyzed Siggraph papers.</p>
 	      </section>
@@ -735,14 +736,14 @@ with open(sys.argv[1]) as json_file:
 	      <section>
 		<span class="feature-icon"><span class="icon solid fa-comments"></span></span>
 		<header>
-		  <h3><a href="#third" class="scrolly" >Contribute</a></h3>
+		  <h3><a href="#contribute" class="scrolly">Contribute</a></h3>
 		</header>
 		<p>Add comments or new analysis for Computer Graphics papers.</p>
 	      </section>
 	    </div>
 	    <div class="col-12">
 	      <footer>
-		<a href="#second" class="button scrolly">''' + str(cptVariants) + ''' reviews so far</a>
+		<a href="#publication" class="button scrolly">''' + str(cptVariants) + ''' reviews so far</a>
 	      </footer>
 	    </div>
 	  </div>
@@ -751,7 +752,7 @@ with open(sys.argv[1]) as json_file:
     </section>
 
 
-    <section id="second" class="main">
+    <section id="publication" class="main">
         <div class="content dark style2">
             <div class="container">
                 <div class="col-4 col-12-narrow">
@@ -762,7 +763,7 @@ with open(sys.argv[1]) as json_file:
         </div>
     </section>
 
-   	<section id="third" class="main">
+   	<section id="contribute" class="main">
 	  <header>
 	    <div class="container">
 	      <h2>Contribute</h2>
@@ -820,7 +821,7 @@ with open(sys.argv[1]) as json_file:
            </header>
         </section>
 
-    <section id="fourth" class="main">
+    <section id="contact" class="main">
         <div class="content dark style2">
             <div class="container">
                 <div class="col-4 col-12-narrow">
