@@ -162,36 +162,36 @@ def genBadges(row):
   if hasCode:
     if testRun:
      if row['Replicate paper results score {0=NA, 1,2,3,4,5}'] >=4:
-      attribute = '<i class="fas fa-circle graphcol0" style="font-size:150%;color:#0868ac;"></i>'
+      attribute = '<i class="fas fa-circle graphcol0" style="font-size:150%;color:#0868ac;" title="code available and we were able to reproduce most results (score >= 4)"></i>'
       signature[0] += 1
      else:
       if row['Replicate paper results score {0=NA, 1,2,3,4,5}'] > 1:
-       attribute = '<i class="fas fa-circle graphcol1" style="font-size:150%;color:#43a2ca;"></i>'
+       attribute = '<i class="fas fa-circle graphcol1" style="font-size:150%;color:#43a2ca;" title="code available and we were able to reproduce some results"></i>'
        signature[1] += 1
       else:
-       attribute = '<i class="fas fa-circle graphcol2" style="font-size:150%;color:#7bccc4;"></i>'
+       attribute = '<i class="fas fa-circle graphcol2" style="font-size:150%;color:#7bccc4;" title="code available but we weren\'t able to reproduce any results (technical issue, device specific, repl. score <= 1)"></i>'
        signature[2] += 1
 
   else:
     if hasPseudoCode:
       if scorePseudocode>=4:
-        attribute = '<i class="fas fa-circle graphcol3"  style="font-size:150%;color:#bae4bc;"></i>'
+        attribute = '<i class="fas fa-circle graphcol3"  style="font-size:150%;color:#bae4bc;" title="only pseudo-code available in the paper with simple implementation (score >=4)"></i>'
         signature[3] += 1
 
       else:
-        attribute = '<i class="fas fa-circle graphcol4"  style="font-size:150%;color:#f0f9e8;"></i>'
+        attribute = '<i class="fas fa-circle graphcol4"  style="font-size:150%;color:#f0f9e8;" title="only pseudo-code available in the paper"></i>'
         signature[4] += 1
 
    ##PDF not available
   if hasOpenAccessPDF:
-       attribute += ' <i class="fas fa-square graphcol5"  style="font-size:150%;color:#1b9e77;"></i>'
+       attribute += ' <i class="fas fa-square graphcol5"  style="font-size:150%;color:#1b9e77;" title="PDF available as an ACM Open Access document"></i>'
        signature[5] += 1
 
   if row["PDF on the authors' webpage / institution (boolean)"]==False and row['PDF on Arxiv or any openarchive initiatives (boolean)']==False:
-     attribute += ' <i class="fas fa-square graphcol7"  style="font-size:150%;color:#d95f02;"></i>'
+     attribute += ' <i class="fas fa-square graphcol7"  style="font-size:150%;color:#d95f02;" title="PDF only available on the Digital Library (not Open Access)"></i>'
      signature[7] += 1
   else:
-     attribute += ' <i class="fas fa-square graphcol6"  style="font-size:150%;color:#7570b3;"></i>'
+     attribute += ' <i class="fas fa-square graphcol6"  style="font-size:150%;color:#7570b3;" title="Preprint PDF available (author web page, project page, institution page, arxiv...)"></i>'
      signature[6] += 1
 
   return [attribute,signature]
@@ -354,7 +354,7 @@ def generateAllPages(pathPages,paper):
 
  f.write('''<div id=review-%s>
             There are two options to add a review to this article:
-            <ul><li>Open a pull request at https://github.com/dcoeurjo/ReplData-private</li><li>Fill the form below (this option requires manual work and might be avoided if possible): <br>TODO: ADD FORM</li></ul>
+            <ul><li>Open a pull request at <a href="https://github.com/GraphicsReplicability/replicability.graphics">https://github.com/GraphicsReplicability/replicability.graphics</a></li><li>Fill the form below (this option requires manual work and might be avoided if possible): <br>TODO: ADD FORM</li></ul>
             </div>
             '''% (len(paper)+1));
 
@@ -510,15 +510,15 @@ def explanationBadges(findex):
     findex.write("""
     <h3 style="text-align:left;">Badges</h3>
     <ul class="publist-inline2" style="font-size:60%">
-    <li> <i class="fas fa-circle" alt=" (C1) code available and we were able to reproduce most results (score >= 4)" style="font-size:150%;color:#0868ac;"></i> <b>(C1)</b> code available and we were able to reproduce most results (score >= 4)
-    <li> <i class="fas fa-circle" style="font-size:150%;color:#43a2ca;" alt="code available and we were able to reproduce some results"></i> <b>(C2)</b> code available and we were able to reproduce some results (score > 1)
-     <li> <i class="fas fa-circle" style="font-size:150%;color:#7bccc4;" alt="code available but we weren't able to reproduce any results (technical issue, device specific, repl. score <= 1)"></i> <b>(C3)</b> code available but we weren't able to reproduce any results (technical issue, device specific, score <= 1)
-    <li> <i class="fas fa-circle" style="font-size:150%;color:#bae4bc;" alt="only pseudo-code available in the paper with simple implementation (score >=4)"></i> <b>(PC1)</b> only pseudo-code available in the paper with simple implementation (score >=4)
-    <li> <i class="fas fa-circle" style="font-size:150%;color:#f0f9e8;" alt="only pseudo-code available in the paper"></i> <b>(PC2)</b> only pseudo-code available in the paper
-    <li> <i class="fas fa-square" style="font-size:150%;color:#1b9e77;" alt="PDF available as an ACM Open Access document"></i> PDF available as an ACM Open Access document
-    <li> <i class="fas fa-square" style="font-size:150%;color:#7570b3;" alt="Preprint PDF available (author web page, project page, institution page, arxiv...)"></i> Preprint PDF available (author web page, project page, institution page, arxiv...)
-    <li> <i class="fas fa-square" style="font-size:150%;color:#d95f02;" alt="PDF only available on the Digital Library (not Open Access)"></i> PDF only available on the Digital Library (not Open Access)
-      </ul>
+    <li> <i class="fas fa-circle" style="font-size:150%;color:#0868ac;" title="code available and we were able to reproduce most results (score >= 4)"></i> <b>(C1)</b> code available and we were able to reproduce most results (score >= 4)
+    <li> <i class="fas fa-circle" style="font-size:150%;color:#43a2ca;" title="code available and we were able to reproduce some results"></i> <b>(C2)</b> code available and we were able to reproduce some results (score > 1)
+    <li> <i class="fas fa-circle" style="font-size:150%;color:#7bccc4;" title="code available but we weren't able to reproduce any results (technical issue, device specific, repl. score <= 1)"></i> <b>(C3)</b> code available but we weren't able to reproduce any results (technical issue, device specific, score <= 1)
+    <li> <i class="fas fa-circle" style="font-size:150%;color:#bae4bc;" title="only pseudo-code available in the paper with simple implementation (score >=4)"></i> <b>(PC1)</b> only pseudo-code available in the paper with simple implementation (score >=4)
+    <li> <i class="fas fa-circle" style="font-size:150%;color:#f0f9e8;" title="only pseudo-code available in the paper"></i> <b>(PC2)</b> only pseudo-code available in the paper
+    <li> <i class="fas fa-square" style="font-size:150%;color:#1b9e77;" title="PDF available as an ACM Open Access document"></i> PDF available as an ACM Open Access document
+    <li> <i class="fas fa-square" style="font-size:150%;color:#7570b3;" title="Preprint PDF available (author web page, project page, institution page, arxiv...)"></i> Preprint PDF available (author web page, project page, institution page, arxiv...)
+    <li> <i class="fas fa-square" style="font-size:150%;color:#d95f02;" title="PDF only available on the Digital Library (not Open Access)"></i> PDF only available on the Digital Library (not Open Access)
+    </ul>
     <hr />
     """)
     
@@ -676,8 +676,8 @@ with open(sys.argv[1]) as json_file:
 	  <p style="text-align:left"> Being able to duplicate published research results is an
         important process of conducting research whether to build upon
         these findings or to compare with them.  This process is
-        called ``replicability'' when using the original authors'
-        artifacts (e.g., code), or ``reproducibility'' otherwise
+        called &ldquo;replicability&rdquo; when using the original authors'
+        artifacts (e.g., code), or &ldquo;reproducibility&rdquo; otherwise
         (e.g., re-implementing algorithms).  Reproducibility and
         replicability of research results have gained a lot of
         interest recently with assessment studies being led in various
@@ -776,8 +776,8 @@ with open(sys.argv[1]) as json_file:
 
                 <p style="text-align:left">For the last two cases, you
                 can either submit a proper JSON file as a <a
-                href="https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request">pull-request</a>
-                to this project, or set the JSON file to <a href=mailto:GraphicsReplicability@liris.cnrs.fr">GraphicsReplicability@liris.cnrs.fr</a>.</p>
+                href="https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request">pull request</a>
+                to this <a href="https://github.com/GraphicsReplicability/replicability.graphics">project</a>, or set the JSON file to <a href=mailto:GraphicsReplicability@liris.cnrs.fr">GraphicsReplicability@liris.cnrs.fr</a>.</p>
 
 
 
@@ -788,7 +788,7 @@ with open(sys.argv[1]) as json_file:
                 project page</a>. Each paper is a single JSON file, named by the paper DOI, 
                 with multiple "variant" records. Each variant is a
                 build test on a specific system, environment or
-                reviewer. For example, an article wit DOI <b>10.1145/2601097.2601102</b> has a <b>10.1145-2601097.2601102.json</b> file which looks like </p>
+                reviewer. For example, an article with DOI <b>10.1145/2601097.2601102</b> has a <b>10.1145-2601097.2601102.json</b> file which looks like </p>
                 <pre class="prejson">
 
                 [
@@ -807,7 +807,7 @@ with open(sys.argv[1]) as json_file:
                 </pre>
                 
                 <p style="text-align:left">We highly recommend having a look to our <a
-                href="https://github.com/dcoeurjo/ReplData-private/blob/master/template.json">template
+                href="https://github.com/GraphicsReplicability/replicability.graphics/blob/master/template.json">template
                 JSON</a> with all the explanations about the fields we
                 are using.</p>
 

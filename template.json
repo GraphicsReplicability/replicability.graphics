@@ -9,7 +9,7 @@
 
         "##": "Reviewer name and email",
         "##": "E.g. 'John Doe <john.doe@world.org>'",
-        "##": "Note: we will detect and add a link to your github account if you use the same email address here."
+        "##": "Note: we will detect and add a link to your github account if you use the same email address here.",
         "Reviewer name": " ",
 
         "##": "For a given paper, there is one specific variant (the master one)",
