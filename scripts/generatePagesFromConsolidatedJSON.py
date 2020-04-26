@@ -696,7 +696,7 @@ with open(sys.argv[1]) as json_file:
          
       <p style="text-align:left">This website provides an interactive tool to explore our results and evaluation data.
       It also provides tools to comment on the various codes either as an author or as a user. All materials (data, scripts..) that  have been used to generate these results are available on the  <a
-      href="https://github.com/GraphicsReplicability/replicability.graphics"> <img width="20pt" src="images/github.png"/> replicability.graphics
+      href="https://github.com/GraphicsReplicability/replicability.graphics"> <img width="20pt" src="images/github.png"/>&nbsp;replicability.graphics
       GitHub project</a>.</p>
 
 
@@ -742,7 +742,7 @@ with open(sys.argv[1]) as json_file:
 	    </div>
 	    <div class="col-12">
 	      <footer>
-		<a href="#publication" class="button scrolly">''' + str(cptVariants) + ''' reviews so far</a>
+		<a href="browse.html#data" class="button scrolly">''' + str(cptVariants) + ''' reviews so far</a>
 	      </footer>
 	    </div>
 	  </div>
