@@ -162,36 +162,36 @@ def genBadges(row):
   if hasCode:
     if testRun:
      if row['Replicate paper results score {0=NA, 1,2,3,4,5}'] >=4:
-      attribute = '<i class="fas fa-circle graphcol0" style="font-size:150%;color:#0868ac;"></i>'
+      attribute = '<i class="fas fa-circle graphcol0" style="font-size:150%;color:#0868ac;" title="code available and we were able to reproduce most results (score >= 4)"></i>'
       signature[0] += 1
      else:
       if row['Replicate paper results score {0=NA, 1,2,3,4,5}'] > 1:
-       attribute = '<i class="fas fa-circle graphcol1" style="font-size:150%;color:#43a2ca;"></i>'
+       attribute = '<i class="fas fa-circle graphcol1" style="font-size:150%;color:#43a2ca;" title="code available and we were able to reproduce some results"></i>'
        signature[1] += 1
       else:
-       attribute = '<i class="fas fa-circle graphcol2" style="font-size:150%;color:#7bccc4;"></i>'
+       attribute = '<i class="fas fa-circle graphcol2" style="font-size:150%;color:#7bccc4;" title="code available but we weren\'t able to reproduce any results (technical issue, device specific, repl. score <= 1)"></i>'
        signature[2] += 1
 
   else:
     if hasPseudoCode:
       if scorePseudocode>=4:
-        attribute = '<i class="fas fa-circle graphcol3"  style="font-size:150%;color:#bae4bc;"></i>'
+        attribute = '<i class="fas fa-circle graphcol3"  style="font-size:150%;color:#bae4bc;" title="only pseudo-code available in the paper with simple implementation (score >=4)"></i>'
         signature[3] += 1
 
       else:
-        attribute = '<i class="fas fa-circle graphcol4"  style="font-size:150%;color:#f0f9e8;"></i>'
+        attribute = '<i class="fas fa-circle graphcol4"  style="font-size:150%;color:#f0f9e8;" title="only pseudo-code available in the paper"></i>'
         signature[4] += 1
 
    ##PDF not available
   if hasOpenAccessPDF:
-       attribute += ' <i class="fas fa-square graphcol5"  style="font-size:150%;color:#1b9e77;"></i>'
+       attribute += ' <i class="fas fa-square graphcol5"  style="font-size:150%;color:#1b9e77;" title="PDF available as an ACM Open Access document"></i>'
        signature[5] += 1
 
   if row["PDF on the authors' webpage / institution (boolean)"]==False and row['PDF on Arxiv or any openarchive initiatives (boolean)']==False:
-     attribute += ' <i class="fas fa-square graphcol7"  style="font-size:150%;color:#d95f02;"></i>'
+     attribute += ' <i class="fas fa-square graphcol7"  style="font-size:150%;color:#d95f02;" title="PDF only available on the Digital Library (not Open Access)"></i>'
      signature[7] += 1
   else:
-     attribute += ' <i class="fas fa-square graphcol6"  style="font-size:150%;color:#7570b3;"></i>'
+     attribute += ' <i class="fas fa-square graphcol6"  style="font-size:150%;color:#7570b3;" title="Preprint PDF available (author web page, project page, institution page, arxiv...)"></i>'
      signature[6] += 1
 
   return [attribute,signature]
@@ -509,15 +509,15 @@ def explanationBadges(findex):
     findex.write("""
     <h3 style="text-align:left;">Badges</h3>
     <ul class="publist-inline2" style="font-size:60%">
-    <li> <i class="fas fa-circle" alt=" (C1) code available and we were able to reproduce most results (score >= 4)" style="font-size:150%;color:#0868ac;"></i> <b>(C1)</b> code available and we were able to reproduce most results (score >= 4)
-    <li> <i class="fas fa-circle" style="font-size:150%;color:#43a2ca;" alt="code available and we were able to reproduce some results"></i> <b>(C2)</b> code available and we were able to reproduce some results (score > 1)
-     <li> <i class="fas fa-circle" style="font-size:150%;color:#7bccc4;" alt="code available but we weren't able to reproduce any results (technical issue, device specific, repl. score <= 1)"></i> <b>(C3)</b> code available but we weren't able to reproduce any results (technical issue, device specific, score <= 1)
-    <li> <i class="fas fa-circle" style="font-size:150%;color:#bae4bc;" alt="only pseudo-code available in the paper with simple implementation (score >=4)"></i> <b>(PC1)</b> only pseudo-code available in the paper with simple implementation (score >=4)
-    <li> <i class="fas fa-circle" style="font-size:150%;color:#f0f9e8;" alt="only pseudo-code available in the paper"></i> <b>(PC2)</b> only pseudo-code available in the paper
-    <li> <i class="fas fa-square" style="font-size:150%;color:#1b9e77;" alt="PDF available as an ACM Open Access document"></i> PDF available as an ACM Open Access document
-    <li> <i class="fas fa-square" style="font-size:150%;color:#7570b3;" alt="Preprint PDF available (author web page, project page, institution page, arxiv...)"></i> Preprint PDF available (author web page, project page, institution page, arxiv...)
-    <li> <i class="fas fa-square" style="font-size:150%;color:#d95f02;" alt="PDF only available on the Digital Library (not Open Access)"></i> PDF only available on the Digital Library (not Open Access)
-      </ul>
+    <li> <i class="fas fa-circle" style="font-size:150%;color:#0868ac;" title="code available and we were able to reproduce most results (score >= 4)"></i> <b>(C1)</b> code available and we were able to reproduce most results (score >= 4)
+    <li> <i class="fas fa-circle" style="font-size:150%;color:#43a2ca;" title="code available and we were able to reproduce some results"></i> <b>(C2)</b> code available and we were able to reproduce some results (score > 1)
+    <li> <i class="fas fa-circle" style="font-size:150%;color:#7bccc4;" title="code available but we weren't able to reproduce any results (technical issue, device specific, repl. score <= 1)"></i> <b>(C3)</b> code available but we weren't able to reproduce any results (technical issue, device specific, score <= 1)
+    <li> <i class="fas fa-circle" style="font-size:150%;color:#bae4bc;" title="only pseudo-code available in the paper with simple implementation (score >=4)"></i> <b>(PC1)</b> only pseudo-code available in the paper with simple implementation (score >=4)
+    <li> <i class="fas fa-circle" style="font-size:150%;color:#f0f9e8;" title="only pseudo-code available in the paper"></i> <b>(PC2)</b> only pseudo-code available in the paper
+    <li> <i class="fas fa-square" style="font-size:150%;color:#1b9e77;" title="PDF available as an ACM Open Access document"></i> PDF available as an ACM Open Access document
+    <li> <i class="fas fa-square" style="font-size:150%;color:#7570b3;" title="Preprint PDF available (author web page, project page, institution page, arxiv...)"></i> Preprint PDF available (author web page, project page, institution page, arxiv...)
+    <li> <i class="fas fa-square" style="font-size:150%;color:#d95f02;" title="PDF only available on the Digital Library (not Open Access)"></i> PDF only available on the Digital Library (not Open Access)
+    </ul>
     <hr />
     """)
     
