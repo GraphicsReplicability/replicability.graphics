@@ -726,9 +726,9 @@ with open(sys.argv[1]) as json_file:
 	      <section>
 		<span class="feature-icon"><span class="icon solid fa-microscope"></span></span>
 		<header>
-		  <h3><a href="#publication" class="scrolly">Analyze</a></h3>
+		  <h3><a href="#team" class="scrolly">Analyze</a></h3>
 		</header>
-		<p>Read our Siggraph 2020 paper on '''+ str(cpt) +''' analyzed Siggraph papers.</p>
+		<p>Read our Siggraph 2020 paper on 374 analyzed Siggraph papers.</p>
 	      </section>
 	    </div>
 	    <div class="col-4 col-12-narrow">
