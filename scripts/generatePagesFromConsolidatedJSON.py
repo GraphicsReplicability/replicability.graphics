@@ -536,6 +536,7 @@ with open(sys.argv[1]) as json_file:
       <footer>
        <a href="index.html#project" class="button">The Project</a>
        <a href="#data" class="button scrolly">The Data</a>
+       <a href="index.html#team" class="button">The Team</a>
        <a href="index.html#contribute" class="button">Contribute</a>
 	    </footer>
     </section>
@@ -665,8 +666,9 @@ with open(sys.argv[1]) as json_file:
       <footer>
 	<a href="#project" class="button scrolly">The Project</a>
 	<a href="browse.html#data" class="button">The Data</a>
+        <a href="index.html#team" class="button">The Team</a>
 	<a href="#contribute" class="button scrolly">Contribute</a>
-      </footer>
+     </footer>
     </section>
     <!-- First -->
     <section id="project" class="main">
@@ -693,11 +695,8 @@ with open(sys.argv[1]) as json_file:
         replicability and citation count.</p>
          
       <p style="text-align:left">This website provides an interactive tool to explore our results and evaluation data.
-      It also provides tools to comment on the various codes either as an author or as a user.</p>
-
-
-      <p style="text-align:left">All materials (data, scripts..) that  have been used to generate these results are available on the  <a
-      href="https://github.com/GraphicsReplicability/replicability.graphics"> <img width="20pt" src="images/github.png"/> replicability.graphics
+      It also provides tools to comment on the various codes either as an author or as a user. All materials (data, scripts..) that  have been used to generate these results are available on the  <a
+      href="https://github.com/GraphicsReplicability/replicability.graphics"> <img width="20pt" src="images/github.png"/>&nbsp;replicability.graphics
       GitHub project</a>.</p>
 
 
@@ -727,9 +726,9 @@ with open(sys.argv[1]) as json_file:
 	      <section>
 		<span class="feature-icon"><span class="icon solid fa-microscope"></span></span>
 		<header>
-		  <h3><a href="#publication" class="scrolly">Analyze</a></h3>
+		  <h3><a href="#team" class="scrolly">Analyze</a></h3>
 		</header>
-		<p>Read our Siggraph 2020 paper on '''+ str(cpt) +''' analyzed Siggraph papers.</p>
+		<p>Read our Siggraph 2020 paper on 374 analyzed Siggraph papers.</p>
 	      </section>
 	    </div>
 	    <div class="col-4 col-12-narrow">
@@ -743,7 +742,7 @@ with open(sys.argv[1]) as json_file:
 	    </div>
 	    <div class="col-12">
 	      <footer>
-		<a href="#publication" class="button scrolly">''' + str(cptVariants) + ''' reviews so far</a>
+		<a href="browse.html#data" class="button scrolly">''' + str(cptVariants) + ''' reviews so far</a>
 	      </footer>
 	    </div>
 	  </div>
@@ -752,12 +751,22 @@ with open(sys.argv[1]) as json_file:
     </section>
 
 
-    <section id="publication" class="main">
+    <section id="team" class="main">
         <div class="content dark style2">
             <div class="container">
                 <div class="col-4 col-12-narrow">
-                        <h3>Publication</h3>
-                        <p><a href="">Nicolas Bonneel, David Coeurjolly, Julie Digne, Nicolas Mellado, <i>Code Replicability in Computer Graphics</i>, Siggraph 2020 </a></p>
+                <h3>The Team</h3>
+                <ul style="text-align:left">
+                <li> <a href="https://perso.liris.cnrs.fr/nicolas.bonneel/">Nicolas Bonneel</a> (CNRS, LIRIS, Lyon, France)
+                <li> <a href="https://perso.liris.cnrs.fr/david.coeurjolly/">David Coeurjolly</a> (CNRS, LIRIS, Lyon, France)
+                <li> <a href="https://perso.liris.cnrs.fr/julie.digne/">Julie Digne</a> (CNRS, LIRIS, Lyon, France)
+                <li> <a href="https://www.irit.fr/~Nicolas.Mellado/">Nicolas Mellado</a> (CNRS, IRIT, Toulouse, France)
+                </ul>
+
+                        <p>Main reference paper: <a href="">Nicolas Bonneel, David Coeurjolly, Julie Digne, Nicolas Mellado, <i>Code Replicability in Computer Graphics</i>, Siggraph 2020 </a></p>
+
+                <img height="100px" src="images/logo_cnrs.png"/>   &nbsp;&nbsp;&nbsp;  <img height="100px" src="images/logo_liris.png"/> &nbsp;&nbsp;&nbsp; <img height="100px"  src="images/logo_irit.png"/>
+
                 </div>
             </div>
         </div>
@@ -777,7 +786,7 @@ with open(sys.argv[1]) as json_file:
                 <p style="text-align:left">For the last two cases, you
                 can either submit a proper JSON file as a <a
                 href="https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request">pull request</a>
-                to this <a href="https://github.com/GraphicsReplicability/replicability.graphics">project</a>, or set the JSON file to <a href=mailto:GraphicsReplicability@liris.cnrs.fr">GraphicsReplicability@liris.cnrs.fr</a>.</p>
+                to this <a href="https://github.com/GraphicsReplicability/replicability.graphics"><img width="20pt" src="images/github.png"/> project</a>, or send the JSON file to <a href=mailto:GraphicsReplicability@liris.cnrs.fr">GraphicsReplicability@liris.cnrs.fr</a>.</p>
 
 
 
