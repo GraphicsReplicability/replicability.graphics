@@ -786,7 +786,7 @@ with open(sys.argv[1]) as json_file:
                 <p style="text-align:left">For the last two cases, you
                 can either submit a proper JSON file as a <a
                 href="https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request">pull request</a>
-                to this <a href="https://github.com/GraphicsReplicability/replicability.graphics"><img width="20pt" src="images/github.png"/> project</a>, or set the JSON file to <a href=mailto:GraphicsReplicability@liris.cnrs.fr">GraphicsReplicability@liris.cnrs.fr</a>.</p>
+                to this <a href="https://github.com/GraphicsReplicability/replicability.graphics"><img width="20pt" src="images/github.png"/> project</a>, or send the JSON file to <a href=mailto:GraphicsReplicability@liris.cnrs.fr">GraphicsReplicability@liris.cnrs.fr</a>.</p>
 
 
 
