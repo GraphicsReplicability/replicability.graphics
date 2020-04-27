@@ -179,7 +179,9 @@ def genBadges(row):
   hasPseudoCode= row['If code not available, pseudo-code available (boolean)']
 
   if hasCode:
-    if testRun:
+     if not testRun:
+        print( "Inconsistent choice for code availability and testing ["
+               + row['DOI'] + "]" )
      if row['Replicate paper results score {0=NA, 1,2,3,4,5}'] >=4:
       attribute = '<i class="fas fa-circle graphcol0" style="font-size:150%;color:#0868ac;" title="code available and we were able to reproduce most results (score >= 4)"></i>'
       signature[0] += 1
