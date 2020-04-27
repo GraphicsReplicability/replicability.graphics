@@ -85,11 +85,9 @@ def genChartFooter(f,paper):
           var colorNames = Object.keys(window.chartColors);
           var ctx = document.getElementById('myChart');
           var myChart = new Chart(ctx, {
-              type: 'radar',
+              type: 'polarArea',
               data: {
-    """)
-    #if (feed[2] != '0'):
-    f.write("""labels: ['Dependencies', 'Build / Configure', 'Fixing bugs', 'Easy to adapt', 'Can replicate paper results'],""")
+                labels: ['Dependencies', 'Build / Configure', 'Fixing bugs', 'Easy to adapt', 'Can replicate paper results'],""")
     #else:
     #    f.write("""labels: ['Dependencies', 'Build / Configure', 'Easy to adapt', 'Can replicate paper results'],""")
 
@@ -103,13 +101,13 @@ def genChartFooter(f,paper):
 	       'rgba(54, 162, 235)',
 	       'rgba(153, 102, 255)',
 	       'rgba(201, 203, 207)']
-    COLORSB = [ 'rgba(255, 99, 132,0.3)',
-	       'rgba(255, 159, 64,0.3)',
-	       'rgba(255, 205, 86,0.3)',
-	       'rgba(75, 192, 192,0.3)',
-	       'rgba(54, 162, 235,0.3)',
-	       'rgba(153, 102, 255,0.3)',
-	       'rgba(201, 203, 207,0.3)']
+    COLORSB = [ 'rgba(255, 99, 132,0.0)',
+	       'rgba(255, 159, 64,0.)',
+	       'rgba(255, 205, 86,0.)',
+	       'rgba(75, 192, 192,0.)',
+	       'rgba(54, 162, 235,0.)',
+	       'rgba(153, 102, 255,0.)',
+	       'rgba(201, 203, 207,0.)']
 
     for cpt, var in enumerate(paper):
         feed =  processString(str(var['Dependencies score {0=NA, 1,2,3,4,5}']))
@@ -119,12 +117,34 @@ def genChartFooter(f,paper):
         feed+=  processString(str(var['Replicate paper results score {0=NA, 1,2,3,4,5}']))
         data="["+str(feed[0])+ ","+str(feed[1])+","+str(feed[2])+","+str(feed[3])+","+str(feed[4])+"]"
         bw = str(4) if cpt==0 else str(1)
+
         f.write("""{
                       label: 'Variant -- \""""+ var['Variant name']+"""\" (the higher, the better,  {1..5}, 0=N/A )',
-                      backgroundColor: '"""+COLORSB[cpt*13 % 7]+"""',
-                      borderColor: '"""+COLORS[cpt*13 % 7]+"""',
-                      borderWidth: '"""+bw+"""',
                       showLine: false,
+           """)
+        if (cpt == 0):
+            f.write("""
+                      borderColor: "#000",
+                      borderWidth: 2,
+                      backgroundColor: [
+                          'rgba(255, 99, 132)',
+                          'rgba(255, 159, 64)',
+                          'rgba(255, 205, 86)',
+                          'rgba(75, 192, 192)',
+                          'rgba(54, 162, 235)',
+                      ],
+           """)
+        else :
+            f.write("""
+                      borderColor: "#fff",
+                      borderWidth: 0,
+                      backgroundColor: [
+                          'rgba(255, 99, 132,0.3)',
+                          'rgba(255, 159, 64,0.3)',
+                          'rgba(255, 205, 86,0.3)',
+                          'rgba(75, 192, 192,0.3)',
+                          'rgba(54, 162, 235,0.3)',
+                      ],
            """)
         f.write("           data: "+data+"")
         f.write("""
@@ -265,20 +285,22 @@ def generateAllPages(pathPages,paper):
   <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
   <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
   <script>
+  var currentReviewId = 0;
+
   $( function() {
     $( "#tabs" ).tabs({
     activate: function (event, ui) {
         var reviewId = parseInt(event.currentTarget.id.substring(6));
 
-        myChart.data.datasets.forEach(function (dataset, i) {
-            if (i == reviewId-1){
-                dataset.borderWidth = 4;
-            }
-            else{
-                dataset.borderWidth = 1;
-            }
-        });
-        myChart.update();
+        [myChart.data.datasets[0].data, myChart.data.datasets[currentReviewId].data] =
+ [myChart.data.datasets[currentReviewId].data, myChart.data.datasets[0].data];
+
+        currentReviewId = reviewId-1;
+
+        [myChart.data.datasets[0].data, myChart.data.datasets[currentReviewId].data] =
+ [myChart.data.datasets[currentReviewId].data, myChart.data.datasets[0].data];
+
+        myChart.update(0);
     }
   });
   } );
