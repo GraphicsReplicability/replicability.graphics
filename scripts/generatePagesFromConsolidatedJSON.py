@@ -313,7 +313,21 @@ def generateAllPages(pathPages,paper):
   <script>hljs.initHighlightingOnLoad();</script>
   <link href="../../assets/css/all.css" rel="stylesheet">
   <link rel="stylesheet" href="../../assets/css/customstyle.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pretty-checkbox@3.0/dist/pretty-checkbox.min.css">\n</head>\n<body>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pretty-checkbox@3.0/dist/pretty-checkbox.min.css">\n
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-164636527-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-164636527-1');
+</script>
+
+
+
+  </head>\n<body>
   """)
  f.write('<ul class="publist-inline" style="text-align:left;"><li class="web"><a href="../../index.html">< Index</a></ul>')
  f.write('<h1 class="title">'+title+" "+ badgeRep[0]+'</h1>')
