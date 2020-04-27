@@ -43,9 +43,11 @@ function updateChartFromData() {
     yearidx = year == '2014' ? 0 : year == '2016' ? 1 : 2;
     totalperyear[yearidx] ++;
 
-    // loop over the graph columns
+    // loop over the graph columns (ie. the badges)
     jQuery.each(colNames, function(colIdx, colName) {
+      // search if the current badge exists
       if(el.getElementsByClassName(colName).length != 0)
+        // increment the correct entry for the graph
         if (colIdx <= 6){
           colsTopics[yearidx][colIdx] ++;
           if (colIdx <= 2) // compute total code
