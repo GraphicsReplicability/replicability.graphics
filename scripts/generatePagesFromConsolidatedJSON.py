@@ -18,7 +18,6 @@ def processString(s):
       return s
 
 def genChart(f,variant,tabid):
-
     f.write("""<div id="review-%d">""" % (tabid))
     f.write("""<h2>Information</h2>""")
     f.write("""<ul>""")
