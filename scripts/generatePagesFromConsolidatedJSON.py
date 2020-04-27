@@ -592,7 +592,7 @@ def write_browse_step1(fbrowse):
    ''')
    dumpTableHeader(fbrowse)
 
-def write_browse_step2(fbrowse, cpt, cptHasCode, cptVariants):
+def write_browse_step2(fbrowse, data):
    dumpTableFooter(fbrowse,allTopics)
 
    fbrowse.write('''
@@ -611,7 +611,7 @@ def write_index_step1(findex):
      </footer>
     </section>
     ''')
-def write_index_step2(findex, cpt, cptHasCode, cptVariants):
+def write_index_step2(findex, data):
    findex.write('''
     <!-- First -->
     <section id="project" class="main">
@@ -630,8 +630,8 @@ def write_index_step2(findex, cpt, cptHasCode, cptVariants):
         diffusion and transparency.  In this project, we assess
         replicability in Computer Graphics, by evaluating whether the
         code is available and whether it works properly.  As a proxy
-        for this field we compiled, ran and analyzed ''' + str(cptHasCode)+ ''' codes out of
-       ''' + str(cpt) + ''' papers from 2014, 2016 and 2018 SIGGRAPH conferences. This
+        for this field we compiled, ran and analyzed ''' + str(data["cptHasCode"])+ ''' codes out of
+       ''' + str(data["cpt"]) + ''' papers from 2014, 2016 and 2018 SIGGRAPH conferences. This
         analysis shows a clear increase in the number of papers with
         available and operational research codes with a dependency on
         the subfields, and indicates a correlation between code
@@ -649,15 +649,27 @@ def write_index_step2(findex, cpt, cptHasCode, cptVariants):
       <p style="text-align:left">You can contribute new code analysis for computer graphics
       papers. We're looking forward to your <a href="#contribute" class="scrolly">contributions</a>. You can also <a href="#contact" class="scrolly">contact us</a>.</p>
 
-    <!--<div class="row">
+    <div class="row">
         <div class="column2 chart-container">
             <canvas height="150" id="myChartTopics" class="chartjs-render-monitor"></canvas>
         </div>
         <div class="column2 chart-container">
             <canvas height="150" id="myChartPdf" class="chartjs-render-monitor"></canvas>
         </div>
-    </div>-->
+    </div>
 
+    <script>
+    $(document).ready(function(){
+        myChartTopics.data.datasets[0].data = [''' + ', '.join(map(str, data["2014"])) + '''] ;
+        myChartTopics.data.datasets[1].data = [''' + ', '.join(map(str, data["2016"])) + '''] ;
+        myChartTopics.data.datasets[2].data = [''' + ', '.join(map(str, data["2018"])) + '''] ;
+        myChartPdf.data.datasets[0].data = [''' + ', '.join(map(str, data["2014pdf"])) + '''] ;
+        myChartPdf.data.datasets[1].data = [''' + ', '.join(map(str, data["2016pdf"])) + '''] ;
+        myChartPdf.data.datasets[2].data = [''' + ', '.join(map(str, data["2018pdf"])) + '''] ;
+        myChartTopics.update();
+        myChartPdf.update();
+    });
+    </script>
 
 	</div>
       </header>
@@ -694,7 +706,7 @@ def write_index_step2(findex, cpt, cptHasCode, cptVariants):
 	    </div>
 	    <div class="col-12">
 	      <footer>
-		<a href="browse.html#data" class="button scrolly">''' + str(cptVariants) + ''' reviews so far</a>
+		<a href="browse.html#data" class="button scrolly">''' + str(data["cptVariants"]) + ''' reviews so far</a>
 	      </footer>
 	    </div>
 	  </div>
@@ -831,6 +843,15 @@ with open(sys.argv[1]) as json_file:
    cpt=0;
    cptHasCode=0;
    cptVariants=0
+   step2data = dict()
+
+   step2data["2014"]    = [0,0,0,0,0,0,0,0]
+   step2data["2016"]    = [0,0,0,0,0,0,0,0]
+   step2data["2018"]    = [0,0,0,0,0,0,0,0]
+   step2data["2014pdf"] = [0,0,0]
+   step2data["2016pdf"] = [0,0,0]
+   step2data["2018pdf"] = [0,0,0]
+   
    print("Generating index...")
    for paper in fulldata:
     for variant in paper:
@@ -859,8 +880,11 @@ with open(sys.argv[1]) as json_file:
               if variant['Code available (boolean)'] == True:
                 hasCode = '✔️'
                 cptHasCode += 1
+                step2data[str(variant['Year'])][3] = step2data[str(variant['Year'])][3] + 1
+                
               else:
                 hasCode = '×'
+                step2data[str(variant['Year'])][4] = step2data[str(variant['Year'])][4] + 1
 
               hasPseudoCode = variant["If code not available, pseudo-code available (boolean)"]
               if hasPseudoCode==True:
@@ -905,8 +929,13 @@ with open(sys.argv[1]) as json_file:
               fbrowse.write("</tr>")
               cpt+=1
 
-   write_browse_step2(fbrowse, cpt, cptHasCode, cptVariants)
-   write_index_step2(findex, cpt, cptHasCode, cptVariants)
+   
+   step2data["cpt"] = cpt
+   step2data["cptHasCode"] = cptHasCode
+   step2data["cptVariants"] = cptVariants
+
+   write_browse_step2(fbrowse, step2data)
+   write_index_step2(findex, step2data)
 
    print("Generating pages...")
    for paper in fulldata:
