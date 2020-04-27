@@ -957,7 +957,7 @@ with open(sys.argv[1]) as json_file:
 
               if ( variant["ACM Open Access (boolean)"]):
                   step2data[str(variant['Year'])+"pdf"][0] = step2data[str(variant['Year'])+"pdf"][0] +1
-              if variant["PDF on the authors' webpage / institution (boolean)"]==False  and row['PDF URL']=="" and variant['PDF on Arxiv or any openarchive initiatives (boolean)']==False:
+              if variant["PDF on the authors' webpage / institution (boolean)"]==False  and variant['PDF URL']=="" and variant['PDF on Arxiv or any openarchive initiatives (boolean)']==False:
                   step2data[str(variant['Year'])+"pdf"][2] = step2data[str(variant['Year'])+"pdf"][2] +1
               else:
                   step2data[str(variant['Year'])+"pdf"][1] = step2data[str(variant['Year'])+"pdf"][1] +1
