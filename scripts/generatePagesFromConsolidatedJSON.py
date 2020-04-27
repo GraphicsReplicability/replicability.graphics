@@ -649,6 +649,7 @@ def write_index_step2(findex, data):
       <p style="text-align:left">You can contribute new code analysis for computer graphics
       papers. We're looking forward to your <a href="#contribute" class="scrolly">contributions</a>. You can also <a href="#contact" class="scrolly">contact us</a>.</p>
 
+     <h3>Data Digest<h3>
     <div class="row">
         <div class="column2 chart-container">
             <canvas height="150" id="myChartTopics" class="chartjs-render-monitor"></canvas>
@@ -660,6 +661,14 @@ def write_index_step2(findex, data):
 
     <script>
     $(document).ready(function(){
+    myChartTopics.data.labels =['Most results reproduced',
+             'Some results reproduced',
+             'Could not reproduce using code',
+             'Total (code available)',
+             'Total (code not available)',
+             'Reproducible using pseudo-code',
+             'Cannot not reproduce using pseudo-code',
+             'Total (only pseudo-code)'];
         myChartTopics.data.datasets[0].data = [''' + ', '.join(map(str, data["2014"])) + '''] ;
         myChartTopics.data.datasets[1].data = [''' + ', '.join(map(str, data["2016"])) + '''] ;
         myChartTopics.data.datasets[2].data = [''' + ', '.join(map(str, data["2018"])) + '''] ;
@@ -889,6 +898,7 @@ with open(sys.argv[1]) as json_file:
               hasPseudoCode = variant["If code not available, pseudo-code available (boolean)"]
               if hasPseudoCode==True:
                   hasPseudoCode = '✔️'
+                  step2data[str(variant['Year'])][7] = step2data[str(variant['Year'])][7] + 1
               else:
                   hasPseudoCode = '×'
 
@@ -911,11 +921,28 @@ with open(sys.argv[1]) as json_file:
               #Code avai
               fbrowse.write("<td>"+hasCode+"</td>")
               #Repl score
-              fbrowse.write("<td>"+str(variant['Replicate paper results score {0=NA, 1,2,3,4,5}'])+"</td>")
+              rscore = variant['Replicate paper results score {0=NA, 1,2,3,4,5}']
+              if ( rscore != ''):
+                  if( rscore >= 4 ) :
+                      step2data[str(variant['Year'])][0] = step2data[str(variant['Year'])][0] + 1
+                  elif ( rscore > 1 ) :
+                      step2data[str(variant['Year'])][1] = step2data[str(variant['Year'])][1] + 1
+                  else :
+                      step2data[str(variant['Year'])][2] = step2data[str(variant['Year'])][2] + 1
+              fbrowse.write("<td>"+str(rscore)+"</td>")
               #Pseudocode only
               fbrowse.write("<td>"+ hasPseudoCode+"</td>")
               #Pseudo score
-              fbrowse.write("<td>"+str(variant['If pseudo-code, could the paper be trivially implemented? {0..4}'])+"</td>")
+              pscore = variant['If pseudo-code, could the paper be trivially implemented? {0..4}']
+              if ( pscore != ''):
+                  if (not variant["If code not available, pseudo-code available (boolean)"]):
+                      print( "Inconsistent choice for pseudo-code availability and score ["
+                           + variant['DOI'] + "]" )
+                  if( pscore >= 4 ) :
+                      step2data[str(variant['Year'])][5] = step2data[str(variant['Year'])][5] + 1
+                  else :
+                      step2data[str(variant['Year'])][6] = step2data[str(variant['Year'])][6] + 1
+              fbrowse.write("<td>"+str(pscore)+"</td>")
               #Doc score
               fbrowse.write("<td>"+str(variant['Documentation score {0=NA,1,2,3}'])+"</td>")
               #GG
@@ -925,6 +952,13 @@ with open(sys.argv[1]) as json_file:
                   fbrowse.write('   <td> <a href="'+altmetric[2]+'">'+str(altmetric[0])+'</a></td>')
               else:
                   fbrowse.write("<td></td>")
+
+              if ( variant["ACM Open Access (boolean)"]):
+                  step2data[str(variant['Year'])+"pdf"][0] = step2data[str(variant['Year'])+"pdf"][0] +1
+              if variant["PDF on the authors' webpage / institution (boolean)"]==False and variant['PDF on Arxiv or any openarchive initiatives (boolean)']==False:
+                  step2data[str(variant['Year'])+"pdf"][2] = step2data[str(variant['Year'])+"pdf"][2] +1
+              else:
+                  step2data[str(variant['Year'])+"pdf"][1] = step2data[str(variant['Year'])+"pdf"][1] +1
 
               fbrowse.write("</tr>")
               cpt+=1
