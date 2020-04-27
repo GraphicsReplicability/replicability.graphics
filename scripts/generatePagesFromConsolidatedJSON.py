@@ -760,7 +760,7 @@ with open(sys.argv[1]) as json_file:
                 <li> <a href="https://perso.liris.cnrs.fr/nicolas.bonneel/">Nicolas Bonneel</a> (CNRS, LIRIS, Lyon, France)
                 <li> <a href="https://perso.liris.cnrs.fr/david.coeurjolly/">David Coeurjolly</a> (CNRS, LIRIS, Lyon, France)
                 <li> <a href="https://perso.liris.cnrs.fr/julie.digne/">Julie Digne</a> (CNRS, LIRIS, Lyon, France)
-                <li> <a href="https://www.irit.fr/recherches/STORM/MelladoNicolas/">Nicolas Mellado</a> (CNRS, IRIT, Toulouse, France)
+                <li> <a href="https://www.irit.fr/~Nicolas.Mellado/">Nicolas Mellado</a> (CNRS, IRIT, Toulouse, France)
                 </ul>
 
                         <p>Main reference paper: <a href="">Nicolas Bonneel, David Coeurjolly, Julie Digne, Nicolas Mellado, <i>Code Replicability in Computer Graphics</i>, Siggraph 2020 </a></p>
