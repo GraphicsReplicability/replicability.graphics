@@ -16,24 +16,23 @@ def processString(s):
       return "0"
     else:
       return s
-    
-def genChart(f,variant,tabid):
 
+def genChart(f,variant,tabid):
     f.write("""<div id="review-%d">""" % (tabid))
     f.write("""<h2>Information</h2>""")
-    f.write("""<ul>""")    
+    f.write("""<ul>""")
     f.write('<li><span class="family">Paper topic</span>: '+ variant['Topic {Rendering, Animation and Simulation, Geometry, Images, Virtual Reality, Fabrication}'] + '</li>\n')
     f.write('<li><span class="family">Software type</span>: '+ variant['Software type {Code, Binary, Partial Code}'] + '</li>\n')
     f.write('<li><span class="family">Able to run a replicability test</span>: '+ str(variant["Able to perform a replicability test (boolean)"]) + '</li>\n')
     f.write('<li><span class="family">Replicability score</span>: '+ str(variant['Replicate paper results score {0=NA, 1,2,3,4,5}']) + '</li>\n')
-   
+
     f.write('<li><span class="family">License</span>: '+ variant["Code License (if any)"] + '</li>\n')
     f.write('<li><span class="family">Build mechanism</span>: '+ variant["Build/Configure mechanism"] + '</li>\n')
     f.write('<li><span class="family">Dependencies</span>: '+ variant["Dependencies"] + '</li>\n')
     f.write('<li><span class="family">Documentation score</span> {0,1,2}: '+ str(variant["Documentation score {0=NA,1,2,3}"]) + '</li>\n')
  #   f.write('<li><span class="family">Google Scholar Citation</span> ('+ row["Timestamp"] +'):   '+ str(row["Citation count (google scholar)"]) + '</li>\n')
     f.write('<li><span class="family">Reviewer</span>: '+ variant['Reviewer name'] + '</li>\n')
-    
+
     f.write('</ul><h2>Source code information</h2>\n<ul>')
     f.write('<li><span class="family">Code URL</span>:  <a href="'+ variant["Code URL"] + '">'+variant["Code URL"]+'</a></li>\n')
     if variant['Code URL2']!="":
@@ -48,10 +47,10 @@ def genChart(f,variant,tabid):
            badgeSWH = re.sub('.org/','.org/badge/',variant['Software Heritage permalink'])
            f.write('<li><span class="family">Software Heritage link</span>: <a href="'+ variant['Software Heritage permalink'] + '"><img src="'+badgeSWH+'"></a></li>\n')
 
-   
+
     f.write('</ul><h2>Comments</h2><pre>'+  re.sub('>','&gt;',re.sub('<','&lt;',variant['Build instructions/comments'])) + '</pre>')
     f.write("</div>")
-    
+
 def genChartNoTest(f,variant,tabid):
     f.write("""<div id="review-%d">""" % (tabid))
     f.write("""<h2>Information</h2>""")
@@ -75,7 +74,7 @@ def genChartNoTest(f,variant,tabid):
     f.write("</div>")
 
 
-def genChartFooter(f,paper):    
+def genChartFooter(f,paper):
     f.write("""
     </div>
     </div>
@@ -85,11 +84,9 @@ def genChartFooter(f,paper):
           var colorNames = Object.keys(window.chartColors);
           var ctx = document.getElementById('myChart');
           var myChart = new Chart(ctx, {
-              type: 'radar',
+              type: 'polarArea',
               data: {
-    """)
-    #if (feed[2] != '0'):
-    f.write("""labels: ['Dependencies', 'Build / Configure', 'Fixing bugs', 'Easy to adapt', 'Can replicate paper results'],""")
+                labels: ['Dependencies', 'Build / Configure', 'Fixing bugs', 'Easy to adapt', 'Can replicate paper results'],""")
     #else:
     #    f.write("""labels: ['Dependencies', 'Build / Configure', 'Easy to adapt', 'Can replicate paper results'],""")
 
@@ -103,13 +100,13 @@ def genChartFooter(f,paper):
 	       'rgba(54, 162, 235)',
 	       'rgba(153, 102, 255)',
 	       'rgba(201, 203, 207)']
-    COLORSB = [ 'rgba(255, 99, 132,0.3)',
-	       'rgba(255, 159, 64,0.3)',
-	       'rgba(255, 205, 86,0.3)',
-	       'rgba(75, 192, 192,0.3)',
-	       'rgba(54, 162, 235,0.3)',
-	       'rgba(153, 102, 255,0.3)',
-	       'rgba(201, 203, 207,0.3)']
+    COLORSB = [ 'rgba(255, 99, 132,0.0)',
+	       'rgba(255, 159, 64,0.)',
+	       'rgba(255, 205, 86,0.)',
+	       'rgba(75, 192, 192,0.)',
+	       'rgba(54, 162, 235,0.)',
+	       'rgba(153, 102, 255,0.)',
+	       'rgba(201, 203, 207,0.)']
 
     for cpt, var in enumerate(paper):
         feed =  processString(str(var['Dependencies score {0=NA, 1,2,3,4,5}']))
@@ -119,12 +116,34 @@ def genChartFooter(f,paper):
         feed+=  processString(str(var['Replicate paper results score {0=NA, 1,2,3,4,5}']))
         data="["+str(feed[0])+ ","+str(feed[1])+","+str(feed[2])+","+str(feed[3])+","+str(feed[4])+"]"
         bw = str(4) if cpt==0 else str(1)
+
         f.write("""{
                       label: 'Variant -- \""""+ var['Variant name']+"""\" (the higher, the better,  {1..5}, 0=N/A )',
-                      backgroundColor: '"""+COLORSB[cpt*13 % 7]+"""', 
-                      borderColor: '"""+COLORS[cpt*13 % 7]+"""',
-                      borderWidth: '"""+bw+"""',
                       showLine: false,
+           """)
+        if (cpt == 0):
+            f.write("""
+                      borderColor: "#000",
+                      borderWidth: 2,
+                      backgroundColor: [
+                          'rgba(255, 99, 132,.6)',
+                          'rgba(255, 159, 64,.6)',
+                          'rgba(255, 205, 86,.6)',
+                          'rgba(75, 192, 192,.6)',
+                          'rgba(54, 162, 235,.6)',
+                      ],
+           """)
+        else :
+            f.write("""
+                      borderColor: "#fff",
+                      borderWidth: 0,
+                      backgroundColor: [
+                          'rgba(255, 99, 132,0.2)',
+                          'rgba(255, 159, 64,0.2)',
+                          'rgba(255, 205, 86,0.2)',
+                          'rgba(75, 192, 192,0.2)',
+                          'rgba(54, 162, 235,0.2)',
+                      ],
            """)
         f.write("           data: "+data+"")
         f.write("""
@@ -145,8 +164,8 @@ def genChartFooter(f,paper):
 
         </script>
     """)
-    
-    
+
+
 def genBadges(row):
   ##Has Code
   attribute=''
@@ -158,7 +177,7 @@ def genBadges(row):
   hasOpenAccessPDF = row['ACM Open Access (boolean)']
   hasCode = row['Code available (boolean)']
   hasPseudoCode= row['If code not available, pseudo-code available (boolean)']
-  
+
   if hasCode:
     if testRun:
      if row['Replicate paper results score {0=NA, 1,2,3,4,5}'] >=4:
@@ -207,7 +226,7 @@ def generatePage(f,pathPages,variant,doi,doiclean,authors,tabid):
  arxiv = variant['Arxiv/OAI page URL']
  TestRun=variant["Able to perform a replicability test (boolean)"]
  hasCode = variant['Code available (boolean)']
- 
+
  if hasCode:
      genChart(f,variant,tabid)
  else:
@@ -235,11 +254,11 @@ def generateAllPages(pathPages,paper):
 
  doi = variant['DOI']
  doiclean = re.sub('/', '-', doi)
- 
+
  ##Export
  fout=codecs.open(pathPages+doiclean+'/replicability.json', "w+","UTF-8")
  json.dump(paper, fout,indent=4)
- 
+
  authors=getAuthors(pathPages,doi,doiclean)
  title = variant['Title']
  badgeRep = genBadges(variant)
@@ -265,26 +284,28 @@ def generateAllPages(pathPages,paper):
   <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
   <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
   <script>
+  var currentReviewId = 0;
+
   $( function() {
     $( "#tabs" ).tabs({
     activate: function (event, ui) {
         var reviewId = parseInt(event.currentTarget.id.substring(6));
 
-        myChart.data.datasets.forEach(function (dataset, i) {
-            if (i == reviewId-1){ 
-                dataset.borderWidth = 4;
-            }
-            else{ 
-                dataset.borderWidth = 1;
-            }
-        });
-        myChart.update();
+        [myChart.data.datasets[0].data, myChart.data.datasets[currentReviewId].data] =
+ [myChart.data.datasets[currentReviewId].data, myChart.data.datasets[0].data];
+
+        currentReviewId = reviewId-1;
+
+        [myChart.data.datasets[0].data, myChart.data.datasets[currentReviewId].data] =
+ [myChart.data.datasets[currentReviewId].data, myChart.data.datasets[0].data];
+
+        myChart.update(0);
     }
   });
   } );
   </script></head>\n<body>
  """)
- 
+
  f.write("""<html><head><meta charset="utf-8"><script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.3"></script>
   <link rel="stylesheet"
         href="../../assets/css/default.min.css">
@@ -296,41 +317,41 @@ def generateAllPages(pathPages,paper):
   """)
  f.write('<ul class="publist-inline" style="text-align:left;"><li class="web"><a href="../../index.html">< Index</a></ul>')
  f.write('<h1 class="title">'+title+" "+ badgeRep[0]+'</h1>')
- 
+
  f.write('<ul class="authors">\n')
  for x in authors:
      f.write('<li> '+x['given']+' '+ '<span class="family">'+x['family']+'</span></li>\n')
  f.write('</ul>\n')
  f.write('<center> SIGGRAPH '+ str(variant['Year']) +'</center>')
- 
+
   #f.write('<img src="'+ stats['images']['medium']+'" />')
  f.write('<ul class="publist-inline">\n');
  f.write('<li class="web"> <i class="fas fa-globe-americas"></i> <a href="https://doi.org/'+doi+'">ACM</a></li>\n')
- 
+
  if PDFURL != '' :
      f.write('<li class="pdf"> <i class="far fa-file-pdf"></i> <a href="'+PDFURL+'">preprint</a></li>\n')
- 
+
  if ProjectURL != '' :
           f.write('<li class="web"> <i class="fas fa-globe-americas"></i> <a href="'+ProjectURL+'">Project page</a></li>\n')
- 
+
  if code1 != '':
           f.write('<li class="web"> <i class="far fa-file-alt"></i> <a href="'+code1+'">Code</a></li>\n')
- 
+
  if code2 != '':
           f.write('<li class="web"> <i class="far fa-file-alt"></i> <a href="'+code2+'">Code 2</a></li>\n')
  if arxiv != '':
           f.write('<li class="web"> <i class="fas fa-university"></i> <a href="'+arxiv+'">arXiv or openarchive initiative</a></li>\n')
- 
- 
+
+
  f.write('<li class="web"> <i class="fas fa-database"></i> <a href="'+doiclean+'-metadata.json">DOI Metadata</a></li>\n')
  f.write('</ul>\n');
- 
+
  f.write('<center><img width="300" src="'+doiclean+'-thumb.png"></img></center>')
- 
+
  # f.write('<h4>Variant: '+variant['variant name']+'</h4>')
  f.write('<br><br><ul class="publist-inline" style="text-align:left;font-size:100%"><li > <i ></i> <a href="replicability.json">Download complete data for this entry</a></li></ul>')
- 
- 
+
+
  #print(pathPages+'/'+doiclean+'/index.html     '+variant['Title'])
 
  #Generate header
@@ -347,7 +368,7 @@ def generateAllPages(pathPages,paper):
  f.write("             <li><a href=\"#review-%s\">&#43;</a></li>\n" % (len(paper)+1))
  f.write("</ul>")
 
- 
+
  #and the remaining ones
  for varid, var in enumerate(paper):
     generatePage(f,pathPages,var,doi,doiclean,authors,varid+1)
@@ -360,10 +381,10 @@ def generateAllPages(pathPages,paper):
 
  f.write('</div></div>')
 
-    
+
  #and the JS for the plot
  genChartFooter(f,paper)
- 
+
  path = "siggraph-"+str(variant['Year'])+'/'
  f.write('</code></pre>')
  f.write("</body>")
@@ -387,7 +408,7 @@ def generateAllPages(pathPages,paper):
  })();
  </script>
  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>""")
- 
+
  f.write("</html>")
  f.close()
 
@@ -421,7 +442,7 @@ def dumpTableHeader(findex):
 
 def dumpTableFooter(findex,topicsGlobal):
   findex.write('</tbody></table>')
-  findex.write("""<script type="text/javascript" src="assets/js/updateViz.js"></script>""")
+  findex.write("""<script type="text/javascript" src="assets/js/browse-updateViz.js"></script>""")
   findex.write("""
   <script>
   $(document).ready(function() {
@@ -491,11 +512,11 @@ def getAuthors(pathPages,doi,doiclean):
 def getAltmetric(pathPages,doiclean):
  filename=pathPages+doiclean+"/Altmetric.json"
  if os.path.isfile(filename):
-  altm=open(filename)   
+  altm=open(filename)
   for line in altm:
     if line=="Not Found":
       return [-1,"xx","xx"]
-      
+
     line ="[" + line + "]"
     fout=codecs.open('tmp.json', "w+","UTF-8")
     fout.write(line)
@@ -505,7 +526,7 @@ def getAltmetric(pathPages,doiclean):
     return [altmdata[0]["score"], altmdata[0]["images"]["small"], altmdata[0]["details_url"]]
  return [-1,"xx","xx"]
 
-  
+
 def explanationBadges(findex):
     findex.write("""
     <h3 style="text-align:left;">Badges</h3>
@@ -521,18 +542,14 @@ def explanationBadges(findex):
     </ul>
     <hr />
     """)
-    
+
 with open(sys.argv[1]) as json_file:
    fulldata = json.load(json_file)
 
    print("Generating database page")
 
-   line_count = 0
-   #topicsGlobal = getAllTopics(fulldata)
-   findex = codecs.open('tmp/core-browse.html','w+', "UTF-8")
-   pathPages='tmp/papers/'
-
-   findex.write('''
+def write_browse_step1(fbrowse):
+   fbrowse.write('''
       <footer>
        <a href="index.html#project" class="button">The Project</a>
        <a href="#data" class="button scrolly">The Data</a>
@@ -547,9 +564,9 @@ with open(sys.argv[1]) as json_file:
             <h2>The Data</h2>
    ''')
 
-   explanationBadges(findex)
+   explanationBadges(fbrowse)
 
-   findex.write('''
+   fbrowse.write('''
             <div class="row">
                 <div class="column2 chart-container">
                     <canvas height="150" id="myChartTopics" class="chartjs-render-monitor"></canvas>
@@ -559,109 +576,18 @@ with open(sys.argv[1]) as json_file:
                 </div>
             </div>
    ''')
+   dumpTableHeader(fbrowse)
 
-   dumpTableHeader(findex)
+def write_browse_step2(fbrowse, cpt, cptHasCode, cptVariants):
+   dumpTableFooter(fbrowse,allTopics)
 
-
-   allTopics = {"Rendering", "Animation and Simulation", "Geometry", "Images","Virtual Reality", "Fabrication"}
-   
-   cpt=0;
-   cptHasCode=0;
-   cptVariants=0
-   print("Generating index...")
-   for paper in fulldata:
-    for variant in paper:
-      if isinstance(variant, str):
-        print("Oops.. the variant is a string...")
-      else:
-        if isinstance(variant, list):
-           print("Oops.. the variant is a list...")
-        else:
-           cptVariants += 1
-           if variant['Is master variant (boolean)'] == True:
-
-              doi = variant['DOI']
-              doiclean = re.sub('/', '-', doi)
-
-              authors=getAuthors(pathPages,doi,doiclean)
-              authorstring=''
-              for x in authors:
-               authorstring +=', '+ x['given']+' '+ x['family']
-               # remove first comma
-              authorstring = authorstring[2:];
-             
-              findex.write('<tr class="'+variant['Topic {Rendering, Animation and Simulation, Geometry, Images, Virtual Reality, Fabrication}']+' '+str(variant['Year'])+' ">')
-              
-              hasCode = ""
-              if variant['Code available (boolean)'] == True:
-                hasCode = '✔️'
-                cptHasCode += 1
-              else:
-                hasCode = '×'
-          
-              hasPseudoCode = variant["If code not available, pseudo-code available (boolean)"]
-              if hasPseudoCode==True:
-                  hasPseudoCode = '✔️'
-              else:
-                  hasPseudoCode = '×'
-
-              paperBadge = genBadges(variant)
-
-              altmetric = getAltmetric(pathPages,doiclean)
-              
-              if thumbExists(pathPages,doiclean):
-                 findex.write('<td style="text-align:center;vertical-align: middle;"><img class="thumb" src="papers/'+doiclean+'/'+doiclean+'-thumb-small.png"></td>')
-              else:
-                 findex.write('<td></td>')
-              findex.write("<td> <a href=papers/"+doiclean+"/index.html>"+variant['Title']+"</a> "+authorstring+"</td>")
-              findex.write("<td>"+paperBadge[0]+" </td>")
-              #PDF
-              findex.write("<td></td>")
-              #Year
-              findex.write("<td>"+str(variant['Year'])+"</td>")
-              #Topic
-              findex.write("<td>"+variant['Topic {Rendering, Animation and Simulation, Geometry, Images, Virtual Reality, Fabrication}']+"</td>")
-              #Code avai
-              findex.write("<td>"+hasCode+"</td>")
-              #Repl score
-              findex.write("<td>"+str(variant['Replicate paper results score {0=NA, 1,2,3,4,5}'])+"</td>")
-              #Pseudocode only
-              findex.write("<td>"+ hasPseudoCode+"</td>")
-              #Pseudo score
-              findex.write("<td>"+str(variant['If pseudo-code, could the paper be trivially implemented? {0..4}'])+"</td>")
-              #Doc score
-              findex.write("<td>"+str(variant['Documentation score {0=NA,1,2,3}'])+"</td>")
-              #GG
-              findex.write("<td></td>")
-              #altmetric
-              if altmetric[0] != -1:
-                  findex.write('   <td> <a href="'+altmetric[2]+'">'+str(altmetric[0])+'</a></td>')
-              else:
-                  findex.write("<td></td>")
-                  
-              findex.write("</tr>")
-              cpt+=1
-
-   print("Generating pages...")
-   for paper in fulldata:
-      generateAllPages(pathPages,paper)
-
-
-   dumpTableFooter(findex,allTopics)
-   
-   findex.write('''
+   fbrowse.write('''
             </div>
         </header>
     </section>
     ''')
 
-   findex.close()
-   print("Number of reviews (including variants) = "+str(cpt))
-
-
-   print("Generating index page")
-   findex = codecs.open('tmp/core-index.html','w+', "UTF-8")
-
+def write_index_step1(findex):
    findex.write('''
       <footer>
 	<a href="#project" class="button scrolly">The Project</a>
@@ -670,6 +596,9 @@ with open(sys.argv[1]) as json_file:
 	<a href="#contribute" class="button scrolly">Contribute</a>
      </footer>
     </section>
+    ''')
+def write_index_step2(findex, cpt, cptHasCode, cptVariants):
+   findex.write('''
     <!-- First -->
     <section id="project" class="main">
       <header>
@@ -693,7 +622,7 @@ with open(sys.argv[1]) as json_file:
         available and operational research codes with a dependency on
         the subfields, and indicates a correlation between code
         replicability and citation count.</p>
-         
+
       <p style="text-align:left">This website provides an interactive tool to explore our results and evaluation data.
       It also provides tools to comment on the various codes either as an author or as a user. All materials (data, scripts..) that  have been used to generate these results are available on the  <a
       href="https://github.com/GraphicsReplicability/replicability.graphics"> <img width="20pt" src="images/github.png"/>&nbsp;replicability.graphics
@@ -702,9 +631,18 @@ with open(sys.argv[1]) as json_file:
 
      <p style="text-align:left"> Our project aims at providing the community with tools to improve Computer Graphics research replicability. Sharing this goal is the <a href="http://ReplicabilityStamp.org">Graphics
      Replicability Stamp Initiative</a> whose objective is to highlight replicable research works in Computer Graphics.</p>
-  
+
       <p style="text-align:left">You can contribute new code analysis for computer graphics
       papers. We're looking forward to your <a href="#contribute" class="scrolly">contributions</a>. You can also <a href="#contact" class="scrolly">contact us</a>.</p>
+
+    <!--<div class="row">
+        <div class="column2 chart-container">
+            <canvas height="150" id="myChartTopics" class="chartjs-render-monitor"></canvas>
+        </div>
+        <div class="column2 chart-container">
+            <canvas height="150" id="myChartPdf" class="chartjs-render-monitor"></canvas>
+        </div>
+    </div>-->
 
 
 	</div>
@@ -714,7 +652,7 @@ with open(sys.argv[1]) as json_file:
 	  <div class="row">
 	    <div class="col-4 col-12-narrow">
 	      <section>
-		<span class="feature-icon"><span class="icon 
+		<span class="feature-icon"><span class="icon
 		solid fa-book-open"></span></span>
 		<header>
 		  <h3><a href="browse.html#data">Explore</a></h3>
@@ -779,7 +717,7 @@ with open(sys.argv[1]) as json_file:
               <p style="text-align:left">There are several ways in which you can contribute and help us improve Computer Graphics research replicability</p>
               <ul style="text-align:left">
               <li> Add a comment (alternative compilation tricks, details on the code...) via the discussion on each paper page.</li>
-              <li> Add a new variant (replicability test), <i>i.e.</i> edit an existing JSON file (see below). 
+              <li> Add a new variant (replicability test), <i>i.e.</i> edit an existing JSON file (see below).
               <li> Add a new entry to the system (new paper), <i>i.e.</i> submit a new JSON file.
               </ul>
 
@@ -794,7 +732,7 @@ with open(sys.argv[1]) as json_file:
                 is fully generated from data available on JSON
                 documents. You can browse the database on the <a
                 href="https://github.com/GraphicsReplicability/replicability.graphics/tree/master/data">github
-                project page</a>. Each paper is a single JSON file, named by the paper DOI, 
+                project page</a>. Each paper is a single JSON file, named by the paper DOI,
                 with multiple "variant" records. Each variant is a
                 build test on a specific system, environment or
                 reviewer. For example, an article with DOI <b>10.1145/2601097.2601102</b> has a <b>10.1145-2601097.2601102.json</b> file which looks like </p>
@@ -814,7 +752,7 @@ with open(sys.argv[1]) as json_file:
                   ....
                 ]
                 </pre>
-                
+
                 <p style="text-align:left">We highly recommend having a look to our <a
                 href="https://github.com/GraphicsReplicability/replicability.graphics/blob/master/template.json">template
                 JSON</a> with all the explanations about the fields we
@@ -859,4 +797,106 @@ with open(sys.argv[1]) as json_file:
     </section>
 	  </div>
     ''')
+
+with open(sys.argv[1]) as json_file:
+   fulldata = json.load(json_file)
+
+   print("Generating webpages")
+
+   line_count = 0
+   #topicsGlobal = getAllTopics(fulldata)
+   fbrowse = codecs.open('tmp/core-browse.html','w+', "UTF-8")
+   findex = codecs.open('tmp/core-index.html','w+', "UTF-8")
+   pathPages='tmp/papers/'
+
+   write_browse_step1(fbrowse)
+   write_index_step1(findex)
+
+   allTopics = {"Rendering", "Animation and Simulation", "Geometry", "Images","Virtual Reality", "Fabrication"}
+
+   cpt=0;
+   cptHasCode=0;
+   cptVariants=0
+   print("Generating index...")
+   for paper in fulldata:
+    for variant in paper:
+      if isinstance(variant, str):
+        print("Oops.. the variant is a string...")
+      else:
+        if isinstance(variant, list):
+           print("Oops.. the variant is a list...")
+        else:
+           cptVariants += 1
+           if variant['Is master variant (boolean)'] == True:
+
+              doi = variant['DOI']
+              doiclean = re.sub('/', '-', doi)
+
+              authors=getAuthors(pathPages,doi,doiclean)
+              authorstring=''
+              for x in authors:
+               authorstring +=', '+ x['given']+' '+ x['family']
+               # remove first comma
+              authorstring = authorstring[2:];
+
+              fbrowse.write('<tr class="'+variant['Topic {Rendering, Animation and Simulation, Geometry, Images, Virtual Reality, Fabrication}']+' '+str(variant['Year'])+' ">')
+
+              hasCode = ""
+              if variant['Code available (boolean)'] == True:
+                hasCode = '✔️'
+                cptHasCode += 1
+              else:
+                hasCode = '×'
+
+              hasPseudoCode = variant["If code not available, pseudo-code available (boolean)"]
+              if hasPseudoCode==True:
+                  hasPseudoCode = '✔️'
+              else:
+                  hasPseudoCode = '×'
+
+              paperBadge = genBadges(variant)
+
+              altmetric = getAltmetric(pathPages,doiclean)
+
+              if thumbExists(pathPages,doiclean):
+                 fbrowse.write('<td style="text-align:center;vertical-align: middle;"><img class="thumb" src="papers/'+doiclean+'/'+doiclean+'-thumb-small.png"></td>')
+              else:
+                 fbrowse.write('<td></td>')
+              fbrowse.write("<td> <a href=papers/"+doiclean+"/index.html>"+variant['Title']+"</a> "+authorstring+"</td>")
+              fbrowse.write("<td>"+paperBadge[0]+" </td>")
+              #PDF
+              fbrowse.write("<td></td>")
+              #Year
+              fbrowse.write("<td>"+str(variant['Year'])+"</td>")
+              #Topic
+              fbrowse.write("<td>"+variant['Topic {Rendering, Animation and Simulation, Geometry, Images, Virtual Reality, Fabrication}']+"</td>")
+              #Code avai
+              fbrowse.write("<td>"+hasCode+"</td>")
+              #Repl score
+              fbrowse.write("<td>"+str(variant['Replicate paper results score {0=NA, 1,2,3,4,5}'])+"</td>")
+              #Pseudocode only
+              fbrowse.write("<td>"+ hasPseudoCode+"</td>")
+              #Pseudo score
+              fbrowse.write("<td>"+str(variant['If pseudo-code, could the paper be trivially implemented? {0..4}'])+"</td>")
+              #Doc score
+              fbrowse.write("<td>"+str(variant['Documentation score {0=NA,1,2,3}'])+"</td>")
+              #GG
+              fbrowse.write("<td></td>")
+              #altmetric
+              if altmetric[0] != -1:
+                  fbrowse.write('   <td> <a href="'+altmetric[2]+'">'+str(altmetric[0])+'</a></td>')
+              else:
+                  fbrowse.write("<td></td>")
+
+              fbrowse.write("</tr>")
+              cpt+=1
+
+   write_browse_step2(fbrowse, cpt, cptHasCode, cptVariants)
+   write_index_step2(findex, cpt, cptHasCode, cptVariants)
+
+   print("Generating pages...")
+   for paper in fulldata:
+      generateAllPages(pathPages,paper)
+
+   fbrowse.close()
    findex.close()
