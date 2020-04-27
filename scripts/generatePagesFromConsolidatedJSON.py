@@ -208,7 +208,7 @@ def genBadges(row):
        attribute += ' <i class="fas fa-square graphcol5"  style="font-size:150%;color:#1b9e77;" title="PDF available as an ACM Open Access document"></i>'
        signature[5] += 1
 
-  if row["PDF on the authors' webpage / institution (boolean)"]==False and row['PDF on Arxiv or any openarchive initiatives (boolean)']==False:
+  if row["PDF on the authors' webpage / institution (boolean)"]==False  and row['PDF URL']=="" and row['PDF on Arxiv or any openarchive initiatives (boolean)']==False:
      attribute += ' <i class="fas fa-square graphcol7"  style="font-size:150%;color:#d95f02;" title="PDF only available on the Digital Library (not Open Access)"></i>'
      signature[7] += 1
   else:
