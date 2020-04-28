@@ -1,6 +1,6 @@
 // Get the data from datatable
 var table = $('#myTable').DataTable({
-  order: [[ 8, "des" ]],
+  order: [[ 7, "desc" ]],
   fixedHeader: true,
   paging: false,
   "columnDefs": [
