@@ -31,7 +31,7 @@
         "git/hg/svn commit hash or revision number": "d6649efb58d1da20ff6bcb07efbfc3c25745656c",
         "MD5 sum (for archives) URL2": "",
         "git/hg/svn commit hash or revision number URL2": "",
-        "Software Heritage permalink": "",
+        "Software Heritage permalink": "https://archive.softwareheritage.org/swh:1:dir:f1f4384711759f08098d5e338b28dc7318337d47;origin=https://github.com/misop/Perception-Aware-Modeling-and-Fabrication-of-Digital-Drawing-Tools/",
         "Software type {Code, Binary, Partial Code}": "Partial Code",
         "Code License (if any)": "unspecified",
         "Are the code authors explicit? (boolean)": false,
