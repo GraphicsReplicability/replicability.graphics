@@ -31,7 +31,7 @@
         "git/hg/svn commit hash or revision number": "bd1cc30cbcb3ca7afba8c7407616a9ec9bf54785",
         "MD5 sum (for archives) URL2": "",
         "git/hg/svn commit hash or revision number URL2": "",
-        "Software Heritage permalink": "",
+        "Software Heritage permalink": "https://archive.softwareheritage.org/swh:1:dir:a0654bc262f8965cf1ea3cf769789b92cfab6a0d;origin=https://github.com/dalboris/vpaint/",
         "Software type {Code, Binary, Partial Code}": "Code",
         "Code License (if any)": "Apache License Version 2.0",
         "Are the code authors explicit? (boolean)": true,
