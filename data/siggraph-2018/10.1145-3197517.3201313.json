@@ -28,7 +28,7 @@
         "git/hg/svn commit hash or revision number": "f29e08bcd7ac72fee591a4bded1d0a5c8e873d59",
         "MD5 sum (for archives) URL2": "",
         "git/hg/svn commit hash or revision number URL2": "",
-        "Software Heritage permalink": "",
+        "Software Heritage permalink": "https://archive.softwareheritage.org/swh:1:dir:a0023af5c8770d20b0cbfb1187a50e39be7c90c4;origin=https://github.com/zexiangxu/Deep-Relighting/",
         "Software type {Code, Binary, Partial Code}": "Code",
         "Code License (if any)": "Disclaimer:This software and related data are published for academic and non-commercial use only.",
         "Are the code authors explicit? (boolean)": false,
