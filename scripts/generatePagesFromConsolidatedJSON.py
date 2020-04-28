@@ -32,7 +32,7 @@ def genChart(f,variant,tabid):
     f.write('<li><span class="family">Dependencies</span>: '+ variant["Dependencies"] + '</li>\n')
     f.write('<li><span class="family">Documentation score</span> {0,1,2}: '+ str(variant["Documentation score {0=NA,1,2,3}"]) + '</li>\n')
  #   f.write('<li><span class="family">Google Scholar Citation</span> ('+ row["Timestamp"] +'):   '+ str(row["Citation count (google scholar)"]) + '</li>\n')
-    f.write('<li><span class="family">Reviewer</span>: '+ variant['Reviewer name'] + '</li>\n')
+    f.write('<li><span class="family">Reviewer</span>: '+ re.sub('>','&gt;',re.sub('<','&lt;',variant['Reviewer name'])) + '</li>\n')
 
     f.write('</ul><h2>Source code information</h2>\n<ul>')
     f.write('<li><span class="family">Code URL</span>:  <a href="'+ variant["Code URL"] + '">'+variant["Code URL"]+'</a></li>\n')
@@ -206,7 +206,7 @@ def genBadges(row):
 
    ##PDF not available
   if hasOpenAccessPDF:
-       attribute += ' <i class="fas fa-square graphcol5"  style="font-size:150%;color:#1b9e77;" title="PDF available as an ACM Open Access document"></i>'
+       attribute += ' <i class="fas fa-splotch graphcol5"  style="font-size:150%;color:#1b9e77;" title="PDF available as an ACM Open Access document"></i>'
        signature[5] += 1
 
   if row["PDF on the authors' webpage / institution (boolean)"]==False  and row['PDF URL']=="" and row['PDF on Arxiv or any openarchive initiatives (boolean)']==False:
@@ -564,7 +564,7 @@ def explanationBadges(findex):
     <li> <i class="fas fa-circle" style="font-size:150%;color:#7bccc4;" title="code available but we weren't able to reproduce any results (technical issue, device specific, repl. score <= 1)"></i> <b>(C3)</b> code available but we weren't able to reproduce any results (technical issue, device specific, score <= 1)
     <li> <i class="fas fa-map-marker" style="font-size:150%;color:rgb(95,44,102);" title="only pseudo-code available in the paper with simple implementation (score >=4)"></i> <b>(PC1)</b> only pseudo-code available in the paper with simple implementation (score >=4)
     <li> <i class="fas fa-map-marker" style="font-size:150%;color:rgb(186,147,186);" title="only pseudo-code available in the paper"></i> <b>(PC2)</b> only pseudo-code available in the paper
-    <li> <i class="fas fa-square" style="font-size:150%;color:#1b9e77;" title="PDF available as an ACM Open Access document"></i> PDF available as an ACM Open Access document
+    <li> <i class="fas fa-splotch" style="font-size:150%;color:#1b9e77;" title="PDF available as an ACM Open Access document"></i> PDF available as an ACM Open Access document
     <li> <i class="fas fa-square" style="font-size:150%;color:#7570b3;" title="Preprint PDF available (author web page, project page, institution page, arxiv...)"></i> Preprint PDF available (author web page, project page, institution page, arxiv...)
     <li> <i class="fas fa-square" style="font-size:150%;color:#d95f02;" title="PDF only available on the Digital Library (not Open Access)"></i> PDF only available on the Digital Library (not Open Access)
     </ul>
