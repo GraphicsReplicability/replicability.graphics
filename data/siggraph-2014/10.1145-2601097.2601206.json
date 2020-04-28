@@ -29,7 +29,7 @@
         "git/hg/svn commit hash or revision number": "698b1e0fd23c216bb65164927c4de85b2c94b1af",
         "MD5 sum (for archives) URL2": "",
         "git/hg/svn commit hash or revision number URL2": "",
-        "Software Heritage permalink": "",
+        "Software Heritage permalink": "https://archive.softwareheritage.org/swh:1:dir:d587ee6779413a3c475a5ff6b8263c1e9f769acd;origin=https://github.com/seanbell/intrinsic/",  
         "Software type {Code, Binary, Partial Code}": "Code",
         "Code License (if any)": "MIT",
         "Are the code authors explicit? (boolean)": true,

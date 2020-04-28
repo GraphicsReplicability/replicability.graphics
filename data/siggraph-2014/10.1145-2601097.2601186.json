@@ -28,7 +28,7 @@
         "git/hg/svn commit hash or revision number": "26355676fa45feb5acca3f42b023a055ad2bb7e3",
         "MD5 sum (for archives) URL2": "",
         "git/hg/svn commit hash or revision number URL2": "",
-        "Software Heritage permalink": "",
+        "Software Heritage permalink": "https://archive.softwareheritage.org/swh:1:dir:181f97e051f8a768b9287883d652651001778eed;origin=https://www.mitsuba-renderer.org/repos/mitsuba.git/",
         "Software type {Code, Binary, Partial Code}": "Code",
         "Code License (if any)": "GPL",
         "Are the code authors explicit? (boolean)": true,
