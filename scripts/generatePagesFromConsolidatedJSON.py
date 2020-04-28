@@ -670,13 +670,24 @@ def write_index_step2(findex, data):
              'Total (code not available)',
              'Reproducible using pseudo-code',
              'Cannot not reproduce using pseudo-code',
-             'Total (only pseudo-code)'];
-        myChartTopics.data.datasets[0].data = [''' + ', '.join(map(str, data["2014"])) + '''] ;
-        myChartTopics.data.datasets[1].data = [''' + ', '.join(map(str, data["2016"])) + '''] ;
-        myChartTopics.data.datasets[2].data = [''' + ', '.join(map(str, data["2018"])) + '''] ;
-        myChartPdf.data.datasets[0].data = [''' + ', '.join(map(str, data["2014pdf"])) + '''] ;
-        myChartPdf.data.datasets[1].data = [''' + ', '.join(map(str, data["2016pdf"])) + '''] ;
-        myChartPdf.data.datasets[2].data = [''' + ', '.join(map(str, data["2018pdf"])) + '''] ;
+             'Total (only pseudo-code)'];''')
+   did = 0
+   for y, d in data["years"].items():
+        findex.write('''
+        myChartTopics.data.datasets.push(myChartGenerateEmpty(''' + str(did) + '''));
+        myChartTopics.data.datasets[''' + str(did) + '''].data = [''' + ', '.join(map(str, d)) + '''] ;
+        myChartTopics.data.datasets[''' + str(did) + '''].label = ''' + y + ''';
+        ''')
+        did = did+1
+   did = 0
+   for y, d in data["yearspdf"].items():
+        findex.write('''
+        myChartPdf.data.datasets.push(myChartPdfGenerateEmpty(''' + str(did) + '''));
+        myChartPdf.data.datasets[''' + str(did) + '''].data = [''' + ', '.join(map(str, d)) + '''] ;
+        myChartPdf.data.datasets[''' + str(did) + '''].label = ''' + y + ''';
+        ''')
+        did = did+1
+   findex.write('''
         myChartTopics.update();
         myChartPdf.update();
     });
@@ -856,12 +867,8 @@ with open(sys.argv[1]) as json_file:
    cptVariants=0
    step2data = dict()
 
-   step2data["2014"]    = [0,0,0,0,0,0,0,0]
-   step2data["2016"]    = [0,0,0,0,0,0,0,0]
-   step2data["2018"]    = [0,0,0,0,0,0,0,0]
-   step2data["2014pdf"] = [0,0,0]
-   step2data["2016pdf"] = [0,0,0]
-   step2data["2018pdf"] = [0,0,0]
+   step2data["years"]   = dict()
+   step2data["yearspdf"]   = dict()
    
    print("Generating index...")
    for paper in fulldata:
@@ -874,6 +881,14 @@ with open(sys.argv[1]) as json_file:
         else:
            cptVariants += 1
            if variant['Is master variant (boolean)'] == True:
+              # Cannot use get here, is it does not actually add the default element to the dict
+              if str(variant['Year']) not in step2data["years"]:
+                step2data["years"][str(variant['Year'])] = [0,0,0,0,0,0,0,0]
+              if str(variant['Year']) not in step2data["yearspdf"]:
+                step2data["yearspdf"][str(variant['Year'])] = [0,0,0]
+
+              step2dataYear    = step2data["years"][str(variant['Year'])]
+              step2dataYearPdf = step2data["yearspdf"][str(variant['Year'])]
 
               doi = variant['DOI']
               doiclean = re.sub('/', '-', doi)
@@ -891,16 +906,16 @@ with open(sys.argv[1]) as json_file:
               if variant['Code available (boolean)'] == True:
                 hasCode = '✔️'
                 cptHasCode += 1
-                step2data[str(variant['Year'])][3] = step2data[str(variant['Year'])][3] + 1
+                step2dataYear[3] = step2dataYear[3] + 1
                 
               else:
                 hasCode = '×'
-                step2data[str(variant['Year'])][4] = step2data[str(variant['Year'])][4] + 1
+                step2dataYear[4] = step2dataYear[4] + 1
 
               hasPseudoCode = variant["If code not available, pseudo-code available (boolean)"]
               if hasPseudoCode==True:
                   hasPseudoCode = '✔️'
-                  step2data[str(variant['Year'])][7] = step2data[str(variant['Year'])][7] + 1
+                  step2dataYear[7] = step2dataYear[7] + 1
               else:
                   hasPseudoCode = '×'
 
@@ -926,11 +941,11 @@ with open(sys.argv[1]) as json_file:
               rscore = variant['Replicate paper results score {0=NA, 1,2,3,4,5}']
               if ( rscore != ''):
                   if( rscore >= 4 ) :
-                      step2data[str(variant['Year'])][0] = step2data[str(variant['Year'])][0] + 1
+                      step2dataYear[0] = step2dataYear[0] + 1
                   elif ( rscore > 1 ) :
-                      step2data[str(variant['Year'])][1] = step2data[str(variant['Year'])][1] + 1
+                      step2dataYear[1] = step2dataYear[1] + 1
                   else :
-                      step2data[str(variant['Year'])][2] = step2data[str(variant['Year'])][2] + 1
+                      step2dataYear[2] = step2dataYear[2] + 1
               fbrowse.write("<td>"+str(rscore)+"</td>")
               #Pseudocode only
               fbrowse.write("<td>"+ hasPseudoCode+"</td>")
@@ -941,9 +956,9 @@ with open(sys.argv[1]) as json_file:
                       print( "Inconsistent choice for pseudo-code availability and score ["
                            + variant['DOI'] + "]" )
                   if( pscore >= 4 ) :
-                      step2data[str(variant['Year'])][5] = step2data[str(variant['Year'])][5] + 1
+                      step2dataYear[5] = step2dataYear[5] + 1
                   else :
-                      step2data[str(variant['Year'])][6] = step2data[str(variant['Year'])][6] + 1
+                      step2dataYear[6] = step2dataYear[6] + 1
               fbrowse.write("<td>"+str(pscore)+"</td>")
               #Doc score
               fbrowse.write("<td>"+str(variant['Documentation score {0=NA,1,2,3}'])+"</td>")
@@ -956,11 +971,11 @@ with open(sys.argv[1]) as json_file:
                   fbrowse.write("<td></td>")
 
               if ( variant["ACM Open Access (boolean)"]):
-                  step2data[str(variant['Year'])+"pdf"][0] = step2data[str(variant['Year'])+"pdf"][0] +1
+                  step2dataYearPdf[0] = step2dataYearPdf[0] +1
               if variant["PDF on the authors' webpage / institution (boolean)"]==False  and variant['PDF URL']=="" and variant['PDF on Arxiv or any openarchive initiatives (boolean)']==False:
-                  step2data[str(variant['Year'])+"pdf"][2] = step2data[str(variant['Year'])+"pdf"][2] +1
+                  step2dataYearPdf[2] = step2dataYearPdf[2] +1
               else:
-                  step2data[str(variant['Year'])+"pdf"][1] = step2data[str(variant['Year'])+"pdf"][1] +1
+                  step2dataYearPdf[1] = step2dataYearPdf[1] +1
 
               fbrowse.write("</tr>")
               cpt+=1
