@@ -457,7 +457,7 @@ def dumpTableHeader(findex):
   findex.write('<th>Altmetric score</th>')
   findex.write('</tr></thead>\n<tbody>')
 
-def dumpTableFooter(findex,topicsGlobal):
+def dumpTableFooter(findex,topicsGlobal, data):
   findex.write('</tbody></table>')
   findex.write("""<script type="text/javascript" src="assets/js/sortArrays.js"></script>""")
   findex.write("""<script type="text/javascript" src="assets/js/browse-updateViz.js"></script>""")
@@ -484,9 +484,12 @@ def dumpTableFooter(findex,topicsGlobal):
           });
         } else {
           if (i==4) {
-            $(this).html('<select id="comboyear"><option value="">All Years</option><option value="2014">2014</option><option value="2016">2016</option><option value="2018">2018</option></select>');
+            $(this).html('<select id="comboyear"><option value="">All Years</option> """)
+  for y, d in data["years"].items():
+    findex.write('''<option value="'''+ str(y) + '''">'''+ str(y) + '''</option>''')
+  findex.write("""</select>');
           }
-   """)
+  """)
   findex.write("else if (i==5)\n")
   topicinput="""$(this).html('<select id="combotopic"><option value="">All Topics</option>"""
   for kw in topicsGlobal:
@@ -597,7 +600,7 @@ def write_browse_step1(fbrowse):
    dumpTableHeader(fbrowse)
 
 def write_browse_step2(fbrowse, data):
-   dumpTableFooter(fbrowse,allTopics)
+   dumpTableFooter(fbrowse,allTopics, data)
 
    fbrowse.write('''
             </div>
