@@ -14,25 +14,23 @@ function updateChartFromData() {
     filter: 'applied'
   }).data();
   var nb = 0;
-  var colsTopics = [[0, 0, 0, 0, 0, 0, 0, 0],
-                    [0, 0, 0, 0, 0, 0, 0, 0],
-                    [0, 0, 0, 0, 0, 0, 0, 0]];
-  var colsPdf    = [[0, 0, 0],
-                    [0, 0, 0],
-                    [0, 0, 0]];
-  var colNames = ["graphcol0",
-                  "graphcol1",
-                  "graphcol2",
-                  "totalcode",
-                  "totalnocode",
-                  "graphcol3",
-                  "graphcol4",
-                  "totalpseudocode",
-                  "graphcol5",
-                  "graphcol6",
-                  "graphcol7"];
+  var colsYears  = []
+  var colsTopics = [];
+  var colsPdf    = [];
+  // identifiers of the differents labels or rows of the chart
+  var colNames = ["graphcol0",       // C1
+                  "graphcol1",       // C2
+                  "graphcol2",       // C3
+                  "totalcode",       // computed: C1+C2+C3
+                  "totalnocode",     // computed
+                  "graphcol3",       // PC1
+                  "graphcol4",       // PC2
+                  "totalpseudocode", // computed: PC1+PC2
+                  "graphcol5",       // ACM OA
+                  "graphcol6",       // Preprint available
+                  "graphcol7"];      // PDF not available
   var el = document.createElement( 'html' );
-  totalperyear = [0, 0, 0];
+  totalperyear = [];
 
   // loop over entries selected in the table
   jQuery.each(d, function(index, value) {
@@ -40,7 +38,18 @@ function updateChartFromData() {
     el.innerHTML = value[2];
 
     year = value[4];
-    yearidx = year == '2014' ? 0 : year == '2016' ? 1 : 2;
+
+
+    // check if we found a new year
+    yearidx = colsYears.indexOf( year );
+    if (yearidx == -1) {
+        yearidx = colsYears.length;
+        colsYears.push(year);
+        colsTopics.push([0, 0, 0, 0, 0, 0, 0, 0]);
+        colsPdf.push([0, 0, 0]);
+        totalperyear.push(0);
+    }
+
     totalperyear[yearidx] ++;
 
     // loop over the graph columns (ie. the badges)
@@ -68,12 +77,27 @@ function updateChartFromData() {
 
   myChartTopics.options.title.text = ("Replicability (" + nb + " processed papers).");
   myChartPdf.options.title.text = ("Paper accessibility (" + nb + " processed papers).");
-  myChartTopics.data.datasets[0].data = colsTopics[0];
-  myChartTopics.data.datasets[1].data = colsTopics[1];
-  myChartTopics.data.datasets[2].data = colsTopics[2];
-  myChartPdf.data.datasets[0].data = colsPdf[0];
-  myChartPdf.data.datasets[1].data = colsPdf[1];
-  myChartPdf.data.datasets[2].data = colsPdf[2];
+
+
+  //sort by year (assumes sortArrays.js has been included first)
+  sorted = sortArrays([colsYears, colsTopics, colsPdf]);
+  colsYears = sorted[0]
+  colsTopics = sorted[1]
+  colsPdf = sorted[2]
+
+  // copy collected data in charts
+  myChartTopics.data.datasets = [];
+  myChartPdf.data.datasets = [];
+  for(i = 0; i != colsYears.length; i++)
+  {
+    myChartTopics.data.datasets.push(myChartGenerateEmpty(i));
+    myChartTopics.data.datasets[i].data  = colsTopics[i];
+    myChartTopics.data.datasets[i].label = colsYears[i];
+
+    myChartPdf.data.datasets.push(myChartPdfGenerateEmpty(i));
+    myChartPdf.data.datasets[i].data  = colsPdf[i];
+    myChartPdf.data.datasets[i].label = colsYears[i];
+  }
 
   myChartTopics.update();
   myChartPdf.update();
