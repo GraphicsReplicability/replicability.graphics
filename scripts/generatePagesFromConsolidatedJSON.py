@@ -1,6 +1,7 @@
 import csv,os,sys, json,re,codecs
 import hashlib
 import shutil
+from collections import OrderedDict
 
 def genChartHeader(f):
     f.write("""
@@ -458,6 +459,7 @@ def dumpTableHeader(findex):
 
 def dumpTableFooter(findex,topicsGlobal):
   findex.write('</tbody></table>')
+  findex.write("""<script type="text/javascript" src="assets/js/sortArrays.js"></script>""")
   findex.write("""<script type="text/javascript" src="assets/js/browse-updateViz.js"></script>""")
   findex.write("""
   <script>
@@ -980,7 +982,10 @@ with open(sys.argv[1]) as json_file:
               fbrowse.write("</tr>")
               cpt+=1
 
-   
+   # sort by years
+   step2data["years"]   = OrderedDict(sorted(step2data["years"].items()))
+   step2data["yearspdf"]   = OrderedDict(sorted(step2data["yearspdf"].items()))
+
    step2data["cpt"] = cpt
    step2data["cptHasCode"] = cptHasCode
    step2data["cptVariants"] = cptVariants

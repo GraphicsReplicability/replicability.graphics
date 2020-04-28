@@ -79,8 +79,13 @@ function updateChartFromData() {
   myChartPdf.options.title.text = ("Paper accessibility (" + nb + " processed papers).");
 
 
+  //sort by year (assumes sortArrays.js has been included first)
+  sorted = sortArrays([colsYears, colsTopics, colsPdf]);
+  colsYears = sorted[0]
+  colsTopics = sorted[1]
+  colsPdf = sorted[2]
+
   // copy collected data in charts
-  // TODO: avoid copy and generate data directly in charts
   myChartTopics.data.datasets = [];
   myChartPdf.data.datasets = [];
   for(i = 0; i != colsYears.length; i++)
