@@ -45,7 +45,7 @@ function myChartGenerateEmpty(idx){
       },
 
     ];
-    return datasets[idx];
+    return datasets[idx%datasets.length];
 }
 
 
@@ -126,7 +126,7 @@ function myChartPdfGenerateEmpty(idx){
       },
 
     ];
-    return datasets[idx];
+    return datasets[idx%datasets.length];
 }
 
 var myChartPdf = new Chart(document.getElementById('myChartPdf'), {
