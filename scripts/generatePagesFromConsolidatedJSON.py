@@ -242,6 +242,11 @@ def generatePage(f,pathPages,variant,doi,doiclean,authors,tabid):
  else:
     f.write("\n")
 
+def delKey(paper,key):
+  for var in paper:
+      if key in var:
+        del var[key]
+
 def generateAllPages(pathPages,paper):
 
  variant=[]
@@ -258,9 +263,11 @@ def generateAllPages(pathPages,paper):
  doi = variant['DOI']
  doiclean = re.sub('/', '-', doi)
 
- ##Export
+ ##Export without comments
  fout=codecs.open(pathPages+doiclean+'/replicability.json', "w+","UTF-8")
- json.dump(paper, fout,indent=4)
+ paperClean = paper
+ delKey(paperClean,'##')
+ json.dump(paperClean, fout,indent=4)
 
  authors=getAuthors(pathPages,doi,doiclean)
  title = variant['Title']
