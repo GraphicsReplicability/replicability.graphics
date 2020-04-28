@@ -30,7 +30,7 @@
         "git/hg/svn commit hash or revision number": "a458f1e1da928d04ef1434bb53b97264d53f4102",
         "MD5 sum (for archives) URL2": "",
         "git/hg/svn commit hash or revision number URL2": "",
-        "Software Heritage permalink": "",
+        "Software Heritage permalink": "https://archive.softwareheritage.org/swh:1:dir:54efaf5589b3d1e4d1abe7e574b4d2b15a3d8de0;origin=https://github.com/xbpeng/DeepMimic/",
         "Software type {Code, Binary, Partial Code}": "Code",
         "Code License (if any)": "MIT",
         "Are the code authors explicit? (boolean)": false,
