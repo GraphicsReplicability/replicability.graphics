@@ -29,7 +29,7 @@
         "git/hg/svn commit hash or revision number": "645fb2388341bc90300e2645fe4f9d0374baa537",
         "MD5 sum (for archives) URL2": "",
         "git/hg/svn commit hash or revision number URL2": "",
-        "Software Heritage permalink": "",
+        "Software Heritage permalink": "https://archive.softwareheritage.org/swh:1:dir:8cb1e6945fb08e2e77cf3d4ddaaaeef68708cab2;origin=https://github.com/scanner-research/scanner/",
         "Software type {Code, Binary, Partial Code}": "Code",
         "Code License (if any)": "Apache License 2.0",
         "Are the code authors explicit? (boolean)": true,

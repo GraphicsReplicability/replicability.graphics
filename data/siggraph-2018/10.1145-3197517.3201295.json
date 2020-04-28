@@ -28,7 +28,7 @@
         "git/hg/svn commit hash or revision number": "21509d415ec911df431395e0df8db9f02f04928c",
         "MD5 sum (for archives) URL2": "",
         "git/hg/svn commit hash or revision number URL2": "",
-        "Software Heritage permalink": "",
+        "Software Heritage permalink": "https://archive.softwareheritage.org/swh:1:dir:05c00414d5a78f9f165593d1baa773b7f19f53be;origin=https://github.com/againxx/nbo-autoscanning/",
         "Software type {Code, Binary, Partial Code}": "Code",
         "Code License (if any)": "unspecified",
         "Are the code authors explicit? (boolean)": false,
