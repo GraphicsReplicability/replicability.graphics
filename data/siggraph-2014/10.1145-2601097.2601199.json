@@ -28,7 +28,7 @@
         "git/hg/svn commit hash or revision number": "d17aec1491a6c664f4da2f0b8ba03c171cbf36a1",
         "MD5 sum (for archives) URL2": "",
         "git/hg/svn commit hash or revision number URL2": "",
-        "Software Heritage permalink": "",
+        "Software Heritage permalink": "https://archive.softwareheritage.org/swh:1:dir:7bf3744fbbe33755565d5c03d091a3dd6b05a2a6;origin=https://github.com/embree/embree.git/",
         "Software type {Code, Binary, Partial Code}": "Code",
         "Code License (if any)": "Apache License version 2.0",
         "Are the code authors explicit? (boolean)": false,
