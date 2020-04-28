@@ -332,7 +332,7 @@ def generateAllPages(pathPages,paper):
 
   </head>\n<body>
   """)
- f.write('<ul class="publist-inline" style="text-align:left;"><li class="web"><a href="../../index.html">< Index</a></ul>')
+ f.write('<ul class="publist-inline" style="text-align:left;"><li class="web"><a href="../../browse.html">< The Data</a></ul>')
  f.write('<h1 class="title">'+title+" "+ badgeRep[0]+'</h1>')
 
  f.write('<ul class="authors">\n')
