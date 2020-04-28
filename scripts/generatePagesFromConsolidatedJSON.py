@@ -265,9 +265,7 @@ def generateAllPages(pathPages,paper):
 
  ##Export without comments
  fout=codecs.open(pathPages+doiclean+'/replicability.json', "w+","UTF-8")
- paperClean = paper
- delKey(paperClean,'##')
- json.dump(paperClean, fout,indent=4)
+ json.dump(paper, fout,indent=4)
 
  authors=getAuthors(pathPages,doi,doiclean)
  title = variant['Title']
@@ -884,7 +882,8 @@ with open(sys.argv[1]) as json_file:
    
    print("Generating index...")
    for paper in fulldata:
-    for variant in paper:
+     delKey(paper,'##')
+     for variant in paper:
       if isinstance(variant, str):
         print("Oops.. the variant is a string...")
       else:
