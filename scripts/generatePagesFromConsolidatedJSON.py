@@ -391,8 +391,9 @@ def generateAllPages(pathPages,paper):
     generatePage(f,pathPages,var,doi,doiclean,authors,varid+1)
 
  f.write('''<div id=review-%s>
-            There are two options to add a review to this article:
-            <ul><li>Open a pull request at <a href="https://github.com/GraphicsReplicability/replicability.graphics">https://github.com/GraphicsReplicability/replicability.graphics</a></li><li>Fill the form below (this option requires manual work and might be avoided if possible): <br>TODO: ADD FORM</li></ul>
+           <p> If you want to contribute with another review, please follow <a href="../../index.html#contribute">these instructions.</a></p>
+ 
+            <p>Please consider to cut/paste/edit the <a href="replicability.json">raw JSON data</a> attached to this paper.</a></p>
             </div>
             '''% (len(paper)+1));
 
