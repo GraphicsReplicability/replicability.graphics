@@ -14,12 +14,12 @@ More details: [https://replicability.graphics](https://replicability.graphics)
 
 ```
 @Article{replicGraph2020,
-  author =       {Nicolas Bonneel, David Coeurjolly, Julie Digne and Nicolas Mellado},
-  title =        {Code replicabiltiy in computer graphics},
-  journal =      {ACM Transactions on Graphics (Proceedings of SIGGRAPH 2020)},
-  year =         {2020},
-  volume =    {39},
-  number =    {4},
+  author  =    {Nicolas Bonneel, David Coeurjolly, Julie Digne and Nicolas Mellado},
+  title   =    {Code replicabiltiy in computer graphics},
+  journal =    {ACM Transactions on Graphics (Proceedings of SIGGRAPH 2020)},
+  year    =    {2020},
+  volume  =    {39},
+  number  =    {4},
 }
 ```
 
