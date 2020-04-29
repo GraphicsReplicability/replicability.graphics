@@ -461,7 +461,6 @@ def dumpTableHeader(findex):
   findex.write('<th>Pseudocode only</th>')
   findex.write('<th>Pseudocode score</th>')
   findex.write('<th>Doc. score</th>')
-  findex.write('<th>Citations (G.S.)</th>')
   findex.write('<th>Altmetric score</th>')
   findex.write('</tr></thead>\n<tbody>')
 
@@ -962,8 +961,6 @@ with open(sys.argv[1]) as json_file:
               fbrowse.write("<td>"+str(pscore)+"</td>")
               #Doc score
               fbrowse.write("<td>"+str(variant['Documentation score {0=NA,1,2,3}'])+"</td>")
-              #GG
-              fbrowse.write("<td></td>")
               #altmetric
               if altmetric[0] != -1:
                   fbrowse.write('   <td> <a href="'+altmetric[2]+'">'+str(altmetric[0])+'</a></td>')
