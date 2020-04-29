@@ -67,7 +67,7 @@ def genChartNoTest(f,variant,tabid):
     f.write('<li><span class="family">Reviewer</span>: '+ str(variant['Reviewer name']) + '</li>\n')
     f.write('</ul>')
 
-    ##switch psuedo
+    ##switch pseudo
     f.write("We haven't found any source code from the authors.<br><br>")
 
     if not(variant['Code available (boolean)']) and variant['If code not available, pseudo-code available (boolean)']:
@@ -783,7 +783,7 @@ def write_index_step2(findex, data):
                 <p style="text-align:left">For the last two cases, you
                 can either submit a proper JSON file as a <a
                 href="https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request">pull request</a>
-                to this <a href="https://github.com/GraphicsReplicability/replicability.graphics"><img width="20pt" src="images/github.png"/> project</a>, or send the JSON file to <a href=mailto:GraphicsReplicability@liris.cnrs.fr">GraphicsReplicability@liris.cnrs.fr</a>.</p>
+                to this <a href="https://github.com/GraphicsReplicability/replicability.graphics"><img width="20pt" src="images/github.png"/> project</a>, or send the JSON file to <a href="mailto:GraphicsReplicability@liris.cnrs.fr">GraphicsReplicability@liris.cnrs.fr</a>.</p>
 
 
 
@@ -832,25 +832,9 @@ def write_index_step2(findex, data):
             <div class="container">
                 <div class="col-4 col-12-narrow">
 	      <h2>Contact us</h2>
-	      <p>Drop us an email for more information or to let us know what you think.</p>
+	      <p>Drop us an <a href="mailto:GraphicsReplicability@liris.cnrs.fr">email</a> for more information or to let us know what you think.</p>
+	      
                 </div>
-	  <div class="content style4 featured">
-	    <div class="container medium">
-	      <form method="post" action="mailto:GraphicsReplicability@liris.cnrs.fr">
-		<div class="row gtr-50">
-		  <div class="col-6 col-12-mobile"><input type="text" placeholder="Name" /></div>
-		  <div class="col-6 col-12-mobile"><input type="text" placeholder="Email" /></div>
-		  <div class="col-12"><textarea name="message" placeholder="Message"></textarea></div>
-		  <div class="col-12">
-		    <ul class="actions special">
-		      <li><input type="submit" class="button" value="Send Message" /></li>
-		      <li><input type="reset" class="button alt" value="Clear Form" /></li>
-		    </ul>
-		  </div>
-		</div>
-	      </form>
-	    </div>
-	  </div>
             </div>
         </div>
     </section>
