@@ -655,7 +655,7 @@ def write_index_step2(findex, data):
       <p style="text-align:left">This website provides an interactive tool to explore our results and evaluation data.
       It also provides tools to comment on the various codes either as an author or as a user. All materials (data, scripts..) that  have been used to generate these results are available on the  <a
       href="https://github.com/GraphicsReplicability/replicability.graphics"> <img width="20pt" src="images/github.png"/>&nbsp;replicability.graphics
-      GitHub project</a>. The website contains all siggraph 2014, 2016 and 2018 papers. We are collecting contributions for other venues, but we do not have all data yet.</p>
+      GitHub project</a>. The website contains all siggraph 2014, 2016 and 2018 papers. We are collecting contributions for other venues, but we do not have all the data yet.</p>
 
 
      <p style="text-align:left"> Our project aims at providing the community with tools to improve Computer Graphics research replicability. Sharing this goal is the <a href="http://ReplicabilityStamp.org">Graphics
