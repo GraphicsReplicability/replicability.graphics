@@ -646,16 +646,19 @@ def write_index_step2(findex, data):
         replicability in Computer Graphics, by evaluating whether the
         code is available and whether it works properly.  As a proxy
         for this field we compiled, ran and analyzed ''' + str(data["cptHasCode"])+ ''' codes out of
-       ''' + str(data["cpt"]) + ''' papers from 2014, 2016 and 2018 SIGGRAPH conferences. This
-        analysis shows a clear increase in the number of papers with
+       ''' + str(data["cpt"]) + ''' papers from SIGGRAPH conferences (exhaustive for 2014, 2016 and 2018). In the analysis described in</p>
+
+                        <p>Nicolas Bonneel, David Coeurjolly, Julie Digne, Nicolas Mellado, <a href="https://replicability.graphics/replicability.pdf"><i><b>Code Replicability in Computer Graphics</b></i></a>, ACM Trans. on Graphics (Proceedings of SIGGRAPH 2020), 39:4,</p>
+
+        <p style="text-align:left">we shows a clear increase in the number of papers with
         available and operational research codes with a dependency on
         the subfields, and indicates a correlation between code
-        replicability and citation count.</p>
+        replicability and citation count. </p>
 
       <p style="text-align:left">This website provides an interactive tool to explore our results and evaluation data.
       It also provides tools to comment on the various codes either as an author or as a user. All materials (data, scripts..) that  have been used to generate these results are available on the  <a
       href="https://github.com/GraphicsReplicability/replicability.graphics"> <img width="20pt" src="images/github.png"/>&nbsp;replicability.graphics
-      GitHub project</a>. The website contains all siggraph 2014, 2016 and 2018 papers. We are collecting contributions for other venues, but we do not have all data yet.</p>
+      GitHub project</a>. The website contains all siggraph 2014, 2016 and 2018 papers. We are collecting contributions for other venues, but we do not have all the data yet.</p>
 
 
      <p style="text-align:left"> Our project aims at providing the community with tools to improve Computer Graphics research replicability. Sharing this goal is the <a href="http://ReplicabilityStamp.org">Graphics
@@ -762,7 +765,6 @@ def write_index_step2(findex, data):
                 <li> <a href="https://www.irit.fr/~Nicolas.Mellado/">Nicolas Mellado</a> (CNRS, IRIT, Toulouse, France)
                 </ul>
 
-                        <p>Main reference paper: <a href="">Nicolas Bonneel, David Coeurjolly, Julie Digne, Nicolas Mellado, <i>Code Replicability in Computer Graphics</i>, Siggraph 2020 </a></p>
 
                 <img height="100px" src="images/logo_cnrs.png"/>   &nbsp;&nbsp;&nbsp;  <img height="100px" src="images/logo_liris.png"/> &nbsp;&nbsp;&nbsp; <img height="100px"  src="images/logo_irit.png"/>
 
