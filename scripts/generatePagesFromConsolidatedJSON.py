@@ -646,11 +646,11 @@ def write_index_step2(findex, data):
         replicability in Computer Graphics, by evaluating whether the
         code is available and whether it works properly.  As a proxy
         for this field we compiled, ran and analyzed ''' + str(data["cptHasCode"])+ ''' codes out of
-       ''' + str(data["cpt"]) + ''' papers from 2014, 2016 and 2018 SIGGRAPH conferences. This
-        analysis shows a clear increase in the number of papers with
+       ''' + str(data["cpt"]) + ''' papers from SIGGRAPH conferences (exhaustive for 2014, 2016 and 2018). The
+        analysis provided in this <a href="https://replicability.graphics/replicability.pdf">publication<a> (see <a href="index.html#team">below</a>) shows a clear increase in the number of papers with
         available and operational research codes with a dependency on
         the subfields, and indicates a correlation between code
-        replicability and citation count.</p>
+        replicability and citation count. </p>
 
       <p style="text-align:left">This website provides an interactive tool to explore our results and evaluation data.
       It also provides tools to comment on the various codes either as an author or as a user. All materials (data, scripts..) that  have been used to generate these results are available on the  <a
@@ -762,7 +762,7 @@ def write_index_step2(findex, data):
                 <li> <a href="https://www.irit.fr/~Nicolas.Mellado/">Nicolas Mellado</a> (CNRS, IRIT, Toulouse, France)
                 </ul>
 
-                        <p>Main reference paper: <a href="">Nicolas Bonneel, David Coeurjolly, Julie Digne, Nicolas Mellado, <i>Code Replicability in Computer Graphics</i>, Siggraph 2020 </a></p>
+                        <p>Main reference paper: <a href="https://replicability.graphics/replicability.pdf">Nicolas Bonneel, David Coeurjolly, Julie Digne, Nicolas Mellado, <i>Code Replicability in Computer Graphics</i>, Siggraph 2020 </a></p>
 
                 <img height="100px" src="images/logo_cnrs.png"/>   &nbsp;&nbsp;&nbsp;  <img height="100px" src="images/logo_liris.png"/> &nbsp;&nbsp;&nbsp; <img height="100px"  src="images/logo_irit.png"/>
 
