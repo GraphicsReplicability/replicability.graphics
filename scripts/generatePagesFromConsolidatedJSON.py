@@ -27,6 +27,7 @@ def genChart(f,variant,tabid):
     f.write('<li><span class="family">Able to run a replicability test</span>: '+ str(variant["Able to perform a replicability test (boolean)"]) + '</li>\n')
     f.write('<li><span class="family">Replicability score</span>: '+ str(variant['Replicate paper results score {0=NA, 1,2,3,4,5}']) + '</li>\n')
 
+    f.write('<li><span class="family">Software language</span>: '+ variant["Software language"] + '</li>\n')
     f.write('<li><span class="family">License</span>: '+ variant["Code License (if any)"] + '</li>\n')
     f.write('<li><span class="family">Build mechanism</span>: '+ variant["Build/Configure mechanism"] + '</li>\n')
     f.write('<li><span class="family">Dependencies</span>: '+ variant["Dependencies"] + '</li>\n')
