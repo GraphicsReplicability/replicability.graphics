@@ -100,6 +100,10 @@
         "##": "to compile or evaluated the project)",
         "Software type {Code, Binary, Partial Code}": "",
 
+        "##": "Software language (binary, python, c++,....)",
+        "Software language": "",
+
+        
         "##": "Is a license specified for the code ?",
         "##": "If so, precise the license (or keep the string empty if not).",
         "Code License (if any)": "",
