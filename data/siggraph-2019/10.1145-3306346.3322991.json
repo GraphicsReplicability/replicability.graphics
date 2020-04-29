@@ -178,8 +178,8 @@
         "##": "5 = The code can be easily used for other projects (as it is) or can be easily extended to other contexts",
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 0,
 
-        "##": "Time spent for the replicability test (from the download to the first successful run)",
-        "Time spent for the test (code download to first successful run)": 0,
+        "##": "Time spent for the replicability test (from the download to the first successful run, , [0,10], 10min slots, 100min max)",
+        "Time spent for the test (code download to first successful run, , [0,10], 10min slots, 100min max)": 0,
 
         "##": "OS for the teste",
         "Operating system for the test": "",
