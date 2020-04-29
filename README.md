@@ -1,5 +1,6 @@
 # replicability.graphics
 
+
 Companion website  and data of the article:
 
      Code Replicability in Computer Graphics, Nicolas Bonneel, David
@@ -28,3 +29,5 @@ More details: [https://replicability.graphics](https://replicability.graphics)
 * David Coeurjolly (CNRS, LIRIS, Lyon, France)
 * Julie Digne (CNRS, LIRIS, Lyon, France)
 * Nicolas Mellado (CNRS, IRIT, Toulouse, France)
+
+![](website-source/images/banner.png)
