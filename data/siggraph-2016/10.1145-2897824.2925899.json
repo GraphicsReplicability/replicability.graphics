@@ -50,6 +50,7 @@
         "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 3,
         "Operating system for the test": "Linux",
         "Build instructions/comments": "had to modify the CMakeLists. Added two lines: find_package(glfw3 REQUIRED)\nset (DEFAULT_LIBRARIES ${DEFAULT_LIBRARIES} glfw) to link against glfw. I run a simulation using the file provided in assets/droplet3d: with command line: Droplet3D crownsplash.txt for example. The simulation runs, a wireframe mesh is displayed. However the renderings are very far from the ones in the paper.\nFor crownsplash I had the following error: [MeshIO::load] Error: file init/crownsplash.rec not found.",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "C/C++"
     }
 ]

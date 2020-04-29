@@ -49,6 +49,7 @@
         "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 10,
         "Operating system for the test": "Windows",
         "Build instructions/comments": "The code is split in two parts, in two different projects. The second project is trivial to run in matlab without hassle, takes an input image that consists in standard RGB colors for the first half, and the second half should contain features. \nThe first project of the code, which is supposed to generate features is much more difficult to run. It depends on TensorFlow 1.4 (while the readme indicates TensorFlow >= 1.4, it in fact only works with TensorFlow = 1.4). This old TensorFlow does not support Python 3.7, so I had to remove my 3.7 to install a 3.6 (which cannot be installed via Anaconda -- Anaconda spent an entire night trying to downgrade 3.7 to 3.6 but this didn't work). Finally, when the code runs, it outputs a matlab file which contains 128 features. This file should be processed with preprocessFeatures, along with the original image, in the second project.\nThe process is not documented, but can be understood from the context. In general, while it was relatively painful to run, results seem to be reproducible. It would however have been much less painful if I had a Python 3.6 already installed.\nThe lower replicability score is explained by the fact no code is provided for training and only the pre-trained model is given.",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "Python, Matlab / Mathematica / .."
     }
 ]

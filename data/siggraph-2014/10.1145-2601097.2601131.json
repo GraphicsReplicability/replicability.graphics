@@ -49,6 +49,7 @@
         "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 1,
         "Operating system for the test": "",
         "Build instructions/comments": "",
-        "Misc. comments": "The project page contains the dataset and some resulting data (features and weights). Several html pages to display the results do not work anymore."
+        "Misc. comments": "The project page contains the dataset and some resulting data (features and weights). Several html pages to display the results do not work anymore.",
+        "Software language": ""
     }
 ]

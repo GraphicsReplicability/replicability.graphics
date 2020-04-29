@@ -50,6 +50,7 @@
         "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 10,
         "Operating system for the test": "Linux",
         "Build instructions/comments": "The code is supposed to support python3 (script train_half_style starts with python3), but several changes need to be made to make it work with python3: tensor[0] should be replaced by tensor.item(), xrange() should be replaced by range(). Needs also visdom and dominate package which were not listed in the README.",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "Python"
     }
 ]

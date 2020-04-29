@@ -50,6 +50,7 @@
         "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 2,
         "Operating system for the test": "Linux",
         "Build instructions/comments": "scene configurations provided for the examples presented in the paper.",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "C/C++"
     }
 ]

@@ -51,6 +51,7 @@
         "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 3,
         "Operating system for the test": "Linux",
         "Build instructions/comments": "The matlab scripts work out of the box. The houdini file for each figure of the paper are provided. In my houdini only the particle view was possible so the rendering was not as nice as the ones in the paper but the geometry was consistent.",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "Matlab / Mathematica / .., Other"
     }
 ]

@@ -49,6 +49,7 @@
         "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 4,
         "Operating system for the test": "Linux",
         "Build instructions/comments": "I had to download SOIL from a github+fix includes. Pb of redefinition of symbols between glext and glew. Finally managed to compile but at execution I got a shader problem: extension `GL_EXT_gpu_shader4' unsupported in vertex shader. I was therefore unable to reproduce any result.",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "C/C++"
     }
 ]

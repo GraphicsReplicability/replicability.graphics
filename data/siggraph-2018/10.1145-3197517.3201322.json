@@ -52,6 +52,7 @@
         "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 2,
         "Operating system for the test": "Linux",
         "Build instructions/comments": "I was able to generate partial curves from the input data. Curve fitting toolbox missing for generating all the curves. Input data provided since special hardware setup is needed to reproduce the data (hardware assembly detailed on the project webpage)",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "Matlab / Mathematica / .."
     }
 ]

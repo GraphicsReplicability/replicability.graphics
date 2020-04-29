@@ -51,6 +51,7 @@
         "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 2,
         "Operating system for the test": "Linux",
         "Build instructions/comments": "Could not run due to missing data: the SUNCG database is no longer available, and no pretrained model is given",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "Python"
     }
 ]

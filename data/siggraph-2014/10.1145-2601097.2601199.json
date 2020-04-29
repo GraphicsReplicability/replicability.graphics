@@ -49,6 +49,7 @@
         "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 3,
         "Operating system for the test": "Linux",
         "Build instructions/comments": "Very well maintained library. I tested the latest version of the library",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "C/C++"
     }
 ]

@@ -50,6 +50,7 @@
         "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 5,
         "Operating system for the test": "Linux",
         "Build instructions/comments": "I had to patch the environment.yml file to use up-to-date pip packages.\nI could train the network and see image results using tensorboard, however  it is not clear how this images should be compared with the results shown in the paper.",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "Python"
     }
 ]

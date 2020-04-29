@@ -50,6 +50,7 @@
         "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 6,
         "Operating system for the test": "Linux",
         "Build instructions/comments": "Complex CUDA/cudNN/tensorflow/manta infrastructure but well documented. Training data can be reproduced and pre-trained model can be easily reused.",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "C/C++, Python"
     }
 ]

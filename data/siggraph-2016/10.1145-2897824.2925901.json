@@ -49,6 +49,7 @@
         "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 2,
         "Operating system for the test": "Mac OS",
         "Build instructions/comments": "The code is given as a part of the libigl library. A specific tutorial example (#609) illustrates the boolean operation on meshes described in the paper. The core of paper results can thus be reproduced but not all of them (some are application dependent).",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "C/C++"
     }
 ]

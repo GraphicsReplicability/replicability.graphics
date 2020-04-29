@@ -49,6 +49,7 @@
         "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 4,
         "Operating system for the test": "Linux",
         "Build instructions/comments": "The loaded mesh are displayed as lines, which is probably due to some formatting issue but I was  therefore unable to run the provided examples (the uv textures are displayed correctly but not the meshes). To run the app, I had to export the plugins location before launching the exec: export QT_QPA_PLATFORM_PLUGIN_PATH=/usr/lib/x86_64-linux-gnu/qt5/plugins/",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "C/C++"
     }
 ]

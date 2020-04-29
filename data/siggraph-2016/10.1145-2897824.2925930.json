@@ -50,6 +50,7 @@
         "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 1,
         "Operating system for the test": "Windows",
         "Build instructions/comments": "The code comes with no makefile, but it is straightforward to compile it (a single main.cpp and a few .h, with no external dependencies, which is ideal). Given the stdafx.h, I compiled it with Visual Studio 2017, creating a solution in no effort. \nHowever, std::auto_ptr is soon to be deprecated. Right now, you need to #include <memory> in  geodesic_memory.h to compile it. Some people mention the preprocessor directive _HAS_AUTO_PTR_ETC=1 but this was not useful for me (perhaps VS2019).\nData were not provided, so I computed geodesics on meshes of my own. I managed to compute single source/all destinations geodesics of a 474K triangle mesh in 4.8 seconds on a 2.8GHz laptop, which matches timings in the paper (382K triangles in 4.13 seconds, on a 3.4GHz desktop machine).",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "C/C++"
     }
 ]

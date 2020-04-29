@@ -50,6 +50,7 @@
         "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 3,
         "Operating system for the test": "Mac OS",
         "Build instructions/comments": "The project page provides many ressources for replicability (system diagrams, firmware, C++ libs for the controller). As the paper is a hardware-oriented research, it is not replicable in the sense of the current study.",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "C/C++, Matlab / Mathematica / .."
     }
 ]

@@ -49,6 +49,7 @@
         "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 1,
         "Operating system for the test": "Windows",
         "Build instructions/comments": "Part of the code requires an SLM to run, which I do not have ; this part also only compiles with VS2015 and not VS2017 (which I have), and has several dependencies. However, parts of the code (simple adaptive optics and the solver) also allow to reproduce some the paper's figures, and trivially run on matlab without dependencies.",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "Matlab / Mathematica / .., Shader language"
     }
 ]

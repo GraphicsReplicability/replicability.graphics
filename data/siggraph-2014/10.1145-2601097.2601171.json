@@ -49,6 +49,7 @@
         "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 3,
         "Operating system for the test": "Linux",
         "Build instructions/comments": "Code works out of the box. Readme clearly states it misses some features and is less efficient. Adaptation to octave is very easy. It only requires commenting out two lines (lines 23-24 in PlotFilaments.m: l23: camproj perspective; l24 cameratoolbar).",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "Matlab / Mathematica / .."
     }
 ]

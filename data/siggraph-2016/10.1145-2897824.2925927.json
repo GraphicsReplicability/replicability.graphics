@@ -49,6 +49,7 @@
         "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 1,
         "Operating system for the test": "",
         "Build instructions/comments": "",
-        "Misc. comments": "Note that there is \"Important copyright information\" to read before downloading, but the link is dead."
+        "Misc. comments": "Note that there is \"Important copyright information\" to read before downloading, but the link is dead.",
+        "Software language": ""
     }
 ]

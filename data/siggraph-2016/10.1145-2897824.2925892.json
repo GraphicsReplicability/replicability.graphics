@@ -50,6 +50,7 @@
         "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 4,
         "Operating system for the test": "Linux",
         "Build instructions/comments": "I was able to run the software and the examples, but no demo due to terra (optional dependency) failure. The examples of the paper might be in the demo but I was unable to check.",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "Other"
     }
 ]

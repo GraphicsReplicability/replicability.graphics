@@ -51,6 +51,7 @@
         "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 3,
         "Operating system for the test": "Linux",
         "Build instructions/comments": "I was able to run and visualize pretrained policies + learned a policy training \"humanoid3d_spinkick_args.txt",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "C/C++, Python"
     }
 ]

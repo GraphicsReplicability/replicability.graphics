@@ -49,6 +49,7 @@
         "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 3,
         "Operating system for the test": "Linux",
         "Build instructions/comments": "Produces paper-like results, but no script to reproduce the examples and input data not given.",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "Cannot answer"
     }
 ]

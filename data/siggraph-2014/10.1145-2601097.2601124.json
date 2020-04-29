@@ -53,6 +53,7 @@
         "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 2,
         "Operating system for the test": "Windows",
         "Build instructions/comments": "The authors provide a user documentation to describe how to use their tool. They also mention a video on youtube (https://www.youtube.com/watch?v=yD_cSRJ7Gho) which allows to see how to use the GUI in practice (I couldn't use the tool without watching the video). \n\nNote that the tools depend on nvidia cgtoolkit, which is deprecated but still available for now (might not last for long).",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "Cannot answer"
     }
 ]

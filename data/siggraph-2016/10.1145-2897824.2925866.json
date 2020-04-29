@@ -50,6 +50,7 @@
         "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 1,
         "Operating system for the test": "Windows",
         "Build instructions/comments": "It is a windows binary only. Not all results in the paper are provided, but the software works well for the examples provided. However I could not test on a polarized screen.",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "Cannot answer"
     }
 ]

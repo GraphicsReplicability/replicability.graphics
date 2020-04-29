@@ -49,6 +49,7 @@
         "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 1,
         "Operating system for the test": "",
         "Build instructions/comments": "",
-        "Misc. comments": "The pseudo-code in appendix is actually usable C++ code. However, it implements a fraction of the paper (the non penetration constraint in the optimizer, not the entire simulation)."
+        "Misc. comments": "The pseudo-code in appendix is actually usable C++ code. However, it implements a fraction of the paper (the non penetration constraint in the optimizer, not the entire simulation).",
+        "Software language": ""
     }
 ]

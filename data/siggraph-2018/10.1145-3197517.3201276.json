@@ -53,6 +53,7 @@
         "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 4,
         "Operating system for the test": "Mac OS",
         "Build instructions/comments": "Plugin for Houdini. Code not explicitly given but in the Houdini graph nodes and the digital asset.",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "Python, Other"
     }
 ]

@@ -51,6 +51,7 @@
         "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 1,
         "Operating system for the test": "",
         "Build instructions/comments": "",
-        "Misc. comments": "Neither code nor experimental data is available. The corresponding experiment involves 20 subject performing 78 trials on various 3d printed blocks."
+        "Misc. comments": "Neither code nor experimental data is available. The corresponding experiment involves 20 subject performing 78 trials on various 3d printed blocks.",
+        "Software language": ""
     }
 ]

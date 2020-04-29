@@ -51,6 +51,7 @@
         "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 3,
         "Operating system for the test": "",
         "Build instructions/comments": "",
-        "Misc. comments": "The project's webpage states \"code coming soon\". The flashlight library https://mikeroberts3000.github.io/flashlight/ explicitly states that it is used in the 2016 siggraph paper project but no code for the paper (or reference to part of the library) is explicitly given."
+        "Misc. comments": "The project's webpage states \"code coming soon\". The flashlight library https://mikeroberts3000.github.io/flashlight/ explicitly states that it is used in the 2016 siggraph paper project but no code for the paper (or reference to part of the library) is explicitly given.",
+        "Software language": ""
     }
 ]

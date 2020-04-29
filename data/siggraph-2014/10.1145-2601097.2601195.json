@@ -50,6 +50,7 @@
         "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 1,
         "Operating system for the test": "Windows",
         "Build instructions/comments": "This paper has become a commercial product called \"Microsoft Hyperlapse Pro\". I can only suppose the software implements this paper (a link to this software is present on one of the author's page about this paper). The videos used in the paper are not shared, so I could only test on my own videos. It seems to work well overall, and the interface is very easy (2 clicks: import video and process).",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "Cannot answer"
     }
 ]

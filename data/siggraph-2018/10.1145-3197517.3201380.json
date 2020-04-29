@@ -49,6 +49,7 @@
         "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 10,
         "Operating system for the test": "Windows",
         "Build instructions/comments": "Overall I managed to build the project with VS2017 very easily, and ran the model-viewer demo within minutes. However, I did not manage to run the simpler cpu-hello-world demo due to a couple of bugs. In Line 217 of slang-win-visual-studio-util.cpp, I had to add a condition : if (lines.getCount() && lines[0].size()!=0) instead of if (lines.getCount()) because my Visual Studio vswhere gives a blank line when the requested version is not found (instead of no line at all), which was messing up with the VS version selector afterwards. Then, after fixing this issue, since the program was still looking for the 'Generic C/C++ Compiler' (and did not consider my VS2017 to be generic enough ? though it found it), I had to force Visual Studio to be passed through in line 113 of the main.cpp, using spSetPassThrough(slangRequest, SlangPassThrough(5));\nUltimately, after these fixes, I got a link error : \"Visual Studio 15.0: shader.slang (0): link error LNK1107:  invalid or corrupt file: cannot read at 0x16F\" when running the code, which I cannot debug much further.\nIn short, it nicely reproduced results on the GPU, but I could not run the code on the CPU.",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "C/C++"
     }
 ]

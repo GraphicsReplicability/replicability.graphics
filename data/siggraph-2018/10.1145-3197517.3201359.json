@@ -50,6 +50,7 @@
         "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 4,
         "Operating system for the test": "Windows",
         "Build instructions/comments": "LibIGL has changed in the meantime (last commit at the time of the test: c645aac0c5852fad6fabe8c192fdc8675e607263). To compile, one has to edit some #include (removing #include igl/components.h in tutte_embedding_mex.cpp and adding #include igl/unique_rows.h in FastLsBuildUtils.cpp). To make it work on Windows with Visual Studio (2017), one has to edit the compileAllMex.m to add '-DWIN32' and '-D_USE_MATH_DEFINES' to the mex options.",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "C/C++, Matlab / Mathematica / .."
     }
 ]

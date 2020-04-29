@@ -49,6 +49,7 @@
         "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 2,
         "Operating system for the test": "Mac OS",
         "Build instructions/comments": "No issue to build the code and run the examples. I had to look at the code to understand the keys for the viewer but it was quite explicit. Almost all figures have an example file to easily reproduce the results.",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "C/C++"
     }
 ]

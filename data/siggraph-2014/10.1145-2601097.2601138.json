@@ -49,6 +49,7 @@
         "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 1,
         "Operating system for the test": "",
         "Build instructions/comments": "",
-        "Misc. comments": "An unofficial implementation can be found in EDXRay (https://github.com/behindthepixels/EDXRay/commit/3af2fb67237de651e6ac6877ac07acb38b9fafd5)"
+        "Misc. comments": "An unofficial implementation can be found in EDXRay (https://github.com/behindthepixels/EDXRay/commit/3af2fb67237de651e6ac6877ac07acb38b9fafd5)",
+        "Software language": ""
     }
 ]

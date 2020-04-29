@@ -50,6 +50,7 @@
         "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 1,
         "Operating system for the test": "",
         "Build instructions/comments": "",
-        "Misc. comments": "Additional results are provided in the project page. Note however that there is an alternate project page that is often referenced but that results in a 404 error: http://irc.cs.sdu.edu.cn/CFS/\nMore importantly, it seems that some (partial?) reimplementation of the paper by Ahmed H. Mahmoud (not an author) can be found at https://github.com/VccRobot/fermat3d"
+        "Misc. comments": "Additional results are provided in the project page. Note however that there is an alternate project page that is often referenced but that results in a 404 error: http://irc.cs.sdu.edu.cn/CFS/\nMore importantly, it seems that some (partial?) reimplementation of the paper by Ahmed H. Mahmoud (not an author) can be found at https://github.com/VccRobot/fermat3d",
+        "Software language": ""
     }
 ]

@@ -49,6 +49,7 @@
         "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 6,
         "Operating system for the test": "Linux",
         "Build instructions/comments": "Undefined symbols in ubuntu 19.10 (tensorflow 1.3, python 2.7) when compiling the pointnet++ operators.",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "Python"
     }
 ]

@@ -50,6 +50,7 @@
         "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 5,
         "Operating system for the test": "Linux",
         "Build instructions/comments": "The code requires an old version of libigl (the current master is not compatible). We have tried to checkout several versions (2018, end 2017) but none of them was fine.",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "C/C++"
     }
 ]

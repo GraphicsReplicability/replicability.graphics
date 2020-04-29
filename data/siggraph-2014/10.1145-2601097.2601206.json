@@ -29,7 +29,7 @@
         "git/hg/svn commit hash or revision number": "698b1e0fd23c216bb65164927c4de85b2c94b1af",
         "MD5 sum (for archives) URL2": "",
         "git/hg/svn commit hash or revision number URL2": "",
-        "Software Heritage permalink": "https://archive.softwareheritage.org/swh:1:dir:d587ee6779413a3c475a5ff6b8263c1e9f769acd;origin=https://github.com/seanbell/intrinsic/",  
+        "Software Heritage permalink": "https://archive.softwareheritage.org/swh:1:dir:d587ee6779413a3c475a5ff6b8263c1e9f769acd;origin=https://github.com/seanbell/intrinsic/",
         "Software type {Code, Binary, Partial Code}": "Code",
         "Code License (if any)": "MIT",
         "Are the code authors explicit? (boolean)": true,
@@ -50,6 +50,7 @@
         "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 6,
         "Operating system for the test": "Linux",
         "Build instructions/comments": "Had to change a line in image_util.py to make it work with a more recent version of scikit-image: changed line 5 to \"from skimage.restoration import denoise_bilateral\". Adaptation in other context is easy: example of an integration is provided. All images in the dataset are provided with judgement files.",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "Python"
     }
 ]

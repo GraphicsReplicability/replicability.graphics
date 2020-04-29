@@ -189,6 +189,8 @@
 
         "##": "General commentse",
         "##": "This field is displayed even if no replicability test could have been performed.",
-        "Misc. comments": "No code available for this paper."
+        "Misc. comments": "No code available for this paper.",
+
+        "Software language": ""
     }
 ]

@@ -49,6 +49,7 @@
         "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 2,
         "Operating system for the test": "Windows",
         "Build instructions/comments": "Very easy to build on Windows with VS2017, as most dependencies are shipped (except Gurobi, free for research purpose) and the CMakeList is well done. Trivial fix to the CMakeList : change gurobi75.lib to the latest version available (gurobi90.lib currently).\nThe software is also very nice and easy to play with. However, it only implements part (but most) of the paper (up to section 7 included ; no yarn generation).",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "C/C++"
     }
 ]

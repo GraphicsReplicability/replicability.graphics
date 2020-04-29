@@ -49,6 +49,7 @@
         "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 3,
         "Operating system for the test": "Mac OS",
         "Build instructions/comments": "All decencies were available on brew except opengm (installed from the github master, I needed to disable the test examples because of boost issues, fine for the library). I cannot run the CLI because no camera/obj examples were provided but the Qt GUI works fine (minor edit of the qtgui.pro to detect the libbwabstraction).",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "C/C++"
     }
 ]

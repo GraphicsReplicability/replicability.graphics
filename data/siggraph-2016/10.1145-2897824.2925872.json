@@ -49,6 +49,7 @@
         "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 1,
         "Operating system for the test": "",
         "Build instructions/comments": "",
-        "Misc. comments": "In practice, a (partial?) unofficial reimplementation has been proposed in C# https://github.com/furaga/DemoShapeComperer"
+        "Misc. comments": "In practice, a (partial?) unofficial reimplementation has been proposed in C# https://github.com/furaga/DemoShapeComperer",
+        "Software language": ""
     }
 ]

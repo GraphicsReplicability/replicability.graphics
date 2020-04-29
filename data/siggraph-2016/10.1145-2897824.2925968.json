@@ -49,6 +49,7 @@
         "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 1,
         "Operating system for the test": "",
         "Build instructions/comments": "",
-        "Misc. comments": "A partial reimplementation by Somshubra Majumdar (not author), which slightly differs from the original paper, is available at https://gist.github.com/titu1994/26a8a0cd1c1bbf5f2e4c94813dea1e41"
+        "Misc. comments": "A partial reimplementation by Somshubra Majumdar (not author), which slightly differs from the original paper, is available at https://gist.github.com/titu1994/26a8a0cd1c1bbf5f2e4c94813dea1e41",
+        "Software language": ""
     }
 ]

@@ -50,6 +50,7 @@
         "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 1,
         "Operating system for the test": "",
         "Build instructions/comments": "",
-        "Misc. comments": "Technically there is an algorithm in the paper, but it implements a small fraction of the pipeline (just the refinement process). \nHowever, for all practical purpose, there is an unofficial implementation at https://github.com/hankstag/locally_injective_map"
+        "Misc. comments": "Technically there is an algorithm in the paper, but it implements a small fraction of the pipeline (just the refinement process). \nHowever, for all practical purpose, there is an unofficial implementation at https://github.com/hankstag/locally_injective_map",
+        "Software language": ""
     }
 ]

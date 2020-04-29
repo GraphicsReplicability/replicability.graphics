@@ -50,6 +50,7 @@
         "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 2,
         "Operating system for the test": "Windows",
         "Build instructions/comments": "The code was easy to run on Windows with VS2017. I only needed to upgrade the solution and retarget the project. I do not have the required Intel C++ Compiler XE 14.0, but the code compiled directly when changing the Intel C++ compiler target to Visual Studio 2017 (Configuration properties -> General -> Platform Toolset), probably at the expense of slower runtimes.\nI managed to get the crown to run at about 12 down to 8 Mrays/s as time passes, using BVH4, on a 2017 laptop with a 4-core Intel Core i7-7700 HQ @ 2.8GHz (the paper gives 10Mrays/s in 2014 for this scene on a lower end laptop with \"a 4-core Intel Haswell Core i7-4750HQ CPU clocked at 2.0 GHz and with a turbo frequency of 3.2 GHz\" but compiled with the Intel compiler).",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "C/C++"
     }
 ]

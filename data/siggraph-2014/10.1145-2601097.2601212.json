@@ -51,6 +51,7 @@
         "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 2,
         "Operating system for the test": "Linux",
         "Build instructions/comments": "Web application only. Permits to navigate in the manifold and see the font evolving. The font editing application is not demonstrated however.",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "Cannot answer"
     }
 ]

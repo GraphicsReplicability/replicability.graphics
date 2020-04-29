@@ -49,6 +49,7 @@
         "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 1,
         "Operating system for the test": "Mac OS",
         "Build instructions/comments": "The provided code is related to a subproblem (adaptive sampling to generate seeds) and not to the core of the paper. Many pseudo-code are given which suggest non trivial but easy reimplementation of the method.",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "Python"
     }
 ]

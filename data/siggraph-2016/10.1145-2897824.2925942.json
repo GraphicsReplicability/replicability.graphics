@@ -50,6 +50,7 @@
         "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 5,
         "Operating system for the test": "Linux",
         "Build instructions/comments": "Beside the compilation of matcaffe which took me a lot of time, I had to remove the absolute paths in custom_toolboxes/scene_parsing_model/scene_parse.m. The interactive selection of the images was not working, thus I removed the call to select_image in replace_sky.m, and selected the image programatically (automatically select the first image).\n\nThe code needs a mask and a parsing image for each RGB image took as input. No code is provided to generate those, which limits its use in other contexts.",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "Matlab / Mathematica / .."
     }
 ]

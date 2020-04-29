@@ -49,6 +49,7 @@
         "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 1,
         "Operating system for the test": "",
         "Build instructions/comments": "",
-        "Misc. comments": "The project website indicates the code is coming soon."
+        "Misc. comments": "The project website indicates the code is coming soon.",
+        "Software language": ""
     }
 ]

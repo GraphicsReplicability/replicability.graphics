@@ -50,6 +50,7 @@
         "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 3,
         "Operating system for the test": "Mac OS",
         "Build instructions/comments": "I had to comment the \"-Werror\" in the CMakeLists.txt because of numerous errors in Clang. Otherwise, no specific issues.",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "C/C++"
     }
 ]

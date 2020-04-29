@@ -50,6 +50,7 @@
         "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 2,
         "Operating system for the test": "Windows",
         "Build instructions/comments": "Trivial to make it work on Windows/VS2017, despite the original code was not tested on this platform. Not all 3d models provided, but enough to play with and be confident with results.",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "C/C++"
     }
 ]

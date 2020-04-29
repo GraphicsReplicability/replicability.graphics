@@ -49,6 +49,7 @@
         "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 1,
         "Operating system for the test": "Windows",
         "Build instructions/comments": "The code runs very easily (tested on Matlab 2018a) and I managed to get very similar results as those shown in the teaser by drawing a similar sketch as the one in the teaser.",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "Matlab / Mathematica / .."
     }
 ]

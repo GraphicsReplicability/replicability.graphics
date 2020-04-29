@@ -50,6 +50,7 @@
         "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 2,
         "Operating system for the test": "",
         "Build instructions/comments": "",
-        "Misc. comments": "The trained neural network is provided together with a yml file with the network architecture but no training or testing script and not trivial to set up."
+        "Misc. comments": "The trained neural network is provided together with a yml file with the network architecture but no training or testing script and not trivial to set up.",
+        "Software language": ""
     }
 ]

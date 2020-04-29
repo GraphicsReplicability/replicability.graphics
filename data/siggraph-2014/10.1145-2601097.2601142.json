@@ -52,6 +52,7 @@
         "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 4,
         "Operating system for the test": "Linux",
         "Build instructions/comments": "The provided code works equivalently with recommended or more recent dependencies (yalm R20190425 and mosek 9.1). The library addaxis, provided with the code, needs a simple fix (replace 'colorord' by 'ColorOrder' in addaxis/aa_splot.m).\nFigures 2 (exampleBarDeformation) and 1 (exampleExtremalQuasiConformal) can be partly reproduced.",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "Matlab / Mathematica / .."
     }
 ]

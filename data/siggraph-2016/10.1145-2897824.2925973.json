@@ -51,6 +51,7 @@
         "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 9,
         "Operating system for the test": "Linux",
         "Build instructions/comments": "The code requires some old dependencies (opencv2) and thus recommend a build on a ubuntu 14.04. I tried to setup a ubuntu14.04 virtual machine but ceres fails to build (a first issue with the packaged version of eigen which is too old and a c++ build issue later).\nOn a more recent ubuntu, I have an issue with the thirdparty targets:\n\n -- Found Ceres version: 2.0.0 installed in: /usr/local with components: [EigenSparse, SparseLinearAlgebraLibrary, LAPACK, SuiteSparse, CXSparse, SchurSpecializations]\nCMake Error at thirdparty/gflags/CMakeLists.txt:25 (ADD_LIBRARY):\n  ADD_LIBRARY cannot create target \"gflags\" because an imported target with\n  the same name already exists.\n\nI wasn't able to build the project on MacOs Catalina as well.",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "C/C++"
     }
 ]

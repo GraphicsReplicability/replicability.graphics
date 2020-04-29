@@ -52,6 +52,7 @@
         "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 10,
         "Operating system for the test": "Linux",
         "Build instructions/comments": "I managed to install all the dependencies and prepare the data using the provided scripts.\nI could also call the train.py script (requires 30GB of RAM), unfortunately after several hours of training, the script ended but didn't generate the file weights.hdf5. As such, I couldn't evaluate the network.\nNote that two models are provided by the authors online (https://phototriage.cs.princeton.edu/download.html), but there is no indication on how to use them in practice.",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "Other"
     }
 ]

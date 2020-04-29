@@ -52,6 +52,7 @@
         "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 5,
         "Operating system for the test": "Linux",
         "Build instructions/comments": "I had to use another version of l-bfgs-b to make it work with Matlab2019b on linux. I found it at https://github.com/stephenbeckr/L-BFGS-B-C. Simply copied the lbfgsb_wrapper.mexa64  and all .m files from the downloaded L-BFGS-B-C/Matlab to LBFGSB/ directory in the provided code. Most images of the paper, and the code runs on it, however the hardware to actually see the result was not available.",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "Matlab / Mathematica / .."
     }
 ]

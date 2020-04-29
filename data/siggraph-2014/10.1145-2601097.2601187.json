@@ -50,6 +50,7 @@
         "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 1,
         "Operating system for the test": "",
         "Build instructions/comments": "",
-        "Misc. comments": "The pseudo-code in the paper is relatively detailed, however the propose approach relies on the diffusion curves, which requires some effort to be implemented and ensure reproducilibity."
+        "Misc. comments": "The pseudo-code in the paper is relatively detailed, however the propose approach relies on the diffusion curves, which requires some effort to be implemented and ensure reproducilibity.",
+        "Software language": ""
     }
 ]

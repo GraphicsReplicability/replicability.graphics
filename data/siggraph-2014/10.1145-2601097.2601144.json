@@ -54,6 +54,7 @@
         "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 1,
         "Operating system for the test": "Linux",
         "Build instructions/comments": "The provided code contains two examples:\n - HDR Super-resolution: reproduce similar results than Figure 11 in the paper\n - light field factorization: implement the nonnegative light field factorization (Eq.10 in the paper) further described in supplementary materials. \nThese two examples work out of the box and produce similar results than those found in the paper. \nHowever they cover only a subset of the proposed method, and specific hardware would be required for fully reproduce this work.",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "Matlab / Mathematica / .."
     }
 ]

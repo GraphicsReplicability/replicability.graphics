@@ -49,6 +49,7 @@
         "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 10,
         "Operating system for the test": "Linux",
         "Build instructions/comments": "Unable to unzip the training data (320Go zip file) (64Go RAM computer).",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "Python"
     }
 ]

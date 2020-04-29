@@ -49,6 +49,7 @@
         "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 4,
         "Operating system for the test": "Windows",
         "Build instructions/comments": "Minor fixes to the code: when running the examples from the examples directory, you need to replace './data/bunny.off' by '../data/bunny.off' in the demo files, and similarly change the '.' to '..' in the vis_vector_field.m file in addOptional(p, 'BinaryPath', fullfile('..', 'bin', 'vis_vector_field', 'vis_vector_field_bin.exe')); \nI also had to add my visual studio bin directory to my PATH.\nAlso, the readme mentions a code snippet to compute cross fields. There is an error in the routine to display the result : it is not m.draw(CF, alpha) but m.plot(CF, alpha) (the method draw is not a method of the class Mesh, and 'draw_face_field' is not correct either).\nA single example (bunny) is provided, though I believe it should work similarly well on other examples.\nIt took me significant time making this code run only because I had to perform a fresh cuda install -- it otherwise trivially installs.",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "Matlab / Mathematica / .., Shader language"
     }
 ]

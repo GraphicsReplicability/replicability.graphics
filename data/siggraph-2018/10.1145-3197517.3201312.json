@@ -49,6 +49,7 @@
         "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 2,
         "Operating system for the test": "Windows",
         "Build instructions/comments": "The binary runs nicely. I could not find the examples shown in the paper for the multicolored examples, but some images are quite similar (e.g., a different penguin, a different red car, a different crown...) and produce reasonable results.\nNote that the required numpy is version 1.16.1 and it doesn't work with 1.14.5 -- the python code is just the GUI.",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "Cannot answer"
     }
 ]
