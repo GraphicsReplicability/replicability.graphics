@@ -46,7 +46,7 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 5,
         "Replicate paper results score {0=NA, 1,2,3,4,5}": 5,
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 5,
-        "Time spent for the test (code download to first successful run)": 1,
+        "Time spent for the test (code download to first successful run, , [0,10], 10min slots, 100min max)": 1,
         "Operating system for the test": "Windows",
         "Build instructions/comments": "Although no makefiles nor build instructions are given, it is quite straightforward to compile -- in my case creating a Visual Studio 2017 solution, putting all files, and setting include an library paths for FFTW and OpenCV. Requires OpenCV libraries are opencv_imgproc412.lib;opencv_highgui412.lib;opencv_imgcodecs412.lib;opencv_core412.lib.\nTo prevent a (known) opencv issue relating to 'ACCESS_MASK' being an ambiguous symbol in winnt.h, I had to #include <Windows.h> at the very first line of main.cpp.\nTo activate OpenMP, in addition to addin openmp support in the visual studio configurations, you need to specify the preprocessor definition _OPENMP.\nIn addition to the code, a compiled version (for Windows) is also provided. Both the code and the provided executable produce the same result on the given examples (those of Fig 8 and 6), and they correspond to the results shown in the paper. The archive containing the compiled files also contain batch files which are useful to see which parameters were used to produce the results (number of bits, iterations, etc.).\nAdditional instructions on the hardware side are provided in a pdf document in the same folder as the code in supplementary materials.",
         "Misc. comments": "",

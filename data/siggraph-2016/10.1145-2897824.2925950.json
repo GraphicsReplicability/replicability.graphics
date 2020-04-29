@@ -46,7 +46,7 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 5,
         "Replicate paper results score {0=NA, 1,2,3,4,5}": 5,
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 0,
-        "Time spent for the test (code download to first successful run)": 2,
+        "Time spent for the test (code download to first successful run, , [0,10], 10min slots, 100min max)": 2,
         "Operating system for the test": "Windows",
         "Build instructions/comments": "Beware that the default .mat file when loading the program does not exist : in PatternWidget.m line 296, startfilename = '../data/userstudy/task1_pattern.mat'; refers to a missing file. It can be replaced by startfilename = '../data/medium_1.mat';  if the dataset was downloaded and placed in ../data as instructed.\nAlso, the dataset referenced in the Readme corresponds to http://geometry.cs.ucl.ac.uk/projects/2016/image-relationships/paper_docs/GuerreroEtAl_PATEX_SIGG16_data.zip which does not exist. The correct dataset link, from the project webpage, is https://geometry.cs.ucl.ac.uk/projects/2016/pattern-variations/paper_docs/GuerreroEtAl_PATEX_SIGG16_data.zip\n\nDeleting all compiled mex files automatically regenerates them. There is actually a compile error during mex('-largeArrayDims',includeoptions{:},additionaloptions{:},'pointLinesegDistance2D_mex.cpp',[utilpath,'/mexutils.cpp'],'geom.cpp','triTriIntersectionDevillers.cpp');\nHowever, for some reasons, it does not prevent the program from running well (perhaps this function is simply not used).",
         "Misc. comments": "",

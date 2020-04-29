@@ -46,7 +46,7 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 0,
         "Replicate paper results score {0=NA, 1,2,3,4,5}": 5,
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 1,
-        "Time spent for the test (code download to first successful run)": 1,
+        "Time spent for the test (code download to first successful run, , [0,10], 10min slots, 100min max)": 1,
         "Operating system for the test": "Windows",
         "Build instructions/comments": "Very intuitive and impressive results. My camera was not listed, so I used the screen capture mode and launched a webcam application on the side, with the StyLit capturing the webcam stream from the other application -- that worked.",
         "Misc. comments": "",

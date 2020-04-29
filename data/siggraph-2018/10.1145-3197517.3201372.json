@@ -46,7 +46,7 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 5,
         "Replicate paper results score {0=NA, 1,2,3,4,5}": 4,
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 5,
-        "Time spent for the test (code download to first successful run)": 3,
+        "Time spent for the test (code download to first successful run, , [0,10], 10min slots, 100min max)": 3,
         "Operating system for the test": "Mac OS",
         "Build instructions/comments": "All decencies were available on brew except opengm (installed from the github master, I needed to disable the test examples because of boost issues, fine for the library). I cannot run the CLI because no camera/obj examples were provided but the Qt GUI works fine (minor edit of the qtgui.pro to detect the libbwabstraction).",
         "Misc. comments": "",

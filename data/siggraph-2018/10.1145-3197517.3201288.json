@@ -46,7 +46,7 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 2,
         "Replicate paper results score {0=NA, 1,2,3,4,5}": 0,
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 0,
-        "Time spent for the test (code download to first successful run)": 6,
+        "Time spent for the test (code download to first successful run, , [0,10], 10min slots, 100min max)": 6,
         "Operating system for the test": "Linux",
         "Build instructions/comments": "Undefined symbols in ubuntu 19.10 (tensorflow 1.3, python 2.7) when compiling the pointnet++ operators.",
         "Misc. comments": "",

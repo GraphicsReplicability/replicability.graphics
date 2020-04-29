@@ -46,7 +46,7 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 5,
         "Replicate paper results score {0=NA, 1,2,3,4,5}": 1,
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 3,
-        "Time spent for the test (code download to first successful run)": 10,
+        "Time spent for the test (code download to first successful run, , [0,10], 10min slots, 100min max)": 10,
         "Operating system for the test": "Linux",
         "Build instructions/comments": "layered\" branch of mitsuba: Compiling went fine provided CXXflags in config.py are modified from  -std=c++11 into -std=gnu++11 (ubuntu 18.04) . The branch was successfully linked against qt4 . However the interface kept crashing (failed assertion). No example scene is given so I was not able to reproduce the results. There seems to be another implementation of this work called layerlab. But this mitsuba code was the one referenced from the project's webpage.",
         "Misc. comments": "",

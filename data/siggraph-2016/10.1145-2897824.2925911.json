@@ -48,7 +48,7 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": "",
         "Replicate paper results score {0=NA, 1,2,3,4,5}": "",
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": "",
-        "Time spent for the test (code download to first successful run)": 1,
+        "Time spent for the test (code download to first successful run, , [0,10], 10min slots, 100min max)": 1,
         "Operating system for the test": "",
         "Build instructions/comments": "",
         "Misc. comments": "There are two moderately difficult algorithms in the paper, but they do not implement all the steps of the synthesis pipeline.",

@@ -46,7 +46,7 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 0,
         "Replicate paper results score {0=NA, 1,2,3,4,5}": 2,
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 5,
-        "Time spent for the test (code download to first successful run)": 2,
+        "Time spent for the test (code download to first successful run, , [0,10], 10min slots, 100min max)": 2,
         "Operating system for the test": "Linux",
         "Build instructions/comments": "I tested the newest version of Halide: this does not correspond to the paper. The project webpage states: \"NOTICE: The algorithm described in this paper has been superceded by the techniques described in the SIGGRAPH 2019 autoscheduler paper. The autoscheduling functionality in the master Halide repo now uses the algorithm from the 2019 paper\". And there is no explanation on how to get the code of this particular submission, nor how to reproduce any of the examples.",
         "Misc. comments": "",

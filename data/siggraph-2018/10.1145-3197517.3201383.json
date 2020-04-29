@@ -47,7 +47,7 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 0,
         "Replicate paper results score {0=NA, 1,2,3,4,5}": 3,
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 5,
-        "Time spent for the test (code download to first successful run)": 10,
+        "Time spent for the test (code download to first successful run, , [0,10], 10min slots, 100min max)": 10,
         "Operating system for the test": "Linux",
         "Build instructions/comments": "I was able to perform automatic differentiation (gamma correction example in the paper) however most filter examples in the paper did not come with code to reproduce and I was unable to reproduce them in a timely manner.",
         "Misc. comments": "",

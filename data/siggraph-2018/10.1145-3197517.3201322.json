@@ -49,7 +49,7 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 0,
         "Replicate paper results score {0=NA, 1,2,3,4,5}": 0,
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 4,
-        "Time spent for the test (code download to first successful run)": 2,
+        "Time spent for the test (code download to first successful run, , [0,10], 10min slots, 100min max)": 2,
         "Operating system for the test": "Linux",
         "Build instructions/comments": "I was able to generate partial curves from the input data. Curve fitting toolbox missing for generating all the curves. Input data provided since special hardware setup is needed to reproduce the data (hardware assembly detailed on the project webpage)",
         "Misc. comments": "",

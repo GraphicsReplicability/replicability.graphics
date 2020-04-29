@@ -48,7 +48,7 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 5,
         "Replicate paper results score {0=NA, 1,2,3,4,5}": 5,
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 2,
-        "Time spent for the test (code download to first successful run)": 1,
+        "Time spent for the test (code download to first successful run, , [0,10], 10min slots, 100min max)": 1,
         "Operating system for the test": "Windows",
         "Build instructions/comments": "The code directly runs without modifications. However:\n- there are compiled mex files for which no source code is provided. For the obj file reader it is not a big deal, but for the mass moments and their gradient, it makes it harder to reimplement.\n- the code reproduces the armadillo in Fig. 17, but the other models are not provided.",
         "Misc. comments": "",

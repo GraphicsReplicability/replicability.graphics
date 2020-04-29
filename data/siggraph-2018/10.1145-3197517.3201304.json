@@ -47,7 +47,7 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 5,
         "Replicate paper results score {0=NA, 1,2,3,4,5}": 5,
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 4,
-        "Time spent for the test (code download to first successful run)": 6,
+        "Time spent for the test (code download to first successful run, , [0,10], 10min slots, 100min max)": 6,
         "Operating system for the test": "Linux",
         "Build instructions/comments": "Complex CUDA/cudNN/tensorflow/manta infrastructure but well documented. Training data can be reproduced and pre-trained model can be easily reused.",
         "Misc. comments": "",

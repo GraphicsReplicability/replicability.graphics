@@ -47,7 +47,7 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 4,
         "Replicate paper results score {0=NA, 1,2,3,4,5}": 5,
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 3,
-        "Time spent for the test (code download to first successful run)": 10,
+        "Time spent for the test (code download to first successful run, , [0,10], 10min slots, 100min max)": 10,
         "Operating system for the test": "Linux",
         "Build instructions/comments": "The code is supposed to support python3 (script train_half_style starts with python3), but several changes need to be made to make it work with python3: tensor[0] should be replaced by tensor.item(), xrange() should be replaced by range(). Needs also visdom and dominate package which were not listed in the README.",
         "Misc. comments": "",

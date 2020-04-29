@@ -46,7 +46,7 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 5,
         "Replicate paper results score {0=NA, 1,2,3,4,5}": 0,
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 0,
-        "Time spent for the test (code download to first successful run)": 5,
+        "Time spent for the test (code download to first successful run, , [0,10], 10min slots, 100min max)": 5,
         "Operating system for the test": "Mac OS",
         "Build instructions/comments": "Hardcoded path in the CMakeLists\n\nNeeds MOSEK or GUROBI (commercial free for academic) for the \"online\" mode (optional)\n\nNeeded to replace path\\file to path/file\nOpenmp not mentioned in the deps (I have commented the #include<omp.h>)\n\nBuild issue :\n                                                ^\n/Users/tmp/eol-cloth/src/parseParams.cpp:52:3: error: call to function 'parse'\n      that is neither visible in the template definition nor found by argument-dependent lookup",
         "Misc. comments": "",

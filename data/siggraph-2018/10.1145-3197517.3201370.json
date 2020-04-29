@@ -48,7 +48,7 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 0,
         "Replicate paper results score {0=NA, 1,2,3,4,5}": 4,
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 4,
-        "Time spent for the test (code download to first successful run)": 3,
+        "Time spent for the test (code download to first successful run, , [0,10], 10min slots, 100min max)": 3,
         "Operating system for the test": "Linux",
         "Build instructions/comments": "Code provided can reproduce paper-like examples of line thinning, but not the user-edit tool. Only the pre-trained model is available not the training algorithm.",
         "Misc. comments": "",
