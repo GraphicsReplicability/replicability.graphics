@@ -47,7 +47,7 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 4,
         "Replicate paper results score {0=NA, 1,2,3,4,5}": 5,
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 2,
-        "Time spent for the test (code download to first successful run, , [0,10], 10min slots, 100min max)": 5,
+        "Time spent for the test (code download to first successful run, [0,10], 10min slots, 100min max)": 5,
         "Operating system for the test": "Linux",
         "Build instructions/comments": "Beside the compilation of matcaffe which took me a lot of time, I had to remove the absolute paths in custom_toolboxes/scene_parsing_model/scene_parse.m. The interactive selection of the images was not working, thus I removed the call to select_image in replace_sky.m, and selected the image programatically (automatically select the first image).\n\nThe code needs a mask and a parsing image for each RGB image took as input. No code is provided to generate those, which limits its use in other contexts.",
         "Misc. comments": "",

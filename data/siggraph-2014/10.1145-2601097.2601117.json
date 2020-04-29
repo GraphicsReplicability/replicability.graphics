@@ -47,7 +47,7 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 0,
         "Replicate paper results score {0=NA, 1,2,3,4,5}": 0,
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 0,
-        "Time spent for the test (code download to first successful run, , [0,10], 10min slots, 100min max)": 5,
+        "Time spent for the test (code download to first successful run, [0,10], 10min slots, 100min max)": 5,
         "Operating system for the test": "Linux",
         "Build instructions/comments": "Could not fix what appear to be a scheduling bug: command line ./train.py small exp1_small examples/train_small.txt yielded \"[WARNING] Error executing: TempDir/exp1_small/points_even_1000/607.sh.\" due to a false assertion in ScheduleJob",
         "Misc. comments": "",

@@ -46,7 +46,7 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 0,
         "Replicate paper results score {0=NA, 1,2,3,4,5}": 5,
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 4,
-        "Time spent for the test (code download to first successful run, , [0,10], 10min slots, 100min max)": 3,
+        "Time spent for the test (code download to first successful run, [0,10], 10min slots, 100min max)": 3,
         "Operating system for the test": "Linux",
         "Build instructions/comments": "The authors provide both a mitsuba plugin and a tutorial implementation source code. \n\nFor the mitsuba plugin, by adding the .cpp and .h to mitsuba/src/bsdfs folder and adding lines:\nplugins += env.SharedLibrary('roughconductorGGX', ['roughconductorGGX.cpp'])\nplugins += env.SharedLibrary('roughdiffuseGGX', ['roughdiffuseGGX.cpp'])\nplugins += env.SharedLibrary('roughdielectricGGX', ['roughdielectricGGX.cpp']) \nto mitsuba/src/bsdfs/SConscript , everything compiles well. The examples work after using the mitsuba gui to convert the scenes from version 0.5 to 0.6. However the examples are not the same as in the paper (but they do loook similar).\n\nThe tutorial code consists in a C++ class (with a very precise and clear technical documentation) but no example is given. The code looks fine but I was not able to produce some results with the tutorials.",
         "Misc. comments": "",

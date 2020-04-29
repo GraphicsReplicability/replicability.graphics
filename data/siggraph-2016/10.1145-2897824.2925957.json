@@ -49,7 +49,7 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 0,
         "Replicate paper results score {0=NA, 1,2,3,4,5}": 1,
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 1,
-        "Time spent for the test (code download to first successful run, , [0,10], 10min slots, 100min max)": 2,
+        "Time spent for the test (code download to first successful run, [0,10], 10min slots, 100min max)": 2,
         "Operating system for the test": "Linux",
         "Build instructions/comments": "binary produced an error: \"*** stack smashing detected ***: <unknown> terminated\". was not able to run the test",
         "Misc. comments": "",

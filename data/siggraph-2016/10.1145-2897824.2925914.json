@@ -46,7 +46,7 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 0,
         "Replicate paper results score {0=NA, 1,2,3,4,5}": 1,
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 0,
-        "Time spent for the test (code download to first successful run, , [0,10], 10min slots, 100min max)": 1,
+        "Time spent for the test (code download to first successful run, [0,10], 10min slots, 100min max)": 1,
         "Operating system for the test": "Windows",
         "Build instructions/comments": "The code consists in two Maple worksheets that generate C code. \n- membraneEnergy.mw generates the membrane energy, its gradient, Hessian and differentials\n- bendingEnergy.mw : same things for the bending energy.\nCreate a codegen subdirectory, otherwise it doesn't work. A calibration pattern is also provided.\nThe generated codes are of course not self-contained, are not really readable, and are just part of the software used to produce the paper results.",
         "Misc. comments": "",

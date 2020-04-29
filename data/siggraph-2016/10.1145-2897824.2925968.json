@@ -46,7 +46,7 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": "",
         "Replicate paper results score {0=NA, 1,2,3,4,5}": "",
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": "",
-        "Time spent for the test (code download to first successful run, , [0,10], 10min slots, 100min max)": 1,
+        "Time spent for the test (code download to first successful run, [0,10], 10min slots, 100min max)": 1,
         "Operating system for the test": "",
         "Build instructions/comments": "",
         "Misc. comments": "A partial reimplementation by Somshubra Majumdar (not author), which slightly differs from the original paper, is available at https://gist.github.com/titu1994/26a8a0cd1c1bbf5f2e4c94813dea1e41",

@@ -47,7 +47,7 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 0,
         "Replicate paper results score {0=NA, 1,2,3,4,5}": 5,
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 1,
-        "Time spent for the test (code download to first successful run, , [0,10], 10min slots, 100min max)": 1,
+        "Time spent for the test (code download to first successful run, [0,10], 10min slots, 100min max)": 1,
         "Operating system for the test": "Windows",
         "Build instructions/comments": "When just running the provided executables, it encounters an issue: \n\"This application failed to start because it could not find or load the Qt platform plugin \"windows\" in \"\".\"\nHowever, by replacing the provided Qt5Core.dll, Qt5Gui.dll, Qt5OpenGL.dll, Qt5Widgets.dll and Qt5Xml.dll by the ones from my actual Qt5 installation (5.12.6), it works nicely and produces results similar to those found in the paper (up to my poor drawing skills).",
         "Misc. comments": "",

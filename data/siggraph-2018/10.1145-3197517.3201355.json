@@ -47,7 +47,7 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 0,
         "Replicate paper results score {0=NA, 1,2,3,4,5}": 0,
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 0,
-        "Time spent for the test (code download to first successful run, , [0,10], 10min slots, 100min max)": 3,
+        "Time spent for the test (code download to first successful run, [0,10], 10min slots, 100min max)": 3,
         "Operating system for the test": "Linux",
         "Build instructions/comments": "The authors provide both the training data and the pretrained models. However, I obtained tensorflow errors when trying to test the model:\n\nValueError: Negative dimension size caused by subtracting 4 from 3 for 'MaxPool' (op: 'MaxPool') with input shapes: [?,3,300,64].",
         "Misc. comments": "",

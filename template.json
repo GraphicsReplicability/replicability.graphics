@@ -186,7 +186,7 @@
         "##": "1 = between 10 and 20 min",
         "##": "...",
         "##": "10 = more than 100 min",
-        "Time spent for the test (code download to first successful run)": 0,
+        "Time spent for the test (code download to first successful run, [0,10], 10min slots, 100min max)": 0,
 
         "##": "OS for the teste",
         "Operating system for the test": "",

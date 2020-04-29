@@ -47,7 +47,7 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 0,
         "Replicate paper results score {0=NA, 1,2,3,4,5}": 5,
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 1,
-        "Time spent for the test (code download to first successful run, , [0,10], 10min slots, 100min max)": 1,
+        "Time spent for the test (code download to first successful run, [0,10], 10min slots, 100min max)": 1,
         "Operating system for the test": "Windows",
         "Build instructions/comments": "The software is quite intuitive and easy to use. There is a zipped data file that can be downloaded that includes the drawings for all figures in the paper which is ideal. However, there seems to be some parameter fiddling to obtain the results. For instance, in Fig. 11, I had to specify a \"min region size\" of 8 instead of the default 7 to reproduce the two rightmost images (and this parameter set also works for the two leftmost images).",
         "Misc. comments": "",

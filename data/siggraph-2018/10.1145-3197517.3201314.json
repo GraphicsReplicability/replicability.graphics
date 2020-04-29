@@ -46,7 +46,7 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 0,
         "Replicate paper results score {0=NA, 1,2,3,4,5}": 5,
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 5,
-        "Time spent for the test (code download to first successful run, , [0,10], 10min slots, 100min max)": 3,
+        "Time spent for the test (code download to first successful run, [0,10], 10min slots, 100min max)": 3,
         "Operating system for the test": "Windows",
         "Build instructions/comments": "For this paper, the authors provided precompiled executables implementing their approach with command line interface. On top of these tools, a graphical user interface is defined in Python to load the the input drawing, set the algorithm parameters, call the precompiled binaries, and display and save the results.\n\nThe precompiled binaries worked directly.\n\nI had a few difficulties to handle the dependencies of the python script. First, PyQt4 urls given in README.txt are wrong (correct url can be found here: https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyqt4). Also, the documentation does not mention to install sip before PyQt4, while it seems to be a mandatory step (pip install sip).\n\nOnce this is all fixed, the program runs smoothly and all the results can be reproduced.\nThe application processes SCAP files, and converters (scap_to_svg and svg_to_scap) are provided. Core algorithms are provided as binaries, yet the software can be adapted in other context as long as the drawings can be stored as svg files.",
         "Misc. comments": "",

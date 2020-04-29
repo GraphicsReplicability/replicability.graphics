@@ -34,7 +34,7 @@ def genChart(f,variant,tabid):
     f.write('<li><span class="family">Documentation score</span> {0,1,2}: '+ str(variant["Documentation score {0=NA,1,2,3}"]) + '</li>\n')
  #   f.write('<li><span class="family">Google Scholar Citation</span> ('+ row["Timestamp"] +'):   '+ str(row["Citation count (google scholar)"]) + '</li>\n')
     f.write('<li><span class="family">Reviewer</span>: '+ re.sub('>','&gt;',re.sub('<','&lt;',variant['Reviewer name'])) + '</li>\n')
-    f.write('<li><span class="family">Time spent for the test (build->first run, timeout at 100min)</span>: '+ str(variant["Time spent for the test (code download to first successful run, , [0,10], 10min slots, 100min max)"]*10) + 'min</li>\n')
+    f.write('<li><span class="family">Time spent for the test (build->first run, timeout at 100min)</span>: '+ str(variant["Time spent for the test (code download to first successful run, [0,10], 10min slots, 100min max)"]*10) + 'min</li>\n')
 
     f.write('</ul><h2>Source code information</h2>\n<ul>')
     f.write('<li><span class="family">Code URL</span>:  <a href="'+ variant["Code URL"] + '">'+variant["Code URL"]+'</a></li>\n')

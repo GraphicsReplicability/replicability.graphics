@@ -47,7 +47,7 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": "",
         "Replicate paper results score {0=NA, 1,2,3,4,5}": "",
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": "",
-        "Time spent for the test (code download to first successful run, , [0,10], 10min slots, 100min max)": 1,
+        "Time spent for the test (code download to first successful run, [0,10], 10min slots, 100min max)": 1,
         "Operating system for the test": "",
         "Build instructions/comments": "",
         "Misc. comments": "Technically there is an algorithm in the paper, but it implements a small fraction of the pipeline (just the refinement process). \nHowever, for all practical purpose, there is an unofficial implementation at https://github.com/hankstag/locally_injective_map",

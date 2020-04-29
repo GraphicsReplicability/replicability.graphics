@@ -46,7 +46,7 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 0,
         "Replicate paper results score {0=NA, 1,2,3,4,5}": 3,
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 3,
-        "Time spent for the test (code download to first successful run, , [0,10], 10min slots, 100min max)": 2,
+        "Time spent for the test (code download to first successful run, [0,10], 10min slots, 100min max)": 2,
         "Operating system for the test": "Linux",
         "Build instructions/comments": "The code works out of the box for learning the similarity. However only the metric learning part is provided and it is not trivial to test it on two new fonts since it would require computing features for which no code is provided.",
         "Misc. comments": "",
