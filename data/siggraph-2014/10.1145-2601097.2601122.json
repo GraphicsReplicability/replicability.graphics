@@ -49,7 +49,7 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 5,
         "Replicate paper results score {0=NA, 1,2,3,4,5}": 4,
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 4,
-        "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 5,
+        "Time spent for the test (code download to first successful run)": 5,
         "Operating system for the test": "Linux",
         "Build instructions/comments": "I had to use another version of l-bfgs-b to make it work with Matlab2019b on linux. I found it at https://github.com/stephenbeckr/L-BFGS-B-C. Simply copied the lbfgsb_wrapper.mexa64  and all .m files from the downloaded L-BFGS-B-C/Matlab to LBFGSB/ directory in the provided code. Most images of the paper, and the code runs on it, however the hardware to actually see the result was not available.",
         "Misc. comments": "",

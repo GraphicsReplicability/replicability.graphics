@@ -48,7 +48,7 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 0,
         "Replicate paper results score {0=NA, 1,2,3,4,5}": 4,
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 5,
-        "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 3,
+        "Time spent for the test (code download to first successful run)": 3,
         "Operating system for the test": "Linux",
         "Build instructions/comments": "The code works out of the box for compilation following the Building instructions.",
         "Misc. comments": "",

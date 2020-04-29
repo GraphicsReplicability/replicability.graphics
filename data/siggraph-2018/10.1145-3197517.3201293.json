@@ -46,7 +46,7 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 0,
         "Replicate paper results score {0=NA, 1,2,3,4,5}": 4,
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 5,
-        "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 1,
+        "Time spent for the test (code download to first successful run)": 1,
         "Operating system for the test": "Linux",
         "Build instructions/comments": "An example is provided in file mls.mpm88 (which is particularly well explained) which is consistent with the paper result. Many other examples are provided in the scripts folder, however this requires installing taichi (a legacy branch) which fails (even after adding a -fpermissive option which suppressed some errors) with:\n\"error: no match for \u2018operator+=\u2019 (operand types are \u2018taichi::RigidBody<2>::InertiaType\u2019 {aka \u2018float\u2019} and \u2018taichi::MatrixND<2, float, taichi::InstSetExt::AVX2>\u2019)\" \n\nHence I was not able to reproduce other results using the provided scripts.",
         "Misc. comments": "",

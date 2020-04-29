@@ -47,7 +47,7 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 0,
         "Replicate paper results score {0=NA, 1,2,3,4,5}": 4,
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 5,
-        "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 5,
+        "Time spent for the test (code download to first successful run)": 5,
         "Operating system for the test": "Linux",
         "Build instructions/comments": "I used the docker setting, it worked well (cpu). Was not able to install from source because of a problem with hwang (installed by deps.sh although optional dependency). A jupyter notebook extremely detailed is provided and helps understand the code, so it would be very easy to adapt. I did not reproduce all the results in the paper (grayscale conversion worked well with docker).",
         "Misc. comments": "",

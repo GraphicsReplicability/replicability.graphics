@@ -47,7 +47,7 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 0,
         "Replicate paper results score {0=NA, 1,2,3,4,5}": 5,
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 5,
-        "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 6,
+        "Time spent for the test (code download to first successful run)": 6,
         "Operating system for the test": "Linux",
         "Build instructions/comments": "Had to change a line in image_util.py to make it work with a more recent version of scikit-image: changed line 5 to \"from skimage.restoration import denoise_bilateral\". Adaptation in other context is easy: example of an integration is provided. All images in the dataset are provided with judgement files.",
         "Misc. comments": "",

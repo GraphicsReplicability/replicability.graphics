@@ -47,7 +47,7 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 5,
         "Replicate paper results score {0=NA, 1,2,3,4,5}": 5,
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 4,
-        "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 2,
+        "Time spent for the test (code download to first successful run)": 2,
         "Operating system for the test": "Linux",
         "Build instructions/comments": "To compile it under linux: in compileAllMex.m set up the right paths for Eigen and libigl. Then to run the examples change the path formating to be linux-compatible: replace 'data\\paper_deformation_2d_gecko_wConstraints.mat' by 'data/paper_deformation_2d_gecko_wConstraints.mat' for example (similar changes for all example scripts. Up to proper mesh visualization, the results are similar to the ones in the paper in both 2D and 3D.",
         "Misc. comments": "",

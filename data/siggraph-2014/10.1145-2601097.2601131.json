@@ -46,7 +46,7 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": "",
         "Replicate paper results score {0=NA, 1,2,3,4,5}": "",
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": "",
-        "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 1,
+        "Time spent for the test (code download to first successful run)": 1,
         "Operating system for the test": "",
         "Build instructions/comments": "",
         "Misc. comments": "The project page contains the dataset and some resulting data (features and weights). Several html pages to display the results do not work anymore.",

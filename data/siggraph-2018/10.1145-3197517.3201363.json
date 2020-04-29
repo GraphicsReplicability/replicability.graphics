@@ -46,7 +46,7 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 0,
         "Replicate paper results score {0=NA, 1,2,3,4,5}": 5,
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 5,
-        "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 5,
+        "Time spent for the test (code download to first successful run)": 5,
         "Operating system for the test": "Linux",
         "Build instructions/comments": "Compiled and worked out of the box. Download a scene on the project website and run mitsuba name_of_your_scene.xml (mitsuba found in the \"binaries\" folder of the project).\nEasy to find/install dependencies: 2 because installing mitsuba on linux requires several changes on ubuntu 19.10.\n** In config.py I changed -std=c++11 into -std=gnu++11 ;\n** In mitsuba/build/release/mtsgui I changed QtCore, QtOpenGL (and so on) into Qt5Core, Qt5OpenGL (and so on)\n** in data/scons/qt5.py,line 392 changed QtCore into Qt5Core.",
         "Misc. comments": "",

@@ -46,7 +46,7 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 0,
         "Replicate paper results score {0=NA, 1,2,3,4,5}": 5,
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 1,
-        "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 2,
+        "Time spent for the test (code download to first successful run)": 2,
         "Operating system for the test": "Windows",
         "Build instructions/comments": "The binary runs nicely. I could not find the examples shown in the paper for the multicolored examples, but some images are quite similar (e.g., a different penguin, a different red car, a different crown...) and produce reasonable results.\nNote that the required numpy is version 1.16.1 and it doesn't work with 1.14.5 -- the python code is just the GUI.",
         "Misc. comments": "",

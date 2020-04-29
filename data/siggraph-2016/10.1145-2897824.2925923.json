@@ -46,7 +46,7 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 1,
         "Replicate paper results score {0=NA, 1,2,3,4,5}": 1,
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 0,
-        "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 2,
+        "Time spent for the test (code download to first successful run)": 2,
         "Operating system for the test": "Windows",
         "Build instructions/comments": "Needed to add missing directive #include <intrin.h> in hello.cpp to compile.\n\nAt runtime, DirectX throws the following error (from hello.cpp:180): \nD3D11 ERROR: ID3D11Device::CreateInputLayout: The provided input signature expects to read an element with SemanticName/Index: 'position'/0, but the declaration doesn't provide a matching name. [ STATE_CREATION ERROR #163: CREATEINPUTLAYOUT_MISSINGELEMENT]\n\nI couldn't debug this error, as I didn't know if the matching problem came from the input spire shader, or from the processes in spire that convert the spire shader to a DirectX shader.\n\nNote that the follow-up Slang (Sigg 2018) is however marked as reproducible.",
         "Misc. comments": "",

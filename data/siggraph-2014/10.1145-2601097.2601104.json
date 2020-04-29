@@ -47,7 +47,7 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 5,
         "Replicate paper results score {0=NA, 1,2,3,4,5}": 5,
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 5,
-        "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 3,
+        "Time spent for the test (code download to first successful run)": 3,
         "Operating system for the test": "Linux",
         "Build instructions/comments": "To make it work with matlab 2019b, in ComputeAlteredParameters.m, change the matlab solver from 'active-set' to 'interior-point-convex' : line 119, opt = optimset('LargeScale', 'off',             'Algorithm', 'interior-point-convex', 'Display', 'off', 'MaxIter', 10000); method 'active-set' no longer exists. Reproduces figs 1 and 8 in the paper (file demo.m)",
         "Misc. comments": "",

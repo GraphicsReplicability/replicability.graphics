@@ -46,7 +46,7 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 0,
         "Replicate paper results score {0=NA, 1,2,3,4,5}": 0,
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 0,
-        "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 2,
+        "Time spent for the test (code download to first successful run)": 2,
         "Operating system for the test": "Mac OS",
         "Build instructions/comments": "The project contains both hardware specifications and a software to control the proposed tangible controller. The code does not provide any information about the build instructions and it seems that it requires an old version of libIGL (and many hardcoded path in the CMakeLists.txt).I was thus not able compile the project.\n\nThe repository seems to be down as many elements are missing: \"Future home of the open hardware specifications and software source code accompanying \"Rig Animation with a Tangible and Modular Input Device\" [Glauser et al. 2016].",
         "Misc. comments": "",

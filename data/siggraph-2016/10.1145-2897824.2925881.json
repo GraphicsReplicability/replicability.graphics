@@ -46,7 +46,7 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 1,
         "Replicate paper results score {0=NA, 1,2,3,4,5}": 1,
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 1,
-        "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 10,
+        "Time spent for the test (code download to first successful run)": 10,
         "Operating system for the test": "Windows",
         "Build instructions/comments": "The provided code comes with many dependencies, which are supposedly handled using premake4.\n\nOn windows, I could generate a solution for Visual Studio by calling premake.exe vs2012 from the source code directory (call to more recent versions of VS did not work). I couldn't build the solution, as premake didn't populate the include, build and link directives for the dependencies. I tried to fix it, but I couldn't find a way to properly handle caffe and its dependencies.\n\nI got similar problems on linux, where I could generate a Makefile by calling premake gmake, but I had too many dependencies to fix when calling  make config=debug64.",
         "Misc. comments": "",

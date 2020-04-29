@@ -47,7 +47,7 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": "",
         "Replicate paper results score {0=NA, 1,2,3,4,5}": "",
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": "",
-        "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 1,
+        "Time spent for the test (code download to first successful run)": 1,
         "Operating system for the test": "",
         "Build instructions/comments": "",
         "Misc. comments": "The algorithm seems rather easy to implement (a couple of self-contained lines) but only produce the direction field. But hidden behind this simplicity are less trivial tricks (e.g., the paper mentions that the choice of the next free simplex is guided by a harmonic field, which requires solving a linear system ; the field is further processed by a Laplacian smoothing operator...), which is why I didn't rate the algorithm higher in simplicity.",

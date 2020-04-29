@@ -46,7 +46,7 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 5,
         "Replicate paper results score {0=NA, 1,2,3,4,5}": 2,
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 1,
-        "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 2,
+        "Time spent for the test (code download to first successful run)": 2,
         "Operating system for the test": "Windows",
         "Build instructions/comments": "Need MatlabR2018 to check the code. Has dependencies with YALMIP (~OSS) and uses MOSEK for fast LP solvers which can be obtained free of charge for academic purpose (make sure to request the free licence).\nThe code runs very easily but does not produce a usable mesh (it outputs the chosen patches). It would be difficult to use in practice : the paper builds patches using \"level sets of a scalar function at a set of scalar levels chosen to yield different surface topologies\", but the corresponding code is not provided, so it would be hard to reproduce any result from the paper.",
         "Misc. comments": "",

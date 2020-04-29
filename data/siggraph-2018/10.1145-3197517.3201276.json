@@ -50,7 +50,7 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 0,
         "Replicate paper results score {0=NA, 1,2,3,4,5}": 4,
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 1,
-        "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 4,
+        "Time spent for the test (code download to first successful run)": 4,
         "Operating system for the test": "Mac OS",
         "Build instructions/comments": "Plugin for Houdini. Code not explicitly given but in the Houdini graph nodes and the digital asset.",
         "Misc. comments": "",

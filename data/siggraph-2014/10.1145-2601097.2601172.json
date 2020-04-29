@@ -47,7 +47,7 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 5,
         "Replicate paper results score {0=NA, 1,2,3,4,5}": 2,
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 5,
-        "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 1,
+        "Time spent for the test (code download to first successful run)": 1,
         "Operating system for the test": "Windows",
         "Build instructions/comments": "Easy to compile with VS2017 using the VS2013 project provided and slight changes (adding preprocessor directive _SILENCE_STDEXT_HASH_DEPRECATION_WARNINGS ).\nHowever, it is only a partial reference implementation of the paper. While the paper sells speed over concurrent approaches, the reference monothreaded CPU implementation does not allow to reproduce the timings given in the paper. The implementation also does not reconstruct the surfaces (only the point projection is implemented) so the surfaces shown in the paper cannot be reproduced from this implementation. The implementation is also missing the normal projection step.",
         "Misc. comments": "",
