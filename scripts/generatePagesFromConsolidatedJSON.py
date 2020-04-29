@@ -242,6 +242,11 @@ def generatePage(f,pathPages,variant,doi,doiclean,authors,tabid):
  else:
     f.write("\n")
 
+def delKey(paper,key):
+  for var in paper:
+      if key in var:
+        del var[key]
+
 def generateAllPages(pathPages,paper):
 
  variant=[]
@@ -258,7 +263,7 @@ def generateAllPages(pathPages,paper):
  doi = variant['DOI']
  doiclean = re.sub('/', '-', doi)
 
- ##Export
+ ##Export without comments
  fout=codecs.open(pathPages+doiclean+'/replicability.json', "w+","UTF-8")
  json.dump(paper, fout,indent=4)
 
@@ -332,7 +337,7 @@ def generateAllPages(pathPages,paper):
 
   </head>\n<body>
   """)
- f.write('<ul class="publist-inline" style="text-align:left;"><li class="web"><a href="../../index.html">< Index</a></ul>')
+ f.write('<ul class="publist-inline" style="text-align:left;"><li class="web"><a href="../../browse.html">< The Data</a></ul>')
  f.write('<h1 class="title">'+title+" "+ badgeRep[0]+'</h1>')
 
  f.write('<ul class="authors">\n')
@@ -391,8 +396,9 @@ def generateAllPages(pathPages,paper):
     generatePage(f,pathPages,var,doi,doiclean,authors,varid+1)
 
  f.write('''<div id=review-%s>
-            There are two options to add a review to this article:
-            <ul><li>Open a pull request at <a href="https://github.com/GraphicsReplicability/replicability.graphics">https://github.com/GraphicsReplicability/replicability.graphics</a></li><li>Fill the form below (this option requires manual work and might be avoided if possible): <br>TODO: ADD FORM</li></ul>
+           <p> If you want to contribute with another review, please follow <a href="../../index.html#contribute">these instructions.</a></p>
+ 
+            <p>Please consider to cut/paste/edit the <a href="replicability.json">raw JSON data</a> attached to this paper.</a></p>
             </div>
             '''% (len(paper)+1));
 
@@ -861,7 +867,8 @@ with open(sys.argv[1]) as json_file:
    
    print("Generating index...")
    for paper in fulldata:
-    for variant in paper:
+     delKey(paper,'##')
+     for variant in paper:
       if isinstance(variant, str):
         print("Oops.. the variant is a string...")
       else:
