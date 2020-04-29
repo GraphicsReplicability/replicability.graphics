@@ -27,12 +27,14 @@ def genChart(f,variant,tabid):
     f.write('<li><span class="family">Able to run a replicability test</span>: '+ str(variant["Able to perform a replicability test (boolean)"]) + '</li>\n')
     f.write('<li><span class="family">Replicability score</span>: '+ str(variant['Replicate paper results score {0=NA, 1,2,3,4,5}']) + '</li>\n')
 
+    f.write('<li><span class="family">Software language</span>: '+ variant["Software language"] + '</li>\n')
     f.write('<li><span class="family">License</span>: '+ variant["Code License (if any)"] + '</li>\n')
     f.write('<li><span class="family">Build mechanism</span>: '+ variant["Build/Configure mechanism"] + '</li>\n')
     f.write('<li><span class="family">Dependencies</span>: '+ variant["Dependencies"] + '</li>\n')
     f.write('<li><span class="family">Documentation score</span> {0,1,2}: '+ str(variant["Documentation score {0=NA,1,2,3}"]) + '</li>\n')
  #   f.write('<li><span class="family">Google Scholar Citation</span> ('+ row["Timestamp"] +'):   '+ str(row["Citation count (google scholar)"]) + '</li>\n')
     f.write('<li><span class="family">Reviewer</span>: '+ re.sub('>','&gt;',re.sub('<','&lt;',variant['Reviewer name'])) + '</li>\n')
+    f.write('<li><span class="family">Time spent for the test (build->first run, timeout at 100min)</span>: '+ str(variant["Time spent for the test (code download to first successful run, [0,10], 10min slots, 100min max)"]*10) + 'min</li>\n')
 
     f.write('</ul><h2>Source code information</h2>\n<ul>')
     f.write('<li><span class="family">Code URL</span>:  <a href="'+ variant["Code URL"] + '">'+variant["Code URL"]+'</a></li>\n')

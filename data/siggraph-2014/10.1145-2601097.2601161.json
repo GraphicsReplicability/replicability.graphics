@@ -46,9 +46,10 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 0,
         "Replicate paper results score {0=NA, 1,2,3,4,5}": 2,
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 1,
-        "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 1,
+        "Time spent for the test (code download to first successful run, [0,10], 10min slots, 100min max)": 1,
         "Operating system for the test": "Windows",
         "Build instructions/comments": "The provided binary is shipped with 1 example input (an animated cat model). It produces a text file as output that contains a skeleton, bone transformations and skinning weights. Without an appropriate tool to visualize the animation produced by this text file (in non standard format, though explained in the readme -- I would need to implement one), I cannot check how much the results match the ones shown in the paper.",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "Cannot answer"
     }
 ]

@@ -46,9 +46,10 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 3,
         "Replicate paper results score {0=NA, 1,2,3,4,5}": 1,
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 5,
-        "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 10,
+        "Time spent for the test (code download to first successful run, [0,10], 10min slots, 100min max)": 10,
         "Operating system for the test": "Linux",
         "Build instructions/comments": "The project's webpage links to mitsuba, but no microfacet method in mitsuba references the paper (it references other microfacets papers). The examples to reproduce the experiments are not provided, so I was not able to reproduce the results of the paper. To compile mitsuba on ubuntu 18.04, in config.py I changed -std=c++11 into -std=gnu++11 ; in mitsuba/build/release/mtsgui I changed QtCore, QtOpenGL (and so on) into Qt5Core, Qt5OpenGL (and so on) ; in data/scons/qt5.py,line 392 changed QtCore into Qt5Core.",
-        "Misc. comments": "There appears to be an implementation of the paper by a different author: https://github.com/lxs137/glint_mitsuba"
+        "Misc. comments": "There appears to be an implementation of the paper by a different author: https://github.com/lxs137/glint_mitsuba",
+        "Software language": "C/C++, Python"
     }
 ]

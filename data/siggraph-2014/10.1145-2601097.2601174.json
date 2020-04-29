@@ -50,9 +50,10 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 0,
         "Replicate paper results score {0=NA, 1,2,3,4,5}": 0,
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 0,
-        "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 2,
+        "Time spent for the test (code download to first successful run, [0,10], 10min slots, 100min max)": 2,
         "Operating system for the test": "Mac OS",
         "Build instructions/comments": "I've installed the 2015-08-03 version of terra and tried to compile the examples but all examples failed due to some #include \"stdio.h\" issues.\n\n> import \"darkroom\"\n<buffer>:1:10: fatal error: 'stdio.h' file not found\n#include \"stdio.h\"\n         ^\ncompilation of included c code failed\n\nstack traceback:\n\tsrc/terralib.lua:3664: in function 'includec'\n\t./darkroom.t:1: in main chunk\n\t[C]: at 0x010690af60\n\t[C]: in function 'xpcall'\n\tsrc/terralib.lua:4506: in function <src/terralib.lua:4505>\n\n----\nSame issue on Linux",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "Other"
     }
 ]
