@@ -47,9 +47,10 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 0,
         "Replicate paper results score {0=NA, 1,2,3,4,5}": 4,
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 5,
-        "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 3,
+        "Time spent for the test (code download to first successful run, [0,10], 10min slots, 100min max)": 3,
         "Operating system for the test": "Windows",
         "Build instructions/comments": "Contained in the MVE library. Very easy to build on windows using the CMAKE branch of the github project, especially given the number of dependencies (all shipped in a 3rd party directory). The dependencies I listed are the one required by the entire MVE library, but they may not be all used by the fssrecon app.\nIt was long to compile all dependencies, but it worked out of the box without any effort. A single very simple example (corresponding to Fig. 2 : four overlapping planar patches) is provided so it is hard to tell how well it works on reasonably complex cases.",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "C/C++"
     }
 ]

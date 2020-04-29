@@ -47,9 +47,10 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 2,
         "Replicate paper results score {0=NA, 1,2,3,4,5}": 3,
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 5,
-        "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 4,
+        "Time spent for the test (code download to first successful run, [0,10], 10min slots, 100min max)": 4,
         "Operating system for the test": "Windows",
         "Build instructions/comments": "Important : the original link to the source code is broken, and I could only find a version stored by the WayBack Machine.\nTested on Matlab R2018a and a few things have changed since R2013a. Need to change all widthlimits to WidthLimits (same for height) ; set(gcf,'wvisualmode','auto') does not exist (I changed to RenderMode, but I am not sure this is the same). The addpath at the begining of Deform.m should be changed to the correct Mosek/Matlab version number.\nThe reason I do not put higher score to \"fixing bugs\" is that there still seems to be an image normalization issue which makes all images appear near white (I'd say in the range 253 to 255), perhaps due to the \"wvisualmode\" setting. I did not manage to fix it in a reasonable amount of time. However, the deformation pipeline seemed to work well, to the extent I could see the very bright result.",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "Matlab / Mathematica / .."
     }
 ]

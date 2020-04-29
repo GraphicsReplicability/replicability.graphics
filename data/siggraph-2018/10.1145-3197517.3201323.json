@@ -49,9 +49,10 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 5,
         "Replicate paper results score {0=NA, 1,2,3,4,5}": 5,
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 4,
-        "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 4,
+        "Time spent for the test (code download to first successful run, [0,10], 10min slots, 100min max)": 4,
         "Operating system for the test": "Linux",
         "Build instructions/comments": "Needed to adapt a little to make it work with python3.6 and tensorflow (imports/print syntax corrections).",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "Python"
     }
 ]

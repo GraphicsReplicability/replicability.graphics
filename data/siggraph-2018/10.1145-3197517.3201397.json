@@ -47,9 +47,10 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 5,
         "Replicate paper results score {0=NA, 1,2,3,4,5}": 3,
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 2,
-        "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 10,
+        "Time spent for the test (code download to first successful run, [0,10], 10min slots, 100min max)": 10,
         "Operating system for the test": "Linux",
         "Build instructions/comments": "All scripts are provided for reproducing the examples in the paper.\nThe dependencies can be easily installed using a script, but on ubuntu 19.10 I had to install libnlopt-cxx-dev.\nThe policy learning went well, but I was not able to produce the results of the paper, due to the failure of the test_policy function with error: Attempted to look up malformed environment ID: b'../data/precomp_data/dog_run1/policy_params.pkl'. (Currently all IDs must be of the form ^(?:[\\w:-]+\\/)?([\\w:.-]+)-v(\\d+)$.)\nThis occured also when testing the provided precomputed policies.\n\nI also tried with an older release of dart-env (v0.7.4 - 2017) which seems to be handling registration but the same problem occured.",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "Python"
     }
 ]

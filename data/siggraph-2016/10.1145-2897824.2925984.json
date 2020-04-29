@@ -49,9 +49,10 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": "",
         "Replicate paper results score {0=NA, 1,2,3,4,5}": "",
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": "",
-        "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 1,
+        "Time spent for the test (code download to first successful run, [0,10], 10min slots, 100min max)": 1,
         "Operating system for the test": "",
         "Build instructions/comments": "",
-        "Misc. comments": "The authors nevertheless provide a facial rig for Maya, which has been used in the paper \"VisemeNet: Audio-Driven Animator-Centric Speech Animation\" which provides code.\nBeware the maya scene includes a dependency to renderman (for rendering) which is abandonned by Nvidia since 2018 ( https://www.nvidia.com/en-us/design-visualization/solutions/rendering/product-updates/ ) but the rig can still be used without the fancy rendering."
+        "Misc. comments": "The authors nevertheless provide a facial rig for Maya, which has been used in the paper \"VisemeNet: Audio-Driven Animator-Centric Speech Animation\" which provides code.\nBeware the maya scene includes a dependency to renderman (for rendering) which is abandonned by Nvidia since 2018 ( https://www.nvidia.com/en-us/design-visualization/solutions/rendering/product-updates/ ) but the rig can still be used without the fancy rendering.",
+        "Software language": ""
     }
 ]

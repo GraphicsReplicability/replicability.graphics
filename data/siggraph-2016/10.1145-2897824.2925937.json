@@ -46,9 +46,10 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": "",
         "Replicate paper results score {0=NA, 1,2,3,4,5}": "",
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": "",
-        "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 2,
+        "Time spent for the test (code download to first successful run, [0,10], 10min slots, 100min max)": 2,
         "Operating system for the test": "",
         "Build instructions/comments": "",
-        "Misc. comments": "The authors mentioned a demo IOS app (http://bonneau.meylan.free.fr/ShwarpIt/ShwarpIt.html) but the app is not available anymore."
+        "Misc. comments": "The authors mentioned a demo IOS app (http://bonneau.meylan.free.fr/ShwarpIt/ShwarpIt.html) but the app is not available anymore.",
+        "Software language": ""
     }
 ]

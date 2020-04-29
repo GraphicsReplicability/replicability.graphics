@@ -47,9 +47,10 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 0,
         "Replicate paper results score {0=NA, 1,2,3,4,5}": 4,
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 5,
-        "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 4,
+        "Time spent for the test (code download to first successful run, [0,10], 10min slots, 100min max)": 4,
         "Operating system for the test": "Windows",
         "Build instructions/comments": "Note that the VisemeNet code has strong requirements on software and library versions. The code does run on Python 3.5 but not on Python 3.6.5. Also, Python 3.5 now comes with a default scipy 1.4.0 which is not suitable, though an older scipy 1.1.0 works.\nI could test the prediction with the provided trained network on the single provided audio file, as well as the Maya script to use the results on a public face rig. This worked nicely.\nI did not test the training as data are only accessible upon (non-anonymous) request, and training instructions and scripts are not provided (although a non-standalone train_visemenet.py file is present, it does not run on its own).\n\n--alternative test on linux--\nI failed to have the tensorflow package within anaconda to work with libcudnn.so.8.0.",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "Python"
     }
 ]
