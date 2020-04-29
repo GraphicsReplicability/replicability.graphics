@@ -17,7 +17,7 @@ More details: [https://replicability.graphics](https://replicability.graphics)
   and Nicolas Mellado},
   title =        {Code replicabiltiy in computer graphics},
   journal =      {ACM Transactions on Graphics (Proceedings of
-  SIGGRAPH 2020},
+  SIGGRAPH 2020)},
   year =         {2020},
   volume =    {39},
   number =    {4},
