@@ -647,7 +647,7 @@ def write_index_step2(findex, data):
         code is available and whether it works properly.  As a proxy
         for this field we compiled, ran and analyzed ''' + str(data["cptHasCode"])+ ''' codes out of
        ''' + str(data["cpt"]) + ''' papers from SIGGRAPH conferences (exhaustive for 2014, 2016 and 2018). The
-        analysis provided in this <a href="https://replicability.graphics/replicability.pdf">publication<a> (see <a href="index.html#team">below</a>) shows a clear increase in the number of papers with
+        analysis provided in this <a href="https://replicability.graphics/replicability.pdf"><b>publication</b></a> (PDF, see <a href="index.html#team">below</a>) shows a clear increase in the number of papers with
         available and operational research codes with a dependency on
         the subfields, and indicates a correlation between code
         replicability and citation count. </p>
