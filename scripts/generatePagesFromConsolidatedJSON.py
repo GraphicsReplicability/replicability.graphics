@@ -648,7 +648,7 @@ def write_index_step2(findex, data):
         for this field we compiled, ran and analyzed ''' + str(data["cptHasCode"])+ ''' codes out of
        ''' + str(data["cpt"]) + ''' papers from SIGGRAPH conferences (exhaustive for 2014, 2016 and 2018). In the analysis described in</p>
 
-                        <p>Nicolas Bonneel, David Coeurjolly, Julie Digne, Nicolas Mellado, <a href="https://replicability.graphics/replicability.pdf"><i><b>Code Replicability in Computer Graphics</b></i>, ACM Trans. on Graphics (Proceedings of SIGGRAPH 2020), 39:4</a>,</p>
+                        <p>Nicolas Bonneel, David Coeurjolly, Julie Digne, Nicolas Mellado, <a href="https://replicability.graphics/replicability.pdf"><i><b>Code Replicability in Computer Graphics</b></i></a>, ACM Trans. on Graphics (Proceedings of SIGGRAPH 2020), 39:4,</p>
 
         <p style="text-align:left">we shows a clear increase in the number of papers with
         available and operational research codes with a dependency on
