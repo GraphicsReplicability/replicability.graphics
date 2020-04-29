@@ -102,7 +102,6 @@
 
         "##": "Software language (binary, python, c++,....)",
         "Software language": "",
-
         
         "##": "Is a license specified for the code ?",
         "##": "If so, precise the license (or keep the string empty if not).",
