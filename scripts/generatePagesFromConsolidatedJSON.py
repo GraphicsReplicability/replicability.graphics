@@ -674,7 +674,7 @@ def write_index_step2(findex, data):
        <ul class="publist-inline-empty">
        <li> SIGGRAPH 2019</li>
        </ul>
-       <p style="text-align:left">As a long term goal, we would like to collect data for more SIGGRAPH venues, for SIGGASIA editions, for ToG papers, and for any other computer graphics events. If you want to help, see <a href="#contribute" class="scrolly">contributions</a>.</p>
+       <p style="text-align:left">As a long term goal, we would like to collect data for more SIGGRAPH venues, for SIGGRAPH ASIA editions, for ToG papers, and for any other computer graphics events. If you want to help, see <a href="#contribute" class="scrolly">contributions</a>.</p>
 
 
      <p style="text-align:left"> Our project aims at providing the community with tools to improve Computer Graphics research replicability. Sharing this goal is the <a href="http://ReplicabilityStamp.org">Graphics
