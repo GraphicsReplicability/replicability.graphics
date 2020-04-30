@@ -664,7 +664,7 @@ def write_index_step2(findex, data):
 
       <p style="text-align:left">This website provides an interactive tool to explore our results and evaluation data.
       It also provides tools to comment on the various codes either as an author or as a user. All materials (data, scripts..) that  have been used to generate these results are available on the  <a
-      href="https://github.com/GraphicsReplicability/replicability.graphics"> <img width="20pt" src="images/github.png"/>  <img width="20pt" src="images/github.png"/>&nbsp;replicability.graphics
+      href="https://github.com/GraphicsReplicability/replicability.graphics"> <img width="20pt" src="images/github.png"/>&nbsp;replicability.graphics
       GitHub project</a>. The website contains the data for all papers in:</p>
       <p> <ul class="publist-inline">
        <li> SIGGRAPH 2014</li>
