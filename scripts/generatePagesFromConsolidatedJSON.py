@@ -633,12 +633,16 @@ def write_index_step1(findex):
     </section>
     ''')
 def write_index_step2(findex, data):
+   nbReplicable = 0
+   for y, d in data["years"].items():
+      nbReplicable = d[0] + d[1] + nbReplicable
    findex.write('''
     <!-- First -->
     <section id="project" class="main">
       <header>
-	<div class="container">
 	  <h2>The Project</h2>
+      </header>
+	<div class="container">
 	  <p style="text-align:left"> Being able to duplicate published research results is an
         important process of conducting research whether to build upon
         these findings or to compare with them.  This process is
@@ -684,15 +688,53 @@ def write_index_step2(findex, data):
       <p style="text-align:left">You can contribute new code analysis for computer graphics
       papers. We're looking forward to your <a href="#contribute" class="scrolly">contributions</a>. You can also <a href="#contact" class="scrolly">contact us</a>.</p>
 
-     <h3>Data Digest<h3>
+  </div>
+  <div class="container">
+     <hr />
+     <header>
+     <h2 style="text-align:center;">Data Digest</h2>
+      </header>
+
+    <div class="row">
+        <div class="column2 ">
+            <h4 style="text-align:center;">Key numbers</h4>
+            <div class="row">
+                <div class="column1">
+                    Number of papers reviewed: ''' + str(data["cpt"]) + '''
+                </div>
+            </div>
+            <div class="row">
+                <div class="column1">
+                    Number of reviews: '''+str(data["cptVariants"])+'''
+                </div>
+            </div>
+            <div class="row">
+                <div class="column1">
+                    Number of papers with code: ''' + str(data["cptHasCode"])+ '''
+                </div>
+            </div>
+            <div class="row">
+                <div class="column1">
+                    Number of replicable papers: ''' + str(nbReplicable)+ '''
+                </div>
+            </div>
+        </div>
+        <div class="column2 chart-container">
+            <p style="text-align:center;">Number of review / year of publication</p>
+            <canvas height="150" id="myChartYears" class="chartjs-render-monitor"></canvas>
+        </div>
+    </div>
     <div class="row">
         <div class="column2 chart-container">
+            <p style="text-align:center;">Replicability results for reviewed papers</p>
             <canvas height="150" id="myChartTopics" class="chartjs-render-monitor"></canvas>
         </div>
         <div class="column2 chart-container">
+            <p style="text-align:center;">PDF accessibility for reviewed papers</p>
             <canvas height="150" id="myChartPdf" class="chartjs-render-monitor"></canvas>
         </div>
     </div>
+  </div>
 
     <script>
     $(document).ready(function(){
@@ -724,10 +766,32 @@ def write_index_step2(findex, data):
         myChartTopics.update();
         myChartPdf.update();
     });
+
+    var myChartYears = new Chart(document.getElementById('myChartYears'), {
+      type: 'horizontalBar',
+      data: {
+        labels: [''')
+
+   for y in data["years"].keys():
+      findex.write("""'""" + y + """',""")
+
+   findex.write('''],
+        datasets: [{
+           data: [''')
+   for y, d in data["years"].items():
+      findex.write("""'""" + str(d[3] + d[4]) + """',""")
+
+   findex.write(''']
+          }]
+      },
+      options: {
+        legend: {
+            display: false,
+        }
+      }
+    });
     </script>
 
-	</div>
-      </header>
       <div class="content dark style1 featured">
 	<div class="container">
 	  <div class="row">
@@ -854,7 +918,7 @@ def write_index_step2(findex, data):
                 <div class="col-4 col-12-narrow">
 	      <h2>Contact us</h2>
 	      <p>Drop us an <a href="mailto:GraphicsReplicability@liris.cnrs.fr">email</a> for more information or to let us know what you think.</p>
-	      
+
                 </div>
             </div>
         </div>
@@ -885,7 +949,7 @@ with open(sys.argv[1]) as json_file:
 
    step2data["years"]   = dict()
    step2data["yearspdf"]   = dict()
-   
+
    print("Generating index...")
    for paper in fulldata:
      delKey(paper,'##')
@@ -924,7 +988,7 @@ with open(sys.argv[1]) as json_file:
                 hasCode = '✔️'
                 cptHasCode += 1
                 step2dataYear[3] = step2dataYear[3] + 1
-                
+
               else:
                 hasCode = '×'
                 step2dataYear[4] = step2dataYear[4] + 1
