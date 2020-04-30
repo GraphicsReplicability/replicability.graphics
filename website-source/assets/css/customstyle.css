@@ -99,7 +99,8 @@ table input{
     margin-right: 1ex;
     padding-top: 1px;
     padding-bottom: 1px;
-    background: background: url("images/overlay.png"), linear-gradient(45deg, #b39c68, #a56365, #412e4c);
+    background: url("images/overlay.png"), linear-gradient(45deg, #b39c68, #a56365, #412e4c);
+
 }
 
 
