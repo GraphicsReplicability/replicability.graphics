@@ -7,6 +7,7 @@ Companion website  and data of the article:
      Coeurjolly, Julie Digne, Nicolas Mellado, ACM Transactions on
      Graphics (Proceeding of SIGGRAPH 2020, 39:4)
 
+[PDF](replicability.pdf)
 
 More details: [https://replicability.graphics](https://replicability.graphics)
 
