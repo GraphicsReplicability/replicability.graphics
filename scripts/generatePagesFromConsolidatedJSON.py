@@ -661,9 +661,9 @@ def write_index_step2(findex, data):
        <ul class="publist-inline-empty-dashed"  style="text-align:left;">
        <li> Nicolas Bonneel, David Coeurjolly, Julie Digne, Nicolas Mellado, <a href="https://replicability.graphics/replicability.pdf"><i><b>Code Replicability in Computer Graphics</b></i> <i class="fas fa-file-pdf"></i></a>, ACM Trans. on Graphics (Proceedings of SIGGRAPH 2020), 39:4,</li></ul></p>
 
-        <p style="text-align:left">we shows a clear increase in the number of papers with
+        <p style="text-align:left">we show a clear increase in the number of papers with
         available and operational research codes with a dependency on
-        the subfields, and indicates a correlation between code
+        the subfields, and exhibit a correlation between code
         replicability and citation count. </p>
 
       <p style="text-align:left">This website provides an interactive tool to explore our results and evaluation data.
@@ -743,8 +743,8 @@ def write_index_step2(findex, data):
              'Could not reproduce using code',
              'Total (code available)',
              'Total (code not available)',
-             'Reproducible using pseudo-code',
-             'Cannot not reproduce using pseudo-code',
+             'Easy to reproduce using pseudo-code',
+             'Hard to reproduce using pseudo-code',
              'Total (only pseudo-code)'];''')
    did = 0
    for y, d in data["years"].items():
@@ -820,7 +820,7 @@ def write_index_step2(findex, data):
 		<header>
 		  <h3><a href="#contribute" class="scrolly">Contribute</a></h3>
 		</header>
-		<p>Add comments or new analysis for Computer Graphics papers.</p>
+		<p>Add comments or new analyses for Computer Graphics papers.</p>
 	      </section>
 	    </div>
 	    <div class="col-12">
@@ -866,7 +866,8 @@ def write_index_step2(findex, data):
               </ul>
 
                 <p style="text-align:left">For the last two cases, you
-                can either submit a proper JSON file as a <a
+                can either submit a proper <a
+                href="https://github.com/GraphicsReplicability/replicability.graphics/blob/master/template.json">JSON file</a> as a <a
                 href="https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request">pull request</a>
                 to this <a href="https://github.com/GraphicsReplicability/replicability.graphics"><img width="20pt" src="images/github.png"/> project</a>, or send the JSON file to <a href="mailto:GraphicsReplicability@liris.cnrs.fr">GraphicsReplicability@liris.cnrs.fr</a>.</p>
 
