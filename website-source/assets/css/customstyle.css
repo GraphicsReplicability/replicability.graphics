@@ -87,11 +87,11 @@ table input{
     margin-left: 0ex;
 }
 .publist-inline-empty-dashed > li {
-    /*color: white;*/
+    color: rgba(255, 255, 255, 0.65);
     border-radius: 0%;
     border-color: rgb(173, 173, 173);
-    background-color: white;
-    border-style: dashed;
+  /*  background-color: white;
+    border-style: dashed;*/
     display: inline-block;
     border-width:1px;
     padding-left: 2ex;
@@ -99,6 +99,7 @@ table input{
     margin-right: 1ex;
     padding-top: 1px;
     padding-bottom: 1px;
+    background: url("images/bgtr.svg") top right no-repeat, url("images/bgbl.svg") bottom left no-repeat, url("images/bgbl.svg") bottom left no-repeat, url("images/overlay.png"), linear-gradient(45deg, #b39c68, #a56365, #412e4c)
 }
 
 
