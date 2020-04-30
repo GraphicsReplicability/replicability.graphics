@@ -73,7 +73,7 @@ def genChartNoTest(f,variant,tabid):
     f.write("We haven't found any source code from the authors.<br><br>")
 
     if not(variant['Code available (boolean)']) and variant['If code not available, pseudo-code available (boolean)']:
-      f.write('<span class="family">Could paper be trivially implemented using the given pseudo-code? (1..5)</span>: '+ str(variant['If pseudo-code, could the paper be trivially implemented? {0..4}']) + '\n')
+      f.write('<span class="family">Some pseudocodes are available in the paper. Could the content be trivially implemented using the given pseudo-code? (1..5)</span>: '+ str(variant['If pseudo-code, could the paper be trivially implemented? {0..4}']) + '\n')
     f.write("</div>")
 
 
