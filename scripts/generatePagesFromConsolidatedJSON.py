@@ -653,8 +653,9 @@ def write_index_step2(findex, data):
         code is available and whether it works properly.  As a proxy
         for this field we compiled, ran and analyzed ''' + str(data["cptHasCode"])+ ''' codes out of
        ''' + str(data["cpt"]) + ''' papers from SIGGRAPH conferences (exhaustive for 2014, 2016 and 2018). In the analysis described in</p>
-
-                        <p>Nicolas Bonneel, David Coeurjolly, Julie Digne, Nicolas Mellado, <a href="https://replicability.graphics/replicability.pdf"><i><b>Code Replicability in Computer Graphics</b></i></a>, ACM Trans. on Graphics (Proceedings of SIGGRAPH 2020), 39:4,</p>
+       <p>
+       <ul class="publist-inline-empty-dashed"  style="text-align:left;">
+       <li> Nicolas Bonneel, David Coeurjolly, Julie Digne, Nicolas Mellado, <a href="https://replicability.graphics/replicability.pdf"><i><b>Code Replicability in Computer Graphics</b></i></a>, ACM Trans. on Graphics (Proceedings of SIGGRAPH 2020), 39:4,</li></ul></p>
 
         <p style="text-align:left">we shows a clear increase in the number of papers with
         available and operational research codes with a dependency on
@@ -665,11 +666,11 @@ def write_index_step2(findex, data):
       It also provides tools to comment on the various codes either as an author or as a user. All materials (data, scripts..) that  have been used to generate these results are available on the  <a
       href="https://github.com/GraphicsReplicability/replicability.graphics"> <img width="20pt" src="images/github.png"/>&nbsp;replicability.graphics
       GitHub project</a>. The website contains the data for all papers in:</p>
-       <ul class="publist-inline">
+      <p> <ul class="publist-inline">
        <li> SIGGRAPH 2014</li>
        <li> SIGGRAPH 2016</li>
        <li> SIGGRAPH 2018</li>
-       </ul>
+       </ul></p>
        <p style="text-align:left">and partial data for:</p>
        <ul class="publist-inline-empty">
        <li> SIGGRAPH 2019</li>
