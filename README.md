@@ -1,5 +1,6 @@
 # replicability.graphics
 
+[![SWH](https://archive.softwareheritage.org/badge/swh:1:dir:b530de7decc22e7ad7cf46fe650ae1919b4bf60b/)](https://archive.softwareheritage.org/swh:1:dir:b530de7decc22e7ad7cf46fe650ae1919b4bf60b/)
 
 Companion website  and data of the article:
 

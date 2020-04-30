@@ -73,7 +73,7 @@ def genChartNoTest(f,variant,tabid):
     f.write("We haven't found any source code from the authors.<br><br>")
 
     if not(variant['Code available (boolean)']) and variant['If code not available, pseudo-code available (boolean)']:
-      f.write('<span class="family">Could paper be trivially implemented using the given pseudo-code? (1..5)</span>: '+ str(variant['If pseudo-code, could the paper be trivially implemented? {0..4}']) + '\n')
+      f.write('<span class="family">Some pseudocodes are available in the paper. Could the content be trivially implemented using the given pseudo-code? (1..5)</span>: '+ str(variant['If pseudo-code, could the paper be trivially implemented? {0..4}']) + '\n')
     f.write("</div>")
 
 
@@ -181,10 +181,9 @@ def genBadges(row):
   hasCode = row['Code available (boolean)']
   hasPseudoCode= row['If code not available, pseudo-code available (boolean)']
 
+  doi = row['DOI']
+  doiclean = re.sub('/', '-', doi)
   if hasCode:
-     if not testRun:
-        print( "Inconsistent choice for code availability and testing ["
-               + row['DOI'] + "]" )
      if row['Replicate paper results score {0=NA, 1,2,3,4,5}'] >=4:
       attribute = '<i class="fas fa-circle graphcol0" style="font-size:150%;color:#0868ac;" title="code available and we were able to reproduce most results (score >= 4)"></i>'
       signature[0] += 1
@@ -206,6 +205,14 @@ def genBadges(row):
         attribute = '<i class="fas fa-map-marker graphcol4"  style="font-size:150%;color:rgb(186,147,186);" title="only pseudo-code available in the paper"></i>'
         signature[4] += 1
 
+
+  ###
+  if hasCode:
+     if not testRun:
+      if row['Replicate paper results score {0=NA, 1,2,3,4,5}'] > 0:
+        print( "[WARNING] Has Code, test not run but repl. score >0 [ https://replicability.graphics/papers/"
+               + doiclean+"/index.html  "+ row['DOI'] + "]" )
+        
    ##PDF not available
   if hasOpenAccessPDF:
        attribute += ' <i class="fas fa-splotch graphcol5"  style="font-size:150%;color:#1b9e77;" title="PDF available as an ACM Open Access document"></i>'
@@ -626,12 +633,16 @@ def write_index_step1(findex):
     </section>
     ''')
 def write_index_step2(findex, data):
+   nbReplicable = 0
+   for y, d in data["years"].items():
+      nbReplicable = d[0] + d[1] + nbReplicable
    findex.write('''
     <!-- First -->
     <section id="project" class="main">
       <header>
-	<div class="container">
 	  <h2>The Project</h2>
+      </header>
+	<div class="container">
 	  <p style="text-align:left"> Being able to duplicate published research results is an
         important process of conducting research whether to build upon
         these findings or to compare with them.  This process is
@@ -646,8 +657,9 @@ def write_index_step2(findex, data):
         code is available and whether it works properly.  As a proxy
         for this field we compiled, ran and analyzed ''' + str(data["cptHasCode"])+ ''' codes out of
        ''' + str(data["cpt"]) + ''' papers from SIGGRAPH conferences (exhaustive for 2014, 2016 and 2018). In the analysis described in</p>
-
-                        <p>Nicolas Bonneel, David Coeurjolly, Julie Digne, Nicolas Mellado, <a href="https://replicability.graphics/replicability.pdf"><i><b>Code Replicability in Computer Graphics</b></i></a>, ACM Trans. on Graphics (Proceedings of SIGGRAPH 2020), 39:4,</p>
+       <p>
+       <ul class="publist-inline-empty-dashed"  style="text-align:left;">
+       <li> Nicolas Bonneel, David Coeurjolly, Julie Digne, Nicolas Mellado, <a href="https://replicability.graphics/replicability.pdf"><i><b>Code Replicability in Computer Graphics</b></i> <i class="fas fa-file-pdf"></i></a>, ACM Trans. on Graphics (Proceedings of SIGGRAPH 2020), 39:4,</li></ul></p>
 
         <p style="text-align:left">we show a clear increase in the number of papers with
         available and operational research codes with a dependency on
@@ -657,7 +669,17 @@ def write_index_step2(findex, data):
       <p style="text-align:left">This website provides an interactive tool to explore our results and evaluation data.
       It also provides tools to comment on the various codes either as an author or as a user. All materials (data, scripts..) that  have been used to generate these results are available on the  <a
       href="https://github.com/GraphicsReplicability/replicability.graphics"> <img width="20pt" src="images/github.png"/>&nbsp;replicability.graphics
-      GitHub project</a>. The website contains all siggraph 2014, 2016 and 2018 papers. We are collecting contributions for other venues, but we do not have all the data yet.</p>
+      GitHub project</a>. The website contains the data for all papers in:</p>
+      <p> <ul class="publist-inline">
+       <li> SIGGRAPH 2014</li>
+       <li> SIGGRAPH 2016</li>
+       <li> SIGGRAPH 2018</li>
+       </ul></p>
+       <p style="text-align:left">and partial data for:</p>
+       <ul class="publist-inline-empty">
+       <li> SIGGRAPH 2019</li>
+       </ul>
+       <p style="text-align:left">As a long term goal, we would like to collect data for more SIGGRAPH venues, for SIGGRAPH ASIA editions, for ToG papers, and for any other computer graphics events. If you want to help, see <a href="#contribute" class="scrolly">contributions</a>.</p>
 
 
      <p style="text-align:left"> Our project aims at providing the community with tools to improve Computer Graphics research replicability. Sharing this goal is the <a href="http://ReplicabilityStamp.org">Graphics
@@ -666,15 +688,53 @@ def write_index_step2(findex, data):
       <p style="text-align:left">You can contribute new code analysis for computer graphics
       papers. We're looking forward to your <a href="#contribute" class="scrolly">contributions</a>. You can also <a href="#contact" class="scrolly">contact us</a>.</p>
 
-     <h3>Data Digest<h3>
+  </div>
+  <div class="container">
+     <hr />
+     <header>
+     <h2 style="text-align:center;">Data Digest</h2>
+      </header>
+
+    <div class="row">
+        <div class="column2 ">
+            <h4 style="text-align:center;">Key numbers</h4>
+            <div class="row">
+                <div class="column1">
+                    Number of papers reviewed: ''' + str(data["cpt"]) + '''
+                </div>
+            </div>
+            <div class="row">
+                <div class="column1">
+                    Number of reviews: '''+str(data["cptVariants"])+'''
+                </div>
+            </div>
+            <div class="row">
+                <div class="column1">
+                    Number of papers with code: ''' + str(data["cptHasCode"])+ '''
+                </div>
+            </div>
+            <div class="row">
+                <div class="column1">
+                    Number of replicable papers: ''' + str(nbReplicable)+ '''
+                </div>
+            </div>
+        </div>
+        <div class="column2 chart-container">
+            <p style="text-align:center;">Number of review / year of publication</p>
+            <canvas height="150" id="myChartYears" class="chartjs-render-monitor"></canvas>
+        </div>
+    </div>
     <div class="row">
         <div class="column2 chart-container">
+            <p style="text-align:center;">Replicability results for reviewed papers</p>
             <canvas height="150" id="myChartTopics" class="chartjs-render-monitor"></canvas>
         </div>
         <div class="column2 chart-container">
+            <p style="text-align:center;">PDF accessibility for reviewed papers</p>
             <canvas height="150" id="myChartPdf" class="chartjs-render-monitor"></canvas>
         </div>
     </div>
+  </div>
 
     <script>
     $(document).ready(function(){
@@ -706,10 +766,32 @@ def write_index_step2(findex, data):
         myChartTopics.update();
         myChartPdf.update();
     });
+
+    var myChartYears = new Chart(document.getElementById('myChartYears'), {
+      type: 'horizontalBar',
+      data: {
+        labels: [''')
+
+   for y in data["years"].keys():
+      findex.write("""'""" + y + """',""")
+
+   findex.write('''],
+        datasets: [{
+           data: [''')
+   for y, d in data["years"].items():
+      findex.write("""'""" + str(d[3] + d[4]) + """',""")
+
+   findex.write(''']
+          }]
+      },
+      options: {
+        legend: {
+            display: false,
+        }
+      }
+    });
     </script>
 
-	</div>
-      </header>
       <div class="content dark style1 featured">
 	<div class="container">
 	  <div class="row">
@@ -729,7 +811,7 @@ def write_index_step2(findex, data):
 		<header>
 		  <h3><a href="#team" class="scrolly">Analyze</a></h3>
 		</header>
-		<p>Read our Siggraph 2020 paper on 374 analyzed Siggraph papers.</p>
+		<p>Read our Siggraph 2020 paper on 374 analyzed 2014-2016-2018 Siggraph papers.</p>
 	      </section>
 	    </div>
 	    <div class="col-4 col-12-narrow">
@@ -837,7 +919,7 @@ def write_index_step2(findex, data):
                 <div class="col-4 col-12-narrow">
 	      <h2>Contact us</h2>
 	      <p>Drop us an <a href="mailto:GraphicsReplicability@liris.cnrs.fr">email</a> for more information or to let us know what you think.</p>
-	      
+
                 </div>
             </div>
         </div>
@@ -868,7 +950,7 @@ with open(sys.argv[1]) as json_file:
 
    step2data["years"]   = dict()
    step2data["yearspdf"]   = dict()
-   
+
    print("Generating index...")
    for paper in fulldata:
      delKey(paper,'##')
@@ -907,7 +989,7 @@ with open(sys.argv[1]) as json_file:
                 hasCode = '✔️'
                 cptHasCode += 1
                 step2dataYear[3] = step2dataYear[3] + 1
-                
+
               else:
                 hasCode = '×'
                 step2dataYear[4] = step2dataYear[4] + 1
@@ -953,8 +1035,7 @@ with open(sys.argv[1]) as json_file:
               pscore = variant['If pseudo-code, could the paper be trivially implemented? {0..4}']
               if ( pscore != ''):
                   if (not variant["If code not available, pseudo-code available (boolean)"]):
-                      print( "Inconsistent choice for pseudo-code availability and score ["
-                           + variant['DOI'] + "]" )
+                       print( "[WARNING] Inconsistent choice for pseudo-code availability and score [ https://replicability.graphics/papers/" + doiclean+"/index.html  "+ variant['DOI'] + "]" )
                   if( pscore >= 4 ) :
                       step2dataYear[5] = step2dataYear[5] + 1
                   else :
