@@ -181,10 +181,9 @@ def genBadges(row):
   hasCode = row['Code available (boolean)']
   hasPseudoCode= row['If code not available, pseudo-code available (boolean)']
 
+  doi = row['DOI']
+  doiclean = re.sub('/', '-', doi)
   if hasCode:
-     if not testRun:
-        print( "Inconsistent choice for code availability and testing ["
-               + row['DOI'] + "]" )
      if row['Replicate paper results score {0=NA, 1,2,3,4,5}'] >=4:
       attribute = '<i class="fas fa-circle graphcol0" style="font-size:150%;color:#0868ac;" title="code available and we were able to reproduce most results (score >= 4)"></i>'
       signature[0] += 1
@@ -206,6 +205,14 @@ def genBadges(row):
         attribute = '<i class="fas fa-map-marker graphcol4"  style="font-size:150%;color:rgb(186,147,186);" title="only pseudo-code available in the paper"></i>'
         signature[4] += 1
 
+
+  ###
+  if hasCode:
+     if not testRun:
+      if row['Replicate paper results score {0=NA, 1,2,3,4,5}'] > 0:
+        print( "[WARNING] Has Code, test not run but repl. score >0 [ https://replicability.graphics/papers/"
+               + doiclean+"/index.html  "+ row['DOI'] + "]" )
+        
    ##PDF not available
   if hasOpenAccessPDF:
        attribute += ' <i class="fas fa-splotch graphcol5"  style="font-size:150%;color:#1b9e77;" title="PDF available as an ACM Open Access document"></i>'
@@ -952,8 +959,7 @@ with open(sys.argv[1]) as json_file:
               pscore = variant['If pseudo-code, could the paper be trivially implemented? {0..4}']
               if ( pscore != ''):
                   if (not variant["If code not available, pseudo-code available (boolean)"]):
-                      print( "Inconsistent choice for pseudo-code availability and score ["
-                           + variant['DOI'] + "]" )
+                       print( "[WARNING] Inconsistent choice for pseudo-code availability and score [ https://replicability.graphics/papers/" + doiclean+"/index.html  "+ variant['DOI'] + "]" )
                   if( pscore >= 4 ) :
                       step2dataYear[5] = step2dataYear[5] + 1
                   else :
