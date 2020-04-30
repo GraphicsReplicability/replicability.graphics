@@ -699,7 +699,7 @@ def write_index_step2(findex, data):
             </div>
             <div class="row">
                 <div class="column1">
-                    Number of paper with code: ''' + str(data["cptHasCode"])+ '''
+                    Number of papers with code: ''' + str(data["cptHasCode"])+ '''
                 </div>
             </div>
             <div class="row">
