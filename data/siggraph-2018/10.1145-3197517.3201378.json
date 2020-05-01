@@ -53,49 +53,7 @@
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": "",
         "Time spent for the test (code download to first successful run, [0,10], 10min slots, 100min max)": 4,
         "Operating system for the test": "macOS catalina",
-        "Build instructions/comments": "Pretrained models are provided in the code archive. Results, datasets and supplemental materials are available on a second project page (https://team.inria.fr/graphdeco/projects/deep-materials/). No dependency issue (just tensorflow installed using conda, version 2.1, the authors do not give the exact tensorflow version they are using) but the runExampleTest.sh does not work directly (tensorflow API issues). After performing these edits:
-
-148c148
-<         resized_images = tf.image.resize(batch_input, [in_height * 2, in_width * 2], method = tf.image.ResizeMethod.NEAREST_NEIGHBOR)
----
->         resized_images = tf.image.resize_images(batch_input, [in_height * 2, in_width * 2], method = tf.image.ResizeMethod.NEAREST_NEIGHBOR)
-248c248
-<     image_string = tf.io.read_file(filename)
----
->     image_string = tf.read_file(filename)
-294c294
-<         r = tf.image.resize(r, [a.scale_size, a.scale_size], method=tf.image.ResizeMethod.AREA)
----
->         r = tf.image.resize_images(r, [a.scale_size, a.scale_size], method=tf.image.ResizeMethod.AREA)
-382c382
-<     return  (tf.math.log(tf.add(tensor,0.01)) - tf.math.log(0.01)) / (tf.math.log(1.01)-tf.math.log(0.01))
----
->     return  (tf.log(tf.add(tensor,0.01)) - tf.log(0.01)) / (tf.log(1.01)-tf.log(0.01))
-616c616
-<     tf.random.set_seed(a.seed)
----
->     tf.set_random_seed(a.seed)
-
-
-I ended up with an issue I was not able to solve:
-
-Traceback (most recent call last):
-  File  material_net_test.py , line 752, in <module>
-    main()
-  File  material_net_test.py , line 644, in main
-    examples = load_examples(a.input_dir, a.mode ==  train )
-  File  material_net_test.py , line 330, in load_examples
-    iterator = batched_dataset.make_initializable_iterator()
-AttributeError:  BatchDataset  object has no attribute  make_initializable_iterator 
-
-Editing line 330 with 
-    iterator = tf.compat.v1.data.make_initializable_iterator(batched_dataset)
-produces
-    RuntimeError: dataset.make_initializable_iterator is not supported when eager execution is enabled. Use  or element in dataset  instead.
-
-This a more complex issue than just some API changes (and I am not expert in tensorflow).
-
-I was not able to create a conda env with a 1.7 or 1.8 tensorflow (which may correspond to the tensorflow the authors used) due to CUDA incompatibility issues.",
+        "Build instructions/comments": "Pretrained models are provided in the code archive. Results, datasets and supplemental materials are available on a second project page (https://team.inria.fr/graphdeco/projects/deep-materials/). No dependency issue (just tensorflow installed using conda, version 2.1, the authors do not give the exact tensorflow version they are using) but the runExampleTest.sh does not work directly (tensorflow API issues). After performing these edits:\n\n148c148\n<         resized_images = tf.image.resize(batch_input, [in_height * 2, in_width * 2], method = tf.image.ResizeMethod.NEAREST_NEIGHBOR)\n---\n>         resized_images = tf.image.resize_images(batch_input, [in_height * 2, in_width * 2], method = tf.image.ResizeMethod.NEAREST_NEIGHBOR)\n248c248\n<     image_string = tf.io.read_file(filename)\n---\n>     image_string = tf.read_file(filename)\n294c294\n<         r = tf.image.resize(r, [a.scale_size, a.scale_size], method=tf.image.ResizeMethod.AREA)\n---\n>         r = tf.image.resize_images(r, [a.scale_size, a.scale_size], method=tf.image.ResizeMethod.AREA)\n382c382\n<     return  (tf.math.log(tf.add(tensor,0.01)) - tf.math.log(0.01)) / (tf.math.log(1.01)-tf.math.log(0.01))\n---\n>     return  (tf.log(tf.add(tensor,0.01)) - tf.log(0.01)) / (tf.log(1.01)-tf.log(0.01))\n616c616\n<     tf.random.set_seed(a.seed)\n---\n>     tf.set_random_seed(a.seed)\n\n\nI ended up with an issue I was not able to solve:\n\nTraceback (most recent call last):\n  File  material_net_test.py , line 752, in <module>\n    main()\n  File  material_net_test.py , line 644, in main\n    examples = load_examples(a.input_dir, a.mode ==  train )\n  File  material_net_test.py , line 330, in load_examples\n    iterator = batched_dataset.make_initializable_iterator()\nAttributeError:  BatchDataset  object has no attribute  make_initializable_iterator \n\nEditing line 330 with \n    iterator = tf.compat.v1.data.make_initializable_iterator(batched_dataset)\nproduces\n    RuntimeError: dataset.make_initializable_iterator is not supported when eager execution is enabled. Use  or element in dataset  instead.\n\nThis a more complex issue than just some API changes (and I am not expert in tensorflow).\n\nI was not able to create a conda env with a 1.7 or 1.8 tensorflow (which may correspond to the tensorflow the authors used) due to CUDA incompatibility issues.",
         "Misc. comments": "",
         "Software language": "python"
     },
@@ -153,14 +111,7 @@ I was not able to create a conda env with a 1.7 or 1.8 tensorflow (which may cor
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": "",
         "Time spent for the test (code download to first successful run, [0,10], 10min slots, 100min max)": 2,
         "Operating system for the test": "macOS catalina",
-        "Build instructions/comments": "Pretrained models are provided in the code archive. Results, datasets and supplemental materials are available on a second project page (https://team.inria.fr/graphdeco/projects/deep-materials/). No dependency issue (just tensorflow installed using pip, version 2.1.0, the authors do not give the exact tensorflow version they are using) but the runExampleTest.sh crashes on my system with the following error code (which I was not able to solve):
-
-[libprotobuf ERROR google/protobuf/descriptor_database.cc:394] Invalid file descriptor data passed to EncodedDescriptorDatabase::Add().
-[libprotobuf FATAL google/protobuf/descriptor.cc:1356] CHECK failed: GeneratedDatabase()->Add(encoded_file_descriptor, size):
-libc++abi.dylib: terminating with uncaught exception of type google::protobuf::FatalException: CHECK failed: GeneratedDatabase()->Add(encoded_file_descriptor, size):
-./runExampleTest.sh: line 2: 25883 Abort trap: 6           python3 material_net_test.py --input_dir inputExamples/ --mode eval --output_dir examples_outputs --checkpoint . --imageFormat png --scale_size 256
-
-",
+        "Build instructions/comments": "Pretrained models are provided in the code archive. Results, datasets and supplemental materials are available on a second project page (https://team.inria.fr/graphdeco/projects/deep-materials/). No dependency issue (just tensorflow installed using pip, version 2.1.0, the authors do not give the exact tensorflow version they are using) but the runExampleTest.sh crashes on my system with the following error code (which I was not able to solve):\n\n[libprotobuf ERROR google/protobuf/descriptor_database.cc:394] Invalid file descriptor data passed to EncodedDescriptorDatabase::Add().\n[libprotobuf FATAL google/protobuf/descriptor.cc:1356] CHECK failed: GeneratedDatabase()->Add(encoded_file_descriptor, size):\nlibc++abi.dylib: terminating with uncaught exception of type google::protobuf::FatalException: CHECK failed: GeneratedDatabase()->Add(encoded_file_descriptor, size):\n./runExampleTest.sh: line 2: 25883 Abort trap: 6           python3 material_net_test.py --input_dir inputExamples/ --mode eval --output_dir examples_outputs --checkpoint . --imageFormat png --scale_size 256\n\n",
         "Misc. comments": "",
         "Software language": "python"
     }
