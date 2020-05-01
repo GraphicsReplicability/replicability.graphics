@@ -95,9 +95,7 @@ produces
 
 This a more complex issue than just some API changes (and I am not expert in tensorflow).
 
-I was not able to create a conda env with a 1.7 or 1.8 tensorflow (which may correspond to the tensorflow the authors used) due to CUDA incompatibility issues.
-
-",
+I was not able to create a conda env with a 1.7 or 1.8 tensorflow (which may correspond to the tensorflow the authors used) due to CUDA incompatibility issues.",
         "Misc. comments": "",
         "Software language": "python"
     },
