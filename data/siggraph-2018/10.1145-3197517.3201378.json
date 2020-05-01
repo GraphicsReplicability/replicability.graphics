@@ -51,9 +51,9 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 3,
         "Replicate paper results score {0=NA, 1,2,3,4,5}": 0
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": "",
-        "Time spent for the test (code download to first successful run, [0,10], 10min slots, 100min max)": 2,
+        "Time spent for the test (code download to first successful run, [0,10], 10min slots, 100min max)": 4,
         "Operating system for the test": "macOS catalina",
-        "Build instructions/comments": "Pretrained models are provided in the code archive. Results, datasets and supplemental materials are available on a second project page (https://team.inria.fr/graphdeco/projects/deep-materials/). No dependency issue (just tensorflow installed using conda, version 2.1) but the runExampleTest.sh does not work directly (tensorflow API issues). After performing these edits:
+        "Build instructions/comments": "Pretrained models are provided in the code archive. Results, datasets and supplemental materials are available on a second project page (https://team.inria.fr/graphdeco/projects/deep-materials/). No dependency issue (just tensorflow installed using conda, version 2.1, the authors do not give the exact tensorflow version they are using) but the runExampleTest.sh does not work directly (tensorflow API issues). After performing these edits:
 
 148c148
 <         resized_images = tf.image.resize(batch_input, [in_height * 2, in_width * 2], method = tf.image.ResizeMethod.NEAREST_NEIGHBOR)
@@ -87,6 +87,12 @@ Traceback (most recent call last):
   File "material_net_test.py", line 330, in load_examples
     iterator = batched_dataset.make_initializable_iterator()
 AttributeError: 'BatchDataset' object has no attribute 'make_initializable_iterator'
+
+Editing line 330 with 
+    iterator = tf.compat.v1.data.make_initializable_iterator(batched_dataset)
+does not help.
+
+I was not able to create a conda env with a 1.7 or 1.8 tensorflow (which may correspond to the tensorflow the authors used) due to CUDA incompatibility issues.
 
 ",
         "Misc. comments": "",
@@ -146,7 +152,7 @@ AttributeError: 'BatchDataset' object has no attribute 'make_initializable_itera
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": "",
         "Time spent for the test (code download to first successful run, [0,10], 10min slots, 100min max)": 2,
         "Operating system for the test": "macOS catalina",
-        "Build instructions/comments": "Pretrained models are provided in the code archive. Results, datasets and supplemental materials are available on a second project page (https://team.inria.fr/graphdeco/projects/deep-materials/). No dependency issue (just tensorflow installed using pip, version 2.1.0) but the runExampleTest.sh crashes on my system with the following error code (which I was not able to solve):
+        "Build instructions/comments": "Pretrained models are provided in the code archive. Results, datasets and supplemental materials are available on a second project page (https://team.inria.fr/graphdeco/projects/deep-materials/). No dependency issue (just tensorflow installed using pip, version 2.1.0, the authors do not give the exact tensorflow version they are using) but the runExampleTest.sh crashes on my system with the following error code (which I was not able to solve):
 
 [libprotobuf ERROR google/protobuf/descriptor_database.cc:394] Invalid file descriptor data passed to EncodedDescriptorDatabase::Add().
 [libprotobuf FATAL google/protobuf/descriptor.cc:1356] CHECK failed: GeneratedDatabase()->Add(encoded_file_descriptor, size):
