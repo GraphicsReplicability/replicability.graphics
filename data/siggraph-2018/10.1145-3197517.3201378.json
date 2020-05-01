@@ -80,18 +80,18 @@
 I ended up with an issue I was not able to solve:
 
 Traceback (most recent call last):
-  File 'material_net_test.py', line 752, in <module>
+  File  material_net_test.py , line 752, in <module>
     main()
-  File 'material_net_test.py', line 644, in main
-    examples = load_examples(a.input_dir, a.mode == 'train')
-  File 'material_net_test.py', line 330, in load_examples
+  File  material_net_test.py , line 644, in main
+    examples = load_examples(a.input_dir, a.mode ==  train )
+  File  material_net_test.py , line 330, in load_examples
     iterator = batched_dataset.make_initializable_iterator()
-AttributeError: 'BatchDataset' object has no attribute 'make_initializable_iterator'
+AttributeError:  BatchDataset  object has no attribute  make_initializable_iterator 
 
 Editing line 330 with 
     iterator = tf.compat.v1.data.make_initializable_iterator(batched_dataset)
 produces
-    RuntimeError: dataset.make_initializable_iterator is not supported when eager execution is enabled. Use 'or element in dataset' instead.
+    RuntimeError: dataset.make_initializable_iterator is not supported when eager execution is enabled. Use  or element in dataset  instead.
 
 This a more complex issue than just some API changes (and I am not expert in tensorflow).
 
