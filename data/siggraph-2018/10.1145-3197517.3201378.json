@@ -91,7 +91,7 @@ AttributeError: 'BatchDataset' object has no attribute 'make_initializable_itera
 Editing line 330 with 
     iterator = tf.compat.v1.data.make_initializable_iterator(batched_dataset)
 produces
-    RuntimeError: dataset.make_initializable_iterator is not supported when eager execution is enabled. Use `for element in dataset` instead.
+    RuntimeError: dataset.make_initializable_iterator is not supported when eager execution is enabled. Use 'or element in dataset' instead.
 
 This a more complex issue than just some API changes (and I am not expert in tensorflow).
 
