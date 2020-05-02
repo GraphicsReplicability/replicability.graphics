@@ -21,6 +21,10 @@ def processString(s):
 def genChart(f,variant,tabid):
     f.write("""<div id="review-%d">""" % (tabid))
     f.write("""<h2>Information</h2>""")
+
+    if variant['Is variant deprecated (boolean)']==True:
+        f.write('<ul class="publist-inline-empty-dark"><li>This variant has been marked as deprecated (either the code or the build test have changed)</li></ul>')
+    
     f.write("""<ul>""")
     f.write('<li><span class="family">Paper topic</span>: '+ variant['Topic {Rendering, Animation and Simulation, Geometry, Images, Virtual Reality, Fabrication}'] + '</li>\n')
     f.write('<li><span class="family">Software type</span>: '+ variant['Software type {Code, Binary, Partial Code}'] + '</li>\n')
