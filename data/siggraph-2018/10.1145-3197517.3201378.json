@@ -60,7 +60,7 @@
     {
         "Variant name": "macOS Catalina",
         "Reviewer name": "David Coeurjolly <david.coeurjolly@liris.cnrs.fr>",
-        "Is master variant (boolean)": true,
+        "Is master variant (boolean)": false,
         "Is variant deprecated (boolean)": false,
         "Title": "Single-image SVBRDF capture with a rendering-aware deep network",
         "DOI": "10.1145/3197517.3201378",
