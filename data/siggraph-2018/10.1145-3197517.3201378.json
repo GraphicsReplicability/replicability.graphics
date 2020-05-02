@@ -53,7 +53,7 @@
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 5,
         "Time spent for the test (code download to first successful run, [0,10], 10min slots, 100min max)": 1,
         "Operating system for the test": "macOS catalina",
-        "Build instructions/comments": "Pretrained models are provided in the code archive. Results, datasets and supplemental materials are available on a second project page (https://team.inria.fr/graphdeco/projects/deep-materials/). This review corresponds to a new version of the code with a special fix to make it work with recent tensorflow (>2). Just edit the first lines of material_net_test.py (lines 18-19) to enable tensorflow>2. Once fixed, I was able to reprocude most results of the paper.",
+        "Build instructions/comments": "Pretrained models are provided in the code archive. Results, datasets and supplemental materials are available on a second project page (https://team.inria.fr/graphdeco/projects/deep-materials/). This review corresponds to a new version of the code with a special fix to make it work with recent tensorflow (>2). Just edit the first lines of material_net_test.py (lines 18-19) to enable tensorflow>2. Once fixed, I was able to reproduce most results of the paper.",
         "Misc. comments": "",
         "Software language": "python"
    },
@@ -111,7 +111,7 @@
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 5,
         "Time spent for the test (code download to first successful run, [0,10], 10min slots, 100min max)": 1,
         "Operating system for the test": "macOS catalina",
-        "Build instructions/comments": "Pretrained models are provided in the code archive. Results, datasets and supplemental materials are available on a second project page (https://team.inria.fr/graphdeco/projects/deep-materials/). This review corresponds to a new version of the code with a special fix to make it work with recent tensorflow (>2). Just edit the first lines of material_net_test.py (lines 18-19) to enable tensorflow>2. Once fixed, I was able to reprocude most results of the paper.\n\nOn Catalina, you may have an issue with protobuf. The following upgrade of the packages solves the problem:\n  python -m pip install --upgrade pip\n  python -m pip uninstall tensorflow tensorflow_estimator protobuf\n  python -m pip install tensorflow\n  python -m pip install lxml\n",
+        "Build instructions/comments": "Pretrained models are provided in the code archive. Results, datasets and supplemental materials are available on a second project page (https://team.inria.fr/graphdeco/projects/deep-materials/). This review corresponds to a new version of the code with a special fix to make it work with recent tensorflow (>2). Just edit the first lines of material_net_test.py (lines 18-19) to enable tensorflow>2. Once fixed, I was able to reproduce most results of the paper.\n\nOn Catalina, you may have an issue with protobuf. The following upgrade of the packages solves the problem:\n  python -m pip install --upgrade pip\n  python -m pip uninstall tensorflow tensorflow_estimator protobuf\n  python -m pip install tensorflow\n  python -m pip install lxml\n",
         "Misc. comments": "",
         "Software language": "python"
    },
