@@ -41,4 +41,5 @@ jobs:
            sudo apt-get update
            sudo apt-get install jsonlint
            jsonlint-php ${JSON_FILES}
+           python3 scripts/checkJSONConsistency.py ${JSON_FILES}
         fi
