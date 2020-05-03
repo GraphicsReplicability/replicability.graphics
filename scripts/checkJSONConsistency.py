@@ -60,5 +60,5 @@ def checkJSON(paperJSON):
   testMaster(paper)
 
 for i in range(1, len(sys.argv)):
-  print(" ======= Checking  JSON " + sys.argv[i])
+  print(" ======= Checking the content of the JSON " + sys.argv[i])
   checkJSON(sys.argv[i])
