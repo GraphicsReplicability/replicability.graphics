@@ -52,7 +52,6 @@ def testMaster(paper):
   
   check(errCode)
 
-
 #######################################
 
 def checkJSON(paperJSON):
