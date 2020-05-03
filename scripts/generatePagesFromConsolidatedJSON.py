@@ -399,7 +399,11 @@ def generateAllPages(pathPages,paper):
        <div id="tabs">
           <ul>''')
  for varid, var in enumerate(paper):
-    f.write("             <li><a href=\"#review-%d\">%s</a></li>\n" % (varid+1, var['Variant name']))
+    if var['Is variant deprecated (boolean)']==False:
+        f.write("             <li><a href=\"#review-%d\">%s</a></li>\n" % (varid+1, var['Variant name']))
+    else:
+        f.write("             <li><a style='color:gray;text-decoration:line-through;' href=\"#review-%d\">%s</a></li>\n" % (varid+1, var['Variant name']))
+  
  f.write("             <li><a href=\"#review-%s\">&#43;</a></li>\n" % (len(paper)+1))
  f.write("</ul>")
 
