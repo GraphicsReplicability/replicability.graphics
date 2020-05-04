@@ -429,9 +429,9 @@ def generateAllPages(pathPages,paper):
  f.write('</code></pre>')
  f.write("</body>")
  f.write("<div style=\"height:30px;display:block;\"></div>")
- URL = "https://replicability-siggraph.disqus.com/embed.js"
+ URL = "https://replicability.siggraph.disqus.com/embed.js"
  if variant['DOI']=="10.1145/3197517.3201378":
-     URL = "https://replicability.graphics.disqus.com/embed.js"
+     URL = "https://replicability-graphics.disqus.com/embed.js"
      
  f.write("""<div id="disqus_thread"></div>
  <script>
