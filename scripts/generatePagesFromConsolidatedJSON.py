@@ -429,10 +429,6 @@ def generateAllPages(pathPages,paper):
  f.write('</code></pre>')
  f.write("</body>")
  f.write("<div style=\"height:30px;display:block;\"></div>")
- URL = "https://replicability.siggraph.disqus.com/embed.js"
- if variant['DOI']=="10.1145/3197517.3201378":
-     URL = "https://replicability-graphics.disqus.com/embed.js"
-     
  f.write("""<div id="disqus_thread"></div>
  <script>
  /**
@@ -446,7 +442,8 @@ def generateAllPages(pathPages,paper):
  */
  (function() { // DON'T EDIT BELOW THIS LINE
  var d = document, s = d.createElement('script');
- s.src = '""" + URL + """'; s.setAttribute('data-timestamp', +new Date());
+ s.src = 'https://replicability-siggraph.disqus.com/embed.js';
+ s.setAttribute('data-timestamp', +new Date());
  (d.head || d.body).appendChild(s);
  })();
  </script>
