@@ -425,6 +425,8 @@ def generateAllPages(pathPages,paper):
  #and the JS for the plot
  genChartFooter(f,paper)
 
+ disqus_url = "https://replicability-siggraph.disqus.com/embed.js" if variant['DOI']=="10.1145/3197517.3201378" else "https://replicability-graphics.disqus.com/embed.js"
+
  path = "siggraph-"+str(variant['Year'])+'/'
  f.write('</code></pre>')
  f.write("</body>")
@@ -442,7 +444,7 @@ def generateAllPages(pathPages,paper):
  */
  (function() { // DON'T EDIT BELOW THIS LINE
  var d = document, s = d.createElement('script');
- s.src = '""" +  "https://replicability-siggraph.disqus.com/embed.js" if variant['DOI']=="10.1145/3197517.3201378" else "https://replicability-graphics.disqus.com/embed.js" + """';
+ s.src = '""" + disqus_url  + """';
  s.setAttribute('data-timestamp', +new Date());
  (d.head || d.body).appendChild(s);
  })();
