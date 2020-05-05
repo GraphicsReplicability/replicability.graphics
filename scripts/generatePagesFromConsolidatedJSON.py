@@ -695,7 +695,7 @@ def write_index_step2(findex, data):
      <p style="text-align:left"> Our project aims at providing the
      community with tools to improve Computer Graphics research
      replicability. While the <a
-     href="http://ReplicabilityStamp.org">Graphics Replicability Stamp
+     href="http://ReplicabilityStamp.org" target="_blank">Graphics Replicability Stamp
      Initiative</a> (GRSI) encourages authors to <b>make</b> their resarch
      replicable, in our project we check whether existing research <b>is</b>
      replicable.</p>
