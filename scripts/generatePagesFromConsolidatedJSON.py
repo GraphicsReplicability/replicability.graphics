@@ -24,7 +24,7 @@ def genChart(f,variant,tabid):
 
     if variant['Is variant deprecated (boolean)']==True:
         f.write('<ul class="publist-inline-empty-dark"><li>This variant has been marked as deprecated (either the code or the build test have changed)</li></ul>')
-    
+
     f.write("""<ul>""")
     f.write('<li><span class="family">Paper topic</span>: '+ variant['Topic {Rendering, Animation and Simulation, Geometry, Images, Virtual Reality, Fabrication}'] + '</li>\n')
     f.write('<li><span class="family">Software type</span>: '+ variant['Software type {Code, Binary, Partial Code}'] + '</li>\n')
@@ -216,7 +216,7 @@ def genBadges(row):
       if row['Replicate paper results score {0=NA, 1,2,3,4,5}'] > 0:
         print( "[WARNING] Has Code, test not run but repl. score >0 [ https://replicability.graphics/papers/"
                + doiclean+"/index.html  "+ row['DOI'] + "]" )
-        
+
    ##PDF not available
   if hasOpenAccessPDF:
        attribute += ' <i class="fas fa-splotch graphcol5"  style="font-size:150%;color:#1b9e77;" title="PDF available as an ACM Open Access document"></i>'
@@ -403,7 +403,7 @@ def generateAllPages(pathPages,paper):
         f.write("             <li><a href=\"#review-%d\">%s</a></li>\n" % (varid+1, var['Variant name']))
     else:
         f.write("             <li><a style='color:gray;text-decoration:line-through;' href=\"#review-%d\">%s</a></li>\n" % (varid+1, var['Variant name']))
-  
+
  f.write("             <li><a href=\"#review-%s\">&#43;</a></li>\n" % (len(paper)+1))
  f.write("</ul>")
 
@@ -414,7 +414,7 @@ def generateAllPages(pathPages,paper):
 
  f.write('''<div id=review-%s>
            <p> If you want to contribute with another review, please follow <a href="../../index.html#contribute">these instructions.</a></p>
- 
+
             <p>Please consider to cut/paste/edit the <a href="replicability.json">raw JSON data</a> attached to this paper.</a></p>
             </div>
             '''% (len(paper)+1));
@@ -442,7 +442,7 @@ def generateAllPages(pathPages,paper):
  */
  (function() { // DON'T EDIT BELOW THIS LINE
  var d = document, s = d.createElement('script');
- s.src = 'https://replicability-siggraph.disqus.com/embed.js';
+ s.src = '""" +  "https://replicability-siggraph.disqus.com/embed.js" if variant['DOI']=="10.1145/3197517.3201378" else "https://replicability-graphics.disqus.com/embed.js" + """';
  s.setAttribute('data-timestamp', +new Date());
  (d.head || d.body).appendChild(s);
  })();
