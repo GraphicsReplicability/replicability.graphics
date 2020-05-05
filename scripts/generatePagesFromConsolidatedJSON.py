@@ -692,8 +692,13 @@ def write_index_step2(findex, data):
        <p style="text-align:left">As a long term goal, we would like to collect data for more SIGGRAPH venues, for SIGGRAPH ASIA editions, for ToG papers, and for any other computer graphics events. If you want to help, see <a href="#contribute" class="scrolly">contributions</a>.</p>
 
 
-     <p style="text-align:left"> Our project aims at providing the community with tools to improve Computer Graphics research replicability. Sharing this goal is the <a href="http://ReplicabilityStamp.org">Graphics
-     Replicability Stamp Initiative</a> whose objective is to highlight replicable research works in Computer Graphics.</p>
+     <p style="text-align:left"> Our project aims at providing the
+     community with tools to improve Computer Graphics research
+     replicability. While the <a
+     href="http://ReplicabilityStamp.org" target="_blank">Graphics Replicability Stamp
+     Initiative</a> (GRSI) encourages authors to <b>make</b> their resarch
+     replicable, in our project we check whether existing research <b>is</b>
+     replicable.</p>
 
       <p style="text-align:left">You can contribute new code analysis for computer graphics
       papers. We're looking forward to your <a href="#contribute" class="scrolly">contributions</a>. You can also <a href="#contact" class="scrolly">contact us</a>.</p>
