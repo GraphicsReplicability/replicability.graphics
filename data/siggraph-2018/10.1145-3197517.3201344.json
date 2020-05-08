@@ -50,7 +50,7 @@
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 4,
         "Time spent for the test (code download to first successful run, [0,10], 10min slots, 100min max)": 2,
         "Operating system for the test": "macOS catalina",
-        "Build instructions/comments": "Easy build from the building instructions. The example works perfectly from the provdied input file (the project page also contains additional input data). The software outputs an openvolumemesh file (.ovmn ascii file) which can be seen using OpenFlipper https://www.graphics.rwth-aachen.de/software/openflipper/. Using this tool, I was able to see a tetrahedrization of the input geometry but not the hexahedral one.",
+        "Build instructions/comments": "Easy build from the building instructions. The example works perfectly from the provdied input file (the project page also contains additional input data). The software outputs an openvolumemesh file (.ovmn ascii file) which can be seen using OpenFlipper https://www.graphics.rwth-aachen.de/software/openflipper/. Using this tool, I was able to visualize a tetrahedrization of the input geometry but not the hexahedral one.",
         "Misc. comments": "",
         "Software language": "c++"
     },
