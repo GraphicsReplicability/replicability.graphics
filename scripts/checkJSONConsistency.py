@@ -27,7 +27,12 @@ def checkTime(variant,score):
 
 def checkCodeURL(variant):
   if variant["Code available (boolean)"] == True and variant["Code URL"]=="":
-   return '[Code URL check] IF code is provided (boolean), an URL must be given'
+   return '[Code URL check] If code is provided (boolean), an URL must be given'
+  return ""
+
+def checkCodeType(variant):
+  if variant["Code available (boolean)"] == True and variant["Software type {Code, Binary, Partial Code}"]=="":
+   return '[Code type check] If code/software is provided (boolean), an type must be given'
   return ""
 
 #######################################
@@ -40,6 +45,7 @@ def testMaster(paper):
     
     check(checkYear(variant))
     check(checkCodeURL(variant))
+    check(checkCodeType(variant))
     check(checkScore(variant,"Dependencies score {0=NA, 1,2,3,4,5}"))
     check(checkScore(variant,"Build/configure score {0=NA, 1,2,3,4,5}"))
     check(checkScore(variant,"Fixing bugs score (if any) {0=NA, 1,2,3,4,5}"))
