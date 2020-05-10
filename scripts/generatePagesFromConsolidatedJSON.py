@@ -1062,7 +1062,7 @@ with open(sys.argv[1]) as json_file:
               fbrowse.write("<td>"+str(variant['Documentation score {0=NA,1,2,3}'])+"</td>")
               #altmetric
               if altmetric[0] != -1:
-                  fbrowse.write('   <td> <a href="'+altmetric[2]+'"><img width="40px" src="'+str(altmetric[1])+'"></a><span style="font-size:0%">'+str(altmetric[0])+'</span></td>')
+                  fbrowse.write('   <td> <a href="'+altmetric[2]+'"><img width="30px" src="'+str(altmetric[1])+'"></a><span style="font-size:0%">'+str(altmetric[0])+'</span></td>')
               else:
                   fbrowse.write("<td></td>")
 
