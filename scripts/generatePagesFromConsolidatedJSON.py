@@ -413,7 +413,7 @@ def generateAllPages(pathPages,paper):
     generatePage(f,pathPages,var,doi,doiclean,authors,varid+1)
 
  f.write('''<div id=review-%s>
-           <p> If you want to contribute with another review, please follow <a href="../../index.html#contribute">these instructions.</a></p>
+           <p> If you want to contribute with another review, please follow <a href="../../index.html#contribute">these instructions</a>. </p>
 
             <p>Please consider to cut/paste/edit the <a href="replicability.json">raw JSON data</a> attached to this paper.</a></p>
             </div>
@@ -689,7 +689,7 @@ def write_index_step2(findex, data):
        <ul class="publist-inline-empty">
        <li> SIGGRAPH 2019</li>
        </ul>
-       <p style="text-align:left">As a long term goal, we would like to collect data for more SIGGRAPH venues, for SIGGRAPH ASIA editions, for ToG papers, and for any other computer graphics events. If you want to help, see <a href="#contribute" class="scrolly">contributions</a>.</p>
+       <p style="text-align:left">As a long term goal, we would like to collect data for more SIGGRAPH venues, for SIGGRAPH ASIA editions, for ToG papers, and for any other computer graphics events. If you want to help, see <a href="#contribute" class="scrolly">contributions</a>, and check out <a href="https://github.com/GraphicsReplicability/replicability.graphics/blob/master/CONTRIBUTORS.md">the contributors</a>. </p>
 
 
      <p style="text-align:left"> Our project aims at providing the
