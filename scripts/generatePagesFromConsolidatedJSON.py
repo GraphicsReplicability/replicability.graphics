@@ -2,6 +2,7 @@ import csv,os,sys, json,re,codecs
 import hashlib
 import shutil
 from collections import OrderedDict
+import datetime
 
 def genChartHeader(f):
     f.write("""
@@ -625,10 +626,11 @@ def write_browse_step1(fbrowse):
 
 def write_browse_step2(fbrowse, data):
    dumpTableFooter(fbrowse,allTopics, data)
-
+   tdy = datetime.datetime.now()
    fbrowse.write('''
             </div>
         </header>
+    Last update: '''+ str(tdy) +'''
     </section>
     ''')
 
@@ -1060,7 +1062,7 @@ with open(sys.argv[1]) as json_file:
               fbrowse.write("<td>"+str(variant['Documentation score {0=NA,1,2,3}'])+"</td>")
               #altmetric
               if altmetric[0] != -1:
-                  fbrowse.write('   <td> <a href="'+altmetric[2]+'">'+str(altmetric[0])+'</a></td>')
+                  fbrowse.write('   <td> <a href="'+altmetric[2]+'"><img width="30px" src="'+str(altmetric[1])+'"></a><span style="font-size:0%">'+str(altmetric[0])+'</span></td>')
               else:
                   fbrowse.write("<td></td>")
 
