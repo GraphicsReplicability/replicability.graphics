@@ -13,6 +13,13 @@ def checkYear(variant):
     return '[Year check] problem with the following year: '+ str(variant['Year'])
   return ""
 
+def checkTopics(variant):
+  listTopics = {"Rendering", "Animation and Simulation", "Geometry", "Images", "Virtual Reality", "Fabrication"}
+  if not(variant['Topic {Rendering, Animation and Simulation, Geometry, Images, Virtual Reality, Fabrication}'] in listTopics):
+    return '[Topic check] The following topic is not in {Rendering, Animation and Simulation, Geometry, Images, Virtual Reality, Fabrication}: '+ str(variant['Topic {Rendering, Animation and Simulation, Geometry, Images, Virtual Reality, Fabrication}'])
+  return ""
+
+ 
 def checkScore(variant,score):
   if variant[score]== "":
     return ""
@@ -32,7 +39,7 @@ def checkCodeURL(variant):
 
 def checkCodeType(variant):
   if variant["Code available (boolean)"] == True and variant["Software type {Code, Binary, Partial Code}"]=="":
-   return '[Code type check] If code/software is provided (boolean), an type must be given'
+   return '[Code type check] If code/software is provided (boolean), a type must be given'
   return ""
 
 #######################################
@@ -42,8 +49,10 @@ def testMaster(paper):
   for variant in paper:
     if variant['Is master variant (boolean)'] == True:
       cpt = cpt + 1
+
     
     check(checkYear(variant))
+    check(checkTopics(variant))
     check(checkCodeURL(variant))
     check(checkCodeType(variant))
     check(checkScore(variant,"Dependencies score {0=NA, 1,2,3,4,5}"))
@@ -55,7 +64,8 @@ def testMaster(paper):
 
   if cpt != 1:
     errCode = "[Master Variant Test] There is not exactly one master variant for this paper"
-  
+    print(errCode)
+    
   check(errCode)
 
 #######################################
