@@ -30,6 +30,7 @@
         "git/hg/svn commit hash or revision number URL2": "",
         "Software Heritage permalink": "",
         "Software type {Code, Binary, Partial Code}": "Code",
+        "Software language": "c++",
         "Code License (if any)": "",
         "Are the code authors explicit? (boolean)": true,
         "Build/Configure mechanism": "C++ Compiler",
