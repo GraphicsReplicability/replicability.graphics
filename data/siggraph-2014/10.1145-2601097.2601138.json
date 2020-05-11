@@ -48,7 +48,7 @@
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": "1",
         "Time spent for the test (code download to first successful run, [0,10], 10min slots, 100min max)": 1,
         "Operating system for the test": "Ubuntu 18.04.4 LTS",
-        "Build instructions/comments": "The code is provided as a single file. There is no build/run instructions, however I could compile by calling `g++ smallmmlt.cpp` (I used gcc 7.5.0), and ran it as `./a.out`. By default, the renderer runs for 3 minutes (see smallmmlt.cpp:525). It generates a ppm images with a cornell box contained 3 spheres (not in the paper, but similar to Figure 8).",
+        "Build instructions/comments": "The code is provided as a single file. There is no build/run instructions, however I could compile by calling `g++ smallmmlt.cpp` (I used gcc 7.5.0), and ran it as `./a.out`. By default, the renderer runs for 3 minutes (see smallmmlt.cpp:525). It generates a ppm images with a cornell box contained 3 spheres (not in the paper, but similar to Figure 8). The 3d scene is defined in code, and thus adapting to other contexts might require some development effort.",
         "Misc. comments": "Another (unofficial) implementation can be found in EDXRay (https://github.com/behindthepixels/EDXRay/commit/3af2fb67237de651e6ac6877ac07acb38b9fafd5)",
         "Software language": ""
     }
