@@ -55,7 +55,8 @@ def testMaster(paper):
 
   if cpt != 1:
     errCode = "[Master Variant Test] There is not exactly one master variant for this paper"
-  
+    print(errCode)
+    
   check(errCode)
 
 #######################################
