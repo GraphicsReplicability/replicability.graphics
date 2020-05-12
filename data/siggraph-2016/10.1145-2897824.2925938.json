@@ -1,7 +1,7 @@
 [
     {
         "Variant name": "main",
-        "Reviewer name": "Nicolas Bonneel <nbonneel@seas.harvard.edu>",
+        "Reviewer name": "Nicolas Bonneel <nicolas.bonneel@liris.cnrs.fr>",
         "Is master variant (boolean)": true,
         "Is variant deprecated (boolean)": false,
         "Title": "Erosion thickness on medial axes of 3D shapes",
@@ -47,9 +47,10 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 0,
         "Replicate paper results score {0=NA, 1,2,3,4,5}": 4,
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 4,
-        "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 2,
+        "Time spent for the test (code download to first successful run, [0,10], 10min slots, 100min max)": 2,
         "Operating system for the test": "Windows",
         "Build instructions/comments": "Compiling the project with Qt 5.12.6 instead of 5.7.0 (~40GB install) is relatively easy.\n- EtDev.sln: replace  qt5.7_msvc2015 by qt5.12_msvc2017\n- EtDev.vcxproj: replace Qt5Version_x0020_x64=\"qt5.7_msvc2015\" by  Qt5Version_x0020_x64=\"qt5.12_msvc2017\"\n- EtDev.vcxproj.user: replace C:\\Libs\\Qt\\Qt5.7.0\\5.7\\msvc2015_64 by the actual path of your Qt install (e.g., C:\\Libs\\Qt\\5.12.6\\msvc2017_64).\n- trimesh/include/Vec.h, line 819: #if (_MSC_VER != 1900)  should be replaced by #if (_MSC_VER <= 1900)\nThe program compiles and produces the same executable as the one provided on the author website. It is however not very easy to use, and it is undocumented. The startup is intuitive (load the hand medial axis, model and radius files provided in the sample data), but then parameter tuning and what steps need to be performed were not trivial to find. I managed to produce a clean hand skeleton nevertheless that somewhat looks like results shown in the paper.\nI assume the .r file contains a radius for each vertex of the medial axis .off file, so that should be relatively easy to produce given a medial axis code (not provided).\nWhile results were convincing on the hand model, models used in the paper are not provided.",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "C/C++"
     }
 ]

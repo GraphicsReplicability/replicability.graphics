@@ -12,7 +12,7 @@
             "Matching",
             "Image manipulation"
         ],
-        "Topic {Rendering, Animation and Simulation, Geometry, Images, Virtual Reality, Fabrication}": "Image",
+        "Topic {Rendering, Animation and Simulation, Geometry, Images, Virtual Reality, Fabrication}": "Images",
         "Co-authors from academia (boolean)": true,
         "Co-authors from industry (boolean)": true,
         "ACM Open Access (boolean)": false,
@@ -48,9 +48,10 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 5,
         "Replicate paper results score {0=NA, 1,2,3,4,5}": 5,
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 5,
-        "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 2,
+        "Time spent for the test (code download to first successful run, [0,10], 10min slots, 100min max)": 2,
         "Operating system for the test": "Linux",
         "Build instructions/comments": "sklearn dependency was not explicitly mentioned in the README. To make the code working on recent pytorch, I needed to update in line of code :\n\n\n@@ -92,7 +92,7 @@ class vgg19(nn.Module):\n             deconvolved_feature_forward = self.forward(level=src_level, start_level=dst_level, set_as_var = False)\n             loss_perceptual = criterionPerceptual(deconvolved_feature_forward, src_layer)\n             loss_perceptual.backward()\n-            error = loss_perceptual.data[0]\n+            error = loss_perceptual.item()\n             self.update_last_losses(error)\n             if (i % 3 == 0) and (print_errors == True):\n                 print(\"error: \", error)",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "Python"
     }
 ]

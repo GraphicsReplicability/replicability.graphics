@@ -100,6 +100,9 @@
         "##": "to compile or evaluated the project)",
         "Software type {Code, Binary, Partial Code}": "",
 
+        "##": "Software language (binary, python, c++,....)",
+        "Software language": "",
+        
         "##": "Is a license specified for the code ?",
         "##": "If so, precise the license (or keep the string empty if not).",
         "Code License (if any)": "",
@@ -179,15 +182,19 @@
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 0,
 
         "##": "Time spent for the replicability test (from the download to the first successful run)",
-        "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 0,
+        "##": "0 = less than 10 min",
+        "##": "1 = between 10 and 20 min",
+        "##": "...",
+        "##": "10 = more than 100 min",
+        "Time spent for the test (code download to first successful run, [0,10], 10min slots, 100min max)": 0,
 
-        "##": "OS for the teste",
+        "##": "OS for the test",
         "Operating system for the test": "",
 
-        "##": "Detailed instructions (especially if you had to fix some bugs before being able to run a test)e",
+        "##": "Detailed instructions (especially if you had to fix some bugs before being able to run a test)",
         "Build instructions/comments": "",
 
-        "##": "General commentse",
+        "##": "General comments",
         "##": "This field is displayed even if no replicability test could have been performed.",
         "Misc. comments": ""
     }

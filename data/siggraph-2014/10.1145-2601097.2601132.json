@@ -11,7 +11,7 @@
             "Animation",
             "Simulation by animation"
         ],
-        "Topic {Rendering, Animation and Simulation, Geometry, Images, Virtual Reality, Fabrication}": "Animation",
+        "Topic {Rendering, Animation and Simulation, Geometry, Images, Virtual Reality, Fabrication}": "Animation and Simulation",
         "Co-authors from academia (boolean)": true,
         "Co-authors from industry (boolean)": false,
         "ACM Open Access (boolean)": false,
@@ -47,9 +47,10 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 0,
         "Replicate paper results score {0=NA, 1,2,3,4,5}": 0,
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 0,
-        "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 3,
+        "Time spent for the test (code download to first successful run, [0,10], 10min slots, 100min max)": 3,
         "Operating system for the test": "Linux",
         "Build instructions/comments": "I got a C++ issue when building the project on MacOS (after setting a -std=c+11 in the Makefile.mac):\n\nIn file included from src/auglag.cpp:27:\nIn file included from src/optimization.hpp:30:\nsrc/sparse.hpp:118:18: error: invalid operands to binary expression ('basic_ostream<char, std::__1::char_traits<char> >' and 'std::fstream' (aka 'basic_fstream<char>'))\n    file << \"}]\" << file;\n    ~~~~~~~~~~~~ ^  ~~~~\n\n. On both linux/macos, the TAUCS dependency cannot be built due to a missing \"intel cilk\" library which should be optional but the configure was not able to handle the issue (no  'taucs_config_tests.h' generated).",
-        "Misc. comments": "The paper code seems to be included in the ARCSIM project. I wasn't able to check the part of the software containing it (few documentation and build issues)."
+        "Misc. comments": "The paper code seems to be included in the ARCSIM project. I wasn't able to check the part of the software containing it (few documentation and build issues).",
+        "Software language": "C/C++"
     }
 ]

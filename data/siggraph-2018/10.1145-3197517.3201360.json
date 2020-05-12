@@ -1,7 +1,7 @@
 [
     {
         "Variant name": "main",
-        "Reviewer name": "Nicolas Bonneel <nbonneel@seas.harvard.edu>",
+        "Reviewer name": "Nicolas Bonneel <nicolas.bonneel@liris.cnrs.fr>",
         "Is master variant (boolean)": true,
         "Is variant deprecated (boolean)": false,
         "Title": "Stitch Meshing",
@@ -46,9 +46,10 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 5,
         "Replicate paper results score {0=NA, 1,2,3,4,5}": 3,
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 0,
-        "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 2,
+        "Time spent for the test (code download to first successful run, [0,10], 10min slots, 100min max)": 2,
         "Operating system for the test": "Windows",
         "Build instructions/comments": "Very easy to build on Windows with VS2017, as most dependencies are shipped (except Gurobi, free for research purpose) and the CMakeList is well done. Trivial fix to the CMakeList : change gurobi75.lib to the latest version available (gurobi90.lib currently).\nThe software is also very nice and easy to play with. However, it only implements part (but most) of the paper (up to section 7 included ; no yarn generation).",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "C/C++"
     }
 ]

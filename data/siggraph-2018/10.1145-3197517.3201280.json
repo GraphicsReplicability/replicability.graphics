@@ -11,7 +11,7 @@
             "Procedural animation",
             "Physical simulation"
         ],
-        "Topic {Rendering, Animation and Simulation, Geometry, Images, Virtual Reality, Fabrication}": "Animation",
+        "Topic {Rendering, Animation and Simulation, Geometry, Images, Virtual Reality, Fabrication}": "Animation and Simulation",
         "Co-authors from academia (boolean)": true,
         "Co-authors from industry (boolean)": true,
         "ACM Open Access (boolean)": true,
@@ -47,9 +47,10 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 0,
         "Replicate paper results score {0=NA, 1,2,3,4,5}": 4,
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 4,
-        "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 1,
+        "Time spent for the test (code download to first successful run, [0,10], 10min slots, 100min max)": 1,
         "Operating system for the test": "Linux",
         "Build instructions/comments": "The output format is .obj mesh files, can be read by many open source software. The authors provide a viewer as a  houdini plugin that can be used with the non-commercial version of houdini and runs smoothly. I was able to reproduce grid deformations similar to the ones in the paper, but not on meshes.",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "C/C++"
     }
 ]

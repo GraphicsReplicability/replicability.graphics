@@ -13,7 +13,7 @@
             "Mixed discrete-continuous optimization",
             "Solvers"
         ],
-        "Topic {Rendering, Animation and Simulation, Geometry, Images, Virtual Reality, Fabrication}": "Image",
+        "Topic {Rendering, Animation and Simulation, Geometry, Images, Virtual Reality, Fabrication}": "Images",
         "Co-authors from academia (boolean)": true,
         "Co-authors from industry (boolean)": false,
         "ACM Open Access (boolean)": false,
@@ -49,9 +49,10 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 0,
         "Replicate paper results score {0=NA, 1,2,3,4,5}": 3,
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 5,
-        "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 3,
+        "Time spent for the test (code download to first successful run, [0,10], 10min slots, 100min max)": 3,
         "Operating system for the test": "Linux",
         "Build instructions/comments": "Works perfectly on linux. I was able to run the example but not all paper results.",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "Python"
     }
 ]

@@ -11,7 +11,7 @@
             "3D imaging",
             "Computational photography"
         ],
-        "Topic {Rendering, Animation and Simulation, Geometry, Images, Virtual Reality, Fabrication}": "Image",
+        "Topic {Rendering, Animation and Simulation, Geometry, Images, Virtual Reality, Fabrication}": "Images",
         "Co-authors from academia (boolean)": true,
         "Co-authors from industry (boolean)": false,
         "ACM Open Access (boolean)": false,
@@ -30,7 +30,7 @@
         "MD5 sum (for archives) URL2": "",
         "git/hg/svn commit hash or revision number URL2": "",
         "Software Heritage permalink": "",
-        "Software type {Code, Binary, Partial Code}": "",
+        "Software type {Code, Binary, Partial Code}": "Code",
         "Code License (if any)": "unspecified",
         "Are the code authors explicit? (boolean)": false,
         "Build/Configure mechanism": "CMakeLists, Not applicable (python, Matlab..)",
@@ -47,9 +47,10 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 0,
         "Replicate paper results score {0=NA, 1,2,3,4,5}": 0,
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 0,
-        "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 3,
+        "Time spent for the test (code download to first successful run, [0,10], 10min slots, 100min max)": 3,
         "Operating system for the test": "Mac OS",
         "Build instructions/comments": "The project page provides many ressources for replicability (system diagrams, firmware, C++ libs for the controller). As the paper is a hardware-oriented research, it is not replicable in the sense of the current study.",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "C/C++, Matlab / Mathematica / .."
     }
 ]

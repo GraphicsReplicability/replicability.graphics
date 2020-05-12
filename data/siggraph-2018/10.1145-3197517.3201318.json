@@ -1,7 +1,7 @@
 [
     {
         "Variant name": "main",
-        "Reviewer name": "Nicolas Bonneel <nbonneel@seas.harvard.edu>",
+        "Reviewer name": "Nicolas Bonneel <nicolas.bonneel@liris.cnrs.fr>",
         "Is master variant (boolean)": true,
         "Is variant deprecated (boolean)": false,
         "Title": "Toward wave-based sound synthesis for computer animation",
@@ -10,7 +10,7 @@
         "ACM Keywords": [
             "Physical simulation"
         ],
-        "Topic {Rendering, Animation and Simulation, Geometry, Images, Virtual Reality, Fabrication}": "Animation",
+        "Topic {Rendering, Animation and Simulation, Geometry, Images, Virtual Reality, Fabrication}": "Animation and Simulation",
         "Co-authors from academia (boolean)": true,
         "Co-authors from industry (boolean)": true,
         "ACM Open Access (boolean)": false,
@@ -46,9 +46,10 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": "",
         "Replicate paper results score {0=NA, 1,2,3,4,5}": "",
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": "",
-        "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 1,
+        "Time spent for the test (code download to first successful run, [0,10], 10min slots, 100min max)": 1,
         "Operating system for the test": "",
         "Build instructions/comments": "",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": ""
     }
 ]

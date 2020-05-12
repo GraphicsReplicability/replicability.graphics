@@ -47,9 +47,10 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 0,
         "Replicate paper results score {0=NA, 1,2,3,4,5}": 5,
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 0,
-        "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 10,
+        "Time spent for the test (code download to first successful run, [0,10], 10min slots, 100min max)": 10,
         "Operating system for the test": "Linux",
         "Build instructions/comments": "On Linux: multiple dependencies needed libmkl and pardiso for edit with ARAP. Was able to replicate a similar torus experiment. Many small examples already configured are provided in the example section of the code.\n\n-- Alternative test on windows --\nCould not compile on Windows despite the provided Visual Studio solution file. This is due to the very long list of dependencies and errors in the Visual Studio solution (some files do not exist like tribox2.cpp, some paths are hardcoded...). I assume it could be done with significant efforts.",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "C/C++"
     }
 ]

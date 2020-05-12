@@ -1,7 +1,7 @@
 [
     {
         "Variant name": "main",
-        "Reviewer name": "Nicolas Bonneel <nbonneel@seas.harvard.edu>",
+        "Reviewer name": "Nicolas Bonneel <nicolas.bonneel@liris.cnrs.fr>",
         "Is master variant (boolean)": true,
         "Is variant deprecated (boolean)": false,
         "Title": "Progressive Parameterizations",
@@ -46,9 +46,10 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 5,
         "Replicate paper results score {0=NA, 1,2,3,4,5}": 5,
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 4,
-        "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 7,
+        "Time spent for the test (code download to first successful run, [0,10], 10min slots, 100min max)": 7,
         "Operating system for the test": "Windows",
         "Build instructions/comments": "I did not used MinGW as recommended since Visual Studio was working well with the provided CMake, modulo minor edits in the project file (_USE_MATH_DEFINES and the .dll and .a were linked instead of the .lib files).",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "C/C++"
     }
 ]

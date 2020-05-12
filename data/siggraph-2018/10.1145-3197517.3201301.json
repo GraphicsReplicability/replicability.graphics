@@ -47,9 +47,10 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 0,
         "Replicate paper results score {0=NA, 1,2,3,4,5}": 0,
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 3,
-        "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 4,
+        "Time spent for the test (code download to first successful run, [0,10], 10min slots, 100min max)": 4,
         "Operating system for the test": "Linux",
         "Build instructions/comments": "I needed to install tensorflow and pyhocon manually. No trained models are given and I wasn't able to generate the models from the (provided) training data (timeout, 250 epoch required and the train.py refused to consider my GPU and thus did the training on CPU). \n\nAfter a single epoch, the evaluation script fails (version issue of the provider package?): \n\nAttributeError: module 'provider' has no attribute 'ClassificationProvider'",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "Python"
     }
 ]

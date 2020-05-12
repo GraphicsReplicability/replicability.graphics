@@ -11,7 +11,7 @@
             "Image processing",
             "Texturing"
         ],
-        "Topic {Rendering, Animation and Simulation, Geometry, Images, Virtual Reality, Fabrication}": "Image",
+        "Topic {Rendering, Animation and Simulation, Geometry, Images, Virtual Reality, Fabrication}": "Images",
         "Co-authors from academia (boolean)": true,
         "Co-authors from industry (boolean)": false,
         "ACM Open Access (boolean)": false,
@@ -47,9 +47,10 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 0,
         "Replicate paper results score {0=NA, 1,2,3,4,5}": 0,
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 0,
-        "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 3,
+        "Time spent for the test (code download to first successful run, [0,10], 10min slots, 100min max)": 3,
         "Operating system for the test": "Mac OS",
         "Build instructions/comments": "No explanations are given to build/execute the code. After installing the dependencies, I have tried to run an example in the 'src' folder:\n\npython ../examples/SLIC_compare.py\n\nwhich crashes due to opencl/Tk issues.",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "C/C++, Python"
     }
 ]

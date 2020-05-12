@@ -1,7 +1,7 @@
 [
     {
         "Variant name": "main",
-        "Reviewer name": "Nicolas Bonneel <nbonneel@seas.harvard.edu>",
+        "Reviewer name": "Nicolas Bonneel <nicolas.bonneel@liris.cnrs.fr>",
         "Is master variant (boolean)": true,
         "Is variant deprecated (boolean)": false,
         "Title": "Resolving Fluid Boundary Layers with Particle Strength Exchange and Weak Adaptivity",
@@ -11,7 +11,7 @@
             "Physical simulation",
             "Partial differential equations"
         ],
-        "Topic {Rendering, Animation and Simulation, Geometry, Images, Virtual Reality, Fabrication}": "Animation",
+        "Topic {Rendering, Animation and Simulation, Geometry, Images, Virtual Reality, Fabrication}": "Animation and Simulation",
         "Co-authors from academia (boolean)": true,
         "Co-authors from industry (boolean)": false,
         "ACM Open Access (boolean)": false,
@@ -47,9 +47,10 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 3,
         "Replicate paper results score {0=NA, 1,2,3,4,5}": 5,
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 5,
-        "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 4,
+        "Time spent for the test (code download to first successful run, [0,10], 10min slots, 100min max)": 4,
         "Operating system for the test": "Windows",
         "Build instructions/comments": "The code comes with a solver, a particle simulator and a particle renderer that renders the simulation. Compiling the code required a number of steps (under Visual Studio 2017):\n* for the TBB_Multigrid project, you need to set the TBBROOT environment variable to your TBB path.\n\n* for the Smoke_Solver project:\n- in Smoke_Solver.vcxproj, the tbb props file should be updated to mach your TBB_Multigrid path (since the props file is shipped) and some paths that are hardcoded (e.g., C:\\Users\\xinxin\\Dropbox\\xinxin_code\\TBB_Multigrid\\TBB_Multigrid ) should be updated.\n- same process for particle_renderer.vcproj.xinxin-PC.xinxin\n- in TBB_SETTINGS.props, change glew64 to glew32 (?)\n- the projects can then be loaded (and possibly retargeted) in Visual Studio.\n\n- In util.h of both Smoke_Solver and particle_renderer projects, you need to comment out the function lround line 197--203\n- You should add the path to the libraries for glew (and use glew32 instead of glew64 ?),  freeglut and tbb\n\n- to read the resulting sgi files, you can download the sgi plugin for photoshop (put the plugin in C:\\Program Files\\Adobe\\Adobe Photoshop CC 2019\\Plug-ins and restard photoshop)\n\nUltimately, the simulation runs smoothly and produces files that consist in the particles for each time frame.\nThe renderer is not documented and hard to play with. Using wrong values can lead to extreme times (I had a rendering compute for 67 hours and resulting in a constant blueish image ; some renderings just crash using a wrong \"quality_factor\" value which makes gigantic shadow maps...). Using the following values worked well:\n.\\particle_renderer.exe [path to frames] 0.01 0.01 0.1 10 10 10 10 150 180\n(where here 150--180 renders frames from 150 to 180).",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "C/C++"
     }
 ]

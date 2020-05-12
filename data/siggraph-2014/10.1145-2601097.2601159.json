@@ -11,7 +11,7 @@
             "Randomness, geometry and discrete structures",
             "Shape modeling"
         ],
-        "Topic {Rendering, Animation and Simulation, Geometry, Images, Virtual Reality, Fabrication}": "Image",
+        "Topic {Rendering, Animation and Simulation, Geometry, Images, Virtual Reality, Fabrication}": "Images",
         "Co-authors from academia (boolean)": true,
         "Co-authors from industry (boolean)": false,
         "ACM Open Access (boolean)": false,
@@ -47,9 +47,10 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": "",
         "Replicate paper results score {0=NA, 1,2,3,4,5}": "",
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": "",
-        "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 2,
+        "Time spent for the test (code download to first successful run, [0,10], 10min slots, 100min max)": 2,
         "Operating system for the test": "",
         "Build instructions/comments": "",
-        "Misc. comments": "The 2014 paper project page mentions two followup papers (sigasia 2015 and ICCV 2015) that may contain some relevant code if we want to reimplement the paper (without more details). We have decided not to evaluate the replicability of the paper."
+        "Misc. comments": "The 2014 paper project page mentions two followup papers (sigasia 2015 and ICCV 2015) that may contain some relevant code if we want to reimplement the paper (without more details). We have decided not to evaluate the replicability of the paper.",
+        "Software language": ""
     }
 ]

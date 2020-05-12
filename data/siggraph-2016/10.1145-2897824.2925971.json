@@ -1,7 +1,7 @@
 [
     {
         "Variant name": "main",
-        "Reviewer name": "Nicolas Bonneel <nbonneel@seas.harvard.edu>",
+        "Reviewer name": "Nicolas Bonneel <nicolas.bonneel@liris.cnrs.fr>",
         "Is master variant (boolean)": true,
         "Is variant deprecated (boolean)": false,
         "Title": "Additive Light Field Displays: Realization of Augmented Reality with Holographic Optical Elements",
@@ -47,9 +47,10 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": "",
         "Replicate paper results score {0=NA, 1,2,3,4,5}": "",
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": "",
-        "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 1,
+        "Time spent for the test (code download to first successful run, [0,10], 10min slots, 100min max)": 1,
         "Operating system for the test": "",
         "Build instructions/comments": "",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": ""
     }
 ]

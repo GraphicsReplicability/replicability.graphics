@@ -46,9 +46,10 @@
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 0,
         "Replicate paper results score {0=NA, 1,2,3,4,5}": 4,
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 5,
-        "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 2,
+        "Time spent for the test (code download to first successful run, [0,10], 10min slots, 100min max)": 2,
         "Operating system for the test": "Linux",
         "Build instructions/comments": "The demo code compiles and run perfectly on linux. The webGL demo is also perfectly working.\n\nThe C++ project does not compile on macOS  (make osx):\n\n/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSViewController.h:247:39: fatal error:\n      unknown type name 'NSExtensionContext'; did you mean 'NSAnimationContext'?",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "C/C++, Shader language"
     }
 ]
