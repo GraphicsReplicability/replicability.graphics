@@ -1,10 +1,14 @@
+from __future__ import print_function
 import csv,os,sys, json,re,codecs,datetime
 from difflib import SequenceMatcher
-from random import randint
 
+def eprint(*args, **kwargs):
+    print(*args, file=sys.stderr, **kwargs)
+
+    
 def check(text):
  if text!="":
-   print(text)
+   eprint(text)
    os._exit(42)
 
 #######################################
@@ -64,7 +68,7 @@ def testMaster(paper):
 
   if cpt != 1:
     errCode = "[Master Variant Test] There is not exactly one master variant for this paper"
-    print(errCode)
+    eprint(errCode)
     
   check(errCode)
 
@@ -75,5 +79,5 @@ def checkJSON(paperJSON):
   testMaster(paper)
 
 for i in range(1, len(sys.argv)):
-  print(" ======= Checking the content of the JSON " + sys.argv[i])
+  eprint(" ======= Checking the content of the JSON " + sys.argv[i])
   checkJSON(sys.argv[i])
