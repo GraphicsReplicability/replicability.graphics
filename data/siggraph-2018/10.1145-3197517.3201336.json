@@ -102,6 +102,7 @@
         "Time spent for the test (code download to first successful run) {0 <10min,1,2 ,3, 4 ,5 >2h}": 2,
         "Operating system for the test": "Ubuntu 18.04",
         "Build instructions/comments": "The compilation worked out-of-the-box following the readme instructions. However the Demo did not produce the expected result. The water and land appear but the waves seem to appear at a different rendering depth, and be decorrelated with the water/land distribution. Hence I was not able to reproduce the results (Ubuntu 18.04 - GeForce GTX 1050)",
-        "Misc. comments": ""
+        "Misc. comments": "",
+        "Software language": "C++"
     }
 ]
