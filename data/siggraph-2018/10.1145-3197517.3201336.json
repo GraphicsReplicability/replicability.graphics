@@ -56,7 +56,7 @@
         "Variant name": "Ubuntu 18.04",
         "Reviewer name": "Julie Digne <julie.digne@liris.cnrs.fr>",
         "Is master variant (boolean)": false,
-        "Is variant deprecated (boolean)": true,
+        "Is variant deprecated (boolean)": false,
         "Title": "Water surface wavelets",
         "DOI": "10.1145/3197517.3201336",
         "Year": 2018,
