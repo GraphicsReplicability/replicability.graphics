@@ -888,7 +888,6 @@ def write_index_step2(findex, data):
                 href="https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request">pull request</a>
                 to this <a href="https://github.com/GraphicsReplicability/replicability.graphics"><img width="20pt" src="images/github.png"/> project</a>, or send the JSON file to <a href="mailto:GraphicsReplicability@liris.cnrs.fr">GraphicsReplicability@liris.cnrs.fr</a>.</p>
 
-
                 <p style="text-align:left"><strong>Note about self-reviewing</strong>: we accept the reviews provided by the authors of a paper. These reviews will be clearly identified and may be double checked to validate the replicability. If you're an author, please clearly mention it when submitting your review.</p>
 
                 <p style="text-align:left">In our system, the website
