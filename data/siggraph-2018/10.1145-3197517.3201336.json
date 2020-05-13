@@ -2,7 +2,7 @@
     {
         "Variant name": "macOS",
         "Reviewer name": "David Coeurjolly <david.coeurjolly@liris.cnrs.fr>",
-        "Is master variant (boolean)": true,
+        "Is master variant (boolean)": false,
         "Is variant deprecated (boolean)": false,
         "Title": "Water surface wavelets",
         "DOI": "10.1145/3197517.3201336",
