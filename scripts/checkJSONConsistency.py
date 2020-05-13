@@ -43,8 +43,19 @@ def checkCodeURL(variant):
 
 def checkCodeType(variant):
   if variant["Code available (boolean)"] == True and variant["Software type {Code, Binary, Partial Code}"]=="":
+   return '[Code type check] If code is provided (boolean), a software type  must be given'
+  return ""
+
+def checkCodeType(variant):
+  if variant["Code available (boolean)"] == True and variant["Software type {Code, Binary, Partial Code}"]=="":
    return '[Code type check] If code/software is provided (boolean), a type must be given'
   return ""
+
+def checkAffiliation(variant):
+  if not(variant['Co-authors from academia (boolean)'] or variant['Co-authors from industry (boolean)']):
+        return '[Affiliation check] Both "Co-authors from academia (boolean)" and "Co-authors from industry (boolean)" cannot be false'
+  return ""
+
 
 #######################################
 def testMaster(paper):
@@ -57,7 +68,9 @@ def testMaster(paper):
     
     check(checkYear(variant))
     check(checkTopics(variant))
+    check(checkAffiliation(variant))
     check(checkCodeURL(variant))
+    check(checkCodeType(variant))
     check(checkCodeType(variant))
     check(checkScore(variant,"Dependencies score {0=NA, 1,2,3,4,5}"))
     check(checkScore(variant,"Build/configure score {0=NA, 1,2,3,4,5}"))
