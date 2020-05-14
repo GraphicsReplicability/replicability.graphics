@@ -57,6 +57,11 @@ def genChart(f,variant,tabid):
 
 
     f.write('</ul><h2>Comments</h2><pre>'+  re.sub('>','&gt;',re.sub('<','&lt;',variant['Build instructions/comments'])) + '</pre>')
+    
+    if variant['Misc. comments']:
+      f.write("<h2>Misc. comments</h2>\n")
+      f.write("<pre>" + re.sub('>','&gt;',re.sub('<','&lt;',variant['Misc. comments']))+"</pre>")
+	
     f.write("</div>")
 
 def genChartNoTest(f,variant,tabid):
@@ -79,6 +84,11 @@ def genChartNoTest(f,variant,tabid):
 
     if not(variant['Code available (boolean)']) and variant['If code not available, pseudo-code available (boolean)']:
       f.write('<span class="family">Some pseudocodes are available in the paper. Could the content be trivially implemented using the given pseudo-code? (1..5)</span>: '+ str(variant['If pseudo-code, could the paper be trivially implemented? {0..4}']) + '\n')
+    
+    if variant['Misc. comments']:
+      f.write("<h2>Misc. comments</h2>\n")
+      f.write("<pre>" + re.sub('>','&gt;',re.sub('<','&lt;',variant['Misc. comments']))+"</pre>")
+	
     f.write("</div>")
 
 
@@ -248,13 +258,6 @@ def generatePage(f,pathPages,variant,doi,doiclean,authors,tabid):
      genChart(f,variant,tabid)
  else:
      genChartNoTest(f,variant,tabid)
-
-
- if variant['Misc. comments'] != '':
-    f.write("<br><br><br><h2>Misc. comments</h2>\n")
-    f.write("<pre>" + re.sub('>','&gt;',re.sub('<','&lt;',variant['Misc. comments']))+"</pre>")
- else:
-    f.write("\n")
 
 def delKey(paper,key):
   for var in paper:
