@@ -81,7 +81,7 @@
         "##": "Is the code available on the softwareheritage.org website ?",
         "##": "If so, please specify the permalink to the specific revision being reviewed",
         "##": "If not, just leave this field empty.",
-        "Software Heritage permalink": "pending",
+        "Software Heritage permalink": "https://archive.softwareheritage.org/swh:1:dir:e913490fd09666b7b093ef6f095e85e979ff9b6c;origin=https://github.com/wildmeshing/TriWild;visit=swh:1:snp:5e609118562d2e565d46b60a320163cd90e1c578;anchor=swh:1:rev:899bcbf4e50fa1da89b5a52db5c598a2ac0136d9;path=//",
        
         "##": "If no code is provided, has the paper some included pseudo-code ? (true/false)",
         "If code not available, pseudo-code available (boolean)": false,
