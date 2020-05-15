@@ -27,6 +27,8 @@ def checkTopics(variant):
 def checkScore(variant,score):
   if variant[score]== "":
     return ""
+  if type(variant[score])==str:
+    return  '[Score check] the score '+variant[score]+' must be a number, not a string'
   if variant[score] < 0 or variant[score] > 5:
     return '[Score check] problem with the following score: '+ score+', I read  '+str(variant[score])
   return ""
