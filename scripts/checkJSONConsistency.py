@@ -99,9 +99,12 @@ def testMaster(paper):
 #######################################
 
 def checkJSON(paperJSON):
-  paper = json.load(open(paperJSON))
-  testMaster(paper)
-
+  try:
+     paper = json.load(open(paperJSON))
+     testMaster(paper)
+  except json.decoder.JSONDecodeError:
+     eprint("Could not open or decode the JSON:", paperJSON)
+     
 
 errorDetected=False
 fout=open("error.log", "w")
