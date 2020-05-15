@@ -12,6 +12,7 @@ def check(text):
    os._exit(42)
 
 #######################################
+
 def checkYear(variant):
   if variant['Year'] < 2000 or variant['Year'] > 2048:
     return '[Year check] problem with the following year: '+ str(variant['Year'])
@@ -22,7 +23,6 @@ def checkTopics(variant):
   if not(variant['Topic {Rendering, Animation and Simulation, Geometry, Images, Virtual Reality, Fabrication}'] in listTopics):
     return '[Topic check] The following topic is not in {Rendering, Animation and Simulation, Geometry, Images, Virtual Reality, Fabrication}: '+ str(variant['Topic {Rendering, Animation and Simulation, Geometry, Images, Virtual Reality, Fabrication}'])
   return ""
-
  
 def checkScore(variant,score):
   if variant[score]== "":
