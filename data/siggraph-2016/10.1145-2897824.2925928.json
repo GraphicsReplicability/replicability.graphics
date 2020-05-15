@@ -11,7 +11,7 @@
             "3D imaging",
             "Computational photography"
         ],
-        "Topic {Rendering, Animation and Simulation, Geometry, Images, Virtual Reality, Fabrication}": "Image",
+        "Topic {Rendering, Animation and Simulation, Geometry, Images, Virtual Reality, Fabrication}": "Images",
         "Co-authors from academia (boolean)": true,
         "Co-authors from industry (boolean)": false,
         "ACM Open Access (boolean)": false,
@@ -30,7 +30,7 @@
         "MD5 sum (for archives) URL2": "",
         "git/hg/svn commit hash or revision number URL2": "",
         "Software Heritage permalink": "",
-        "Software type {Code, Binary, Partial Code}": "",
+        "Software type {Code, Binary, Partial Code}": "Code",
         "Code License (if any)": "unspecified",
         "Are the code authors explicit? (boolean)": false,
         "Build/Configure mechanism": "CMakeLists, Not applicable (python, Matlab..)",

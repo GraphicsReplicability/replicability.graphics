@@ -188,13 +188,13 @@
         "##": "10 = more than 100 min",
         "Time spent for the test (code download to first successful run, [0,10], 10min slots, 100min max)": 0,
 
-        "##": "OS for the teste",
+        "##": "OS for the test",
         "Operating system for the test": "",
 
-        "##": "Detailed instructions (especially if you had to fix some bugs before being able to run a test)e",
+        "##": "Detailed instructions (especially if you had to fix some bugs before being able to run a test)",
         "Build instructions/comments": "",
 
-        "##": "General commentse",
+        "##": "General comments",
         "##": "This field is displayed even if no replicability test could have been performed.",
         "Misc. comments": ""
     }

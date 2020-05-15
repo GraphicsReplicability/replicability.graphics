@@ -35,7 +35,7 @@ def getThumbnail(pathPages,doi,doiclean,row):
     return True
   cmd = 'cd '+pathPages+' && mkdir ' + doiclean
   os.system(cmd)
-  cmd = 'cd '+pathPages+'/'+doiclean + ' && curl "'+row['PDF URL'] + '" --output preprint.pdf '
+  cmd = 'cd '+pathPages+'/'+doiclean + ' && curl -s "'+row['PDF URL'] + '" --output preprint.pdf '
   os.system(cmd)
   cmd = 'cd '+pathPages+'/'+doiclean + ' && gm convert "preprint.pdf[0]" '+ doiclean+'-thumb.png'
   os.system(cmd)
@@ -63,10 +63,9 @@ def getAuthors(pathPages,doi,doiclean):
 
     
 def getAlmetric(pathPages,doi,doiclean,key):
- if not(os.path.exists(pathPages+doiclean+"/Altmetric.json")):
+  print(">>> Altmetric ")
   url ="http://api.altmetric.com/v1/doi/"+doi+"?key="+key
-  cmd= "cd "+pathPages + doiclean+" ; curl '" + url + "' > Altmetric.json"
-  print(cmd)
+  cmd= "cd "+pathPages + doiclean+" ; curl -s '" + url + "' > Altmetric.json"
   os.system(cmd)
 
 
@@ -74,11 +73,12 @@ with open(sys.argv[1]) as json_file:
    fulldata = json.load(json_file)
    line_count = 0
 
-   altKey=""
+   altkey=""
    if len(sys.argv) == 3:
      altkey = sys.argv[2]
+     print("[INFO] AltKey given: "+altkey)
    else:
-     print("No AltKey given")
+     print("[WARNING] No AltKey given")
      
    pathPages='tmp/papers/'
    cmd = "mkdir  tmp/papers"
@@ -103,10 +103,9 @@ with open(sys.argv[1]) as json_file:
             pngReduce(pathPages,doi,doiclean,variant)
             
           if not(authorsExists(pathPages,doiclean)):
-           authors = getAuthors(pathPages,doi,doiclean)
-
-          
-          if altKey != "":
+            authors = getAuthors(pathPages,doi,doiclean)
+         
+          if altkey != "":
             getAlmetric(pathPages,doi,doiclean, altkey)
           
       cpt+=1

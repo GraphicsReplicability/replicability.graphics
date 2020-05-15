@@ -12,7 +12,7 @@
             "Document scanning",
             "Graphics recognition and interpretation"
         ],
-        "Topic {Rendering, Animation and Simulation, Geometry, Images, Virtual Reality, Fabrication}": "Animation",
+        "Topic {Rendering, Animation and Simulation, Geometry, Images, Virtual Reality, Fabrication}": "Animation and Simulation",
         "Co-authors from academia (boolean)": false,
         "Co-authors from industry (boolean)": true,
         "ACM Open Access (boolean)": false,

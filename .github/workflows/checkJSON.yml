@@ -37,8 +37,8 @@ jobs:
         JSON_FILES=$(find ${{ steps.get_file_changes.outputs.files_added }} ${{ steps.get_file_changes.outputs.files_modified }}  -type f -name "*.json" )
         echo JSON files to be processed: ${JSON_FILES} 
         if [ "${JSON_FILES}" != "" ]; then
-           echo Process json files: ${JSON_FILES}
            sudo apt-get update
            sudo apt-get install jsonlint
            jsonlint-php ${JSON_FILES}
+           python3 scripts/checkJSONConsistency.py ${JSON_FILES}
         fi
