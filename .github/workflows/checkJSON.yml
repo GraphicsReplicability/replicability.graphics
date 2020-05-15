@@ -33,6 +33,7 @@ jobs:
 
     # Runs a single command using the runners shell
     - name: Check the JSONs
+      id: checkJSON
       run: | 
         JSON_FILES=$(find ${{ steps.get_file_changes.outputs.files_added }} ${{ steps.get_file_changes.outputs.files_modified }}  -type f -name "*.json" )
         echo JSON files to be processed: ${JSON_FILES} 
@@ -41,4 +42,23 @@ jobs:
            sudo apt-get install jsonlint
            jsonlint-php ${JSON_FILES}
            python3 scripts/checkJSONConsistency.py ${JSON_FILES}
+           result=$(cat error.log)
+           result="${result//'%'/'%25'}"
+           result="${result//$'\n'/'%0A'}"
+           result="${result//$'\r'/'%0D'}" 
+           echo ::set-output name=result::$result
         fi
+
+    - name: Add comment on PR
+      uses: peter-evans/create-or-update-comment@v1
+      if: ${{ steps.checkJSON.outputs.result }}
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        issue-number: ${{ github.event.pull_request.number }}
+        body: |
+          Oops.. We have spotted some issues in your JSON file:
+          
+          ```
+          ${{ steps.checkJSON.outputs.result }}
+          ```
+        reaction-type: 'rocket'
