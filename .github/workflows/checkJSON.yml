@@ -56,7 +56,8 @@ jobs:
         token: ${{ secrets.GITHUB_TOKEN }}
         issue-number: ${{ github.event.pull_request.number }}
         body: |
-          Oops.. We have spotted some issues in your JSON file: 
+          Oops.. We have spotted some issues in your JSON file:
+          
           ```
           ${{ steps.checkJSON.outputs.result }}
           ```
