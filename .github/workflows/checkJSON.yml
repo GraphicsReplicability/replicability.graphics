@@ -42,7 +42,12 @@ jobs:
            sudo apt-get install jsonlint
            jsonlint-php ${JSON_FILES}
            python3 scripts/checkJSONConsistency.py ${JSON_FILES}
-           echo ::set-output name=result::$(cat error.log)
+           result=$(cat coverage.txt)
+           result="${result//'%'/'%25'}"
+           result="${result//$'\n'/'%0A'}"
+           result="${result//$'\r'/'%0D'}" 
+           echo ::set-output name=result::$result
+
         fi
 
     - name: Add comment on PR
