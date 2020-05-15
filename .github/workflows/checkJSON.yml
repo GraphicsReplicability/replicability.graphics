@@ -47,15 +47,16 @@ jobs:
            result="${result//$'\n'/'%0A'}"
            result="${result//$'\r'/'%0D'}" 
            echo ::set-output name=result::$result
-
         fi
 
     - name: Add comment on PR
       uses: peter-evans/create-or-update-comment@v1
+      if: "${{ steps.checkJSON.outputs.result }}" != ""
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         issue-number: ${{ github.event.pull_request.number }}
         body: |
+          Oops.. We have spotted some issues in your JSON file: 
           ```
           ${{ steps.checkJSON.outputs.result }}
           ```
