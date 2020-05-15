@@ -105,7 +105,6 @@ def checkJSON(paperJSON):
   except json.decoder.JSONDecodeError:
      eprint("Could not open or decode the JSON:", paperJSON)
      
-
 errorDetected=False
 fout=open("error.log", "w")
 fout.write("");
