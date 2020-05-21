@@ -16,7 +16,7 @@
         "ACM Open Access (boolean)": false,
         "PDF on the authors' webpage / institution (boolean)": true,
         "PDF URL": "https://igl.ethz.ch/projects/rig-animation-input-device/Rig-Animation-Input-Device-2016.pdf",
-        "PDF on Arxiv or any openarchive initiatives (boolean)": true,
+        "PDF on Arxiv or any openarchive initiatives (boolean)": false,
         "Arxiv/OAI page URL": "",
         "Project URL": "https://igl.ethz.ch/projects/rig-animation-input-device/",
         "Code available (boolean)": true,

@@ -17,7 +17,7 @@
         "PDF on the authors' webpage / institution (boolean)": true,
         "PDF URL": "https://hal.archives-ouvertes.fr/hal-01393741/file/MDL16.pdf",
         "PDF on Arxiv or any openarchive initiatives (boolean)": true,
-        "Arxiv/OAI page URL": "",
+        "Arxiv/OAI page URL": "https://hal.archives-ouvertes.fr/hal-01393741/",
         "Project URL": "https://sites.google.com/site/jonasmartinezbayona/procvorfoam",
         "Code available (boolean)": true,
         "If code not available, pseudo-code available (boolean)": false,
