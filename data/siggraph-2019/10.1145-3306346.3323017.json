@@ -179,7 +179,7 @@
 
         "##": "Score {0=NA, 1,2,3,4,5} for the adaptability",
         "##": "0 = N/A",
-.        "##": "1 = The code is very specific to the paper contribution and cannot be used in other projects",
+        "##": "1 = The code is very specific to the paper contribution and cannot be used in other projects",
         "##": "5 = The code can be easily used for other projects (as it is) or can be easily extended to other contexts",
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 5,
 
