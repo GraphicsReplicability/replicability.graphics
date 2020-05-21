@@ -52,6 +52,11 @@ def checkCodeURL(variant):
    return '[Code URL check]{Variant: '+variant["Variant name"]+'} If code is provided (boolean), an URL must be given'
   return ""
 
+def checkArxiv(variant):
+  if variant["PDF on Arxiv or any openarchive initiatives (boolean)"] == True and variant["Arxiv/OAI page URL"]=="":
+   return '[Arxiv URL check]{Variant: '+variant["Variant name"]+'} If the paper is available on Arxiv/OAI, an URL must be given'
+  return ""
+
 def checkCodeType(variant):
   if variant["Code available (boolean)"] == True and variant["Software type {Code, Binary, Partial Code}"]=="":
    return '[Code type check]{Variant: '+variant["Variant name"]+'} If code is provided (boolean), a software type  must be given'
@@ -81,6 +86,7 @@ def testMaster(paper):
     check(checkTopics(variant))
     check(checkAffiliation(variant))
     check(checkCodeURL(variant))
+    check(checkArxiv(variant))
     check(checkCodeType(variant))
     check(checkCodeType(variant))
     check(checkScore(variant,"Dependencies score {0=NA, 1,2,3,4,5}"))
