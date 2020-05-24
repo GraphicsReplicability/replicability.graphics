@@ -194,7 +194,7 @@
         "Operating system for the test": "macOS Catalina",
 
         "##": "Detailed instructions (especially if you had to fix some bugs before being able to run a test)",
-        "Build instructions/comments": "The zip file contains a single c++ and a README with a g++ command line instruction. To avoid ubild issues (the given command line does not work on my macOS Catalina), I have created a small CMakeLists.txt (after renaming the harm_simple.cp to harm_simple.cpp): \n\nproject(harmonic)\nfind_package(CGAL REQUIRED COMPONENTS Core)\nadd_executable(harm_simple harm_simple.cpp)\ntarget_link_libraries(harm_simple CGAL::CGAL  CGAL::CGAL_Core)\n\n Once compiled, I was able to produce some optimized tetrahedral meshes but I was not able to check the results (the tetview viewer does not work anymore on macOS Catalina).",
+        "Build instructions/comments": "The zip file contains a single c++ and a README with a g++ command line instruction. To avoid build issues (the given command line does not work on my macOS Catalina), I have created a small CMakeLists.txt (after renaming the harm_simple.cp to harm_simple.cpp): \n\nproject(harmonic)\nfind_package(CGAL REQUIRED COMPONENTS Core)\nadd_executable(harm_simple harm_simple.cpp)\ntarget_link_libraries(harm_simple CGAL::CGAL  CGAL::CGAL_Core)\n\n Once compiled, I was able to produce some optimized tetrahedral meshes but I was not able to check the results (the tetview viewer does not work anymore on macOS Catalina).",
 
         "##": "General comments",
         "##": "This field is displayed even if no replicability test could have been performed.",
