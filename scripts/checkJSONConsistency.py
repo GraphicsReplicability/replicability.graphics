@@ -49,7 +49,12 @@ def checkTime(variant,score):
 
 def checkCodeURL(variant):
   if variant["Code available (boolean)"] == True and variant["Code URL"]=="":
-   return '[Code URL check]{Variant: '+variant["Variant name"]+'} If code is provided (boolean), an URL must be given'
+   return '[Code URL check]{Variant: '+variant["Variant name"]+'} If code is provided (boolean), a URL must be given'
+  return ""
+
+def checkArxiv(variant):
+  if variant["PDF on Arxiv or any openarchive initiatives (boolean)"] == True and variant["Arxiv/OAI page URL"]=="":
+   return '[Arxiv URL check]{Variant: '+variant["Variant name"]+'} If the paper is available on Arxiv/OAI, a URL must be given'
   return ""
 
 def checkCodeType(variant):
@@ -81,6 +86,7 @@ def testMaster(paper):
     check(checkTopics(variant))
     check(checkAffiliation(variant))
     check(checkCodeURL(variant))
+    check(checkArxiv(variant))
     check(checkCodeType(variant))
     check(checkCodeType(variant))
     check(checkScore(variant,"Dependencies score {0=NA, 1,2,3,4,5}"))
