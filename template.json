@@ -15,7 +15,7 @@
         "##": "For a given paper, there is one specific variant (the master one)",
         "##": "that is displayed on the first pane of the replicability paper web page",
         "##": "(true/false)",
-        "Is master variant (boolean)": false,
+        "Is master variant (boolean)": true,
         
         "##": "Some variants can be deprecated (and are thus not displayed)",
         "##": "For new contributions, this should be set to 'false'",
@@ -46,7 +46,7 @@
         "Topic {Rendering, Animation and Simulation, Geometry, Images, Virtual Reality, Fabrication}": "Geometry",
 
         "##": "Is any of the co-authors from a university of a public institution ? (true/false)",
-        "Co-authors from academia (boolean)": false,
+        "Co-authors from academia (boolean)": true,
 
         "##": "Is any of the co-authors from a private company? (true/false)",
         "Co-authors from industry (boolean)": false,
@@ -62,7 +62,7 @@
         "PDF on Arxiv or any openarchive initiatives (boolean)": false,
         "Arxiv/OAI page URL": "",
 
-        "##": "URL for direct download of the PDF paper (eiher personnal/institution/arxiv website)",
+        "##": "URL for direct download of the PDF paper (eiher author/institution/arxiv website)",
         "##": "(empty if PDF not available)",
         "PDF URL": "",
         
