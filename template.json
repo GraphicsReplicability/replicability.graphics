@@ -15,13 +15,16 @@
         "##": "For a given paper, there is one specific variant (the master one)",
         "##": "that is displayed on the first pane of the replicability paper web page",
         "##": "(true/false)",
-        "Is master variant (boolean)": false,
+        "Is master variant (boolean)": true,
         
         "##": "Some variants can be deprecated (and are thus not displayed)",
         "##": "For new contributions, this should be set to 'false'",
         "##": "(true/false)",
         "Is variant deprecated (boolean)": false,
 
+        "##": "OS for the test",
+        "Operating system for the test": "",
+        
         "##": "Article title",
         "Title": " ",
 
@@ -43,7 +46,7 @@
         "Topic {Rendering, Animation and Simulation, Geometry, Images, Virtual Reality, Fabrication}": "Geometry",
 
         "##": "Is any of the co-authors from a university of a public institution ? (true/false)",
-        "Co-authors from academia (boolean)": false,
+        "Co-authors from academia (boolean)": true,
 
         "##": "Is any of the co-authors from a private company? (true/false)",
         "Co-authors from industry (boolean)": false,
@@ -53,13 +56,16 @@
 
         "##": "PDF accessibility on the author or project or institution web page (true/false)",
         "PDF on the authors' webpage / institution (boolean)": false,
-        "PDF URL": "",
 
         "##": "Is a paper preprint available on Arxiv or any Open Archive Initiative",
         "##": "platform (true/false) ?",
         "PDF on Arxiv or any openarchive initiatives (boolean)": false,
         "Arxiv/OAI page URL": "",
 
+        "##": "URL for direct download of the PDF paper (eiher author/institution/arxiv website)",
+        "##": "(empty if PDF not available)",
+        "PDF URL": "",
+        
         "##": "Project URL (if any)",
         "Project URL": "",
 
@@ -131,8 +137,10 @@
         "##": "but some trained models, specific data for instance).",
         "##": "(true/false)",
         "Does the code need data (not examples) (boolean)": false,
+        
         "##": "If it is the case, the nature of the required data",
         "Nature of the data (pretrained model, LUT...)": "",
+
         "##": "Is the required data licensed?",
         "##": "If it is, please specify the license or keep an empty string",
         "License of the data": "",
@@ -187,9 +195,6 @@
         "##": "...",
         "##": "10 = more than 100 min",
         "Time spent for the test (code download to first successful run, [0,10], 10min slots, 100min max)": 0,
-
-        "##": "OS for the test",
-        "Operating system for the test": "",
 
         "##": "Detailed instructions (especially if you had to fix some bugs before being able to run a test)",
         "Build instructions/comments": "",

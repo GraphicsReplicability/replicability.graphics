@@ -47,6 +47,12 @@ def checkTime(variant,score):
   return '[Time check]{Variant: '+variant["Variant name"]+'} problem with the time (must be in [0,10]): '+str(variant[score])
  return ""
 
+def checkPDFURL(variant):
+ if variant["PDF on the authors' webpage / institution (boolean)"] or variant["PDF on Arxiv or any openarchive initiatives (boolean)"]:
+     if variant['PDF URL']=="":
+      return '[PDF ULR Check]{Variant: '+variant["Variant name"]+'} The PDF being available (either on the author webpage or arxiv/OAI), the PDF URL cannot be empty'
+ return ""
+
 def checkCodeURL(variant):
   if variant["Code available (boolean)"] == True and variant["Code URL"]=="":
    return '[Code URL check]{Variant: '+variant["Variant name"]+'} If code is provided (boolean), a URL must be given'
@@ -85,6 +91,7 @@ def testMaster(paper):
     check(checkYear(variant))
     check(checkTopics(variant))
     check(checkAffiliation(variant))
+    check(checkPDFURL(variant))
     check(checkCodeURL(variant))
     check(checkArxiv(variant))
     check(checkCodeType(variant))
