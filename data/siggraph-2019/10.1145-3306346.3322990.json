@@ -103,7 +103,7 @@
         "##": "some binaries (no access to the sources),",
         "##": "or some partial code (code snippets or you would need additional source code",
         "##": "to compile or evaluated the project)",
-        "Software type {Code, Binary, Partial Code}": "snippet",
+        "Software type {Code, Binary, Partial Code}": "Partial Code",
 
         "##": "Software language (binary, python, c++,....)",
         "Software language": "GLSL",
