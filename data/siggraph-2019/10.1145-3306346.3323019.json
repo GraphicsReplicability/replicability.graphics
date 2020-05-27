@@ -49,7 +49,7 @@
         "Co-authors from industry (boolean)": false,
 
         "##": "Is the paper available as ACM Open Access? (true/false) ",
-        "ACM Open Access (boolean)": true,
+        "ACM Open Access (boolean)": false,
 
         "##": "PDF accessibility on the author or project or institution web page (true/false)",
         "PDF on the authors' webpage / institution (boolean)": true,
