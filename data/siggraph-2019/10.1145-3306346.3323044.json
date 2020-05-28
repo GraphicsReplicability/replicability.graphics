@@ -1,0 +1,206 @@
+[
+    {
+        "##": "Fields with prefix ## are just comments to clarify entries",
+
+        "##": "Name of the variant. This can be used to distinguish",
+        "##": "between different OS or build environments. Common variant names should be formatted as",
+        "##": "Ubuntu xx.xx, Debian xx.xx, Windows xx.xx, MacOS x.",
+        "Variant name": "Ubuntu 18.04",
+
+        "##": "Reviewer name and email",
+        "##": "E.g. 'John Doe <john.doe@world.org>'",
+        "##": "Note: we will detect and add a link to your github account if you use the same email address here.",
+        "Reviewer name": "Julie Digne <julie.digne@liris.cnrs.fr>",
+
+        "##": "For a given paper, there is one specific variant (the master one)",
+        "##": "that is displayed on the first pane of the replicability paper web page",
+        "##": "(true/false)",
+        "Is master variant (boolean)": true,
+        
+        "##": "Some variants can be deprecated (and are thus not displayed)",
+        "##": "For new contributions, this should be set to 'false'",
+        "##": "(true/false)",
+        "Is variant deprecated (boolean)": false,
+
+        "##": "OS for the test",
+        "Operating system for the test": "Ubuntu 18.04",
+        
+        "##": "Article title",
+        "Title": "Accurate Markerless Jaw Tracking for Facial Performance Capture",
+
+        "##": "Article identifiers",
+        "DOI": "10.1145/3306346.3323044",
+
+        "##": "Year of publication (integer)",
+        "Year": 2019,
+
+        "##": "ACM Keywords of the paper (a list of strings)",
+        "ACM Keywords": [
+            "Motion capture",
+            "Motion processing"
+        ],
+
+        "##": "Paper main topic",
+        "##": "Please refer to the original article of the project for details on this",
+        "##": "topic classification.",
+        "Topic {Rendering, Animation and Simulation, Geometry, Images, Virtual Reality, Fabrication}": "Animation and Simulation",
+
+        "##": "Is any of the co-authors from a university of a public institution ? (true/false)",
+        "Co-authors from academia (boolean)": true,
+
+        "##": "Is any of the co-authors from a private company? (true/false)",
+        "Co-authors from industry (boolean)": true,
+
+        "##": "Is the paper available as ACM Open Access? (true/false) ",
+        "ACM Open Access (boolean)": false,
+
+        "##": "PDF accessibility on the author or project or institution web page (true/false)",
+        "PDF on the authors' webpage / institution (boolean)": true,
+
+        "##": "Is a paper preprint available on Arxiv or any Open Archive Initiative",
+        "##": "platform (true/false) ?",
+        "PDF on Arxiv or any openarchive initiatives (boolean)": false,
+        "Arxiv/OAI page URL": "",
+
+        "##": "URL for direct download of the PDF paper (eiher author/institution/arxiv website)",
+        "##": "(empty if PDF not available)",
+        "PDF URL": "https://s3.amazonaws.com/disney-research-data/wp-content/uploads/2019/06/25125445/Accurate-Markerless-Jaw-Tracking-for-Facial-Performance-Capture.pdf",
+        
+        "##": "Project URL (if any)",
+        "Project URL": "https://studios.disneyresearch.com/2019/07/12/accurate-markerless-jaw-tracking-for-facial-performance-capture/",
+
+        "##": "Is companion code available ? (true/false)",
+        "Code available (boolean)": false,
+        "##": "Direct link to the code",
+        "Code URL": "",
+        "##": "A second direct link to the code (may be empty)",
+        "Code URL2": "",
+        "##": "If the code is given as an archive file, specify",
+        "##": "the md5 hash of the original archive",
+        "MD5 sum (for archives)": "",
+        "MD5 sum (for archives) URL2": "",
+        "##": "If the code is hosted on a git/hg or svn repository,",
+        "##": "specify the commit or revision number of the",
+        "##": "version of the code you have tested.",
+        "git/hg/svn commit hash or revision number": "",
+        "git/hg/svn commit hash or revision number URL2": "",
+
+        "##": "Is the code available on the softwareheritage.org website ?",
+        "##": "If so, please specify the permalink to the specific revision being reviewed",
+        "##": "If not, just leave this field empty.",
+        "Software Heritage permalink": "",
+       
+        "##": "If no code is provided, has the paper some included pseudo-code ? (true/false)",
+        "If code not available, pseudo-code available (boolean)": false,
+        
+        "##": "If some pseudo-code is given, would it be easy to implement the paper contribution from it ?",
+        "##": "Please add a rate between 0 and 4",
+        "##": "(0 = This implementation is not straightforward at all, many elements are missing)",
+        "##": "(4 = I can copy-paste the pseudo-code to reproduce something)",
+        "If pseudo-code, could the paper be trivially implemented? {0..4}": "",
+
+        "##": "Describe the type of artifacts the authors have provided.",
+        "##": "It can be some source code (something that must be compiled/evaluated),",
+        "##": "some binaries (no access to the sources),",
+        "##": "or some partial code (code snippets or you would need additional source code",
+        "##": "to compile or evaluated the project)",
+        "Software type {Code, Binary, Partial Code}": "",
+
+        "##": "Software language (binary, python, c++,....)",
+        "Software language": "",
+        
+        "##": "Is a license specified for the code ?",
+        "##": "If so, precise the license (or keep the string empty if not).",
+        "Code License (if any)": "",
+
+        "##": "Beside the article authors, are the code authors explicitly written (e.g. in an AUTHOR file)?",
+        "##": "(true/false)",
+        "Are the code authors explicit? (boolean)": false,
+
+        "##": "Build/Configure mechanism (e.g. cmake, makefile, VS project...)",
+        "##": "For interpreted code (e.g. python, matlab...) please keep this string empty.",
+        "Build/Configure mechanism": "",
+
+        "##": "List of mandatory dependencies (most important ones).",
+        "##": "(comma-separated list of strings",
+        "Dependencies": "",
+        
+        "##": "Among the dependencies, is a specific commercial (paywall) software needed",
+        "##": "to run or evaluate the code ?",
+        "##": "For instance, if matlab required, this should be set to true. Proprietary library like",
+        "##": "Intel TBB, MOSEK,.. are commercial but with fair uses and free of charge downloads for",
+        "##": "research purposes. The flag should be set to false in that case.",
+        "##": "(true/false)",
+        "Does the software require paywall/proprietary software/material (boolean)?": false,
+
+        "##": "Does the code need some data to produce a result (not just an input or an example,",
+        "##": "but some trained models, specific data for instance).",
+        "##": "(true/false)",
+        "Does the code need data (not examples) (boolean)": false,
+        
+        "##": "If it is the case, the nature of the required data",
+        "Nature of the data (pretrained model, LUT...)": "",
+
+        "##": "Is the required data licensed?",
+        "##": "If it is, please specify the license or keep an empty string",
+        "License of the data": "",
+
+        "##": "Were you able to run a complete replicability test ?",
+        "##": "By that, we mean download the source, build the project, and run some examples",
+        "##": "(true/false)",
+        "Able to perform a replicability test (boolean)": false,
+
+        "##": "If not, was it due to specific and/or unavailable hardware or software?",
+        "##": "(true/false)",
+        "If not able to perform a test, was it due to missing hardware/software? (boolean)": false,
+
+        "##": "Score {0,1,2,3} for the documentation.",
+        "##": "0 = no documentation, readme or elementary instructions available",
+        "##": "3 = complete documentation (user doc, technical documentation, examples...)",
+        "Documentation score {0=NA,1,2,3}": 0,
+
+        "##": "Score {0=NA, 1,2,3,4,5} to prepare and install the dependencies",
+        "##": "0 = unable to set the required dependencies",
+        "##": "1 = many dependencies required, difficult to set up, unspecified version numbers..",
+        "##": "5 = no dependencies or some dependencies but trivial build/integration with the project",
+        "Dependencies score {0=NA, 1,2,3,4,5}": 0,
+
+        "##": "Score {0=NA, 1,2,3,4,5} for the build/configuration stage",
+        "##": "0 = no instructions or unable to build",
+        "##": "1 = many issues during the build or configure",
+        "##": "5 = no problem nor issue during the build/configure",
+        "Build/configure score {0=NA, 1,2,3,4,5}": 0,
+
+        "##": "Score {0=NA, 1,2,3,4,5} for the bug fixes (if any)",
+        "##": "0 = no bugs or irrelevant",
+        "##": "1 = many bugs, unable to fix them",
+        "##": "5 = just very minor bugs but very easy to fix",
+        "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 0,
+
+        "##": "Score {0=NA, 1,2,3,4,5} for the replicability",
+        "##": "0 = N/A",
+        "##": "1 = I was not able to generate something or unable to analyze the output",
+        "##": "5 = I was able to reproduce most paper results and the remaining ones could be trivially obtained",
+        "Replicate paper results score {0=NA, 1,2,3,4,5}": 0,
+
+        "##": "Score {0=NA, 1,2,3,4,5} for the adaptability",
+        "##": "0 = N/A",
+        "##": "1 = The code is very specific to the paper contribution and cannot be used in other projects",
+        "##": "5 = The code can be easily used for other projects (as it is) or can be easily extended to other contexts",
+        "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 0,
+
+        "##": "Time spent for the replicability test (from the download to the first successful run)",
+        "##": "0 = less than 10 min",
+        "##": "1 = between 10 and 20 min",
+        "##": "...",
+        "##": "10 = more than 100 min",
+        "Time spent for the test (code download to first successful run, [0,10], 10min slots, 100min max)": 0,
+
+        "##": "Detailed instructions (especially if you had to fix some bugs before being able to run a test)",
+        "Build instructions/comments": "",
+
+        "##": "General comments",
+        "##": "This field is displayed even if no replicability test could have been performed.",
+        "Misc. comments": ""
+    }
+]
