@@ -5,7 +5,7 @@
         "##": "Name of the variant. This can be used to distinguish",
         "##": "between different OS or build environments. Common variant names should be formatted as",
         "##": "Ubuntu xx.xx, Debian xx.xx, Windows xx.xx, MacOS x.",
-        "Variant name": " Ubuntu 18.04 ",
+        "Variant name": "Ubuntu 18.04",
 
         "##": "Reviewer name and email",
         "##": "E.g. 'John Doe <john.doe@world.org>'",
