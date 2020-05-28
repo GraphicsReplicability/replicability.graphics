@@ -12,14 +12,11 @@ else
 fi
 
 echo "========= Downloading the data =========="
-if [ -e allData.tgz ]; then
-  rm allData.tgz
-fi
-aria2c  -l "" https://replicability.graphics/allData.tgz
+git clone https://github.com/GraphicsReplicability/replicability.graphics.git tmp
 cd tmp
-tar zxf ../allData.tgz
+git checkout gh-pages
 cd ..
-cp -R website-source/* tmp/
+cp -r website-source/* tmp/
 
 echo "========= Concatenate the JSON =========="
 scripts/concatenateJSON.sh
@@ -38,5 +35,4 @@ echo "========= Data cache =================="
 #At least one PDF
 touch papers/hop.pdf
 find "papers/" -name "*.pdf" | xargs rm -v 
-tar zcf allData.tgz papers/
 echo "========= Bye  =================="
