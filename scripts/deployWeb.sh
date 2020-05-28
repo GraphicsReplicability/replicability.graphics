@@ -16,7 +16,7 @@ git clone https://github.com/GraphicsReplicability/replicability.graphics.git tm
 cd tmp
 git checkout gh-pages
 cd ..
-cp -r website-source/* tmp/
+cp -R website-source/* tmp/
 
 echo "========= Concatenate the JSON =========="
 scripts/concatenateJSON.sh
