@@ -16,11 +16,8 @@ if [ ! -d tmp ]; then
     if [ ! -d .git ]; then
         rm -rf ./*
     fi
-    git clone --depth 1 https://github.com/GraphicsReplicability/replicability.graphics.git tmp
+    git clone --depth 1 -b gh-pages https://github.com/GraphicsReplicability/replicability.graphics.git tmp
 fi
-cd tmp
-git checkout gh-pages
-cd ..
 cp -R website-source/* tmp/
 
 echo "========= Concatenate the JSON =========="
