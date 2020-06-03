@@ -12,7 +12,12 @@ else
 fi
 
 echo "========= Downloading the data =========="
-git clone https://github.com/GraphicsReplicability/replicability.graphics.git tmp
+if [ ! -d tmp ]; then
+    if [ ! -d .git ]; then
+        rm -rf ./*
+    fi
+    git clone --depth 1 https://github.com/GraphicsReplicability/replicability.graphics.git tmp
+fi
 cd tmp
 git checkout gh-pages
 cd ..
