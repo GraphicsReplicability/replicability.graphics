@@ -92,6 +92,6 @@
 
         "Build instructions/comments": "",
 
-        "Misc. comments": ""
+        "Misc. comments": "The authors provide an interactive website showing results of the paper. They also distribute a dataset (Aperture Dataset) with images (1278 pairs and 607 triplets) and ground truth shallow DOF images."
     }
 ]
