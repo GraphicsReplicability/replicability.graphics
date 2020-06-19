@@ -21,7 +21,9 @@ jobs:
     - uses: actions/checkout@v2
 
     - name: Building pages
-      run: | 
+      run: |
+         pip3 install -U setuptools
+         pip3 install python-slugify
          scripts/deployWeb.sh  ${{ secrets.AltmetricKey }}
                 
     - name: Deploy to GitHub Pages

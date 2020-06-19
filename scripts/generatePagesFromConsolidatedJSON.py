@@ -3,6 +3,10 @@ import hashlib
 import shutil
 from collections import OrderedDict
 import datetime
+from difflib import SequenceMatcher
+
+##pip3 install python-slugify
+from slugify import slugify
 
 def genChartHeader(f):
     f.write("""
@@ -13,6 +17,15 @@ def genChartHeader(f):
     """)
 
 
+def isGRSI(title, GRSI):
+    for titleGRSI in GRSI:
+      seq = SequenceMatcher(None, title.upper(), titleGRSI.upper())
+      if seq.ratio() > 0.85:
+        print("[GRSI Match]: "+title+" -- " + titleGRSI+ "  "+str(seq.ratio()))
+        return True
+    return False    
+        
+    
 def processString(s):
     if s =="":
       return "0"
@@ -32,6 +45,11 @@ def genChart(f,variant,tabid):
     f.write('<li><span class="family">Able to run a replicability test</span>: '+ str(variant["Able to perform a replicability test (boolean)"]) + '</li>\n')
     f.write('<li><span class="family">Replicability score</span>: '+ str(variant['Replicate paper results score {0=NA, 1,2,3,4,5}']) + '</li>\n')
 
+    if isGRSI(variant['Title'], GRSI):
+        sluURL = slugify(variant['Code URL'])
+        f.write('<li><i class="fas fa-certificate" style="font-size:150%;color:rgb(255,126,47);" title="GRSI"></i> Paper listed in the <a href="http://www.replicabilitystamp.org/index.html#'+sluURL+'">Graphics Replicability Stamp Initiative</a></li>')
+            
+    
     f.write('<li><span class="family">Software language</span>: '+ variant["Software language"] + '</li>\n')
     f.write('<li><span class="family">License</span>: '+ variant["Code License (if any)"] + '</li>\n')
     f.write('<li><span class="family">Build mechanism</span>: '+ variant["Build/Configure mechanism"] + '</li>\n')
@@ -479,6 +497,7 @@ def dumpTableHeader(findex):
   findex.write('<th>Topic</th>')
   findex.write('<th>Code available</th>')
   findex.write('<th>Replicability score</th>')
+  findex.write('<th>GRSI</th>')
   findex.write('<th>Pseudocode only</th>')
   findex.write('<th>Pseudocode score</th>')
   findex.write('<th>Doc. score</th>')
@@ -950,6 +969,18 @@ def write_index_step2(findex, data):
 with open(sys.argv[1]) as json_file:
    fulldata = json.load(json_file)
 
+
+   print("Loading GRSI")
+   with open("scripts/GRSI.dat") as fp:
+    try:
+       GRSI = fp.readlines()
+       
+    except : # whatever reader errors you care about
+       print("[ERROR] GRSI data file missing")
+       sys.exit(42)
+
+   print("Read "+str(len(GRSI))+" GRSI papers")
+
    print("Generating webpages")
 
    line_count = 0
@@ -1039,6 +1070,7 @@ with open(sys.argv[1]) as json_file:
               fbrowse.write("<td>"+variant['Topic {Rendering, Animation and Simulation, Geometry, Images, Virtual Reality, Fabrication}']+"</td>")
               #Code avai
               fbrowse.write("<td>"+hasCode+"</td>")
+                  
               #Repl score
               rscore = variant['Replicate paper results score {0=NA, 1,2,3,4,5}']
               if ( rscore != ''):
@@ -1049,6 +1081,12 @@ with open(sys.argv[1]) as json_file:
                   else :
                       step2dataYear[2] = step2dataYear[2] + 1
               fbrowse.write("<td>"+str(rscore)+"</td>")
+              #GRSI
+              if isGRSI(variant['Title'], GRSI):
+                sluURL = slugify(variant['Code URL'])
+                fbrowse.write('<td><a href="http://www.replicabilitystamp.org/index.htmL#'+sluURL+'"><i class="fas fa-certificate" style="font-size:150%;color:rgb(255,126,47);" title="GRSI"></i></a></td>')
+              else:
+                fbrowse.write("<td></td>")
               #Pseudocode only
               fbrowse.write("<td>"+ hasPseudoCode+"</td>")
               #Pseudo score
