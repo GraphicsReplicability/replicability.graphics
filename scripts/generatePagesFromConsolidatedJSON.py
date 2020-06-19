@@ -1084,7 +1084,7 @@ with open(sys.argv[1]) as json_file:
               #GRSI
               if isGRSI(variant['Title'], GRSI):
                 sluURL = slugify(variant['Code URL'])
-                fbrowse.write('<td><a href="http://www.replicabilitystamp.org/index.htmL#'+sluURL+'"><i class="fas fa-certificate" style="font-size:150%;color:rgb(255,126,47);" title="GRSI"></i></a></td>')
+                fbrowse.write('<td><a href="http://www.replicabilitystamp.org/index.html#'+sluURL+'"><i class="fas fa-certificate" style="font-size:150%;color:rgb(255,126,47);" title="GRSI"></i></a></td>')
               else:
                 fbrowse.write("<td></td>")
               #Pseudocode only
