@@ -33,4 +33,5 @@ jobs:
     # Runs a single command using the runners shell
     - name: Concatenate & Generate
       run: |
+        pip install python-slugify
         scripts/deployWeb.sh ${{ secrets.AltmetricKey }}
