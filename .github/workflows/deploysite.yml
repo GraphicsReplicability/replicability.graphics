@@ -22,7 +22,7 @@ jobs:
 
     - name: Building pages
       run: | 
-         pip install python-slugify
+         pip3 install python-slugify
          scripts/deployWeb.sh  ${{ secrets.AltmetricKey }}
                 
     - name: Deploy to GitHub Pages
