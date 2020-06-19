@@ -5,7 +5,8 @@ from collections import OrderedDict
 import datetime
 from difflib import SequenceMatcher
 
-
+##pip3 install python-slugify
+from slugify import slugify
 
 def genChartHeader(f):
     f.write("""
@@ -45,7 +46,8 @@ def genChart(f,variant,tabid):
     f.write('<li><span class="family">Replicability score</span>: '+ str(variant['Replicate paper results score {0=NA, 1,2,3,4,5}']) + '</li>\n')
 
     if isGRSI(variant['Title'], GRSI):
-        f.write('<li><i class="fas fa-certificate" style="font-size:150%;color:rgb(255,126,47);" title="GRSI"></i> Paper listed in the <a href="http://www.replicabilitystamp.org">Graphics Replicability Stamp Initiative</a></li>')
+        sluURL = slugify(variant['Code URL'])
+        f.write('<li><i class="fas fa-certificate" style="font-size:150%;color:rgb(255,126,47);" title="GRSI"></i> Paper listed in the <a href="http://www.replicabilitystamp.org/index.html#'+sluURL+'">Graphics Replicability Stamp Initiative</a></li>')
             
     
     f.write('<li><span class="family">Software language</span>: '+ variant["Software language"] + '</li>\n')
@@ -1081,7 +1083,8 @@ with open(sys.argv[1]) as json_file:
               fbrowse.write("<td>"+str(rscore)+"</td>")
               #GRSI
               if isGRSI(variant['Title'], GRSI):
-                fbrowse.write('<td><a href="http://www.replicabilitystamp.org"><i class="fas fa-certificate" style="font-size:150%;color:rgb(255,126,47);" title="GRSI"></i></a></td>')
+                sluURL = slugify(variant['Code URL'])
+                fbrowse.write('<td><a href="http://www.replicabilitystamp.org/index.htmL#'+sluURL+'"><i class="fas fa-certificate" style="font-size:150%;color:rgb(255,126,47);" title="GRSI"></i></a></td>')
               else:
                 fbrowse.write("<td></td>")
               #Pseudocode only
