@@ -14,8 +14,8 @@ More details: [https://replicability.graphics](https://replicability.graphics)
 
 ## Citing
 
-```
-@Article{replicGraph2020,
+``` bibtex
+@article{replicGraph2020,
   author  =    {Nicolas Bonneel, David Coeurjolly, Julie Digne and Nicolas Mellado},
   title   =    {Code replicabiltiy in computer graphics},
   journal =    {ACM Transactions on Graphics (Proceedings of SIGGRAPH 2020)},
