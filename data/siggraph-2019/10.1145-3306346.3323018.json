@@ -1,41 +1,40 @@
 [
     {
-        "Variant name": " ",
-        "Reviewer name": " ",
+        "Variant name": "macOS",
+        "Reviewer name": "David Coeurjolly <david.coeurjolly@liris.cnrs.fr>",
 
         "Is master variant (boolean)": true,
         
         "Is variant deprecated (boolean)": false,
 
-        "Operating system for the test": "",
+        "Operating system for the test": "macOS",
         
-        "Title": " ",
+        "Title": "Hierarchical russian roulette for vertex connections",
 
-        "DOI": "xx.yyyy/uuuuuuuuuu.vvvvvvvv",
+        "DOI": "10.1145/3306346.3323018",
 
-        "Year": 2020,
+        "Year": 2019,
 
         "ACM Keywords": [
-            " ... ",
-            " ... "
+            "Ray tracing"
         ],
 
-        "Topic {Rendering, Animation and Simulation, Geometry, Images, Virtual Reality, Fabrication}": "Geometry",
+        "Topic {Rendering, Animation and Simulation, Geometry, Images, Virtual Reality, Fabrication}": "Rendering",
 
-        "Co-authors from academia (boolean)": true,
+        "Co-authors from academia (boolean)": false,
 
-        "Co-authors from industry (boolean)": false,
+        "Co-authors from industry (boolean)": true,
 
         "ACM Open Access (boolean)": false,
 
-        "PDF on the authors' webpage / institution (boolean)": false,
+        "PDF on the authors' webpage / institution (boolean)": true,
 
         "PDF on Arxiv or any openarchive initiatives (boolean)": false,
         "Arxiv/OAI page URL": "",
 
-        "PDF URL": "",
+        "PDF URL": "http://www.jp.square-enix.com/tech/library/pdf/Hierarchical_Russian_Roulette_for_Vertex_Connections.pdf",
         
-        "Project URL": "",
+        "Project URL": "http://www.jp.square-enix.com/tech/publications.html",
 
         "Code available (boolean)": false,
         "Code URL": "",
@@ -48,13 +47,13 @@
         "Software Heritage permalink": "",
        
 
-        "If code not available, pseudo-code available (boolean)": false,
+        "If code not available, pseudo-code available (boolean)": true,
         
-        "If pseudo-code, could the paper be trivially implemented? {0..4}": 0,
+        "If pseudo-code, could the paper be trivially implemented? {0..4}": 4,
 
-        "Software type {Code, Binary, Partial Code}": "",
+        "Software type {Code, Binary, Partial Code}": "Code",
 
-        "Software language": "",
+        "Software language": "C++",
         
         "Code License (if any)": "",
 
@@ -88,10 +87,10 @@
 
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 0,
 
-        "Time spent for the test (code download to first successful run, [0,10], 10min slots, 100min max)": 0,
+        "Time spent for the test (code download to first successful run, [0,10], 10min slots, 100min max)": 1,
 
         "Build instructions/comments": "",
 
-        "Misc. comments": ""
+        "Misc. comments": "The authors detail an example (C++) code of their hierarchical Russian roulette system in supplementary material. From that code, it should not be difficult to reimplement the paper in other context."
     }
 ]

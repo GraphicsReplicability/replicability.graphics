@@ -97,7 +97,7 @@
         "##": "Please add a rate between 0 and 4",
         "##": "(0 = This implementation is not straightforward at all, many elements are missing)",
         "##": "(4 = I can copy-paste the pseudo-code to reproduce something)",
-        "If pseudo-code, could the paper be trivially implemented? {0..4}": "",
+        "If pseudo-code, could the paper be trivially implemented? {0..4}": 0,
 
         "##": "Describe the type of artifacts the authors have provided.",
         "##": "It can be some source code (something that must be compiled/evaluated),",
