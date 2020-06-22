@@ -89,7 +89,7 @@
 
         "Time spent for the test (code download to first successful run, [0,10], 10min slots, 100min max)": 1,
 
-        "Build instructions/comments": 'Code and dataset are available on the project page. However, the link to the archive redirects to a website that produces some server error when trying to download the archive:\n<Error xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">\n <Code>InternalError</Code>\n <Message>\n The system encountered an internal error, please try again.\n </Message>\n <Resource>\n /importfile/20200113_043e551e1bac6c5ecce76b6f08df6c00\n </Resource>\n <HostId>0004</HostId>\n <RequestId>rkqV2V9sH0DmBc7OSxEHR1GGJFHIqZrK</RequestId>\n </Error>',
+        "Build instructions/comments": "Code and dataset are available on the project page. However, the link to the archive redirects to a website that produces some server error when trying to download the archive:\n<Error xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>\n <Code>InternalError</Code>\n <Message>\n The system encountered an internal error, please try again.\n </Message>\n <Resource>\n /importfile/20200113_043e551e1bac6c5ecce76b6f08df6c00\n </Resource>\n <HostId>0004</HostId>\n <RequestId>rkqV2V9sH0DmBc7OSxEHR1GGJFHIqZrK</RequestId>\n </Error>",
 
         "Misc. comments": ""
     }
