@@ -49,7 +49,7 @@
 
         "If code not available, pseudo-code available (boolean)": true,
         
-        "If pseudo-code, could the paper be trivially implemented? {0..4}": "4",
+        "If pseudo-code, could the paper be trivially implemented? {0..4}": 4,
 
         "Software type {Code, Binary, Partial Code}": "Code",
 
