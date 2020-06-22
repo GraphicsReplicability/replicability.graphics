@@ -91,6 +91,6 @@
 
         "Build instructions/comments": "",
 
-        "Misc. comments": "The authors detail an example (C++) code of their hierarchical Russian roulette system. From that code, it should not be difficult to reimplement the paper in other context."
+        "Misc. comments": "The authors detail an example (C++) code of their hierarchical Russian roulette system in supplementary material. From that code, it should not be difficult to reimplement the paper in other context."
     }
 ]
