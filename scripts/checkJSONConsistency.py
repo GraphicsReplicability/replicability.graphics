@@ -1,6 +1,5 @@
 from __future__ import print_function
 import csv,os,sys, json,re,codecs,datetime
-from difflib import SequenceMatcher
 
 ###########################
 
