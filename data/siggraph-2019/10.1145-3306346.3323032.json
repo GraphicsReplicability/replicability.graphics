@@ -5,12 +5,12 @@
         "##": "Name of the variant. This can be used to distinguish",
         "##": "between different OS or build environments. Common variant names should be formatted as",
         "##": "Ubuntu xx.xx, Debian xx.xx, Windows xx.xx, MacOS x.",
-        "Variant name": " ",
+        "Variant name": "Ubuntu 18.04",
 
         "##": "Reviewer name and email",
         "##": "E.g. 'John Doe <john.doe@world.org>'",
         "##": "Note: we will detect and add a link to your github account if you use the same email address here.",
-        "Reviewer name": " ",
+        "Reviewer name": " Julie Digne <julie.digne@liris.cnrs.fr>",
 
         "##": "For a given paper, there is one specific variant (the master one)",
         "##": "that is displayed on the first pane of the replicability paper web page",
@@ -23,27 +23,28 @@
         "Is variant deprecated (boolean)": false,
 
         "##": "OS for the test",
-        "Operating system for the test": "",
+        "Operating system for the test": "Ubuntu 18.04",
         
         "##": "Article title",
-        "Title": " ",
+        "Title": "Beyond trilinear interpolation: higher quality for free",
 
         "##": "Article identifiers",
-        "DOI": "xx.yyyy/uuuuuuuuuu.vvvvvvvv",
+        "DOI": "10.1145/3306346.3323032",
 
         "##": "Year of publication (integer)",
-        "Year": 2050,
+        "Year": 2019,
 
         "##": "ACM Keywords of the paper (a list of strings)",
         "ACM Keywords": [
-            " ... ",
-            " ... "
+            "Image processing",
+            "Texturing",
+	    "Volumetric models"
         ],
 
         "##": "Paper main topic",
         "##": "Please refer to the original article of the project for details on this",
         "##": "topic classification.",
-        "Topic {Rendering, Animation and Simulation, Geometry, Images, Virtual Reality, Fabrication}": "Geometry",
+        "Topic {Rendering, Animation and Simulation, Geometry, Images, Virtual Reality, Fabrication}": "Rendering",
 
         "##": "Is any of the co-authors from a university of a public institution ? (true/false)",
         "Co-authors from academia (boolean)": true,
@@ -64,7 +65,7 @@
 
         "##": "URL for direct download of the PDF paper (eiher author/institution/arxiv website)",
         "##": "(empty if PDF not available)",
-        "PDF URL": "",
+        "PDF URL": "https://dl.acm.org/doi/pdf/10.1145/3306346.3323032",
         
         "##": "Project URL (if any)",
         "Project URL": "",
@@ -91,13 +92,13 @@
         "Software Heritage permalink": "",
        
         "##": "If no code is provided, has the paper some included pseudo-code ? (true/false)",
-        "If code not available, pseudo-code available (boolean)": false,
+        "If code not available, pseudo-code available (boolean)": true,
         
         "##": "If some pseudo-code is given, would it be easy to implement the paper contribution from it ?",
         "##": "Please add a rate between 0 and 4",
         "##": "(0 = This implementation is not straightforward at all, many elements are missing)",
         "##": "(4 = I can copy-paste the pseudo-code to reproduce something)",
-        "If pseudo-code, could the paper be trivially implemented? {0..4}": 0,
+        "If pseudo-code, could the paper be trivially implemented? {0..4}": 4,
 
         "##": "Describe the type of artifacts the authors have provided.",
         "##": "It can be some source code (something that must be compiled/evaluated),",

@@ -3,22 +3,22 @@ set -e
 
 ## $1 is the Altmetric API key
 
+
 echo "========= Init =========="
 sudo apt-get install -y graphicsmagick
 if [ -d tmp ]; then
-  echo "tmp folder already exists"
-else
-  mkdir tmp        
+    echo "tmp folder already exists, cleaning it"
+    rm  -rf tmp
 fi
 
 echo "========= Downloading the data =========="
-if [ -e allData.tgz ]; then
-  rm allData.tgz
-fi
-aria2c  -l "" https://replicability.graphics/allData.tgz
+git clone --depth 1 -b gh-pages https://github.com/GraphicsReplicability/replicability.graphics.git tmp
+
+## removing the .git in the clone
 cd tmp
-tar zxf ../allData.tgz
+rm -rf .git/
 cd ..
+
 cp -R website-source/* tmp/
 
 echo "========= Concatenate the JSON =========="
@@ -38,5 +38,4 @@ echo "========= Data cache =================="
 #At least one PDF
 touch papers/hop.pdf
 find "papers/" -name "*.pdf" | xargs rm -v 
-tar zcf allData.tgz papers/
 echo "========= Bye  =================="
