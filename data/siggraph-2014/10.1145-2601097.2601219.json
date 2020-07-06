@@ -1,6 +1,6 @@
 [
     {
-        "Variant name": "windows",
+        "Variant name": "main",
         "Reviewer name": "Nicolas Bonneel <nicolas.bonneel@liris.cnrs.fr>",
         "Is master variant (boolean)": true,
         "Is variant deprecated (boolean)": false,
