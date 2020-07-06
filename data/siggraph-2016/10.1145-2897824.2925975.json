@@ -35,7 +35,7 @@
         "Build/Configure mechanism": "",
         "Dependencies": "theano,numpy,scipy,six,matplotlib",
         "Does the software require paywall/proprietary software/material (boolean)?": false,
-        "Does the code need data (not examples) (boolean)": yes,
+        "Does the code need data (not examples) (boolean)": true,
         "Nature of the data (pretrained model, LUT...)": "pretrained model, mocap data",
         "License of the data": "Custom",
         "Able to perform a replicability test (boolean)": false,
