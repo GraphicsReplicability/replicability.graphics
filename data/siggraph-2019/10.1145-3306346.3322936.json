@@ -51,7 +51,7 @@
         
         "If pseudo-code, could the paper be trivially implemented? {0..4}": 0,
 
-        "Software type {Code, Binary, Partial Code}": "",
+        "Software type {Code, Binary, Partial Code}": "Code",
 
         "Software language": "C++,python",
         
