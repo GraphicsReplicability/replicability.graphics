@@ -10,7 +10,6 @@ def eprint(*args, **kwargs):
 def check(text):
  if text!="":
    fout = open("error.log", "a")
-   errorDetected=True
    eprint(text)
    fout.write(text+'\n')
 
@@ -117,7 +116,6 @@ def checkJSON(paperJSON):
   except json.decoder.JSONDecodeError:
      eprint("Could not open or decode the JSON:", paperJSON)
      
-errorDetected=False
 fout=open("error.log", "w")
 fout.write("");
 fout.close()
@@ -126,6 +124,6 @@ for i in range(1, len(sys.argv)):
   eprint(" ======= Checking the content of the JSON " + sys.argv[i])
   checkJSON(sys.argv[i])
   
-  if errorDetected:
+  if os.stat("error.log").st_size != 0:
     eprint("Error detected, check error.log file")
     os._exit(42)
