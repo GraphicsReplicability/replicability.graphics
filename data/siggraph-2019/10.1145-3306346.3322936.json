@@ -89,22 +89,7 @@
 
         "Time spent for the test (code download to first successful run, [0,10], 10min slots, 100min max)": 6,
 
-        "Build instructions/comments": "Several changes have to be made for it to compile on linux (command line only). To build (once you've fixed all files, see below) go to the mitsuba folder and \"cp build/config-linux-gcc.py  config.py\"  then run scons.\\n 	Install mitsuba required dependencies (see above)\\n Required code changes: \\n
-	* mitsuba/include/mitsuba/core/tls.h : add #include \"../../../dependencies/include/GL/glew.h\" \\n
-	* mitsuba/src/shapes/shellmap_heightfield.cpp :\\n
-       	line 376 cast p.z into (double)p.z\\n
-	* mitsuba/src/utils/precomp/bsdfSimulator_proc.cpp:\\n
-       	line 106: cast normal.z into (double)normal.z;\\n
-       	line 113:  cast dot(normal, m_wi)) into (double)dot(normal, m_wi))\\n
-	* mitsuba/src/utils/precomp/effBrdfEstimator.cpp :\\n
-        line 133: change Float w into double w ; line;\\n
-	line 225: cast normal.z into (double)normal.z;\\n
-       	line 232:  cast dot(normal, m_wi)) into (double)dot(normal, m_wi))\\n
-	* mitsuba/src/utils/precomp/normalMipmap.cpp:\\n
-	lines 223 and 286 replace kappa by (double)kappa\\n
-	* mitsuba/src/utils/precomp/multi_vmf.h change Float(rand()) / Float(RAND_MAX) into  (double)(Float(rand()) / Float(RAND_MAX))\\n
-	Then go to data/render_twill/ and run LD_LIBRARY_PATH=../../mitsuba/dist/ ../../mitsuba/dist/mitsuba env_shellmap_1.xml (for example)\\n
-	For running the python script, in mitsuba/build/SConscript.configure, make your python version (3.8 in my case) you're running is listed in python_versions line 34 and in data/scons/detect_python do the same on line 60 and add 'boost_python%s' % version to the base paths line 45.\\n In file prefilter_twill.py: lines 39 and 79 replace slashes by backslashes (but not the escaping-slashes)\\n Finally do not forget to source setpath.sh after setting MITSUBA_PYVER to your python version number",
+        "Build instructions/comments": "Several changes have to be made for it to compile on linux (command line only). To build (once you've fixed all files, see below) go to the mitsuba folder and \"cp build/config-linux-gcc.py  config.py\"  then run scons.\\n 	Install mitsuba required dependencies (see above)\\n Required code changes: \\n * mitsuba/include/mitsuba/core/tls.h : add #include \"../../../dependencies/include/GL/glew.h\" \\n * mitsuba/src/shapes/shellmap_heightfield.cpp :\\n line 376 cast p.z into (double)p.z\\n * mitsuba/src/utils/precomp/bsdfSimulator_proc.cpp:\\n line 106: cast normal.z into (double)normal.z;\\n line 113:  cast dot(normal, m_wi)) into (double)dot(normal, m_wi))\\n * mitsuba/src/utils/precomp/effBrdfEstimator.cpp :\\n line 133: change Float w into double w ; line;\\n line 225: cast normal.z into (double)normal.z;\\n line 232:  cast dot(normal, m_wi)) into (double)dot(normal, m_wi))\\n * mitsuba/src/utils/precomp/normalMipmap.cpp:\\n lines 223 and 286 replace kappa by (double)kappa\\n * mitsuba/src/utils/precomp/multi_vmf.h change Float(rand()) / Float(RAND_MAX) into  (double)(Float(rand()) / Float(RAND_MAX))\\n Then go to data/render_twill/ and run LD_LIBRARY_PATH=../../mitsuba/dist/ ../../mitsuba/dist/mitsuba env_shellmap_1.xml (for example)\\n For running the python script, in mitsuba/build/SConscript.configure, make your python version (3.8 in my case) you're running is listed in python_versions line 34 and in data/scons/detect_python do the same on line 60 and add 'boost_python%s' % version to the base paths line 45.\\n In file prefilter_twill.py: lines 39 and 79 replace slashes by backslashes (but not the escaping-slashes)\\n Finally do not forget to source setpath.sh after setting MITSUBA_PYVER to your python version number",
 
         "Misc. comments": ""
     }
