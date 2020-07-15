@@ -705,13 +705,14 @@ def write_index_step2(findex, data):
       href="https://github.com/GraphicsReplicability/replicability.graphics"> <img width="20pt" src="images/github.png"/>&nbsp;replicability.graphics
       GitHub project</a>. The website contains the data for all papers in:</p>
       <p> <ul class="publist-inline">
-       <li> SIGGRAPH 2014</li>
-       <li> SIGGRAPH 2016</li>
-       <li> SIGGRAPH 2018</li>
+       <li> <a href="https://github.com/GraphicsReplicability/replicability.graphics/tree/master/data/siggraph-2014">SIGGRAPH 2014</a></li>
+       <li> <a href="https://github.com/GraphicsReplicability/replicability.graphics/tree/master/data/siggraph-2016">SIGGRAPH 2016</a></li>
+       <li> <a href="https://github.com/GraphicsReplicability/replicability.graphics/tree/master/data/siggraph-2018">SIGGRAPH 2018</a></li>
        </ul></p>
        <p style="text-align:left">and partial data for:</p>
        <ul class="publist-inline-empty">
-       <li> SIGGRAPH 2019</li>
+       <li> <a href="https://github.com/GraphicsReplicability/replicability.graphics/tree/master/data/siggraph-2019">SIGGRAPH 2019</a></li>
+       <li> <a href="https://github.com/GraphicsReplicability/replicability.graphics/tree/master/data/sigasia-2015">SIGGRAPH ASIA 2015</a></li>
        </ul>
        <p style="text-align:left">As a long term goal, we would like to collect data for more SIGGRAPH venues, for SIGGRAPH ASIA editions, for ToG papers, and for any other computer graphics events. If you want to help, see <a href="#contribute" class="scrolly">contributions</a>, and check out <a href="https://github.com/GraphicsReplicability/replicability.graphics/blob/master/CONTRIBUTORS.md">the contributors</a>. </p>
 
@@ -887,6 +888,10 @@ def write_index_step2(findex, data):
 
 
                 <img height="100px" src="images/logo_cnrs.png"/>   &nbsp;&nbsp;&nbsp;  <img height="100px" src="images/logo_liris.png"/> &nbsp;&nbsp;&nbsp; <img height="100px"  src="images/logo_irit.png"/>
+                <br><br>
+                <h3>Acknowledgments</h3>
+                This work was funded in part by ANR-16-CE23-0009 (ROOT), ANR-16-CE33-0026 (CAL- iTrOp), ANR-15-CE40-0006 (CoMeDiC) and ANR-16-CE38-0009 (e- ROMA). We also thank <a href="http://altmetric.com">Altmetric</a> for providing us access to their Altmetric score.
+
 
                 </div>
             </div>
