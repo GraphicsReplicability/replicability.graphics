@@ -59,7 +59,7 @@
 
         "Are the code authors explicit? (boolean)": false,
 
-        "Build/Configure mechanism": "matlab",
+        "Build/Configure mechanism": "matlab/octave",
 
         "Dependencies": "Matlab Symbolic package / Octave Symbolic package",
         
