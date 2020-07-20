@@ -91,6 +91,6 @@
 
         "Build instructions/comments": "",
 
-        "Misc. comments": "Replicates only the convergence verification of I5 closed forms."
+        "Misc. comments": "Replicates only the convergence verification of I5 closed forms. The code for the applications is not given."
     }
 ]
