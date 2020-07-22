@@ -45,7 +45,7 @@
         "git/hg/svn commit hash or revision number": "749b4bf2aa89143c0b50c9a2a50a6fbd6b115919",
         "git/hg/svn commit hash or revision number URL2": "",
 
-        "Software Heritage permalink": "",
+        "Software Heritage permalink": "https://archive.softwareheritage.org/swh:1:dir:eabb9f3dc62f79b48b9d4cafd24090ee2f0d3be8;origin=https://github.com/HTDerekLiu/SpecCoarsen_MATLAB;visit=swh:1:snp:a1013d4756ace673ef0f4f6526b4bd32ab191bc4;anchor=swh:1:rev:749b4bf2aa89143c0b50c9a2a50a6fbd6b115919;path=//",
        
 
         "If code not available, pseudo-code available (boolean)": false,
