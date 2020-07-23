@@ -1103,7 +1103,7 @@ with open(sys.argv[1]) as json_file:
                       else :
                           step2dataYear[6] = step2dataYear[6] + 1
                   else:
-                      print( "[WARNING] Inconsistent choice for pseudo-code availability and score [ https://replicability.graphics/papers/" + doiclean+"/index.html  "+ variant['DOI'] + "]" )
+                      print( "[WARNING] Inconsistent choice for pseudo-code availability and score  (the paper has a pseudo-code but an empty pseudo-code score) [ https://replicability.graphics/papers/" + doiclean+"/index.html  "+ variant['DOI'] + "]" )
               fbrowse.write("<td>"+str(pscore)+"</td>")
               #Doc score
               fbrowse.write("<td>"+str(variant['Documentation score {0=NA,1,2,3}'])+"</td>")
