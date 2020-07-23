@@ -1096,14 +1096,14 @@ with open(sys.argv[1]) as json_file:
               fbrowse.write("<td>"+ hasPseudoCode+"</td>")
               #Pseudo score
               pscore = variant['If pseudo-code, could the paper be trivially implemented? {0..4}']
-	      if hasPseudoCode==True:
+              if hasPseudoCode==True:
                   if ( pscore != ''):
                       if( pscore >= 4 ) :
                           step2dataYear[5] = step2dataYear[5] + 1
                       else :
                           step2dataYear[6] = step2dataYear[6] + 1
-		  else:
-		      print( "[WARNING] Inconsistent choice for pseudo-code availability and score [ https://replicability.graphics/papers/" + doiclean+"/index.html  "+ variant['DOI'] + "]" )
+                  else:
+                      print( "[WARNING] Inconsistent choice for pseudo-code availability and score [ https://replicability.graphics/papers/" + doiclean+"/index.html  "+ variant['DOI'] + "]" )
               fbrowse.write("<td>"+str(pscore)+"</td>")
               #Doc score
               fbrowse.write("<td>"+str(variant['Documentation score {0=NA,1,2,3}'])+"</td>")
