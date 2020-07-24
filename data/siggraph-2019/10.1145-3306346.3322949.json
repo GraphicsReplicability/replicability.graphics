@@ -83,7 +83,7 @@
 
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 5,
 
-        "Replicate paper results score {0=NA, 1,2,3,4,5}": 0,
+        "Replicate paper results score {0=NA, 1,2,3,4,5}": 5,
 
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 1,
 
@@ -91,7 +91,7 @@
 
         "Build instructions/comments": "To make it compile, I removed the -Werror=all . In Lib/MPM/MpmSimulationBase.cpp, I replaced all lines \"if constexpr (!USE_APIC_BLEND_RPIC)\" with \"if (!USE_APIC_BLEND_RPIC)\"; \"if constexpr (USE_APIC_BLEND_RPIC)\" with \"if (USE_APIC_BLEND_RPIC)\"; \"if constexpr (!USE_MPM_DEGREE_ONE)\" with \"if (!USE_MPM_DEGREE_ONE)\".",
 
-        "Misc. comments": "The code corresponds to two siggraph 2019 papers. It is not explicit which code corresponds to which paper, I assumed \"fracture\" corresponds to this paper."
+        "Misc. comments": "The code corresponds to two siggraph 2019 papers. It is not explicit which code corresponds to which paper, I assumed \"fracture\" corresponds to this paper.  I could reproduce the dino and bread experiments. I visualized the bgeo files with the partview tool available here: \"https://github.com/wdas/partio\", it can also be done using Houdini. To know which test number corresponds to which experiment, refer to the FractureInit3D.h file."
     }
 ]
 
@@ -180,7 +180,7 @@
 
         "Fixing bugs score (if any) {0=NA, 1,2,3,4,5}": 0,
 
-        "Replicate paper results score {0=NA, 1,2,3,4,5}": 0,
+        "Replicate paper results score {0=NA, 1,2,3,4,5}": 5,
 
         "Adaptability score to other contexts {0=NA, 1,2,3,4,5}": 1,
 
@@ -188,6 +188,6 @@
 
         "Build instructions/comments": "Compiles out of the box.",
 
-        "Misc. comments": "The code corresponds to two siggraph 2019 papers. It is not explicit which code corresponds to which paper, I assumed \"fracture\" corresponds to this paper."
+        "Misc. comments": "The code corresponds to two siggraph 2019 papers. It is not explicit which code corresponds to which paper, I assumed \"fracture\" corresponds to this paper. I could reproduce the dino and bread experiments. I visualized the bgeos files with the partview tool available here: \"https://github.com/wdas/partio\", it can also be done using Houdini.  To know which test number corresponds to which experiment, refer to the FractureInit3D.h file."
     }
 ]
