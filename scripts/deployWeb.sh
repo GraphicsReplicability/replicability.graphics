@@ -35,7 +35,7 @@ echo "========= main page =================="
 ./concat.sh core.html
 
 echo "========= Generate GRSI page ================"
-python3 scripts/scripts/exportGRSI.py tmp/consolidated.json > tmp/GRSI.html
+python3 ../scripts/exportGRSI.py consolidated.json > GRSI.html
 
 echo "========= Data cache =================="
 #At least one PDF
