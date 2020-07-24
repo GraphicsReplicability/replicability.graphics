@@ -346,18 +346,7 @@ def generateAllPages(pathPages,paper):
     }
   });
   } );
-  </script></head>\n<body>
- """)
-
- f.write("""<html><head><meta charset="utf-8"><script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.3"></script>
-  <link rel="stylesheet"
-        href="../../assets/css/default.min.css">
-  <script src="../../assets/js/highlight.min.js"></script>
-  <script>hljs.initHighlightingOnLoad();</script>
-  <link href="../../assets/css/all.css" rel="stylesheet">
-  <link rel="stylesheet" href="../../assets/css/customstyle.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pretty-checkbox@3.0/dist/pretty-checkbox.min.css">\n
-
+  </script>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-164636527-1"></script>
 <script>
@@ -367,8 +356,8 @@ def generateAllPages(pathPages,paper):
 
   gtag('config', 'UA-164636527-1');
 </script>
-
-
+<title>"""+ title+"""</title>
+<meta name="description" content="Replicability and source code of the article """+title+""".">
 
   </head>\n<body>
   """)
