@@ -34,8 +34,11 @@ cd tmp
 echo "========= main page =================="
 ./concat.sh core.html
 
+echo "========= Generate GRSI page ================"
+python3 ../scripts/exportGRSI.py consolidated.json > GRSI.html
+
 echo "========= Data cache =================="
 #At least one PDF
 touch papers/hop.pdf
-find "papers/" -name "*.pdf" | xargs rm -v 
+find "papers/" -name "*.pdf" | xargs rm -v
 echo "========= Bye  =================="
