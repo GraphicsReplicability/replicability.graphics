@@ -6,7 +6,7 @@ import shutil
 
 def message(variant,doiclean):
  return """Dear author,%0D%0A%0D%0A
-you receive this message because you co-authored a TOG/Siggraph paper entitled \""""+ variant['Title']+"""\"  and released the source code at https :"""+ variant['Code URL']+"""%0D%0A
+you receive this message because you co-authored a TOG/Siggraph paper entitled \""""+ variant['Title']+"""\"  and released the source code at """+ variant['Code URL']+"""%0D%0A
 An independent team of experts has successfully evaluated your code for replicability (see https://replicability.graphics/papers/"""+doiclean+"""/).%0D%0A%0D%0A
 
 I herewith invite you to submit your code to the Graphics Replicability Stamp Initiative.%0D%0A
