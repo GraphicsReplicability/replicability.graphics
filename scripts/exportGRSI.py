@@ -30,6 +30,9 @@ GRSI General Chair%0A
 
 messageSubject="""Your TOG paper is eligible for receiveing the Graphics Replicability Stamp"""
 
+def makeA(url):
+  return "<a href='"+url+"'>"+url+"</a>"
+
 with open(sys.argv[1]) as json_file:
    fulldata = json.load(json_file)
    line_count = 0
@@ -44,7 +47,7 @@ with open(sys.argv[1]) as json_file:
       doiclean = re.sub('/', '-', doi)
       if variant["Is master variant (boolean)"]:
         if variant['Code available (boolean)'] and variant['Replicate paper results score {0=NA, 1,2,3,4,5}'] !="" and variant['Replicate paper results score {0=NA, 1,2,3,4,5}']>=4:
-          print("<tr><td>"+str(variant['Year'])+"</td><td>"+variant["Title"]+"</td><td>"+variant["DOI"]+"</td><td>"+str(variant['Replicate paper results score {0=NA, 1,2,3,4,5}'])+"</td><td>"+variant['Software type {Code, Binary, Partial Code}']+"</td><td>"+variant['Code URL']+"</td><td>"+variant['Code License (if any)']+"</td><td>"+"<a href='https://replicability.graphics/papers/"+doiclean+"/'>https://replicability.graphics/papers/"+doiclean+"/</td><td><button type='button'><a href='mailto:?cc=jaiko@ge.imati.cnr.it&subject="+messageSubject+"&body="+message(variant,doiclean)+"'>Mail</a></button></td></tr>")
+          print("<tr><td>"+str(variant['Year'])+"</td><td>"+variant["Title"]+"</td><td>"+variant["DOI"]+"</td><td>"+str(variant['Replicate paper results score {0=NA, 1,2,3,4,5}'])+"</td><td>"+variant['Software type {Code, Binary, Partial Code}']+"</td><td>"+makeA(variant['Code URL'])+"</td><td>"+variant['Code License (if any)']+"</td><td>"+"<a href='https://replicability.graphics/papers/"+doiclean+"/'>https://replicability.graphics/papers/"+doiclean+"/</td><td><button type='button'><a href='mailto:?cc=jaiko@ge.imati.cnr.it&subject="+messageSubject+"&body="+message(variant,doiclean)+"'>Mail</a></button></td></tr>")
           cpt+=1
       
    print("</table></body></html>")
