@@ -346,18 +346,7 @@ def generateAllPages(pathPages,paper):
     }
   });
   } );
-  </script></head>\n<body>
- """)
-
- f.write("""<html><head><meta charset="utf-8"><script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.3"></script>
-  <link rel="stylesheet"
-        href="../../assets/css/default.min.css">
-  <script src="../../assets/js/highlight.min.js"></script>
-  <script>hljs.initHighlightingOnLoad();</script>
-  <link href="../../assets/css/all.css" rel="stylesheet">
-  <link rel="stylesheet" href="../../assets/css/customstyle.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pretty-checkbox@3.0/dist/pretty-checkbox.min.css">\n
-
+  </script>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-164636527-1"></script>
 <script>
@@ -367,8 +356,8 @@ def generateAllPages(pathPages,paper):
 
   gtag('config', 'UA-164636527-1');
 </script>
-
-
+<title>"""+ title+"""</title>
+<meta name="description" content="Replicability and source code of the article """+title+""".">
 
   </head>\n<body>
   """)
@@ -1096,13 +1085,14 @@ with open(sys.argv[1]) as json_file:
               fbrowse.write("<td>"+ hasPseudoCode+"</td>")
               #Pseudo score
               pscore = variant['If pseudo-code, could the paper be trivially implemented? {0..4}']
-              if ( pscore != ''):
-                  if (not variant["If code not available, pseudo-code available (boolean)"]):
-                       print( "[WARNING] Inconsistent choice for pseudo-code availability and score [ https://replicability.graphics/papers/" + doiclean+"/index.html  "+ variant['DOI'] + "]" )
-                  if( pscore >= 4 ) :
-                      step2dataYear[5] = step2dataYear[5] + 1
-                  else :
-                      step2dataYear[6] = step2dataYear[6] + 1
+              if hasPseudoCode==True:
+                  if ( pscore != ''):
+                      if( pscore >= 4 ) :
+                          step2dataYear[5] = step2dataYear[5] + 1
+                      else :
+                          step2dataYear[6] = step2dataYear[6] + 1
+                  else:
+                      print( "[WARNING] Inconsistent choice for pseudo-code availability and score  (the paper has a pseudo-code but an empty pseudo-code score) [ https://replicability.graphics/papers/" + doiclean+"/index.html  "+ variant['DOI'] + "]" )
               fbrowse.write("<td>"+str(pscore)+"</td>")
               #Doc score
               fbrowse.write("<td>"+str(variant['Documentation score {0=NA,1,2,3}'])+"</td>")
