@@ -52,7 +52,7 @@
         
         "If pseudo-code, could the paper be trivially implemented? {0..4}": 0,
 
-        "Software type {Code, Binary, Partial Code}": "",
+        "Software type {Code, Binary, Partial Code}": "Code",
 
         "Software language": "matlab",
         
@@ -72,7 +72,7 @@
 
         "License of the data": "",
 
-        "Able to perform a replicability test (boolean)": false,
+        "Able to perform a replicability test (boolean)": true,
 
         "If not able to perform a test, was it due to missing hardware/software? (boolean)": false,
 
