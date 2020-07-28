@@ -44,7 +44,7 @@
         "git/hg/svn commit hash or revision number": "299d70d9713385661ce94ee5f2011470002b46bf",
         "git/hg/svn commit hash or revision number URL2": "",
 
-        "Software Heritage permalink": "",
+        "Software Heritage permalink": "https://archive.softwareheritage.org/swh:1:rev:3251bcb93cd91a892a8a056b6536a295b0ed80be;origin=https://github.com/sueda/redmax;visit=swh:1:snp:7a235a6948ea44d6bc90942c935c9234831ee01e/",
        
 
         "If code not available, pseudo-code available (boolean)": false,
