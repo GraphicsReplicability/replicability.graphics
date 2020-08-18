@@ -23,9 +23,9 @@ def isGRSI(title, GRSI):
       if seq.ratio() > 0.85:
         print("[GRSI Match]: "+title+" -- " + titleGRSI+ "  "+str(seq.ratio()))
         return True
-    return False    
-        
-    
+    return False
+
+
 def processString(s):
     if s =="":
       return "0"
@@ -48,8 +48,8 @@ def genChart(f,variant,tabid):
     if isGRSI(variant['Title'], GRSI):
         sluURL = slugify(variant['Code URL'])
         f.write('<li><i class="fas fa-certificate" style="font-size:150%;color:rgb(255,126,47);" title="GRSI"></i> Paper listed in the <a href="http://www.replicabilitystamp.org/index.html#'+sluURL+'">Graphics Replicability Stamp Initiative</a></li>')
-            
-    
+
+
     f.write('<li><span class="family">Software language</span>: '+ variant["Software language"] + '</li>\n')
     f.write('<li><span class="family">License</span>: '+ variant["Code License (if any)"] + '</li>\n')
     f.write('<li><span class="family">Build mechanism</span>: '+ variant["Build/Configure mechanism"] + '</li>\n')
@@ -75,11 +75,11 @@ def genChart(f,variant,tabid):
 
 
     f.write('</ul><h2>Comments</h2><pre>'+  re.sub('>','&gt;',re.sub('<','&lt;',variant['Build instructions/comments'])) + '</pre>')
-    
+
     if variant['Misc. comments']:
       f.write("<h2>Misc. comments</h2>\n")
       f.write("<pre>" + re.sub('>','&gt;',re.sub('<','&lt;',variant['Misc. comments']))+"</pre>")
-	
+
     f.write("</div>")
 
 def genChartNoTest(f,variant,tabid):
@@ -102,11 +102,11 @@ def genChartNoTest(f,variant,tabid):
 
     if not(variant['Code available (boolean)']) and variant['If code not available, pseudo-code available (boolean)']:
       f.write('<span class="family">Some pseudocodes are available in the paper. Could the content be trivially implemented using the given pseudo-code? (1..5)</span>: '+ str(variant['If pseudo-code, could the paper be trivially implemented? {0..4}']) + '\n')
-    
+
     if variant['Misc. comments']:
       f.write("<h2>Misc. comments</h2>\n")
       f.write("<pre>" + re.sub('>','&gt;',re.sub('<','&lt;',variant['Misc. comments']))+"</pre>")
-	
+
     f.write("</div>")
 
 
@@ -490,7 +490,7 @@ def dumpTableHeader(findex):
   findex.write('<th>Pseudocode only</th>')
   findex.write('<th>Pseudocode score</th>')
   findex.write('<th>Doc. score</th>')
-  findex.write('<th>Altmetric score</th>')
+  findex.write('<th>Altmetric Attention Score</th>')
   findex.write('</tr></thead>\n<tbody>')
 
 def dumpTableFooter(findex,topicsGlobal, data):
@@ -879,7 +879,7 @@ def write_index_step2(findex, data):
                 <img height="100px" src="images/logo_cnrs.png"/>   &nbsp;&nbsp;&nbsp;  <img height="100px" src="images/logo_liris.png"/> &nbsp;&nbsp;&nbsp; <img height="100px"  src="images/logo_irit.png"/>
                 <br><br>
                 <h3>Acknowledgments</h3>
-                This work was funded in part by ANR-16-CE23-0009 (ROOT), ANR-16-CE33-0026 (CAL- iTrOp), ANR-15-CE40-0006 (CoMeDiC) and ANR-16-CE38-0009 (e- ROMA). We also thank <a href="http://altmetric.com">Altmetric</a> for providing us access to their Altmetric score.
+                This work was funded in part by ANR-16-CE23-0009 (ROOT), ANR-16-CE33-0026 (CAL- iTrOp), ANR-15-CE40-0006 (CoMeDiC) and ANR-16-CE38-0009 (e- ROMA). We also thank <a href="http://altmetric.com">Altmetric</a> for providing us access to their Altmetric Attention Score.
 
 
                 </div>
@@ -968,7 +968,7 @@ with open(sys.argv[1]) as json_file:
    with open("scripts/GRSI.dat") as fp:
     try:
        GRSI = fp.readlines()
-       
+
     except : # whatever reader errors you care about
        print("[ERROR] GRSI data file missing")
        sys.exit(42)
@@ -1064,7 +1064,7 @@ with open(sys.argv[1]) as json_file:
               fbrowse.write("<td>"+variant['Topic {Rendering, Animation and Simulation, Geometry, Images, Virtual Reality, Fabrication}']+"</td>")
               #Code avai
               fbrowse.write("<td>"+hasCode+"</td>")
-                  
+
               #Repl score
               rscore = variant['Replicate paper results score {0=NA, 1,2,3,4,5}']
               if ( rscore != ''):
