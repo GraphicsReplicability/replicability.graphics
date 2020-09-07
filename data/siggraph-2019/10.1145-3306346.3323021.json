@@ -45,7 +45,7 @@
         "git/hg/svn commit hash or revision number": "724d2dfd65481b1c8393dfc8347a0b206cfe5b13",
         "git/hg/svn commit hash or revision number URL2": "",
 
-        "Software Heritage permalink": "",
+        "Software Heritage permalink": "https://archive.softwareheritage.org/swh:1:rev:724d2dfd65481b1c8393dfc8347a0b206cfe5b13;origin=https://github.com/nbonneel/spot.git;visit=swh:1:snp:ca8fd86723587e5e782fcffc84e6f586f7f74412/",
        
 
         "If code not available, pseudo-code available (boolean)": false,
