@@ -44,7 +44,7 @@
         "git/hg/svn commit hash or revision number": "0d58124c589bed510acb83567674b8531e71a7e5",
         "git/hg/svn commit hash or revision number URL2": "",
 
-        "Software Heritage permalink": "pending",
+        "Software Heritage permalink": "https://archive.softwareheritage.org/swh:1:dir:d3ae12d6c77cb685467977d8ee11bb91c9ac6def;origin=https://github.com/wangbolun300/fast-envelope.git;visit=swh:1:snp:85ad1113ac16bdaf3d2dd727ae1ed7baa224647b;anchor=swh:1:rev:0d58124c589bed510acb83567674b8531e71a7e5;path=//",
        
 
         "If code not available, pseudo-code available (boolean)": false,
