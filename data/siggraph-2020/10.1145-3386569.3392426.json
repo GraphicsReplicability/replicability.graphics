@@ -89,7 +89,7 @@
 
         "Time spent for the test (code download to first successful run, [0,10], 10min slots, 100min max)": 3,
 
-        "Build instructions/comments": "When building the project, I got a first issue during the cmake when downloading the Eigen depency (wrong URL). This was easy to fix (just edit the cmake/FastEnvelopeDownloadExternal.cmake file and change the line 30 (GIT_TAG for libigl) to 21acee15fe4451e828b52bedcdba53b79d846376).\n\n The cmake is now ok but when building the project there is a missing file 'numerics.h' that is missing in the 'indirectPredicates' folder.",
+        "Build instructions/comments": "When building the project, I got a first issue during the cmake when downloading the Eigen depency (wrong URL). This was easy to fix (just edit the cmake/FastEnvelopeDownloadExternal.cmake file and change the line 30 (GIT_TAG for libigl) to 21acee15fe4451e828b52bedcdba53b79d846376).\n\n The cmake is now ok but when building the project there is a missing file 'numerics.h' in the 'indirectPredicates' folder.",
 
         "Misc. comments": "The github project refers to a specific website (https://archive.nyu.edu/handle/2451/61221) to download the meshes that have been used in the paper."
     }
