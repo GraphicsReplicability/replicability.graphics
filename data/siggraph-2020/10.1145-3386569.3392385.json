@@ -89,7 +89,7 @@
 
         "Time spent for the test (code download to first successful run, [0,10], 10min slots, 100min max)": 1,
 
-        "Build instructions/comments": "The build instructions are straightforward to follow and the authors provide all scripts to replicate all figures of the paper.",
+        "Build instructions/comments": "The build instructions are straightforward to follow (all dependencies are smoothly built at the cmake step). The authors also provide all scripts to replicate all figures of the paper.",
 
         "Misc. comments": ""
     }
