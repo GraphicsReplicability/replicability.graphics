@@ -92,6 +92,6 @@
 
         "Build instructions/comments": "Both required libraries (armadillo and NLopt) can be found via apt-get. In the CMakeLists, In had to change line 6 from find_package(nlopt REQUIRED) to find_package(NLopt REQUIRED). In file vipss/src/surfacer/ImplicitedSurfacing.cpp, I added #include <chrono>, and then the compilation went fine.",
 
-        "Misc. comments": "A script is provided to replicate the figures in the paper, however it complains that some input are missing (eg ../data/noise_kitten/kitten_h0.04/input.xyz). I got a \"core dump\" for all the examples I tested (using the command lines provided by the authors."
+        "Misc. comments": "A script is provided to replicate the figures in the paper, however it complains that some input are missing (eg ../data/noise_kitten/kitten_h0.04/input.xyz). I got a \"core dump\" for all the examples I tested (using the command lines provided by the authors)."
     }
 ]
