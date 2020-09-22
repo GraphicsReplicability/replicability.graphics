@@ -2,7 +2,7 @@
 
 [![SWH](https://archive.softwareheritage.org/badge/swh:1:dir:b530de7decc22e7ad7cf46fe650ae1919b4bf60b/)](https://archive.softwareheritage.org/swh:1:dir:b530de7decc22e7ad7cf46fe650ae1919b4bf60b/)
 
-Companion website  and data of the article:
+Companion website  and data of the [article](replicability.pdf):
 
      Code Replicability in Computer Graphics, Nicolas Bonneel, David
      Coeurjolly, Julie Digne, Nicolas Mellado, ACM Transactions on
@@ -30,7 +30,7 @@ More details: [https://replicability.graphics](https://replicability.graphics)
 
 ## Contributors
 
-* [Contributors](contributors.md)
+* [Contributors list](contributors.md)
 
 
 ![](website-source/images/banner.png)
