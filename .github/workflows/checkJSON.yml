@@ -64,7 +64,6 @@ jobs:
         reaction-type: 'rocket'
 
     - name: Forcing failure upon JSON errors
-      uses: peter-evans/create-or-update-comment@v1
       if: ${{ steps.checkJSON.outputs.result }} 
       run: exit 42
        
