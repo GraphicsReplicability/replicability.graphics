@@ -42,7 +42,6 @@ jobs:
            sudo apt-get install jsonlint
            jsonlint-php ${JSON_FILES}
            python3 scripts/checkJSONConsistency.py ${JSON_FILES}
-           echo "HOP"
            result=$(cat error.log)
            result="${result//'%'/'%25'}"
            result="${result//$'\n'/'%0A'}"
@@ -52,7 +51,7 @@ jobs:
 
     - name: Add comment on PR
       uses: peter-evans/create-or-update-comment@v1
-      if: ${{ steps.checkJSON.outputs.result }} and ${{ failure() }}
+      if: ${{ steps.checkJSON.outputs.result }} 
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         issue-number: ${{ github.event.pull_request.number }}
@@ -63,4 +62,9 @@ jobs:
           ${{ steps.checkJSON.outputs.result }}
           ```
         reaction-type: 'rocket'
+
+    - name: Forcing failure upon JSON errors
+      uses: peter-evans/create-or-update-comment@v1
+      if: ${{ steps.checkJSON.outputs.result }} 
+      run: exit 42
        
