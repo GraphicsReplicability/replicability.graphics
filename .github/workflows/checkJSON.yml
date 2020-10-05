@@ -51,7 +51,7 @@ jobs:
 
     - name: Add comment on PR
       uses: peter-evans/create-or-update-comment@v1
-      if: ${{ steps.checkJSON.outputs.result }}
+      if: ${{ steps.checkJSON.outputs.result }} 
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         issue-number: ${{ github.event.pull_request.number }}
@@ -62,3 +62,8 @@ jobs:
           ${{ steps.checkJSON.outputs.result }}
           ```
         reaction-type: 'rocket'
+
+    - name: Forcing failure upon JSON errors
+      if: ${{ steps.checkJSON.outputs.result }} 
+      run: exit 42
+       
