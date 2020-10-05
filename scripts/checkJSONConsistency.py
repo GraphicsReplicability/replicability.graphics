@@ -4,7 +4,7 @@ import csv,os,sys, json,re,codecs,datetime
 ###########################
 
 def eprint(*args, **kwargs):
-    print(*args, file=sys.stderr, **kwargs)
+    print(*args, file=sys.stdout, **kwargs)
 
     
 def check(text):
