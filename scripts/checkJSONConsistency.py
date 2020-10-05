@@ -4,7 +4,7 @@ import csv,os,sys, json,re,codecs,datetime
 ###########################
 
 def eprint(*args, **kwargs):
-    print(*args, file=sys.stdout, **kwargs)
+    print(*args, file=sys.stderr, **kwargs)
 
     
 def check(text):
@@ -127,4 +127,4 @@ for i in range(1, len(sys.argv)):
   
   if os.stat("error.log").st_size != 0:
     eprint("Error detected, check error.log file")
-    os._exit(42)
+##    os._exit(42)
