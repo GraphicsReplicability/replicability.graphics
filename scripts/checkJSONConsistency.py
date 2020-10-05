@@ -123,6 +123,7 @@ fout.close()
 for i in range(1, len(sys.argv)):
   eprint(" ======= Checking the content of the JSON " + sys.argv[i])
   checkJSON(sys.argv[i])
+  fout.close()
   
   if os.stat("error.log").st_size != 0:
     eprint("Error detected, check error.log file")
