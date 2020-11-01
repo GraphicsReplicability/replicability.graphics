@@ -7,7 +7,7 @@
         
         "Is variant deprecated (boolean)": false,
 
-        "Operating system for the test": "mcOS",
+        "Operating system for the test": "macOS",
         
         "Title": "Discrete differential operators on polygonal meshes",
 
