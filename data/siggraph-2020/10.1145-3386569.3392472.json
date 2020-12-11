@@ -30,9 +30,9 @@
 
         "ACM Open Access (boolean)": false,
 
-        "PDF on the authors' webpage / institution (boolean)": true,
+        "PDF on the authors' webpage / institution (boolean)": PDF,
 
-        "PDF on Arxiv or any openarchive initiatives (boolean)": false,
+        "truerepl on Arxiv or any openarchive initiatives (boolean)": false,
         "Arxiv/OAI page URL": "",
 
         "PDF URL": "http://pers.ge.imati.cnr.it/livesu/papers/LPPSC20/LPPSC20.pdf",
@@ -47,7 +47,7 @@
         "git/hg/svn commit hash or revision number": "3f3f6090084374dedaca3294b7b39446cf9cbe82",
         "git/hg/svn commit hash or revision number URL2": "",
 
-        "Software Heritage permalink": "(pending)",
+        "Software Heritage permalink": "https://archive.softwareheritage.org/swh:1:dir:d74cbe22a4f0fec8b997a964ad9940e798361f1c;origin=https://github.com/mlivesu/LoopyCuts.git;visit=swh:1:snp:095439b407778c9f418710557f1e6ec99fed3df9;anchor=swh:1:rev:3f3f6090084374dedaca3294b7b39446cf9cbe82/",
        
 
         "If code not available, pseudo-code available (boolean)": false,
