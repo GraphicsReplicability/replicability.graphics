@@ -30,9 +30,9 @@
 
         "ACM Open Access (boolean)": false,
 
-        "PDF on the authors' webpage / institution (boolean)": PDF,
+        "PDF on the authors' webpage / institution (boolean)": true,
 
-        "truerepl on Arxiv or any openarchive initiatives (boolean)": false,
+        "PDF on Arxiv or any openarchive initiatives (boolean)": false,
         "Arxiv/OAI page URL": "",
 
         "PDF URL": "http://pers.ge.imati.cnr.it/livesu/papers/LPPSC20/LPPSC20.pdf",
