@@ -30,7 +30,7 @@
 
         "ACM Open Access (boolean)": false,
 
-        "PDF on the authors' webpage / institution (boolean)": yes,
+        "PDF on the authors' webpage / institution (boolean)": true,
 
         "PDF on Arxiv or any openarchive initiatives (boolean)": false,
         "Arxiv/OAI page URL": "",
