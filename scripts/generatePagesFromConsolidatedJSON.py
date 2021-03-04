@@ -578,8 +578,13 @@ def getAltmetric(pathPages,doiclean):
     fout=codecs.open('tmp.json', "w+","UTF-8")
     fout.write(line)
     fout.close()
-    tmp=open("tmp.json")
-    altmdata = json.load(tmp)
+    try:
+        tmp=open("tmp.json")
+        altmdata = json.load(tmp)
+    except:
+        print("Issue while loading "+doiclean)
+        print(tmp)
+        raise
     return [altmdata[0]["score"], altmdata[0]["images"]["small"], altmdata[0]["details_url"]]
  return [-1,"xx","xx"]
 
