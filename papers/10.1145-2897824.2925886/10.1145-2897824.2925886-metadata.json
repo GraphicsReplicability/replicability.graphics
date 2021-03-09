@@ -1,0 +1,380 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T02:11:26Z",
+            "timestamp": 1585966286690
+        },
+        "reference-count": 32,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100002428",
+                "name": "Austrian Science Fund",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "FWF P27972-N31"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925886",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 22,
+        "title": [
+            "Non-linear shape optimization using local subspace projections"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Przemyslaw",
+                "family": "Musialski",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "TU Wien"
+                    }
+                ]
+            },
+            {
+                "given": "Christian",
+                "family": "Hafner",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "TU Wien"
+                    }
+                ]
+            },
+            {
+                "given": "Florian",
+                "family": "Rist",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "TU Wien"
+                    }
+                ]
+            },
+            {
+                "given": "Michael",
+                "family": "Birsak",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "TU Wien"
+                    }
+                ]
+            },
+            {
+                "given": "Michael",
+                "family": "Wimmer",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "TU Wien"
+                    }
+                ]
+            },
+            {
+                "given": "Leif",
+                "family": "Kobbelt",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "RWTH Aachen"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/2185520.2185543",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/2601097.2601157",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "unstructured": "Bathe K.-J. 2006. Finite Element Procedures. Prentice Hall.  Bathe K.-J. 2006. Finite Element Procedures. Prentice Hall."
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/2816795.2818108",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/1778765.1778800",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1111/j.1467-8659.2005.00886.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "unstructured": "Delfour M. C. and Zol\u00e9sio J. P. 2011. Shapes and Geometries: Metrics Analysis Differential Calculus and Optimization Second Edition. Advances in Design and Control. Society for Industrial and Applied Mathematics (SIAM 3600 Market Street Floor 6 Philadelphia PA 19104).   Delfour M. C. and Zol\u00e9sio J. P. 2011. Shapes and Geometries: Metrics Analysis Differential Calculus and Optimization Second Edition . Advances in Design and Control. Society for Industrial and Applied Mathematics (SIAM 3600 Market Street Floor 6 Philadelphia PA 19104).",
+                "DOI": "10.1137/1.9780898719826",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "Eberly D. H. 2010. Game physics 2. edition ed. Morgan Kaufmann Burlington Mass.  Eberly D. H. 2010. Game physics 2. edition ed. Morgan Kaufmann Burlington Mass.",
+                "DOI": "10.1201/b18213",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1016/j.cageo.2010.11.005",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/2787626.2787644",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1137/090780882",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "unstructured": "Kuipers L. and Niederreiter H. 2012. Uniform Distribution of Sequences. Dover Books on Mathematics. Dover Publications.  Kuipers L. and Niederreiter H. 2012. Uniform Distribution of Sequences . Dover Books on Mathematics. Dover Publications."
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/2601097.2601168",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Mises R. V. 1986. The mechanics of solids in the plastically-deformable state.  Mises R. V. 1986. The mechanics of solids in the plastically-deformable state."
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/2766955",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "Nocedal J. and Wright S. 2006. Numerical Optimization. Springer Series in Operations Research and Financial Engineering. Springer New York.  Nocedal J. and Wright S. 2006. Numerical Optimization. Springer Series in Operations Research and Financial Engineering. Springer New York."
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/2766937",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/2766998",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/2461912.2461957",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/2766926",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/2461912.2461979",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/2601097.2601166",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/2185520.2185544",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1111/j.1467-8659.2012.03178.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "author": "Umetani N.",
+                "volume-title": "Proceedings of the Conference on New Interfaces for Musical Expression (NIME)."
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/2010324.1964985",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/2185520.2185582",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1111/j.1467-8659.2008.01122.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "Wang L. and Whiting E. 2016. Buoyancy Optimization for Computational Fabrication. Computer Graphics Forum (Proceedings of Eurographics 2016) 35 2.  Wang L. and Whiting E. 2016. Buoyancy Optimization for Computational Fabrication. Computer Graphics Forum (Proceedings of Eurographics 2016) 35 2.",
+                "DOI": "10.1111/cgf.12810",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/2508363.2508382",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/2461912.2461967",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/2366145.2366146",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925886&amp;ftid=1755837&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:43:37Z",
+            "timestamp": 1585964617000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 32,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925886"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925886",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

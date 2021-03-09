@@ -1,0 +1,333 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:41:10Z",
+            "timestamp": 1586004070598
+        },
+        "reference-count": 29,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601171",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-8",
+        "source": "Crossref",
+        "is-referenced-by-count": 11,
+        "title": [
+            "Smoke rings from smoke"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Steffen",
+                "family": "Wei\u00dfmann",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "TU Berlin"
+                    }
+                ]
+            },
+            {
+                "given": "Ulrich",
+                "family": "Pinkall",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "TU Berlin"
+                    }
+                ]
+            },
+            {
+                "given": "Peter",
+                "family": "Schr\u00f6der",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Caltech"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/1073368.1073380",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1073/pnas.0604159103",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "first-page": "2",
+                "article-title": "Vortex Filament Simulation of the Turbulent Coflowing",
+                "volume": "21",
+                "author": "Bernard P. S.",
+                "year": "2009",
+                "journal-title": "Jet. Phys. Fluids"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.5555/2421731.2421746",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1016/j.cma.2007.11.016",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1016/0021-9991(90)90001-H",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1006/jcph.1993.1120",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1137/090757502",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/2504435.2504442",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "Desbrun M. Kanso E. and \n      \n      \n      Tong Y\n      \n  \n  . \n  2008\n  . Discrete Differential Forms for Computational Modeling. In Discrete Differential Geometry A. I. Bobenko P. Schr\u00f6der J. M. Sullivan and G. M. Ziegler Eds. Vol. \n  38\n   of \n  Oberwolfach Seminars\n  . \n  Birkh\u00e4user Verlag 287--324.  Desbrun M. Kanso E. and Tong Y. 2008. Discrete Differential Forms for Computational Modeling. In Discrete Differential Geometry A. I. Bobenko P. Schr\u00f6der J. M. Sullivan and G. M. Ziegler Eds. Vol. 38 of Oberwolfach Seminars . Birkh\u00e4user Verlag 287--324.",
+                "DOI": "10.1007/978-3-7643-8621-4_16",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/2366145.2366167",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1103/PhysRevB.58.7816",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "first-page": "12",
+                "article-title": "Manifestly Gauge Invariant Discretizations of the Schr\u00f6dinger",
+                "volume": "376",
+                "author": "Halvorsen T. G.",
+                "year": "2012",
+                "journal-title": "Operator. Phys. Lett. A"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Jiang M. Machiraju R. and Thompson D. 2005. Detection and Visualization of Vortices. In The Visualization Handbook C. D. Hansen and C. R. Johnson Eds. Elsevier 295--309.  Jiang M. Machiraju R. and Thompson D. 2005. Detection and Visualization of Vortices. In The Visualization Handbook C. D. Hansen and C. R. Johnson Eds. Elsevier 295--309.",
+                "DOI": "10.1016/B978-012387582-2/50016-2",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/1618452.1618466",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1038/nphys2560",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/2461912.2462005",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1017/jfm.2011.340",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/2487228.2487235",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/2185520.2185608",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1002/nla.1680010405",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "unstructured": "Side Effects Software Inc. 2013. Houdini#8482; FX.  Side Effects Software Inc. 2013. Houdini #8482; FX."
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/1731022.1731031",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1016/j.jcp.2008.05.022",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1007/s00348-009-0745-z",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/1778765.1778852",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "unstructured": "Wikipedia 2014. Hamiltonian (quantum mechanics) --- Wikipedia The Free Encyclopedia.  Wikipedia 2014. Hamiltonian (quantum mechanics) --- Wikipedia The Free Encyclopedia."
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "unstructured": "Wikipedia 2014. Winding Number --- Wikipedia The Free Encyclopedia.  Wikipedia 2014. Winding Number --- Wikipedia The Free Encyclopedia."
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1103/PhysRevD.10.2445",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601171&amp;ftid=1488949&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:58:57Z",
+            "timestamp": 1586001537000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 29,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601171"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601171",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

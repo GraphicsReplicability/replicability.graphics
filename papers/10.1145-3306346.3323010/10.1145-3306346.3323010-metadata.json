@@ -1,0 +1,416 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2020-07-12T20:10:15Z",
+            "timestamp": 1594584615269
+        },
+        "reference-count": 40,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2019,
+                            7,
+                            12
+                        ]
+                    ],
+                    "date-time": "2019-07-12T00:00:00Z",
+                    "timestamp": 1562889600000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "name": "FOLD-Dyn project",
+                "award": [
+                    "ANR-16-CE33-0015"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "DOI": "10.1145/3306346.3323010",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2019-07-12T19:04:08Z",
+            "timestamp": 1562958248000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+            "Implicit untangling"
+        ],
+        "prefix": "10.1145",
+        "volume": "38",
+        "author": [
+            {
+                "given": "Thomas",
+                "family": "Buffet",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Inria Rh\u00f4nes-Alpes, France"
+                    }
+                ]
+            },
+            {
+                "given": "Damien",
+                "family": "Rohmer",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Ecole Polytechnique, IP Paris, France"
+                    }
+                ]
+            },
+            {
+                "given": "Lo\u00efc",
+                "family": "Barthe",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Toulouse, France"
+                    }
+                ]
+            },
+            {
+                "given": "Laurence",
+                "family": "Boissieux",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Inria Rh\u00f4nes-Alpes, France"
+                    }
+                ]
+            },
+            {
+                "given": "Marie-Paule",
+                "family": "Cani",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Ecole Polytechnique, IP Paris, France"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/2366145.2366170",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "Baptiste Angles Marco Tarini Brian Wyvill Lo\u00efc Barthe and Andrea Tagliasacchi. 2017. Sketch-based Implicit Blending. ACM Trans. Graph. (2017). 10.1145/3130800.3130825   Baptiste Angles Marco Tarini Brian Wyvill Lo\u00efc Barthe and Andrea Tagliasacchi. 2017. Sketch-based Implicit Blending. ACM Trans. Graph. (2017). 10.1145/3130800.3130825"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/882262.882357",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "author": "Barthe L.",
+                "volume-title": "Proc. of CSG Conference Series. 17--31"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/357306.357310",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "unstructured": "Jules Bloomenthal (Ed.). 1997. Introduction to Implicit Surfaces. Morgan Kaufmann.   Jules Bloomenthal (Ed.). 1997. Introduction to Implicit Surfaces. Morgan Kaufmann."
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/566654.566623",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "Marie-Paule Cani. 1993. An implicit formulation for precise contact modeling between flexible solids. In ACM SIGGRAPH. 313--320. 10.1145/166117.166157   Marie-Paule Cani. 1993. An implicit formulation for precise contact modeling between flexible solids. In ACM SIGGRAPH. 313--320. 10.1145/166117.166157"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/2461912.2461941",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1016/j.cag.2009.04.007",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "Charbel Fares and Ar Hamam. 2005. Collision detection for rigid bodies: A state of the art review. In GraphiCon.  Charbel Fares and Ar Hamam. 2005. Collision detection for rigid bodies: A state of the art review. In GraphiCon."
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/2451236.2451238",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/2185520.2185531",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/1360612.1360622",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "unstructured": "P.-C. Hsu. 2018. K-ary Implicit Blends with Increasing or Decreasing Blend Ranges for Level Blend Surfaces. Journal of Advances in Information Technology (2018).  P.-C. Hsu. 2018. K-ary Implicit Blends with Increasing or Decreasing Blend Ranges for Level Blend Surfaces. Journal of Advances in Information Technology (2018).",
+                "DOI": "10.12720/jait.9.2.25-32",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1111/1467-8659.00670",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "Armin Iske. 2002. Scattered Data Modelling Using Radial Basis Functions. Tutorials on Multiresolution in Geometric Modelling. Mathematics and Visualization (2002).  Armin Iske. 2002. Scattered Data Modelling Using Radial Basis Functions. Tutorials on Multiresolution in Geometric Modelling. Mathematics and Visualization (2002).",
+                "DOI": "10.1007/978-3-662-04388-2",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/2821592.2821615",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1111/j.1467-8659.2010.01785.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/2766907",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1007/BF02464333",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "unstructured": "A. Ricci. 1973. Constructive Geometry for Computer Graphics. Computer journal 16 2 (1973).  A. Ricci. 1973. Constructive Geometry for Computer Graphics. Computer journal 16 2 (1973).",
+                "DOI": "10.1093/comjnl/16.2.157",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/1882261.1866183",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1109/TVCG.2008.79",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "author": "Solem J. E.",
+                "volume": "2",
+                "volume-title": "Proceedings of the 2004 IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 2004. CVPR 2004."
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "author": "Sorkine Olga",
+                "year": "2007",
+                "volume-title": "Proc. Symposium on Geometry Processing."
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.5555/3059107.3059125",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/2185520.2185603",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "author": "Tang Min",
+                "year": "2016",
+                "volume-title": "Proc. Eurographics 35"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/3272127.3275005",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "unstructured": "M. Teschner S. Kimmerle Gabriel Zachmann B. Heidelberger Laks Raghupathi A. Fuhrmann Marie-Paule Cani Fran\u00e7ois Faure N. Magnenat-Thalmann and W. Strasser. 2004. Collision Detection for Deformable Objects. In Eurographics 2004 State-of-the-Art Report. Eurographics Association 119--135.  M. Teschner S. Kimmerle Gabriel Zachmann B. Heidelberger Laks Raghupathi A. Fuhrmann Marie-Paule Cani Fran\u00e7ois Faure N. Magnenat-Thalmann and W. Strasser. 2004. Collision Detection for Deformable Objects. In Eurographics 2004 State-of-the-Art Report. Eurographics Association 119--135."
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/2461912.2461960",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/2661229.2661264",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1145/1179352.1142007",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "unstructured": "Holger Wendland. 2005. Scattered Data Approximation Cambridge University Press.  Holger Wendland. 2005. Scattered Data Approximation Cambridge University Press.",
+                "DOI": "10.1017/CBO9780511617539",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "unstructured": "Audrey Wong David Eberle and Theodore Kim. 2018. Clean Cloth Inputs: Removing Character Self-intersections with Volume Simulation. In ACM SIGGRAPH Talks. 10.1145/3214745.3214786   Audrey Wong David Eberle and Theodore Kim. 2018. Clean Cloth Inputs: Removing Character Self-intersections with Volume Simulation. In ACM SIGGRAPH Talks. 10.1145/3214745.3214786",
+                "DOI": "10.1145/3214745.3214786",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "unstructured": "Juntao Ye Guanghui Ma Liguo Jiang Lan Chen Jituo Li Gang Xiong Xiaopeng Zhang and Min Tang. 2017. A Unified Cloth Untangling Framework Through Discrete Collision Detection. Computer Graphics Forum 36 7 (2017).  Juntao Ye Guanghui Ma Liguo Jiang Lan Chen Jituo Li Gang Xiong Xiaopeng Zhang and Min Tang. 2017. A Unified Cloth Untangling Framework Through Discrete Collision Detection. Computer Graphics Forum 36 7 (2017).",
+                "DOI": "10.1111/cgf.13287",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1109/BigMM.2015.22",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "author": "Ye Juntao",
+                "year": "2012",
+                "volume-title": "The Intersection Contour Minimization Method for Untangling Oriented Deformable Surfaces. In Symposium on Computer Animation."
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1016/j.cag.2014.09.012",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3323010&ftid=2071667&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2020-07-12T19:28:00Z",
+            "timestamp": 1594582080000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "a robust solution for modeling layered clothing"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "references-count": 40,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        12
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3306346.3323010"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3306346.3323010",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

@@ -1,0 +1,315 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:29Z",
+            "timestamp": 1585962689434
+        },
+        "reference-count": 31,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201289",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-15",
+        "source": "Crossref",
+        "is-referenced-by-count": 5,
+        "title": [
+            "Efficient rendering of layered materials using an atomic decomposition with statistical operators"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Laurent",
+                "family": "Belcour",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Unity Technologies, FRANCE"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/2629490",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/3072959.3073620",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "first-page": "1",
+                "article-title": "Physically-based shading at disney",
+                "volume": "2012",
+                "author": "Burley Brent",
+                "year": "2012",
+                "journal-title": "Physically Based Shading in Theory and Practice - SIGGRAPH Courses"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "author": "Dai Qiang",
+                "year": "1917",
+                "volume-title": "Computer Graphics Forum"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/1944745.1944764",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/1073204.1073308",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/237170.237278",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "Michal Drobot. 2017. Practical Multilayered Materials in Call of Duty: Infinite Warfare. In Physically Based Shading Theory Practice - SIGGRAPH Courses.  Michal Drobot. 2017. Practical Multilayered Materials in Call of Duty: Infinite Warfare. In Physically Based Shading Theory Practice - SIGGRAPH Courses."
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/1186822.1073320",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "author": "Elek Oskar",
+                "volume-title": "14th Central European Seminar on Computer Graphics. 27."
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1111/1467-8659.00515",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1098/rspa.1969.0187",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "first-page": "1",
+                "article-title": "Rendering Thin Transparent Layers with Extended Normal Distribution Functions",
+                "volume": "99",
+                "author": "Guo Jie",
+                "year": "2016",
+                "journal-title": "IEEE Transactions on Visualization and Computer Graphics PP"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "author": "Heitz Eric",
+                "volume-title": "Computer Graphics Forum"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/2897824.2925943",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "Christophe Hery Ryusuke Villemin and Junyi Ling. 2017. Pixar's Foundation for Materials. In Physically Based Shading in Theory and Practice - SIGGRAPH Courses. 10.1145/3084873.3084893   Christophe Hery Ryusuke Villemin and Junyi Ling. 2017. Pixar's Foundation for Materials. In Physically Based Shading in Theory and Practice - SIGGRAPH Courses. 10.1145/3084873.3084893"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/2601097.2601139",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "author": "Jensen Henrik Wann",
+                "volume-title": "Rendering Techniques' 99"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "unstructured": "Brian Karis. 2013. Real Shading in Unreal Engine 4. In Physically Based Shading in Theory and Practice - SIGGRAPH Courses.  Brian Karis. 2013. Real Shading in Unreal Engine 4. In Physically Based Shading in Theory and Practice - SIGGRAPH Courses."
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "Christopher Kulla and Alejandro Conty. 2017. Revisiting Physically Based Shading at Imageworks. In SIGGRAPH Course Physically Based Shading.  Christopher Kulla and Alejandro Conty. 2017. Revisiting Physically Based Shading at Imageworks. In SIGGRAPH Course Physically Based Shading."
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "Sebastien Lagarde and Charles De Rousiers. 2014. Moving Frostbite to PBR. In Physically Based Shading Theory Practice - SIGGRAPH Courses.  Sebastien Lagarde and Charles De Rousiers. 2014. Moving Frostbite to PBR. In Physically Based Shading Theory Practice - SIGGRAPH Courses."
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "unstructured": "Anders Langlands. 2014. Physically Based Shader Design in Arnold. In Physically Based Shading in Theory and Practice - SIGGRAPH Courses.  Anders Langlands. 2014. Physically Based Shader Design in Arnold. In Physically Based Shading in Theory and Practice - SIGGRAPH Courses."
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/2077341.2077350",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "Matt Pharr and Greg Humphreys. 2010. Physically Based Rendering Second Edition: From Theory To Implementation (2nd ed.). Morgan Kaufmann Publishers Inc.   Matt Pharr and Greg Humphreys. 2010. Physically Based Rendering Second Edition: From Theory To Implementation (2nd ed.). Morgan Kaufmann Publishers Inc."
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "author": "Ribardi\u00e8re Mickael",
+                "year": "2017",
+                "volume-title": "STD: Student's t-Distribution of Slopes for Microfacet Based BSDFs. In Computer Graphics Forum"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "unstructured": "K. F. Riley M. P. Hobson and S. J. Bence. 2010. Mathematical methods in physics and engineering (3rd ed.). Cambridge University Press.  K. F. Riley M. P. Hobson and S. J. Bence. 2010. Mathematical methods in physics and engineering (3rd ed.). Cambridge University Press."
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "author": "Stam Jos",
+                "year": "2001",
+                "volume-title": "Rendering Techniques"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "unstructured": "H. C. van de Hulst. 1980. Multiple Light Scattering. Vol. 1. Academic Press New York.  H. C. van de Hulst. 1980. Multiple Light Scattering. Vol. 1. Academic Press New York."
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "Eric Veach. 1998. Robust monte carlo methods for light transport simulation. Stanford University Stanford.  Eric Veach. 1998. Robust monte carlo methods for light transport simulation. Stanford University Stanford."
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "unstructured": "Bruce Walter Stephen Marschner Hongsong Li and Kenneth Torrance. 2007. Microfacet Models for Refraction through Rough Surfaces. Rendering Techniques (2007) 195-- 206.   Bruce Walter Stephen Marschner Hongsong Li and Kenneth Torrance. 2007. Microfacet Models for Refraction through Rough Surfaces. Rendering Techniques (2007) 195-- 206."
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "unstructured": "Andrea Weidlich and Alexander Wilkie. 2007. Arbitrarily Layered Micro-facet Surfaces. In ACM GRAPHITE. 171--178. 10.1145/1321261.1321292   Andrea Weidlich and Alexander Wilkie. 2007. Arbitrarily Layered Micro-facet Surfaces. In ACM GRAPHITE. 171--178. 10.1145/1321261.1321292"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201289&ftid=1991648&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:54:12Z",
+            "timestamp": 1585961652000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 31,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201289"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201289",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

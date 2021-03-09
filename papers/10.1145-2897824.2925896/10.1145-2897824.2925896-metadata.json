@@ -1,0 +1,441 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T02:11:27Z",
+            "timestamp": 1585966287271
+        },
+        "reference-count": 43,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100000038",
+                "name": "Natural Sciences and Engineering Research Council of Canada",
+                "doi-asserted-by": "crossref",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925896",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 27,
+        "title": [
+            "Physics-driven pattern adjustment for direct 3D garment editing"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Aric",
+                "family": "Bartle",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Alla",
+                "family": "Sheffer",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of British Columbia"
+                    }
+                ]
+            },
+            {
+                "given": "Vladimir G.",
+                "family": "Kim",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe Research"
+                    }
+                ]
+            },
+            {
+                "given": "Danny M.",
+                "family": "Kaufman",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe Research"
+                    }
+                ]
+            },
+            {
+                "given": "Nicholas",
+                "family": "Vining",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of British Columbia"
+                    }
+                ]
+            },
+            {
+                "given": "Floraine",
+                "family": "Berthouzoz",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe Research"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "Assembil. 2013. How Patterns Work: The Fundamental Principles of Pattern Making and Sewing in Fashion Design. Assembil Books.  Assembil. 2013. How Patterns Work: The Fundamental Principles of Pattern Making and Sewing in Fashion Design. Assembil Books."
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/2461912.2461975",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "unstructured": "Bertsekas D. P. 1999. Nonlinear Programming. Athena Scientific.  Bertsekas D. P. 1999. Nonlinear Programming. Athena Scientific."
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "Botsch M. Kobbelt L. Pauly M. Alliez P. and Levy B. 2010. Polygon Mesh Processing. AK Peters.  Botsch M. Kobbelt L. Pauly M. Alliez P. and Levy B. 2010. Polygon Mesh Processing . AK Peters.",
+                "DOI": "10.1201/b10688",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "author": "Bridson R.",
+                "volume-title": "Proc. Symp. on Computer Animation, 28--36"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "unstructured": "Brouet R. Sheffer A. Boissieux L. and Cani M.-P. 2012. Design Preserving Garment Transfer. SIGGRAPH. 10.1145/2185520.2185532   Brouet R. Sheffer A. Boissieux L. and Cani M.-P. 2012. Design Preserving Garment Transfer. SIGGRAPH. 10.1145/2185520.2185532"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "unstructured": "Brown P. K. and Rice J. 2001. Ready-to-wear apparel analysis. Prentice Hall.  Brown P. K. and Rice J. 2001. Ready-to-wear apparel analysis . Prentice Hall."
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/2601097.2601189",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "author": "Cignoni P.",
+                "year": "1998",
+                "volume-title": "Metro: Measuring Error on Simplified Surfaces. Comp. Graph. Forum."
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1109/MCG.2003.1159612",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "author": "Decaudin P.",
+                "volume": "25",
+                "volume-title": "CGF"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/1882261.1866159",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/2508363.2508398",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "first-page": "6",
+                "article-title": "Clothassembler: a cad module for feature-based garment pattern assembly",
+                "volume": "2",
+                "author": "Fontana M.",
+                "year": "2005",
+                "journal-title": "CAD & Applications"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/1015706.1015775",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "Furuta Y. Umetani N. Mitani J. Igarashi T. and Fukui Y. 2010. A Film Balloon Design System Integrated with Shell Element Simulation. In Eurographics 2010.  Furuta Y. Umetani N. Mitani J. Igarashi T. and Fukui Y. 2010. A Film Balloon Design System Integrated with Shell Element Simulation. In Eurographics 2010."
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/2070781.2024171",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "unstructured": "Hu J. 2004. Structure and Mechanics of Woven Fabrics. Woodhead Publishing Series in Textiles. Elsevier Science.  Hu J. 2004. Structure and Mechanics of Woven Fabrics . Woodhead Publishing Series in Textiles. Elsevier Science.",
+                "DOI": "10.1201/9781439823484",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "unstructured": "Kraevoy V. Sheffer A. Cohen-Or D. and Shamir A. 2008. Non-homogeneous resizing of complex models. In ACM Trans. Graphics. 10.1145/1409060.1409064   Kraevoy V. Sheffer A. Cohen-Or D. and Shamir A. 2008. Non-homogeneous resizing of complex models. In ACM Trans. Graphics. 10.1145/1409060.1409064",
+                "DOI": "10.1145/1457515.1409064",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1109/TVCG.2015.2446472",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1016/j.cad.2013.12.005",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.5555/1731309.1731336",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "Meng Y. Wang C. C. and Jin X. 2012. Flexible shape control for automatic resizing of apparel products. CAD. 10.1016/j.cad.2010.11.008   Meng Y. Wang C. C. and Jin X. 2012. Flexible shape control for automatic resizing of apparel products. CAD . 10.1016/j.cad.2010.11.008"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/1276377.1276433",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1016/j.jvcir.2007.01.005",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/2366145.2366171",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/2461912.2462010",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1016/j.cag.2011.03.002",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "Schittkowski K. 2002. Numerical Data Fitting in Dynamical Systems: A Practical Introduction with Applications and Software. No. v. 1 in Applied Optimization. Springer.   Schittkowski K. 2002. Numerical Data Fitting in Dynamical Systems: A Practical Introduction with Applications and Software . No. v. 1 in Applied Optimization. Springer.",
+                "DOI": "10.1007/978-1-4419-5762-7_1",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/1061347.1061354",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "unstructured": "Shin H. V. Porst C. F. Vouga E. Ochsendorf J. and Durand F. 2016. Reconciling elastic and equilibrium methods for static analysis. ACM Transactions on Graphics To Appear. 10.1145/2835173   Shin H. V. Porst C. F. Vouga E. Ochsendorf J. and Durand F. 2016. Reconciling elastic and equilibrium methods for static analysis. ACM Transactions on Graphics To Appear. 10.1145/2835173",
+                "DOI": "10.1145/2835173",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/2601097.2601166",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "author": "Sorkine O.",
+                "volume-title": "Proc. Symposium on Geometry Processing."
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/1882261.1866161",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1109/MCG.2007.1",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1145/2019406.2019437",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/2010324.1964985",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "unstructured": "Volino P. Cordier F. and Magnenat-thalmann N. 2005. From early virtual garment simulation to interactive fashion design. CAD 37. 10.1016/j.cad.2004.09.003   Volino P. Cordier F. and Magnenat-thalmann N. 2005. From early virtual garment simulation to interactive fashion design. CAD 37. 10.1016/j.cad.2004.09.003",
+                "DOI": "10.1016/j.cad.2004.09.003",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "unstructured": "Wang C. C. Wang Y. and Yuen M. M. 2003. Feature based 3d garment design through 2d sketches. CAD.  Wang C. C. Wang Y. and Yuen M. M. 2003. Feature based 3d garment design through 2d sketches. CAD .",
+                "DOI": "10.1016/S0010-4485(02)00091-X",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "unstructured": "Wang C. C. L. Wang Y. and Yuen M. M. F. 2005. Design automation for customized apparel products. CAD 37. 10.1016/j.cad.2004.08.007   Wang C. C. L. Wang Y. and Yuen M. M. F. 2005. Design automation for customized apparel products. CAD 37. 10.1016/j.cad.2004.08.007"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "unstructured": "Yumer M. E. Chaudhuri S. Hodgins J. K. and Kara L. B. 2015. Semantic shape editing using deformation handles. ACM Trans. Graphics 34. 10.1145/2766908   Yumer M. E. Chaudhuri S. Hodgins J. K. and Kara L. B. 2015. Semantic shape editing using deformation handles. ACM Trans. Graphics 34. 10.1145/2766908",
+                "DOI": "10.1145/2766908",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "author": "Zeng S.",
+                "volume": "437",
+                "volume-title": "IGTA"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "unstructured": "Zol\u00e9sio J. S.-J. 1992. Introduction to Shape Optimization: Shape Sensitivity Analysis. Springer.  Zol\u00e9sio J. S.-J. 1992. Introduction to Shape Optimization: Shape Sensitivity Analysis . Springer."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925896&amp;ftid=1755887&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:40:58Z",
+            "timestamp": 1585964458000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 43,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925896"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925896",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

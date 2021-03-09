@@ -1,0 +1,467 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T02:11:27Z",
+            "timestamp": 1585966287383
+        },
+        "reference-count": 56,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100001602",
+                "name": "Science Foundation Ireland",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "10/CE/i853"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925968",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-18",
+        "source": "Crossref",
+        "is-referenced-by-count": 50,
+        "title": [
+            "Painting style transfer for head portraits using convolutional neural networks"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Ahmed",
+                "family": "Selim",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Trinity College Dublin"
+                    }
+                ]
+            },
+            {
+                "given": "Mohamed",
+                "family": "Elgharib",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Qatar Computing Research Institute, HBKU"
+                    }
+                ]
+            },
+            {
+                "given": "Linda",
+                "family": "Doyle",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Trinity College Dublin"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/364338.364405",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1109/MCG.2003.1210863",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "unstructured": "Bae S. Paris S. and Durand F. 2006. Two-scale tone management for photographic look. In ACM SIGGRAPH 637--645. 10.1145/1179352.1141935   Bae S. Paris S. and Durand F. 2006. Two-scale tone management for photographic look. In ACM SIGGRAPH 637--645. 10.1145/1179352.1141935",
+                "DOI": "10.1145/1141911.1141935",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1016/0031-3203(93)90045-X",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/142920.134003",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "author": "Chen H.",
+                "volume-title": "International Conference on Computer Vision, 433--438"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "author": "Chen H.",
+                "year": "2002",
+                "volume-title": "Asian Conference on Computer Vision."
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "Chen H. Zheng N. Liang L. Li Y. Xu Y.-Q. and Shum H.-Y. 2002. Pictoon: a personalized image-based cartoon system. In ACM Multimedia 171--178. 10.1145/641007.641040   Chen H. Zheng N. Liang L. Li Y. Xu Y.-Q. and Shum H.-Y. 2002. Pictoon: a personalized image-based cartoon system. In ACM Multimedia 171--178. 10.1145/641007.641040"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/987657.987673",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "Collomosse J. and Hall P. 2002. Painterly rendering using image salience. In Eurographics 122--128.   Collomosse J. and Hall P. 2002. Painterly rendering using image salience. In Eurographics 122--128."
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "Collomosse J. and Hall P. 2005. Genetic paint: A search for salient paintings. In EvoMUSART 437--447. 10.1007/978-3-540-32003-6_44   Collomosse J. and Hall P. 2005. Genetic paint: A search for salient paintings. In EvoMUSART 437--447. 10.1007/978-3-540-32003-6_44",
+                "DOI": "10.1007/978-3-540-32003-6_44",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1006/cviu.1995.1004",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "Cootes T. F. Edwards G. J. and Taylor C. J. 1998. Active appearance models. In IEEE Transactions on Pattern Analysis and Machine Intelligence Springer 484--498.   Cootes T. F. Edwards G. J. and Taylor C. J. 1998. Active appearance models. In IEEE Transactions on Pattern Analysis and Machine Intelligence Springer 484--498."
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "DiPaola S. 2007. Painterly rendered portraits from photographs using a knowledge-based approach. In SPIE: Human Vision and Imaging.  DiPaola S. 2007. Painterly rendered portraits from photographs using a knowledge-based approach. In SPIE: Human Vision and Imaging.",
+                "DOI": "10.1117/12.706594",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "unstructured": "Efros A. A. and Freeman W. T. 2001. Image quilting for texture synthesis and transfer. In ACM SIGGRAPH 341--346. 10.1145/383259.383296   Efros A. A. and Freeman W. T. 2001. Image quilting for texture synthesis and transfer. In ACM SIGGRAPH 341--346. 10.1145/383259.383296"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "author": "Efros A.",
+                "volume-title": "International Conference on Computer Vision, 1033--1038"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "Gatys L. A. Ecker A. S. and Bethge M. 2015. A neural algorithm of artistic style. CoRR abs/1508.06576.  Gatys L. A. Ecker A. S. and Bethge M. 2015. A neural algorithm of artistic style. CoRR abs/1508.06576."
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/508530.508545",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/966131.966133",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/97880.97902",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "Hashimoto R. Johan H. and Nishita T. 2003. Creating various styles of animations using example-based filtering. In Computer Graphics International 312--317.  Hashimoto R. Johan H. and Nishita T. 2003. Creating various styles of animations using example-based filtering. In Computer Graphics International 312--317."
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/987657.987676",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "Hertzmann A. Jacobs C. E. Oliver N. Curless B. and Salesin D. H. 2001. Image analogies. In SIGGRAPH 327--340. 10.1145/383259.383295   Hertzmann A. Jacobs C. E. Oliver N. Curless B. and Salesin D. H. 2001. Image analogies. In SIGGRAPH 327--340. 10.1145/383259.383295"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "Hertzmann A. 1998. Painterly rendering with curved brush strokes of multiple sizes. In SIGGRAPH 453--460. 10.1145/280814.280951   Hertzmann A. 1998. Painterly rendering with curved brush strokes of multiple sizes. In SIGGRAPH 453--460. 10.1145/280814.280951"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "unstructured": "Hertzmann A. 2001. Paint by relaxation. In Computer Graphics International 47--54.   Hertzmann A. 2001. Paint by relaxation. In Computer Graphics International 47--54."
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "unstructured": "Johnson J. 2015. Torch implementation of neural style algorithm. https://github.com/jcjohnson/neural-style.  Johnson J. 2015. Torch implementation of neural style algorithm. https://github.com/jcjohnson/neural-style."
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/1572614.1572622",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "unstructured": "Krizhevsky A. Sutskever I. and Hinton G. E. 2012. Imagenet classification with deep convolutional neural networks. In Advances in Neural Information Processing Systems 1097--1105.  Krizhevsky A. Sutskever I. and Hinton G. E. 2012. Imagenet classification with deep convolutional neural networks. In Advances in Neural Information Processing Systems 1097--1105."
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1109/TVCG.2012.160",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/1809939.1809945",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1109/TPAMI.2007.1177",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/1073204.1073271",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "unstructured": "Lin L. 2010. Painterly animation using video semantics and feature correspondence. In NPAR 73--80. 10.1145/1809939.1809948   Lin L. 2010. Painterly animation using video semantics and feature correspondence. In NPAR 73--80. 10.1145/1809939.1809948",
+                "DOI": "10.1145/1809939.1809948",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "unstructured": "Litwinowicz P. 1997. Processing images and video for an impressionist effect. In SIGGRAH Computer Graphics and Interactive Techniques 407--414. 10.1145/258734.258893   Litwinowicz P. 1997. Processing images and video for an impressionist effect. In SIGGRAH Computer Graphics and Interactive Techniques 407--414. 10.1145/258734.258893"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1007/978-3-540-88690-7_3",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.5555/850924.851523",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/1730804.1730825",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "unstructured": "Mahendran A. and Vedaldi A. 2015. Understanding deep image representations by inverting them. In Computer Vision and Pattern Recognition (CVPR) 5188--5196.  Mahendran A. and Vedaldi A. 2015. Understanding deep image representations by inverting them. In Computer Vision and Pattern Recognition (CVPR) 5188--5196.",
+                "DOI": "10.1109/CVPR.2015.7299155",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1016/j.tics.2006.11.002",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "unstructured": "Meier B. J. 1996. Painterly rendering for animation. In Computer Graphics and Interactive Techniques 477--484. 10.1145/237170.237288   Meier B. J. 1996. Painterly rendering for animation. In Computer Graphics and Interactive Techniques 477--484. 10.1145/237170.237288"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1145/1873951.1874116",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1109/TVCG.2011.51",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1109/ICCV.2005.166",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1109/38.946629",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "author": "Saragih J. M.",
+                "volume-title": "International Conference of Computer Vision, 1034--1041"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "unstructured": "Shih Y. Paris S. Barnes C. Freeman W. T. and Durand F. 2014. Style transfer for headshot portraits. SIGGRAPH 33 4 148:1--148:14. 10.1145/2601097.2601137   Shih Y. Paris S. Barnes C. Freeman W. T. and Durand F. 2014. Style transfer for headshot portraits. SIGGRAPH 33 4 148:1--148:14. 10.1145/2601097.2601137",
+                "DOI": "10.1145/2601097.2601137",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "unstructured": "Simonyan K. and Zisserman A. 2014. Very deep convolutional networks for large-scale image recognition. CoRR abs/1409.1556.  Simonyan K. and Zisserman A. 2014. Very deep convolutional networks for large-scale image recognition. CoRR abs/1409.1556."
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "DOI": "10.1109/JPROC.2006.884093",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "author": "Su S. L.",
+                "volume-title": "International Workshop on Texture Analysis and Synthesis in conjunction with ICCV'05"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "DOI": "10.1109/CVPR.2014.220",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "DOI": "10.1109/TPAMI.2008.222",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "DOI": "10.1109/TVCG.2004.1272726",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "DOI": "10.1145/1809939.1809955",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "first-page": "1",
+                "article-title": "Learnable stroke models for example-based portrait painting",
+                "volume": "36",
+                "author": "Wang T.",
+                "year": "2013",
+                "journal-title": "British Machine Vision Conference"
+            },
+            {
+                "key": "e_1_2_2_55_1",
+                "DOI": "10.1145/1640443.1640445",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_56_1",
+                "unstructured": "Zhao M. and Zhu S.-C. 2011. Portrait painting using active templates. In Non-Photorealistic Animation and Rendering (NPAR) 117--124. 10.1145/2024676.2024696   Zhao M. and Zhu S.-C. 2011. Portrait painting using active templates. In Non-Photorealistic Animation and Rendering (NPAR) 117--124. 10.1145/2024676.2024696"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925968&amp;ftid=1755848&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:32:34Z",
+            "timestamp": 1585963954000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 56,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925968"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925968",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

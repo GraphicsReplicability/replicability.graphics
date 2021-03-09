@@ -1,0 +1,497 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:54Z",
+            "timestamp": 1585962714753
+        },
+        "reference-count": 53,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "name": "French program Investissement d'Avenir",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201308",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-15",
+        "source": "Crossref",
+        "is-referenced-by-count": 3,
+        "title": [
+            "An implicit frictional contact solver for adaptive cloth simulation"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Jie",
+                "family": "Li",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of Minnesota"
+                    }
+                ]
+            },
+            {
+                "given": "Gilles",
+                "family": "Daviet",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Univ. Grenoble Alpes, Inria, France and Weta Digital, New Zealand"
+                    }
+                ]
+            },
+            {
+                "given": "Rahul",
+                "family": "Narain",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Minnesota and Indian Institute of Technology Delhi, India"
+                    }
+                ]
+            },
+            {
+                "given": "Florence",
+                "family": "Bertails-Descoubes",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Univ. Grenoble Alpes, Inria, France"
+                    }
+                ]
+            },
+            {
+                "given": "Matthew",
+                "family": "Overby",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Minnesota"
+                    }
+                ]
+            },
+            {
+                "given": "George E.",
+                "family": "Brown",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Minnesota"
+                    }
+                ]
+            },
+            {
+                "given": "Laurence",
+                "family": "Boissieux",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Univ. Grenoble Alpes, Inria, France"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "author": "Acary V.",
+                "volume": "35",
+                "volume-title": "Lecture Notes in Computational and Applied Mechanics"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/2185520.2185598",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1007/s00371-003-0220-4",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1111/cgf.12852",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/74333.74356",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/122718.122722",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/192161.192168",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/280814.280821",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/882262.882357",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/2897824.2925896",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "G. Bingham. 2012. Efficient Three Dimensional Modelling of Additive Manufactured Textile Structures.  G. Bingham. 2012. Efficient Three Dimensional Modelling of Additive Manufactured Textile Structures."
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1007/s11044-016-9527-6",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "author": "Bossen F.",
+                "volume-title": "Proc. 5th International Meshing Roundtable. 63--76"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/566654.566623",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "author": "Bridson R.",
+                "volume-title": "Proceedings of the 2003 ACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA '03)"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1137/080737617",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "F. Cadoux. 2009. M\u00e9thodes d'optimisation pour la dynamique non-r\u00e9guli\u00e8re. Ph.D. Dissertation. Universit\u00e9 Joseph Fourier.  F. Cadoux. 2009. M\u00e9thodes d'optimisation pour la dynamique non-r\u00e9guli\u00e8re. Ph.D. Dissertation. Universit\u00e9 Joseph Fourier."
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "unstructured": "R. Casati G. Daviet and F. Bertails-Descoubes. 2016. Inverse elastic cloth design with contact and friction. Research Report. Inria Grenoble Rh\u00f4ne-Alpes Universit\u00e9 de Grenoble. https://hal.archives-ouvertes.fr/hal-01309617  R. Casati G. Daviet and F. Bertails-Descoubes. 2016. Inverse elastic cloth design with contact and friction. Research Report. Inria Grenoble Rh\u00f4ne-Alpes Universit\u00e9 de Grenoble. https://hal.archives-ouvertes.fr/hal-01309617"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/2661229.2661279",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/2766986",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "R. Cottle J.-S. Pang and R. Stone. 2009. Numerical methods for nonsmooth dynamical systems. Siam.  R. Cottle J.-S. Pang and R. Stone. 2009. Numerical methods for nonsmooth dynamical systems. Siam."
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "author": "Cundall P.",
+                "volume": "1",
+                "year": "1971",
+                "volume-title": "Proceedings of the Symposium of the International Society of Rock Mechanics. In Proceedings of the Symposium of the International Society of Rock Mechanics"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "G. Daviet. 2016. Modeling and simulating complex materials subject to frictional contact: Application to fibrous and granular media. Ph.D. Dissertation. Universit\u00e9 Grenoble Alpes. https://tel.archives-ouvertes.fr/tel-01684673  G. Daviet. 2016. Modeling and simulating complex materials subject to frictional contact: Application to fibrous and granular media. Ph.D. Dissertation. Universit\u00e9 Grenoble Alpes. https://tel.archives-ouvertes.fr/tel-01684673"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/2070781.2024173",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/2786784.2795139",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1016/S0895-7177(98)00119-8",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/1360612.1360665",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "author": "Erickson Z.",
+                "volume-title": "2017 IEEE International Conference on Robotics and Automation (ICRA). 6058--6065"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "M. Fukushima Z.-Q. Luo and P. Tseng. 2002. Smoothing Functions for Second-Order-Cone Complementarity Problems. SIAM J. on Optimization 12 (February 2002) 436--460. Issue 2. 10.1137/S1052623400380365   M. Fukushima Z.-Q. Luo and P. Tseng. 2002. Smoothing Functions for Second-Order-Cone Complementarity Problems. SIAM J. on Optimization 12 (February 2002) 436--460. Issue 2. 10.1137/S1052623400380365",
+                "DOI": "10.1137/S1052623400380365",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/1275808.1276438",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "author": "Grinspun E.",
+                "volume-title": "Discrete Shells. In ACM SIGGRAPH - EG Symposium on Computer Animation (SCA '03)"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/1531326.1531393",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/1360612.1360622",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "unstructured": "M. Inoue. 2011. Surface Friction Properties of Fabrics and Human Skin in New Tribological Ways. In Croatia: InTech. 265--272. http://cdn.intechweb.org/pdfs/15598.pdf  M. Inoue. 2011. Surface Friction Properties of Fabrics and Human Skin in New Tribological Ways. In Croatia: InTech. 265--272. http://cdn.intechweb.org/pdfs/15598.pdf",
+                "DOI": "10.5772/14712",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1016/S0045-7825(98)00383-1",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1145/3072959.3073623",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/1073204.1073295",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1145/1409060.1409117",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "unstructured": "A. Klarbring. 1987. Contact Problems with Friction by Linear Complementarity. Unilateral Problems in Structural Analysis - 2 (1987) 197--219.  A. Klarbring. 1987. Contact Problems with Friction by Linear Complementarity. Unilateral Problems in Structural Analysis - 2 (1987) 197--219.",
+                "DOI": "10.1007/978-3-7091-2967-8_11",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1145/2897824.2925944",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.5555/2318896.2318912",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1145/54852.378528",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "first-page": "1",
+                "article-title": "Unilateral contact and dry friction in finite freedom dynamics. Nonsmooth mechanics and applications",
+                "volume": "302",
+                "author": "Moreau J.-J.",
+                "year": "1988",
+                "journal-title": "CISM Courses Lect."
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1145/2461912.2462010",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1145/2366145.2366171",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1111/j.1467-8659.2009.01396.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "DOI": "10.1145/1599470.1599490",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "author": "Provot X.",
+                "volume-title": "Computer Animation and Simulation '97, Daniel Thalmann and Michiel van de Panne (Eds.)"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "DOI": "10.1145/2766971",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "DOI": "10.1002/(SICI)1097-0207(19960815)39:15<2673::AID-NME972>3.0.CO;2-I",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "DOI": "10.1111/j.1467-8659.2009.01397.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "DOI": "10.1145/1141911.1142007",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "DOI": "10.1145/2010324.1964966",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201308&ftid=1991582&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:49:55Z",
+            "timestamp": 1585961395000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 53,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201308"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201308",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

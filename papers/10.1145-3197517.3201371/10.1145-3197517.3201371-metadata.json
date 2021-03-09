@@ -1,0 +1,424 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:54Z",
+            "timestamp": 1585962714301
+        },
+        "reference-count": 52,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201371",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 3,
+        "title": [
+            "Visual rhythm and beat"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Abe",
+                "family": "Davis",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Maneesh",
+                "family": "Agrawala",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "Jiamin Bai Aseem Agarwala Maneesh Agrawala and Ravi Ramamoorthi. 2012. Selectively De-Animating Video. ACM Transactions on Graphics (2012). http://graphics.berkeley.edu/papers/Bai-SDV-2012-08/ 10.1145/2185520.2185562   Jiamin Bai Aseem Agarwala Maneesh Agrawala and Ravi Ramamoorthi. 2012. Selectively De-Animating Video. ACM Transactions on Graphics (2012). http://graphics.berkeley.edu/papers/Bai-SDV-2012-08/ 10.1145/2185520.2185562"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "Jean Charles Bazin and Alexander Sorkine-Hornung. 2016. ActionSnapping: Motion-Based Video Synchronization. In ECCV.  Jean Charles Bazin and Alexander Sorkine-Hornung. 2016. ActionSnapping: Motion-Based Video Synchronization. In ECCV."
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/2185520.2185563",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "Sebastian B\u00f6ck and Gerhard Widmer. 2013. Maximum Filter Vibrato Suppression for Onset Detection.  Sebastian B\u00f6ck and Gerhard Widmer. 2013. Maximum Filter Vibrato Suppression for Onset Detection."
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.2307/1410948",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.3366/drs.2011.0021",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "unstructured": "Kevin Burg and Jamie Beck. 2012. Cinemagraphs. (2012). http://cinemagraphs.com/  Kevin Burg and Jamie Beck. 2012. Cinemagraphs. (2012). http://cinemagraphs.com/"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "author": "Chion M.",
+                "year": "1994",
+                "volume-title": "Audio-vision: Sound on Screen"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/1073204.1073273",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "Hyun chul Lee and In kwon Lee. 2005. Automatic Synchronization of Background Music and Motion. In in Computer Animation \u00e2\u0102\u0130 in Computer Graphics Forum Volume 24 Issue 3 (2005. 353--362.  Hyun chul Lee and In kwon Lee. 2005. Automatic Synchronization of Background Music and Motion. In in Computer Animation \u00e2\u0102\u0130 in Computer Graphics Forum Volume 24 Issue 3 (2005. 353--362.",
+                "DOI": "10.1111/j.1467-8659.2005.00860.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.3389/fnins.2016.00229",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "unstructured": "H. Cowell and D. Nicholls. 1996. New Musical Resources. Cambridge University Press. https://books.google.com/books?id=BeLDXA-7TdAC  H. Cowell and D. Nicholls. 1996. New Musical Resources. Cambridge University Press. https://books.google.com/books?id=BeLDXA-7TdAC",
+                "DOI": "10.1017/CBO9780511597329",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1109/TPAMI.2016.2622271",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "author": "Davis Abe",
+                "volume-title": "Visual Vibrometry: Estimating Material Properties From Small Motion in Video. The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)."
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/2816795.2818095",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/2601097.2601119",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "author": "Dixon Simon",
+                "year": "2006",
+                "volume-title": "In Proceedings of the 9th international conference on digital audio effects. 133--137"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "author": "Dyaberi V.",
+                "volume-title": "2006 Fortieth Asilomar Conference on Signals, Systems and Computers. 59--63"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1080/09298210701653344",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "Masataka Goto. 2002. An Audio-based Real-time Beat Tracking System for Music With or Without Drum-sounds. 30 (09 2002).  Masataka Goto. 2002. An Audio-based Real-time Beat Tracking System for Music With or Without Drum-sounds. 30 (09 2002)."
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "author": "Grosche P.",
+                "volume-title": "2010 IEEE International Conference on Acoustics, Speech and Signal Processing. 5522--5525"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1002/asi.23618",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1109/ICCV.2009.5459462",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/882262.882283",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/2601097.2601178",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/3072959.3073653",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "unstructured": "Alexander Lerch. 2012. An Introduction to Audio Content Analysis: Applications in Signal Processing and Music Informatics (1st ed.). Wiley-IEEE Press.   Alexander Lerch. 2012. An Introduction to Audio Content Analysis: Applications in Signal Processing and Music Informatics (1st ed.). Wiley-IEEE Press.",
+                "DOI": "10.1002/9781118393550",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/2766966",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.5555/1661445.1661774",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "unstructured": "LumBeat. 2013. 60 BPM Metronome. (Feb 2013). https://www.youtube.com/watch?v=gsJEMH_emBM  LumBeat. 2013. 60 BPM Metronome. (Feb 2013). https://www.youtube.com/watch?v=gsJEMH_emBM"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "unstructured": "Brian McFee Matt McVicar Oriol Nieto Stefan Balke Carl Thome Dawen Liang Eric Battenberg Josh Moore Rachel Bittner Ryuichi Yamamoto Dan Ellis Fabian-Robert Stoter Douglas Repetto Simon Waloschek CJ Carr Seth Kranzler Keunwoo Choi Petr Viktorin Joao Felipe Santos Adrian Holovaty Waldir Pimenta and Hojin Lee. 2017. librosa 0.5.0. (Feb. 2017).  Brian McFee Matt McVicar Oriol Nieto Stefan Balke Carl Thome Dawen Liang Eric Battenberg Josh Moore Rachel Bittner Ryuichi Yamamoto Dan Ellis Fabian-Robert Stoter Douglas Repetto Simon Waloschek CJ Carr Seth Kranzler Keunwoo Choi Petr Viktorin Joao Felipe Santos Adrian Holovaty Waldir Pimenta and Hojin Lee. 2017. librosa 0.5.0. (Feb. 2017)."
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "unstructured": "Brian McFee Colin Raffel Dawen Liang Daniel P. W. Ellis Matt McVicar Eric Battenberg and Oriol Nieto. 2015. librosa: Audio and Music Signal Analysis in Python.  Brian McFee Colin Raffel Dawen Liang Daniel P. W. Ellis Matt McVicar Eric Battenberg and Oriol Nieto. 2015. librosa: Audio and Music Signal Analysis in Python.",
+                "DOI": "10.25080/Majora-7b98e3ed-003",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "unstructured": "K. McPherson. 2006. Making Video Dance: A Step-by-step Guide to Creating Dance for the Screen. Routledge. https://books.google.com/books?id=b3hVewAACAAJ  K. McPherson. 2006. Making Video Dance: A Step-by-step Guide to Creating Dance for the Screen. Routledge. https://books.google.com/books?id=b3hVewAACAAJ"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "unstructured": "Trista P. Chen Ching-Wei Chen Phillip Popp and Bob Coover. 2011. Visual Rhythm Detection and Its Applications in Interactive Multimedia. 18 (01 2011) 88--95. 10.1109/MMUL.2011.19   Trista P. Chen Ching-Wei Chen Phillip Popp and Bob Coover. 2011. Visual Rhythm Detection and Its Applications in Interactive Multimedia. 18 (01 2011) 88--95. 10.1109/MMUL.2011.19"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "unstructured": "Aniruddh D. Patel and Steven M. Demorest. 2013. 16 - Comparative Music Cognition: Cross-Species and Cross-Cultural Studies. In The Psychology of Music (Third Edition) (third edition ed.) Diana Deutsch (Ed.). Academic Press 647 -- 681.  Aniruddh D. Patel and Steven M. Demorest. 2013. 16 - Comparative Music Cognition: Cross-Species and Cross-Cultural Studies. In The Psychology of Music (Third Edition) (third edition ed.) Diana Deutsch (Ed.). Academic Press 647 -- 681.",
+                "DOI": "10.1016/B978-0-12-381460-9.00016-X",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "unstructured": "Aniruddh D. Patel John R. Iversen Micah R. Bregman and Irena Schulz {n. d.}. Experimental Evidence for Synchronization to a Musical Beat in a Nonhuman Animal. Current Biology 19 10 (2017/11/14 {n. d.}) 827--830.  Aniruddh D. Patel John R. Iversen Micah R. Bregman and Irena Schulz {n. d.}. Experimental Evidence for Synchronization to a Musical Beat in a Nonhuman Animal. Current Biology 19 10 (2017/11/14 {n. d.}) 827--830.",
+                "DOI": "10.1016/j.cub.2009.03.038",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1109/CVPR.2014.262",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1109/TPAMI.2008.29",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.3758/s13423-012-0371-2",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1145/344779.345012",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.4324/9780203472903",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "unstructured": "Ubisoft. 2013. Just Dance Kids 2 I Am A Gummy Bear. (May 2013). https://www.youtube.com/watch?v=ITbZosS4dX3g  Ubisoft. 2013. Just Dance Kids 2 I Am A Gummy Bear. (May 2013). https://www.youtube.com/watch?v=ITbZosS4dX3g"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "unstructured": "C. Vernallis. 2004. Experiencing Music Video: Aesthetics and Cultural Context. Columbia University Press. https://books.google.com/books?id=DjDIw2pxjiMC  C. Vernallis. 2004. Experiencing Music Video: Aesthetics and Cultural Context. Columbia University Press. https://books.google.com/books?id=DjDIw2pxjiMC"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1145/1141911.1142010",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1145/2601097.2601208",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1109/CISP.2008.721",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "DOI": "10.1145/1179622.1179626",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "DOI": "10.1145/218380.218422",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "unstructured": "WSJDigitalNetwork. 2012. Best Moments of First Obama/Romney Debate. (Oct 2012). https://www.youtube.com/watch?v=QQC0nz0t9F4  WSJDigitalNetwork. 2012. Best Moments of First Obama/Romney Debate. (Oct 2012). https://www.youtube.com/watch?v=QQC0nz0t9F4"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "unstructured": "YouTube:shubhgupta91. 2015. Turtle dancing at Satisfaction HD. (May 2015). https://www.youtube.com/watch?v=YE6_WbI0YLk  YouTube:shubhgupta91. 2015. Turtle dancing at Satisfaction HD. (May 2015). https://www.youtube.com/watch?v=YE6_WbI0YLk"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "unstructured": "Jean yves Bouguet. 2000. Pyramidal implementation of the Lucas Kanade feature tracker. Intel Corporation Microprocessor Research Labs (2000).  Jean yves Bouguet. 2000. Pyramidal implementation of the Lucas Kanade feature tracker. Intel Corporation Microprocessor Research Labs (2000)."
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "unstructured": "Zumba with Layryn. 2014. \"Danza Kuduro\" Zumba Routine. (Jun 2014). https://www.youtube.com/watch?v=gH20VFWEMdM  Zumba with Layryn. 2014. \"Danza Kuduro\" Zumba Routine. (Jun 2014). https://www.youtube.com/watch?v=gH20VFWEMdM"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201371&ftid=1991684&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:39:19Z",
+            "timestamp": 1585960759000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 52,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201371"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201371",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

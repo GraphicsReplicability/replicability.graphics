@@ -1,0 +1,458 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T02:11:27Z",
+            "timestamp": 1585966287775
+        },
+        "reference-count": 46,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100000266",
+                "name": "Engineering and Physical Sciences Research Council",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "CAMERA (EP/M023281/1), OAK (EP/K023578/1, EP/K02339X/1)"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100000780",
+                "name": "European Commission",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "CR-PLAY (611089), DREAMSPACE (610005)"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925973",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-15",
+        "source": "Crossref",
+        "is-referenced-by-count": 13,
+        "title": [
+            "Roto++"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Wenbin",
+                "family": "Li",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University College London"
+                    }
+                ]
+            },
+            {
+                "given": "Fabio",
+                "family": "Viola",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "The Foundry"
+                    }
+                ]
+            },
+            {
+                "given": "Jonathan",
+                "family": "Starck",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "The Foundry"
+                    }
+                ]
+            },
+            {
+                "given": "Gabriel J.",
+                "family": "Brostow",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University College London"
+                    }
+                ]
+            },
+            {
+                "given": "Neill D. F.",
+                "family": "Campbell",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Bath"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "Agarwal S. Mierle K. and Others 2015. Ceres solver. http://ceres-solver.org.  Agarwal S. Mierle K. and Others 2015. Ceres solver. http://ceres-solver.org."
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/1015706.1015764",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "author": "Bai X.",
+                "volume-title": "IEEE Int. Conf. on Computer Vision (ICCV)."
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/1531326.1531376",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1023/B:VISI.0000011205.11775.fd",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "author": "Baumberg A. M.",
+                "volume-title": "IEEE Workshop on Motion of Nonrigid and Articulated Objects, 194--199"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "first-page": "943",
+                "article-title": "Real-time image-based tracking of planes using efficient second-order minimization",
+                "volume": "1",
+                "author": "Benhimane S.",
+                "year": "2004",
+                "journal-title": "IEEE/RSJ Int. Conf. on Intelligent Robots and Systems (IROS)"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "Blender Online Community. 2015. Blender - a 3D modelling and rendering package. Blender Foundation.  Blender Online Community. 2015. Blender - a 3D modelling and rendering package . Blender Foundation."
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1109/ICCV.2001.937505",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "author": "Bratt B.",
+                "year": "2011",
+                "volume-title": "Rotoscoping: Techniques and Tools for the Aspiring Artist"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/2601097.2601212",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/566654.566572",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1006/cviu.1995.1004",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/1857907.1857910",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1109/CVPR.2013.170",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "author": "Erofeev M.",
+                "volume-title": "British Machine Vision Conference (BMVC)."
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/2816795.2818105",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/1015706.1015755",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "author": "Grundmann M.",
+                "volume-title": "IEEE Int. Conf. on Computer Vision and Pattern Recognition (CVPR)."
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/882262.882264",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.5555/1046920.1194904",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1109/TIP.2015.2497141",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1109/TPAMI.2007.1177",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/1073204.1073234",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/2661229.2661273",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "first-page": "674",
+                "article-title": "An iterative image registration technique with an application to stereo vision",
+                "volume": "2",
+                "author": "Lucas B. D.",
+                "year": "1981",
+                "journal-title": "Int. Joint Conf. on AI"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/218380.218442",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1109/CVPR.2011.5995687",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "Rasmussen C. E. and Williams C. 2006. Gaussian Processes for Machine Learning. MIT Press.   Rasmussen C. E. and Williams C. 2006. Gaussian Processes for Machine Learning . MIT Press.",
+                "DOI": "10.7551/mitpress/3206.001.0001",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "author": "Rhemann C.",
+                "volume-title": "IEEE Int. Conf. on Computer Vision and Pattern Recognition (CVPR)."
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/1015706.1015720",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "author": "Rzeszutek R.",
+                "volume-title": "IEEE Int. Conf. on Multimedia and Expo (ICME), 1334--1337"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/2470654.2466148",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "unstructured": "SilhouetteFX. Silhouette 5.2 User Guide 2014.  SilhouetteFX. Silhouette 5.2 User Guide 2014 ."
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1145/237170.237263",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1145/2601097.2601202",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1111/cgf.12024",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "author": "Titsias M.",
+                "volume-title": "Proc. of 13th Int. Workshop on AI and Stats."
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "author": "Torresani L.",
+                "volume-title": "IEEE Int. Conf. on Computer Vision and Pattern Recognition (CVPR)."
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1109/TPAMI.2007.70752",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1007/s11263-011-0512-5",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1111/cgf.12665",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1561/0600000019",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1109/TMM.2011.2177078",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1145/1073204.1073233",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1145/1276377.1276389",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925973&amp;ftid=1755865&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:31:35Z",
+            "timestamp": 1585963895000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "accelerating professional rotoscoping using shape manifolds"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 46,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925973"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925973",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

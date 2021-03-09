@@ -1,0 +1,579 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:54Z",
+            "timestamp": 1585962714849
+        },
+        "reference-count": 71,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100001659",
+                "name": "Deutsche Forschungsgemeinschaft",
+                "doi-asserted-by": "publisher",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201335",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 20,
+        "title": [
+            "In the blink of an eye"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Eike",
+                "family": "Langbehn",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of Hamburg, Germany"
+                    }
+                ]
+            },
+            {
+                "given": "Frank",
+                "family": "Steinicke",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Hamburg, Germany"
+                    }
+                ]
+            },
+            {
+                "given": "Markus",
+                "family": "Lappe",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Muenster, Germany"
+                    }
+                ]
+            },
+            {
+                "given": "Gregory F.",
+                "family": "Welch",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Central Florida"
+                    }
+                ]
+            },
+            {
+                "given": "Gerd",
+                "family": "Bruder",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Central Florida"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "author": "Azmandian Mahdi",
+                "year": "2016",
+                "volume-title": "Automated Path Prediction for Redirected Walking Using Navigation Meshes. In IEEE Symposium on 3D User Interfaces (3DUI). 63--66"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "first-page": "273",
+                "article-title": "The Role of Iconic Memory in Change-Detection Tasks",
+                "volume": "29",
+                "author": "Becker Mark W.",
+                "year": "2000",
+                "journal-title": "Perception"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1109/TVCG.2015.2391851",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1016/0042-6989(75)90290-4",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1017/S0140525X00034361",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1016/j.cub.2005.06.025",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1109/TVCG.2012.55",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/2338676.2338699",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1016/j.displa.2012.10.007",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "Michael Collins Rhonda Seeto Louella Campbell and Murray Ross. 1989. Blinking and Corneal Sensitivity. Acta ophthalmologica 67 5 (1989) 525--531.  Michael Collins Rhonda Seeto Louella Campbell and Murray Ross. 1989. Blinking and Corneal Sensitivity. Acta ophthalmologica 67 5 (1989) 525--531.",
+                "DOI": "10.1111/j.1755-3768.1989.tb04103.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.3758/BF03204258",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1016/j.displa.2016.07.002",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.3758/BF03198590",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1097/00006324-200207000-00013",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1016/j.neucli.2004.01.002",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1007/BF00227203",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "first-page": "323",
+                "article-title": "Blinking and Associated Eye Movements in Humans, Guinea Pigs, and Rabbits",
+                "volume": "52",
+                "author": "Evinger Craig",
+                "year": "1984",
+                "journal-title": "Journal of Neuro-physiology"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "unstructured": "Janet Fitzakerley 2015. Eyelid Movements. http://www.d-umn.edu/~jfitzake/Lectures/DMED/Vision/Optics/Blinking.html. {Online; accessed 28-Feb-2017}.  Janet Fitzakerley 2015. Eyelid Movements. http://www.d-umn.edu/~jfitzake/Lectures/DMED/Vision/Optics/Blinking.html. {Online; accessed 28-Feb-2017}."
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "unstructured": "Anatoly M. Fonarev. 1961. A Vestibulo-Palpebral Reflex. Bulletin of Experimental Biology and Medicine 50 6 (01 Jun 1961) 1249--1251.  Anatoly M. Fonarev. 1961. A Vestibulo-Palpebral Reflex. Bulletin of Experimental Biology and Medicine 50 6 (01 Jun 1961) 1249--1251.",
+                "DOI": "10.1007/BF00785378",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/2931002.2931018",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1093/sleep/22.6.798",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1136/bjo.29.9.445",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "Eric Hodgson Eric Bachmann and Tyler Thrash. 2014. Performance of Redirected Walking Algorithms in a Constrained Virtual World. IEEE transactions on visualization and computer graphics (TVCG) 20 4 (2014) 579--587. 10.1109/TVCG.2014.34   Eric Hodgson Eric Bachmann and Tyler Thrash. 2014. Performance of Redirected Walking Algorithms in a Constrained Virtual World. IEEE transactions on visualization and computer graphics (TVCG) 20 4 (2014) 579--587. 10.1109/TVCG.2014.34"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "Victoria Ivleva. 2016. Redirected Walking in Virtual Reality during Eye Blinking. Master's thesis. University of Bremen.  Victoria Ivleva. 2016. Redirected Walking in Virtual Reality during Eye Blinking. Master's thesis. University of Bremen."
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.3758/APP.71.4.783",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1207/s15327108ijap0303_3",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "first-page": "1",
+                "article-title": "Picture Changes during Blinks: Looking Without Seeing and Seeing Without Looking",
+                "volume": "7",
+                "author": "O'Regan J. Kevin",
+                "year": "2000",
+                "journal-title": "Visual Cognition"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "unstructured": "Eike Langbehn Paul Lubos Gerd Bruder and Frank Steinicke. 2017. Bending the Curve: Sensitivity to Bending of Curved Paths and Application in Room-Scale VR. IEEE Transactions on Visualization and Computer Graphics (TVCG) (2017) 1389--1398. 10.1109/TVCG.2017.2657220   Eike Langbehn Paul Lubos Gerd Bruder and Frank Steinicke. 2017. Bending the Curve: Sensitivity to Bending of Curved Paths and Application in Room-Scale VR. IEEE Transactions on Visualization and Computer Graphics (TVCG) (2017) 1389--1398. 10.1109/TVCG.2017.2657220"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "Eike Langbehn and Frank Steinicke. 2018. Redirected Walking in Virtual Reality. Springer International Publishing.  Eike Langbehn and Frank Steinicke. 2018. Redirected Walking in Virtual Reality. Springer International Publishing.",
+                "DOI": "10.1007/978-3-319-08234-9_253-1",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/333329.333344",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "unstructured": "R. John Leigh and David S. Zee. 2006. The Neurology of Eye Movements edition 4 (contemporary neurology series).  R. John Leigh and David S. Zee. 2006. The Neurology of Eye Movements edition 4 (contemporary neurology series)."
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1016/S1053-8100(02)00020-X",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1080/135062800394865",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/2929464.2929482",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "author": "Mohler Betty J.",
+                "volume-title": "Proceedings of Eurographics Symposium on Virtual Environments. 85--88"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "unstructured": "Robert A. Moses. 1981. Adler's Physiology of the Eye. Mosby.  Robert A. Moses. 1981. Adler's Physiology of the Eye. Mosby."
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "author": "Nescher Thomas",
+                "year": "2014",
+                "volume-title": "Planning Redirection Techniques for Optimal Free Walking Experience Using Model Predictive Control. In IEEE Symposium on 3D User Interfaces (3DUI)."
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1109/TVCG.2011.275",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/2993369.2993405",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "unstructured": "Matthias Niemeier J. Douglas Crawford and Douglas B. Tweed. 2003. Optimal Transsaccadic Integration Explains Distorted Spatial Perception. Nature 422 6927 (2003) 76--80.  Matthias Niemeier J. Douglas Crawford and Douglas B. Tweed. 2003. Optimal Transsaccadic Integration Explains Distorted Spatial Perception. Nature 422 6927 (2003) 76--80."
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1109/MCG.2018.111125628",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1097/00006324-199111000-00010",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "unstructured": "Marjan Persuh Boris Genzer and Robert D. Melara. 2012. Iconic Memory Requires Attention. Frontiers in Human Neuroscience 6 (2012).  Marjan Persuh Boris Genzer and Robert D. Melara. 2012. Iconic Memory Requires Attention. Frontiers in Human Neuroscience 6 (2012)."
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "unstructured": "Daniel Ramot. 2008. Average Duration of a Single Eye Blink http://bionumbers.hms.harvard.edu/bionumber.aspx?s=y&id=100706&ver=0. &ver=0. &ver=0. {Online; accessed 28-Feb-2017}.  Daniel Ramot. 2008. Average Duration of a Single Eye Blink http://bionumbers.hms.harvard.edu/bionumber.aspx?s=y&id=100706&ver=0. &ver=0. &ver=0. {Online; accessed 28-Feb-2017}."
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "unstructured": "Sharif Razzaque. 2005. Redirected Walking. Ph.D. Dissertation. University of North Carolina Chapel Hill.   Sharif Razzaque. 2005. Redirected Walking. Ph.D. Dissertation. University of North Carolina Chapel Hill."
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "author": "Razzaque Sharif",
+                "year": "2001",
+                "volume-title": "Redirected Walking. In Proceedings of Eurographics. ACM, 289--294"
+            },
+            {
+                "issue": "2002",
+                "key": "e_1_2_2_47_1",
+                "first-page": "245",
+                "article-title": "Blink and You Miss It! http://www.ucl.ac.uk/media/library/blinking. {Online; accessed 28-Feb-2017}. Ronald A. Rensink. 2002",
+                "volume": "53",
+                "author": "Media Relations UCL",
+                "year": "2006",
+                "journal-title": "Change Detection. Annual Review of Psychology"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "DOI": "10.1080/135062800394720",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "DOI": "10.1111/j.1467-9280.1997.tb00427.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "DOI": "10.1145/3139131.3143421",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "DOI": "10.1111/j.1475-1313.2008.00577.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "DOI": "10.1016/S1364-6613(97)01080-2",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "DOI": "10.3758/BF03208840",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "DOI": "10.1145/1581073.1581091",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_55_1",
+                "DOI": "10.1109/VR.2010.5444790",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_56_1",
+                "DOI": "10.1109/TVCG.2011.41",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_57_1",
+                "DOI": "10.1109/TVCG.2009.62",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_58_1",
+                "unstructured": "Frank Steinicke Yon Visell Jennifer Campos and Anatole L\u00e9cuyer. 2013. Human Walking in Virtual Environments: Perception Technology and Applications. Springer Verlag.   Frank Steinicke Yon Visell Jennifer Campos and Anatole L\u00e9cuyer. 2013. Human Walking in Virtual Environments: Perception Technology and Applications. Springer Verlag.",
+                "DOI": "10.1007/978-1-4419-8432-6",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_59_1",
+                "DOI": "10.1145/2782782.2792496",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_60_1",
+                "DOI": "10.1109/VR.2012.6180877",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_61_1",
+                "DOI": "10.1109/VR.2010.5444752",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_62_1",
+                "DOI": "10.1109/TVCG.2012.47",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_63_1",
+                "DOI": "10.1145/3197517.3201294",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_64_1",
+                "DOI": "10.1145/2897824.2925883",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_65_1",
+                "DOI": "10.1523/JNEUROSCI.23-30-09897.2003",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_66_1",
+                "DOI": "10.1145/311535.311589",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_67_1",
+                "DOI": "10.1162/105474600566989",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_68_1",
+                "DOI": "10.1016/0042-6989(86)90164-1",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_69_1",
+                "unstructured": "Frances C. Volkmann Lorrin A. Riggs and Robert K. Moore. 1980. Eyeblinks and Visual Suppression. Science 207 4433 (1980) 900--902.  Frances C. Volkmann Lorrin A. Riggs and Robert K. Moore. 1980. Eyeblinks and Visual Suppression. Science 207 4433 (1980) 900--902."
+            },
+            {
+                "key": "e_1_2_2_70_1",
+                "DOI": "10.1080/135062800394757",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_71_1",
+                "DOI": "10.1101/lm.029975.112",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201335&ftid=1991749&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:50:51Z",
+            "timestamp": 1585961451000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "leveraging blink-induced suppression for imperceptible position and orientation redirection in virtual reality"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 71,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201335"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201335",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

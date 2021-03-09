@@ -1,0 +1,454 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T02:11:26Z",
+            "timestamp": 1585966286472
+        },
+        "reference-count": 48,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100000781",
+                "name": "European Research Council",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "CapReal 335545"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925907",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 21,
+        "title": [
+            "Live intrinsic video"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Abhimitra",
+                "family": "Meka",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Max Planck Institute for Informatics"
+                    }
+                ]
+            },
+            {
+                "given": "Michael",
+                "family": "Zollh\u00f6fer",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Max Planck Institute for Informatics"
+                    }
+                ]
+            },
+            {
+                "given": "Christian",
+                "family": "Richardt",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Max Planck Institute for Informatics and Intel Visual Computing Institute"
+                    }
+                ]
+            },
+            {
+                "given": "Christian",
+                "family": "Theobalt",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Max Planck Institute for Informatics"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "Barron J. T. and Malik J. 2013. Intrinsic scene properties from a single RGB-D image. In CVPR. 10.1109/CVPR.2013.10   Barron J. T. and Malik J. 2013. Intrinsic scene properties from a single RGB-D image. In CVPR . 10.1109/CVPR.2013.10",
+                "DOI": "10.1109/CVPR.2013.10",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1109/TPAMI.2014.2377712",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "author": "Barrow H. G.",
+                "year": "1978",
+                "volume-title": "Tech. Rep. 157"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "Bell M. and Freeman W. T. 2001. Learning local evidence for shading and reflection. In CVPR.  Bell M. and Freeman W. T. 2001. Learning local evidence for shading and reflection. In CVPR ."
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/2601097.2601206",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/2766946",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/2661229.2661253",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/2816795.2818107",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/1618452.1618476",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "Chang J. Cabezas R. and Fisher III J. W. 2014. Bayesian nonparametric intrinsic image decomposition. In ECCV.  Chang J. Cabezas R. and Fisher III J. W. 2014. Bayesian nonparametric intrinsic image decomposition. In ECCV .",
+                "DOI": "10.1007/978-3-319-10593-2_46",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "Chen Q. and Koltun V. 2013. A simple model for intrinsic image decomposition with depth cues. In ICCV. 10.1109/ICCV.2013.37   Chen Q. and Koltun V. 2013. A simple model for intrinsic image decomposition with depth cues. In ICCV . 10.1109/ICCV.2013.37",
+                "DOI": "10.1109/ICCV.2013.37",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/2756549",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1111/j.1467-8659.2012.03137.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Gehler P. V. Rother C. Kiefel M. Zhang L. and Sch\u00f6lkopf B. 2011. Recovering intrinsic images with a global sparsity prior on reflectance. In NIPS.  Gehler P. V. Rother C. Kiefel M. Zhang L. and Sch\u00f6lkopf B. 2011. Recovering intrinsic images with a global sparsity prior on reflectance. In NIPS ."
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "unstructured": "Grosse R. Johnson M. K. Adelson E. H. and Freeman W. T. 2009. Ground truth dataset and baseline evaluations for intrinsic image algorithms. In ICCV.  Grosse R. Johnson M. K. Adelson E. H. and Freeman W. T. 2009. Ground truth dataset and baseline evaluations for intrinsic image algorithms. In ICCV .",
+                "DOI": "10.1109/ICCV.2009.5459428",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "Hachama M. Ghanem B. and Wonka P. 2015. Intrinsic scene decomposition from RGB-D images. In ICCV. 10.1109/ICCV.2015.99   Hachama M. Ghanem B. and Wonka P. 2015. Intrinsic scene decomposition from RGB-D images. In ICCV . 10.1109/ICCV.2015.99",
+                "DOI": "10.1109/ICCV.2015.99",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "Hauagge D. Wehrwein S. Bala K. and Snavely N. 2013. Photometric ambient occlusion. In CVPR. 10.1109/CVPR.2013.325   Hauagge D. Wehrwein S. Bala K. and Snavely N. 2013. Photometric ambient occlusion. In CVPR . 10.1109/CVPR.2013.325",
+                "DOI": "10.1109/CVPR.2013.325",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "unstructured": "Holland P. W. and Welsch R. E. 1977. Robust regression using iteratively reweighted least-squares. Communications in Statistics -- Theory and Methods 6 9 (September) 813--827.  Holland P. W. and Welsch R. E. 1977. Robust regression using iteratively reweighted least-squares. Communications in Statistics -- Theory and Methods 6 9 (September) 813--827.",
+                "DOI": "10.1080/03610927708827533",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1016/0146-664X(74)90022-7",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "Jiang X. Schofield A. J. and Wyatt J. L. 2010. Correlation-based intrinsic image extraction from a single image. In ECCV.   Jiang X. Schofield A. J. and Wyatt J. L. 2010. Correlation-based intrinsic image extraction from a single image. In ECCV .",
+                "DOI": "10.1007/978-3-642-15561-1_5",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "Joshi N. Zitnick C. Szeliski R. and Kriegman D. 2009. Image deblurring and denoising using color priors. In CVPR.  Joshi N. Zitnick C. Szeliski R. and Kriegman D. 2009. Image deblurring and denoising using color priors. In CVPR .",
+                "DOI": "10.1109/CVPR.2009.5206802",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "unstructured": "Klein G. and Murray D. 2007. Parallel tracking and mapping for small AR workspaces. In ISMAR. 10.1109/ISMAR.2007.4538852   Klein G. and Murray D. 2007. Parallel tracking and mapping for small AR workspaces. In ISMAR . 10.1109/ISMAR.2007.4538852",
+                "DOI": "10.1109/ISMAR.2007.4538852",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "Kong N. Gehler P. V. and Black M. J. 2014. Intrinsic video. In ECCV.  Kong N. Gehler P. V. and Black M. J. 2014. Intrinsic video. In ECCV .",
+                "DOI": "10.1007/978-3-319-10605-2_24",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "Laffont P.-Y. and Bazin J.-C. 2015. Intrinsic decomposition of image sequences from local temporal variations. In ICCV. 10.1109/ICCV.2015.57   Laffont P.-Y. and Bazin J.-C. 2015. Intrinsic decomposition of image sequences from local temporal variations. In ICCV . 10.1109/ICCV.2015.57",
+                "DOI": "10.1109/ICCV.2015.57",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/2366145.2366221",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1109/TVCG.2012.112",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1364/JOSA.61.000001",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "unstructured": "Lee K. J. Zhao Q. Tong X. Gong M. Izadi S. Lee S. U. Tan P. and Lin S. 2012. Estimation of intrinsic image sequences from image+depth video. In ECCV. 10.1007/978-3-642-33783-3_24   Lee K. J. Zhao Q. Tong X. Gong M. Izadi S. Lee S. U. Tan P. and Lin S. 2012. Estimation of intrinsic image sequences from image+depth video. In ECCV . 10.1007/978-3-642-33783-3_24"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1109/TPAMI.2007.1106",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/1276377.1276464",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "unstructured": "Li Y. and Brown M. S. 2014. Single image layer separation using relative smoothness. In CVPR. 10.1109/CVPR.2014.346   Li Y. and Brown M. S. 2014. Single image layer separation using relative smoothness. In CVPR . 10.1109/CVPR.2014.346",
+                "DOI": "10.1109/CVPR.2014.346",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "unstructured": "Matsushita Y. Lin S. Kang S. and Shum H.-Y. 2004. Estimating intrinsic images from image sequences with biased illumination. In ECCV.  Matsushita Y. Lin S. Kang S. and Shum H.-Y. 2004. Estimating intrinsic images from image sequences with biased illumination. In ECCV .",
+                "DOI": "10.1007/978-3-540-24671-8_22",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "unstructured": "Shen L. and Yeo C. 2011. Intrinsic images decomposition using a local and global sparse representation of reflectance. In CVPR.  Shen L. and Yeo C. 2011. Intrinsic images decomposition using a local and global sparse representation of reflectance. In CVPR .",
+                "DOI": "10.1109/CVPR.2011.5995738",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "unstructured": "Shen L. Tan P. and Lin S. 2008. Intrinsic image decomposition with non-local texture cues. In CVPR.  Shen L. Tan P. and Lin S. 2008. Intrinsic image decomposition with non-local texture cues. In CVPR ."
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "unstructured": "Shen J. Yang X. Jia Y. and Li X. 2011. Intrinsic images using optimization. In CVPR.  Shen J. Yang X. Jia Y. and Li X. 2011. Intrinsic images using optimization. In CVPR .",
+                "DOI": "10.1109/CVPR.2011.5995507",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1016/j.ins.2014.02.134",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1109/TPAMI.2005.185",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1111/j.1467-8659.2012.03227.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "unstructured": "Weiss Y. 2001. Deriving intrinsic images from image sequences. In ICCV.  Weiss Y. 2001. Deriving intrinsic images from image sequences. In ICCV ."
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1145/1141911.1142018",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1145/2661229.2661232",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1145/2601097.2601135",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1109/TPAMI.2012.77",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "unstructured": "Zhao H. K. 1996. Generalized Schwarz Alternating Procedure for Domain Decomposition. University of California Los Angeles.  Zhao H. K. 1996. Generalized Schwarz Alternating Procedure for Domain Decomposition . University of California Los Angeles."
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "unstructured": "Zhou T. Kr\u00e4henb\u00fchl P. and Efros A. 2015. Learning data-driven reflectance priors for intrinsic image decomposition. In ICCV. 10.1109/ICCV.2015.396   Zhou T. Kr\u00e4henb\u00fchl P. and Efros A. 2015. Learning data-driven reflectance priors for intrinsic image decomposition. In ICCV . 10.1109/ICCV.2015.396",
+                "DOI": "10.1109/ICCV.2015.396",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1145/2601097.2601165",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "DOI": "10.1145/2766887",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "unstructured": "Zoran D. Isola P. Krishnan D. and Freeman W. T. 2015. Learning ordinal relationships for mid-level vision. In ICCV. 10.1109/ICCV.2015.52   Zoran D. Isola P. Krishnan D. and Freeman W. T. 2015. Learning ordinal relationships for mid-level vision. In ICCV . 10.1109/ICCV.2015.52",
+                "DOI": "10.1109/ICCV.2015.52",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925907&amp;ftid=1755921&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:36:48Z",
+            "timestamp": 1585964208000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 48,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925907"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925907",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

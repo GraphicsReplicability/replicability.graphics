@@ -1,0 +1,474 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T02:11:27Z",
+            "timestamp": 1585966287598
+        },
+        "reference-count": 54,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "name": "NSF",
+                "award": [
+                    "CMMI-11-29917, IIS-12-08153, IIS-14-09286, IIS-17257"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925900",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 14,
+        "title": [
+            "Computational design of reconfigurables"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Akash",
+                "family": "Garg",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Columbia University"
+                    }
+                ]
+            },
+            {
+                "given": "Alec",
+                "family": "Jacobson",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Columbia University"
+                    }
+                ]
+            },
+            {
+                "given": "Eitan",
+                "family": "Grinspun",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Columbia University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/1778765.1778819",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "B\u00e4cher M. Bickel B. James D. L. and Pfister H. 2012. Fabricating articulated characters from skinned meshes. ACM Trans. Graph. 10.1145/2185520.2185543   B\u00e4cher M. Bickel B. James D. L. and Pfister H. 2012. Fabricating articulated characters from skinned meshes. ACM Trans. Graph. 10.1145/2185520.2185543"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/2601097.2601157",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "B\u00e4cher M. Coros S. and Thomaszewski B. 2015. Linkedit: interactive linkage editing using symbolic kinematics. ACM Trans. Graph.. 10.1145/2766985   B\u00e4cher M. Coros S. and Thomaszewski B. 2015. Linkedit: interactive linkage editing using symbolic kinematics. ACM Trans. Graph. . 10.1145/2766985",
+                "DOI": "10.1145/2766985",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/882262.882357",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "unstructured": "Bernstein G. L. and Wojtan C. 2013. Putting holes in holey geometry: Topology change for arbitrary surfaces. ACM Trans. Graph.. 10.1145/2461912.2462027   Bernstein G. L. and Wojtan C. 2013. Putting holes in holey geometry: Topology change for arbitrary surfaces. ACM Trans. Graph. . 10.1145/2461912.2462027",
+                "DOI": "10.1145/2461912.2462027",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "unstructured": "Bharaj G. Levin D. I. W. Tompkin J. Fei Y. Pfister H. Matusik W. and Zheng C. 2015. Computational design of metallophone contact sounds. ACM Trans. Graph.. 10.1145/2816795.2818108   Bharaj G. Levin D. I. W. Tompkin J. Fei Y. Pfister H. Matusik W. and Zheng C. 2015. Computational design of metallophone contact sounds. ACM Trans. Graph. . 10.1145/2816795.2818108",
+                "DOI": "10.1145/2816795.2818108",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/566654.566623",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "Cameron S. 1990. Collision detection by four-dimensional intersection testing. IEEE T. Robotics and Automation.  Cameron S. 1990. Collision detection by four-dimensional intersection testing. IEEE T. Robotics and Automation.",
+                "DOI": "10.1109/70.56661",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "Campen M. and Kobbelt L. 2010. Polygonal boundary evaluation of minkowski sums and swept volumes. Comput. Graph. Forum.  Campen M. and Kobbelt L. 2010. Polygonal boundary evaluation of minkowski sums and swept volumes. Comput. Graph. Forum.",
+                "DOI": "10.1111/j.1467-8659.2010.01770.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "Ceylan D. Li W. Mitra N. J. Agrawala M. and Pauly M. 2013. Designing and fabricating mechanical automata from mocap sequences. ACM Trans. Graph.. 10.1145/2508363.2508400   Ceylan D. Li W. Mitra N. J. Agrawala M. and Pauly M. 2013. Designing and fabricating mechanical automata from mocap sequences. ACM Trans. Graph. . 10.1145/2508363.2508400"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "unstructured": "Erleben K. 2004. Stable Robust and Versatile Multibody Dynamics Animation. PhD thesis Univ. of Copenhagen.  Erleben K. 2004. Stable Robust and Versatile Multibody Dynamics Animation. PhD thesis Univ. of Copenhagen."
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "Everitt C. 2001. Interactive order-independent transparency. Tech. rep. nVidia Corp.  Everitt C. 2001. Interactive order-independent transparency. Tech. rep. nVidia Corp."
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Gal R. Sorkine O. Mitra N. J. and Cohen-Or D. 2009. iWIRES: An analyze-and-edit approach to shape manipulation. ACM Trans. Graph.. 10.1145/1531326.1531339   Gal R. Sorkine O. Mitra N. J. and Cohen-Or D. 2009. iWIRES: An analyze-and-edit approach to shape manipulation. ACM Trans. Graph. . 10.1145/1531326.1531339",
+                "DOI": "10.1145/1576246.1531339",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "unstructured": "Garg A. Sageman-Furnas A. O. Deng B. Yue Y. Grinspun E. Pauly M. and Wardetzky M. 2014. Wire mesh design. ACM Trans. Graph.. 10.1145/2601097.2601106   Garg A. Sageman-Furnas A. O. Deng B. Yue Y. Grinspun E. Pauly M. and Wardetzky M. 2014. Wire mesh design. ACM Trans. Graph. . 10.1145/2601097.2601106",
+                "DOI": "10.1145/2601097.2601106",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "author": "Guibas L. J.",
+                "year": "1998",
+                "volume-title": "Proc. WAFR."
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "Harmon D. Panozzo D. Sorkine O. and Zorin D. 2011. Interference-aware geometric modeling. ACM Trans. Graph.. 10.1145/2070781.2024171   Harmon D. Panozzo D. Sorkine O. and Zorin D. 2011. Interference-aware geometric modeling. ACM Trans. Graph. . 10.1145/2070781.2024171",
+                "DOI": "10.1145/2024156.2024171",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/2185520.2185545",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "unstructured": "Jacobson A. Panozzo D. etal 2013. libigl: A simple C++ geometry processing library. http://igl.ethz.ch/projects/libigl/.  Jacobson A. Panozzo D. et al. 2013. libigl: A simple C++ geometry processing library. http://igl.ethz.ch/projects/libigl/."
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "Joubert N. Roberts M. Truong A. Berthouzoz F. and Hanrahan P. 2015. An interactive tool for designing quadrotor camera shots. ACM Trans. Graph.. 10.1145/2816795.2818106   Joubert N. Roberts M. Truong A. Berthouzoz F. and Hanrahan P. 2015. An interactive tool for designing quadrotor camera shots. ACM Trans. Graph. . 10.1145/2816795.2818106",
+                "DOI": "10.1145/2816795.2818106",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "Kavraki L. E. \u0160vestka P. Latombe J.-C. and Over-mars M. H. 1996. Probabilistic roadmaps for path planning in high-dimensional configuration spaces. IEEE TRA.  Kavraki L. E. \u0160vestka P. Latombe J.-C. and Over-mars M. H. 1996. Probabilistic roadmaps for path planning in high-dimensional configuration spaces. IEEE TRA.",
+                "DOI": "10.1109/70.508439",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "unstructured": "Klosowski J. T. Held M. Mitchell J. S. Sowizral H. and Zikan K. 1998. Efficient collision detection using bounding volume hierarchies of k-dops. IEEE TVCG. 10.1109/2945.675649   Klosowski J. T. Held M. Mitchell J. S. Sowizral H. and Zikan K. 1998. Efficient collision detection using bounding volume hierarchies of k-dops. IEEE TVCG. 10.1109/2945.675649",
+                "DOI": "10.1109/2945.675649",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "Koo B. Li W. Yao J. Agrawala M. and Mitra N. J. 2014. Creating works-like prototypes of mechanical objects. ACM Trans. Graph.. 10.1145/2661229.2661289   Koo B. Li W. Yao J. Agrawala M. and Mitra N. J. 2014. Creating works-like prototypes of mechanical objects. ACM Trans. Graph. . 10.1145/2661229.2661289"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "Li H. Alhashim I. Zhang H. Shamir A. and Cohen-Or D. 2012. Stackabilization. ACM Trans. Graph.. 10.1145/2366145.2366177   Li H. Alhashim I. Zhang H. Shamir A. and Cohen-Or D. 2012. Stackabilization. ACM Trans. Graph. . 10.1145/2366145.2366177",
+                "DOI": "10.1145/2366145.2366177",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "unstructured": "Liu S. Jacobson A. and Gingold Y. 2014. Skinning cubic B\u00e9zier splines and Catmull-Clark subdivision surfaces. ACM Trans. Graph.. 10.1145/2661229.2661270   Liu S. Jacobson A. and Gingold Y. 2014. Skinning cubic B\u00e9zier splines and Catmull-Clark subdivision surfaces. ACM Trans. Graph. . 10.1145/2661229.2661270",
+                "DOI": "10.1145/2661229.2661270",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "unstructured": "Liu T. Hertzmann A. Li W. and Funkhouser T. 2015. Style compatibility for 3D furniture models. ACM Trans. Graph.. 10.1145/2766898   Liu T. Hertzmann A. Li W. and Funkhouser T. 2015. Style compatibility for 3D furniture models. ACM Trans. Graph. . 10.1145/2766898",
+                "DOI": "10.1145/2766898",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "unstructured": "Merrell P. Schkufza E. Li Z. Agrawala M. and Koltun V. 2011. Interactive furniture layout using interior design guidelines. ACM Trans. Graph.. 10.1145/2010324.1964982   Merrell P. Schkufza E. Li Z. Agrawala M. and Koltun V. 2011. Interactive furniture layout using interior design guidelines. ACM Trans. Graph. . 10.1145/2010324.1964982",
+                "DOI": "10.1145/1964921.1964982",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "unstructured": "Pavic D. and Kobbelt L. 2008. High-resolution volumetric computation of offset surfaces with feature preservation. Comput. Graph. Forum.  Pavic D. and Kobbelt L. 2008. High-resolution volumetric computation of offset surfaces with feature preservation. Comput. Graph. Forum.",
+                "DOI": "10.1111/j.1467-8659.2008.01113.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "Peternell M. Pottmann H. Steiner T. and Zhao H. 2005. Swept volumes. Computer-Aided Design Appl..  Peternell M. Pottmann H. Steiner T. and Zhao H. 2005. Swept volumes. Computer-Aided Design Appl. .",
+                "DOI": "10.1080/16864360.2005.10738324",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/344779.344880",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "author": "Press W. H.",
+                "year": "1992",
+                "volume-title": "C: The Art of Scientific Computing"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "author": "Schroeder W. J.",
+                "volume-title": "Proc. of the Conference on Visualization."
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "unstructured": "Sch\u00fcller C. Panozzo D. and Sorkine-Hornung O. 2014. Appearance-mimicking surfaces. ACM Trans. Graph.. 10.1145/2661229.2661267   Sch\u00fcller C. Panozzo D. and Sorkine-Hornung O. 2014. Appearance-mimicking surfaces. ACM Trans. Graph. . 10.1145/2661229.2661267",
+                "DOI": "10.1145/2661229.2661267",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "unstructured": "Schulz A. Shamir A. Levin D. I. W. Sitthi-Amorn P. and Matusik W. 2014. Design and fabrication by example. ACM Trans. Graph.. 10.1145/2601097.2601127   Schulz A. Shamir A. Levin D. I. W. Sitthi-Amorn P. and Matusik W. 2014. Design and fabrication by example. ACM Trans. Graph. . 10.1145/2601097.2601127"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "unstructured": "Secord A. Lu J. Finkelstein A. Singh M. and Nealen A. 2011. Perceptual models of viewpoint preference. ACM Trans. Graph.. 10.1145/2019627.2019628   Secord A. Lu J. Finkelstein A. Singh M. and Nealen A. 2011. Perceptual models of viewpoint preference. ACM Trans. Graph. . 10.1145/2019627.2019628"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "unstructured": "Shao M.-Z. and Badler N. 1996. Spherical sampling by archimedes' theorem. Tech. rep. Univ. of Penn.  Shao M.-Z. and Badler N. 1996. Spherical sampling by archimedes' theorem. Tech. rep. Univ. of Penn."
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "unstructured": "Shoemake K. 1992. Uniform random rotations. In Graphics Gems III. Morgan Kaufmann.   Shoemake K. 1992. Uniform random rotations. In Graphics Gems III . Morgan Kaufmann.",
+                "DOI": "10.1016/B978-0-08-050755-2.50036-1",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "unstructured": "Skouras M. Thomaszewski B. Bickel B. and Gross M. 2012. Computational design of rubber balloons. Comput. Graph. Forum. 10.1111/j.1467-8659.2012.03064.x   Skouras M. Thomaszewski B. Bickel B. and Gross M. 2012. Computational design of rubber balloons. Comput. Graph. Forum . 10.1111/j.1467-8659.2012.03064.x"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "unstructured": "Skouras M. Thomaszewski B. Coros S. Bickel B. and Gross M. 2013. Computational design of actuated deformable characters. ACM Trans. Graph.. 10.1145/2461912.2461979   Skouras M. Thomaszewski B. Coros S. Bickel B. and Gross M. 2013. Computational design of actuated deformable characters. ACM Trans. Graph. . 10.1145/2461912.2461979",
+                "DOI": "10.1145/2461912.2461979",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "unstructured": "Snibbe S. S. 1995. A direct manipulation interface for 3d computer animation. Comput. Graph. Forum. 10.1111/j.1467-8659.1995.cgf143_0271.x   Snibbe S. S. 1995. A direct manipulation interface for 3d computer animation. Comput. Graph. Forum. 10.1111/j.1467-8659.1995.cgf143_0271.x",
+                "DOI": "10.1111/1467-8659.1430271",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "unstructured": "Sun T. and Zheng C. 2015. Computational design of twisty joints and puzzles. ACM Trans. Graph.. 10.1145/2766961   Sun T. and Zheng C. 2015. Computational design of twisty joints and puzzles. ACM Trans. Graph. . 10.1145/2766961"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1145/2019627.2019630",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "author": "Teschner M.",
+                "volume-title": "Proc. Eurographics (STAR)."
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "unstructured": "Thomaszewski B. Coros S. Gauge D. Megaro V. Grinspun E. and Gross M. 2014. Computational design of linkage-based characters. ACM Trans. Graph.. 10.1145/2601097.2601143   Thomaszewski B. Coros S. Gauge D. Megaro V. Grinspun E. and Gross M. 2014. Computational design of linkage-based characters. ACM Trans. Graph. . 10.1145/2601097.2601143",
+                "DOI": "10.1145/2601097.2601143",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "unstructured": "Umetani N. Kaufman D. M. Igarashi T. and Grinspun E. 2011. Sensitive couture for interactive garment editing and modeling. ACM Trans. Graph.. 10.1145/2010324.1964985   Umetani N. Kaufman D. M. Igarashi T. and Grinspun E. 2011. Sensitive couture for interactive garment editing and modeling. ACM Trans. Graph. . 10.1145/2010324.1964985",
+                "DOI": "10.1145/1964921.1964985",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "unstructured": "Umetani N. Igarashi T. and Mitra N. J. 2012. Guided exploration of physically valid shapes for furniture design. ACM Trans. Graph.. 10.1145/2185520.2185582   Umetani N. Igarashi T. and Mitra N. J. 2012. Guided exploration of physically valid shapes for furniture design. ACM Trans. Graph. . 10.1145/2185520.2185582"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "DOI": "10.1145/2601097.2601129",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "unstructured": "Volino P. and Magnenat-Thalmann N. 2006. Resolving surface collisions through intersection contour minimization. ACM Trans. Graph.. 10.1145/1141911.1142007   Volino P. and Magnenat-Thalmann N. 2006. Resolving surface collisions through intersection contour minimization. ACM Trans. Graph. . 10.1145/1141911.1142007",
+                "DOI": "10.1145/1179352.1142007",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "DOI": "10.1145/2185520.2185593",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "unstructured": "Weld J. D. and Leu M. C. 1990. Geometric representation of swept volumes with application to polyhedral objects. Int. J. Rob. Res.. 10.1177/027836499000900507   Weld J. D. and Leu M. C. 1990. Geometric representation of swept volumes with application to polyhedral objects. Int. J. Rob. Res. . 10.1177/027836499000900507"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "DOI": "10.1145/54852.378507",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "unstructured": "Xin S. Lai C.-F. Fu C.-W. Wong T.-T. He Y. and Cohen-Or D. 2011. Making burr puzzles from 3d models. ACM Trans. Graph.. 10.1145/2010324.1964992   Xin S. Lai C.-F. Fu C.-W. Wong T.-T. He Y. and Cohen-Or D. 2011. Making burr puzzles from 3d models. ACM Trans. Graph. . 10.1145/2010324.1964992",
+                "DOI": "10.1145/1964921.1964992",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "unstructured": "Yu L.-F. Yeung S. K. Tang C.-K. Terzopoulos D. Chan T. F. and Osher S. 2011. Make it home: automatic optimization of furniture arrangement. ACM Trans. Graph.. 10.1145/2010324.1964981   Yu L.-F. Yeung S. K. Tang C.-K. Terzopoulos D. Chan T. F. and Osher S. 2011. Make it home: automatic optimization of furniture arrangement. ACM Trans. Graph. . 10.1145/2010324.1964981",
+                "DOI": "10.1145/1964921.1964981",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "DOI": "10.1145/2601097.2601173",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925900&amp;ftid=1755899&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:38:32Z",
+            "timestamp": 1585964312000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 54,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925900"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925900",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

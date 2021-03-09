@@ -1,0 +1,630 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:05:36Z",
+            "timestamp": 1586001936325
+        },
+        "reference-count": 69,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "name": "ERC Starting Grant CapReal",
+                "award": [
+                    "335545"
+                ]
+            },
+            {
+                "name": "Google Faculty Award",
+                "award": []
+            },
+            {
+                "name": "RCUK grant CAMERA",
+                "award": [
+                    "EP/M023281/1"
+                ]
+            },
+            {
+                "name": "Max Planck Center for Visual Computing and Communications",
+                "award": []
+            },
+            {
+                "name": "TUM-IAS Rudolf M\u00f6\u00dfbauer Fellowship",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201283",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 37,
+        "title": [
+            "Deep video portraits"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Hyeongwoo",
+                "family": "Kim",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Max Planck Institute for Informatics, Germany"
+                    }
+                ]
+            },
+            {
+                "given": "Pablo",
+                "family": "Garrido",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Technicolor, France"
+                    }
+                ]
+            },
+            {
+                "given": "Ayush",
+                "family": "Tewari",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Max Planck Institute for Informatics, Germany"
+                    }
+                ]
+            },
+            {
+                "given": "Weipeng",
+                "family": "Xu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Max Planck Institute for Informatics, Germany"
+                    }
+                ]
+            },
+            {
+                "given": "Justus",
+                "family": "Thies",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Technical University of Munich, Germany"
+                    }
+                ]
+            },
+            {
+                "given": "Matthias",
+                "family": "Niessner",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Technical University of Munich, Germany"
+                    }
+                ]
+            },
+            {
+                "given": "Patrick",
+                "family": "P\u00e9rez",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Technicolor, France"
+                    }
+                ]
+            },
+            {
+                "given": "Christian",
+                "family": "Richardt",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Bath, United Kingdom"
+                    }
+                ]
+            },
+            {
+                "given": "Michael",
+                "family": "Zollh\u00f6fer",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Christian",
+                "family": "Theobalt",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Max Planck Institute for Informatics, Germany"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "Mart\u00edn Abadi Ashish Agarwal Paul Barham Eugene Brevdo Zhifeng Chen Craig Citro Greg S. Corrado Andy Davis Jeffrey Dean Matthieu Devin Sanjay Ghemawat Ian Goodfellow Andrew Harp Geoffrey Irving Michael Isard Yangqing Jia Rafal Jozefowicz Lukasz Kaiser Manjunath Kudlur Josh Levenberg Dan Man\u00e9 Rajat Monga Sherry Moore Derek Murray Chris Olah Mike Schuster Jonathon Shlens Benoit Steiner Ilya Sutskever Kunal Talwar Paul Tucker Vincent Vanhoucke Vijay Vasudevan Fernanda Vi\u00e9gas Oriol Vinyals Pete Warden Martin Wattenberg Martin Wicke Yuan Yu and Xiaoqiang Zheng. 2015. TensorFlow: Large-Scale Machine Learning on Heterogeneous Systems. https://www.tensorflow.org/ Software available from tensorflow.org.  Mart\u00edn Abadi Ashish Agarwal Paul Barham Eugene Brevdo Zhifeng Chen Craig Citro Greg S. Corrado Andy Davis Jeffrey Dean Matthieu Devin Sanjay Ghemawat Ian Goodfellow Andrew Harp Geoffrey Irving Michael Isard Yangqing Jia Rafal Jozefowicz Lukasz Kaiser Manjunath Kudlur Josh Levenberg Dan Man\u00e9 Rajat Monga Sherry Moore Derek Murray Chris Olah Mike Schuster Jonathon Shlens Benoit Steiner Ilya Sutskever Kunal Talwar Paul Tucker Vincent Vanhoucke Vijay Vasudevan Fernanda Vi\u00e9gas Oriol Vinyals Pete Warden Martin Wattenberg Martin Wicke Yuan Yu and Xiaoqiang Zheng. 2015. TensorFlow: Large-Scale Machine Learning on Heterogeneous Systems. https://www.tensorflow.org/ Software available from tensorflow.org."
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1109/MCG.2010.65",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/3130800.3130818",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1111/j.1467-8659.2004.00799.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/311535.311556",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1007/s11263-017-1009-7",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/258734.258880",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/2766943",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/2601097.2601204",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1109/TVCG.2013.249",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/2897824.2925873",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/1073368.1073388",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "author": "Chen Qifeng",
+                "year": "2017",
+                "volume-title": "Photographic Image Synthesis with Cascaded Refinement Networks. In International Conference on Computer Vision (ICCV). 1520--1529"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/2070781.2024164",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/566654.566594",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/2897824.2925933",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/2638549",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "author": "Ganin Yaroslav",
+                "year": "2016",
+                "volume-title": "DeepWarp: Photorealistic Image Resynthesis for Gaze Manipulation. In European Conference on Computer Vision (ECCV). 311--326"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1109/CVPR.2014.537",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1111/cgf.12552",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/2890493",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "unstructured": "Ian J. Goodfellow Jean Pouget-Abadie Mehdi Mirza Bing Xu David Warde-Farley Sherjil Ozair Aaron Courville and Yoshua Bengio. 2014. Generative Adversarial Nets. In Advances in Neural Information Processing Systems.   Ian J. Goodfellow Jean Pouget-Abadie Mehdi Mirza Bing Xu David Warde-Farley Sherjil Ozair Aaron Courville and Yoshua Bengio. 2014. Generative Adversarial Nets. In Advances in Neural Information Processing Systems."
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1126/science.1127647",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/3130800.31310887",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/2766974",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "author": "Isola Phillip",
+                "volume-title": "Image-to-image Translation with Conditional Adversarial Networks. In Conference on Computer Vision and Pattern Recognition (CVPR). 5967--5976"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "author": "Karras Tero",
+                "year": "2018",
+                "volume-title": "International Conference on Learning Representations (ICLR)."
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1109/ICCV.2013.404",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "author": "Kemelmacher-Shlizerman Ira",
+                "volume-title": "Being John Malkovich. In European Conference on Computer Vision (ECCV). 341--353"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/2010324.1964956",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "author": "Diederik",
+                "volume-title": "Adam: A Method for Stochastic Optimization. In International Conference on Learning Representations (ICLR)."
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "author": "Lassner Christoph",
+                "volume-title": "International Conference on Computer Vision (ICCV). 853--862"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/2766939",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1109/TMM.2013.2293064",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1109/ICME.2011.6011835",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "unstructured": "Ming-Yu Liu Thomas Breuel and Jan Kautz. 2017. Unsupervised Image-to-image Translation Networks. In Advances in Neural Information Processing Systems.  Ming-Yu Liu Thomas Breuel and Jan Kautz. 2017. Unsupervised Image-to-image Translation Networks. In Advances in Neural Information Processing Systems."
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/383259.383289",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "unstructured": "Liqian Ma Qianru Sun Xu Jia Bernt Schiele Tinne Tuytelaars and Luc Van Gool. 2017. Pose Guided Person Image Generation. In Advances in Neural Information Processing Systems.  Liqian Ma Qianru Sun Xu Jia Bernt Schiele Tinne Tuytelaars and Luc Van Gool. 2017. Pose Guided Person Image Generation. In Advances in Neural Information Processing Systems."
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "unstructured": "Mehdi Mirza and Simon Osindero. 2014. Conditional Generative Adversarial Nets. (2014). https://arxiv.org/abs/1411.1784 arXiv:1411.1784.  Mehdi Mirza and Simon Osindero. 2014. Conditional Generative Adversarial Nets. (2014). https://arxiv.org/abs/1411.1784 arXiv:1411.1784."
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1109/ICCV.2017.580",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1145/2980179.2980252",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "author": "Radford Alec",
+                "year": "2016",
+                "volume-title": "Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks. In International Conference on Learning Representations (ICLR)."
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1145/383259.383317",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1109/3DV.2016.56",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1109/CVPR.2017.589",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "author": "Ronneberger Olaf",
+                "year": "2015",
+                "volume-title": "U-Net: Convolutional Networks for Biomedical Image Segmentation. In International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI). 234--241"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "DOI": "10.1109/TPAMI.2016.2636829",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "author": "Saragih Jason M.",
+                "volume-title": "International Conference on Automatic Face and Gesture Recognition (FG). 117--124"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "author": "Sela Matan",
+                "year": "2017",
+                "volume-title": "Unrestricted Facial Geometry Reconstruction Using Image-to-image Translation. In International Conference on Computer Vision (ICCV). 1585--1594"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "DOI": "10.1145/2661229.2661290",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "DOI": "10.1145/1015706.1015736",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "author": "Suwajanakorn Supasorn",
+                "volume": "8692",
+                "volume-title": "Total Moving Face Reconstruction. In European Conference on Computer Vision (ECCV) (Lecture Notes in Computer Science)"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "DOI": "10.1109/ICCV.2015.450",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "DOI": "10.1145/3072959.3073640",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_55_1",
+                "author": "Taigman Yaniv",
+                "year": "2017",
+                "volume-title": "Unsupervised Cross-Domain Image Generation. In International Conference on Learning Representations (ICLR)."
+            },
+            {
+                "key": "e_1_2_2_56_1",
+                "author": "Tewari Ayush",
+                "year": "2017",
+                "volume-title": "MoFA: Model-based Deep Convolutional Face Autoencoder for Unsupervised Monocular Reconstruction. In International Conference on Computer Vision (ICCV). 3735--3744"
+            },
+            {
+                "key": "e_1_2_2_57_1",
+                "DOI": "10.1145/2816795.2818056",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_58_1",
+                "DOI": "10.1145/2929464.2929475",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_59_1",
+                "unstructured": "Justus Thies Michael Zollh\u00f6fer Marc Stamminger Christian Theobalt and Matthias Nie\u00dfner. 2018. FaceVR: Real-Time Facial Reenactment and Eye Gaze Control in Virtual Reality. ACM Transactions on Graphics (2018). 10.1145/3182644   Justus Thies Michael Zollh\u00f6fer Marc Stamminger Christian Theobalt and Matthias Nie\u00dfner. 2018. FaceVR: Real-Time Facial Reenactment and Eye Gaze Control in Virtual Reality. ACM Transactions on Graphics (2018). 10.1145/3182644",
+                "DOI": "10.1145/3182644",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_60_1",
+                "DOI": "10.1109/CVPR.2017.163",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_61_1",
+                "DOI": "10.1145/1073204.1073209",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_62_1",
+                "unstructured": "Chao Wang Haiyong Zheng Zhibin Yu Ziqiang Zheng Zhaorui Gu and Bing Zheng. 2017. Discriminative Region Proposal Adversarial Networks for High-Quality Image-to-image Translation. (2017). https://arxiv.org/abs/711.09554 arXiv:1711.09554.  Chao Wang Haiyong Zheng Zhibin Yu Ziqiang Zheng Zhaorui Gu and Bing Zheng. 2017. Discriminative Region Proposal Adversarial Networks for High-Quality Image-to-image Translation. (2017). https://arxiv.org/abs/711.09554 arXiv:1711.09554."
+            },
+            {
+                "key": "e_1_2_2_63_1",
+                "author": "Wang Ting-Chun",
+                "year": "2018",
+                "volume-title": "High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs. In Conference on Computer Vision and Pattern Recognition (CVPR)."
+            },
+            {
+                "key": "e_1_2_2_64_1",
+                "DOI": "10.1145/2010324.1964972",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_65_1",
+                "unstructured": "Erroll Wood Tadas Baltru\u0161aitis Louis-Philippe Morency Peter Robinson and Andreas Bulling. 2018. GazeDirector: Fully articulated eye gaze redirection in video. Computer Graphics Forum (Eurographics) 37 2 (2018).  Erroll Wood Tadas Baltru\u0161aitis Louis-Philippe Morency Peter Robinson and Andreas Bulling. 2018. GazeDirector: Fully articulated eye gaze redirection in video. Computer Graphics Forum (Eurographics) 37 2 (2018).",
+                "DOI": "10.1111/cgf.13355",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_66_1",
+                "DOI": "10.1145/2897824.2925882",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_67_1",
+                "author": "Yi Zili",
+                "year": "2017",
+                "volume-title": "DualGAN: Unsupervised Dual Learning for Image-to-image Translation. In International Conference on Computer Vision (ICCV). 2868--2876"
+            },
+            {
+                "key": "e_1_2_2_68_1",
+                "author": "Zhu Jun-Yan",
+                "volume-title": "International Conference on Computer Vision (ICCV). 2242--2251"
+            },
+            {
+                "key": "e_1_2_2_69_1",
+                "unstructured": "Michael Zollh\u00f6fer Justus Thies Pablo Garrido Derek Bradley Thabo Beeler Patrick P\u00e9rez Marc Stamminger Matthias Nie\u00dfner and Christian Theobalt. 2018. State of the Art on Monocular 3D Face Reconstruction Tracking and Applications. Computer Graphics Forum 37 2 (2018).  Michael Zollh\u00f6fer Justus Thies Pablo Garrido Derek Bradley Thabo Beeler Patrick P\u00e9rez Marc Stamminger Matthias Nie\u00dfner and Christian Theobalt. 2018. State of the Art on Monocular 3D Face Reconstruction Tracking and Applications. Computer Graphics Forum 37 2 (2018).",
+                "DOI": "10.1111/cgf.13382",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201283&ftid=1991620&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:42:30Z",
+            "timestamp": 1585960950000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 69,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201283"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201283",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

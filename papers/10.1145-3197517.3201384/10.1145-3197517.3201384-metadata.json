@@ -1,0 +1,377 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:29Z",
+            "timestamp": 1585962689516
+        },
+        "reference-count": 41,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201384",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 4,
+        "title": [
+            "Instant 3D photography"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Peter",
+                "family": "Hedman",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University College London"
+                    }
+                ]
+            },
+            {
+                "given": "Johannes",
+                "family": "Kopf",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Facebook"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "Sameer Agarwal Keir Mierle and Others. 2017. Ceres Solver http://ceres-solver.org. (2017).  Sameer Agarwal Keir Mierle and Others. 2017. Ceres Solver http://ceres-solver.org. (2017)."
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/2980179.2980257",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "unstructured": "Nicholas Ayache. 1989. Vision St\u00e9r\u00e9oscopique et Perception Multisensorielle: Application \u00e0 la robotique mobile. Inter-Editions (MASSON). https://hal.inria.fr/inria-00615192  Nicholas Ayache. 1989. Vision St\u00e9r\u00e9oscopique et Perception Multisensorielle: Application \u00e0 la robotique mobile. Inter-Editions (MASSON). https://hal.inria.fr/inria-00615192"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1109/CVPR.2015.7299076",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1109/CVPR.2017.261",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/3054739",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1111/j.1467-8659.2012.03009.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "Facebook. 2016. Facebook Surround 360. https://facebook360.fb.com/facebook-surround-360/. (2016). Accessed: 2016-12-26.  Facebook. 2016. Facebook Surround 360. https://facebook360.fb.com/facebook-surround-360/. (2016). Accessed: 2016-12-26."
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "Cl\u00e9ment Godard Oisin Mac Aodha and Gabriel J. Brostow. 2017. Unsupervised Monocular Depth Estimation with Left-Right Consistency. CVPR (2017).  Cl\u00e9ment Godard Oisin Mac Aodha and Gabriel J. Brostow. 2017. Unsupervised Monocular Depth Estimation with Left-Right Consistency. CVPR (2017)."
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/237170.237200",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1109/CVPR.2016.584",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.5555/1886063.1886065",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/3130800.3130828",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1109/TPAMI.2012.156",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1109/VR.2017.7892229",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1007/978-3-319-46487-9_10",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1109/ICCV.1990.139591",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/2047196.2047270",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "unstructured": "Robert Konrad Donald G. Dansereau Aniq Masood and Gordon Wetzstein. 2017. SpinVR: Towards Live-streaming 3D Virtual Reality Video. ACM Transactions on Graphics (Proc. SIGGRAPH Asia 2017) 36 6 (2017) article no. 209. 10.1145/3130800.3130836   Robert Konrad Donald G. Dansereau Aniq Masood and Gordon Wetzstein. 2017. SpinVR: Towards Live-streaming 3D Virtual Reality Video. ACM Transactions on Graphics (Proc. SIGGRAPH Asia 2017) 36 6 (2017) article no. 209. 10.1145/3130800.3130836"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/2897824.2925983",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/237170.237199",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "author": "Lin Kaimo",
+                "year": "2016",
+                "volume-title": "SEAGULL: Seam-Guided Local Alignment for Parallax-Tolerant Image Stitching. 14th European Conference on Computer Vision (ECCV)"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "author": "Muja Marius",
+                "year": "2009",
+                "volume-title": "Fast Approximate Nearest Neighbors with Automatic Algorithm Configuration. International Conference on Computer Vision Theory and Application VISSAPP'09)"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1109/CVPR.1999.786969",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1109/34.910880",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1111/cgf.12541",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "unstructured": "Realities. 2017. realities.io | Go Places http://realities.io/. (2017). Accessed: 2017-1-12.  Realities. 2017. realities.io | Go Places http://realities.io/. (2017). Accessed: 2017-1-12."
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1109/38.946629",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1109/CVPR.2013.166",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "author": "Sch\u00f6nberger Johannes Lutz",
+                "year": "2016",
+                "volume-title": "Structure-from-Motion Revisited. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1109/CVPR.2006.19",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "author": "Shi Jianbo",
+                "year": "1994",
+                "volume-title": "1994 IEEE Conference on Computer Vision and Pattern Recognition (CVPR'94)"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "author": "Szeliski Richard",
+                "year": "2010",
+                "edition": "1",
+                "volume-title": "Computer Vision: Algorithms and Applications"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1109/TPAMI.2009.77",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "unstructured": "Valve. 2016. Valve Developer Community: Advanced Outdoors Photogrammetry. https://developer.valvesoftware.com/wiki/Destinations/Advanced_Outdoors_Photogrammetry. (2016). Accessed: 2016-11-3.  Valve. 2016. Valve Developer Community: Advanced Outdoors Photogrammetry. https://developer.valvesoftware.com/wiki/Destinations/Advanced_Outdoors_Photogrammetry. (2016). Accessed: 2016-11-3."
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.15607/RSS.2015.XI.001",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1109/CVPR.2013.303",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1109/CVPR.2014.423",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "author": "Zhang Fan",
+                "year": "2015",
+                "volume-title": "Casual Stereoscopic Panorama Stitching. IEEE Conference on Computer Vision and Pattern Recognition (CVPR '15)"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "author": "Zheng Ke Colin",
+                "year": "2007",
+                "volume-title": "Layered Depth Panoramas. IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2007)"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1109/CVPR.2014.65",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201384&ftid=1991782&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:49:33Z",
+            "timestamp": 1585961373000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 41,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201384"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201384",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

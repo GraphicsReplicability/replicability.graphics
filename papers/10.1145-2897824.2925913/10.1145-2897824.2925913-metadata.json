@@ -1,0 +1,489 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T02:11:26Z",
+            "timestamp": 1585966286612
+        },
+        "reference-count": 52,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100000781",
+                "name": "European Research Council",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "307754"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100003977",
+                "name": "Israel Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "1284/12"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100005386",
+                "name": "Israeli Centers for Research Excellence",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "4/11"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925913",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 20,
+        "title": [
+            "Point registration via efficient convex relaxation"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Haggai",
+                "family": "Maron",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Weizmann Institute of Science"
+                    }
+                ]
+            },
+            {
+                "given": "Nadav",
+                "family": "Dym",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Weizmann Institute of Science"
+                    }
+                ]
+            },
+            {
+                "given": "Itay",
+                "family": "Kezurer",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Weizmann Institute of Science"
+                    }
+                ]
+            },
+            {
+                "given": "Shahar",
+                "family": "Kovalsky",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Weizmann Institute of Science"
+                    }
+                ]
+            },
+            {
+                "given": "Yaron",
+                "family": "Lipman",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Weizmann Institute of Science"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/1073204.1073207",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1109/ICCVW.2011.6130444",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/800070.802206",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "Belkin M. and Niyogi P. (2003). Laplacian eigenmaps for dimensionality reduction and data representation. Neural computation 15(6):1373--1396. 10.1162/089976603321780317   Belkin M. and Niyogi P. (2003). Laplacian eigenmaps for dimensionality reduction and data representation. Neural computation 15(6):1373--1396. 10.1162/089976603321780317",
+                "DOI": "10.1162/089976603321780317",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1109/CVPR.2005.320",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1109/34.121791",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1109/CVPR.2014.491",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1073/pnas.1112822108",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1073/pnas.0508601103",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/1276377.1276404",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1109/ICCV.2015.236",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "unstructured": "Dym N. and Lipman Y. (2016). Exact recovery with symmetries for procrustes matching. Technical report.  Dym N. and Lipman Y. (2016). Exact recovery with symmetries for procrustes matching. Technical report."
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1109/83.623193",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/358669.358692",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1137/S1052623400366218",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.5555/1281920.1281953",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "Giorgi D. Biasotti S. and Paraboschi L. (2007). Shape retrieval contest 2007: Watertight models track. SHREC competition 8.  Giorgi D. Biasotti S. and Paraboschi L. (2007). Shape retrieval contest 2007: Watertight models track. SHREC competition 8."
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "unstructured": "Gower J. C. and Dijksterhuis G. B. (2004). Procrustes problems volume 3. Oxford University Press Oxford.  Gower J. C. and Dijksterhuis G. B. (2004). Procrustes problems volume 3. Oxford University Press Oxford."
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "unstructured": "Grone R. Johnson C. R. S\u00e1 E. M. and Wolkowicz H. (1984). Positive definite completions of partial Hermitian matrices. Linear algebra and its applications 58:109--124.  Grone R. Johnson C. R. S\u00e1 E. M. and Wolkowicz H. (1984). Positive definite completions of partial Hermitian matrices. Linear algebra and its applications 58:109--124."
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/2601097.2601111",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1142/S0218654307000968",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1112/blms/16.2.81",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1111/cgf.12701",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/2010324.1964974",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1109/ICCV.2005.20",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "author": "Li H.",
+                "first-page": "1421",
+                "year": "2008",
+                "volume-title": "Computer Graphics Forum"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/1531326.1531378",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1109/MSP.2010.936019",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/1057432.1057436",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1007/s11692-009-9055-x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "unstructured": "MOSEK\n\n  \n   (2015). The MOSEK optimization toolbox for MATLAB manual. Version 7.1 (Revision 49).  MOSEK (2015). The MOSEK optimization toolbox for MATLAB manual . Version 7.1 (Revision 49)."
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1111/j.1467-8659.2011.02022.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/2185520.2185526",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "author": "Ovsjanikov M.",
+                "first-page": "1555",
+                "year": "2010",
+                "volume-title": "Computer Graphics Forum"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "author": "Ovsjanikov M.",
+                "first-page": "1341",
+                "year": "2008",
+                "volume-title": "Computer Graphics Forum"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "unstructured": "Pinkall U. and Polthier K. (1993). Computing discrete minimal surfaces and their conjugates. Experimental mathematics 2(1):15--36.  Pinkall U. and Polthier K. (1993). Computing discrete minimal surfaces and their conjugates. Experimental mathematics 2(1):15--36."
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "unstructured": "Pokrass J. Bronstein A. M. Bronstein M. M. Sprechmann P. and Sapiro G. (2013). Sparse modeling of intrinsic correspondences. Computer Graphics Forum 32(2 PART4):459--468.  Pokrass J. Bronstein A. M. Bronstein M. M. Sprechmann P. and Sapiro G. (2013). Sparse modeling of intrinsic correspondences. Computer Graphics Forum 32(2 PART4):459--468.",
+                "DOI": "10.1111/cgf.12066",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1007/BF01100205",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1109/IM.2001.924423",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.5555/1281991.1282022",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "unstructured": "Saunderson J. Parrilo P. A. and Willsky A. S. (2014). Semidefinite descriptions of the convex hull of rotation matrices. arXiv preprint arXiv:1403.4914.  Saunderson J. Parrilo P. A. and Willsky A. S. (2014). Semidefinite descriptions of the convex hull of rotation matrices. arXiv preprint arXiv:1403.4914."
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1002/cpa.21395",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1109/TVCG.2012.310",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "author": "Tevs A.",
+                "first-page": "1185",
+                "volume-title": "Computer Vision and Pattern Recognition, 2009. CVPR 2009. IEEE Conference on"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "author": "Van Kaick O.",
+                "first-page": "1681",
+                "year": "2011",
+                "volume-title": "Computer Graphics Forum"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1137/050623802",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "unstructured": "Wand M. Chang W. Li H. Mitra N. Pauly M. and Rusinkiewicz S. (2011). Computing correspondences in geometric data sets tutorial. http://resources.mpi-inf.mpg.de/deformableShapeMatching/EG2011_Tutorial/.  Wand M. Chang W. Li H. Mitra N. Pauly M. and Rusinkiewicz S. (2011). Computing correspondences in geometric data sets tutorial. http://resources.mpi-inf.mpg.de/deformableShapeMatching/EG2011_Tutorial/."
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "unstructured": "Wei L. Huang Q. Ceylan D. Vouga E. and Li H. (2015). Dense Human Body Correspondences Using Convolutional Networks.  Wei L. Huang Q. Ceylan D. Vouga E. and Li H. (2015). Dense Human Body Correspondences Using Convolutional Networks."
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "DOI": "10.1109/ICCV.2013.184",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "DOI": "10.1109/CVPR.2010.5540189",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "DOI": "10.1023/A:1009795911987",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "DOI": "10.1109/CVPR.2015.7298976",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925913&amp;ftid=1755931&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:34:43Z",
+            "timestamp": 1585964083000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 52,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925913"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925913",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

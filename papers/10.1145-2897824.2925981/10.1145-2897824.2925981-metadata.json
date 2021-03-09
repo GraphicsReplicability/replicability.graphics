@@ -1,0 +1,467 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T02:11:26Z",
+            "timestamp": 1585966286588
+        },
+        "reference-count": 49,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925981",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 19,
+        "title": [
+            "Body talk"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Stephan",
+                "family": "Streuber",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Max Planck Institute for Intelligent Systems, T\u00fcbingen, Germany"
+                    }
+                ]
+            },
+            {
+                "given": "M. Alejandra",
+                "family": "Quiros-Ramirez",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Max Planck Institute for Intelligent Systems, T\u00fcbingen, Germany"
+                    }
+                ]
+            },
+            {
+                "given": "Matthew Q.",
+                "family": "Hill",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Texas at Dallas"
+                    }
+                ]
+            },
+            {
+                "given": "Carina A.",
+                "family": "Hahn",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Texas at Dallas"
+                    }
+                ]
+            },
+            {
+                "given": "Silvia",
+                "family": "Zuffi",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "ITC-CNR, Milan, Italy"
+                    }
+                ]
+            },
+            {
+                "given": "Alice",
+                "family": "O'Toole",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Texas at Dallas"
+                    }
+                ]
+            },
+            {
+                "given": "Michael J.",
+                "family": "Black",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Max Planck Institute for Intelligent Systems, T\u00fcbingen, Germany"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_1_1_1",
+                "unstructured": "Allen B. Curless B. and Popovi\u0107 Z. 2003. The space of human body shapes: Reconstruction and parameterization from range scans. ACM transactions on graphics (TOG) 22 3 587--594. 10.1145/882262.882311   Allen B. Curless B. and Popovi\u0107 Z. 2003. The space of human body shapes: Reconstruction and parameterization from range scans. ACM transactions on graphics (TOG) 22 3 587--594. 10.1145/882262.882311",
+                "DOI": "10.1145/882262.882311",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_2_1",
+                "author": "Allen B.",
+                "volume-title": "SAE International Proc. Digital Human Modeling for Design and Engineering Conference."
+            },
+            {
+                "key": "e_1_2_1_3_1",
+                "author": "Allen B.",
+                "volume-title": "Proceedings of the 2006 ACM SIGGRAPH/Eurographics Symposium on Computer Animation, Eurographics Association, Aire-la-Ville, Switzerland, Switzerland, SCA '06, 147--156"
+            },
+            {
+                "key": "e_1_2_1_4_1",
+                "DOI": "10.1145/1073204.1073207",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_5_1",
+                "DOI": "10.1145/311535.311556",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_6_1",
+                "DOI": "10.1109/ICCV.2015.265",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_7_1",
+                "author": "Carter J.",
+                "year": "1990",
+                "volume-title": "Somatotyping: Development and applications"
+            },
+            {
+                "key": "e_1_2_1_8_1",
+                "DOI": "10.1145/2501988.2502008",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_9_1",
+                "DOI": "10.1111/j.1467-789X.2007.00347.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_10_1",
+                "unstructured": "Gordon C. Churchill T. Clauser C. Bradtmiller B. and McConville J. 1989. Anthropometric survey of US Army personnel: Methods and summary statistics 1988. Tech. rep. DTIC Document.  Gordon C. Churchill T. Clauser C. Bradtmiller B. and McConville J. 1989. Anthropometric survey of US Army personnel: Methods and summary statistics 1988. Tech. rep. DTIC Document."
+            },
+            {
+                "key": "e_1_2_1_11_1",
+                "unstructured": "Greenacre M. 2007. Correspondence analysis in practice (2nd ed.). Chapman and Hall/CRC.  Greenacre M. 2007. Correspondence analysis in practice (2nd ed.) . Chapman and Hall/CRC.",
+                "DOI": "10.1201/9781420011234",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_12_1",
+                "DOI": "10.1145/2019406.2019413",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_13_1",
+                "unstructured": "Hammett D. 1929. The Maltese Falcon. Alfred A. Knopf.  Hammett D. 1929. The Maltese Falcon. Alfred A. Knopf."
+            },
+            {
+                "key": "e_1_2_1_14_1",
+                "DOI": "10.1111/j.1467-8659.2009.01373.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_15_1",
+                "DOI": "10.1167/15.12.931",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_16_1",
+                "DOI": "10.1007/978-3-642-33783-3_18",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_17_1",
+                "DOI": "10.1145/1882261.1866174",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_18_1",
+                "author": "Klare B.",
+                "volume-title": "Biometrics (IJCB), 2014 IEEE International Joint Conference on, 1--8."
+            },
+            {
+                "key": "e_1_2_1_19_1",
+                "unstructured": "Kleindessner M. and von Luxburg U. 2015. Dimensionality estimation without distances. In AISTATS.  Kleindessner M. and von Luxburg U. 2015. Dimensionality estimation without distances. In AISTATS."
+            },
+            {
+                "key": "e_1_2_1_20_1",
+                "unstructured": "Li H. Vouga E. Gudym A. Luo L. Barron J. T. and Gusev G. 2013. 3D self-portraits. ACM Trans. Graph. (Proceedings SIGGRAPH Asia 2013) 32 6 (November). 10.1145/2508363.2508407   Li H. Vouga E. Gudym A. Luo L. Barron J. T. and Gusev G. 2013. 3D self-portraits. ACM Trans. Graph. (Proceedings SIGGRAPH Asia 2013) 32 6 (November). 10.1145/2508363.2508407",
+                "DOI": "10.1145/2508363.2508407",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_21_1",
+                "DOI": "10.1080/17470218.2012.677048",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_22_1",
+                "DOI": "10.1145/2766898",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_23_1",
+                "DOI": "10.1145/2816795.2818013",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_24_1",
+                "DOI": "10.1145/2766929",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_25_1",
+                "DOI": "10.1145/882262.882343",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_26_1",
+                "DOI": "10.1145/2601097.2601110",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_27_1",
+                "DOI": "10.1016/S0262-8856(99)00012-8",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_28_1",
+                "DOI": "10.1109/ICCV.2011.6126281",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_29_1",
+                "DOI": "10.1109/CVPR.2014.300",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_30_1",
+                "author": "Reid D.",
+                "volume-title": "Biometrics (ICB), 2013 International Conference on, 1--7."
+            },
+            {
+                "key": "e_1_2_1_31_1",
+                "DOI": "10.1109/TPAMI.2013.219",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_32_1",
+                "unstructured": "Robinette K. Blackwell S. Daanen H. Boehmer M. Fleming S. Brill T. Hoeferlin D. and Burnsides D. 2002. Civilian American and European Surface Anthropometry Resource (CAESAR) final report. Tech. Rep. AFRL-HE-WP-TR-2002-0169 US Air Force Research Laboratory.  Robinette K. Blackwell S. Daanen H. Boehmer M. Fleming S. Brill T. Hoeferlin D. and Burnsides D. 2002. Civilian American and European Surface Anthropometry Resource (CAESAR) final report. Tech. Rep. AFRL-HE-WP-TR-2002-0169 US Air Force Research Laboratory.",
+                "DOI": "10.21236/ADA406704",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_33_1",
+                "DOI": "10.1068/p7265",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_34_1",
+                "DOI": "10.1145/641480.641487",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_35_1",
+                "author": "Seo H.-W.",
+                "volume-title": "In Proceedings of the 2003 ACM SIGGRAPH/Eurographics Symposium on Computer Animation, Eurographics Association, 120125"
+            },
+            {
+                "key": "e_1_2_1_36_1",
+                "unstructured": "Shapiro A. Feng A. Wang R. Li H. Bolas M. Medioni G. and Suma E. 2014. Rapid avatar capture and simulation using commodity depth sensors. Computer Animation and Virtual Worlds. 10.1002/cav.1579   Shapiro A. Feng A. Wang R. Li H. Bolas M. Medioni G. and Suma E. 2014. Rapid avatar capture and simulation using commodity depth sensors. Computer Animation and Virtual Worlds. 10.1002/cav.1579",
+                "DOI": "10.1002/cav.1579",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_37_1",
+                "unstructured": "Sheldon W. H. 1940. The Varieties of Human Physique (An Introduction to Constitutional Psychology). Harper and Brothers.  Sheldon W. H. 1940. The Varieties of Human Physique (An Introduction to Constitutional Psychology). Harper and Brothers."
+            },
+            {
+                "key": "e_1_2_1_38_1",
+                "DOI": "10.1145/2766971",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_39_1",
+                "unstructured": "2015. SMPL model. http://smpl.is.tue.mpg.de/. Accessed: 2015-12-10.  2015. SMPL model. http://smpl.is.tue.mpg.de/. Accessed: 2015-12-10."
+            },
+            {
+                "key": "e_1_2_1_40_1",
+                "unstructured": "2016. Somatotypes. http://users.rider.edu/~suler/somato.html. Accessed: 2016-01-14.  2016. Somatotypes. http://users.rider.edu/~suler/somato.html. Accessed: 2016-01-14."
+            },
+            {
+                "key": "e_1_2_1_41_1",
+                "DOI": "10.1079/PHN2001322",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_42_1",
+                "unstructured": "Sumner R. W. 2005. Mesh modification using deformation gradients. PhD thesis Massachusetts Institute of Technology Dept. of Electrical Engineering and Computer Science.   Sumner R. W. 2005. Mesh modification using deformation gradients. PhD thesis Massachusetts Institute of Technology Dept. of Electrical Engineering and Computer Science."
+            },
+            {
+                "key": "e_1_2_1_43_1",
+                "DOI": "10.1145/1618452.1618513",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_44_1",
+                "DOI": "10.2469/faj.v43.n3.50",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_45_1",
+                "author": "Tsoli A.",
+                "volume-title": "Proceedings Winter Conference on Applications of Computer Vision, IEEE, 83--90"
+            },
+            {
+                "key": "e_1_2_1_46_1",
+                "DOI": "10.1109/ICCV.2011.6126465",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_47_1",
+                "DOI": "10.1145/2766999",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_48_1",
+                "DOI": "10.1145/2766908",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_49_1",
+                "DOI": "10.1145/1778765.1778863",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925981&amp;ftid=1755929&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:28:21Z",
+            "timestamp": 1585963701000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "crowdshaping realistic 3D avatars with words"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 49,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925981"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925981",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

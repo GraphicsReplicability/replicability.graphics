@@ -1,0 +1,606 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    5,
+                    5
+                ]
+            ],
+            "date-time": "2020-05-05T17:41:03Z",
+            "timestamp": 1588700463354
+        },
+        "reference-count": 75,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2019,
+                            7,
+                            12
+                        ]
+                    ],
+                    "date-time": "2019-07-12T00:00:00Z",
+                    "timestamp": 1562889600000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "DOI": "10.1145/3306346.3322996",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2019-07-12T19:04:08Z",
+            "timestamp": 1562958248000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+            "Hyperparameter optimization in black-box image processing using differentiable proxies"
+        ],
+        "prefix": "10.1145",
+        "volume": "38",
+        "author": [
+            {
+                "given": "Ethan",
+                "family": "Tseng",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Princeton University"
+                    }
+                ]
+            },
+            {
+                "given": "Felix",
+                "family": "Yu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Princeton University"
+                    }
+                ]
+            },
+            {
+                "given": "Yuting",
+                "family": "Yang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Princeton University"
+                    }
+                ]
+            },
+            {
+                "given": "Fahim",
+                "family": "Mannan",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Algolux, Canada"
+                    }
+                ]
+            },
+            {
+                "given": "Karl ST.",
+                "family": "Arnaud",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Algolux, Canada"
+                    }
+                ]
+            },
+            {
+                "given": "Derek",
+                "family": "Nowrouzezahrai",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "McGill University, Canada"
+                    }
+                ]
+            },
+            {
+                "given": "Jean-Fran\u00e7ois",
+                "family": "Lalonde",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Universit\u00e9 Laval, Canada"
+                    }
+                ]
+            },
+            {
+                "given": "Felix",
+                "family": "Heide",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Princeton University and Algolux, Canada"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_1_1_1",
+                "DOI": "10.1109/CVPR.2018.00182",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_2_1",
+                "unstructured": "D. Ackley. 2012. A Connectionist Machine for Genetic Hillclimbing. Springer US.  D. Ackley. 2012. A Connectionist Machine for Genetic Hillclimbing. Springer US."
+            },
+            {
+                "key": "e_1_2_1_3_1",
+                "DOI": "10.1109/TSP.2006.881199",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_4_1",
+                "DOI": "10.1109/MM.2015.10",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_5_1",
+                "DOI": "10.1117/12.905752",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_6_1",
+                "author": "Bergstra James",
+                "first-page": "281",
+                "year": "2012",
+                "article-title": "Random search for hyper-parameter optimization",
+                "journal-title": "Journal of Machine Learning Research 13"
+            },
+            {
+                "key": "e_1_2_1_7_1",
+                "DOI": "10.25080/Majora-8b375195-003",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_8_1",
+                "DOI": "10.1109/CVPR.2005.38",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_9_1",
+                "DOI": "10.5555/2354409.2354805",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_10_1",
+                "DOI": "10.1145/3072959.3073601",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_11_1",
+                "unstructured": "C. Chen Q. Chen J. Xu and V. Koltun. 2018. Learning to See in the Dark. ArXiv e-prints (May 2018). arXiv:1805.01934  C. Chen Q. Chen J. Xu and V. Koltun. 2018. Learning to See in the Dark. ArXiv e-prints (May 2018). arXiv:1805.01934",
+                "DOI": "10.1109/CVPR.2018.00347",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_12_1",
+                "author": "Chen Q.",
+                "volume-title": "Fast Image Processing with Fully-Convolutional Networks. In 2017 IEEE International Conference on Computer Vision (ICCV). 2516--2525"
+            },
+            {
+                "key": "e_1_2_1_13_1",
+                "unstructured": "Yunjin Chen and Thomas Pock. 2017. Trainable nonlinear reaction diffusion: A flexible framework for fast and effective image restoration. IEEE transactions on pattern analysis and machine intelligence 39 6 (2017) 1256--1272. 10.1109/TPAMI.2016.2596743   Yunjin Chen and Thomas Pock. 2017. Trainable nonlinear reaction diffusion: A flexible framework for fast and effective image restoration. IEEE transactions on pattern analysis and machine intelligence 39 6 (2017) 1256--1272. 10.1109/TPAMI.2016.2596743"
+            },
+            {
+                "key": "e_1_2_1_14_1",
+                "DOI": "10.1109/ISCE.2014.6884437",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_15_1",
+                "DOI": "10.5555/2319074.2321415",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_16_1",
+                "DOI": "10.1109/CVPR.2009.5206848",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_17_1",
+                "DOI": "10.1109/TIP.2006.881969",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_18_1",
+                "DOI": "10.1145/3272127.3275081",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_19_1",
+                "DOI": "10.1117/12.617680",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_20_1",
+                "unstructured": "Carl Friedrich Gauss. 1843. Dioptrische Untersuchungen von CF Gauss. in der Dieterichschen Buchhandlung.  Carl Friedrich Gauss. 1843. Dioptrische Untersuchungen von CF Gauss. in der Dieterichschen Buchhandlung."
+            },
+            {
+                "key": "e_1_2_1_21_1",
+                "unstructured": "Joseph M Geary. 2002. Introduction to lens design: with practical ZEMAX examples. Willmann-Bell Richmond.  Joseph M Geary. 2002. Introduction to lens design: with practical ZEMAX examples. Willmann-Bell Richmond."
+            },
+            {
+                "key": "e_1_2_1_22_1",
+                "DOI": "10.1177/0278364913491297",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_23_1",
+                "DOI": "10.1145/2980179.2982399",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_24_1",
+                "unstructured": "M. Gharbi J. Chen J. Barron S. Hasinoff and F. Durand. 2017. Deep Bilateral Learning for Real-Time Image Enhancement. ACM Trans. Graph. (SIGGRAPH) (2017). 10.1145/3072959.3073592   M. Gharbi J. Chen J. Barron S. Hasinoff and F. Durand. 2017. Deep Bilateral Learning for Real-Time Image Enhancement. ACM Trans. Graph. (SIGGRAPH) (2017). 10.1145/3072959.3073592"
+            },
+            {
+                "key": "e_1_2_1_25_1",
+                "DOI": "10.1145/280814.280816",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_26_1",
+                "DOI": "10.1109/CVPR.2014.366",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_27_1",
+                "unstructured": "Shi Guo Zifei Yan Kai Zhang Wangmeng Zuo and Lei Zhang. 2018. Toward convolutional blind denoising of real photographs. arXiv preprint arXiv:1807.04686 (2018).  Shi Guo Zifei Yan Kai Zhang Wangmeng Zuo and Lei Zhang. 2018. Toward convolutional blind denoising of real photographs. arXiv preprint arXiv:1807.04686 (2018)."
+            },
+            {
+                "key": "e_1_2_1_28_1",
+                "DOI": "10.1109/CVPR.2011.5995321",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_29_1",
+                "unstructured": "Nikolaus Hansen Sibylle D M\u00fcller and Petros Koumoutsakos. 2003. Reducing the time complexity of the derandomized evolution strategy with covariance matrix adaptation (CMA-ES). Evolutionary computation 11 1 (2003) 1--18. 10.1162/106365603321828970   Nikolaus Hansen Sibylle D M\u00fcller and Petros Koumoutsakos. 2003. Reducing the time complexity of the derandomized evolution strategy with covariance matrix adaptation (CMA-ES). Evolutionary computation 11 1 (2003) 1--18. 10.1162/106365603321828970"
+            },
+            {
+                "key": "e_1_2_1_30_1",
+                "DOI": "10.1145/2980179.2980254",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_31_1",
+                "DOI": "10.1109/CVPR.2016.90",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_32_1",
+                "DOI": "10.1145/2661229.2661260",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_33_1",
+                "unstructured": "ISO. {n. d.}a. ISO 1858. https://standards.ieee.org/standard/1858-2016.html. ({n. d.}). {Online; accessed 5-January-2019}.  ISO. {n. d.}a. ISO 1858. https://standards.ieee.org/standard/1858-2016.html. ({n. d.}). {Online; accessed 5-January-2019}."
+            },
+            {
+                "key": "e_1_2_1_34_1",
+                "unstructured": "ISO. {n. d.}b. ISO 71696. https://www.iso.org/standard/71696.htm. ({n. d.}). {Online; accessed 5-January-2019}.  ISO. {n. d.}b. ISO 71696. https://www.iso.org/standard/71696.htm. ({n. d.}). {Online; accessed 5-January-2019}."
+            },
+            {
+                "key": "e_1_2_1_35_1",
+                "DOI": "10.1109/CVPR.2017.632",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_36_1",
+                "unstructured": "Momin Jamil and Xin-She Yang. 2013. A Literature Survey of Benchmark Functions For Global Optimization Problems. CoRR abs/1308.4008 (2013). arXiv:1308.4008 http://arxiv.org/abs/1308.4008  Momin Jamil and Xin-She Yang. 2013. A Literature Survey of Benchmark Functions For Global Optimization Problems. CoRR abs/1308.4008 (2013). arXiv:1308.4008 http://arxiv.org/abs/1308.4008"
+            },
+            {
+                "key": "e_1_2_1_37_1",
+                "DOI": "10.1117/12.650848",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_38_1",
+                "DOI": "10.1145/3272127.3275109",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_39_1",
+                "DOI": "10.1007/978-3-319-10602-1_48",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_40_1",
+                "author": "Derek Liu Hsueh-Ti",
+                "year": "2019",
+                "volume-title": "International Conference on Learning Representations."
+            },
+            {
+                "key": "e_1_2_1_41_1",
+                "unstructured": "Ilya Loshchilov Tobias Glasmachers and Hans-Georg Beyer. 2017. Limited-Memory Matrix Adaptation for Large Scale Black-box Optimization. CoRR abs/1705.06693 (2017). http://arxiv.org/abs/1705.06693  Ilya Loshchilov Tobias Glasmachers and Hans-Georg Beyer. 2017. Limited-Memory Matrix Adaptation for Large Scale Black-box Optimization. CoRR abs/1705.06693 (2017). http://arxiv.org/abs/1705.06693"
+            },
+            {
+                "key": "e_1_2_1_42_1",
+                "unstructured": "Daniel Malacara-Hern\u00e1ndez and Zacar\u00edas Malacara-Hern\u00e1ndez. 2016. Handbook of optical design. CRC Press.  Daniel Malacara-Hern\u00e1ndez and Zacar\u00edas Malacara-Hern\u00e1ndez. 2016. Handbook of optical design. CRC Press."
+            },
+            {
+                "key": "e_1_2_1_43_1",
+                "DOI": "10.5555/2627435.2750364",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_44_1",
+                "unstructured": "ON Semi MT9P111. 2015. MT9P111: 1/4-Inch 5 Mp System-On-A-Chip (SOC) CMOS Digital Image Sensor. http://www.onsemi.com/pub/Collateral/MT9P111-D.PDF. (2015).  ON Semi MT9P111. 2015. MT9P111: 1/4-Inch 5 Mp System-On-A-Chip (SOC) CMOS Digital Image Sensor. http://www.onsemi.com/pub/Collateral/MT9P111-D.PDF. (2015)."
+            },
+            {
+                "key": "e_1_2_1_45_1",
+                "unstructured": "John A Nelder and Roger Mead. 1965. A simplex method for function minimization. The computer journal 7 4 (1965) 308--313.  John A Nelder and Roger Mead. 1965. A simplex method for function minimization. The computer journal 7 4 (1965) 308--313."
+            },
+            {
+                "key": "e_1_2_1_46_1",
+                "author": "Nishimura J.",
+                "volume-title": "Automatic ISP Image Quality Tuning Using Nonlinear Optimization. In 2018 25th IEEE International Conference on Image Processing (ICIP). 2471--2475"
+            },
+            {
+                "key": "e_1_2_1_47_1",
+                "DOI": "10.1145/2010324.1964963",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_48_1",
+                "DOI": "10.1145/1477926.1477929",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_49_1",
+                "unstructured": "Jonathan B. Phillips and Henrik Eliasson. 2018. Camera Image Quality Benchmarking (1st ed.). Wiley Publishing.   Jonathan B. Phillips and Henrik Eliasson. 2018. Camera Image Quality Benchmarking (1st ed.). Wiley Publishing.",
+                "DOI": "10.1002/9781119054504",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_50_1",
+                "DOI": "10.1093/comjnl/7.4.303",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_51_1",
+                "DOI": "10.1109/MSP.2005.1407713",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_52_1",
+                "unstructured": "L. A. Rastrigin. 1974. Systems of extremal control. Nauka (1974). https://ci.nii.ac.jp/naid/10018403158/en/  L. A. Rastrigin. 1974. Systems of extremal control. Nauka (1974). https://ci.nii.ac.jp/naid/10018403158/en/"
+            },
+            {
+                "key": "e_1_2_1_53_1",
+                "unstructured": "Shaoqing Ren Kaiming He Ross Girshick and Jian Sun. 2015. Faster R-CNN: Towards real-time object detection with region proposal networks. In Advances in Neural Information Processing Systems.   Shaoqing Ren Kaiming He Ross Girshick and Jian Sun. 2015. Faster R-CNN: Towards real-time object detection with region proposal networks. In Advances in Neural Information Processing Systems."
+            },
+            {
+                "key": "e_1_2_1_54_1",
+                "unstructured": "Olaf Ronneberger Philipp Fischer and Thomas Brox. 2015. U-Net: Convolutional Networks for Biomedical Image Segmentation. In Medical Image Computing and Computer-Assisted Intervention.  Olaf Ronneberger Philipp Fischer and Thomas Brox. 2015. U-Net: Convolutional Networks for Biomedical Image Segmentation. In Medical Image Computing and Computer-Assisted Intervention.",
+                "DOI": "10.1007/978-3-319-24574-4_28",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_55_1",
+                "DOI": "10.1109/CVPR.2005.160",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_56_1",
+                "DOI": "10.1145/1073204.1073257",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_57_1",
+                "DOI": "10.1109/JPROC.2015.2494218",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_58_1",
+                "DOI": "10.1109/TCYB.2013.2278548",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_59_1",
+                "DOI": "10.1109/CVPR.2016.207",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_60_1",
+                "DOI": "10.1145/3197517.3201333",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_61_1",
+                "unstructured": "Jasper Snoek Hugo Larochelle and Ryan P Adams. 2012. Practical bayesian optimization of machine learning algorithms. In Advances in Neural Information Processing Systems.   Jasper Snoek Hugo Larochelle and Ryan P Adams. 2012. Practical bayesian optimization of machine learning algorithms. In Advances in Neural Information Processing Systems."
+            },
+            {
+                "key": "e_1_2_1_62_1",
+                "author": "Stead R.",
+                "year": "2016",
+                "volume-title": "P2020 - Standard for Automotive System Image Quality. https://standards.ieee.org/develop/project/2020"
+            },
+            {
+                "key": "e_1_2_1_63_1",
+                "unstructured": "David G Stork and Patrick R Gill. 2013. Lensless ultra-miniature CMOS computational imagers and sensors. (2013).  David G Stork and Patrick R Gill. 2013. Lensless ultra-miniature CMOS computational imagers and sensors. (2013)."
+            },
+            {
+                "key": "e_1_2_1_64_1",
+                "first-page": "4",
+                "article-title": "Optical, mathematical, and computational foundations of lensless ultra-miniature diffractive imagers and sensors",
+                "volume": "7",
+                "author": "Stork David G",
+                "year": "2014",
+                "journal-title": "International Journal on Advances in Systems and Measurements"
+            },
+            {
+                "key": "e_1_2_1_65_1",
+                "unstructured": "Kevin Swersky Jasper Snoek and Ryan P Adams. 2013. Multi-task bayesian optimization. In Advances in neural information processing systems. 2004--2012.   Kevin Swersky Jasper Snoek and Ryan P Adams. 2013. Multi-task bayesian optimization. In Advances in neural information processing systems. 2004--2012."
+            },
+            {
+                "key": "e_1_2_1_66_1",
+                "DOI": "10.1109/TIP.2013.2293425",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_67_1",
+                "DOI": "10.5555/938978.939190",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_68_1",
+                "author": "Ulyanov Dmitry",
+                "year": "2017",
+                "volume-title": "IEEE International Conference on Computer Vision and Pattern Recognition."
+            },
+            {
+                "key": "e_1_2_1_69_1",
+                "author": "Xu Li",
+                "volume": "37",
+                "year": "2015",
+                "volume-title": "Proceedings of the 32nd International Conference on Machine Learning (Proceedings of Machine Learning Research), Francis Bach and David Blei (Eds.)"
+            },
+            {
+                "key": "e_1_2_1_70_1",
+                "DOI": "10.1007/s12204-016-1709-0",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_71_1",
+                "DOI": "10.1109/TIP.2017.2662206",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_72_1",
+                "DOI": "10.1016/j.patcog.2009.09.023",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_73_1",
+                "author": "Zhang L.",
+                "volume": "20",
+                "year": "2011",
+                "article-title": "Color demosaicking by local directional interpolation and nonlocal adaptive thresholding",
+                "journal-title": "Journal of Electronic Imaging"
+            },
+            {
+                "key": "e_1_2_1_74_1",
+                "DOI": "10.1109/CVPR.2018.00068",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_75_1",
+                "unstructured": "Daniel Zoran and Yair Weiss. 2011. From Learning Models of Natural Image Patches to Whole Image Restoration.  Daniel Zoran and Yair Weiss. 2011. From Learning Models of Natural Image Patches to Whole Image Restoration.",
+                "DOI": "10.1109/ICCV.2011.6126278",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3322996&ftid=2071746&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    5,
+                    5
+                ]
+            ],
+            "date-time": "2020-05-05T17:00:22Z",
+            "timestamp": 1588698022000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "references-count": 75,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        12
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3306346.3322996"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3306346.3322996",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

@@ -1,0 +1,462 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:55Z",
+            "timestamp": 1585962715564
+        },
+        "reference-count": 47,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201329",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 12,
+        "title": [
+            "Synthetic depth-of-field with a single-camera mobile phone"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Neal",
+                "family": "Wadhwa",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Google Research"
+                    }
+                ]
+            },
+            {
+                "given": "Rahul",
+                "family": "Garg",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Google Research"
+                    }
+                ]
+            },
+            {
+                "given": "David E.",
+                "family": "Jacobs",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Google Research"
+                    }
+                ]
+            },
+            {
+                "given": "Bryan E.",
+                "family": "Feldman",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Google Research"
+                    }
+                ]
+            },
+            {
+                "given": "Nori",
+                "family": "Kanazawa",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Google Research"
+                    }
+                ]
+            },
+            {
+                "given": "Robert",
+                "family": "Carroll",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Google Research"
+                    }
+                ]
+            },
+            {
+                "given": "Yair",
+                "family": "Movshovitz-Attias",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Google Research"
+                    }
+                ]
+            },
+            {
+                "given": "Jonathan T.",
+                "family": "Barron",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Google Research"
+                    }
+                ]
+            },
+            {
+                "given": "Yael",
+                "family": "Pritch",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Google Research"
+                    }
+                ]
+            },
+            {
+                "given": "Marc",
+                "family": "Levoy",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Google Research"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "Mart\u00edn Abadi Ashish Agarwal Paul Barham Eugene Brevdo etal 2015. TensorFlow: Large-Scale Machine Learning on Heterogeneous Systems. https://www.tensorflow.org/  Mart\u00edn Abadi Ashish Agarwal Paul Barham Eugene Brevdo et al. 2015. TensorFlow: Large-Scale Machine Learning on Heterogeneous Systems. https://www.tensorflow.org/"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "Edward H Adelson and James R Bergen. 1985. Spatiotemporal energy models for the perception of motion. JOSA A (1985).  Edward H Adelson and James R Bergen. 1985. Spatiotemporal energy models for the perception of motion. JOSA A (1985)."
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "unstructured": "Edward H Adelson and John YA Wang. 1992. Single lens stereo with a plenoptic camera. TPAMI (1992). 10.1109/34.121783   Edward H Adelson and John YA Wang. 1992. Single lens stereo with a plenoptic camera. TPAMI (1992). 10.1109/34.121783"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/2980179.2980257",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "Jonathan T Barron Andrew Adams YiChang Shih and Carlos Hern\u00e1ndez. 2015. Fast bilateral-space stereo for synthetic defocus. CVPR (2015).  Jonathan T Barron Andrew Adams YiChang Shih and Carlos Hern\u00e1ndez. 2015. Fast bilateral-space stereo for synthetic defocus. CVPR (2015)."
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "author": "Barron J. T.",
+                "volume": "201",
+                "journal-title": "J. Malik."
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "unstructured": "Jonathan T Barron and Ben Poole. 2016. The fast bilateral solver. ECCV (2016).  Jonathan T Barron and Ben Poole. 2016. The fast bilateral solver. ECCV (2016)."
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "Qifeng Chen Dingzeyu Li and Chi-Keung Tang. 2013. KNN matting. TPAMI (2013). 10.1109/TPAMI.2013.18   Qifeng Chen Dingzeyu Li and Chi-Keung Tang. 2013. KNN matting. TPAMI (2013). 10.1109/TPAMI.2013.18"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "David Eigen Christian Puhrsch and Rob Fergus. 2014. Depth Map Prediction from a Single Image Using a Multi-scale Deep Network. NIPS (2014).   David Eigen Christian Puhrsch and Rob Fergus. 2014. Depth Map Prediction from a Single Image Using a Multi-scale Deep Network. NIPS (2014)."
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "Ravi Garg Vijay Kumar B.G. Gustavo Carneiro and Ian Reid. 2016. Unsupervised CNN for Single View Depth Estimation: Geometry to the Rescue. ECCV (2016).  Ravi Garg Vijay Kumar B.G. Gustavo Carneiro and Ian Reid. 2016. Unsupervised CNN for Single View Depth Estimation: Geometry to the Rescue. ECCV (2016).",
+                "DOI": "10.1007/978-3-319-46484-8_45",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "Ross Girshick. 2015. Fast R-CNN. ICCV (2015). 10.1109/ICCV.2015.169   Ross Girshick. 2015. Fast R-CNN. ICCV (2015). 10.1109/ICCV.2015.169",
+                "DOI": "10.1109/ICCV.2015.169",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "author": "Godard Cl\u00e9ment",
+                "volume": "201",
+                "journal-title": "Gabriel J. Brostow."
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "Steven J Gortler Radek Grzeszczuk Richard Szeliski and Michael F Cohen. 1996. The lumigraph. SIGGRAPH (1996). 10.1145/237170.237200   Steven J Gortler Radek Grzeszczuk Richard Szeliski and Michael F Cohen. 1996. The lumigraph. SIGGRAPH (1996). 10.1145/237170.237200"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Hyowon Ha Sunghoon Im Jaesik Park Hae-Gon Jeon and In So Kweon. 2016. High-quality Depth from Uncalibrated Small Motion Clip. CVPR (2016).  Hyowon Ha Sunghoon Im Jaesik Park Hae-Gon Jeon and In So Kweon. 2016. High-quality Depth from Uncalibrated Small Motion Clip. CVPR (2016)."
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "unstructured": "Samuel W Hasinoff Dillon Sharlet Ryan Geiss Andrew Adams Jonathan T Barron Florian Kainz Jiawen Chen and Marc Levoy. 2016. Burst photography for high dynamic range and low-light imaging on mobile cameras. SIGGRAPH (2016).  Samuel W Hasinoff Dillon Sharlet Ryan Geiss Andrew Adams Jonathan T Barron Florian Kainz Jiawen Chen and Marc Levoy. 2016. Burst photography for high dynamic range and low-light imaging on mobile cameras. SIGGRAPH (2016).",
+                "DOI": "10.1145/2980179.2980254",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "Kaiming He Georgia Gkioxari Piotr Doll\u00e1r and Ross Girshick. 2017. Mask R-CNN. ICCV (2017).  Kaiming He Georgia Gkioxari Piotr Doll\u00e1r and Ross Girshick. 2017. Mask R-CNN. ICCV (2017)."
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "Carlos Hern\u00e1ndez. 2014. Lens Blur in the new Google Camera app. http://research.googleblog.com/2014/04/lens-blur-in-new-google-camera-app.html.  Carlos Hern\u00e1ndez. 2014. Lens Blur in the new Google Camera app. http://research.googleblog.com/2014/04/lens-blur-in-new-google-camera-app.html."
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "unstructured": "Derek Hoiem Alexei A. Efros and Martial Hebert. 2005. Automatic Photo Pop-up. SIGGRAPH (2005). 10.1145/1186822.1073232   Derek Hoiem Alexei A. Efros and Martial Hebert. 2005. Automatic Photo Pop-up. SIGGRAPH (2005). 10.1145/1186822.1073232"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "unstructured": "B. K. P. Horn. 1975. Obtaining shape from shading information. The Psychology of Computer Vision (1975).   B. K. P. Horn. 1975. Obtaining shape from shading information. The Psychology of Computer Vision (1975)."
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "H. G. Jeon J. Park G. Choe J. Park Y. Bok Y. W. Tai and I. S. Kweon. 2015. Accurate depth map estimation from a lenslet light field camera. CVPR (2015).  H. G. Jeon J. Park G. Choe J. Park Y. Bok Y. W. Tai and I. S. Kweon. 2015. Accurate depth map estimation from a lenslet light field camera. CVPR (2015).",
+                "DOI": "10.1109/CVPR.2015.7298762",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "unstructured": "Neel Joshi and Larry Zitnick. 2014. Micro-Baseline Stereo. Technical Report.  Neel Joshi and Larry Zitnick. 2014. Micro-Baseline Stereo. Technical Report."
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "Johannes Kopf Michael F Cohen Dani Lischinski and Matt Uyttendaele. 2007. Joint bilateral upsampling. ACM TOG (2007). 10.1145/1276377.1276497   Johannes Kopf Michael F Cohen Dani Lischinski and Matt Uyttendaele. 2007. Joint bilateral upsampling. ACM TOG (2007). 10.1145/1276377.1276497",
+                "DOI": "10.1145/1275808.1276497",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "M. Kraus and M. Strengert. 2007. Depth-of-Field Rendering by Pyramidal Image Processing. Computer Graphics Forum (2007).  M. Kraus and M. Strengert. 2007. Depth-of-Field Rendering by Pyramidal Image Processing. Computer Graphics Forum (2007)."
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "unstructured": "Sungkil Lee Gerard Jounghyun Kim and Seungmoon Choi. 2009. Real-Time Depth-of-Field Rendering Using Anisotropically Filtered Mipmap Interpolation. IEEE TVCG (2009). 10.1109/TVCG.2008.106   Sungkil Lee Gerard Jounghyun Kim and Seungmoon Choi. 2009. Real-Time Depth-of-Field Rendering Using Anisotropically Filtered Mipmap Interpolation. IEEE TVCG (2009). 10.1109/TVCG.2008.106"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "unstructured": "Marc Levoy and Pat Hanrahan. 1996. Light field rendering. SIGGRAPH (1996). 10.1145/237170.237199   Marc Levoy and Pat Hanrahan. 1996. Light field rendering. SIGGRAPH (1996). 10.1145/237170.237199"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "unstructured": "Fayao Liu Chunhua Shen Guosheng Lin and Ian Reid. 2016. Learning Depth from Single Monocular Images Using Deep Convolutional Neural Fields. TPAMI (2016). 10.1109/TPAMI.2015.2505283   Fayao Liu Chunhua Shen Guosheng Lin and Ian Reid. 2016. Learning Depth from Single Monocular Images Using Deep Convolutional Neural Fields. TPAMI (2016). 10.1109/TPAMI.2015.2505283"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "unstructured": "Jonathan Long Evan Shelhamer and Trevor Darrell. 2015. Fully Convolutional Networks for Semantic Segmentation. CVPR (2015).  Jonathan Long Evan Shelhamer and Trevor Darrell. 2015. Fully Convolutional Networks for Semantic Segmentation. CVPR (2015)."
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "Alejandro Newell Kaiyu Yang and Jia Deng. 2016. Stacked Hourglass Networks for Human Pose Estimation. ECCV (2016).  Alejandro Newell Kaiyu Yang and Jia Deng. 2016. Stacked Hourglass Networks for Human Pose Estimation. ECCV (2016)."
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "unstructured": "Ren Ng Marc Levoy Mathieu Br\u00e9dif Gene Duval Mark Horowitz and Pat Hanrahan. 2005. Light field photography with a hand-held plenoptic camera. (2005).  Ren Ng Marc Levoy Mathieu Br\u00e9dif Gene Duval Mark Horowitz and Pat Hanrahan. 2005. Light field photography with a hand-held plenoptic camera. (2005)."
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "unstructured": "George Papandreou Tyler Zhu Nori Kanazawa Alexander Toshev Jonathan Tompson. Chris Bregler and Kevin Murphy. 2017. Towards Accurate Multi-person Pose Estimation in the Wild. CVPR (2017).  George Papandreou Tyler Zhu Nori Kanazawa Alexander Toshev Jonathan Tompson. Chris Bregler and Kevin Murphy. 2017. Towards Accurate Multi-person Pose Estimation in the Wild. CVPR (2017).",
+                "DOI": "10.1109/CVPR.2017.395",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "unstructured": "Jonathan Ragan-Kelley Connelly Barnes Andrew Adams Sylvain Paris Fr\u00e9do Durand and Saman Amarasinghe. 2013. Halide: a language and compiler for optimizing parallelism locality and recomputation in image processing pipelines. ACM SIGPLAN Notices (2013). 10.1145/2499370.2462176   Jonathan Ragan-Kelley Connelly Barnes Andrew Adams Sylvain Paris Fr\u00e9do Durand and Saman Amarasinghe. 2013. Halide: a language and compiler for optimizing parallelism locality and recomputation in image processing pipelines. ACM SIGPLAN Notices (2013). 10.1145/2499370.2462176"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "unstructured": "Olaf Ronneberger Philipp Fischer and Thomas Brox. 2015. U-Net: Convolutional Networks for Biomedical Image Segmentation. MICCAI (2015).  Olaf Ronneberger Philipp Fischer and Thomas Brox. 2015. U-Net: Convolutional Networks for Biomedical Image Segmentation. MICCAI (2015)."
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "unstructured": "Ashutosh Saxena Min Sun and Andrew Y. Ng. 2009. Make3D: Learning 3D Scene Structure from a Single Still Image. TPAMI (2009). 10.1109/TPAMI.2008.132   Ashutosh Saxena Min Sun and Andrew Y. Ng. 2009. Make3D: Learning 3D Scene Structure from a Single Still Image. TPAMI (2009). 10.1109/TPAMI.2008.132"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "unstructured": "Daniel Scharstein and Richard Szeliski. 2002. A Taxonomy and Evaluation of Dense Two-Frame Stereo Correspondence Algorithms. IJCV (2002). 10.1023/A:1014573219977   Daniel Scharstein and Richard Szeliski. 2002. A Taxonomy and Evaluation of Dense Two-Frame Stereo Correspondence Algorithms. IJCV (2002). 10.1023/A:1014573219977"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "unstructured": "Xiaoyong Shen Aaron Hertzmann Jiaya Jia Sylvain Paris Brian Price Eli Shechtman and Ian Sachs. 2016a. Automatic portrait segmentation for image stylization. Computer Graphics Forum (2016).  Xiaoyong Shen Aaron Hertzmann Jiaya Jia Sylvain Paris Brian Price Eli Shechtman and Ian Sachs. 2016a. Automatic portrait segmentation for image stylization. Computer Graphics Forum (2016).",
+                "DOI": "10.1111/cgf.12814",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "unstructured": "Xiaoyong Shen Xin Tao Hongyun Gao Chao Zhou and Jiaya Jia. 2016b. Deep Automatic Portrait Matting. ECCV (2016).  Xiaoyong Shen Xin Tao Hongyun Gao Chao Zhou and Jiaya Jia. 2016b. Deep Automatic Portrait Matting. ECCV (2016)."
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "unstructured": "Sudipta N. Sinha Daniel Scharstein and Richard Szeliski. 2014. Efficient High-Resolution Stereo Matching using Local Plane Sweeps. CVPR (2014). 10.1109/CVPR.2014.205   Sudipta N. Sinha Daniel Scharstein and Richard Szeliski. 2014. Efficient High-Resolution Stereo Matching using Local Plane Sweeps. CVPR (2014). 10.1109/CVPR.2014.205"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "unstructured": "S. Suwajanakorn C. Hernandez and S. M. Seitz. 2015. Depth from focus with your mobile phone. CVPR (2015).  S. Suwajanakorn C. Hernandez and S. M. Seitz. 2015. Depth from focus with your mobile phone. CVPR (2015)."
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "unstructured": "H. Tang S. Cohen B. Price S. Schiller and K. N. Kutulakos. 2017. Depth from Defocus in the Wild. CVPR (2017).  H. Tang S. Cohen B. Price S. Schiller and K. N. Kutulakos. 2017. Depth from Defocus in the Wild. CVPR (2017)."
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "unstructured": "Michael W Tao Sunil Hadap Jitendra Malik and Ravi Ramamoorthi. 2013. Depth from combining defocus and correspondence using light-field cameras. ICCV (2013). 10.1109/ICCV.2013.89   Michael W Tao Sunil Hadap Jitendra Malik and Ravi Ramamoorthi. 2013. Depth from combining defocus and correspondence using light-field cameras. ICCV (2013). 10.1109/ICCV.2013.89"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "unstructured": "Jonathan Tompson Arjun Jain Yann LeCun and Christoph Bregler. 2014. Joint Training of a Convolutional Network and a Graphical Model for Human Pose Estimation. NIPS (2014).   Jonathan Tompson Arjun Jain Yann LeCun and Christoph Bregler. 2014. Joint Training of a Convolutional Network and a Graphical Model for Human Pose Estimation. NIPS (2014)."
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "author": "Tripathi Subarna",
+                "volume": "201",
+                "journal-title": "Serge J. Belongie."
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "unstructured": "Junyuan Xie Ross Girshick and Ali Farhadi. 2016. Deep3D: Fully Automatic 2D-to-3D Video Conversion with Deep Convolutional Neural Networks. ECCV (2016).  Junyuan Xie Ross Girshick and Ali Farhadi. 2016. Deep3D: Fully Automatic 2D-to-3D Video Conversion with Deep Convolutional Neural Networks. ECCV (2016)."
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "unstructured": "N. Xu B. Price S. Cohen and T. Huang. 2017. Deep Image Matting. CVPR (2017).  N. Xu B. Price S. Cohen and T. Huang. 2017. Deep Image Matting. CVPR (2017)."
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "unstructured": "Fisher Yu and David Gallup. 2014. 3D Reconstruction from Accidental Motion. CVPR (2014). 10.1109/CVPR.2014.509   Fisher Yu and David Gallup. 2014. 3D Reconstruction from Accidental Motion. CVPR (2014). 10.1109/CVPR.2014.509"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "unstructured": "Tinghui Zhou Matthew Brown Noah Snavely and David G. Lowe. 2017. Unsupervised Learning of Depth and Ego-Motion from Video. CVPR (2017).  Tinghui Zhou Matthew Brown Noah Snavely and David G. Lowe. 2017. Unsupervised Learning of Depth and Ego-Motion from Video. CVPR (2017)."
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "unstructured": "Bingke Zhu Yingying Chen Jinqiao Wang Si Liu Bo Zhang and Ming Tang. 2017. Fast Deep Matting for Portrait Animation on Mobile Phone. ACM Multimedia (2017). 10.1145/3123266.3123286   Bingke Zhu Yingying Chen Jinqiao Wang Si Liu Bo Zhang and Ming Tang. 2017. Fast Deep Matting for Portrait Animation on Mobile Phone. ACM Multimedia (2017). 10.1145/3123266.3123286",
+                "DOI": "10.1145/3123266.3123286",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201329&ftid=1991748&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:55:14Z",
+            "timestamp": 1585961714000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 47,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201329"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201329",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

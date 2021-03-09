@@ -1,0 +1,397 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:11:20Z",
+            "timestamp": 1586002280254
+        },
+        "reference-count": 43,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601184",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 20,
+        "title": [
+            "Parametric wave field coding for precomputed sound propagation"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Nikunj",
+                "family": "Raghuvanshi",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research"
+                    }
+                ]
+            },
+            {
+                "given": "John",
+                "family": "Snyder",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1109/TSP.2006.879280",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1121/1.382599",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "unstructured": "Beranek L. L. 2003. Subjective Rank-Orderings and Acoustical Measurements for Fifty-Eight Concert Halls. Acta Acustica united with Acustica (May) 494--508.  Beranek L. L. 2003. Subjective Rank-Orderings and Acoustical Measurements for Fifty-Eight Concert Halls. Acta Acustica united with Acustica (May) 494--508."
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "first-page": "399",
+                "article-title": "Accuracy and reproducibility of auditorium acoustics measures",
+                "volume": "10",
+                "author": "Bradley J. S.",
+                "year": "1988",
+                "journal-title": "British Institute of Acoustics"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "Calamia P. 2009. Advances in Edge-Diffraction Modeling for Virtual-Acoustic Simulations. PhD thesis Princeton University.   Calamia P. 2009. Advances in Edge-Diffraction Modeling for Virtual-Acoustic Simulations . PhD thesis Princeton University."
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1109/TVCG.2008.111",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "unstructured": "Davy J. L. Dunn I. P. and Dubout P. 1979. The Variance of Decay Rates in Reverberation Rooms. Acta Acustica united with Acustica (Aug.) 12--25.  Davy J. L. Dunn I. P. and Dubout P. 1979. The Variance of Decay Rates in Reverberation Rooms. Acta Acustica united with Acustica (Aug.) 12--25."
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1121/1.1641020",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "author": "Gade A.",
+                "year": "2007",
+                "volume-title": "Ed."
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "IASIG 3D Working Group. 1999. Interactive 3D Audio Rendering Guidlelines Level 2.0 Sept.  IASIG 3D Working Group. 1999. Interactive 3D Audio Rendering Guidlelines Level 2.0 Sept."
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "ISO 3382-1:2009. Acoustics - Measurement of room acoustic parameters - Part 1: Performance spaces. International Organization for Standardization.  ISO 3382-1:2009. Acoustics - Measurement of room acoustic parameters - Part 1: Performance spaces. International Organization for Standardization ."
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/1141911.1141983",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1121/1.3655171",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1109/TASL.2010.2045179",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "author": "Krokstad A.",
+                "volume-title": "Reflections on sound"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "Kuttruff H. 2000. Room Acoustics 4 ed. Taylor & Francis.  Kuttruff H. 2000. Room Acoustics 4 ed. Taylor & Francis."
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1016/j.apacoust.2007.11.011",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1016/j.apacoust.2011.05.012",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/2451236.2451245",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "first-page": "1115",
+                "article-title": "Spatial Impulse Response Rendering I",
+                "volume": "53",
+                "author": "Merimaa J.",
+                "year": "2005",
+                "journal-title": "Analysis and Synthesis. J. Audio Eng. Soc"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1109/MSP.2007.323264",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1109/TVCG.2009.27",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "Raghuvanshi N. Snyder J. Mehra R. Lin M. C. and Govindaraju N. K. 2010. Precomputed Wave Simulation for Real-Time Sound Propagation of Dynamic Sources in Complex Scenes. ACM Transactions on Graphics (proceedings of SIGGRAPH 2010) 29 3 (July). 10.1145/1778765.1778805   Raghuvanshi N. Snyder J. Mehra R. Lin M. C. and Govindaraju N. K. 2010. Precomputed Wave Simulation for Real-Time Sound Propagation of Dynamic Sources in Complex Scenes. ACM Transactions on Graphics (proceedings of SIGGRAPH 2010) 29 3 (July). 10.1145/1778765.1778805",
+                "DOI": "10.1145/1833349.1778805",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "Rindel J. H. and Christensen C. L. 2013. The use of colors animations and auralizations in room acoustics. In Internoise 2013.  Rindel J. H. and Christensen C. L. 2013. The use of colors animations and auralizations in room acoustics. In Internoise 2013 ."
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1109/T-SP.1953.28140",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1250/ast.29.256",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "author": "Savioja L.",
+                "volume-title": "Proceedings of the International Computer Music Conference, 463--466"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "author": "Savioja L.",
+                "year": "2010",
+                "volume-title": "13th International Conference on Digital Audio Effects (DAFx-10)"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "Schr\u00f6der D. 2011. Physically Based Real-Time Auralization of Interactive Virtual Environments. Logos Verlag Dec.  Schr\u00f6der D. 2011. Physically Based Real-Time Auralization of Interactive Virtual Environments . Logos Verlag Dec."
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1121/1.2766781",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "unstructured": "Siltanen S. Lokki T. and Savioja L. 2009. Frequency Domain Acoustic Radiance Transfer for Real-Time Auralization. Acta Acustica united with Acustica 95 1 106--117.  Siltanen S. Lokki T. and Savioja L. 2009. Frequency Domain Acoustic Radiance Transfer for Real-Time Auralization. Acta Acustica united with Acustica 95 1 106--117.",
+                "DOI": "10.3813/AAA.918132",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "author": "Siltanen S.",
+                "volume-title": "Proc. Int. Symposium on Room Acoustics."
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "author": "Siltanen S.",
+                "volume-title": "Proc. ISRA Melbourne."
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "unstructured": "Siltanen S. 2005. Geometry Reduction in Room Acoustics Modeling. Master's thesis Helsinki University of Technology.  Siltanen S. 2005. Geometry Reduction in Room Acoustics Modeling . Master's thesis Helsinki University of Technology."
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "first-page": "1940",
+                "article-title": "Room Impulse Response Synthesis and Validation Using a Hybrid Acoustic Model. Audio, Speech, and Language Processing",
+                "volume": "21",
+                "author": "Southern A.",
+                "year": "2013",
+                "journal-title": "IEEE Transactions on"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "unstructured": "Stephenson U. M. and Svensson U. P. 2007. An improved energetic approach to diffraction based on the uncertainty principle. In 19th Int. Cong. on Acoustics (ICA).  Stephenson U. M. and Svensson U. P. 2007. An improved energetic approach to diffraction based on the uncertainty principle. In 19th Int. Cong. on Acoustics (ICA) ."
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/74334.74353",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1121/1.428071",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/142920.134063",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1145/1631272.1631311",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "author": "Tsingos N.",
+                "year": "2009",
+                "volume-title": "35th AES Conference on Audio for Games."
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "first-page": "5",
+                "article-title": "Fifty Years of Artificial Reverberation. Audio, Speech, and Language Processing",
+                "volume": "20",
+                "author": "Valimaki V.",
+                "year": "2012",
+                "journal-title": "IEEE Transactions on"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1145/2508363.2508420",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601184&amp;ftid=1488847&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:51:12Z",
+            "timestamp": 1586001072000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 43,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601184"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601184",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

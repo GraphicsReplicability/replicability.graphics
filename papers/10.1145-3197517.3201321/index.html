@@ -1,0 +1,212 @@
+<html><head><meta charset="utf-8">
+ <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+ <script src="../../assets/js/chart-utils.js"></script>
+<link rel="stylesheet"
+       href="../../assets/css/default.min.css">
+ <script src="../../assets/js/highlight.min.js"></script>
+ <script>hljs.initHighlightingOnLoad();</script>
+ <link href="../../assets/css/all.css" rel="stylesheet">
+ <link rel="stylesheet" href="../../assets/css/customstyle.css">
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pretty-checkbox@3.0/dist/pretty-checkbox.min.css">
+
+  <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+  <script>
+  var currentReviewId = 0;
+
+  $( function() {
+    $( "#tabs" ).tabs({
+    activate: function (event, ui) {
+        var reviewId = parseInt(event.currentTarget.id.substring(6));
+
+        [myChart.data.datasets[0].data, myChart.data.datasets[currentReviewId].data] =
+ [myChart.data.datasets[currentReviewId].data, myChart.data.datasets[0].data];
+
+        currentReviewId = reviewId-1;
+
+        [myChart.data.datasets[0].data, myChart.data.datasets[currentReviewId].data] =
+ [myChart.data.datasets[currentReviewId].data, myChart.data.datasets[0].data];
+
+        myChart.update(0);
+    }
+  });
+  } );
+  </script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-164636527-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-164636527-1');
+</script>
+<title>The layer laboratory: a calculus for additive and subtractive composition of anisotropic surface reflectance</title>
+<meta name="description" content="Replicability and source code of the article The layer laboratory: a calculus for additive and subtractive composition of anisotropic surface reflectance.">
+
+  </head>
+<body>
+  <ul class="publist-inline" style="text-align:left;"><li class="web"><a href="../../browse.html">< The Data</a></ul><h1 class="title">The layer laboratory: a calculus for additive and subtractive composition of anisotropic surface reflectance <i class="fas fa-circle graphcol0" style="font-size:150%;color:#0868ac;" title="code available and we were able to reproduce most results (score >= 4)"></i> <i class="fas fa-square graphcol6"  style="font-size:150%;color:#7570b3;" title="Preprint PDF available (author web page, project page, institution page, arxiv...)"></i></h1><ul class="authors">
+<li> Tizian <span class="family">Zeltner</span></li>
+<li> Wenzel <span class="family">Jakob</span></li>
+</ul>
+<center> SIGGRAPH 2018</center><ul class="publist-inline">
+<li class="web"> <i class="fas fa-globe-americas"></i> <a href="https://doi.org/10.1145/3197517.3201321">ACM</a></li>
+<li class="pdf"> <i class="far fa-file-pdf"></i> <a href="https://rgl.s3.eu-central-1.amazonaws.com/media/papers/Zeltner2018Layer_1.pdf">preprint</a></li>
+<li class="web"> <i class="fas fa-globe-americas"></i> <a href="https://rgl.epfl.ch/publications/Zeltner2018Layer">Project page</a></li>
+<li class="web"> <i class="far fa-file-alt"></i> <a href="https://rgl.s3.eu-central-1.amazonaws.com/media/papers/Zeltner2018Layer_2.zip">Code</a></li>
+<li class="web"> <i class="far fa-file-alt"></i> <a href="https://rgl.s3.eu-central-1.amazonaws.com/media/papers/Zeltner2018Layer_1.zip">Code 2</a></li>
+<li class="web"> <i class="fas fa-database"></i> <a href="10.1145-3197517.3201321-metadata.json">DOI Metadata</a></li>
+</ul>
+<center><img width="300" src="10.1145-3197517.3201321-thumb.png"></img></center><br><br><ul class="publist-inline" style="text-align:left;font-size:100%"><li > <i ></i> <a href="replicability.json">Download complete data for this entry</a></li></ul>
+    <div class="row">
+    <div class="column2 chart-container" style="position: relative; height:40vh; width:30vw">
+    <canvas width="300" height="250" id="myChart" class="chartjs-render-monitor"></canvas>
+    </div>
+    
+    <div class="column2">
+    <h2>Reviews</h2>
+       <div id="tabs">
+          <ul>             <li><a href="#review-1">main</a></li>
+             <li><a href="#review-2">&#43;</a></li>
+</ul><div id="review-1"><h2>Information</h2><ul><li><span class="family">Paper topic</span>: Rendering</li>
+<li><span class="family">Software type</span>: Code</li>
+<li><span class="family">Able to run a replicability test</span>: False</li>
+<li><span class="family">Replicability score</span>: 5</li>
+<li><span class="family">Software language</span>: C/C++, Python</li>
+<li><span class="family">License</span>: unspecified</li>
+<li><span class="family">Build mechanism</span>: CMakeLists, Not applicable (python, Matlab..)</li>
+<li><span class="family">Dependencies</span>: umfpack / sparseqr/ libvips / jupyter</li>
+<li><span class="family">Documentation score</span> {0,1,2}: 1</li>
+<li><span class="family">Reviewer</span>: Julie Digne &lt;julie.digne@liris.cnrs.fr&gt;</li>
+<li><span class="family">Time spent for the test (build->first run, timeout at 100min)</span>: 100min</li>
+</ul><h2>Source code information</h2>
+<ul><li><span class="family">Code URL</span>:  <a href="https://rgl.s3.eu-central-1.amazonaws.com/media/papers/Zeltner2018Layer_2.zip">https://rgl.s3.eu-central-1.amazonaws.com/media/papers/Zeltner2018Layer_2.zip</a></li>
+<li><span class="family">Code URL 2</span>: <a href="https://rgl.s3.eu-central-1.amazonaws.com/media/papers/Zeltner2018Layer_1.zip">https://rgl.s3.eu-central-1.amazonaws.com/media/papers/Zeltner2018Layer_1.zip</a></li>
+<li><span class="family">MD5 hash of the code archive</span>: 744fa17a495a639abbf8836d2bd5db25</li>
+</ul><h2>Comments</h2><pre>Linux : compiled successfully after several major changes:
+
+** File mitsuba-layers/src/liblayer/microfacet.cpp: because of a delete use of = for a std::bind, I changed lines 602 forward to: 
+    auto const &integ1 = std::bind(&microfacet_fresnel, mu_o, mu_i, 0.0, std::placeholders::_1, alpha_u, alpha_v, eta_);
+    auto const &integ2 = std::bind(&microfacet_fresnel_no_additional_factors, mu_o, mu_i, 0.0, std::placeholders::_1, alpha_u, alpha_v, eta_);
+    auto integrand = &integ1;
+    if (fresnel_only) { integrand = &integ2;  }
+
+** File mitsuba-layers/include/mitsuba/layer/sparse.h add #include&lt;memory&gt;
+** File mitsuba-layers/ext/enoki/include/enoki/alloc.h add #include&lt;cstring&gt;
+** File mitsuba-layers/CMakeLists.txt : add  -fpermissive to CMAKE_CXX_FLAGS
+
+** Files mitsuba-layers/ext/openexr/CMakeLists.txt an nori/ext/openexr/CMakeLists.txt
+add_custom_target(CopyIlmBaseLibs
+  COMMAND ${CMAKE_COMMAND} -E copy_directory
+  ${CMAKE_CURRENT_BINARY_DIR}/IlmBase/Half/
+  ${CMAKE_CURRENT_BINARY_DIR}/OpenEXR/IlmImf/
+  COMMAND ${CMAKE_COMMAND} -E copy_directory
+  ${CMAKE_CURRENT_BINARY_DIR}/IlmBase/IlmThread/
+  ${CMAKE_CURRENT_BINARY_DIR}/OpenEXR/IlmImf/
+  COMMAND ${CMAKE_COMMAND} -E copy_directory
+  ${CMAKE_CURRENT_BINARY_DIR}/IlmBase/Iex/
+  ${CMAKE_CURRENT_BINARY_DIR}/OpenEXR/IlmImf/
+  COMMAND ${CMAKE_COMMAND} -E copy_directory
+  ${CMAKE_CURRENT_BINARY_DIR}/IlmBase/Imath/
+  ${CMAKE_CURRENT_BINARY_DIR}/OpenEXR/IlmImf/
+)
+instead of 
+add_custom_target(CopyIlmBaseLibs
+COMMAND ${CMAKE_COMMAND} -E copy_directory
+  ${CMAKE_CURRENT_BINARY_DIR}/IlmBase/Half/$&lt;CONFIGURATION&gt;
+  ${CMAKE_CURRENT_BINARY_DIR}/OpenEXR/IlmImf/$&lt;CONFIGURATION&gt;
+  COMMAND ${CMAKE_COMMAND} -E copy_directory
+  ${CMAKE_CURRENT_BINARY_DIR}/IlmBase/IlmThread/$&lt;CONFIGURATION&gt;
+  ${CMAKE_CURRENT_BINARY_DIR}/OpenEXR/IlmImf/$&lt;CONFIGURATION&gt;
+  COMMAND ${CMAKE_COMMAND} -E copy_directory
+  ${CMAKE_CURRENT_BINARY_DIR}/IlmBase/Iex/$&lt;CONFIGURATION&gt;
+  ${CMAKE_CURRENT_BINARY_DIR}/OpenEXR/IlmImf/$&lt;CONFIGURATION&gt;
+  COMMAND ${CMAKE_COMMAND} -E copy_directory
+  ${CMAKE_CURRENT_BINARY_DIR}/IlmBase/Imath/$&lt;CONFIGURATION&gt;
+  ${CMAKE_CURRENT_BINARY_DIR}/OpenEXR/IlmImf/$&lt;CONFIGURATION&gt;
+)
+
+** file nori-layers/ext/tbb/include/tbb/pipeline.h
+Replace line 328:
+template&lt;typename T&gt; struct tbb_trivially_copyable { enum { value = std::has_trivial_copy_constructor&lt;T&gt;::value }; };
+by:
+ template&lt;typename T&gt; struct tbb_trivially_copyable { enum { value = std::is_trivially_copy_constructible&lt;T&gt;::value }; };
+
+
+
+However none of the jupyter notebooks worked due to a problem with the version of prompt_toolkit. jupyter notebooks to replicate the results are provided. I could turn some of them into python scripts, but there were a lot of compatibility issues with matplotlib. Also don't forget to source setpath.sh to be able to import the compiled mitsuba in python.
+
+MacOS Attempt: The paper provides the code and data to reproduce the paper results (C++ code and jupyter notebooks to reproduce the figures). Unfortunately, the mitsuba-layers and nori renderer fail to compile on linux and macOS. E.g.:
+  - mitsuba-layers (on macOS): issue with tbb
+     [  1%] Built target mitsuba-layer-obj
+     [  1%] Built target tbb_def_files
+     [  1%] Linking CXX shared library libtbb.dylib
+     clang: error: no such file or directory: 'and'
+     clang: error: no such file or directory: 'data/mitsuba-layers/b1/ext_build/tbb/tbb.def'
+  - nori : Thread issue at cmake level.</pre></div><div id=review-2>
+           <p> If you want to contribute with another review, please follow <a href="../../index.html#contribute">these instructions</a>. </p>
+
+            <p>Please consider to cut/paste/edit the <a href="replicability.json">raw JSON data</a> attached to this paper.</a></p>
+            </div>
+            </div></div>
+    </div>
+    </div>
+    </div>
+        <script>
+ 	  var color = Chart.helpers.color;
+          var colorNames = Object.keys(window.chartColors);
+          var ctx = document.getElementById('myChart');
+          var myChart = new Chart(ctx, {
+              type: 'polarArea',
+              data: {
+                labels: ['Dependencies', 'Build / Configure', 'Fixing bugs', 'Easy to adapt', 'Can replicate paper results'],
+                     datasets: [{
+                      label: 'Variant -- "main" (the higher, the better,  {1..5}, 0=N/A )',
+                      showLine: false,
+           
+                      borderColor: "#000",
+                      borderWidth: 2,
+                      backgroundColor: [
+                          'rgba(255, 99, 132,.6)',
+                          'rgba(255, 159, 64,.6)',
+                          'rgba(255, 205, 86,.6)',
+                          'rgba(75, 192, 192,.6)',
+                          'rgba(54, 162, 235,.6)',
+                      ],
+                      data: [5,1,1,3,5]
+                  },
+                  ]
+              },
+              options: {
+  scale: {
+      ticks: {
+          suggestedMin: 0,
+          suggestedMax: 5,
+          stepSize: 1
+      }
+  }
+}
+          });
+
+        </script>
+    </code></pre></body><div style="height:30px;display:block;"></div><div id="disqus_thread"></div>
+ <script>
+ /**
+ *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+ *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+ /*
+ var disqus_config = function () {
+ this.page.url = 'https://replicability.graphics';  // Replace PAGE_URL with your page's canonical URL variable
+ this.page.identifier = '10.1145-3197517.3201321'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+ };
+ */
+ (function() { // DON'T EDIT BELOW THIS LINE
+ var d = document, s = d.createElement('script');
+ s.src = 'https://replicability-graphics.disqus.com/embed.js';
+ s.setAttribute('data-timestamp', +new Date());
+ (d.head || d.body).appendChild(s);
+ })();
+ </script>
+ <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript></html>

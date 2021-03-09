@@ -1,0 +1,400 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    13
+                ]
+            ],
+            "date-time": "2020-07-13T12:07:18Z",
+            "timestamp": 1594642038762
+        },
+        "reference-count": 31,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2019,
+                            7,
+                            12
+                        ]
+                    ],
+                    "date-time": "2019-07-12T00:00:00Z",
+                    "timestamp": 1562889600000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100010663",
+                "name": "H2020 European Research Council",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "715767 - MATERIALIZABLE"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100007601",
+                "name": "Horizon 2020",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "727188 - EMOTIVE"
+                ]
+            },
+            {
+                "name": "H2020 Marie Sk?odowska-Curie Actions",
+                "award": [
+                    "813170 - EVOCATION"
+                ]
+            },
+            {
+                "name": "Ministero dell\u00f0Istruzione, dell\u00f0Universit\u00e0 e della Ricerca",
+                "award": [
+                    "2015B8TRFM - PRIN DSURF"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "DOI": "10.1145/3306346.3322981",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2019-07-12T19:04:08Z",
+            "timestamp": 1562958248000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 1,
+        "title": [
+            "Volume-aware design of composite molds"
+        ],
+        "prefix": "10.1145",
+        "volume": "38",
+        "author": [
+            {
+                "given": "Thomas",
+                "family": "Alderighi",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Universit\u00e0 di Pisa and ISTI-CNR, Italy"
+                    }
+                ]
+            },
+            {
+                "given": "Luigi",
+                "family": "Malomo",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "ISTI-CNR, Italy"
+                    }
+                ]
+            },
+            {
+                "given": "Daniela",
+                "family": "Giorgi",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "ISTI-CNR, Italy"
+                    }
+                ]
+            },
+            {
+                "given": "Bernd",
+                "family": "Bickel",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "IST, Austria"
+                    }
+                ]
+            },
+            {
+                "given": "Paolo",
+                "family": "Cignoni",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "ISTI-CNR, Italy"
+                    }
+                ]
+            },
+            {
+                "given": "Nico",
+                "family": "Pietroni",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Technology Sidney, Australia and ISTI-CNR, Italy"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/3197517.3201381",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1111/cgf.13146",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1111/cgf.12168",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1111/cgf.13327",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1016/0167-8396(88)90013-1",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/218380.218462",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1109/TVCG.2003.1260744",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1016/j.jmatprotec.2008.05.051",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "B. R. de Ara\u00fajo Daniel S. Lopes Pauline Jepp Joaquim A. Jorge and Brian Wyvill. 2015. A Survey on Implicit Surface Polygonization. ACM Comput. Surv. 47 4 Article 60 (May 2015) 39 pages. 10.1145/2732197   B. R. de Ara\u00fajo Daniel S. Lopes Pauline Jepp Joaquim A. Jorge and Brian Wyvill. 2015. A Survey on Implicit Surface Polygonization. ACM Comput. Surv. 47 4 Article 60 (May 2015) 39 pages. 10.1145/2732197",
+                "DOI": "10.1145/2732197",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "Ernest P De Garmo J Temple Black and Ronald A Kohser. 2011. DeGarmo's materials and processes in manufacturing. John Wiley & Sons.  Ernest P De Garmo J Temple Black and Ronald A Kohser. 2011. DeGarmo's materials and processes in manufacturing. John Wiley & Sons."
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "H. Edelsbrunner D. Letscher and A. Zomorodian. 2000. Topological Persistence and Simplification. (2000) 454--. http://dl.acm.org/citation.cfm?id=795666.796607   H. Edelsbrunner D. Letscher and A. Zomorodian. 2000. Topological Persistence and Simplification. (2000) 454--. http://dl.acm.org/citation.cfm?id=795666.796607"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "author": "Frisken Gibson Sarah F.",
+                "year": "1998",
+                "volume-title": "Proceedings of the First International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI '98)"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "Eric Hart. 2013. The Prop Building Guidebook: For Theatre Film and Tv. Taylor & Francis.  Eric Hart. 2013. The Prop Building Guidebook: For Theatre Film and Tv. Taylor & Francis.",
+                "DOI": "10.4324/9780240823584",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1111/cgf.12556",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/3197517.3201353",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1016/j.cad.2014.06.014",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/2659467.2675050",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/2980179.2982397",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "unstructured": "J. Milnor. 1963. Morse Theory. Princeton University Press New Jersey.  J. Milnor. 1963. Morse Theory. Princeton University Press New Jersey."
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/2504435.2504454",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/3197517.3201341",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "author": "Gregory",
+                "volume-title": "Proceedings of the 8th Conference on Visualization '97 (VIS '97)"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "author": "S\u00e1 A. Medeiros",
+                "volume-title": "Proceedings of the Eurographics Workshop on Graphics for Digital Fabrication (GraDiFab '16)"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/2897824.2925914",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/2629697",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.5555/3059330.3059333",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1016/S0097-8493(99)00076-X",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/2776880.2792718",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "first-page": "45",
+                "article-title": "Reviews of Computer-Aided Technologies for Jewelry Design and Casting",
+                "volume": "6",
+                "author": "Wannarumon Somlak",
+                "year": "2011",
+                "journal-title": "Naresuan University Engineering Journal"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1007/s00170-009-2273-7",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/2897824.2925901",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3322981&ftid=2071720&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2020-07-12T19:17:26Z",
+            "timestamp": 1594581446000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "references-count": 31,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        12
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3306346.3322981"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3306346.3322981",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

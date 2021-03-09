@@ -1,0 +1,310 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:11:21Z",
+            "timestamp": 1586002281419
+        },
+        "reference-count": 28,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601150",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 16,
+        "title": [
+            "Simulating and compensating changes in appearance between day and night vision"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Robert",
+                "family": "Wanat",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Bangor University"
+                    }
+                ]
+            },
+            {
+                "given": "Rafa\u0142 K.",
+                "family": "Mantiuk",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Bangor University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "Barten P. G. J. 1999. Contrast sensitivity of the human eye and its effects on image quality. SPIE Press.  Barten P. G. J. 1999. Contrast sensitivity of the human eye and its effects on image quality . SPIE Press.",
+                "DOI": "10.1117/3.353254",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1364/JOSA.57.000953",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1016/0141-9382(96)01011-6",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1016/0042-6989(94)00172-I",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1016/j.visres.2008.05.001",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1109/TVLSI.2004.831472",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1111/cgf.12235",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "Fairchild M. D. 2005. Color Appearance Models 2nd ed. John Wiley & Sons.  Fairchild M. D. 2005. Color Appearance Models 2nd ed. John Wiley & Sons."
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1113/jphysiol.1975.sp011162",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/1146909.1147064",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.5555/2383654.2383687",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "unstructured": "Kane J. P. and Kurtz F. A. 2012. Adapting display color for low luminance conditions. Patent app. EP 2526688 A1.  Kane J. P. and Kurtz F. A. 2012. Adapting display color for low luminance conditions. Patent app. EP 2526688 A1."
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1889/1.2408394",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/2010324.1964937",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1016/j.jvcir.2007.06.003",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1016/0042-6989(76)90161-9",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "Mantiuk R. Daly S. and Kerofsky L. 2008. ACM Trans Graph 27 3 68:1--68:10. 10.1145/1360612.1360667   Mantiuk R. Daly S. and Kerofsky L. 2008. ACM Trans Graph 27 3 68:1--68:10. 10.1145/1360612.1360667",
+                "DOI": "10.1145/1360612.1360667",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1111/j.1467-8659.2009.01358.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/2010324.1964935",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "author": "Moroney N.",
+                "volume-title": "Proc. IS&T/SID 10th Color Imaging Conference, Society for Imaging Science and Technology, 23--27"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/280814.280922",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1364/JOSAA.7.002032",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1016/j.jvcir.2013.06.014",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/2366145.2366220",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1016/0042-6989(75)90203-5",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1080/10867651.2002.10487550",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "unstructured": "Vos J. J. and van den Berg T. J. 1999. CIE 135/1-6 Disability Glare. Tech. rep.  Vos J. J. and van den Berg T. J. 1999. CIE 135/1-6 Disability Glare. Tech. rep."
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1109/ICASSP.1984.1172729",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601150&amp;ftid=1488956&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:55:37Z",
+            "timestamp": 1586001337000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 28,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601150"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601150",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

@@ -1,0 +1,446 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T02:11:26Z",
+            "timestamp": 1585966286523
+        },
+        "reference-count": 48,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925967",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 13,
+        "title": [
+            "Motion graphs for unstructured textured meshes"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Fabi\u00e1n",
+                "family": "Prada",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Johns Hopkins University"
+                    }
+                ]
+            },
+            {
+                "given": "Misha",
+                "family": "Kazhdan",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Johns Hopkins University"
+                    }
+                ]
+            },
+            {
+                "given": "Ming",
+                "family": "Chuang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Corporation"
+                    }
+                ]
+            },
+            {
+                "given": "Alvaro",
+                "family": "Collet",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Corporation"
+                    }
+                ]
+            },
+            {
+                "given": "Hugues",
+                "family": "Hoppe",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Corporation"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1137/S1064827503430138",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "Alvarez L. Esclar\u00edn J. Lef\u00e9bure M. and S\u00e1nchez J. 1999. A PDE model for computing the optical flow. In XVI Congreso de Ecuaciones Diferenciales y Aplicaciones.  Alvarez L. Esclar\u00edn J. Lef\u00e9bure M. and S\u00e1nchez J. 1999. A PDE model for computing the optical flow. In XVI Congreso de Ecuaciones Diferenciales y Aplicaciones."
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/566654.566606",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/2185520.2185549",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/882262.882309",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1111/cgf.12756",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/2159616.2159633",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1111/cgf.12296",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/1778765.1778775",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "author": "Chuang M.",
+                "volume-title": "Symposium on Geometry Processing."
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/2766945",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/2897826.2927303",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "author": "Dziuk G.",
+                "series-title": "Lecture Notes in Mathematics",
+                "volume-title": "Partial Differential Equations and Calculus of Variations"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Eisemann M. De Decker B. Magnor M. Bekaert P. De Aguiar E. Ahmed N. Theobalt C. and Sellent A. 2008. Floating textures. Computer Graphics Forum 27(2).  Eisemann M. De Decker B. Magnor M. Bekaert P. De Aguiar E. Ahmed N. Theobalt C. and Sellent A. 2008. Floating textures. Computer Graphics Forum 27(2).",
+                "DOI": "10.1111/j.1467-8659.2008.01138.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/1015706.1015775",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/1230100.1230123",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1364/JOSAA.5.001127",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1109/CVPR.2014.440",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "author": "Huang P.",
+                "volume-title": "Proc. CVPR."
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1007/s11263-010-0319-9",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/2699643",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "unstructured": "Jacobson A. Panozzo D. and others. 2016. libigl: A simple C++ geometry processing library. http://libigl.github.io/libigl/.  Jacobson A. Panozzo D. and others. 2016. libigl: A simple C++ geometry processing library. http://libigl.github.io/libigl/.",
+                "DOI": "10.1145/3134472.3134497",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1109/93.580394",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "Kazhdan M. 2013. ShapeSPH. http://www.cs.jhu.edu/~misha/Code/ShapeSPH/ShapeAlign/.  Kazhdan M. 2013. ShapeSPH. http://www.cs.jhu.edu/~misha/Code/ShapeSPH/ShapeAlign/."
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "author": "Kazhdan M.",
+                "volume-title": "Symposium on Geometry Processing."
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/566654.566605",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/566654.566607",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "unstructured": "Levin D. A. Peres Y. and Wilmer E. L. 2009. Markov chains and mixing times. American Mathematical Society.  Levin D. A. Peres Y. and Wilmer E. L. 2009. Markov chains and mixing times . American Mathematical Society.",
+                "DOI": "10.1090/mbk/058",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/1618452.1618521",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "author": "Lucas B.",
+                "first-page": "674",
+                "volume-title": "Proc. Intnl. Joint Conf. on Artificial Intelligence"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/2185520.2185526",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "unstructured": "Pinkall U. and Polthier K. 1993. Computing discrete minimal surfaces and their conjugates. Experimental Mathematics 2.  Pinkall U. and Polthier K. 1993. Computing discrete minimal surfaces and their conjugates. Experimental Mathematics 2.",
+                "DOI": "10.1080/10586458.1993.10504266",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1111/cgf.12708",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "unstructured": "Rusinkiewicz S. 2004. Trimesh v2. http://gfx.cs.princeton.edu/proj/trimesh2/.  Rusinkiewicz S. 2004. Trimesh v2. http://gfx.cs.princeton.edu/proj/trimesh2/."
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "author": "Shi J.",
+                "first-page": "593",
+                "volume-title": "Proc. CVPR"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "unstructured": "Shilane P. Min P. Kazhdan M. and Funkhouser T. 2004. The Princeton shape benchmark. In Shape Modeling International.  Shilane P. Min P. Kazhdan M. and Funkhouser T. 2004. The Princeton shape benchmark. In Shape Modeling International."
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/2629697",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "author": "Sorkine O.",
+                "first-page": "109",
+                "volume-title": "Symp. on Geometry Processing"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "unstructured": "Starck J. and Hilton A. 2007. CVSSP3D datasets. http://cvssp.org/data/cvssp3d/.  Starck J. and Hilton A. 2007. CVSSP3D datasets. http://cvssp.org/data/cvssp3d/."
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1145/1073368.1073375",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1007/s11042-007-0181-0",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "author": "Tomasi C.",
+                "year": "1991",
+                "volume-title": "Technical Report CMU-CS-91-132."
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1145/1618452.1618520",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "unstructured": "Volino M. Huang P. and Hilton A. 2015. Online interactive 4D character animation. In ACM SIGGRAPH Web3D Conference. 10.1145/2775292.2775297   Volino M. Huang P. and Hilton A. 2015. Online interactive 4D character animation. In ACM SIGGRAPH Web3D Conference. 10.1145/2775292.2775297",
+                "DOI": "10.1145/2775292.2775297",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1145/2729972",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1145/2010324.1964927",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "DOI": "10.1145/1015706.1015766",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "DOI": "10.1145/2601097.2601165",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925967&amp;ftid=1755880&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:32:42Z",
+            "timestamp": 1585963962000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 48,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925967"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925967",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

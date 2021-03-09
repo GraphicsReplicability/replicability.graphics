@@ -1,0 +1,329 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:54Z",
+            "timestamp": 1585962714862
+        },
+        "reference-count": 30,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201324",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-8",
+        "source": "Crossref",
+        "is-referenced-by-count": 6,
+        "title": [
+            "An advection-reflection solver for detail-preserving fluid simulation"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Jonas",
+                "family": "Zehnder",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Universit\u00e9 de Montr\u00e9al"
+                    }
+                ]
+            },
+            {
+                "given": "Rahul",
+                "family": "Narain",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Minnesota and Indian Institute of Technology Delhi"
+                    }
+                ]
+            },
+            {
+                "given": "Bernhard",
+                "family": "Thomaszewski",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Universit\u00e9 de Montr\u00e9al"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/1073368.1073380",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/1276377.1276502",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/2897824.2925868",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1090/S0025-5718-1968-0242392-2",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/1189762.1189766",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/383259.383260",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1006/gmip.1996.0039",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/1276377.1276438",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "Ernst Hairer Christian Lubich and Gerhard Wanner. 2006. Geometric Numerical Integration: Structure-Preserving Algorithms for Ordinary Differential Equations; 2nd ed. Springer Dordrecht. https://cds.cern.ch/record/1250576  Ernst Hairer Christian Lubich and Gerhard Wanner. 2006. Geometric Numerical Integration: Structure-Preserving Algorithms for Ordinary Differential Equations; 2nd ed. Springer Dordrecht. https://cds.cern.ch/record/1250576"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1063/1.1761178",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "Markus Ihmsen Jens Orthmann Barbara Solenthaler Andreas Kolb and Matthias Teschner. 2014. SPH Fluids in Computer Graphics. In Eurographics 2014 - State of the Art Reports.  Markus Ihmsen Jens Orthmann Barbara Solenthaler Andreas Kolb and Matthias Teschner. 2014. SPH Fluids in Computer Graphics. In Eurographics 2014 - State of the Art Reports."
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/1276377.1276394",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/2766996",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "author": "Kim ByungMoon",
+                "year": "2005",
+                "volume-title": "Proceedings of the First Eurographics Conference on Natural Phenomena (NPH'05)"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1109/TVCG.2007.3",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1111/j.1467-8659.2008.01144.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/1360612.1360649",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.5555/99300.99304",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "author": "Molemaker Jeroen",
+                "year": "2008",
+                "volume-title": "Low Viscosity Flow Simulations for Animation. In SCA '08: Proceedings of the 2007 ACM SIGGRAPH/Eurographics Symposium on Computer Animation. 9--18"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/1531326.1531344",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/1073368.1073406",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1080/07055900.1981.9649098",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1007/s10915-007-9166-4",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/1073204.1073282",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/311535.311548",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/2504435.2504441",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "unstructured": "Nils Thuerey and Tobias Pfaff. 2016. Mantaflow. http://mantaflow.com. (2016).  Nils Thuerey and Tobias Pfaff. 2016. Mantaflow. http://mantaflow.com. (2016)."
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/1778765.1778852",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/2766982",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "unstructured": "Yongning Zhu and Robert Bridson. 2005. Animating Sand as a Fluid. 24 (July 2005) 965--972. 10.1145/1073204.1073298   Yongning Zhu and Robert Bridson. 2005. Animating Sand as a Fluid. 24 (July 2005) 965--972. 10.1145/1073204.1073298"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201324&ftid=1991734&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:53:56Z",
+            "timestamp": 1585961636000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 30,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201324"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201324",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

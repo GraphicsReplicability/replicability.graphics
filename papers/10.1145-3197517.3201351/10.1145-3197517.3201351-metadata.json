@@ -1,0 +1,371 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:55Z",
+            "timestamp": 1585962715386
+        },
+        "reference-count": 32,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100008982",
+                "name": "National Science Foundation of Sri Lanka",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "IIS-1703957"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201351",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-10",
+        "source": "Crossref",
+        "is-referenced-by-count": 11,
+        "title": [
+            "Rendering specular microgeometry with wave optics"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Ling-Qi",
+                "family": "Yan",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of California"
+                    }
+                ]
+            },
+            {
+                "given": "Milo\u0161",
+                "family": "Ha\u0161an",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Autodesk"
+                    }
+                ]
+            },
+            {
+                "given": "Bruce",
+                "family": "Walter",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Cornell University"
+                    }
+                ]
+            },
+            {
+                "given": "Steve",
+                "family": "Marschner",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Cornell University"
+                    }
+                ]
+            },
+            {
+                "given": "Ravi",
+                "family": "Ramamoorthi",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of California"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "P. Beckmann and A. Spizzichino. 1968. The Scattering of Electromagnetic Waves from Rough Surfaces. Books on Demand. http://books.google.com/books?id=nn92AAAACAAJ  P. Beckmann and A. Spizzichino. 1968. The Scattering of Electromagnetic Waves from Rough Surfaces. Books on Demand. http://books.google.com/books?id=nn92AAAACAAJ"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/3072959.3073620",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "author": "Bosch Carles",
+                "volume-title": "Computer Graphics Forum"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1364/OE.23.029100",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/357290.357293",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/2231816.2231820",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1111/cgf.12425",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/2815618",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1119/1.11600",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "author": "James",
+                "year": "2016",
+                "volume-title": "Proc. SPIE 9961"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/127719.122738",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/3072959.3073621",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Wenzel Jakob. 2010. Mitsuba renderer. http://www.mitsuba-renderer.org.  Wenzel Jakob. 2010. Mitsuba renderer. http://www.mitsuba-renderer.org."
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/2601097.2601186",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "Andrey Krywonos. 2006. Predicting Surface Scatter Using A Linear Systems Formulation Of Non-paraxial Scalar Diffraction. PhD. Dissertation. University of Central Florida.  Andrey Krywonos. 2006. Predicting Surface Scatter Using A Linear Systems Formulation Of Non-paraxial Scalar Diffraction. PhD. Dissertation. University of Central Florida."
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "author": "Lanari Ann M",
+                "volume": "10402",
+                "year": "2017",
+                "volume-title": "Earth Observing Systems XXII"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/2461912.2461981",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "unstructured": "L. Mandel and E. Wolf. 1995. Optical Coherence and Quantum Optics. Cambridge University Press. http://books.google.com/books?id=FeBix14iM70C  L. Mandel and E. Wolf. 1995. Optical Coherence and Quantum Optics. Cambridge University Press. http://books.google.com/books?id=FeBix14iM70C",
+                "DOI": "10.1017/CBO9781139644105",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1364/OL.37.003516",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1007/s003710000093",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "unstructured": "J.A. Ogilvy. 1991. Theory of wave scattering from random rough surfaces. A. Hilger.  J.A. Ogilvy. 1991. Theory of wave scattering from random rough surfaces. A. Hilger.",
+                "DOI": "10.1121/1.401410",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "Boris Raymond Gael Guennebaud and Pascal Barla. 2016. Multi-Scale Rendering of Scratched Materials using a Structured SV-BRDF Model. ACM Transactions on Graphics (July 2016). 10.1145/2897824.2925945   Boris Raymond Gael Guennebaud and Pascal Barla. 2016. Multi-Scale Rendering of Scratched Materials using a Structured SV-BRDF Model. ACM Transactions on Graphics (July 2016). 10.1145/2897824.2925945"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/311535.311546",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/3012001",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "#cr-split#-e_1_2_2_26_1.1",
+                "unstructured": "Zdravko Velinov Sebastian Werner and Matthias B. Hullin. 2018. Real-Time Rendering of Wave-Optical Effects on Scratched Surfaces. Computer Graphics Forum 37",
+                "DOI": "10.1111/cgf.13347",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "#cr-split#-e_1_2_2_26_1.2",
+                "unstructured": "(2) (Proc. EUROGRAPHICS) 37 2 (2018). Zdravko Velinov Sebastian Werner and Matthias B. Hullin. 2018. Real-Time Rendering of Wave-Optical Effects on Scratched Surfaces. Computer Graphics Forum 37"
+            },
+            {
+                "key": "#cr-split#-e_1_2_2_26_1.3",
+                "unstructured": "(2) (Proc. EUROGRAPHICS) 37 2 (2018)."
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "unstructured": "Bruce Walter Stephen R. Marschner Hongsong Li and Kenneth E. Torrance. 2007. Microfacet Models for Refraction Through Rough Surfaces (EGSR 07). 195--206.   Bruce Walter Stephen R. Marschner Hongsong Li and Kenneth E. Torrance. 2007. Microfacet Models for Refraction Through Rough Surfaces (EGSR 07). 195--206."
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/3130800.3130840",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "author": "Westin Stephen H",
+                "year": "2004",
+                "volume-title": "Eurographics Symposium on Rendering, pags. 1--10"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/2601097.2601155",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/2897824.2925915",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201351&ftid=1991650&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:34:34Z",
+            "timestamp": 1585960474000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 32,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201351"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201351",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

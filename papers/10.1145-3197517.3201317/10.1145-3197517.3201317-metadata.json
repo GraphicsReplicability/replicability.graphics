@@ -1,0 +1,479 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:53Z",
+            "timestamp": 1585962713225
+        },
+        "reference-count": 54,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100008982",
+                "name": "National Science Foundation of Sri Lanka",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "1422325"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201317",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 3,
+        "title": [
+            "Gradient-domain processing within a texture atlas"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Fabi\u00e1n",
+                "family": "Prada",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Johns Hopkins University"
+                    }
+                ]
+            },
+            {
+                "given": "Misha",
+                "family": "Kazhdan",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Johns Hopkins University"
+                    }
+                ]
+            },
+            {
+                "given": "Ming",
+                "family": "Chuang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Perceptln Inc."
+                    }
+                ]
+            },
+            {
+                "given": "Hugues",
+                "family": "Hoppe",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Google Inc."
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/1015706.1015718",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/2010324.1964997",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/588272.588276",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1006/jcph.2001.6937",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1007/978-3-540-88688-4_9",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1049/ip-a-1.1988.0077",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "unstructured": "William Briggs Van Emden Henson and Steve McCormick. 2000. A multigrid tutorial (2nd ed.). Society for Industrial and Applied Mathematics.   William Briggs Van Emden Henson and Steve McCormick. 2000. A multigrid tutorial (2nd ed.). Society for Industrial and Applied Mathematics.",
+                "DOI": "10.1137/1.9780898719505",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/166117.166151",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/508357.508360",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/1015706.1015809",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/1391989.1391995",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.5555/1735603.1735633",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "first-page": "44",
+                "article-title": "Gradient-domain processing of meshes",
+                "volume": "5",
+                "author": "Chuang Ming",
+                "year": "2016",
+                "journal-title": "J. Computer Graphics Techniques"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.5555/375213.375276",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/2504435.2504442",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/2516971.2516977",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1002/pamm.200700477",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/311535.311576",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "unstructured": "Gerhard Dziuk. 1988. Finite elements for the Beltrami operator on arbitrary surfaces. Springer 142--155.  Gerhard Dziuk. 1988. Finite elements for the Beltrami operator on arbitrary surfaces. Springer 142--155.",
+                "DOI": "10.1007/BFb0082865",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/566654.566573",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/1618452.1618455",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "author": "Heckbert Paul",
+                "year": "1993",
+                "volume-title": "ACM SIGGRAPH 1993 Courses."
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/1141911.1141921",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "author": "Levin Anat",
+                "year": "2003",
+                "volume-title": "European Conf. Computer Vision. 377--389"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/566654.566590",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.5555/1731309.1731336",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/3130800.3130897",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1007/11567646_26",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "Microsoft. 2018. UVAtlas: isochart texture atlasing https://github.com/Microsoft/UVAtlas. (2018).  Microsoft. 2018. UVAtlas: isochart texture atlasing https://github.com/Microsoft/UVAtlas. (2018)."
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1016/0021-9991(88)90002-2",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1109/TVCG.2010.121",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/882262.882269",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1109/34.56205",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1109/MCSE.2014.53",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1137/130908737",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1080/10586458.1993.10504266",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/3130800.3130845",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "author": "Sander Pedro",
+                "year": "2002",
+                "volume-title": "Signal-specialized Parametrization. In Proc. 13th Eurographics Workshop on Rendering. 87--98"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/383259.383307",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.5555/602099.602144",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "unstructured": "Barry Smith Petter Bj\u00f8rstad and William Gropp. 1996. Domain decomposition: Parallel multilevel methods for elliptic partial differential equations. Cambridge Univ. Press.   Barry Smith Petter Bj\u00f8rstad and William Gropp. 1996. Domain decomposition: Parallel multilevel methods for elliptic partial differential equations. Cambridge Univ. Press."
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1145/2766947",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1145/1057432.1057456",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1145/882262.882338",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.5555/602099.602117",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1145/218380.218473",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "author": "Teitzel Christian",
+                "year": "1997",
+                "volume-title": "Line Integral Convolution on Triangulated Surfaces. In Conf. World Society for Computer Graphics"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "DOI": "10.1145/331532.331563",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "DOI": "10.1145/1276377.1276417",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "DOI": "10.1145/122718.122750",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "DOI": "10.1145/1015706.1015774",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "DOI": "10.1145/3105762.3105780",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "DOI": "10.1145/1037957.1037958",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "DOI": "10.1145/1057432.1057439",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201317&ftid=1991720&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:46:56Z",
+            "timestamp": 1585961216000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 54,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201317"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201317",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

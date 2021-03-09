@@ -1,0 +1,379 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:55Z",
+            "timestamp": 1585962715697
+        },
+        "reference-count": 38,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201391",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 5,
+        "title": [
+            "Scene-aware audio for 360\u00b0 videos"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Dingzeyu",
+                "family": "Li",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Columbia University"
+                    }
+                ]
+            },
+            {
+                "given": "Timothy R.",
+                "family": "Langlois",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe Research"
+                    }
+                ]
+            },
+            {
+                "given": "Changxi",
+                "family": "Zheng",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Columbia University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/2980179.2980257",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "Stefan Bilbao. 2009. Numerical Sound Synthesis. John Wiley & Sons Ltd.  Stefan Bilbao. 2009. Numerical Sound Synthesis. John Wiley & Sons Ltd.",
+                "DOI": "10.1002/9780470749012",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/2980179.2982431",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "first-page": "640",
+                "article-title": "Room sizing and optimization at low frequencies",
+                "volume": "52",
+                "author": "Cox Trevor J",
+                "year": "2004",
+                "journal-title": "Journal of the Audio Engineering Society"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "F Dunn WM Hartmann DM Campbell and Neville H Fletcher. 2015. Springer handbook of acoustics. Springer.  F Dunn WM Hartmann DM Campbell and Neville H Fletcher. 2015. Springer handbook of acoustics. Springer."
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "author": "Farina Angelo",
+                "year": "2000",
+                "volume-title": "Audio Engineering Society Convention 108"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "author": "Farina Angelo",
+                "year": "2007",
+                "volume-title": "Audio Engineering Society Convention 122"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/280814.280818",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1121/1.1910974",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1109/ICASSP.2016.7471747",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1121/1.1894636",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "unstructured": "J. Huang Z. Chen D. Ceylan and H. Jin. 2017. 6-DOF VR videos with a single 360-camera. In 2017 IEEE Virtual Reality (VR). 37--44.  J. Huang Z. Chen D. Ceylan and H. Jin. 2017. 6-DOF VR videos with a single 360-camera. In 2017 IEEE Virtual Reality (VR). 37--44.",
+                "DOI": "10.1109/VR.2017.7892229",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/3072959.3073702",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.2307/3680992",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/2980179.2982405",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "Heinrich Kuttruff. 2017. Room Acoustics (sixth ed.). CRC Press.  Heinrich Kuttruff. 2017. Room Acoustics (sixth ed.). CRC Press.",
+                "DOI": "10.1201/9781315372150",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/2897824.2925983",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "unstructured": "Stephen Robert Marschner and Donald P Greenberg. 1998. Inverse rendering for computer graphics. Cornell University.  Stephen Robert Marschner and Donald P Greenberg. 1998. Inverse rendering for computer graphics. Cornell University."
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/3072959.3073645",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "Athanasios Papoulis. 1977. Signal analysis. Vol. 191. McGraw-Hill New York.  Athanasios Papoulis. 1977. Signal analysis. Vol. 191. McGraw-Hill New York."
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "author": "Pope Jackson",
+                "year": "1999",
+                "volume-title": "Realtime Room Acoustics Using Ambisonics. In Audio Engineering Society Conference: 16th International Conference: Spatial Sound Reproduction."
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1109/TVCG.2009.27",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/2601097.2601184",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/1778765.1778805",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/2421636.2421637",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/2501988.2501993",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1121/1.4926438",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "unstructured": "Carl Schissler Christian Loftin and Dinesh Manocha. 2017a. Acoustic Classification and Optimization for Multi-Modal Rendering of Real-World Scenes. IEEE Transactions on Visualization and Computer Graphics (2017).  Carl Schissler Christian Loftin and Dinesh Manocha. 2017a. Acoustic Classification and Optimization for Multi-Modal Rendering of Real-World Scenes. IEEE Transactions on Visualization and Computer Graphics (2017)."
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/2601097.2601216",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "unstructured": "Carl Schissler Aaron Nicholls and Ravish Mehra. 2016. Efficient HRTF-based spatial audio for area and volumetric sources. IEEE transactions on visualization and computer graphics 22 4 (2016) 1356--1366. 10.1109/TVCG.2016.2518134   Carl Schissler Aaron Nicholls and Ravish Mehra. 2016. Efficient HRTF-based spatial audio for area and volumetric sources. IEEE transactions on visualization and computer graphics 22 4 (2016) 1356--1366. 10.1109/TVCG.2016.2518134"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "author": "Schissler Carl",
+                "year": "2017",
+                "volume-title": "Virtual Reality (VR)"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "unstructured": "Efstathios Stavrakis Nicolas Tsingos and Paul Calamia. 2008. Topological Sound Propagation with Reverberation Graphs. Acta Acustica/Acustica - the Journal of the European Acoustics Association (EAA) (2008).  Efstathios Stavrakis Nicolas Tsingos and Paul Calamia. 2008. Topological Sound Propagation with Reverberation Graphs. Acta Acustica/Acustica - the Journal of the European Acoustics Association (EAA) (2008)."
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1073/pnas.1612524113",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "author": "Tsingos Nicolas",
+                "year": "2009",
+                "volume-title": "Precomputing Geometry-Based Reverberation Effects for Games. In Audio Engineering Society Conference: 35th International Conference: Audio for Games. http://www.aes.org/e-lib/browse.cfm?elib=15164"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1145/383259.383323",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "author": "Vorl\u00e4nder Michael",
+                "year": "2008",
+                "volume-title": "Auralization: Fundamentals of Acoustics, Modelling, Simulation, Algorithms and Acoustic Virtual Reality (RWTHedition) (2008 ed.)"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/279232.279236",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "author": "Zotter Franz",
+                "year": "2009",
+                "volume-title": "Audio Engineering Society Convention 126"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201391&ftid=1991631&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:47:58Z",
+            "timestamp": 1585961278000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 38,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201391"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201391",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

@@ -1,0 +1,469 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:11:21Z",
+            "timestamp": 1586002281510
+        },
+        "reference-count": 54,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601152",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 131,
+        "title": [
+            "Unified particle physics for real-time applications"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Miles",
+                "family": "Macklin",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "NVIDIA"
+                    }
+                ]
+            },
+            {
+                "given": "Matthias",
+                "family": "M\u00fcller",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "NVIDIA"
+                    }
+                ]
+            },
+            {
+                "given": "Nuttapong",
+                "family": "Chentanez",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "NVIDIA"
+                    }
+                ]
+            },
+            {
+                "given": "Tae-Yong",
+                "family": "Kim",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "NVIDIA"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/2185520.2185558",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/2508363.2508395",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "unstructured": "Akinci N. Cornelis J. Akinci G. and Teschner M. 2013. Coupling elastic solids with smoothed particle hydrodynamics fluids. Computer Animation and Virtual Worlds.  Akinci N. Cornelis J. Akinci G. and Teschner M. 2013. Coupling elastic solids with smoothed particle hydrodynamics fluids. Computer Animation and Virtual Worlds .",
+                "DOI": "10.1002/cav.1499",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/2019406.2019410",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1080/08905459508905232",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1109/TVCG.2007.39",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.5555/2381692.2381696",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/1073368.1073379",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "Bender J. M\"uller M. Otaduy M. A. Teschner M. and Macklin M. 2014. A survey on position-based simulation methods in computer graphics. Computer Graphics Forum 1--25.  Bender J. M\"uller M. Otaduy M. A. Teschner M. and Macklin M. 2014. A survey on position-based simulation methods in computer graphics. Computer Graphics Forum 1--25."
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "Boyd S. P. and Vandenberghe L. 2004. Convex optimization. Cambridge university press.   Boyd S. P. and Vandenberghe L. 2004. Convex optimization . Cambridge university press.",
+                "DOI": "10.1017/CBO9780511804441",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/566654.566623",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.5555/2421731.2421746",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/1015706.1015733",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Carlson M. T. 2004. Rigid melting and flowing fluid. PhD thesis Georgia Institute of Technology.   Carlson M. T. 2004. Rigid melting and flowing fluid . PhD thesis Georgia Institute of Technology.",
+                "DOI": "10.1145/1186562.1015733",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/1073368.1073400",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "Corbett R. D. 2005. Point--Based Level Sets and Progress Towards Unorganised Particle Based Fluids. PhD thesis The University of British Columbia.  Corbett R. D. 2005. Point--Based Level Sets and Progress Towards Unorganised Particle Based Fluids . PhD thesis The University of British Columbia."
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "author": "Faure F.",
+                "volume-title": "Computer Animation and Simulation98"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/383259.383260",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "author": "Gao Y.",
+                "volume": "28",
+                "year": "1845",
+                "volume-title": "Pacific Graphics 2009"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1007/BF01901286",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/1276377.1276438",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "unstructured": "Green S. 2008. Cuda particles. nVidia Whitepaper 2 3.2 1.  Green S. 2008. Cuda particles. nVidia Whitepaper 2 3.2 1."
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/882262.882358",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/1073204.1073299",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "author": "Harada T.",
+                "volume-title": "GPU Gems 3"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1007/s00371-012-0697-9",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "author": "Ihmsen M.",
+                "volume-title": "Workshop on Virtual Reality Interaction and Physical Simulation, The Eurographics Association, 53--60"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "author": "Jakobsen T.",
+                "year": "2001",
+                "volume-title": "Game Developers Conference, 383--401"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "Keckeisen M. Kimmerle S. Thomaszewski B. and Wacker M. 2004. Modelling effects of wind fields in cloth animations.  Keckeisen M. Kimmerle S. Thomaszewski B. and Wacker M. 2004. Modelling effects of wind fields in cloth animations."
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1109/TVCG.2011.264",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.5555/2421731.2421774",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/2461912.2461984",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/1833349.1778776",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "author": "M\u00fcller M.",
+                "volume-title": "Workshop in Virtual Reality Interactions and Physical Simulation, The Eurographics Association, 83--91"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1145/2010324.1964987",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "author": "M\u00fcller M.",
+                "volume-title": "Proceedings of the 2003 ACM SIGGRAPH/Eurographics symposium on Computer animation, Eurographics Association, Aire-la-Ville, Switzerland, Switzerland, SCA '03, 154--159"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/1028523.1028542",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "unstructured": "M\u00fcller M. Schirm S. Teschner M. Heidelberger B. and Gross M. 2004. Interaction of fluids with deformable solids. In JOURNAL OF COMPUTER ANIMATION AND VIRTUAL WORLDS (CAVW 159--171. 10.1002/cav.v15:3/4   M\u00fcller M. Schirm S. Teschner M. Heidelberger B. and Gross M. 2004. Interaction of fluids with deformable solids. In JOURNAL OF COMPUTER ANIMATION AND VIRTUAL WORLDS (CAVW 159--171. 10.1002/cav.v15:3/4",
+                "DOI": "10.1002/cav.18",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/1186822.1073216",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1016/j.jvcir.2007.01.005",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1145/1073368.1073406",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1145/2185520.2185608",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "unstructured": "Rungjiratananon W. Kanamori Y. Metaaphanon N. Bando Y. Chen B.-Y. and Nishita T. 2011. Twisting tearing and flicking effects in string animations. In Motion in Games. Springer 192--203. 10.1007/978-3-642-25090-3_17   Rungjiratananon W. Kanamori Y. Metaaphanon N. Bando Y. Chen B.-Y. and Nishita T. 2011. Twisting tearing and flicking effects in string animations. In Motion in Games . Springer 192--203. 10.1007/978-3-642-25090-3_17",
+                "DOI": "10.1007/978-3-642-25090-3_17",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1145/2185520.2185557",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1145/1073204.1073282",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "author": "Solenthaler B.",
+                "volume-title": "Proceedings of the 2008 ACM SIGGRAPH/Eurographics Symposium on Computer Animation, Eurographics Association, Aire-la-Ville, Switzerland, Switzerland, SCA '08, 211--218"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "DOI": "10.1002/cav.v18:1",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "DOI": "10.1145/218380.218430",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "DOI": "10.1145/311535.311548",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "DOI": "10.1109/CADCG.2009.5246818",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "first-page": "590",
+                "article-title": "Physx gpu rigid bodies in batman: Arkham asylum",
+                "volume": "8",
+                "author": "Tonge R.",
+                "year": "2010",
+                "journal-title": "Game Programming Gems"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "DOI": "10.1145/2185520.2185601",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "DOI": "10.1109/TVCG.2006.48",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "DOI": "10.1145/1186822.1073298",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601152&amp;ftid=1488962&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:55:22Z",
+            "timestamp": 1586001322000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 54,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601152"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601152",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

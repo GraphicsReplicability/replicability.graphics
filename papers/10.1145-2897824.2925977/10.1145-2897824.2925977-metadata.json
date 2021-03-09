@@ -1,0 +1,435 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T02:11:27Z",
+            "timestamp": 1585966287970
+        },
+        "reference-count": 38,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100005806",
+                "name": "Hayao Nakayama Foundation for Science and Technology and Culture",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "H26-A1-98"
+                ]
+            },
+            {
+                "name": "JSPS KAKENHI",
+                "award": [
+                    "15K12178"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925977",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-15",
+        "source": "Crossref",
+        "is-referenced-by-count": 3,
+        "title": [
+            "Unified motion planner for fishes with various swimming styles"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Daiki",
+                "family": "Satoi",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of Tsukuba"
+                    }
+                ]
+            },
+            {
+                "given": "Mikihiro",
+                "family": "Hagiwara",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Tsukuba"
+                    }
+                ]
+            },
+            {
+                "given": "Akira",
+                "family": "Uemoto",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Tsukuba"
+                    }
+                ]
+            },
+            {
+                "given": "Hisanao",
+                "family": "Nakadai",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Tsukuba"
+                    }
+                ]
+            },
+            {
+                "given": "Junichi",
+                "family": "Hoshino",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Tsukuba"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "author": "Archer S.",
+                "volume": "210",
+                "year": "1989",
+                "article-title": "Kinematics of labriform and subcarangiform swimming in the antarctic fish",
+                "journal-title": "Journal of Experimental Biology"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/361002.361007",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "first-page": "691",
+                "article-title": "On the role of the different fibre types in fish myotomes at intermediate swimming speeds",
+                "volume": "76",
+                "author": "Bone Q.",
+                "year": "1978",
+                "journal-title": "Fishery Bulletin"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1214/aoms/1177706645",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "first-page": "1165",
+                "article-title": "The kinematics and performance of fish fast-start swimming",
+                "volume": "200",
+                "author": "Domenici P.",
+                "year": "1997",
+                "journal-title": "The Journal of Experimental Biology"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1023/A:1007497210998",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/311535.311538",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1249/00005768-198401000-00008",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1111/j.1467-8659.2012.03189.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/218380.218411",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "first-page": "1459",
+                "article-title": "Boxfishes (Teleostei: Ostraciidae) as a model system for fishes swimming with many fins: kinematics",
+                "volume": "204",
+                "author": "Hove J. R.",
+                "year": "2001",
+                "journal-title": "Journal of Experimental Biology"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "first-page": "509",
+                "article-title": "On the function of the white muscles in teleosts at intermediate swimming speeds",
+                "volume": "58",
+                "author": "Hudson R. C.",
+                "year": "1973",
+                "journal-title": "Journal of Experimental Biology"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/2516971.2516976",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/2614028.2615399",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1016/j.cub.2008.10.066",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "author": "Lighthill M.",
+                "year": "1971",
+                "volume-title": "Proceedings of the Royal Society B: Biological Sciences 179"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "Lindsey C. 1978. Form function and locomotory habits in fish. In Fish Physiology W. Hoar and D. Randall Eds. Academic Press New York NY United States ch. 1 1--100.  Lindsey C. 1978. Form function and locomotory habits in fish. In Fish Physiology W. Hoar and D. Randall Eds. Academic Press New York NY United States ch. 1 1--100.",
+                "DOI": "10.1016/S1546-5098(08)60163-6",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "first-page": "101",
+                "article-title": "Classic and heuristic aproaches in robot motion planning -- a chronological review",
+                "volume": "1",
+                "author": "Masehian E.",
+                "year": "2007",
+                "journal-title": "World Academy of Science, Engineering and Technology"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1007/s10641-007-9300-z",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "Nelson J. S. 2006. Fishes of the world 4th ed. Wiley Hoboken NJ United States.  Nelson J. S. 2006. Fishes of the world 4th ed. Wiley Hoboken NJ United States."
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/2766910",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1038/214392a0",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/37402.37406",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/2816795.2818082",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1016/j.conb.2011.12.004",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/2626346",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/192161.192167",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "author": "Stanton A.",
+                "year": "2003",
+                "volume-title": "United States: Walt Disney Pictures."
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/2010324.1964953",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/2185520.2185522",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1162/artl.1994.1.327",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.2331/suisan.50.2031",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.2331/suisan.50.2025",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/192161.192170",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "first-page": "3391",
+                "article-title": "Does a rigid body limit maneuverability",
+                "volume": "203",
+                "author": "Walker J. A.",
+                "year": "2000",
+                "journal-title": "Journal of Experimental Biology"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1109/TVCG.2014.2327976",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "author": "Willy A.",
+                "volume-title": "IEEE International Conference on Robotics and Biomimetics (ROBIO), 45--50"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "unstructured": "Yamaguchi Y. 2008. Aquanaut's Holiday: Hidden Memories {PlayStation 3}. Japan: Sony Computer Entertainment.  Yamaguchi Y. 2008. Aquanaut's Holiday: Hidden Memories {PlayStation 3}. Japan: Sony Computer Entertainment ."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925977&amp;ftid=1755893&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:31:05Z",
+            "timestamp": 1585963865000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 38,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925977"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925977",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

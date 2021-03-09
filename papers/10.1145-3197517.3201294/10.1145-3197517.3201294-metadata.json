@@ -1,0 +1,575 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:29Z",
+            "timestamp": 1585962689220
+        },
+        "reference-count": 61,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100008982",
+                "name": "National Science Foundation of Sri Lanka",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "CNS1302246, NRT1633299, CNS1650499"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201294",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 23,
+        "title": [
+            "Towards virtual reality infinite walking"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Qi",
+                "family": "Sun",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Stony Brook University, NVIDIA, and Adobe Research"
+                    }
+                ]
+            },
+            {
+                "given": "Anjul",
+                "family": "Patney",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "NVIDIA"
+                    }
+                ]
+            },
+            {
+                "given": "Li-Yi",
+                "family": "Wei",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe Research"
+                    }
+                ]
+            },
+            {
+                "given": "Omer",
+                "family": "Shapira",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "NVIDIA"
+                    }
+                ]
+            },
+            {
+                "given": "Jingwan",
+                "family": "Lu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe Research"
+                    }
+                ]
+            },
+            {
+                "given": "Paul",
+                "family": "Asente",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe Research"
+                    }
+                ]
+            },
+            {
+                "given": "Suwen",
+                "family": "Zhu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stony Brook University"
+                    }
+                ]
+            },
+            {
+                "given": "Morgan",
+                "family": "Mcguire",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "NVIDIA"
+                    }
+                ]
+            },
+            {
+                "given": "David",
+                "family": "Luebke",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "NVIDIA"
+                    }
+                ]
+            },
+            {
+                "given": "Arie",
+                "family": "Kaufman",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stony Brook University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/3127589",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.3758/s13428-016-0738-9",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/3072959.3073642",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "author": "Azmandian Mahdi",
+                "year": "2015",
+                "volume-title": "Physical Space Requirements for Redirected Walking: How Size and Shape Affect Performance. In Eurographics Symposium on Virtual Environments"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "author": "Azmandian Mahdi",
+                "year": "2016",
+                "volume-title": "Automated Path Prediction for Redirected Walking Using Navigation Meshes. In IEEE Symposium on 3D User Interfaces. 63--66"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1109/WEVR.2016.7859537",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "unstructured": "Mahdi Azmandian Timofey Grechkin and Evan Suma Rosenberg. 2017. An evaluation of strategies for two-user redirected walking in shared physical spaces. In 2017 IEEE Virtual Reality (VR). 91--98.  Mahdi Azmandian Timofey Grechkin and Evan Suma Rosenberg. 2017. An evaluation of strategies for two-user redirected walking in shared physical spaces. In 2017 IEEE Virtual Reality (VR). 91--98.",
+                "DOI": "10.1109/VR.2017.7892235",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/2992154.2996883",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1016/0025-5564(75)90075-9",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/1559755.1559757",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "first-page": "545",
+                "article-title": "Subliminal Reorientation and Repositioning in Immersive Virtual Environments using Saccadic Suppression",
+                "volume": "21",
+                "author": "Bolte Benjamin",
+                "year": "2015",
+                "journal-title": "IEEE TVCG"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/2492494.2492508",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1016/0042-6989(75)90290-4",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "David C. Burr M. Concetta Morrone John Ross and others. 1994. Selective suppression of the magnocellular visual pathway during saccadic eye movements. Nature 371 6497 (1994) 511--513.  David C. Burr M. Concetta Morrone John Ross and others. 1994. Selective suppression of the magnocellular visual pathway during saccadic eye movements. Nature 371 6497 (1994) 511--513.",
+                "DOI": "10.1038/371511a0",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/3095140.3095162",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/3025453.3025753",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1523/JNEUROSCI.20-09-03449.2000",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/3130800.3130893",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/1314303.1314309",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1089/cpb.2004.7.621",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/2628257.2628259",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "unstructured": "Leon A. Gatys Matthias K\u00fcmmerer Thomas Wallis and Matthias Bethge. 2017. Guiding human gaze with convolutional neural networks. ArXiv e-prints (2017). arXiv:cs.CV/1712.06492  Leon A. Gatys Matthias K\u00fcmmerer Thomas Wallis and Matthias Bethge. 2017. Guiding human gaze with convolutional neural networks. ArXiv e-prints (2017). arXiv:cs.CV/1712.06492"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/2931002.2931018",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/3119881.3119890",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/2366145.2366183",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1167/13.8.27",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1109/TVCG.2013.28",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1016/j.pneurobio.2003.12.002",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1016/j.cub.2009.05.010",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/2714573",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1207/s15327108ijap0303_3",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/2983310.2989204",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/3197517.3201335",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/91394.91449",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.3758/BF03211589",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "author": "Luebke David",
+                "year": "2001",
+                "volume-title": "Rendering Techniques"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "unstructured": "Ethel Matin. 1974. Saccadic suppression: a review and an analysis. Psychological bulletin 81 12 (1974) 899.  Ethel Matin. 1974. Saccadic suppression: a review and an analysis. Psychological bulletin 81 12 (1974) 899."
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.3758/BF03195477",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/1394281.1394289",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1145/1577755.1577760",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1145/2338676.2338689",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "unstructured": "J. Nocedal and S. Wright. 2006. Numerical Optimization. Springer New York.  J. Nocedal and S. Wright. 2006. Numerical Optimization. Springer New York."
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "author": "Patney Anjul",
+                "year": "2017",
+                "volume-title": "NVIDIA GPU Technology Conference 2017 Talks"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1145/2980179.2980246",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1109/VR.2010.5444816",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1145/3131277.3132180",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "unstructured": "Sharif Razzaque. 2005. Redirected Walking. Ph.D. Dissertation. Chapel Hill NC USA. Advisor(s) Brooks Jr. Fredrick P. AAI3190299.   Sharif Razzaque. 2005. Redirected Walking. Ph.D. Dissertation. Chapel Hill NC USA. Advisor(s) Brooks Jr. Fredrick P. AAI3190299."
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "author": "Razzaque Sharif",
+                "volume": "9",
+                "volume-title": "Proc. of Eurographics"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "author": "Razzaque Sharif",
+                "year": "2002",
+                "volume-title": "Redirected Walking in Place. In EGVE '02"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "DOI": "10.3758/BF03200168",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "DOI": "10.1016/S0042-6989(97)00110-7",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "DOI": "10.1016/S0166-2236(00)01685-4",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "DOI": "10.1145/2804408.2804415",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "DOI": "10.1145/2804408.2814187",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_55_1",
+                "DOI": "10.1145/1450579.1450611",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_56_1",
+                "DOI": "10.1109/TVCG.2009.62",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_57_1",
+                "author": "Suma Evan A.",
+                "volume-title": "Human Walking in Virtual Environments: Perception, Technology, and Applications"
+            },
+            {
+                "key": "e_1_2_2_58_1",
+                "DOI": "10.1145/2897824.2925883",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_59_1",
+                "DOI": "10.1145/311535.311589",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_60_1",
+                "unstructured": "Peter Vincent and Ritchie Brannan. 2017. S7797 Tobii Eye Tracked Foveated Rendering for VR and Desktop. (2017).  Peter Vincent and Ritchie Brannan. 2017. S7797 Tobii Eye Tracked Foveated Rendering for VR and Desktop. (2017)."
+            },
+            {
+                "key": "e_1_2_2_61_1",
+                "DOI": "10.1007/s00221-010-2407-z",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201294&ftid=1991728&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:53:12Z",
+            "timestamp": 1585961592000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "dynamic saccadic redirection"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 61,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201294"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201294",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

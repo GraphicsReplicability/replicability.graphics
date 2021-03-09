@@ -1,0 +1,152 @@
+<html><head><meta charset="utf-8">
+ <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+ <script src="../../assets/js/chart-utils.js"></script>
+<link rel="stylesheet"
+       href="../../assets/css/default.min.css">
+ <script src="../../assets/js/highlight.min.js"></script>
+ <script>hljs.initHighlightingOnLoad();</script>
+ <link href="../../assets/css/all.css" rel="stylesheet">
+ <link rel="stylesheet" href="../../assets/css/customstyle.css">
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pretty-checkbox@3.0/dist/pretty-checkbox.min.css">
+
+  <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+  <script>
+  var currentReviewId = 0;
+
+  $( function() {
+    $( "#tabs" ).tabs({
+    activate: function (event, ui) {
+        var reviewId = parseInt(event.currentTarget.id.substring(6));
+
+        [myChart.data.datasets[0].data, myChart.data.datasets[currentReviewId].data] =
+ [myChart.data.datasets[currentReviewId].data, myChart.data.datasets[0].data];
+
+        currentReviewId = reviewId-1;
+
+        [myChart.data.datasets[0].data, myChart.data.datasets[currentReviewId].data] =
+ [myChart.data.datasets[currentReviewId].data, myChart.data.datasets[0].data];
+
+        myChart.update(0);
+    }
+  });
+  } );
+  </script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-164636527-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-164636527-1');
+</script>
+<title>Deep convolutional priors for indoor scene synthesis</title>
+<meta name="description" content="Replicability and source code of the article Deep convolutional priors for indoor scene synthesis.">
+
+  </head>
+<body>
+  <ul class="publist-inline" style="text-align:left;"><li class="web"><a href="../../browse.html">< The Data</a></ul><h1 class="title">Deep convolutional priors for indoor scene synthesis <i class="fas fa-circle graphcol2" style="font-size:150%;color:#7bccc4;" title="code available but we weren't able to reproduce any results (technical issue, device specific, repl. score <= 1)"></i> <i class="fas fa-square graphcol6"  style="font-size:150%;color:#7570b3;" title="Preprint PDF available (author web page, project page, institution page, arxiv...)"></i></h1><ul class="authors">
+<li> Kai <span class="family">Wang</span></li>
+<li> Manolis <span class="family">Savva</span></li>
+<li> Angel X. <span class="family">Chang</span></li>
+<li> Daniel <span class="family">Ritchie</span></li>
+</ul>
+<center> SIGGRAPH 2018</center><ul class="publist-inline">
+<li class="web"> <i class="fas fa-globe-americas"></i> <a href="https://doi.org/10.1145/3197517.3201362">ACM</a></li>
+<li class="pdf"> <i class="far fa-file-pdf"></i> <a href="https://dritchie.github.io/pdf/deepsynth.pdf">preprint</a></li>
+<li class="web"> <i class="far fa-file-alt"></i> <a href="https://github.com/brownvc/deep-synth">Code</a></li>
+<li class="web"> <i class="fas fa-database"></i> <a href="10.1145-3197517.3201362-metadata.json">DOI Metadata</a></li>
+</ul>
+<center><img width="300" src="10.1145-3197517.3201362-thumb.png"></img></center><br><br><ul class="publist-inline" style="text-align:left;font-size:100%"><li > <i ></i> <a href="replicability.json">Download complete data for this entry</a></li></ul>
+    <div class="row">
+    <div class="column2 chart-container" style="position: relative; height:40vh; width:30vw">
+    <canvas width="300" height="250" id="myChart" class="chartjs-render-monitor"></canvas>
+    </div>
+    
+    <div class="column2">
+    <h2>Reviews</h2>
+       <div id="tabs">
+          <ul>             <li><a href="#review-1">main</a></li>
+             <li><a href="#review-2">&#43;</a></li>
+</ul><div id="review-1"><h2>Information</h2><ul><li><span class="family">Paper topic</span>: Geometry</li>
+<li><span class="family">Software type</span>: Code</li>
+<li><span class="family">Able to run a replicability test</span>: False</li>
+<li><span class="family">Replicability score</span>: 0</li>
+<li><span class="family">Software language</span>: Python</li>
+<li><span class="family">License</span>: free for non commercial use</li>
+<li><span class="family">Build mechanism</span>: Not applicable (python, Matlab..)</li>
+<li><span class="family">Dependencies</span>: numpy/matplotlib/pytorch/CUDA/pybullet/numba/pyquaternion/scikit-learn/scipy</li>
+<li><span class="family">Documentation score</span> {0,1,2}: 1</li>
+<li><span class="family">Reviewer</span>: Julie Digne &lt;julie.digne@liris.cnrs.fr&gt;</li>
+<li><span class="family">Time spent for the test (build->first run, timeout at 100min)</span>: 20min</li>
+</ul><h2>Source code information</h2>
+<ul><li><span class="family">Code URL</span>:  <a href="https://github.com/brownvc/deep-synth">https://github.com/brownvc/deep-synth</a></li>
+<li><span class="family">Git commit hash</span>: b800e11290b763b58e7d3b30329769a7b77cd12a</li>
+<li><span class="family">Software Heritage link</span>: <a href="https://archive.softwareheritage.org/swh:1:dir:291f7df8d834452214487240dea8f1a45c6e1d52;origin=https://github.com/brownvc/deep-synth/"><img src="https://archive.softwareheritage.org/badge/swh:1:dir:291f7df8d834452214487240dea8f1a45c6e1d52;origin=https://github.com/brownvc/deep-synth/"></a></li>
+</ul><h2>Comments</h2><pre>Could not run due to missing data: the SUNCG database is no longer available, and no pretrained model is given</pre></div><div id=review-2>
+           <p> If you want to contribute with another review, please follow <a href="../../index.html#contribute">these instructions</a>. </p>
+
+            <p>Please consider to cut/paste/edit the <a href="replicability.json">raw JSON data</a> attached to this paper.</a></p>
+            </div>
+            </div></div>
+    </div>
+    </div>
+    </div>
+        <script>
+ 	  var color = Chart.helpers.color;
+          var colorNames = Object.keys(window.chartColors);
+          var ctx = document.getElementById('myChart');
+          var myChart = new Chart(ctx, {
+              type: 'polarArea',
+              data: {
+                labels: ['Dependencies', 'Build / Configure', 'Fixing bugs', 'Easy to adapt', 'Can replicate paper results'],
+                     datasets: [{
+                      label: 'Variant -- "main" (the higher, the better,  {1..5}, 0=N/A )',
+                      showLine: false,
+           
+                      borderColor: "#000",
+                      borderWidth: 2,
+                      backgroundColor: [
+                          'rgba(255, 99, 132,.6)',
+                          'rgba(255, 159, 64,.6)',
+                          'rgba(255, 205, 86,.6)',
+                          'rgba(75, 192, 192,.6)',
+                          'rgba(54, 162, 235,.6)',
+                      ],
+                      data: [5,0,0,0,0]
+                  },
+                  ]
+              },
+              options: {
+  scale: {
+      ticks: {
+          suggestedMin: 0,
+          suggestedMax: 5,
+          stepSize: 1
+      }
+  }
+}
+          });
+
+        </script>
+    </code></pre></body><div style="height:30px;display:block;"></div><div id="disqus_thread"></div>
+ <script>
+ /**
+ *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+ *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+ /*
+ var disqus_config = function () {
+ this.page.url = 'https://replicability.graphics';  // Replace PAGE_URL with your page's canonical URL variable
+ this.page.identifier = '10.1145-3197517.3201362'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+ };
+ */
+ (function() { // DON'T EDIT BELOW THIS LINE
+ var d = document, s = d.createElement('script');
+ s.src = 'https://replicability-graphics.disqus.com/embed.js';
+ s.setAttribute('data-timestamp', +new Date());
+ (d.head || d.body).appendChild(s);
+ })();
+ </script>
+ <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript></html>

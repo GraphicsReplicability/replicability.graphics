@@ -1,0 +1,362 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:53Z",
+            "timestamp": 1585962713215
+        },
+        "reference-count": 38,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "name": "European Research Council",
+                "award": [
+                    "715767"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201325",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-10",
+        "source": "Crossref",
+        "is-referenced-by-count": 15,
+        "title": [
+            "Learning three-dimensional flow for interactive aerodynamic design"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Nobuyuki",
+                "family": "Umetani",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Autodesk Research, Toronto, Canada"
+                    }
+                ]
+            },
+            {
+                "given": "Bernd",
+                "family": "Bickel",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "IST Austria, Vienna, Austria"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "Pierre Baqu\u00e9 Edoardo Remelli Fran\u00e7ois Fleuret and Pascal Fua. 2018. Geodesic Convolutional Shape Optimization. CoRR abs/1802.04016 (2018). arXiv:1802.04016 http://arxiv.org/abs/1802.04016  Pierre Baqu\u00e9 Edoardo Remelli Fran\u00e7ois Fleuret and Pascal Fua. 2018. Geodesic Convolutional Shape Optimization. CoRR abs/1802.04016 (2018). arXiv:1802.04016 http://arxiv.org/abs/1802.04016"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "B. Bonev L. Prantl and N. Thuerey. 2017. Pre-computed Liquid Spaces with Generative Neural Networks and Optical Flow. ArXiv e-prints (April 2017). arXiv:cs.GR/1704.07854  B. Bonev L. Prantl and N. Thuerey. 2017. Pre-computed Liquid Spaces with Generative Neural Networks and Optical Flow. ArXiv e-prints (April 2017). arXiv:cs.GR/1704.07854"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "unstructured": "R. Buchheim R. Unger P. Jousserandot E. Mercker F. K. Schenkel Y. Nishimura and D. J. Wilsden. 1983. Comparison Tests Between Major European and North American Automotive Wind Tunnels. In SAE Technical Paper. SAE International.  R. Buchheim R. Unger P. Jousserandot E. Mercker F. K. Schenkel Y. Nishimura and D. J. Wilsden. 1983. Comparison Tests Between Major European and North American Automotive Wind Tunnels. In SAE Technical Paper. SAE International.",
+                "DOI": "10.4271/830301",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "A. X. Chang T. Funkhouser L. Guibas P. Hanrahan Q. Huang Z. Li S. Savarese M. Savva S. Song H. Su J. Xiao L. Yi and F. Yu. 2015. ShapeNet: An Information-Rich 3D Model Repository. ArXiv e-prints (Dec. 2015). arXiv:cs.GR/1512.03012  A. X. Chang T. Funkhouser L. Guibas P. Hanrahan Q. Huang Z. Li S. Savarese M. Savva S. Song H. Su J. Xiao L. Yi and F. Yu. 2015. ShapeNet: An Information-Rich 3D Model Repository. ArXiv e-prints (Dec. 2015). arXiv:cs.GR/1512.03012"
+            },
+            {
+                "key": "#cr-split#-e_1_2_2_5_1.1",
+                "unstructured": "Mengyu Chu and Nils Thuerey. 2017. Data-Driven Synthesis of Smoke Flows with CNN-based Feature Descriptors. Transaction on Graphics (SIGGRAPH) 36",
+                "DOI": "10.1145/3072959.3073643",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "#cr-split#-e_1_2_2_5_1.2",
+                "unstructured": "(4) (Apr 2017) 14. 10.1145/3072959.3073643 Mengyu Chu and Nils Thuerey. 2017. Data-Driven Synthesis of Smoke Flows with CNN-based Feature Descriptors. Transaction on Graphics (SIGGRAPH) 36",
+                "DOI": "10.1145/3072959.3073643",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "#cr-split#-e_1_2_2_5_1.3",
+                "unstructured": "(4) (Apr 2017) 14. 10.1145/3072959.3073643"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/1730804.1730807",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/2077341.2077351",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/2897824.2925957",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.5555/775492.775496",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/344779.344831",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1016/0893-6080(91)90009-T",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/2602141",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "Hucho. 1998. Aerodynamics of road vehicles: from fluid mechanics to vehicle engineering. Society of Automotive Engineers Warrendale PA.  Hucho. 1998. Aerodynamics of road vehicles: from fluid mechanics to vehicle engineering. Society of Automotive Engineers Warrendale PA."
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/1073204.1073229",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/2461912.2461987",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/2816795.2818129",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/2766919",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "unstructured": "Mojang. 2009. Minecraft. (2009).  Mojang. 2009. Minecraft. (2009)."
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "unstructured": "Charles Ruizhongtai Qi Hao Su Kaichun Mo and Leonidas J. Guibas. 2016. PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation. CoRR abs/1612.00593 (2016). arXiv:1612.00593 http://arxiv.org/abs/1612.00593  Charles Ruizhongtai Qi Hao Su Kaichun Mo and Leonidas J. Guibas. 2016. PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation. CoRR abs/1612.00593 (2016). arXiv:1612.00593 http://arxiv.org/abs/1612.00593"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "Carl Edward Rasmussen and Christopher K. I. Williams. 2005. Gaussian Processes for Machine Learning (Adaptive Computation and Machine Learning). The MIT Press.   Carl Edward Rasmussen and Christopher K. I. Williams. 2005. Gaussian Processes for Machine Learning (Adaptive Computation and Machine Learning). The MIT Press.",
+                "DOI": "10.7551/mitpress/3206.001.0001",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/3072959.3073688",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.5555/2627435.2670313",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/2601097.2601196",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/2461912.2462006",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1109/ICCV.2015.114",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/1015706.1015810",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "unstructured": "Jonathan Tompson Kristofer Schlachter Pablo Sprechmann and Ken Perlin. 2016. Accelerating Eulerian Fluid Simulation With Convolutional Networks. CoRR abs/1607.03597 (2016). arXiv:1607.03597 http://arxiv.org/abs/1607.03597  Jonathan Tompson Kristofer Schlachter Pablo Sprechmann and Ken Perlin. 2016. Accelerating Eulerian Fluid Simulation With Convolutional Networks. CoRR abs/1607.03597 (2016). arXiv:1607.03597 http://arxiv.org/abs/1607.03597"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/1141911.1141962",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "K. Um X. Hu and N. Thuerey. 2017. Liquid Splash Modeling with Neural Networks. ArXiv e-prints (April 2017). arXiv:cs.GR/1704.04456  K. Um X. Hu and N. Thuerey. 2017. Liquid Splash Modeling with Neural Networks. ArXiv e-prints (April 2017). arXiv:cs.GR/1704.04456"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/3145749.3145758",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/2601097.2601129",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/3072959.3073608",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/1531326.1531345",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "unstructured": "Zhirong Wu Shuran Song Aditya Khosla Xiaoou Tang and Jianxiong Xiao. 2014. 3D ShapeNets for 2.5D Object Recognition and Next-Best-View Prediction. CoRR abs/1406.5670 (2014). http://arxiv.org/abs/1406.5670  Zhirong Wu Shuran Song Aditya Khosla Xiaoou Tang and Jianxiong Xiao. 2014. 3D ShapeNets for 2.5D Object Recognition and Next-Best-View Prediction. CoRR abs/1406.5670 (2014). http://arxiv.org/abs/1406.5670"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1145/2988458.2988473",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "unstructured": "Olek C Zienkiewicz Robert L Taylor and P. Nithiarasu. 2013. The Finite Element Method for Fluid Dynamics Seventh Edition (7 ed.). Butterworth-Heinemann. http://amazon.com/o/ASIN/1856176355/  Olek C Zienkiewicz Robert L Taylor and P. Nithiarasu. 2013. The Finite Element Method for Fluid Dynamics Seventh Edition (7 ed.). Butterworth-Heinemann. http://amazon.com/o/ASIN/1856176355/"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201325&ftid=1991594&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:55:37Z",
+            "timestamp": 1585961737000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 38,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201325"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201325",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

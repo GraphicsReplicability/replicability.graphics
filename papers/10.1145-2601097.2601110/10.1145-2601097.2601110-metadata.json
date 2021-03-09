@@ -1,0 +1,361 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:11:21Z",
+            "timestamp": 1586002281124
+        },
+        "reference-count": 29,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100000038",
+                "name": "Natural Sciences and Engineering Research Council of Canada",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100004344",
+                "name": "Adobe Systems",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100007631",
+                "name": "Canadian Institute for Advanced Research",
+                "doi-asserted-by": "publisher",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601110",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-9",
+        "source": "Crossref",
+        "is-referenced-by-count": 44,
+        "title": [
+            "Exploratory font selection using crowdsourced attributes"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Peter",
+                "family": "O'Donovan",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of Toronto"
+                    }
+                ]
+            },
+            {
+                "given": "J\u0101nis",
+                "family": "L\u012bbeks",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Toronto"
+                    }
+                ]
+            },
+            {
+                "given": "Aseem",
+                "family": "Agarwala",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe"
+                    }
+                ]
+            },
+            {
+                "given": "Aaron",
+                "family": "Hertzmann",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe/University of Toronto"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "Bradley R. A. and Terry M. E. 1952. Rank Analysis of Incomplete Block Designs: I. The Method of Paired Comparisons. Biometrika 39.  Bradley R. A. and Terry M. E. 1952. Rank Analysis of Incomplete Block Designs: I. The Method of Paired Comparisons. Biometrika 39 .",
+                "DOI": "10.2307/2334029",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/2501988.2502008",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1108/14684520510628873",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "author": "Friedman J. H.",
+                "year": "2000",
+                "article-title": "Greedy Function Approximation: A Gradient Boosting Machine",
+                "journal-title": "Annals of Statistics 29."
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "Garfield S. 2011. Just My Type. Profile Books.  Garfield S. 2011. Just My Type . Profile Books."
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/2461912.2461954",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "author": "Kovashka A.",
+                "volume-title": "Proc. CVPR."
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "author": "Kulis B.",
+                "year": "2011",
+                "volume-title": "Metric Learning: A Survey. In Foundations and Trends in Machine Learning."
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "Kumar N. Berg A. C. Belhumeur P. N. and Nayar S. K. 2011. Describable Visual Attributes for Face Verification and Image search. In IEEE PAMI. 10.1109/TPAMI.2011.48   Kumar N. Berg A. C. Belhumeur P. N. and Nayar S. K. 2011. Describable Visual Attributes for Face Verification and Image search. In IEEE PAMI . 10.1109/TPAMI.2011.48",
+                "DOI": "10.1109/TPAMI.2011.48",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "Laurentis M. S. D. 1993. Panose 2.0 White Paper. Tech. rep. Hewlett-Packard Document.  Laurentis M. S. D. 1993. Panose 2.0 White Paper. Tech. rep. Hewlett-Packard Document."
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "Lewis C. and Walker P. 1989. Typographic Influences on Reading. British Journal of Psychology 80.  Lewis C. and Walker P. 1989. Typographic Influences on Reading. British Journal of Psychology 80 .",
+                "DOI": "10.1111/j.2044-8295.1989.tb02317.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/1815330.1815360",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1109/TIT.1982.1056489",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "author": "Mackiewicz J.",
+                "volume-title": "Proc. IPCC."
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/258734.258887",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1109/ICCV.2011.6126281",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "author": "Schultz M.",
+                "volume-title": "Proc. NIPS."
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "unstructured": "Shaikh A. Chapparo B. S. and Fox D. 2006. Perception of Fonts: Perceived Personality Traits and Uses. Usability News.  Shaikh A. Chapparo B. S. and Fox D. 2006. Perception of Fonts: Perceived Personality Traits and Uses. Usability News ."
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "unstructured": "Shaikh A. 2007. Psychology of Onscreen Type. PhD thesis Wichita State University.  Shaikh A. 2007. Psychology of Onscreen Type . PhD thesis Wichita State University."
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "author": "Solli M.",
+                "volume-title": "Proc. SCIA, 432--441"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "author": "Srihari S.",
+                "year": "1999",
+                "volume-title": "Proc. ICDAR."
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/1618452.1618513",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "author": "Tamuz O.",
+                "volume-title": "Proc. ICML."
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/1531326.1531374",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "unstructured": "Tibshirani R. 1996. Regression Shrinkage and Selection Via the Lasso. Royal. Statist. Soc B 58.  Tibshirani R. 1996. Regression Shrinkage and Selection Via the Lasso. Royal. Statist. Soc B 58 .",
+                "DOI": "10.1111/j.2517-6161.1996.tb02080.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "unstructured": "Tsukida K. and Gupta M. R. 2011. How to Analyze Paired Comparison Data. Tech. rep. University of Washington.  Tsukida K. and Gupta M. R. 2011. How to Analyze Paired Comparison Data. Tech. rep. University of Washington."
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "author": "van der Maaten L.",
+                "year": "2008",
+                "article-title": "Visualizing Data Using t-SNE",
+                "journal-title": "Journal of Machine Learning Research 9."
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "author": "Welinder P.",
+                "volume-title": "Proc. NIPS."
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/1121949.1121978",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601110&amp;ftid=1488900&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:48:22Z",
+            "timestamp": 1586000902000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 29,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601110"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601110",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

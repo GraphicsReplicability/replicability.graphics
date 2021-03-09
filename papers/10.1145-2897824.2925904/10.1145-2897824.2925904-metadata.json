@@ -1,0 +1,509 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T02:11:27Z",
+            "timestamp": 1585966287558
+        },
+        "reference-count": 60,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2017,
+                            7,
+                            24
+                        ]
+                    ],
+                    "date-time": "2017-07-24T00:00:00Z",
+                    "timestamp": 1500854400000
+                },
+                "delay-in-days": 378,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100000001",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "HCC-0905506, CAREER-1453101, DGE-1144153"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925904",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 16,
+        "title": [
+            "Toward animating water with complex acoustic bubbles"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Timothy R.",
+                "family": "Langlois",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Cornell University"
+                    }
+                ]
+            },
+            {
+                "given": "Changxi",
+                "family": "Zheng",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Columbia University"
+                    }
+                ]
+            },
+            {
+                "given": "Doug L.",
+                "family": "James",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/2766935",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "Banerjee P. K. and Butterfield R. 1981. Boundary element methods in engineering science vol. 17. McGraw-Hill London.  Banerjee P. K. and Butterfield R. 1981. Boundary element methods in engineering science vol. 17. McGraw-Hill London."
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1002/joc.926",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/2159516.2159522",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "Bragg S. W. H. 1920. The World of Sound. G. Bell and Sons Ltd.  Bragg S. W. H. 1920. The World of Sound . G. Bell and Sons Ltd."
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "unstructured": "Bridson R. 2008. Fluid simulation for computer graphics. CRC Press.   Bridson R. 2008. Fluid simulation for computer graphics . CRC Press."
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/2185520.2185559",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1016/j.expthermflusci.2014.03.011",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1121/1.3484087",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1121/1.3514416",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1121/1.3553175",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/2767003",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1121/1.2934587",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Deane G. B. and Stokes M. D. 2002. Scale dependence of bubble creation mechanisms in breaking waves. Nature 418 6900 839--844.  Deane G. B. and Stokes M. D. 2002. Scale dependence of bubble creation mechanisms in breaking waves. Nature 418 6900 839--844.",
+                "DOI": "10.1038/nature00967",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1121/1.3419774",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1121/1.4773069",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1175/1520-0485(1994)024<1368:OOBSWS>2.0.CO;2",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/566654.566645",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/258734.258849",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "Hager W. W. 1989. Updating the inverse of a matrix. SIAM review 31 2 221--239. 10.1137/1031049   Hager W. W. 1989. Updating the inverse of a matrix. SIAM review 31 2 221--239. 10.1137/1031049",
+                "DOI": "10.1137/1031049",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "author": "Hong J.-M.",
+                "volume": "22",
+                "volume-title": "Computer Graphics Forum"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/1073204.1073283",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1016/j.jsv.2010.08.038",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "Howe M. S. 1998. Acoustics of Fluid-Structure Interatctions. Cambridge Press.  Howe M. S. 1998. Acoustics of Fluid-Structure Interatctions . Cambridge Press.",
+                "DOI": "10.1017/CBO9780511662898",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "unstructured": "Howe M. S. 2002. Theory of Vortex Sound. Cambridge Press.  Howe M. S. 2002. Theory of Vortex Sound . Cambridge Press.",
+                "DOI": "10.1017/CBO9780511755491",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/1276377.1276500",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.5697/oc.55-4.809",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "unstructured": "Lamb H. 1932. Hydrodynamics. Cambridge University Press.  Lamb H. 1932. Hydrodynamics . Cambridge University Press."
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "first-page": "17",
+                "article-title": "An acoustical hypothesis for the spiral bubble nets of humpback whales and the implications for whale feeding",
+                "volume": "22",
+                "author": "Leighton T.",
+                "year": "2007",
+                "journal-title": "Acoustic Bulletin"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "unstructured": "Leighton T. G. 1994. The Acoustic Bubble. Academic Press.  Leighton T. G. 1994. The Acoustic Bubble . Academic Press."
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1080/10867651.2003.10487582",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1017/jfm.2011.418",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1017/S0022112089001035",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1017/S0022112089001047",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1017/S0022112090000179",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1017/S0022112091001866",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/1141911.1141960",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1121/1.1491256",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1121/1.398104",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "author": "Minnaert M.",
+                "volume": "16",
+                "year": "1933",
+                "article-title": "On musical air-bubbles and the sounds of running water",
+                "journal-title": "Philosophical Magazine"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1145/1805964.1805965",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1121/1.393695",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "unstructured": "Osher S. and Fedkiw R. 2006. Level set methods and dynamic implicit surfaces vol. 153. Springer Science & Business Media.  Osher S. and Fedkiw R. 2006. Level set methods and dynamic implicit surfaces vol. 153. Springer Science & Business Media."
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1016/S0021-9991(03)00298-5",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1016/j.jcp.2009.04.042",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "unstructured": "Prosperetti A.\n     1988.\n      \n  \n   \n  Bubble dynamics in oceanic ambient noise\n  . In Sea Surface Sound B. Kerman Ed. vol. \n  238\n   of \n  NATO ASI Series\n  . \n  Springer Netherlands 151--171.  Prosperetti A. 1988. Bubble dynamics in oceanic ambient noise. In Sea Surface Sound B. Kerman Ed. vol. 238 of NATO ASI Series . Springer Netherlands 151--171.",
+                "DOI": "10.1007/978-94-009-3017-9_12",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "DOI": "10.1121/1.396740",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "DOI": "10.1121/1.397353",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "DOI": "10.1109/48.103520",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "unstructured": "Rayleigh L. 1917. VIII. On the pressure developed in a liquid during the collapse of a spherical cavity. Philosophical Magazine Series 6 34 200 94--98.  Rayleigh L. 1917. VIII. On the pressure developed in a liquid during the collapse of a spherical cavity. Philosophical Magazine Series 6 34 200 94--98.",
+                "DOI": "10.1080/14786440808635681",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "unstructured": "Smigaj W. Arridge S. Betcke T. Phillips J. and Schweiger M. 2012. Solving boundary integral problems with bem++. ACM Transactions on Mathematical Software. 10.1145/2590830   Smigaj W. Arridge S. Betcke T. Phillips J. and Schweiger M. 2012. Solving boundary integral problems with bem++. ACM Transactions on Mathematical Software . 10.1145/2590830"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "unstructured": "Spiel D. E. 1992. Acoustical measurements of air bubbles bursting at a water surface: Bursting bubbles as helmholtz resonators. Journal of Geophysical Research: Oceans (1978--2012) 97 C7 11443--11452.  Spiel D. E. 1992. Acoustical measurements of air bubbles bursting at a water surface: Bursting bubbles as helmholtz resonators. Journal of Geophysical Research: Oceans (1978--2012) 97 C7 11443--11452.",
+                "DOI": "10.1029/92JC00982",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "first-page": "1",
+                "article-title": "On the resonance frequency of an ideal arbitrarily-shaped bubble",
+                "volume": "20",
+                "author": "Spratt K. S.",
+                "year": "2015",
+                "journal-title": "Proceedings of Meetings on Acoustics"
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "DOI": "10.1145/311535.311548",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_55_1",
+                "DOI": "10.1121/1.1907076",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_56_1",
+                "DOI": "10.1145/1101530.1101554",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_57_1",
+                "DOI": "10.1029/2008GL033200",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_58_1",
+                "DOI": "10.1145/1531326.1531343",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_59_1",
+                "DOI": "10.1145/1778765.1778806",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_60_1",
+                "DOI": "10.1016/j.gmod.2009.08.001",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "https://dl.acm.org/doi/pdf/10.1145/2897824.2925904",
+                "content-type": "application/pdf",
+                "content-version": "vor",
+                "intended-application": "syndication"
+            },
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925904&amp;ftid=1755894&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:37:09Z",
+            "timestamp": 1585964229000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 60,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925904"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925904",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

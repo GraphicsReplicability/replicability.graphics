@@ -1,0 +1,498 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2020-07-12T20:10:15Z",
+            "timestamp": 1594584615399
+        },
+        "reference-count": 47,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2019,
+                            7,
+                            12
+                        ]
+                    ],
+                    "date-time": "2019-07-12T00:00:00Z",
+                    "timestamp": 1562889600000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100003725",
+                "name": "National Research Foundation of Korea",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "2019R1A2C3007229, 2013M3A6A6073718"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100003696",
+                "name": "Electronics and Telecommunications Research Institute",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "19ZR1400"
+                ]
+            },
+            {
+                "DOI": "10.13039/100004358",
+                "name": "Samsung",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "SRFC-IT1402-02"
+                ]
+            },
+            {
+                "name": "Cross-Ministry Giga KOREA Project",
+                "award": [
+                    "GK17P0200"
+                ]
+            },
+            {
+                "name": "SK Hynix",
+                "award": [
+                    "NA"
+                ]
+            },
+            {
+                "name": "ICT R&D program of MSIT/IITP of Korea",
+                "award": [
+                    "2016-0-00018"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "DOI": "10.1145/3306346.3322946",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2019-07-12T19:04:08Z",
+            "timestamp": 1562958248000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 2,
+        "title": [
+            "Compact snapshot hyperspectral imaging with diffracted rotation"
+        ],
+        "prefix": "10.1145",
+        "volume": "38",
+        "author": [
+            {
+                "given": "Daniel S.",
+                "family": "Jeon",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "KAIST"
+                    }
+                ]
+            },
+            {
+                "given": "Seung-Hwan",
+                "family": "Baek",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "KAIST"
+                    }
+                ]
+            },
+            {
+                "given": "Shinyoung",
+                "family": "Yi",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "KAIST"
+                    }
+                ]
+            },
+            {
+                "given": "Qiang",
+                "family": "Fu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "KAUST"
+                    }
+                ]
+            },
+            {
+                "given": "Xiong",
+                "family": "Dun",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "KAUST"
+                    }
+                ]
+            },
+            {
+                "given": "Wolfgang",
+                "family": "Heidrich",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "KAUST"
+                    }
+                ]
+            },
+            {
+                "given": "Min H.",
+                "family": "Kim",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "KAIST"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "M. Abadi P. Barham J. Chen Z. Chen A. Davis J. Dean M. Devin S. Ghemawat G. Irving M. Isard M. Kudlur J. Levenberg R. Monga S. Moore D. G. Murray B. Steiner P. Tucker V. Vasudevan P. Warden M. Wicke Y. Yu and X. Zheng. 2016.  M. Abadi P. Barham J. Chen Z. Chen A. Davis J. Dean M. Devin S. Ghemawat G. Irving M. Isard M. Kudlur J. Levenberg R. Monga S. Moore D. G. Murray B. Steiner P. Tucker V. Vasudevan P. Warden M. Wicke Y. Yu and X. Zheng. 2016."
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "volume-title": "Proc. USENIX Conf. Operating Systems Design and Implementation (OSDI'16)"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1364/OPTICA.5.000001",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1109/ICCPHOT.2016.7492880",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1007/978-3-319-46478-7_2",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1109/TCI.2016.2593662",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "unstructured": "Seung-Hwan Baek Incheol Kim Diego Gutierrez and Min H. Kim. 2017. Compact Single-Shot Hyperspectral Imaging Using a Prism. ACM Transactions on Graphics (Proc. SIGGRAPH Asia 2017) 36 6 (2017). 10.1145/3130800.3130896   Seung-Hwan Baek Incheol Kim Diego Gutierrez and Min H. Kim. 2017. Compact Single-Shot Hyperspectral Imaging Using a Prism. ACM Transactions on Graphics (Proc. SIGGRAPH Asia 2017) 36 6 (2017). 10.1145/3130800.3130896"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1109/TIP.2007.909319",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1007/s00138-006-0026-2",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1109/CVPR.2011.5995660",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "Inchang Choi Daniel S. Jeon Giljoo Nam Diego Gutierrez and Min H. Kim. 2017. High-Quality Hyperspectral Reconstruction Using a Spectral Prior. ACM Transactions on Graphics (Proc. SIGGRAPH Asia 2017) 36 6 (2017). 10.1145/3130800.3130810   Inchang Choi Daniel S. Jeon Giljoo Nam Diego Gutierrez and Min H. Kim. 2017. High-Quality Hyperspectral Reconstruction Using a Spectral Prior. ACM Transactions on Graphics (Proc. SIGGRAPH Asia 2017) 36 6 (2017). 10.1145/3130800.3130810"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "author": "Choudhury B.",
+                "year": "2017",
+                "volume-title": "Proc. International Conference on Computer Vision (ICCV"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "Weisheng Dong Peiyao Wang Wotao Yin and Guangming Shi. 2018. Denoising Prior Driven Deep Neural Network for Image Restoration. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) (2018) 1--1.  Weisheng Dong Peiyao Wang Wotao Yin and Guangming Shi. 2018. Denoising Prior Driven Deep Neural Network for Image Restoration. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) (2018) 1--1."
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1364/OE.15.014013",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "unstructured": "Adam Greengard Yoav Y Schechner and Rafael Piestun. 2006. Depth from diffracted rotation. Optics letters 31 2 (2006) 181--183.  Adam Greengard Yoav Y Schechner and Rafael Piestun. 2006. Depth from diffracted rotation. Optics letters 31 2 (2006) 181--183."
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1111/j.1467-8659.2012.03024.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1038/srep33543",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1111/cgf.12847",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1117/1.2434950",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1109/ISUVR.2013.15",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/2185520.2185534",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "author": "Min",
+                "year": "2011",
+                "volume-title": "Proc. International Symposium on Virtual Reality, Archaeology and Cultural Heritage (VAST"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "Min H Kim Holly Rushmeier John ffrench and Irma Passeri. 2012b. Developing Open-Source Software for Art Conservators. In VAST12: The 13th International Symposium on Virtual Reality Archaeology and Intelligent Cultural Heritage. Eurographics Association Brighton England 97--104.  Min H Kim Holly Rushmeier John ffrench and Irma Passeri. 2012b. Developing Open-Source Software for Art Conservators. In VAST12: The 13th International Symposium on Virtual Reality Archaeology and Intelligent Cultural Heritage. Eurographics Association Brighton England 97--104."
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/2567652",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "author": "Diederik",
+                "volume-title": "Adam: A Method for Stochastic Optimization. In The International Conference on Learning Representations (ICLR)."
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1364/AO.49.006824",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "unstructured": "Fred A Kruse AB Lefkoff JW Boardman KB Heidebrecht AT Shapiro PJ Barloon and AFH Goetz. 1993. The spectral image processing system (SIPS)---interactive visualization and analysis of imaging spectrometer data. Remote sensing of environment 44 2--3 (1993) 145--163.  Fred A Kruse AB Lefkoff JW Boardman KB Heidebrecht AT Shapiro PJ Barloon and AFH Goetz. 1993. The spectral image processing system (SIPS)---interactive visualization and analysis of imaging spectrometer data. Remote sensing of environment 44 2--3 (1993) 145--163.",
+                "DOI": "10.1016/0034-4257(93)90013-N",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "author": "Lee Haebom",
+                "volume": "8509",
+                "volume-title": "Proc. Int. Conf. Image and Signal Processing (ICISP 2014)"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "Chengbo Li Wotao Yin and Yin Zhang. 2009. User's guide for TVAL3: TV minimization by augmented lagrangian and alternating direction algorithms. CAAM report 20 46--47 (2009) 4.  Chengbo Li Wotao Yin and Yin Zhang. 2009. User's guide for TVAL3: TV minimization by augmented lagrangian and alternating direction algorithms. CAAM report 20 46--47 (2009) 4."
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/2661229.2661262",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1109/MCG.2014.108",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1366/0003702934067810",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "unstructured": "Donald C. O'Shea Thomas J. Suleski Alan D. Kathman and Dennis W. Prather. 2003. Diffractive Optics: Design Fabrication and Test. SPIE Press.   Donald C. O'Shea Thomas J. Suleski Alan D. Kathman and Dennis W. Prather. 2003. Diffractive Optics: Design Fabrication and Test. SPIE Press.",
+                "DOI": "10.1117/3.527861",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1109/ICCPHOT.2018.8368469",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1364/OE.23.031393",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1145/2897824.2925941",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1117/12.942280",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1007/978-3-319-24574-4_28",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "author": "Simonyan K.",
+                "volume-title": "Proc. Int. Conf. Learning Representation (ICLR)."
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1145/3197517.3201333",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1109/ICCPHOT.2017.7951485",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "unstructured": "Ashwin Wagadarikar Renu John Rebecca Willett and David Brady. 2008. Single disperser design for coded aperture snapshot spectral imaging. Applied optics 47 10 (2008) B44--B51.  Ashwin Wagadarikar Renu John Rebecca Willett and David Brady. 2008. Single disperser design for coded aperture snapshot spectral imaging. Applied optics 47 10 (2008) B44--B51.",
+                "DOI": "10.1364/AO.47.000B44",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1109/CVPR.2019.00822",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1364/OPTICA.2.000933",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1364/JOSAA.35.000189",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "DOI": "10.1109/CVPR.2018.00196",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "DOI": "10.1109/CVPR.2017.300",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3322946&ftid=2071723&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2020-07-12T19:30:34Z",
+            "timestamp": 1594582234000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "references-count": 47,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        12
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3306346.3322946"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3306346.3322946",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

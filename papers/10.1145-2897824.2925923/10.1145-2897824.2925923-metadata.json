@@ -1,0 +1,335 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T02:11:27Z",
+            "timestamp": 1585966287550
+        },
+        "reference-count": 27,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2017,
+                            7,
+                            24
+                        ]
+                    ],
+                    "date-time": "2017-07-24T00:00:00Z",
+                    "timestamp": 1500854400000
+                },
+                "delay-in-days": 378,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100000001",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "IIS-1253530"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925923",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 3,
+        "title": [
+            "A system for rapid exploration of shader optimization choices"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Yong",
+                "family": "He",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Carnegie Mellon University"
+                    }
+                ]
+            },
+            {
+                "given": "Tim",
+                "family": "Foley",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "NVIDIA"
+                    }
+                ]
+            },
+            {
+                "given": "Kayvon",
+                "family": "Fatahalian",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Carnegie Mellon University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/1542476.1542481",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "author": "Austin C.",
+                "year": "2005",
+                "volume-title": "Proceedings of Graphics Hardware"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "author": "Bauer M.",
+                "year": "2012",
+                "volume-title": "Legion: Expressing locality and independence with logical regions. In Proceedings of the International Conference on High Performance Computing, Networking, Storage and Analysis"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "Bungie 2014. Destiny computer game. Available at http://www.destinythegame.com.  Bungie 2014. Destiny computer game. Available at http://www.destinythegame.com."
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/2601097.2601214",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "unstructured": "Epic Games 2015. Unreal Engine 4 documentation. Available at http://docs.unrealengine.com.  Epic Games 2015. Unreal Engine 4 documentation. Available at http://docs.unrealengine.com."
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "unstructured": "Epic Games 2015. Unreal Engine 4 Marketplace Web Site. http://www.unrealengine.com/marketplace.  Epic Games 2015. Unreal Engine 4 Marketplace Web Site. http://www.unrealengine.com/marketplace."
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/1188455.1188543",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/2010324.1965002",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/97880.97911",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/2601097.2601105",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/2816795.2818104",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1111/j.1467-8659.2011.01991.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Kessenich J. Baldwin D. and Rost R. 2014. The OpenGL shading language language version 4.4. Available at https://www.opengl.org.  Kessenich J. Baldwin D. and Rost R. 2014. The OpenGL shading language language version 4.4. Available at https://www.opengl.org."
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/566654.566641",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/882262.882362",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "author": "McCool M. D.",
+                "year": "2000",
+                "volume-title": "SMASH: A next-generation API for programmable graphics accelerators. Tech. Rep. CS-2000-14"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "unstructured": "Microsoft 2016. HLSL shader model 5 documentation. Available at https://msdn.microsoft.com.  Microsoft 2016. HLSL shader model 5 documentation. Available at https://msdn.microsoft.com."
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/2766973",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/383259.383275",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/2185520.2185528",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "author": "Shopf J.",
+                "year": "2009",
+                "volume-title": "Game Developers Conference 2009 slides."
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/2070781.2024186",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/1477926.1477930",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "first-page": "10",
+                "article-title": "Coarse pixel shading",
+                "volume": "2014",
+                "author": "Vaidyanathan K.",
+                "year": "2014",
+                "journal-title": "High Performance Graphics"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/2661229.2661276",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1111/j.1467-8659.2008.01256.x",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "https://dl.acm.org/doi/pdf/10.1145/2897824.2925923",
+                "content-type": "application/pdf",
+                "content-version": "vor",
+                "intended-application": "syndication"
+            },
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925923&amp;ftid=1755912&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:42:55Z",
+            "timestamp": 1585964575000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 27,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925923"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925923",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

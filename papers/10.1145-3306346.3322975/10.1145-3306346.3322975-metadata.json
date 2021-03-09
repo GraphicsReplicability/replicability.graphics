@@ -1,0 +1,335 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    5,
+                    6
+                ]
+            ],
+            "date-time": "2020-05-06T07:23:45Z",
+            "timestamp": 1588749825596
+        },
+        "reference-count": 25,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2019,
+                            7,
+                            12
+                        ]
+                    ],
+                    "date-time": "2019-07-12T00:00:00Z",
+                    "timestamp": 1562889600000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "name": "Austrian Science Fund",
+                "award": [
+                    "I2978"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "DOI": "10.1145/3306346.3322975",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2019-07-12T19:04:08Z",
+            "timestamp": 1562958248000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 2,
+        "title": [
+            "Visual smoothness of polyhedral surfaces"
+        ],
+        "prefix": "10.1145",
+        "volume": "38",
+        "author": [
+            {
+                "given": "Davide",
+                "family": "Pellis",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "TU Wien"
+                    }
+                ]
+            },
+            {
+                "given": "Martin",
+                "family": "Kilian",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "TU Wien"
+                    }
+                ]
+            },
+            {
+                "given": "Felix",
+                "family": "Dellinger",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "TU Wien"
+                    }
+                ]
+            },
+            {
+                "given": "Johannes",
+                "family": "Wallner",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "TU Graz"
+                    }
+                ]
+            },
+            {
+                "given": "Helmut",
+                "family": "Pottmann",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "KAUST"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_1_1_1",
+                "author": "Alboul Lyuba",
+                "volume-title": "The Mathematics of Surfaces VI"
+            },
+            {
+                "key": "e_1_2_1_2_1",
+                "unstructured": "Ben Andrews. 1999. Gauss curvature flow: the fate of the rolling stones. Invent. math. 138 (1999) 151--161.  Ben Andrews. 1999. Gauss curvature flow: the fate of the rolling stones. Invent. math. 138 (1999) 151--161."
+            },
+            {
+                "key": "e_1_2_1_3_1",
+                "DOI": "10.5555/1773899.1773910",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_4_1",
+                "unstructured": "Ronny Bergmann Marc Herrmann Roland Herzog Stephan Schmidt and Jos\u00e9 Vidal N\u00fa\u00f1ez. 2019. Total variation of the normal vector field as shape prior with applications in geometric inverse problems. preprint. http://arxiv.org/abs/1902.07240.  Ronny Bergmann Marc Herrmann Roland Herzog Stephan Schmidt and Jos\u00e9 Vidal N\u00fa\u00f1ez. 2019. Total variation of the normal vector field as shape prior with applications in geometric inverse problems. preprint. http://arxiv.org/abs/1902.07240.",
+                "DOI": "10.1088/1361-6420/ab6d5c",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_5_1",
+                "unstructured": "Alexander Bobenko and Yuri Suris. 2009. Discrete differential geometry: Integrable Structure. American Math. Soc.  Alexander Bobenko and Yuri Suris. 2009. Discrete differential geometry: Integrable Structure. American Math. Soc.",
+                "DOI": "10.1090/gsm/098",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_6_1",
+                "author": "Alexander",
+                "volume-title": "Geometry Processing 2005 (Symposium Proceedings). 101--110"
+            },
+            {
+                "key": "e_1_2_1_7_1",
+                "DOI": "10.1145/1531326.1531383",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_8_1",
+                "DOI": "10.1145/777792.777839",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_9_1",
+                "unstructured": "Manfredo P. do Carmo. 1976. Differential geometry of curves and surfaces. Prentice-Hall.  Manfredo P. do Carmo. 1976. Differential geometry of curves and surfaces. Prentice-Hall."
+            },
+            {
+                "key": "e_1_2_1_10_1",
+                "author": "Dyn Nira",
+                "year": "2000",
+                "volume-title": "Mathematical Methods for Curves and Surfaces: Oslo"
+            },
+            {
+                "key": "e_1_2_1_11_1",
+                "DOI": "10.1134/S0965542510010082",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_12_1",
+                "unstructured": "Felix G\u00fcnther Caigui Jiang and Helmut Pottmann. 2017. Smooth polyhedral surfaces. preprint. http://arxiv.org/abs/1703.05318.  Felix G\u00fcnther Caigui Jiang and Helmut Pottmann. 2017. Smooth polyhedral surfaces. preprint. http://arxiv.org/abs/1703.05318."
+            },
+            {
+                "key": "e_1_2_1_13_1",
+                "DOI": "10.1007/s10711-006-9109-5",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_14_1",
+                "DOI": "10.4310/jdg/1214438998",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_15_1",
+                "author": "Jiang Caigui",
+                "year": "2016",
+                "volume-title": "Advances in Architectural Geometry"
+            },
+            {
+                "key": "e_1_2_1_16_1",
+                "DOI": "10.1145/2816795.2818077",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_17_1",
+                "DOI": "10.1145/280814.280831",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_18_1",
+                "DOI": "10.1007/s00454-004-1139-x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_19_1",
+                "DOI": "10.1145/3130800.3130827",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_20_1",
+                "DOI": "10.1016/j.cag.2014.11.002",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_21_1",
+                "author": "Schling Eike",
+                "volume-title": "Proc. Advances in Architectural Geometry"
+            },
+            {
+                "key": "e_1_2_1_22_1",
+                "DOI": "10.1145/3197517.3201303",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_24_1",
+                "DOI": "10.1016/j.gmod.2013.07.001",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_25_1",
+                "DOI": "10.1145/2601097.2601213",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_26_1",
+                "DOI": "10.1016/j.cam.2005.03.094",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3322975&ftid=2071729&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    5,
+                    5
+                ]
+            ],
+            "date-time": "2020-05-05T17:04:05Z",
+            "timestamp": 1588698245000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "references-count": 25,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        12
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3306346.3322975"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3306346.3322975",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

@@ -1,0 +1,410 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T02:11:28Z",
+            "timestamp": 1585966288154
+        },
+        "reference-count": 40,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925889",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 5,
+        "title": [
+            "Real-time rendering on a power budget"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Rui",
+                "family": "Wang",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Zhejiang University"
+                    }
+                ]
+            },
+            {
+                "given": "Bowen",
+                "family": "Yu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Zhejiang University"
+                    }
+                ]
+            },
+            {
+                "given": "Julio",
+                "family": "Marco",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Universidad de Zaragoza"
+                    }
+                ]
+            },
+            {
+                "given": "Tianlei",
+                "family": "Hu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Zhejiang University"
+                    }
+                ]
+            },
+            {
+                "given": "Diego",
+                "family": "Gutierrez",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Universidad de Zaragoza and I3A Institute"
+                    }
+                ]
+            },
+            {
+                "given": "Hujun",
+                "family": "Bao",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Zhejiang University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1109/JPROC.2008.917719",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/2678373.2665748",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1016/j.future.2011.04.017",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1016/j.cag.2013.10.020",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1016/j.cag.2015.07.015",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1109/TCE.2004.1277837",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1111/j.1467-8659.2009.01359.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "Cohade A. and de los Santos S. 2015. Power efficient programming: How funcom increased play time in lego minifigures. In Game Developer's Conference.  Cohade A. and de los Santos S. 2015. Power efficient programming: How funcom increased play time in lego minifigures. In Game Developer's Conference ."
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "first-page": "459",
+                "article-title": "GPU-based importance sampling",
+                "volume": "3",
+                "author": "Colbert M.",
+                "year": "2007",
+                "journal-title": "GPU Gems"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1109/4235.996017",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1109/TMC.2011.167",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/1594233.1594317",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1016/j.orgel.2003.08.014",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/2816795.2818127",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/2816795.2818104",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/1066116.1189045",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "Jimenez J. Masia B. Echevarria J. I. Navarro F. and Gutierrez D. 2011. GPU Pro 2.  Jimenez J. Masia B. Echevarria J. I. Navarro F. and Gutierrez D. 2011. GPU Pro 2."
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.5555/2383795.2383806",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "unstructured": "Johnsson B. M. 2014. Energy Analysis for Graphics Processors using Novel Methods & Efficient Multi-View Rendering. PhD thesis Lund University.  Johnsson B. M. 2014. Energy Analysis for Graphics Processors using Novel Methods & Efficient Multi-View Rendering . PhD thesis Lund University."
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "author": "Kajalin V.",
+                "first-page": "413",
+                "year": "2009",
+                "article-title": "Screen space ambient occlusion",
+                "journal-title": "Shader"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "Kyung C.-M. and Yoo S. 2014. Energy-Aware System Design: Algorithms and Architectures. Springer Publishing Company Incorporated.   Kyung C.-M. and Yoo S. 2014. Energy-Aware System Design: Algorithms and Architectures . Springer Publishing Company Incorporated."
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1016/j.cag.2013.10.003",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "Mavridis P. and Papaioannou G. 2015. MSAA-based coarse shading for power-efficient rendering on high pixel-density displays. In High Performance Graphics.  Mavridis P. and Papaioannou G. 2015. MSAA-based coarse shading for power-efficient rendering on high pixel-density displays. In High Performance Graphics ."
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1109/ICCD.2005.69",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "unstructured": "Narra P. and Zinger D. 2004. An effective LED dimming approach. In IEEE industry applications conference.  Narra P. and Zinger D. 2004. An effective LED dimming approach. In IEEE industry applications conference."
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "unstructured": "NVML 2015. NVIDIA Management Library. https://developer.nvidia.com/nvidia-management-library-nvml.  NVML 2015. NVIDIA Management Library. https://developer.nvidia.com/nvidia-management-library-nvml."
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "unstructured": "Peddie J. 2013. Trends and forecasts in computer graphics --power-efficient rendering. In Jon Peddie Research.  Peddie J. 2013. Trends and forecasts in computer graphics --power-efficient rendering. In Jon Peddie Research."
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/1073204.1073212",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "Pool J. 2012. Energy-precision tradeoffs in the graphics pipeline. PhD thesis University of North Carolina at Chapel Hill.   Pool J. 2012. Energy-precision tradeoffs in the graphics pipeline . PhD thesis University of North Carolina at Chapel Hill."
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "unstructured": "PowerVR. 2012. PowerVR: A master class in graphics technology and optimization. In Imagination Technologies.  PowerVR. 2012. PowerVR: A master class in graphics technology and optimization. In Imagination Technologies ."
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1109/MC.2006.89",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "unstructured": "Shearer F. 2007. Power Management in Mobile Devices. Elsevier Inc.   Shearer F. 2007. Power Management in Mobile Devices. Elsevier Inc."
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/2070781.2024186",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "unstructured": "Stavrakis E. Polychronis M. Pelekanos N. Artusi A. Hadjichristodoulou P. and Chrysanthou Y. 2015. Toward energy-aware balancing of mobile graphics. In IS&T/SPIE Electronic Imaging International Society for Optics and Photonics 94110D--94110D.  Stavrakis E. Polychronis M. Pelekanos N. Artusi A. Hadjichristodoulou P. and Chrysanthou Y. 2015. Toward energy-aware balancing of mobile graphics. In IS&T/SPIE Electronic Imaging International Society for Optics and Photonics 94110D--94110D.",
+                "DOI": "10.1117/12.2079602",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "unstructured": "UnrealEngine 2015. Unreal Engine. https://www.unrealengine.com/.  UnrealEngine 2015. Unreal Engine. https://www.unrealengine.com/."
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "unstructured": "Vaidyanathan K. Salvi M. Toth R. Foley T. Akenine-M\u00f6ller T. Nilsson J. Munkberg J. Hasselgren J. Sugihara M. Clarberg P. etal 2014. Coarse pixel shading. In High Performance Graphics.  Vaidyanathan K. Salvi M. Toth R. Foley T. Akenine-M\u00f6ller T. Nilsson J. Munkberg J. Hasselgren J. Sugihara M. Clarberg P. et al. 2014. Coarse pixel shading. In High Performance Graphics ."
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1109/TMC.2006.97",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1109/TIP.2003.819861",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/2661229.2661276",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "first-page": "10",
+                "article-title": "A 120-mW 3-D rendering engine with 6-Mb embedded DRAM and 3.2-GB/s runtime reconfigurable bus for PDA chip. Solid-State Circuits",
+                "volume": "37",
+                "author": "Woo R.",
+                "year": "2002",
+                "journal-title": "IEEE Journal of"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925889&amp;ftid=1755867&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:43:03Z",
+            "timestamp": 1585964583000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 40,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925889"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925889",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

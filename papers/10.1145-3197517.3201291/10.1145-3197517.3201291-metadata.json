@@ -1,0 +1,268 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:29Z",
+            "timestamp": 1585962689408
+        },
+        "reference-count": 19,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100008982",
+                "name": "National Science Foundation of Sri Lanka",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "IIS-1451830"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201291",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 2,
+        "title": [
+            "Analytic spherical harmonic coefficients for polygonal area lights"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Jingwen",
+                "family": "Wang",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of California"
+                    }
+                ]
+            },
+            {
+                "given": "Ravi",
+                "family": "Ramamoorthi",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of California"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "J Arvo. 1995. Applications of irradiance tensors to the simulation of non-Lambertian phenomena. In SIGGRAPH 95. 335--342. 10.1145/218380.218467   J Arvo. 1995. Applications of irradiance tensors to the simulation of non-Lambertian phenomena. In SIGGRAPH 95. 335--342. 10.1145/218380.218467"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "D. Baum H. Rushmeier and J. Winget. 1989. Improving Radiosity Solutions through the use of analytically determined form-factors. In SIGGRAPH 89. 325--334. 10.1145/74333.74367   D. Baum H. Rushmeier and J. Winget. 1989. Improving Radiosity Solutions through the use of analytically determined form-factors. In SIGGRAPH 89. 325--334. 10.1145/74333.74367",
+                "DOI": "10.1145/74334.74367",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/3015459",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "author": "Chen M",
+                "year": "2001",
+                "volume-title": "Simulating Non-Lambertian Phenomena Involving Linearly-Varying Luminaires. In Eurographics Workshop on Rendering. 25--38"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "J. Dupuy E. Heitz and L. Belcour. 2017. A Spherical Cap Preserving Parameterization for Spherical Distributions. ACM Transactions on Graphics (Proc. SIGGRAPH 17) 36 4 (2017) 139:1--139:12. 10.1145/3072959.3073694   J. Dupuy E. Heitz and L. Belcour. 2017. A Spherical Cap Preserving Parameterization for Spherical Distributions. ACM Transactions on Graphics (Proc. SIGGRAPH 17) 36 4 (2017) 139:1--139:12. 10.1145/3072959.3073694"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "unstructured": "E. Heitz J. Dupuy S. Hill and D. Neubelt. 2016. Real-Time Polygonal-Light Shading with Linearly Transformed Cosines. ACM Transactions on Graphics (Proc. SIGGRAPH 16) 35 4 (2016) 41:1--41:8. 10.1145/2897824.2925895   E. Heitz J. Dupuy S. Hill and D. Neubelt. 2016. Real-Time Polygonal-Light Shading with Linearly Transformed Cosines. ACM Transactions on Graphics (Proc. SIGGRAPH 16) 35 4 (2016) 41:1--41:8. 10.1145/2897824.2925895"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "unstructured": "T MacRobert. 1948. Spherical harmonics: an elementary treatise on harmonic functions with applications. Dover Publications.  T MacRobert. 1948. Spherical harmonics: an elementary treatise on harmonic functions with applications. Dover Publications."
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "R Ng R Ramamoorthi and P Hanrahan. 2003. All-Frequency Shadows using Non-Linear Wavelet Lighting Approximation. ACM Transactions on Graphics (Proc. SIGGRAPH 03) 22 3 (2003) 376--381. 10.1145/882262.882280   R Ng R Ramamoorthi and P Hanrahan. 2003. All-Frequency Shadows using Non-Linear Wavelet Lighting Approximation. ACM Transactions on Graphics (Proc. SIGGRAPH 03) 22 3 (2003) 376--381. 10.1145/882262.882280"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/2167076.2167081",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "J Pantaleoni L Fascione M Hill and T Aila. 2010. PantaRay: fast ray-traced occlusion caching of massive scenes. ACM Transactions on Graphics (Proc. SIGGRAPH 10) 29 4 (2010). 10.1145/1778765.1778774   J Pantaleoni L Fascione M Hill and T Aila. 2010. PantaRay: fast ray-traced occlusion caching of massive scenes. ACM Transactions on Graphics (Proc. SIGGRAPH 10) 29 4 (2010). 10.1145/1778765.1778774"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1561/0600000021",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "unstructured": "Z Ren R Wang J Snyder K Zhou X Liu B Sun P Sloan H Bao Q Peng and B Guo. 2006. Real-time Soft Shadows in Dynamic Scenes using Spherical Harmonic Exponentiation. ACM Transactions on Graphics (Proc. SIGGRAPH 06) 25 3 (2006) 977--986. 10.1145/1141911.1141982   Z Ren R Wang J Snyder K Zhou X Liu B Sun P Sloan H Bao Q Peng and B Guo. 2006. Real-time Soft Shadows in Dynamic Scenes using Spherical Harmonic Exponentiation. ACM Transactions on Graphics (Proc. SIGGRAPH 06) 25 3 (2006) 977--986. 10.1145/1141911.1141982",
+                "DOI": "10.1145/1141911.1141982",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "P Sloan J Hall J Hart and J Snyder. 2003. Clustered Principal Components for Precomputed Radiance Transfer. ACM Transactions on Graphics (Proc. SIGGRAPH 03) 22 3 (2003) 382--391. 10.1145/882262.882281   P Sloan J Hall J Hart and J Snyder. 2003. Clustered Principal Components for Precomputed Radiance Transfer. ACM Transactions on Graphics (Proc. SIGGRAPH 03) 22 3 (2003) 382--391. 10.1145/882262.882281"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "P Sloan J Kautz and J Snyder. 2002. Precomputed Radiance Transfer for Real-Time Rendering in Dynamic Low-Frequency Lighting Environments. ACM Transactions on Graphics (Proc. SIGGRAPH 02) 21 3 (2002) 527--536. 10.1145/566654.566612   P Sloan J Kautz and J Snyder. 2002. Precomputed Radiance Transfer for Real-Time Rendering in Dynamic Low-Frequency Lighting Environments. ACM Transactions on Graphics (Proc. SIGGRAPH 02) 21 3 (2002) 527--536. 10.1145/566654.566612"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "unstructured": "P Sloan B Luna and J Snyder. 2005. Local deformable precomputed radiance transfer. ACM Transactions on Graphics (Proc. SIGGRAPH 05) 24 3 (2005) 1216--1224. 10.1145/1073204.1073335   P Sloan B Luna and J Snyder. 2005. Local deformable precomputed radiance transfer. ACM Transactions on Graphics (Proc. SIGGRAPH 05) 24 3 (2005) 1216--1224. 10.1145/1073204.1073335"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1029/JZ070i015p03629",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/1516522.1516525",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "unstructured": "Y Tsai and Z Shih. 2006. All-Frequency Precomputed Radiance Transfer using Spherical Radial Basis Functions and Clustered Tensor Approximation. ACM Transactions on Graphics(Proc. SIGGRAPH 06) 25 3 (2006) 967--976. 10.1145/1141911.1141981   Y Tsai and Z Shih. 2006. All-Frequency Precomputed Radiance Transfer using Spherical Radial Basis Functions and Clustered Tensor Approximation. ACM Transactions on Graphics(Proc. SIGGRAPH 06) 25 3 (2006) 967--976. 10.1145/1141911.1141981"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "K Zhou Y Hu S Lin B Guo and H Shum. 2005. Precomputed shadow fields for dynamic scenes. ACM Transactions on Graphics (Proc. SIGGRAPH 05) 24 3 (2005) 1196--1201. 10.1145/1073204.1073332   K Zhou Y Hu S Lin B Guo and H Shum. 2005. Precomputed shadow fields for dynamic scenes. ACM Transactions on Graphics (Proc. SIGGRAPH 05) 24 3 (2005) 1196--1201. 10.1145/1073204.1073332"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201291&ftid=1991643&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:53:18Z",
+            "timestamp": 1585961598000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 19,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201291"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201291",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

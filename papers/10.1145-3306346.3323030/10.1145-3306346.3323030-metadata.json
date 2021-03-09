@@ -1,0 +1,427 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    3
+                ]
+            ],
+            "date-time": "2020-07-03T23:40:40Z",
+            "timestamp": 1593819640403
+        },
+        "reference-count": 36,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2019,
+                            7,
+                            12
+                        ]
+                    ],
+                    "date-time": "2019-07-12T00:00:00Z",
+                    "timestamp": 1562889600000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "DOI": "10.1145/3306346.3323030",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2019-07-12T19:04:08Z",
+            "timestamp": 1562958248000
+        },
+        "page": "1-16",
+        "source": "Crossref",
+        "is-referenced-by-count": 8,
+        "title": [
+            "VR facial animation via multiview image translation"
+        ],
+        "prefix": "10.1145",
+        "volume": "38",
+        "author": [
+            {
+                "given": "Shih-En",
+                "family": "Wei",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Facebook Reality Labs"
+                    }
+                ]
+            },
+            {
+                "given": "Jason",
+                "family": "Saragih",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Facebook Reality Labs"
+                    }
+                ]
+            },
+            {
+                "given": "Tomas",
+                "family": "Simon",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Facebook Reality Labs"
+                    }
+                ]
+            },
+            {
+                "given": "Adam W.",
+                "family": "Harley",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Facebook Reality Labs"
+                    }
+                ]
+            },
+            {
+                "given": "Stephen",
+                "family": "Lombardi",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Facebook Reality Labs"
+                    }
+                ]
+            },
+            {
+                "given": "Michal",
+                "family": "Perdoch",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Facebook Reality Labs"
+                    }
+                ]
+            },
+            {
+                "given": "Alexander",
+                "family": "Hypes",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Facebook Reality Labs"
+                    }
+                ]
+            },
+            {
+                "given": "Dawei",
+                "family": "Wang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Facebook Reality Labs"
+                    }
+                ]
+            },
+            {
+                "given": "Hernan",
+                "family": "Badino",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Facebook Reality Labs"
+                    }
+                ]
+            },
+            {
+                "given": "Yaser",
+                "family": "Sheikh",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Facebook Reality Labs"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_1_1_1",
+                "author": "Bansal Aayush",
+                "year": "2018",
+                "volume-title": "Recycle-GAN: Unsupervised Video Retargeting. In IEEE European Conference on Computer Vision (ECCV)."
+            },
+            {
+                "key": "e_1_2_1_2_1",
+                "DOI": "10.1145/2010324.1964970",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_3_1",
+                "unstructured": "BinaryVR. 2019. Real-time Facial Tracking. https://www.binaryvr.com/vr.  BinaryVR. 2019. Real-time Facial Tracking. https://www.binaryvr.com/vr."
+            },
+            {
+                "key": "e_1_2_1_4_1",
+                "DOI": "10.1145/311535.311556",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_5_1",
+                "DOI": "10.1145/2601097.2601204",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_6_1",
+                "author": "Cootes Timothy F.",
+                "volume-title": "Active Appearance Models. In IEEE European Conference on Computer Vision (ECCV)."
+            },
+            {
+                "key": "e_1_2_1_7_1",
+                "unstructured": "Dimensional Imaging. 2016. DI4D PRO System. http://www.di4d.com/systems/di4d-pro-system/.  Dimensional Imaging. 2016. DI4D PRO System. http://www.di4d.com/systems/di4d-pro-system/."
+            },
+            {
+                "key": "e_1_2_1_8_1",
+                "unstructured": "Epic Games. 2017. Epic Games. https://www.epicgames.com.  Epic Games. 2017. Epic Games. https://www.epicgames.com."
+            },
+            {
+                "key": "e_1_2_1_9_1",
+                "unstructured": "Huan Fu Mingming Gong Chaohui Wang Kayhan Batmanghelich Kun Zhang and Dacheng Tao. 2018. Geometry-Consistent Generative Adversarial Networks for One-Sided Unsupervised Domain Mapping. arXiv preprint arXiv:1706.00826 (2018).  Huan Fu Mingming Gong Chaohui Wang Kayhan Batmanghelich Kun Zhang and Dacheng Tao. 2018. Geometry-Consistent Generative Adversarial Networks for One-Sided Unsupervised Domain Mapping. arXiv preprint arXiv:1706.00826 (2018)."
+            },
+            {
+                "key": "e_1_2_1_10_1",
+                "DOI": "10.1145/2638549",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_11_1",
+                "author": "Gatys Leon A.",
+                "year": "2016",
+                "volume-title": "Image Style Transfer Using Convolutional Neural Networks. In IEEE Conference on Computer Vision and Pattern Recognition (CVPR)."
+            },
+            {
+                "key": "e_1_2_1_12_1",
+                "unstructured": "Ian Goodfellow Jean Pouget-Abadie Mehdi Mirza Bing Xu David Warde-Farley Sherjil Ozair Aaron Courville and Yoshua Bengio. 2014. Generative Adversarial Nets. In Advances in Neural Information Processing Systems (NIPS).   Ian Goodfellow Jean Pouget-Abadie Mehdi Mirza Bing Xu David Warde-Farley Sherjil Ozair Aaron Courville and Yoshua Bengio. 2014. Generative Adversarial Nets. In Advances in Neural Information Processing Systems (NIPS)."
+            },
+            {
+                "key": "e_1_2_1_13_1",
+                "unstructured": "Adam W. Harley Shih-En Wei Jason Saragih and Katerina Fragkiadaki. 2019. Image Disentanglement and Uncooperative Re-Entanglement for High-Fidelity Image-to-Image Translation. arXiv preprint arXiv:1901.03628 (2019).  Adam W. Harley Shih-En Wei Jason Saragih and Katerina Fragkiadaki. 2019. Image Disentanglement and Uncooperative Re-Entanglement for High-Fidelity Image-to-Image Translation. arXiv preprint arXiv:1901.03628 (2019)."
+            },
+            {
+                "key": "e_1_2_1_14_1",
+                "unstructured": "Hellblade. 2018. Hellblade. https://www.hellblade.com/.  Hellblade. 2018. Hellblade. https://www.hellblade.com/."
+            },
+            {
+                "key": "e_1_2_1_15_1",
+                "author": "Isola Phillip",
+                "year": "2017",
+                "volume-title": "Image-to-image Translation with Conditional Adversarial Networks. In IEEE Conference on Computer Vision and Pattern Recognition (CVPR)."
+            },
+            {
+                "key": "e_1_2_1_16_1",
+                "DOI": "10.1109/CVPR.2018.00411",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_17_1",
+                "unstructured": "Tejas D. Kulkarni William F. Whitney Pushmeet Kohli and Josh Tenenbaum. 2015. Deep Convolutional Inverse Graphics Network. In Advances in Neural Information Processing Systems (NIPS). 2539--2547.   Tejas D. Kulkarni William F. Whitney Pushmeet Kohli and Josh Tenenbaum. 2015. Deep Convolutional Inverse Graphics Network. In Advances in Neural Information Processing Systems (NIPS). 2539--2547."
+            },
+            {
+                "key": "e_1_2_1_18_1",
+                "DOI": "10.1145/3099564.3099581",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_19_1",
+                "DOI": "10.1145/2766939",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_20_1",
+                "DOI": "10.1145/3197517.3201401",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_21_1",
+                "unstructured": "Magic Leap. 2018. Magic Leap. https://www.magicleap.com/.  Magic Leap. 2018. Magic Leap. https://www.magicleap.com/."
+            },
+            {
+                "key": "e_1_2_1_22_1",
+                "author": "Miyato Takeru",
+                "year": "2018",
+                "volume-title": "Spectral Normalization for Generative Adversarial Networks. In International Conference on Learning Representations (ICLR)."
+            },
+            {
+                "key": "e_1_2_1_23_1",
+                "DOI": "10.1109/CVPR.2018.00013",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_24_1",
+                "DOI": "10.1007/978-3-540-87536-9_99",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_25_1",
+                "DOI": "10.1145/2980179.2980252",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_26_1",
+                "author": "Saragih Jason M.",
+                "volume-title": "IEEE International Conference on Computer Vision (ICCV)."
+            },
+            {
+                "key": "e_1_2_1_27_1",
+                "DOI": "10.1145/3089269.3089276",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_28_1",
+                "author": "Tewari Ayush",
+                "year": "2017",
+                "volume-title": "MoFA: Model-based Deep Convolutional Face Autoencoder for Unsupervised Monocular Reconstruction. In IEEE International Conference on Computer Vision (ICCV)."
+            },
+            {
+                "key": "e_1_2_1_29_1",
+                "DOI": "10.1145/2929464.2929475",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_30_1",
+                "DOI": "10.1145/3182644",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_31_1",
+                "unstructured": "Unreal Engine 4. 2018. Unreal Engine 4. https://www.unrealengine.com/.  Unreal Engine 4. 2018. Unreal Engine 4. https://www.unrealengine.com/."
+            },
+            {
+                "key": "e_1_2_1_32_1",
+                "author": "Wei Shih-En",
+                "year": "2016",
+                "volume-title": "Convolutional Pose Machines. In IEEE Conference on Computer Vision and Pattern Recognition (CVPR)."
+            },
+            {
+                "key": "e_1_2_1_33_1",
+                "DOI": "10.1007/s11263-005-3962-9",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_34_1",
+                "DOI": "10.1109/CVPR.2013.75",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_35_1",
+                "author": "Yildirim Ilker",
+                "volume-title": "Proceedings of 37th Annual Conference of the Cognitive Science Society."
+            },
+            {
+                "key": "e_1_2_1_36_1",
+                "author": "Zhu Jun-Yan",
+                "volume-title": "IEEE International Conference on Computer Vision (ICCV)."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3323030&ftid=2071657&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    3
+                ]
+            ],
+            "date-time": "2020-07-03T23:16:39Z",
+            "timestamp": 1593818199000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "references-count": 36,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        12
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3306346.3323030"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3306346.3323030",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

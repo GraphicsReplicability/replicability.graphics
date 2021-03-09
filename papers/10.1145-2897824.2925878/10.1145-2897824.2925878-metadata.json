@@ -1,0 +1,424 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T02:11:27Z",
+            "timestamp": 1585966287114
+        },
+        "reference-count": 41,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100002920",
+                "name": "Research Grants Council, University Grants Committee",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "CUHK 417913"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100010428",
+                "name": "Innovation and Technology Fund",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "ITS/017/15"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100001809",
+                "name": "National Natural Science Foundation of China",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "61272293"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925878",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 8,
+        "title": [
+            "Seamless visual sharing with color vision deficiencies"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Wuyao",
+                "family": "Shen",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "The Chinese University of Hong Kong"
+                    }
+                ]
+            },
+            {
+                "given": "Xiangyu",
+                "family": "Mao",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "The Chinese University of Hong Kong"
+                    }
+                ]
+            },
+            {
+                "given": "Xinghong",
+                "family": "Hu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "The Chinese University of Hong Kong"
+                    }
+                ]
+            },
+            {
+                "given": "Tien-Tsin",
+                "family": "Wong",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "The Chinese University of Hong Kong"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "Baker D. H. Meese T. S. Mansouri B. and Hess R. F. 2007. Binocular summation of contrast remains intact in strabis-mic amblyopia. Investigative ophthalmology & visual science 48 11 5332--5338.  Baker D. H. Meese T. S. Mansouri B. and Hess R. F. 2007. Binocular summation of contrast remains intact in strabis-mic amblyopia. Investigative ophthalmology & visual science 48 11 5332--5338.",
+                "DOI": "10.1167/iovs.07-0194",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1364/JOSAA.14.002647",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/2687923",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "Farnsworth D. 1957. The farnsworth-munsell 100-hue test for the examination of color discrimination.  Farnsworth D. 1957. The farnsworth-munsell 100-hue test for the examination of color discrimination."
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/1073204.1073241",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1073/pnas.45.1.96",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1016/j.patcog.2006.11.003",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "Hartenbaum N. P. and Stack C. M. 1997. Color vision deficiency and the x-chrom lens. Occupational health & safety (Waco Tex.) 66 9 36.  Hartenbaum N. P. and Stack C. M. 1997. Color vision deficiency and the x-chrom lens. Occupational health & safety (Waco Tex.) 66 9 36."
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1097/00006324-199704000-00024",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "author": "Howard I. P.",
+                "volume-title": "Basic mechanisms"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1109/LSP.2007.898333",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "unstructured": "Huang J.-B. Chen C.-S. Jen T.-C. and Wang S.-J. 2009. Image recolorization for the colorblind. In ICASSP 1161--1164. 10.1109/ICASSP.2009.4959795   Huang J.-B. Chen C.-S. Jen T.-C. and Wang S.-J. 2009. Image recolorization for the colorblind. In ICASSP 1161--1164. 10.1109/ICASSP.2009.4959795",
+                "DOI": "10.1109/ICASSP.2009.4959795",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1109/TMM.2011.2135844",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Hung P. and Hiramatsu N. 2013. A colour conversion method which allows colourblind and normal-vision people share documents with colour content. Tech. rep. tech. rep. Konica Minolta Tech. Report.  Hung P. and Hiramatsu N. 2013. A colour conversion method which allows colourblind and normal-vision people share documents with colour content. Tech. rep. tech. rep. Konica Minolta Tech. Report."
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "author": "Ichikawa M.",
+                "volume": "1",
+                "volume-title": "Man and Cybernetics, 2004 IEEE International Conference on"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "Jefferson L. and Harvey R. 2006. Accommodating color blind computer users. In SIGACCESS 40--47. 10.1145/1168987.1168996   Jefferson L. and Harvey R. 2006. Accommodating color blind computer users. In SIGACCESS 40--47. 10.1145/1168987.1168996"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/1240624.1240855",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.6028/jres.041.027",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1073/pnas.55.6.1313",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "author": "Kondo S.",
+                "year": "1990",
+                "volume-title": "Symp. Int. Res. G. on CVD, 145--159"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1109/TVCG.2008.112",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1007/s00371-008-0231-2",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "Laccarino G. Malandrino D. Del Percio M. and S-carano V. 2006. Efficient edge-services for colorblind users. In WWW 919--920. 10.1145/1135777.1135944   Laccarino G. Malandrino D. Del Percio M. and S-carano V. 2006. Efficient edge-services for colorblind users. In WWW 919--920. 10.1145/1135777.1135944"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1109/ICCV.2011.6126366",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "unstructured": "Lei L. and Schor C. M. 1994. The spatial properties of binocular suppression zone. Vision research 34 7 937--947.  Lei L. and Schor C. M. 1994. The spatial properties of binocular suppression zone. Vision research 34 7 937--947.",
+                "DOI": "10.1016/0042-6989(94)90042-6",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "unstructured": "Lu C. Xu L. and Jia J. 2012. Contrast preserving decol-orization. In ICCP 1--7.  Lu C. Xu L. and Jia J. 2012. Contrast preserving decol-orization. In ICCP 1--7.",
+                "DOI": "10.1145/2407746.2407780",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1111/j.1467-8659.2009.01701.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1109/TVCG.2009.113",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "MacMillan E. S. Gray L. S. and Heron G. 2007. Visual adaptation to interocular brightness differences induced by neutral-density filters. Investigative ophthalmology & visual science 48 2 935--942.  MacMillan E. S. Gray L. S. and Heron G. 2007. Visual adaptation to interocular brightness differences induced by neutral-density filters. Investigative ophthalmology & visual science 48 2 935--942.",
+                "DOI": "10.1167/iovs.06-0958",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1109/38.7759",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.5555/2381255.2381267",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1109/MCG.2005.54",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1111/j.1467-8659.2005.00867.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1109/TVCG.2012.93",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "unstructured": "Scott S. Barbara S. and Garzia R. 2000. Foundations of binocular vision: A clinical perspective. McGraw-Hill Medical.  Scott S. Barbara S. and Garzia R. 2000. Foundations of binocular vision: A clinical perspective. McGraw-Hill Medical ."
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "unstructured": "Sharpe L. T. Stockman A. J\u00e4gle H. and Nathans J. 1999. Opsin genes cone photopigments color vision and color blindness. Color vision: From genes to perception 3--51.  Sharpe L. T. Stockman A. J\u00e4gle H. and Nathans J. 1999. Opsin genes cone photopigments color vision and color blindness. Color vision: From genes to perception 3--51."
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "unstructured": "Sheedy J. and Stocker E. 1984. Surrogate color vision by luster discrimination. American journal of optometry and physiological optics 61 8 499--505.  Sheedy J. and Stocker E. 1984. Surrogate color vision by luster discrimination. American journal of optometry and physiological optics 61 8 499--505.",
+                "DOI": "10.1097/00006324-198408000-00002",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1145/1090785.1090815",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1109/TIP.2003.819861",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "unstructured": "Wong B. 2011. Points of view: Color blindness. nature methods 8 6 441--441.  Wong B. 2011. Points of view: Color blindness. nature methods 8 6 441--441.",
+                "DOI": "10.1038/nmeth.1618",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1145/2185520.2185589",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925878&amp;ftid=1755890&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:35:14Z",
+            "timestamp": 1585964114000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 41,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925878"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925878",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

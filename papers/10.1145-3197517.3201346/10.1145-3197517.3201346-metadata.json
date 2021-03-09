@@ -1,0 +1,576 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:55Z",
+            "timestamp": 1585962715611
+        },
+        "reference-count": 65,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2019,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2019-07-30T00:00:00Z",
+                    "timestamp": 1564444800000
+                },
+                "delay-in-days": 354,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100007297",
+                "name": "Office of Naval Research Global",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "N000141110719, N000141210834"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100008982",
+                "name": "National Science Foundation of Sri Lanka",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "CCF-1422795"
+                ]
+            },
+            {
+                "DOI": "10.13039/100000005",
+                "name": "U.S. Department of Defense",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "W81XWH-15-1-0147"
+                ]
+            },
+            {
+                "name": "Intel STC-Visual Computing Grant",
+                "award": [
+                    "20112360"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201346",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-15",
+        "source": "Crossref",
+        "is-referenced-by-count": 8,
+        "title": [
+            "A material point method for thin shells with frictional contact"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Qi",
+                "family": "Guo",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of California, Los Angeles"
+                    }
+                ]
+            },
+            {
+                "given": "Xuchen",
+                "family": "Han",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of California, Los Angeles"
+                    }
+                ]
+            },
+            {
+                "given": "Chuyuan",
+                "family": "Fu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of California, Los Angeles"
+                    }
+                ]
+            },
+            {
+                "given": "Theodore",
+                "family": "Gast",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of California, Los Angeles"
+                    }
+                ]
+            },
+            {
+                "given": "Rasmus",
+                "family": "Tamstorf",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Walt Disney Animation Studios"
+                    }
+                ]
+            },
+            {
+                "given": "Joseph",
+                "family": "Teran",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of California, Los Angeles"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "T. Belytschko W. Liu B. Moran and K. Elkhodary. 2013. Nonlinear finite elements for continua and structures. John Wiley and sons.  T. Belytschko W. Liu B. Moran and K. Elkhodary. 2013. Nonlinear finite elements for continua and structures. John Wiley and sons."
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "J. Bonet and R. Wood. 2008. Nonlinear continuum mechanics for finite element analysis. Cambridge University Press.  J. Bonet and R. Wood. 2008. Nonlinear continuum mechanics for finite element analysis. Cambridge University Press.",
+                "DOI": "10.1017/CBO9780511755446",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/566654.566623",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "author": "Bridson R.",
+                "volume-title": "Proc ACM SIGGRAPH/Eurograph Symp Comp Anim (SCA '03)"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "Edwin Catmull and James Clark. 1978. Recursively generated B-spline surfaces on arbitrary topological meshes. Computer-aided design 10 6 (1978) 350--355.  Edwin Catmull and James Clark. 1978. Recursively generated B-spline surfaces on arbitrary topological meshes. Computer-aided design 10 6 (1978) 350--355."
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1177/004051759506500603",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1002/nme.182.abs",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1002/(SICI)1097-0207(20000430)47:12<2039::AID-NME872>3.0.CO;2-1",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "David Clyde. 2017. Numerical Subdivision Surfaces for Simulation and Data Driven Modeling of Woven Cloth. Ph.D. Dissertation. University of California Los Angeles.  David Clyde. 2017. Numerical Subdivision Surfaces for Simulation and Data Driven Modeling of Woven Cloth. Ph.D. Dissertation. University of California Los Angeles."
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/3099564.3099577",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1080/00405009108658741",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/2897824.2925877",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1016/j.cma.2012.10.018",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1109/38.536277",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1109/TVCG.2003.1260747",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "author": "Etzmuss O.",
+                "volume-title": "Proc 11th Vac Conf Comp Graph App (PG '03)"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/2487228.2487230",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/2601097.2601215",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/3130800.3130878",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1177/004051759506501106",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "Y. Gingold A. Secord J. Han E. Grinspun and D. Zorin. 2004. A discrete model for inelastic deformation of thin shells. In Tech Report: Courant Institute of Mathematical Sciences New York University.  Y. Gingold A. Secord J. Han E. Grinspun and D. Zorin. 2004. A discrete model for inelastic deformation of thin shells. In Tech Report: Courant Institute of Mathematical Sciences New York University."
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1103/PhysRevE.90.042816",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "O. Gonzalez and A. Stuart. 2008. A first course in continuum mechanics. Cambridge University Press.  O. Gonzalez and A. Stuart. 2008. A first course in continuum mechanics. Cambridge University Press."
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "E. Grinspun F. Cirak P. Schr\u00f6der and M. Ortiz. 1999. Non-linear mechanics and collisions for subdivision surfaces. Technical report Caltech Multi-Res Modeling Group (1999).  E. Grinspun F. Cirak P. Schr\u00f6der and M. Ortiz. 1999. Non-linear mechanics and collisions for subdivision surfaces. Technical report Caltech Multi-Res Modeling Group (1999)."
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "author": "Grinspun E.",
+                "volume-title": "Discrete Shells. In Proc ACM SIGGRAPH/Eurograph Symp Comp Anim (SCA '03)"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/566654.566578",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "unstructured": "E. Grinspun and P. Schr\u00f6der. 2001. Normal bounds for subdivision-surface interference detection. In IEEE Viz. 333--340.   E. Grinspun and P. Schr\u00f6der. 2001. Normal bounds for subdivision-surface interference detection. In IEEE Viz. 333--340."
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "author": "Guo Q.",
+                "year": "2018",
+                "volume-title": "Frictional Contact: Supplementary Technical Document."
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/1360612.1360622",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/3072959.3073623",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/2766996",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1016/S0045-7825(99)00034-1",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "author": "Kaufmann P.",
+                "year": "2009",
+                "volume-title": "Technical Report No. 622"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1016/j.cma.2009.08.013",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1016/j.cma.2015.03.010",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1145/2897824.2925906",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/2010324.1964931",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1145/2461912.2462008",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1002/nme.3368",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1002/gamm.201410005",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1016/j.cma.2010.10.001",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1016/j.cma.2013.09.016",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "first-page": "10",
+                "article-title": "A mathematical modeling framework for analysis of functional clothing",
+                "volume": "2",
+                "author": "Man X.",
+                "year": "2007",
+                "journal-title": "J Eng Fibers Fabrics"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1145/1778765.1778776",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1016/j.cma.2016.04.010",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1016/j.cma.2012.11.011",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "DOI": "10.1145/1531326.1531368",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "first-page": "31",
+                "article-title": "Influence of rotary inertia and shear on flexural motions of isotropic elastic plates",
+                "volume": "18",
+                "author": "Mindlin R.",
+                "year": "1951",
+                "journal-title": "J App Mech"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "DOI": "10.1145/1618452.1618468",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "DOI": "10.1145/1882261.1866195",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "DOI": "10.1145/2461912.2462010",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "DOI": "10.1016/j.cma.2008.01.018",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "unstructured": "M. Otaduy R. Tamstorf D. Steinemann and M. Gross. 2009. Implicit Contact Handling for Deformable Objects. Comp Graph Forum 28 2 (2009).  M. Otaduy R. Tamstorf D. Steinemann and M. Gross. 2009. Implicit Contact Handling for Deformable Objects. Comp Graph Forum 28 2 (2009)."
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "author": "Sifakis E.",
+                "volume-title": "Proc 2008 ACM SIGGRAPH/Eurographics Symp Comp Anim. 147--153"
+            },
+            {
+                "key": "e_1_2_2_55_1",
+                "DOI": "10.1016/0045-7825(89)90002-9",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_56_1",
+                "DOI": "10.1145/280814.280945",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_57_1",
+                "DOI": "10.1145/2461912.2461948",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_58_1",
+                "DOI": "10.1111/cgf.12851",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_59_1",
+                "DOI": "10.1016/j.cma.2010.11.020",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_60_1",
+                "DOI": "10.1145/2980179.2980229",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_61_1",
+                "DOI": "10.1145/37402.37427",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_62_1",
+                "author": "Thomaszewski B.",
+                "volume-title": "Proc ACM SIGGRAPH/Eurograph Symp Comp Anim. Eurographics Association, 107--116"
+            },
+            {
+                "key": "e_1_2_2_63_1",
+                "unstructured": "A. Wawrzinek K. Hildebrandt and K. Polthier. 2011. Koiter's thin shells on Catmull-Clark limit surfaces. In Vision Modeling and Visualization (2011) Peter Eisert Joachim Hornegger and Konrad Polthier (Eds.). The Eurographics Association.  A. Wawrzinek K. Hildebrandt and K. Polthier. 2011. Koiter's thin shells on Catmull-Clark limit surfaces. In Vision Modeling and Visualization (2011) Peter Eisert Joachim Hornegger and Konrad Polthier (Eds.). The Eurographics Association."
+            },
+            {
+                "key": "e_1_2_2_64_1",
+                "DOI": "10.1145/2751541",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_65_1",
+                "DOI": "10.1145/1073204.1073298",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "https://dl.acm.org/doi/pdf/10.1145/3197517.3201346",
+                "content-type": "application/pdf",
+                "content-version": "vor",
+                "intended-application": "syndication"
+            },
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201346&ftid=1991666&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:35:41Z",
+            "timestamp": 1585960541000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 65,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201346"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201346",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

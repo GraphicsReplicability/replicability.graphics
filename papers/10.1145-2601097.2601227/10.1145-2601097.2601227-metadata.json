@@ -1,0 +1,368 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:11:20Z",
+            "timestamp": 1586002280915
+        },
+        "reference-count": 34,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100001742",
+                "name": "United States-Israel Binational Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "2012264"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601227",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 31,
+        "title": [
+            "Locally injective parametrization with arbitrary fixed boundaries"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Ofir",
+                "family": "Weber",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Bar Ilan University, Israel"
+                    }
+                ]
+            },
+            {
+                "given": "Denis",
+                "family": "Zorin",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "New York University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "Ahlfors L. 1966. Lectures on quasiconformal mappings vol. 38. Amer. Mathematical Society.  Ahlfors L. 1966. Lectures on quasiconformal mappings vol. 38. Amer. Mathematical Society."
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "author": "Ben-Chen M.",
+                "volume": "27",
+                "volume-title": "Computer Graphics Forum"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/1531326.1531383",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/2461912.2462014",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "Duren P. L. Bollobas B. Fulton W. Katok A. Kirwan F. and Sarnak P. 2004. Harmonic mappings in the plane vol. 156. Cambridge University Press Cambridge.  Duren P. L. Bollobas B. Fulton W. Katok A. Kirwan F. and Sarnak P. 2004. Harmonic mappings in the plane vol. 156. Cambridge University Press Cambridge.",
+                "DOI": "10.1017/CBO9780511546600",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "unstructured": "Eberly D. 1998. Triangulation by ear clipping. Geometric Tools LLC. http://www.geometrictools.com.  Eberly D. 1998. Triangulation by ear clipping. Geometric Tools LLC . http://www.geometrictools.com."
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1016/S0167-8396(96)00031-3",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1016/S0167-8396(02)00002-5",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "Gardiner F. and \n      \n      \n      Lakic N\n      \n  \n  . \n  2000\n  . Quasiconformal Teichm\u00fcller theory vol. \n  76\n   of \n  Mathematical Surveys and Monographs\n  . \n  American Mathematical Society\n  .  Gardiner F. and Lakic N. 2000. Quasiconformal Teichm\u00fcller theory vol. 76 of Mathematical Surveys and Monographs . American Mathematical Society.",
+                "DOI": "10.1090/surv/076",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "first-page": "153",
+                "article-title": "Mips: An efficient global parametrization method",
+                "volume": "99",
+                "author": "Hormann K.",
+                "year": "2000",
+                "journal-title": "Curve and Surface Design: Saint-Malo"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "Hormann K. L\u00e9vy B. and Sheffer A. 2007. Mesh parameterization: Theory and practice. SIGGRAPH Course Notes. 10.1145/1281500.1281510   Hormann K. L\u00e9vy B. and Sheffer A. 2007. Mesh parameterization: Theory and practice. SIGGRAPH Course Notes . 10.1145/1281500.1281510",
+                "DOI": "10.1145/1281500.1281510",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1111/j.1467-8659.2007.01060.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "Kanai T. Suzuki H. and Kimura F. 1997. 3d geometric metamorphosis based on harmonic map. pg 97.   Kanai T. Suzuki H. and Kimura F. 1997. 3d geometric metamorphosis based on harmonic map. pg 97."
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/1138450.1138461",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/566654.566590",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/1531326.1531378",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/2185520.2185604",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "author": "Liu L.",
+                "volume": "27",
+                "volume-title": "Computer Graphics Forum"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "first-page": "309",
+                "article-title": "Extensions of normal immersions of s 1 into r 2",
+                "volume": "187",
+                "author": "Marx M.",
+                "year": "1974",
+                "journal-title": "Transactions of the American Mathematical Society"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "Pinkall U. and Polthier K. 1993. Computing discrete minimal surfaces and their conjugates. Experimental mathematics 2 1 15--36.  Pinkall U. and Polthier K. 1993. Computing discrete minimal surfaces and their conjugates. Experimental mathematics 2 1 15--36.",
+                "DOI": "10.1080/10586458.1993.10504266",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1111/cgf.12180",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1111/cgf.12179",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1007/PL00013391",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/1061347.1061354",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "unstructured": "Sheffer A. Praun E. and Rose K. 2006. Mesh parameterization methods and their applications. Foundations and Trends\u00ae in Computer Graphics and Vision 2 2 171. 10.1561/0600000011   Sheffer A. Praun E. and Rose K. 2006. Mesh parameterization methods and their applications. Foundations and Trends \u00ae in Computer Graphics and Vision 2 2 171. 10.1561/0600000011",
+                "DOI": "10.1561/0600000011",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/237218.237337",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "author": "Shewchuk J. R.",
+                "year": "2005",
+                "volume-title": "Triangle: A two-dimensional quality mesh generator and delaunay triangulator. Computer Science Division"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1016/0925-7721(92)90019-O",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "Springborn B. Schr\u00f6der P. and Pinkall U. 2008. Conformal equivalence of triangle meshes.  Springborn B. Schr\u00f6der P. and Pinkall U. 2008. Conformal equivalence of triangle meshes.",
+                "DOI": "10.1145/1399504.1360676",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1112/plms/s3-13.1.743",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1111/j.1467-8659.2012.03173.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "unstructured": "Wein R. Berberich E. Fogel E. Halperin D. Hemmer M. Salzman O. and Zukerman B. 2013. 2D arrangements. In CGAL User and Reference Manual 4.3 ed. CGAL Editorial Board.  Wein R. Berberich E. Fogel E. Halperin D. Hemmer M. Salzman O. and Zukerman B. 2013. 2D arrangements. In CGAL User and Reference Manual 4.3 ed. CGAL Editorial Board."
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "first-page": "276",
+                "article-title": "On regular closed curves in the plane",
+                "volume": "4",
+                "author": "Whitney H.",
+                "year": "1937",
+                "journal-title": "Compositio Math"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1016/j.cagd.2011.07.001",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601227&amp;ftid=1488883&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:49:46Z",
+            "timestamp": 1586000986000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 34,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601227"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601227",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

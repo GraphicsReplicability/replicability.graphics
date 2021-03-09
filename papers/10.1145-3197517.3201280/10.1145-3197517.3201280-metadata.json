@@ -1,0 +1,362 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:29Z",
+            "timestamp": 1585962689257
+        },
+        "reference-count": 37,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201280",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-10",
+        "source": "Crossref",
+        "is-referenced-by-count": 3,
+        "title": [
+            "Dynamic kelvinlets"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Fernando",
+                "family": "De Goes",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Pixar Animation Studios"
+                    }
+                ]
+            },
+            {
+                "given": "Doug L.",
+                "family": "James",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Pixar Animation Studios and Stanford University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "author": "Aki K.",
+                "year": "1980",
+                "volume-title": "Quantitative Seismology: Theory and Methods"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/1409060.1409118",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "author": "Angelidis A.",
+                "volume-title": "Proc. of the 2007 ACM SIGGRAPH/Eurographics Symp. on Computer Animation. 129--140"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "Autodesk. 2016. Maya User Guide. (2016). https://autodesk.com/maya.  Autodesk. 2016. Maya User Guide. (2016). https://autodesk.com/maya."
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1109/38.586016",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/2601097.2601116",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/2980179.2982415",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1109/TVCG.2005.13",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1137/S106482750038146X",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "R. Cortez L. Fauci and A. Medovikov. 2005. The method of regularized Stokeslets in three dimensions: Analysis validation and application to helical swimming. Physics of Fluids 17 (2005).  R. Cortez L. Fauci and A. Medovikov. 2005. The method of regularized Stokeslets in three dimensions: Analysis validation and application to helical swimming. Physics of Fluids 17 (2005)."
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/3072959.3073595",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "unstructured": "J. Dominguez. 1993. Boundary Elements in dynamics. WIT Press.  J. Dominguez. 1993. Boundary Elements in dynamics. WIT Press."
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/2185520.2185568",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1109/TVCG.2010.109",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/566654.566621",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/2714572",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/3072959.3073678",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/1360612.1360627",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/97880.97884",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "E. Kausel. 2006. Fundamental Solutions in Elastodynamics: A Compendium. Cambridge University Press.  E. Kausel. 2006. Fundamental Solutions in Elastodynamics: A Compendium. Cambridge University Press.",
+                "DOI": "10.1017/CBO9780511546112",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/2508363.2508406",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/2010324.1964987",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "M. M\u00fcller and M. H. Gross. 2004. Interactive Virtual Materials. In Graphics Interface 2004. 239--246.   M. M\u00fcller and M. H. Gross. 2004. Interactive Virtual Materials. In Graphics Interface 2004. 239--246."
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/1073204.1073216",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "unstructured": "A. Nealen M. M\u00fcller R. Keiser E. Boxerman and M. Carlson. 2006. Physically based deformable models in computer graphics. In Computer graphics forum Vol. 25. 809--836.  A. Nealen M. M\u00fcller R. Keiser E. Boxerman and M. Carlson. 2006. Physically based deformable models in computer graphics. In Computer graphics forum Vol. 25. 809--836.",
+                "DOI": "10.1111/j.1467-8659.2006.01000.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "unstructured": "G. Nielson H. Hagen and H. M\u00fcller. 1997. Scientific Visualization. IEEE Computer Society.  G. Nielson H. Hagen and H. M\u00fcller. 1997. Scientific Visualization. IEEE Computer Society."
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/1028523.1028539",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/74334.74355",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "J. Reinders. 2007. Intel Threading Building Blocks. O'Reilly & Associates Inc.   J. Reinders. 2007. Intel Threading Building Blocks. O'Reilly & Associates Inc."
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/2601097.2601156",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/2775280.2792531",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "unstructured": "Side Effects. 2018. Houdini Engine. (2018). http://www.sidefx.com.  Side Effects. 2018. Houdini Engine. (2018). http://www.sidefx.com."
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "first-page": "1",
+                "article-title": "On the dynamical theory of diffraction",
+                "volume": "9",
+                "author": "Stokes G. G.",
+                "year": "1849",
+                "journal-title": "Trans. Camb. Phil. Soc."
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "first-page": "5",
+                "article-title": "Simulating ocean water. Simulating nature: realistic and interactive techniques",
+                "volume": "1",
+                "author": "Tessendorf J.",
+                "year": "2001",
+                "journal-title": "SIGGRAPH Courses"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1145/1141911.1142002",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "author": "von Funck W.",
+                "volume-title": "Proc. of the Fifth Eurographics Symp. on Geometry Processing. 99--108"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/1276377.1276501",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201280&ftid=1991592&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:42:36Z",
+            "timestamp": 1585960956000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "secondary motions based on fundamental solutions of elastodynamics"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 37,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201280"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201280",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

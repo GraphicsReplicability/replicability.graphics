@@ -1,0 +1,343 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2020-07-12T20:10:15Z",
+            "timestamp": 1594584615595
+        },
+        "reference-count": 31,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2019,
+                            7,
+                            12
+                        ]
+                    ],
+                    "date-time": "2019-07-12T00:00:00Z",
+                    "timestamp": 1562889600000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100000780",
+                "name": "European Commission",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "642841"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "DOI": "10.1145/3306346.3322938",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2019-07-12T19:04:08Z",
+            "timestamp": 1562958248000
+        },
+        "page": "1-10",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+            "Tangent-space optimization for interactive animation control"
+        ],
+        "prefix": "10.1145",
+        "volume": "38",
+        "author": [
+            {
+                "given": "Lo\u00efc",
+                "family": "Ciccone",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "ETH Z\u00fcrich"
+                    }
+                ]
+            },
+            {
+                "given": "Cengiz",
+                "family": "\u00d6ztireli",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "DisneyResearch|Studios"
+                    }
+                ]
+            },
+            {
+                "given": "Robert W.",
+                "family": "Sumner",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "DisneyResearch|Studios and ETH Z\u00fcrich"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_1_1_1",
+                "DOI": "10.1111/cgf.13310",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_2_1",
+                "unstructured": "Autodesk. 2018. Maya.  Autodesk. 2018. Maya."
+            },
+            {
+                "key": "e_1_2_1_3_1",
+                "DOI": "10.1145/1276377.1276387",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_4_1",
+                "DOI": "10.1145/2897824.2925970",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_5_1",
+                "DOI": "10.1002/cav.1693",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_6_1",
+                "DOI": "10.1145/3099564.3099570",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_7_1",
+                "DOI": "10.1145/133994.134083",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_8_1",
+                "DOI": "10.1145/2897824.2925909",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_9_1",
+                "DOI": "10.1145/253284.253321",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_10_1",
+                "author": "Gleicher Michael",
+                "volume-title": "Differential Manipulation. In Proceedings of Graphics Interface."
+            },
+            {
+                "key": "e_1_2_1_11_1",
+                "DOI": "10.1145/2508363.2508397",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_12_1",
+                "DOI": "10.1145/2766893",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_13_1",
+                "DOI": "10.1145/2786784.2786785",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_14_1",
+                "unstructured": "F\u00e9lix G. Harvey and Christopher Pal. 2018. Recurrent Transition Networks for Character Locomotion. In SIGGRAPH Asia 2018 Technical Briefs. 4:1--4:4. 10.1145/3283254.3283277   F\u00e9lix G. Harvey and Christopher Pal. 2018. Recurrent Transition Networks for Character Locomotion. In SIGGRAPH Asia 2018 Technical Briefs. 4:1--4:4. 10.1145/3283254.3283277"
+            },
+            {
+                "key": "e_1_2_1_15_1",
+                "unstructured": "Ollie Johnston and Frank Thomas. 1981. The illusion of life: Disney animation. Disney Editions New York.  Ollie Johnston and Frank Thomas. 1981. The illusion of life: Disney animation. Disney Editions New York."
+            },
+            {
+                "key": "e_1_2_1_16_1",
+                "DOI": "10.1145/3173574.3173735",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_17_1",
+                "DOI": "10.1109/MCG.2015.117",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_18_1",
+                "DOI": "10.1109/CVPR.2014.171",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_19_1",
+                "DOI": "10.1145/1640443.1640452",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_20_1",
+                "unstructured": "APS Mosek. 2010. The MOSEK optimization software. Online at http://www.mosek.com 54 2--1 (2010).  APS Mosek. 2010. The MOSEK optimization software. Online at http://www.mosek.com 54 2--1 (2010)."
+            },
+            {
+                "key": "e_1_2_1_21_1",
+                "DOI": "10.1007/978-3-7091-6423-5_8",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_22_1",
+                "DOI": "10.1145/2485895.2485916",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_23_1",
+                "DOI": "10.1145/237170.237229",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_24_1",
+                "DOI": "10.1145/1276377.1276479",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_25_1",
+                "DOI": "10.1109/TPAMI.2007.1167",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_26_1",
+                "DOI": "10.1109/MCG.2009.132",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_27_1",
+                "unstructured": "Harold Whitaker and John Halas. 2013. Timing for animation. CRC Press.  Harold Whitaker and John Halas. 2013. Timing for animation. CRC Press.",
+                "DOI": "10.4324/9780080519272",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_28_1",
+                "DOI": "10.1145/54852.378507",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_29_1",
+                "DOI": "10.1109/TVCG.2003.1207443",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_30_1",
+                "DOI": "10.1145/1978942.1979034",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_31_1",
+                "DOI": "10.1145/3274247.3274502",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3322938&ftid=2071675&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2020-07-12T19:30:09Z",
+            "timestamp": 1594582209000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "references-count": 31,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        12
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3306346.3322938"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3306346.3322938",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

@@ -1,0 +1,529 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T02:11:27Z",
+            "timestamp": 1585966287404
+        },
+        "reference-count": 63,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2017,
+                            7,
+                            24
+                        ]
+                    ],
+                    "date-time": "2017-07-24T00:00:00Z",
+                    "timestamp": 1500854400000
+                },
+                "delay-in-days": 378,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100000001",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "IIS-1320635, CNS-1229185, CCF-1533564"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925890",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-15",
+        "source": "Crossref",
+        "is-referenced-by-count": 12,
+        "title": [
+            "Bijective maps from simplicial foliations"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Marcel",
+                "family": "Campen",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "New York University"
+                    }
+                ]
+            },
+            {
+                "given": "Cl\u00e1udio T.",
+                "family": "Silva",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "New York University"
+                    }
+                ]
+            },
+            {
+                "given": "Denis",
+                "family": "Zorin",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "New York University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "Adiprasito K. A. and Benedetti B. 2012. Subdivisions shellability and collapsibility of products. arXiv:1202.6606.  Adiprasito K. A. and Benedetti B. 2012. Subdivisions shellability and collapsibility of products. arXiv:1202.6606."
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1007/s11856-015-1206-4",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/2461912.2461931",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/2816795.2818099",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/2766921",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/344779.344859",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1073/pnas.10.1.6",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "author": "Bommes D.",
+                "year": "2013",
+                "volume-title": "Proc. SIGGRAPH"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "first-page": "156",
+                "article-title": "Sur un type de transformation analytique g\u00e9n\u00e9ralisant la repr\u00e9sentation conforme et d\u00e9fini au moyen de fonctions harmoniques",
+                "volume": "69",
+                "author": "Choquet G.",
+                "year": "1945",
+                "journal-title": "Bulletin des Sciences Math\u00e9matiques"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1016/S0925-7721(02)00174-8",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1016/0166-218X(94)00085-R",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "first-page": "201",
+                "article-title": "An adaptable surface parameterization method",
+                "volume": "3",
+                "author": "Degener P.",
+                "year": "2003",
+                "journal-title": "Int. Meshing Roundtable"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "Dey T. K. Edelsbrunner H. and Guha S. 1999. Computational topology. In Advances in Discrete and Computational Geometry 109--143.  Dey T. K. Edelsbrunner H. and Guha S. 1999. Computational topology. In Advances in Discrete and Computational Geometry 109--143.",
+                "DOI": "10.1090/conm/223/03135",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1007/BF01591018",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "unstructured": "Filippov A. F. 1988. Differential equations with discontinuous righthand sides. Mathematics and its Applications. Kluwer Academic Publ Dordrecht.  Filippov A. F. 1988. Differential equations with discontinuous righthand sides . Mathematics and its Applications. Kluwer Academic Publ Dordrecht.",
+                "DOI": "10.1007/978-94-015-7793-9",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1007/s10444-004-7620-5",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1016/S0167-8396(96)00031-3",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "unstructured": "Floater M. S. 2003. One-to-one piecewise linear mappings over triangulations. Math. Comput. 72 242 685--696. 10.1090/S0025-5718-02-01466-7   Floater M. S. 2003. One-to-one piecewise linear mappings over triangulations. Math. Comput. 72 242 685--696. 10.1090/S0025-5718-02-01466-7"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/2766938",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "author": "Furch R.",
+                "volume-title": "Abhandlungen aus dem mathematischen Seminar der Universit\u00e4t Hamburg"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.2307/2370678",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.2307/2371223",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "author": "Goodrick R. E.",
+                "volume": "64",
+                "year": "1968",
+                "volume-title": "Mathematical Proceedings of the Cambridge Philosophical Society"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/1201775.882276",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "author": "Granlund T.",
+                "year": "2015",
+                "volume-title": "GNU MP"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "unstructured": "Groff R. E. 2003. Piecewise linear homeomorphisms for approximation of invertible maps. PhD thesis The University of Michigan.  Groff R. E. 2003. Piecewise linear homeomorphisms for approximation of invertible maps . PhD thesis The University of Michigan."
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "author": "Hormann K.",
+                "year": "2000",
+                "volume-title": "MIPS: An efficient global parametrization method. In Curve and Surface Design"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "unstructured": "Huynh L. and Gingold Y. I. 2015. Bijective deformations in R<sup>n</sup> via integral curve coordinates. CoRR abs/1505.00073.  Huynh L. and Gingold Y. I. 2015. Bijective deformations in R<sup> n </sup> via integral curve coordinates. CoRR abs/1505.00073."
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1111/cgf.12452",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1007/s11390-015-1545-y",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1090/S0002-9947-04-03465-8",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "first-page": "123",
+                "article-title": "L\u00f6sung der Aufgabe 41",
+                "volume": "35",
+                "author": "Kneser H.",
+                "year": "1926",
+                "journal-title": "Jahresbericht der Deutschen Mathematiker-Vereinigung"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/2601097.2601142",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1080/17476939608814865",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "unstructured": "Lempel A. Even S. and Cederbaum I. 1967. An algorithm for planarity testing of graphs. In Theory of Graphs. Gordon and Breach 215--232.  Lempel A. Even S. and Cederbaum I. 1967. An algorithm for planarity testing of graphs. In Theory of Graphs . Gordon and Breach 215--232."
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1145/1236246.1236263",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1007/s11042-013-1508-7",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1145/2185520.2185604",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1016/0893-9659(96)00058-4",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.7146/math.scand.a-11045",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "unstructured": "Moerdijk I. and Mr\u010dun J. 2003. Introduction to Foliations and Lie Groupoids. Cambridge Studies in Advanced Mathematics. Cambridge University Press.  Moerdijk I. and Mr\u010dun J. 2003. Introduction to Foliations and Lie Groupoids. Cambridge Studies in Advanced Mathematics. Cambridge University Press.",
+                "DOI": "10.1017/CBO9780511615450",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.2307/1969769",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1145/2601097.2601154",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "unstructured": "Nguyen T. and \n      \n      \n      J\u00fcttler B\n      \n  \n  . \n  2010\n  . Parameterization of contractible domains using sequences of harmonic maps. \n  In Curves and Surfaces vol. \n  6920\n   of \n  LNCS 501--514. 10.1007/978-3-642-27413-8_32   Nguyen T. and J\u00fcttler B. 2010. Parameterization of contractible domains using sequences of harmonic maps. In Curves and Surfaces vol. 6920 of LNCS 501--514. 10.1007/978-3-642-27413-8_32"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1016/S0195-6698(13)80080-7",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1145/2602145",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "DOI": "10.1090/S0002-9904-1958-10168-8",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "DOI": "10.1109/SMI.2005.32",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "DOI": "10.1016/j.cagd.2015.03.010",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "DOI": "10.1111/cgf.12179",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "DOI": "10.1145/2766947",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "DOI": "10.1307/mmj/1028999134",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "DOI": "10.1112/plms/s3-13.1.743",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "first-page": "191",
+                "article-title": "Volumetric harmonic map",
+                "volume": "3",
+                "author": "Wang Y.",
+                "year": "2004",
+                "journal-title": "Communications in Information & Systems"
+            },
+            {
+                "key": "e_1_2_2_55_1",
+                "DOI": "10.1145/2601097.2601227",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_56_1",
+                "DOI": "10.1111/j.1467-8659.2004.00778.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_57_1",
+                "DOI": "10.1016/j.cam.2014.03.018",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_58_1",
+                "unstructured": "Xia J. He Y. Han S. Fu C.-W. Luo F. and \n      \n      \n      Gu X\n      \n  \n  . \n  2010\n  . Parameterization of star-shaped volumes using Green's functions. In Advances in \n  Geometric Modeling and Processing vol. \n  6130\n   of \n  LNCS\n  . 219--235. 10.1007/978-3-642-13411-1_15   Xia J. He Y. Han S. Fu C.-W. Luo F. and Gu X. 2010. Parameterization of star-shaped volumes using Green's functions. In Advances in Geometric Modeling and Processing vol. 6130 of LNCS. 219--235. 10.1007/978-3-642-13411-1_15"
+            },
+            {
+                "key": "e_1_2_2_59_1",
+                "DOI": "10.1109/SMI.2010.10",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_60_1",
+                "author": "Yap C. K.",
+                "volume-title": "Handbook of Discrete and Computational Geometry"
+            },
+            {
+                "key": "e_1_2_2_61_1",
+                "DOI": "10.4310/CIS.2007.v7.n3.a4",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_62_1",
+                "DOI": "10.1145/1183287.1183290",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_63_1",
+                "DOI": "10.1007/PL00009339",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "https://dl.acm.org/doi/pdf/10.1145/2897824.2925890",
+                "content-type": "application/pdf",
+                "content-version": "vor",
+                "intended-application": "syndication"
+            },
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925890&amp;ftid=1755926&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:42:01Z",
+            "timestamp": 1585964521000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 63,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925890"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925890",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

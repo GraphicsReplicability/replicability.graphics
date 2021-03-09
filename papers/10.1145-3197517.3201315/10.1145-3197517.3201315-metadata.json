@@ -1,0 +1,460 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T05:03:50Z",
+            "timestamp": 1585976630121
+        },
+        "reference-count": 57,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201315",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 11,
+        "title": [
+            "Learning basketball dribbling skills using trajectory optimization and deep reinforcement learning"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Libin",
+                "family": "Liu",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "DeepMotion Inc."
+                    }
+                ]
+            },
+            {
+                "given": "Jessica",
+                "family": "Hodgins",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Carnegie Mellon University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1109/TVCG.2012.325",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1016/j.cag.2013.04.007",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/2366145.2366175",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.5555/1703435.1703673",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "author": "B\u00e4tz Georg",
+                "volume-title": "2010 IEEE/RSJ International Conference on Intelligent Robots and Systems. 2890--2895"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/1618452.1618516",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/1778765.1781156",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/2786784.2786802",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "Ga\u00ebl Guennebaud Beno\u00eft Jacob and others. 2010. Eigen v3. http://eigen.tuxfamily.org. (2010).  Ga\u00ebl Guennebaud Beno\u00eft Jacob and others. 2010. Eigen v3. http://eigen.tuxfamily.org. (2010)."
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/2366145.2366174",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1109/CDC.2011.6161022",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "author": "Hansen Nikolaus",
+                "volume-title": "Towards a New Evolutionary Computation. Studies in Fuzziness and Soft Computing"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "Matthew J. Hausknecht and Peter Stone. 2015. Deep Reinforcement Learning in Parameterized Action Space. CoRR abs/1511.04143 (2015). http://arxiv.org/abs/1511.04143  Matthew J. Hausknecht and Peter Stone. 2015. Deep Reinforcement Learning in Parameterized Action Space. CoRR abs/1511.04143 (2015). http://arxiv.org/abs/1511.04143"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/218380.218414",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/1599470.1599476",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "Diederik P. Kingma and Jimmy Ba. 2014. Adam: A Method for Stochastic Optimization. CoRR abs/1412.6980 (2014). http://arxiv.org/abs/1412.6980  Diederik P. Kingma and Jimmy Ba. 2014. Adam: A Method for Stochastic Optimization. CoRR abs/1412.6980 (2014). http://arxiv.org/abs/1412.6980"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/1141911.1141969",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/2983616",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/1778765.1781155",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/1882261.1866160",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "author": "Levine Sergey",
+                "volume": "9",
+                "year": "2013",
+                "volume-title": "Proceedings of the 30th International Conference on Machine Learning"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "author": "Levine Sergey",
+                "volume": "837",
+                "year": "2014",
+                "volume-title": "Proceedings of the 31st International Conference on Machine Learning"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "Timothy P. Lillicrap Jonathan J. Hunt Alexander Pritzel Nicolas Heess Tom Erez Yuval Tassa David Silver and Daan Wierstra. 2015. Continuous control with deep reinforcement learning. CoRR abs/1509.02971 (2015). http://arxiv.org/abs/1509.02971  Timothy P. Lillicrap Jonathan J. Hunt Alexander Pritzel Nicolas Heess Tom Erez Yuval Tassa David Silver and Daan Wierstra. 2015. Continuous control with deep reinforcement learning. CoRR abs/1509.02971 (2015). http://arxiv.org/abs/1509.02971"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/1531326.1531365",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.5555/1218064.1218093",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/3083723",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/2893476",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/2508363.2508427",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/1531326.1531386",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/1276377.1276385",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "unstructured": "Volodymyr Mnih Koray Kavukcuoglu David Silver Andrei A. Rusu Joel Veness Marc G. Bellemare Alex Graves Martin Riedmiller Andreas K. Fidjeland Georg Ostrovski Stig Petersen Charles Beattie Amir Sadik Ioannis Antonoglou Helen King Dharshan Kumaran Daan Wierstra Shane Legg and Demis Hassabis. 2015b. Human-level control through deep reinforcement learning. Nature 518 7540 (26 Feb 2015) 529--533. Letter.  Volodymyr Mnih Koray Kavukcuoglu David Silver Andrei A. Rusu Joel Veness Marc G. Bellemare Alex Graves Martin Riedmiller Andreas K. Fidjeland Georg Ostrovski Stig Petersen Charles Beattie Amir Sadik Ioannis Antonoglou Helen King Dharshan Kumaran Daan Wierstra Shane Legg and Demis Hassabis. 2015b. Human-level control through deep reinforcement learning. Nature 518 7540 (26 Feb 2015) 529--533. Letter.",
+                "DOI": "10.1038/nature14236",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "unstructured": "Volodymyr Mnih Koray Kavukcuoglu David Silver Andrei A. Rusu Joel Veness and etal 2015a. Human-level control through deep reinforcement learning. Nature 518 7540 (26 Feb 2015) 529--533. Letter.  Volodymyr Mnih Koray Kavukcuoglu David Silver Andrei A. Rusu Joel Veness and et al. 2015a. Human-level control through deep reinforcement learning. Nature 518 7540 (26 Feb 2015) 529--533. Letter.",
+                "DOI": "10.1038/nature14236",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/1778765.1778808",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "unstructured": "Igor Mordatch Kendall Lowrey Galen Andrew Zoran Popovic and Emanuel V. Todorov. 2015. Interactive Control of Diverse Complex Characters with Neural Networks. In Advances in Neural Information Processing Systems 28. 3114--3122.   Igor Mordatch Kendall Lowrey Galen Andrew Zoran Popovic and Emanuel V. Todorov. 2015. Interactive Control of Diverse Complex Characters with Neural Networks. In Advances in Neural Information Processing Systems 28. 3114--3122."
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "author": "Mordatch Igor",
+                "year": "2012",
+                "volume-title": "Proceedings of the ACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA '12)"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1145/2185520.2185539",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/1531326.1531387",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1145/3072959.3073602",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/3099564.3099567",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1145/1073368.1073413",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1109/TRO.2012.2205493",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "unstructured": "Tim Salimans Jonathan Ho Xi Chen Szymon Sidor and Ilya Sutskever. 2017. Evolution Strategies as a Scalable Alternative to Reinforcement Learning. ArXiv e-prints (March 2017). arXiv:stat.ML/1703.03864  Tim Salimans Jonathan Ho Xi Chen Szymon Sidor and Ilya Sutskever. 2017. Evolution Strategies as a Scalable Alternative to Reinforcement Learning. ArXiv e-prints (March 2017). arXiv:stat.ML/1703.03864"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "author": "Schulman John",
+                "year": "2015",
+                "volume-title": "Trust Region Policy Optimization. In The 32nd International Conference on Machine Learning. 1889--1897"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "unstructured": "John Schulman Philipp Moritz Sergey Levine Michael I. Jordan and Pieter Abbeel. 2015b. High-Dimensional Continuous Control Using Generalized Advantage Estimation. CoRR abs/1506.02438 (2015). http://arxiv.org/abs/1506.02438  John Schulman Philipp Moritz Sergey Levine Michael I. Jordan and Pieter Abbeel. 2015b. High-Dimensional Continuous Control Using Generalized Advantage Estimation. CoRR abs/1506.02438 (2015). http://arxiv.org/abs/1506.02438"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "author": "Silver David",
+                "year": "2014",
+                "volume-title": "Deterministic Policy Gradient Algorithms. In The 31st International Conference on Machine Learning. 387--395"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1145/2601097.2601121",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "DOI": "10.1145/2010324.1964953",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "author": "Team Theano Development",
+                "year": "2016",
+                "volume-title": "Theano: A Python framework for fast computation of mathematical expressions. arXiv e-prints abs/1605.02688 (May"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "DOI": "10.1145/1276377.1276386",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "unstructured": "Hado van Hasselt. 2012. Reinforcement Learning in Continuous State and Action Spaces. Springer Berlin Heidelberg 207--251.  Hado van Hasselt. 2012. Reinforcement Learning in Continuous State and Action Spaces. Springer Berlin Heidelberg 207--251.",
+                "DOI": "10.1007/978-3-642-27645-3_7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "DOI": "10.1145/1531326.1531366",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "DOI": "10.1145/1778765.1778810",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "DOI": "10.1111/cgf.12595",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "DOI": "10.1145/2185520.2185537",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_55_1",
+                "DOI": "10.1145/1276377.1276509",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_56_1",
+                "DOI": "10.1145/2508363.2508412",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_57_1",
+                "DOI": "10.1109/TVCG.2014.2330610",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201315&ftid=1991612&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:47:13Z",
+            "timestamp": 1585961233000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 57,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201315"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201315",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

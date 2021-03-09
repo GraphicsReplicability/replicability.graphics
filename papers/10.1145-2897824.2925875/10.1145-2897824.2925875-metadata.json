@@ -1,0 +1,537 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T02:11:26Z",
+            "timestamp": 1585966286690
+        },
+        "reference-count": 63,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925875",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-15",
+        "source": "Crossref",
+        "is-referenced-by-count": 16,
+        "title": [
+            "ProxImaL"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Felix",
+                "family": "Heide",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Stanford University and University of British Columbia"
+                    }
+                ]
+            },
+            {
+                "given": "Steven",
+                "family": "Diamond",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Matthias",
+                "family": "Nie\u00dfner",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Jonathan",
+                "family": "Ragan-Kelley",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Wolfgang",
+                "family": "Heidrich",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "KAUST and University of British Columbia"
+                    }
+                ]
+            },
+            {
+                "given": "Gordon",
+                "family": "Wetzstein",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "author": "Almeida M.",
+                "volume-title": "Proc. ICIP, 582--585"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1007/s10107-011-0484-9",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1137/080716542",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1007/s12532-011-0029-5",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "author": "Bernstein G. L.",
+                "year": "2015",
+                "volume-title": "Ebb: A DSL for physical simluation on CPUs and GPUs. arXiv e-Print 1506.07577."
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/344779.344972",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1561/2200000016",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "author": "Brooke A.",
+                "year": "1988",
+                "volume-title": "GAMS: A user's guide. Course Technology."
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1090/S0002-9904-1975-13874-2",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1007/s10851-010-0251-1",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1109/TIP.2011.2176954",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/258734.258884",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1109/ICCV.2015.84",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Diamond S. and Boyd S. 2016. Matrix-free convex optimization modeling. In Optimization and Applications in Control and Data Sciences. Springer. To appear.  Diamond S. and Boyd S. 2016. Matrix-free convex optimization modeling. In Optimization and Applications in Control and Data Sciences. Springer. To appear.",
+                "DOI": "10.1007/978-3-319-42056-1_7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "author": "Diamond S.",
+                "year": "2016",
+                "article-title": "CVXPY: A Python-embedded modeling language for convex optimization",
+                "journal-title": "Journal of Machine Learning Research. To appear."
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "author": "Dupe F.-X.",
+                "volume-title": "Proc. ICIP."
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1137/09076934X",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1109/TPAMI.2008.113",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/566654.566573",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/1141911.1141956",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1364/AO.21.002758",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1109/TIP.2010.2053941",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/2010324.1965002",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "Fougner C. and Boyd S. 2015. Parameter selection and preconditioning for a graph form solver. arXiv e-Print 1503.08366.  Fougner C. and Boyd S. 2015. Parameter selection and preconditioning for a graph form solver. arXiv e-Print 1503.08366."
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1109/83.392335",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "author": "Giselsson P.",
+                "volume-title": "Proceedings of the 53rd IEEE Conference on Decision and Control."
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1137/080725891",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "author": "Grant M.",
+                "year": "2014",
+                "volume-title": "CVX: MATLAB software for disciplined convex programming, version 2.1"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "author": "Gu J.",
+                "volume-title": "Proc. IEEE ICCP."
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/2783258.2783313",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/2516971.2516974",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/2661229.2661260",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "author": "Hestenes M.",
+                "first-page": "409",
+                "year": "1952",
+                "article-title": "Methods of conjugate gradients for solving linear systems",
+                "journal-title": "J. Res. N.B."
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "author": "Joshi N.",
+                "volume-title": "Proc. IEEE CVPR, 1550--1557"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "unstructured": "Krishnan D. and Fergus R. 2009. Fast image deconvolution using hyper-Laplacian priors. In Advances in Neural Information Processing Systems 1033--1041.  Krishnan D. and Fergus R. 2009. Fast image deconvolution using hyper-Laplacian priors. In Advances in Neural Information Processing Systems 1033--1041."
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1145/2070781.2024211",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1137/120882706",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1137/S0895479895281484",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/1015706.1015780",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "author": "Levin A.",
+                "volume-title": "Proc. ECCV. 377--389"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "unstructured": "Li G. and Pong T. K. 2015. Global convergence of splitting methods for nonconvex composite optimization. arXiv e-Print 1407.0753.  Li G. and Pong T. K. 2015. Global convergence of splitting methods for nonconvex composite optimization. arXiv e-Print 1407.0753."
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1109/CACSD.2004.1393890",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1137/140976601",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "unstructured": "Moreau J.-J. 1965. Proximit\u00e9 et dualit\u00e9 dans un espace hilbertien. Bulletin de la Soci\u00e9t\u00e9 math\u00e9matique de France 93 273--299.  Moreau J.-J. 1965. Proximit\u00e9 et dualit\u00e9 dans un espace hilbertien. Bulletin de la Soci\u00e9t\u00e9 math\u00e9matique de France 93 273--299.",
+                "DOI": "10.24033/bsmf.1625",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1137/130942954",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "unstructured": "O'Donoghue B. Chu E. Parikh N. and Boyd S. 2015. Operator splitting for conic optimization via homogeneous self-dual embedding. arXiv e-Print 1312.3039.  O'Donoghue B. Chu E. Parikh N. and Boyd S. 2015. Operator splitting for conic optimization via homogeneous self-dual embedding. arXiv e-Print 1312.3039."
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "DOI": "10.1145/355984.355989",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "DOI": "10.1561/2400000003",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "DOI": "10.1109/ICCV.2011.6126441",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "author": "Pock T.",
+                "volume-title": "Proceedings of the IEEE International Conference on Computer Vision, 1133--1140"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "DOI": "10.1145/2499370.2462176",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "DOI": "10.1137/140987845",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "DOI": "10.1287/moor.1.2.97",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "DOI": "10.1109/CVPR.2014.349",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_55_1",
+                "unstructured": "Sidky E. Y. and Pan X. 2008. Image reconstruction in circular cone-beam computed tomography by constrained total-variation minimization. Physics in medicine and biology 53 17 4777.  Sidky E. Y. and Pan X. 2008. Image reconstruction in circular cone-beam computed tomography by constrained total-variation minimization. Physics in medicine and biology 53 17 4777.",
+                "DOI": "10.1088/0031-9155/53/17/021",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_56_1",
+                "DOI": "10.1364/OPTICA.2.000104",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_57_1",
+                "unstructured": "Tsai Y.-T. Steinberger M. Pajak D. and Pulli K. 2014. Fast ANN for high-quality collaborative filtering. In High Performance Graphics.  Tsai Y.-T. Steinberger M. Pajak D. and Pulli K. 2014. Fast ANN for high-quality collaborative filtering. In High Performance Graphics .",
+                "DOI": "10.1111/cgf.12715",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_58_1",
+                "DOI": "10.1109/HPTCDL.2014.5",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_59_1",
+                "DOI": "10.1145/2461912.2461993",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_60_1",
+                "unstructured": "Wytock M. Wang P.-W. and Zico Kolter J. 2015. Convex programming with fast proximal and linear operators. arXiv e-Print 1511.04815.  Wytock M. Wang P.-W. and Zico Kolter J. 2015. Convex programming with fast proximal and linear operators. arXiv e-Print 1511.04815."
+            },
+            {
+                "key": "e_1_2_2_61_1",
+                "DOI": "10.1117/1.3600632",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_62_1",
+                "author": "Zhu Y.",
+                "year": "2015",
+                "article-title": "An augmented ADMM algorithm with application to the generalized lasso problem",
+                "journal-title": "Journal of Computational and Graphical Statistics, just-accepted."
+            },
+            {
+                "key": "e_1_2_2_63_1",
+                "DOI": "10.1109/ICCV.2011.6126278",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925875&amp;ftid=1755861&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:35:43Z",
+            "timestamp": 1585964143000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "efficient image optimization using proximal algorithms"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 63,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925875"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925875",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

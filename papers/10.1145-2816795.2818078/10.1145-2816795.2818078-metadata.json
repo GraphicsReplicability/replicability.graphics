@@ -1,0 +1,529 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    3
+                ]
+            ],
+            "date-time": "2020-07-03T10:05:19Z",
+            "timestamp": 1593770719154
+        },
+        "reference-count": 66,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "6",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2015,
+                            10,
+                            26
+                        ]
+                    ],
+                    "date-time": "2015-10-26T00:00:00Z",
+                    "timestamp": 1445817600000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2015,
+                    11,
+                    4
+                ]
+            ]
+        },
+        "DOI": "10.1145/2816795.2818078",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2015,
+                    10,
+                    27
+                ]
+            ],
+            "date-time": "2015-10-27T12:36:39Z",
+            "timestamp": 1445949399000
+        },
+        "page": "1-15",
+        "source": "Crossref",
+        "is-referenced-by-count": 74,
+        "title": [
+            "Instant field-aligned meshes"
+        ],
+        "prefix": "10.1145",
+        "volume": "34",
+        "author": [
+            {
+                "given": "Wenzel",
+                "family": "Jakob",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "ETH Zurich"
+                    }
+                ]
+            },
+            {
+                "given": "Marco",
+                "family": "Tarini",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "CNR-ISTI and Universit\u00e0 dell'Insubria"
+                    }
+                ]
+            },
+            {
+                "given": "Daniele",
+                "family": "Panozzo",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "ETH Zurich"
+                    }
+                ]
+            },
+            {
+                "given": "Olga",
+                "family": "Sorkine-Hornung",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "ETH Zurich"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1137/S1064827503430138",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/566654.566588",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/882262.882296",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1016/j.gmod.2004.06.007",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/103418.103458",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "author": "Belkin M.",
+                "volume-title": "Proc. ACM-SIAM Symposium on Discrete Algorithms."
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/1531326.1531383",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "Bommes D. L\u00e9vy B. Pietroni N. Puppo E. Silva C. Tarini M. and Zorin D. 2013. Quad-mesh generation and processing: A survey. Comput. Graph. Forum 32. 10.1111/cgf.12014   Bommes D. L\u00e9vy B. Pietroni N. Puppo E. Silva C. Tarini M. and Zorin D. 2013. Quad-mesh generation and processing: A survey. Comput. Graph. Forum 32. 10.1111/cgf.12014",
+                "DOI": "10.1111/cgf.12014",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/2461912.2462014",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "author": "Botsch M.",
+                "year": "2006",
+                "volume-title": "In Proc. Symposium of Geometry Processing"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/1185657.1185839",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/2661229.2661236",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1016/0010-4485(78)90110-0",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1111/j.1467-8659.2010.01761.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/1409060.1409101",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/280814.280826",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1111/cgf.12426",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "unstructured": "Diamanti O. Vaxman A. Panozzo D. and Sorkine-Hornung O. 2015. Integrable PolyVector fields. ACM Transactions on Graphics (proceedings of ACM SIGGRAPH) 34 4. 10.1145/2766906   Diamanti O. Vaxman A. Panozzo D. and Sorkine-Hornung O. 2015. Integrable PolyVector fields. ACM Transactions on Graphics (proceedings of ACM SIGGRAPH) 34 4. 10.1145/2766906",
+                "DOI": "10.1145/2766906",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "unstructured": "Ebke H.-C. Bommes D. Campen M. and Kobbelt L. 2013. QEx: Robust quad mesh extraction. ACM Trans. Graph.. 10.1145/2508363.2508372   Ebke H.-C. Bommes D. Campen M. and Kobbelt L. 2013. QEx: Robust quad mesh extraction. ACM Trans. Graph.. 10.1145/2508363.2508372",
+                "DOI": "10.1145/2508363.2508372",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/2661229.2661240",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/566654.566589",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/344779.345074",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/166117.166119",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/1409060.1409100",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/2766927",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1111/j.1467-8659.2007.01060.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "author": "Kazhdan M.",
+                "volume-title": "Proc. Eurographics Symposium on Geometry Processing."
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/882262.882275",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "Kn\u00f6ppel F. Crane K. Pinkall U. and Schr\u00f6der P. 2013. Globally optimal direction fields. ACM Trans. Graph.. 10.1145/2461912.2462005   Kn\u00f6ppel F. Crane K. Pinkall U. and Schr\u00f6der P. 2013. Globally optimal direction fields. ACM Trans. Graph.. 10.1145/2461912.2462005",
+                "DOI": "10.1145/2461912.2462005",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/2766972",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/1364901.1364921",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1109/TVCG.2009.59",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/2661229.2661258",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/344779.344849",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1145/1778765.1778856",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "unstructured": "Li E. R. L\u00e9vy B. Zhang X. Che W.-J. Dong W. and Paul J.-C. 2011. Meshless quadrangulation by global parameterization. Computers and Graphics. 10.1016/j.cag.2011.05.003   Li E. R. L\u00e9vy B. Zhang X. Che W.-J. Dong W. and Paul J.-C. 2011. Meshless quadrangulation by global parameterization. Computers and Graphics. 10.1016/j.cag.2011.05.003"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/353981.353995",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1145/2653476",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/37401.37422",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "author": "Marinov M.",
+                "volume-title": "Proc. Pacific Graphics."
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "unstructured": "Marinov M. and Kobbelt L. 2006. A robust two-step procedure for quad-dominant remeshing. Computer Graphics Forum.  Marinov M. and Kobbelt L. 2006. A robust two-step procedure for quad-dominant remeshing. Computer Graphics Forum.",
+                "DOI": "10.1111/j.1467-8659.2006.00973.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1137/S0097539700373039",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1145/2461912.2461970",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1145/1778765.1778854",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1145/2601097.2601154",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1109/TVCG.2011.118",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "author": "Owen S. J.",
+                "year": "1998",
+                "volume-title": "Proc. IMR."
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "DOI": "10.1145/1276377.1276446",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "DOI": "10.1145/2601097.2601179",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "DOI": "10.1145/2070781.2024175",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "unstructured": "Pietroni N. Tarini M. and Cignoni P. Almost isometric mesh parameterization through abstract domains. IEEE Trans. Visualization and Computer Graphics 16 4. 10.1109/TVCG.2009.96   Pietroni N. Tarini M. and Cignoni P. Almost isometric mesh parameterization through abstract domains. IEEE Trans. Visualization and Computer Graphics 16 4. 10.1109/TVCG.2009.96",
+                "DOI": "10.1109/TVCG.2009.96",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "unstructured": "Pietroni N. Tarini M. Sorkine O. and Zorin D. 2011. Global parametrization of range image sets. ACM Trans. Graph.. 10.1145/2070781.2024183   Pietroni N. Tarini M. Sorkine O. and Zorin D. 2011. Global parametrization of range image sets. ACM Trans. Graph.. 10.1145/2070781.2024183",
+                "DOI": "10.1145/2024156.2024183",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "DOI": "10.1080/10586458.1993.10504266",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "unstructured": "Ray N. Li W. C. L\u00e9vy B. Sheffer A. and Alliez P. 2006. Periodic global parameterization. ACM Trans. Graph.. 10.1145/1183287.1183297   Ray N. Li W. C. L\u00e9vy B. Sheffer A. and Alliez P. 2006. Periodic global parameterization. ACM Trans. Graph.. 10.1145/1183287.1183297"
+            },
+            {
+                "key": "e_1_2_2_55_1",
+                "DOI": "10.1145/1356682.1356683",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_56_1",
+                "DOI": "10.1145/882262.882295",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_57_1",
+                "author": "Sifri O.",
+                "volume-title": "Proc. Intnl. Meshing Roundtable."
+            },
+            {
+                "key": "e_1_2_2_58_1",
+                "author": "Surazhsky V.",
+                "volume-title": "Proc. Symposium on Geometry Processing."
+            },
+            {
+                "key": "e_1_2_2_59_1",
+                "author": "Surazhsky V.",
+                "volume-title": "Proc. International Meshing Roundtable."
+            },
+            {
+                "key": "e_1_2_2_60_1",
+                "DOI": "10.1145/2461912.2461955",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_61_1",
+                "DOI": "10.1111/j.1467-8659.2009.01610.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_62_1",
+                "DOI": "10.1145/218380.218473",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_63_1",
+                "DOI": "10.1145/133994.134008",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_64_1",
+                "DOI": "10.5555/1735603.1735629",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_65_1",
+                "DOI": "10.1145/1183287.1183290",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_66_1",
+                "unstructured": "Zhang M. Huang J. Liu X. and Bao H. 2010. A wave-based anisotropic quadrangulation method. ACM Trans. Graph.. 10.1145/1778765.1778855   Zhang M. Huang J. Liu X. and Bao H. 2010. A wave-based anisotropic quadrangulation method. ACM Trans. Graph.. 10.1145/1778765.1778855",
+                "DOI": "10.1145/1833349.1778855",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2818078&amp;ftid=1638315&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    3
+                ]
+            ],
+            "date-time": "2020-04-03T16:25:40Z",
+            "timestamp": 1585931140000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2015,
+                    11,
+                    4
+                ]
+            ]
+        },
+        "references-count": 66,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2015,
+                        11,
+                        4
+                    ]
+                ]
+            },
+            "issue": "6"
+        },
+        "alternative-id": [
+            "10.1145/2816795.2818078"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2816795.2818078",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

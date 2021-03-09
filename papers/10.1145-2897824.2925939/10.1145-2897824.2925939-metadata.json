@@ -1,0 +1,515 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T02:11:28Z",
+            "timestamp": 1585966288064
+        },
+        "reference-count": 63,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925939",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 3,
+        "title": [
+            "RAID"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Paul",
+                "family": "Guerrero",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University College London"
+                    }
+                ]
+            },
+            {
+                "given": "Niloy J.",
+                "family": "Mitra",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University College London"
+                    }
+                ]
+            },
+            {
+                "given": "Peter",
+                "family": "Wonka",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "KAUST"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1109/34.895972",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "first-page": "154",
+                "article-title": "Content-Based Image Retrieval by Combining Structural and Content Based Features",
+                "volume": "2",
+                "author": "Badadapure P. R.",
+                "year": "2013",
+                "journal-title": "International Journal of Engineering and Advanced Technology"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1109/34.993558",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/2019627.2019639",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1016/j.imavis.2004.06.013",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "unstructured": "2015. Boost polygon version 1.58. www.boost.org.  2015. Boost polygon version 1.58. www.boost.org."
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "unstructured": "Cao Y. Wang C. Zhang L. and Zhang L. 2011. Edgel index for large-scale sketch-based image search. In IEEE CVPR 761--768. 10.1109/CVPR.2011.5995460   Cao Y. Wang C. Zhang L. and Zhang L. 2011. Edgel index for large-scale sketch-based image search. In IEEE CVPR 761--768. 10.1109/CVPR.2011.5995460",
+                "DOI": "10.1109/CVPR.2011.5995460",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1109/ITCC.2005.3",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/952532.952682",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.5555/2919332.2919813",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/1618452.1618470",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/2661229.2661239",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "Chen L. Papandreou G. Kokkinos I. Murphy K. and Yuille A. L. 2015. Semantic image segmentation with deep convolutional nets and fully connected crfs. ICLR (Nov.).  Chen L. Papandreou G. Kokkinos I. Murphy K. and Yuille A. L. 2015. Semantic image segmentation with deep convolutional nets and fully connected crfs. ICLR (Nov.)."
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "author": "Choi W.",
+                "volume-title": "ICCV Workshops, 1282--1289"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1109/MMCS.1997.609637",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/1572741.1572747",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/1572741.1572747",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1109/MCG.2011.67",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/2185520.2185527",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/2010324.1964929",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "Fisher M. Ritchie D. Savva M. Funkhouser T. and Hanrahan P. 2012. Example-based synthesis of 3d object arrangements. In ACM SIGGRAPH Asia. 10.1145/2366145.2366154   Fisher M. Ritchie D. Savva M. Funkhouser T. and Hanrahan P. 2012. Example-based synthesis of 3d object arrangements. In ACM SIGGRAPH Asia. 10.1145/2366145.2366154",
+                "DOI": "10.1145/2366145.2366154",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/2816795.2818057",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "author": "Flusser J.",
+                "year": "1992",
+                "volume-title": "International Conference on, 139--142"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1109/TPAMI.1985.4767734",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/1276377.1276382",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1016/j.ipm.2007.09.008",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/2508363.2508381",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/2766914",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/2508363.2508373",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "unstructured": "Huang S. Wang W. and Zhang H. 2014. Retrieving images using saliency detection and graph matching. In IEEE ICIP 3087--3091.  Huang S. Wang W. and Zhang H. 2014. Retrieving images using saliency detection and graph matching. In IEEE ICIP 3087--3091.",
+                "DOI": "10.1109/ICIP.2014.7025624",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "unstructured": "Jansen S. Shantia A. and Wiering M. A. 2015. The neural-sift feature descriptor for visual vocabulary object recognition. In IJCNN 1--8.  Jansen S. Shantia A. and Wiering M. A. 2015. The neural-sift feature descriptor for visual vocabulary object recognition. In IJCNN 1--8.",
+                "DOI": "10.1109/IJCNN.2015.7280660",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "unstructured": "Karpathy A. and Li F.-F. 2015. Deep Visual-Semantic Alignments for Generating Image Descriptions. In IEEE CVPR.  Karpathy A. and Li F.-F. 2015. Deep Visual-Semantic Alignments for Generating Image Descriptions. In IEEE CVPR.",
+                "DOI": "10.1109/CVPR.2015.7298932",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1109/CGIV.2013.11",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/2601097.2601117",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "unstructured": "Ko B. and Byun H. 2002. Multiple Regions and Their Spatial Relationship-Based Image Retrieval. In LNCS 2383. 81--90.   Ko B. and Byun H. 2002. Multiple Regions and Their Spatial Relationship-Based Image Retrieval. In LNCS 2383. 81--90.",
+                "DOI": "10.1007/3-540-45479-9_9",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "unstructured": "Krishna R. Zhu Y. Groth O. Johnson J. Hata K. Kravitz J. Chen S. Kalantidis Y. Li L.-J. Shamma D. A. Bernstein M. and Fei-Fei L. 2016. Visual genome: Connecting language and vision using crowd-sourced dense image annotations.  Krishna R. Zhu Y. Groth O. Johnson J. Hata K. Kravitz J. Chen S. Kalantidis Y. Li L.-J. Shamma D. A. Bernstein M. and Fei-Fei L. 2016. Visual genome: Connecting language and vision using crowd-sourced dense image annotations.",
+                "DOI": "10.1007/s11263-016-0981-7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1109/TPAMI.2012.162",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1007/978-3-642-33783-3_10",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "unstructured": "Lan T. Raptis M. Sigal L. and Mori G. 2013. From subcategories to visual composites: A multi-level framework for object detection. In IEEE ICCV. 10.1109/ICCV.2013.53   Lan T. Raptis M. Sigal L. and Mori G. 2013. From subcategories to visual composites: A multi-level framework for object detection. In IEEE ICCV. 10.1109/ICCV.2013.53",
+                "DOI": "10.1109/ICCV.2013.53",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "author": "Lee S. L. S.",
+                "volume-title": "Proceedings of Fourth Int. Symposium on Multimedia Software Engineering."
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "unstructured": "Lin T. Maire M. Belongie S. Hays J. Perona P. Ramanan D. Doll\u00e1r P. and Zitnick C. L. 2014. Microsoft COCO: common objects in context. CoRR abs/1405.0312.  Lin T. Maire M. Belongie S. Hays J. Perona P. Ramanan D. Doll\u00e1r P. and Zitnick C. L. 2014. Microsoft COCO: common objects in context. CoRR abs/1405.0312.",
+                "DOI": "10.1007/978-3-319-10602-1_48",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1145/2661229.2661243",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "unstructured": "Long J. Shelhamer E. and Darrell T. 2015. Fully convolutional networks for semantic segmentation. IEEE CVPR.  Long J. Shelhamer E. and Darrell T. 2015. Fully convolutional networks for semantic segmentation. IEEE CVPR.",
+                "DOI": "10.1109/CVPR.2015.7298965",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1023/B:VISI.0000029664.99615.94",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "author": "Malisiewicz T.",
+                "year": "2009",
+                "volume-title": "Beyond Categories: The Visual Memex Model for Reasoning About Object Relationships. In NIPS, 1--9."
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1007/s007780050057",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "DOI": "10.1007/BF00123143",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "unstructured": "Rubner Y. Tomasi C. and Guibas L. J. 1998. A metric for distributions with applications to image databases. IEEE Computer Society Washington DC USA IEEE ICCV 59--66.   Rubner Y. Tomasi C. and Guibas L. J. 1998. A metric for distributions with applications to image databases. IEEE Computer Society Washington DC USA IEEE ICCV 59--66."
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "unstructured": "Sadeghi M. A. and Farhadi A. 2011. Recognition using visual phrases. IEEE Computer Society Washington DC USA IEEE CVPR 1745--1752. 10.1109/CVPR.2011.5995711   Sadeghi M. A. and Farhadi A. 2011. Recognition using visual phrases. IEEE Computer Society Washington DC USA IEEE CVPR 1745--1752. 10.1109/CVPR.2011.5995711",
+                "DOI": "10.1109/CVPR.2011.5995711",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "unstructured": "Shao T. Monszpart A. Zheng Y. Koo B. Xu W. Zhou K. and Mitra N. 2014. Imagining the unseen: Stability-based cuboid arrangements for scene understanding. ACM SIGGRAPH Asia.* Joint first authors. 10.1145/2661229.2661288   Shao T. Monszpart A. Zheng Y. Koo B. Xu W. Zhou K. and Mitra N. 2014. Imagining the unseen: Stability-based cuboid arrangements for scene understanding. ACM SIGGRAPH Asia. * Joint first authors. 10.1145/2661229.2661288"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "unstructured": "Shechtman E. and Irani M. 2007. Matching local self-similarities across images and videos. In IEEE CVPR 1--8.  Shechtman E. and Irani M. 2007. Matching local self-similarities across images and videos. In IEEE CVPR 1--8.",
+                "DOI": "10.1109/CVPR.2007.383198",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "DOI": "10.1145/244130.244151",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "DOI": "10.1364/JOSA.70.000920",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "DOI": "10.1145/2036264.2036276",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_55_1",
+                "unstructured": "Wang Y.-H. 2003. Image indexing and similarity retrieval based on spatial relationship model.  Wang Y.-H. 2003. Image indexing and similarity retrieval based on spatial relationship model.",
+                "DOI": "10.1016/S0020-0255(03)00005-7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_56_1",
+                "DOI": "10.1145/1835449.1835497",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_57_1",
+                "DOI": "10.1145/2461912.2461968",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_58_1",
+                "DOI": "10.1145/2366145.2366195",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_59_1",
+                "DOI": "10.1016/j.patcog.2003.07.008",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_60_1",
+                "DOI": "10.1145/2574860",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_61_1",
+                "unstructured": "Zheng Y. Cohen-Or D. Averkiou M. and Mitra N. J. 2014. Recurring part arrangements in shape collections. Computer Graphics Forum. 10.1111/cgf.12309   Zheng Y. Cohen-Or D. Averkiou M. and Mitra N. J. 2014. Recurring part arrangements in shape collections. Computer Graphics Forum. 10.1111/cgf.12309",
+                "DOI": "10.1111/cgf.12309",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_62_1",
+                "unstructured": "Zheng S. Jayasumana S. Romera-Paredes B. Vineet V. Su Z. Du D. Huang C. and Torr P. 2015. Conditional random fields as recurrent neural networks. In IEEE ICCV. 10.1109/ICCV.2015.179   Zheng S. Jayasumana S. Romera-Paredes B. Vineet V. Su Z. Du D. Huang C. and Torr P. 2015. Conditional random fields as recurrent neural networks. In IEEE ICCV. 10.1109/ICCV.2015.179",
+                "DOI": "10.1109/ICCV.2015.179",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_63_1",
+                "DOI": "10.1016/S0167-8655(00)00123-9",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925939&amp;ftid=1755934&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:39:28Z",
+            "timestamp": 1585964368000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "a relation-augmented image descriptor"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 63,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925939"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925939",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

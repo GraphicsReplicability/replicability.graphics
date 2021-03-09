@@ -1,0 +1,410 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:11:22Z",
+            "timestamp": 1586002282038
+        },
+        "reference-count": 40,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100004344",
+                "name": "Adobe Systems",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100006785",
+                "name": "Google",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100000006",
+                "name": "Office of Naval Research",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "N000141010934"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601145",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 16,
+        "title": [
+            "AverageExplorer"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Jun-Yan",
+                "family": "Zhu",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "UC Berkeley"
+                    }
+                ]
+            },
+            {
+                "given": "Yong Jae",
+                "family": "Lee",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "UC Berkeley"
+                    }
+                ]
+            },
+            {
+                "given": "Alexei A.",
+                "family": "Efros",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "UC Berkeley"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "Agarwala A. Dontcheva M. Agrawala M. Drucker S. Colburn A. Curless B. Salesin D. and Cohen M. 2004. Interactive digital photomontage. In SIGGRAPH. 10.1145/1015706.1015718   Agarwala A. Dontcheva M. Agrawala M. Drucker S. Colburn A. Curless B. Salesin D. and Cohen M. 2004. Interactive digital photomontage. In SIGGRAPH . 10.1145/1015706.1015718",
+                "DOI": "10.1145/1186562.1015718",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "Angelova A. Abu-Mostafam Y. and Perona P. 2005. Pruning training sets for learning of object categories. In CVPR. 10.1109/CVPR.2005.283   Angelova A. Abu-Mostafam Y. and Perona P. 2005. Pruning training sets for learning of object categories. In CVPR . 10.1109/CVPR.2005.283"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1007/978-3-540-87987-9_27",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "Belhumeur P. N. Jacobs D. W. Kriegman D. J. and Kumar N. 2011. Localizing parts of faces using a consensus of exemplars. In CVPR. 10.1109/CVPR.2011.5995602   Belhumeur P. N. Jacobs D. W. Kriegman D. J. and Kumar N. 2011. Localizing parts of faces using a consensus of exemplars. In CVPR . 10.1109/CVPR.2011.5995602",
+                "DOI": "10.1109/CVPR.2011.5995602",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "author": "Berg T.",
+                "volume-title": "2nd Workshop on Internet Vision."
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "unstructured": "Berg T. L. Berg A. C. and Shih J. 2010. Automatic attribute discovery and characterization from noisy web data. In ECCV.   Berg T. L. Berg A. C. and Shih J. 2010. Automatic attribute discovery and characterization from noisy web data. In ECCV .",
+                "DOI": "10.1007/978-3-642-15549-9_48",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "unstructured": "Boureau Y.-L. Ponce J. and LeCun Y. 2010. A theoretical analysis of feature pooling in vision algorithms. In ICML.  Boureau Y.-L. Ponce J. and LeCun Y. 2010. A theoretical analysis of feature pooling in vision algorithms. In ICML ."
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "Campbell J. 2002. http://jimcampbell.tv/.  Campbell J. 2002. http://jimcampbell.tv/."
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1109/TPAMI.2002.1023800",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "Chen T. Cheng M.-M. Tan P. Shamir A. and Hu S.-M. 2009. Sketch2photo: internet image montage. In SIGGRAPH Asia. 10.1145/1618452.1618470   Chen T. Cheng M.-M. Tan P. Shamir A. and Hu S.-M. 2009. Sketch2photo: internet image montage. In SIGGRAPH Asia . 10.1145/1618452.1618470",
+                "DOI": "10.1145/1661412.1618470",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "Dalal N. and Triggs B. 2005. Histograms of oriented gradients for human detection. In CVPR. 10.1109/CVPR.2005.177   Dalal N. and Triggs B. 2005. Histograms of oriented gradients for human detection. In CVPR . 10.1109/CVPR.2005.177"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "unstructured": "de Oliveira M. C. F. and Levkowitz H. 2003. From visual data exploration to visual data mining: A survey. TVCG.  de Oliveira M. C. F. and Levkowitz H. 2003. From visual data exploration to visual data mining: A survey. TVCG .",
+                "DOI": "10.1109/TVCG.2003.1207445",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1007/978-3-642-33885-4_4",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Doersch C. Singh S. Gupta A. Sivic J. and Efros A. A. 2012. What makes paris look like paris? In SIGGRAPH. 10.1145/2185520.2185597   Doersch C. Singh S. Gupta A. Sivic J. and Efros A. A. 2012. What makes paris look like paris? In SIGGRAPH . 10.1145/2185520.2185597"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "unstructured": "Gallagher A. C. and Chen T. 2008. Clothing cosegmentation for recognizing people. In CVPR.  Gallagher A. C. and Chen T. 2008. Clothing cosegmentation for recognizing people. In CVPR .",
+                "DOI": "10.1109/CVPR.2008.4587481",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1038/018097a0",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "Hariharan B. Malik J. and Ramanan D. 2012. Discriminative decorrelation for clustering and classification. In ECCV. 10.1007/978-3-642-33765-9_33   Hariharan B. Malik J. and Ramanan D. 2012. Discriminative decorrelation for clustering and classification. In ECCV . 10.1007/978-3-642-33765-9_33"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "unstructured": "Hays J. and Efros A. A. 2007. Scene completion using millions of photographs. In SIGGRAPH. 10.1145/1276377.1276382   Hays J. and Efros A. A. 2007. Scene completion using millions of photographs. In SIGGRAPH . 10.1145/1276377.1276382",
+                "DOI": "10.1145/1275808.1276382",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "unstructured": "Hoai M. and Zisserman A. 2013. Discriminative sub-categorization. In CVPR. 10.1109/CVPR.2013.218   Hoai M. and Zisserman A. 2013. Discriminative sub-categorization. In CVPR . 10.1109/CVPR.2013.218",
+                "DOI": "10.1109/CVPR.2013.218",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "Huang G. Jain V. and Learned-Miller E. 2007. Unsupervised Joint Alignment of Complex Images. In ICCV.  Huang G. Jain V. and Learned-Miller E. 2007. Unsupervised Joint Alignment of Complex Images. In ICCV .",
+                "DOI": "10.1109/ICCV.2007.4408858",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "author": "Huang G. B.",
+                "year": "2007",
+                "volume-title": "Wild: A Database for Studying Face Recognition in Unconstrained Environments. Tech. rep."
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "unstructured": "Jacobs C. E. Finkelstein A. and Salesin D. H. 1995. Fast multiresolution image querying. In SIGGRAPH. 10.1145/218380.218454   Jacobs C. E. Finkelstein A. and Salesin D. H. 1995. Fast multiresolution image querying. In SIGGRAPH . 10.1145/218380.218454",
+                "DOI": "10.1145/218380.218454",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "Jesorsky O. Kirchberg K. J. and Frischholz R. W. 2001. Robust face detection using the hausdorff distance. In Audio-and video-based biometric person authentication.   Jesorsky O. Kirchberg K. J. and Frischholz R. W. 2001. Robust face detection using the hausdorff distance. In Audio-and video-based biometric person authentication .",
+                "DOI": "10.1007/3-540-45344-X_14",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "Kemelmacher-Shlizerman I. Shechtman E. Garg R. and Seitz S. M. 2011. Exploring photobios. In SIGGRAPH. 10.1145/2010324.1964956   Kemelmacher-Shlizerman I. Shechtman E. Garg R. and Seitz S. M. 2011. Exploring photobios. In SIGGRAPH . 10.1145/2010324.1964956",
+                "DOI": "10.1145/1964921.1964956",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "unstructured": "Khan I. 2005. www.skny.com/artists/idris-khan/images/.  Khan I. 2005. www.skny.com/artists/idris-khan/images/."
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "unstructured": "Learned-Miller E. 2006. Data Driven Image Models through Continuous Joint Alignment. TPAMI. 10.1109/TPAMI.2006.34   Learned-Miller E. 2006. Data Driven Image Models through Continuous Joint Alignment. TPAMI . 10.1109/TPAMI.2006.34"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "unstructured": "Lee Y. J. Zitnick C. L. and Cohen M. F. 2011. Shadowdraw: real-time user guidance for freehand drawing. In SIGGRAPH. 10.1145/2010324.1964922   Lee Y. J. Zitnick C. L. and Cohen M. F. 2011. Shadowdraw: real-time user guidance for freehand drawing. In SIGGRAPH . 10.1145/2010324.1964922",
+                "DOI": "10.1145/1964921.1964922",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "unstructured": "Mattar M. Hanson A. and Learned-Miller E. G. 2012. Unsupervised joint alignment and clustering using bayesian nonparametrics. In CVPR.  Mattar M. Hanson A. and Learned-Miller E. G. 2012. Unsupervised joint alignment and clustering using bayesian nonparametrics. In CVPR ."
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "Perona P. 2010. Vision of a visipedia. 1526--1534.  Perona P. 2010. Vision of a visipedia. 1526--1534.",
+                "DOI": "10.1109/JPROC.2010.2049621",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "unstructured": "Pruszkowski K. 1986. http://www.gallerywm.com/prusz_index.htm  Pruszkowski K. 1986. http://www.gallerywm.com/prusz_index.htm"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "unstructured": "Salavon J. 2004. http://cabinetmagazine.org/issues/15/salavon.php.  Salavon J. 2004. http://cabinetmagazine.org/issues/15/salavon.php."
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "unstructured": "Schaefer S. McPhail T. and Warren J. 2006. Image deformation using moving least squares. In SIGGRAPH. 10.1145/1141911.1141920   Schaefer S. McPhail T. and Warren J. 2006. Image deformation using moving least squares. In SIGGRAPH . 10.1145/1141911.1141920",
+                "DOI": "10.1145/1179352.1141920",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "unstructured": "Shi J. and Malik J. 2000. Normalized Cuts and Image Segmentation. TPAMI. 10.1109/34.868688   Shi J. and Malik J. 2000. Normalized Cuts and Image Segmentation. TPAMI . 10.1109/34.868688"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "unstructured": "Simon I. Snavely N. and Seitz S. 2007. Scene Summarization for Online Image Collections. In ICCV.  Simon I. Snavely N. and Seitz S. 2007. Scene Summarization for Online Image Collections. In ICCV .",
+                "DOI": "10.1109/ICCV.2007.4408863",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "unstructured": "Singh S. Gupta A. and Efros A. A. 2012. Unsupervised Discovery of Mid-Level Discriminative Patches. In ECCV. 10.1007/978-3-642-33709-3_6   Singh S. Gupta A. and Efros A. A. 2012. Unsupervised Discovery of Mid-Level Discriminative Patches. In ECCV . 10.1007/978-3-642-33709-3_6"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "unstructured": "Snavely N. Seitz S. M. and Szeliski R. 2006. Photo tourism: Exploring photo collections in 3D. In SIGGRAPH. 10.1145/1141911.1141964   Snavely N. Seitz S. M. and Szeliski R. 2006. Photo tourism: Exploring photo collections in 3D. In SIGGRAPH . 10.1145/1141911.1141964",
+                "DOI": "10.1145/1179352.1141964",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "unstructured": "Torralba A. Bernal H. J. Fergus R. Weiss Y. and Freeman W. 2008. http://groups.csail.mit.edu/vision/tinyimages/.  Torralba A. Bernal H. J. Fergus R. Weiss Y. and Freeman W. 2008. http://groups.csail.mit.edu/vision/tinyimages/."
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "unstructured": "Torralba A. 2001. http://people.csail.mit.edu/torralba/gallery/.  Torralba A. 2001. http://people.csail.mit.edu/torralba/gallery/."
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "unstructured": "Vi\u00e9gas F. B. and Wattenberg M. 2007. Artistic data visualization: Beyond visual analytics. In Online Communities and Social Computing. Springer 182--191.   Vi\u00e9gas F. B. and Wattenberg M. 2007. Artistic data visualization: Beyond visual analytics. In Online Communities and Social Computing . Springer 182--191.",
+                "DOI": "10.1007/978-3-540-73257-0_21",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "unstructured": "Zhang W. Sun J. and Tang X. 2008. Cat head detection-how to effectively exploit shape and texture features. In ECCV.  Zhang W. Sun J. and Tang X. 2008. Cat head detection-how to effectively exploit shape and texture features. In ECCV .",
+                "DOI": "10.1007/978-3-540-88693-8_59",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601145&amp;ftid=1488969&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:56:17Z",
+            "timestamp": 1586001377000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "interactive exploration and alignment of visual data collections"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 40,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601145"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601145",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

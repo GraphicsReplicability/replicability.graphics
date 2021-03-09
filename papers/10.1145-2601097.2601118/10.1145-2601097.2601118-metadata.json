@@ -1,0 +1,381 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:11:21Z",
+            "timestamp": 1586002281074
+        },
+        "reference-count": 38,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601118",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 71,
+        "title": [
+            "Pixie dust"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Yoichi",
+                "family": "Ochiai",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "The University of Tokyo"
+                    }
+                ]
+            },
+            {
+                "given": "Takayuki",
+                "family": "Hoshi",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Nagoya Institute of Technology"
+                    }
+                ]
+            },
+            {
+                "given": "Jun",
+                "family": "Rekimoto",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "The University of Tokyo and SONY CSL"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/1778765.1778813",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "Brandt E. H. 1989. Levitation in physics. Science 243 4889 349--55.  Brandt E. H. 1989. Levitation in physics. Science 243 4889 349--55.",
+                "DOI": "10.1126/science.243.4889.349",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/2501988.2502018",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1364/AO.46.001244",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/2501988.2502032",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "unstructured": "Foresti D. Nabavi M. Klingauf M. Ferrari A. and Poulikakos D. 2013. Acoustophoretic contactless transport and handling of matter in air. Proceedings of the National Academy of Sciences.  Foresti D. Nabavi M. Klingauf M. Ferrari A. and Poulikakos D. 2013. Acoustophoretic contactless transport and handling of matter in air. Proceedings of the National Academy of Sciences .",
+                "DOI": "10.1073/pnas.1301860110",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1109/MC.2005.198",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "first-page": "773",
+                "article-title": "On the forces acting on a small particle in an acoustical field in an ideal fluid",
+                "volume": "6",
+                "author": "Gor'kov L. P.",
+                "year": "1962",
+                "journal-title": "Soviet Physics Doklady"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/320719.322595",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1109/TOH.2010.4",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1007/978-3-642-34292-9_45",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/258549.258715",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "Ishii H. Lakatos D. Bonanni L. and Labrune J.-B. 2012. Radical atoms: Beyond tangible bits toward transformable materials. interactions 19 1 (Jan.) 38--51. 10.1145/2065327.2065337   Ishii H. Lakatos D. Bonanni L. and Labrune J.-B. 2012. Radical atoms: Beyond tangible bits toward transformable materials. interactions 19 1 (Jan.) 38--51. 10.1145/2065327.2065337",
+                "DOI": "10.1145/2065327.2065337",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Iwaki S. Morimasa H. Noritsugu T. and Kobayashi M. 2011. Contactless manipulation of an object on a plane surface using multiple air jets. In ICRA IEEE 3257--3262.  Iwaki S. Morimasa H. Noritsugu T. and Kobayashi M. 2011. Contactless manipulation of an object on a plane surface using multiple air jets. In ICRA IEEE 3257--3262.",
+                "DOI": "10.1109/ICRA.2011.5979879",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/383259.383314",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/1276377.1276427",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/2048259.2048279",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "unstructured": "Kono M. Kakehi Y. and Hoshi T. 2013. lapillus bug. SIGGRAPH Asia 2013 Art Gallery.  Kono M. Kakehi Y. and Hoshi T. 2013. lapillus bug. SIGGRAPH Asia 2013 Art Gallery."
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1143/JJAP.46.4948",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "Landis H. 2013. Spaxels. Ars Electronica 2013.  Landis H. 2013. Spaxels. Ars Electronica 2013."
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1109/TVCG.2008.83",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/2047196.2047239",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/2207676.2208370",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/1178823.1178879",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/2459056.2459057",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1121/1.1910702",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "author": "Ochiai Y.",
+                "volume-title": "Consumer Electronics (GCCE), 2013 IEEE 2nd Global Conference on, 124--128"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1371/journal.pone.0097590",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "first-page": "997",
+                "article-title": "Volumetric display with dust as the participating medium, Feb. 14",
+                "volume": "6",
+                "author": "Perlin K.",
+                "year": "2006",
+                "journal-title": "US Patent"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/1186155.1186173",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "unstructured": "Poupyrev I. Nashida T. and Okabe M. 2007. Actuation and tangible user interfaces: the vaucanson duck robots and shape displays. In Tangible and Embedded Interaction ACM B. Ullmer and A. Schmidt Eds. 205--212. 10.1145/1226969.1227012   Poupyrev I. Nashida T. and Okabe M. 2007. Actuation and tangible user interfaces: the vaucanson duck robots and shape displays. In Tangible and Embedded Interaction ACM B. Ullmer and A. Schmidt Eds. 205--212. 10.1145/1226969.1227012"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/1187297.1187306",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/2461912.2462007",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "unstructured": "TOCHKA. Tochka. http://tochka.jp/ Last accessed on 30 April 2013.  TOCHKA. Tochka. http://tochka.jp/ Last accessed on 30 April 2013."
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1007/s00249-011-0767-3",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1145/2010324.1964990",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1016/0041-624X(75)90072-4",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1063/1.2396893",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601118&amp;ftid=1488893&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:47:25Z",
+            "timestamp": 1586000845000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "graphics generated by levitated and animated objects in computational acoustic-potential field"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 38,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601118"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601118",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

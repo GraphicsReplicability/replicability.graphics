@@ -1,0 +1,440 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:29Z",
+            "timestamp": 1585962689369
+        },
+        "reference-count": 44,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100006785",
+                "name": "Google",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100008502",
+                "name": "Brown Institute for Media Innovation",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100002418",
+                "name": "Intel Corporation",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/501100008982",
+                "name": "National Science Foundation of Sri Lanka",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "IIS-1422767,IIS-1539069"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201394",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 6,
+        "title": [
+            "Scanner"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Alex",
+                "family": "Poms",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Carnegie Mellon University"
+                    }
+                ]
+            },
+            {
+                "given": "Will",
+                "family": "Crichton",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Pat",
+                "family": "Hanrahan",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Kayvon",
+                "family": "Fatahalian",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "2016. CaffeOnSpark. Github web site: https://github.com/yahoo/CaffeOnSpark. (2016).  2016. CaffeOnSpark. Github web site: https://github.com/yahoo/CaffeOnSpark. (2016)."
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "author": "Abadi Mart\u00edn",
+                "year": "2016",
+                "volume-title": "TensorFlow: A System for Large-Scale Machine Learning. In 12th USENIX Symposium on Operating Systems Design and Implementation (OSDI 16)"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "author": "Ananthanarayanan Ganesh",
+                "first-page": "185",
+                "year": "2013",
+                "article-title": "Effective Straggler Mitigation: Attack of the Clones. In Presented as part of the 10th USENIX Symposium on Networked Systems Design and Implementation (NSDI 13). USENLX",
+                "journal-title": "Lombard"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/2980179.2980257",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/2723372.2742797",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/276305.276386",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "unstructured": "Mariusz Bojarski Davide Del Testa Daniel Dworakowski Bernhard Firner Beat Flepp Prasoon Goyal Lawrence D Jackel Mathew Monfort Urs Muller Jiakai Zhang et al. 2016. End to End Learning for Self-Driving Cars. arXiv preprint arXiv:1604.07316 (2016).  Mariusz Bojarski Davide Del Testa Daniel Dworakowski Bernhard Firner Beat Flepp Prasoon Goyal Lawrence D Jackel Mathew Monfort Urs Muller Jiakai Zhang et al. 2016. End to End Learning for Self-Driving Cars. arXiv preprint arXiv:1604.07316 (2016)."
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "Rajesh Bordawekar. 2016. Accelerating Spark workloads using GPUs. https://www.oreilly.com/learning/accelerating-spark-workloads-using-gpus. O'Reilly Media Inc (2016).  Rajesh Bordawekar. 2016. Accelerating Spark workloads using GPUs. https://www.oreilly.com/learning/accelerating-spark-workloads-using-gpus. O'Reilly Media Inc (2016)."
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/1015706.1015800",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "Zhe Cao Tomas Simon Shih-En Wei and Yaser Sheikh. 2016. Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields. arXiv preprint arXiv:1611.08050 (2016).  Zhe Cao Tomas Simon Shih-En Wei and Yaser Sheikh. 2016. Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields. arXiv preprint arXiv:1611.08050 (2016)."
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "Tianqi Chen Mu Li Yutian Li Min Lin Naiyan Wang Minjie Wang Tianjun Xiao Bing Xu Chiyuan Zhang and Zheng Zhang. 2015. MXNet: A Flexible and Efficient Machine Learning Library for Heterogeneous Distributed Systems. arXiv:1512.01274 (2015). arXiv:eprint arXiv:1512.01274  Tianqi Chen Mu Li Yutian Li Min Lin Naiyan Wang Minjie Wang Tianjun Xiao Bing Xu Chiyuan Zhang and Zheng Zhang. 2015. MXNet: A Flexible and Efficient Machine Learning Library for Heterogeneous Distributed Systems. arXiv:1512.01274 (2015). arXiv:eprint arXiv:1512.01274"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1109/ICCV.2013.178",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/362384.362685",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.14778/1687553.1687584",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "unstructured": "DataBricks. 2016. TensorFrames. Github web site: https://github.com/databricks/tensorframes. (2016).  DataBricks. 2016. TensorFrames. Github web site: https://github.com/databricks/tensorframes. (2016)."
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "author": "Dean Jeffrey",
+                "volume": "6",
+                "year": "2004",
+                "volume-title": "Proceedings of the 6th Conference on Symposium on Opearting Systems Design & Implementation -"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/2185520.2185597",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "unstructured": "Inc. Facebook. 2017. Facebook Surround 360. Web site: https://facebook360.fb.com/facebook-surround-360/. (2017).  Inc. Facebook. 2017. Facebook Surround 360. Web site: https://facebook360.fb.com/facebook-surround-360/. (2017)."
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "unstructured": "S. Ginosar K. Rakelly S. M. Sachs B. Yin C. Lee P. Krahenbuhl and A. A. Efros. 2017. A Century of Portraits: A Visual Historical Record of American High School Yearbooks. IEEE Transactions on Computational Imaging PP 99 (2017).  S. Ginosar K. Rakelly S. M. Sachs B. Yin C. Lee P. Krahenbuhl and A. A. Efros. 2017. A Century of Portraits: A Visual Historical Record of American High School Yearbooks. IEEE Transactions on Computational Imaging PP 99 (2017)."
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/1276377.1276382",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "ISO/IEC 2015. ISO/IEC 14496-12:2015: Coding of audio-visual objects - Part 12: ISO base media file format. Standard. International Organization for Standardization Geneva CH.  ISO/IEC 2015. ISO/IEC 14496-12:2015: Coding of audio-visual objects - Part 12: ISO base media file format. Standard. International Organization for Standardization Geneva CH."
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "author": "Jia Yangqing",
+                "year": "2014",
+                "volume-title": "Caffe: Convolutional Architecture for Fast Feature Embedding. arXiv preprint arXiv:1408.5093"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1109/ICCV.2015.381",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "author": "Joo Hanbyul",
+                "year": "2016",
+                "volume-title": "Panoptic Studio: A Massively Multiview System for Social Interaction Capture."
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/2766954",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/3079856.3080246",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/2897824.2925871",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1109/MCOM.2006.1678121",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "author": "Matzen Kevin",
+                "year": "2017",
+                "volume-title": "Streetstyle: Exploring world-wide clothing styles from millions of photos."
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "unstructured": "Microsoft. 2017. The Microsoft Cognitive Toolkit. Web site: https://www.microsoft.com/en-us/cognitive-toolkit/. (2017).  Microsoft. 2017. The Microsoft Cognitive Toolkit. Web site: https://www.microsoft.com/en-us/cognitive-toolkit/. (2017)."
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "unstructured": "PostGIS Project 2016. PostGIS 2.3.2dev Manual. PostGIS Project.  PostGIS Project 2016. PostGIS 2.3.2dev Manual. PostGIS Project."
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/2185520.2185528",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/2499370.2462176",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "unstructured": "Rasdaman.org 2015. Rasdaman Version 9.2 Query Language Guide. Rasdaman.org.  Rasdaman.org 2015. Rasdaman Version 9.2 Query Language Guide. Rasdaman.org."
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.14778/3157794.3157797",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "author": "Rosen Josh",
+                "year": "2015",
+                "volume-title": "Project Tungsten: Bringing Apache Spark Closer to Bare Metal. Databricks Engineering Blog: https://databricks.com/blog/2015/04/28/project-tungsten-bringing-spark-closer-to-bare-metal.html."
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1109/WACV.2016.7477717",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "author": "Sivic Josef",
+                "volume-title": "First IEEE Workshop on Internet Vision."
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/1141911.1141964",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "author": "Szegedy C.",
+                "volume-title": "2015 IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 1--9."
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "author": "Thies William",
+                "volume-title": "Proceedings of the 11th International Conference on Compiler Construction (CC '02)"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1109/CCBD.2015.38",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "author": "Zaharia Matei",
+                "year": "2010",
+                "volume-title": "Proceedings of the 2Nd USENIX Conference on Hot Topics in Cloud Computing (HotCloud'10)"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1145/2601097.2601145",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201394&ftid=1991761&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:46:10Z",
+            "timestamp": 1585961170000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "efficient video analysis at scale"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 44,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201394"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201394",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

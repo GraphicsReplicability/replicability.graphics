@@ -1,0 +1,358 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T02:11:27Z",
+            "timestamp": 1585966287932
+        },
+        "reference-count": 24,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100000781",
+                "name": "European Research Council",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "259091"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100003977",
+                "name": "Israel Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "1046/14"
+                ]
+            },
+            {
+                "name": "ERC",
+                "award": [
+                    "635537"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925921",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 4,
+        "title": [
+            "Cinema 3D"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Netalee",
+                "family": "Efrat",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Weizmann Institute"
+                    }
+                ]
+            },
+            {
+                "given": "Piotr",
+                "family": "Didyk",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Saarland University"
+                    }
+                ]
+            },
+            {
+                "given": "Mike",
+                "family": "Foshey",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "MIT CSAIL"
+                    }
+                ]
+            },
+            {
+                "given": "Wojciech",
+                "family": "Matusik",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "MIT CSAIL"
+                    }
+                ]
+            },
+            {
+                "given": "Anat",
+                "family": "Levin",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Weizmann Institute"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "author": "Balogh T.",
+                "year": "2006",
+                "volume-title": "Electronic Imaging"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "Bogaert L. Meuret Y. Roelandt S. Avci A. De Smet H. and Thienpont H. 2010. Single projector multiview displays: directional illumination compared to beam steering. In IS&T/SPIE Electronic Imaging International Society for Optics and Photonics 75241R--75241R.  Bogaert L. Meuret Y. Roelandt S. Avci A. De Smet H. and Thienpont H. 2010. Single projector multiview displays: directional illumination compared to beam steering. In IS&T/SPIE Electronic Imaging International Society for Optics and Photonics 75241R--75241R.",
+                "DOI": "10.1117/12.838678",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1889/1.1828713",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "Du S.-P. Didyk P. Durand F. Hu S.-M. and Matusik W. 2014. Improving visual quality of view transitions in automultiscopic displays. ACM Transactions on Graphics (Proceedings SIGGRAPH Asia 2014 Shenzhen China) 33 6. 10.1145/2661229.2661248   Du S.-P. Didyk P. Durand F. Hu S.-M. and Matusik W. 2014. Improving visual quality of view transitions in automultiscopic displays. ACM Transactions on Graphics (Proceedings SIGGRAPH Asia 2014 Shenzhen China) 33 6. 10.1145/2661229.2661248",
+                "DOI": "10.1145/2661229.2661248",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1117/12.909410",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/2601097.2601144",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "first-page": "567",
+                "article-title": "Parallax stereogram and process of making same., Apr. 14",
+                "volume": "725",
+                "author": "Ives F.",
+                "year": "1903",
+                "journal-title": "US Patent"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/2782782.2792494",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/1882261.1866164",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1051/jphystap:019080070082100",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1364/AO.53.001339",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1016/j.cag.2013.10.003",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/1015706.1015805",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/2503368.2503371",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "author": "Nashel A.",
+                "year": "2009",
+                "volume-title": "Conference: The True Vision - Capture, Transmission and Display of 3D Video"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1109/TVCG.2007.70627",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "Ranieri N. Heinzle S. Smithwick Q. Reetz D. Smoot L. S. Matusik W. and Gross M. 2012. Multi-layered automultiscopic displays. Computer Graphics Forum 31 7pt2 2135--2143. 10.1111/j.1467-8659.2012.03206.x   Ranieri N. Heinzle S. Smithwick Q. Reetz D. Smoot L. S. Matusik W. and Gross M. 2012. Multi-layered automultiscopic displays. Computer Graphics Forum 31 7pt2 2135--2143. 10.1111/j.1467-8659.2012.03206.x",
+                "DOI": "10.1111/j.1467-8659.2012.03206.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "unstructured": "Takaki Y. and Nago N. 2010. Multi-projection of lenticular displays to construct a 256-view super multi-view display. Optics express 18 9 8824--8835.  Takaki Y. and Nago N. 2010. Multi-projection of lenticular displays to construct a 256-view super multi-view display. Optics express 18 9 8824--8835.",
+                "DOI": "10.1364/OE.18.008824",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1109/JPROC.2010.2098351",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/2010324.1964990",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/2185520.2185576",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "author": "Ye G.",
+                "volume-title": "Mixed and Augmented Reality (ISMAR), 2010 9th IEEE International Symposium on, IEEE, 147--156"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "Yi S.-Y. Chae H.-B. and Lee S.-H. 2008. Moving parallax barrier design for eye-tracking autostereoscopic displays. In 3DTV Conference: The True Vision-Capture Transmission and Display of 3D Video 2008 IEEE 165--168.  Yi S.-Y. Chae H.-B. and Lee S.-H. 2008. Moving parallax barrier design for eye-tracking autostereoscopic displays. In 3DTV Conference: The True Vision-Capture Transmission and Display of 3D Video 2008 IEEE 165--168.",
+                "DOI": "10.1109/3DTV.2008.4547834",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1109/TPAMI.2003.1201823",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925921&amp;ftid=1755889&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:43:17Z",
+            "timestamp": 1585964597000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "large scale automultiscopic display"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 24,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925921"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925921",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

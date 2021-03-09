@@ -1,0 +1,647 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    8,
+                    12
+                ]
+            ],
+            "date-time": "2020-08-12T12:50:39Z",
+            "timestamp": 1597236639359
+        },
+        "reference-count": 85,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2019,
+                            7,
+                            12
+                        ]
+                    ],
+                    "date-time": "2019-07-12T00:00:00Z",
+                    "timestamp": 1562889600000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100003977",
+                "name": "Israel Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "1046-14"
+                ]
+            },
+            {
+                "DOI": "10.13039/100000185",
+                "name": "Defense Advanced Research Projects Agency",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "HR0011-16-C-0028"
+                ]
+            },
+            {
+                "DOI": "10.13039/100010663",
+                "name": "H2020 European Research Council",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "635537"
+                ]
+            },
+            {
+                "DOI": "10.13039/100000001",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "CCF-1730147."
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "DOI": "10.1145/3306346.3322950",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2019-07-12T19:04:08Z",
+            "timestamp": 1562958248000
+        },
+        "page": "1-22",
+        "source": "Crossref",
+        "is-referenced-by-count": 2,
+        "title": [
+            "A Monte Carlo framework for rendering speckle statistics in scattering media"
+        ],
+        "prefix": "10.1145",
+        "volume": "38",
+        "author": [
+            {
+                "given": "Chen",
+                "family": "Bar",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Technion, Haifa, Israel"
+                    }
+                ]
+            },
+            {
+                "given": "Marina",
+                "family": "Alterman",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Technion, Haifa, Israel"
+                    }
+                ]
+            },
+            {
+                "given": "Ioannis",
+                "family": "Gkioulekas",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Carnegie Mellon University"
+                    }
+                ]
+            },
+            {
+                "given": "Anat",
+                "family": "Levin",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Technion, Haifa, Israel"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "Eric Akkermans and Gilles Montambaux. 2007. Mesoscopic Physics of Electrons and Photons. Cambridge University Press.  Eric Akkermans and Gilles Montambaux. 2007. Mesoscopic Physics of Electrons and Photons. Cambridge University Press.",
+                "DOI": "10.1017/CBO9780511618833",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "M. Batarseh S. Sukhov Z. Shen H. Gemar R. Rezvani and A. Dogariu. 2018. Passive sensing around the corner using spatial coherence. Nature Communications.  M. Batarseh S. Sukhov Z. Shen H. Gemar R. Rezvani and A. Dogariu. 2018. Passive sensing around the corner using spatial coherence. Nature Communications.",
+                "DOI": "10.1038/s41467-018-05985-w",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "unstructured": "Ibrahim Baydoun Diego Baresch Romain Pierrat and Arnaud Derode. 2016. Radiative transfer of acoustic waves in continuous complex media: Beyond the Helmholtz equation. Physical Review E.  Ibrahim Baydoun Diego Baresch Romain Pierrat and Arnaud Derode. 2016. Radiative transfer of acoustic waves in continuous complex media: Beyond the Helmholtz equation. Physical Review E.",
+                "DOI": "10.1103/PhysRevE.94.053005",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "Stephan Bergmann Mahsa Mohammadikaji Stephan Irgenfried Heinz Worn J\u00fcrgen Beyerer and Carsten Dachsbacher. 2016. A Phenomenological Approach to Integrating Gaussian Beam Properties and Speckle into a Physically-Based Renderer. In Vision Modeling & Visualization.   Stephan Bergmann Mahsa Mohammadikaji Stephan Irgenfried Heinz Worn J\u00fcrgen Beyerer and Carsten Dachsbacher. 2016. A Phenomenological Approach to Integrating Gaussian Beam Properties and Speckle into a Physically-Based Renderer. In Vision Modeling & Visualization."
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "Richard Berkovits and Shechao Feng. 1994. Correlations in coherent multiple scattering. Physics Reports (1994).  Richard Berkovits and Shechao Feng. 1994. Correlations in coherent multiple scattering. Physics Reports (1994)."
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "unstructured": "Bruce J Berne and Robert Pecora. 2000. Dynamic light scattering: with applications to chemistry biology and physics. Courier Corporation.  Bruce J Berne and Robert Pecora. 2000. Dynamic light scattering: with applications to chemistry biology and physics. Courier Corporation."
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1038/nature11578",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/3272127.3275103",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1364/JOSAA.14.000192",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "Craig F. Bohren and Donald R. Huffman. 1983. Absorption and scattering of light by small particle. John Wiley & Sons.  Craig F. Bohren and Donald R. Huffman. 1983. Absorption and scattering of light by small particle. John Wiley & Sons."
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/2231816.2231820",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "unstructured": "Eugene d'Eon. 2018a. A Reciprocal Formulation of Non-Exponential Radiative Transfer. 2: Monte Carlo Estimation and Diffusion Approximation. arXiv preprint arXiv:1809.05881.  Eugene d'Eon. 2018a. A Reciprocal Formulation of Non-Exponential Radiative Transfer. 2: Monte Carlo Estimation and Diffusion Approximation. arXiv preprint arXiv:1809.05881."
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "Eugene d'Eon. 2018b. A reciprocal formulation of non-exponential radiative transfer with uncorrelated sources detectors and boundaries. 1: Sketch and motivation. arXiv preprint arXiv:1803.03259.  Eugene d'Eon. 2018b. A reciprocal formulation of non-exponential radiative transfer with uncorrelated sources detectors and boundaries. 1: Sketch and motivation. arXiv preprint arXiv:1803.03259."
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Ronald L. Dougherty Bruce J. Ackerson N.M. Reguigui F. Dorri-Nowkoorani and Ulf Nobbmann. 1994. Correlation transfer: Development and application. J. of Quantitative Spectroscopy and Radiative Transfer.  Ronald L. Dougherty Bruce J. Ackerson N.M. Reguigui F. Dorri-Nowkoorani and Ulf Nobbmann. 1994. Correlation transfer: Development and application. J. of Quantitative Spectroscopy and Radiative Transfer.",
+                "DOI": "10.1016/0022-4073(94)90037-X",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1364/JOSAA.25.002088",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "Turgut Durduran Regine Choe Wesley B. Baker and Arjun G. Yodh. 2010. Diffuse optics for tissue monitoring and tomography. Reports on Progress in Physics.  Turgut Durduran Regine Choe Wesley B. Baker and Arjun G. Yodh. 2010. Diffuse optics for tissue monitoring and tomography. Reports on Progress in Physics.",
+                "DOI": "10.1088/0034-4885/73/7/076701",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "Philip Dutr\u00e9 Kavita Bala and Philippe Bekaert. 2006. Advanced global illumination. AK Peters Ltd.   Philip Dutr\u00e9 Kavita Bala and Philippe Bekaert. 2006. Advanced global illumination. AK Peters Ltd.",
+                "DOI": "10.1201/b10632",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "unstructured": "Robert Erf. 1978. Speckle Metrology. Elsevier.  Robert Erf. 1978. Speckle Metrology. Elsevier."
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "unstructured": "Shechao Feng Charles Kane Patrick A Lee and A Douglas Stone. 1988. Correlations and fluctuations of coherent wave transmission through disordered media. Physical review letters 61 7 834.  Shechao Feng Charles Kane Patrick A Lee and A Douglas Stone. 1988. Correlations and fluctuations of coherent wave transmission through disordered media. Physical review letters 61 7 834.",
+                "DOI": "10.1103/PhysRevLett.61.834",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1364/AO.21.002758",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "Isaac Freund. 1990. Looking through walls and around corners. Physica: Statistical Mechanics and its App.  Isaac Freund. 1990. Looking through walls and around corners. Physica: Statistical Mechanics and its App.",
+                "DOI": "10.1016/0378-4371(90)90357-X",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "unstructured": "Isaac Freund and Danny Eliyahu. 1992. Surface correlations in multiple-scattering media. Phys Rev A (1992).  Isaac Freund and Danny Eliyahu. 1992. Surface correlations in multiple-scattering media. Phys Rev A (1992)."
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1103/PhysRevLett.61.2328",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1364/JOSA.72.000052",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "unstructured": "Jeppe Revall Frisvad Niels J\u00f8rgen Christensen and Henrik Wann Jensen. 2007. Computing the scattering properties of participating media using Lorenz-Mie theory. SIGGRAPH.  Jeppe Revall Frisvad Niels J\u00f8rgen Christensen and Henrik Wann Jensen. 2007. Computing the scattering properties of participating media using Lorenz-Mie theory. SIGGRAPH.",
+                "DOI": "10.1145/1275808.1276452",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "unstructured": "Ioannis Gkioulekas Anat Levin and Todd Zickler. 2016. An Evaluation of Computational Imaging Techniques for Heterogeneous Inverse Scattering.  Ioannis Gkioulekas Anat Levin and Todd Zickler. 2016. An Evaluation of Computational Imaging Techniques for Heterogeneous Inverse Scattering.",
+                "DOI": "10.1007/978-3-319-46487-9_42",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "unstructured": "I. Gkioulekas S. Zhao K. Bala T. Zickler and A. Levin. 2013. Inverse Volume Rendering with Material Dictionaries. ACM Transactions on Graphics (Proc. ACM SIGGRAPH Asia) (2013). 10.1145/2508363.2508377   I. Gkioulekas S. Zhao K. Bala T. Zickler and A. Levin. 2013. Inverse Volume Rendering with Material Dictionaries. ACM Transactions on Graphics (Proc. ACM SIGGRAPH Asia) (2013). 10.1145/2508363.2508377"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "unstructured": "W. I. Goldburg. 1999. Dynamic light scattering. American Journal of Physics (1999).  W. I. Goldburg. 1999. Dynamic light scattering. American Journal of Physics (1999)."
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "Goodman. 2007. Speckle Phenomena in Optics: Theory and Applications. Roberts and Company Pub.  Goodman. 2007. Speckle Phenomena in Optics: Theory and Applications. Roberts and Company Pub."
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "unstructured": "Vadim Holodovski Yoav Y. Schechner Anat Levin Aviad Levis and Amit Aides. 2016. In-situ multi-view multi-scattering stochastic tomography. In ICCP.  Vadim Holodovski Yoav Y. Schechner Anat Levin Aviad Levis and Amit Aides. 2016. In-situ multi-view multi-scattering stochastic tomography. In ICCP.",
+                "DOI": "10.1109/ICCPHOT.2016.7492869",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "unstructured": "Y.A. Ilyushin. 2012. Coherent backscattering enhancement in highly anisotropically scattering media: Numerical solution. Journal of Quantitative Spectroscopy and Radiative Transfer (2012).  Y.A. Ilyushin. 2012. Coherent backscattering enhancement in highly anisotropically scattering media: Numerical solution. Journal of Quantitative Spectroscopy and Radiative Transfer (2012).",
+                "DOI": "10.1016/j.jqsrt.2011.12.003",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "unstructured": "Akira Ishimaru. 1999. Wave propagation and scattering in random media. Vol. 12. John Wiley & Sons.  Akira Ishimaru. 1999. Wave propagation and scattering in random media. Vol. 12. John Wiley & Sons.",
+                "DOI": "10.1109/9780470547045",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "unstructured": "P. Jacquot and J. M. Fournier. 2000. Interferometry in Speckle Light. Springer.  P. Jacquot and J. M. Fournier. 2000. Interferometry in Speckle Light. Springer.",
+                "DOI": "10.1007/978-3-642-57323-1",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "unstructured": "Pierre Jacquot and Pramod K. Rastogi. 1979. Speckle motions induced by rigid-body movements in free-space geometry: an explicit investigation and extension to new cases. Appl. Opt. (1979).  Pierre Jacquot and Pramod K. Rastogi. 1979. Speckle motions induced by rigid-body movements in free-space geometry: an explicit investigation and extension to new cases. Appl. Opt. (1979)."
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "unstructured": "Wenzel Jakob. 2010. Mitsuba renderer. http://www.mitsuba-renderer.org.  Wenzel Jakob. 2010. Mitsuba renderer. http://www.mitsuba-renderer.org."
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1145/1778765.1778790",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "unstructured": "M. L. Jakobsen H. T. Yura and S. G. Hanson. 2012. Spatial filtering velocimetry of objective speckles for measuring out-of-plane motion. Appl. Opt. (2012).  M. L. Jakobsen H. T. Yura and S. G. Hanson. 2012. Spatial filtering velocimetry of objective speckles for measuring out-of-plane motion. Appl. Opt. (2012)."
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1145/3197517.3201282",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "author": "Jarabo Adrian",
+                "volume-title": "Computer Graphics Forum"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "unstructured": "O. Katz P. Heidmann M. Fink and S. Gigan. 2014. Non-invasive single-shot imaging through scattering layers and around corners via speckle correlation. Nat. Photonics (2014).  O. Katz P. Heidmann M. Fink and S. Gigan. 2014. Non-invasive single-shot imaging through scattering layers and around corners via speckle correlation. Nat. Photonics (2014)."
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "unstructured": "O. Katz E. Small and Y. Silberberg. 2012. Looking around corners and through thin turbid layers in real time with scattered incoherent light. Nature (2012).  O. Katz E. Small and Y. Silberberg. 2012. Looking around corners and through thin turbid layers in real time with scattered incoherent light. Nature (2012)."
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "unstructured": "Guillermo H. Kaufmann. 2011. Advances in Speckle Metrology and Related Techniques. Wiley.  Guillermo H. Kaufmann. 2011. Advances in Speckle Metrology and Related Techniques. Wiley.",
+                "DOI": "10.1002/9783527633852",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1145/3072959.3073665",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "unstructured": "Aviad Levis Yoav Y. Schechner Amit Aides and Anthony B. Davis. 2015. Airborne three-dimensional cloud tomography. In ICCV. 10.1109/ICCV.2015.386   Aviad Levis Yoav Y. Schechner Amit Aides and Anthony B. Davis. 2015. Airborne three-dimensional cloud tomography. In ICCV. 10.1109/ICCV.2015.386",
+                "DOI": "10.1109/ICCV.2015.386",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "author": "Li J. H.",
+                "year": "1994",
+                "article-title": "Correlation in laser speckle",
+                "journal-title": "Phys. Rev. E 49"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "unstructured": "Qiang Lu Xiaosong Gan Min Gu and Qingming Luo. 2004. Monte Carlo modeling of optical coherence tomography imaging through turbid media. Applied optics 43 8 (2004) 1628--1637.  Qiang Lu Xiaosong Gan Min Gu and Qingming Luo. 2004. Monte Carlo modeling of optical coherence tomography imaging through turbid media. Applied optics 43 8 (2004) 1628--1637."
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "DOI": "10.1145/2766949",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "DOI": "10.1117/1.JBO.18.11.117010",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "unstructured": "M.I. Mishchenko L.D. Travis and A.A. Lacis. 2006. Multiple scattering of light by particles: radiative transfer and coherent backscattering. Cambridge Univ Pr.  M.I. Mishchenko L.D. Travis and A.A. Lacis. 2006. Multiple scattering of light by particles: radiative transfer and coherent backscattering. Cambridge Univ Pr."
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "DOI": "10.5555/2383847.2383878",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "unstructured": "Allard P. Mosk Ad Lagendijk Geoffroy Lerosey and Mathias Fink. 2013. Controlling waves in space and time for imaging and focusing in complex media. Nat. Photonics (2013).  Allard P. Mosk Ad Lagendijk Geoffroy Lerosey and Mathias Fink. 2013. Controlling waves in space and time for imaging and focusing in complex media. Nat. Photonics (2013)."
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "DOI": "10.1145/2980179.2982429",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "DOI": "10.1145/1141911.1141986",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "unstructured": "Micha Nixon Ori Katz Eran Small Yaron Bromberg Asher A. Friesem Yaron Silberberg and Nir Davidson. 2013. Real-time wavefront shaping through scattering media by all-optical feedback. Nat. Photonics (2013).  Micha Nixon Ori Katz Eran Small Yaron Bromberg Asher A. Friesem Yaron Silberberg and Nir Davidson. 2013. Real-time wavefront shaping through scattering media by all-optical feedback. Nat. Photonics (2013).",
+                "DOI": "10.1038/nphoton.2013.248",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_55_1",
+                "unstructured": "Jan Novak Iliyan Georgiev Johannes Hanika and Wojciech Jarosz. 2018. Monte Carlo Methods for Volumetric Light Transport Simulation. Computer Graphics Forum (2018).  Jan Novak Iliyan Georgiev Johannes Hanika and Wojciech Jarosz. 2018. Monte Carlo Methods for Volumetric Light Transport Simulation. Computer Graphics Forum (2018).",
+                "DOI": "10.1111/cgf.13383",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_56_1",
+                "DOI": "10.1364/OPTICA.4.000886",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_57_1",
+                "unstructured": "Yingtian Pan Reginald Birngruber J\u00fcrgen Rosperich and Ralf Engelhardt. 1995. Low-coherence optical tomography in turbid tissue: theoretical analysis. Applied optics 34 28 (1995) 6564--6574.  Yingtian Pan Reginald Birngruber J\u00fcrgen Rosperich and Ralf Engelhardt. 1995. Low-coherence optical tomography in turbid tissue: theoretical analysis. Applied optics 34 28 (1995) 6564--6574.",
+                "DOI": "10.1364/AO.34.006564",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_58_1",
+                "unstructured": "Matt Pharr Wenzel Jakob and Greg Humphreys. 2016. Physically based rendering: From theory to implementation. Morgan Kaufmann.   Matt Pharr Wenzel Jakob and Greg Humphreys. 2016. Physically based rendering: From theory to implementation. Morgan Kaufmann."
+            },
+            {
+                "key": "e_1_2_2_59_1",
+                "DOI": "10.1364/JOSAA.22.002329",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_60_1",
+                "unstructured": "DJ Pine DA Weitz PM Chaikin and E Herbolzheimer. 1988. Diffusing wave spectroscopy. Physical review letters 60 12 (1988) 1134.  DJ Pine DA Weitz PM Chaikin and E Herbolzheimer. 1988. Diffusing wave spectroscopy. Physical review letters 60 12 (1988) 1134.",
+                "DOI": "10.1103/PhysRevLett.60.1134",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_61_1",
+                "DOI": "10.1364/OE.16.005728",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_62_1",
+                "DOI": "10.1364/JOSAA.14.001231",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_63_1",
+                "unstructured": "Schott Bertolotti L\u00e9ger Bourdieu and Gigan. 2015. Characterization of the angular memory effect of scattered light in biological tissues. Opt. Express (2015).  Schott Bertolotti L\u00e9ger Bourdieu and Gigan. 2015. Characterization of the angular memory effect of scattered light in biological tissues. Opt. Express (2015)."
+            },
+            {
+                "key": "e_1_2_2_64_1",
+                "DOI": "10.1364/JOSAA.34.002189",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_65_1",
+                "unstructured": "Brandon M. Smith Pratham Desai Vishal Agarwal and Mohit Gupta. 2017. CoLux: Multi-object 3D Micro-motion Analysis Using Speckle Imaging. ACM Trans. Graph. (2017). 10.1145/3072959.3073607   Brandon M. Smith Pratham Desai Vishal Agarwal and Mohit Gupta. 2017. CoLux: Multi-object 3D Micro-motion Analysis Using Speckle Imaging. ACM Trans. Graph . (2017). 10.1145/3072959.3073607"
+            },
+            {
+                "key": "e_1_2_2_66_1",
+                "unstructured": "J. Stam. 1999. Diffraction shaders. In SIGGRAPH. 10.1145/311535.311546   J. Stam. 1999. Diffraction shaders. In SIGGRAPH. 10.1145/311535.311546"
+            },
+            {
+                "key": "e_1_2_2_67_1",
+                "DOI": "10.1145/1073204.1073309",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_68_1",
+                "unstructured": "F. Sur B. Blaysat and M. Grediac. 2018. Rendering deformed speckle images with a Boolean model. Journal of Mathematical Imaging and Vision (2018). 10.1007/s10851-017-0779-4   F. Sur B. Blaysat and M. Grediac. 2018. Rendering deformed speckle images with a Boolean model. Journal of Mathematical Imaging and Vision (2018). 10.1007/s10851-017-0779-4"
+            },
+            {
+                "key": "e_1_2_2_69_1",
+                "DOI": "10.1016/j.cpc.2015.03.013",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_70_1",
+                "unstructured": "B. E. Treeby and B. T. Cox. 2010. k-Wave: MATLAB toolbox for the simulation and reconstruction of photoacoustic wave-fields . J. Biomed. Opt. (2010).  B. E. Treeby and B. T. Cox. 2010. k-Wave: MATLAB toolbox for the simulation and reconstruction of photoacoustic wave-fields . J. Biomed. Opt. (2010)."
+            },
+            {
+                "key": "e_1_2_2_71_1",
+                "DOI": "10.1090/psapm/016/0163605",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_72_1",
+                "unstructured": "E. Veach. 1997. Robust Monte Carlo methods for light transport simulation. Ph.D. Dissertation. PhD thesis Stanford University.   E. Veach. 1997. Robust Monte Carlo methods for light transport simulation. Ph.D. Dissertation. PhD thesis Stanford University."
+            },
+            {
+                "key": "e_1_2_2_73_1",
+                "author": "Veach Eric",
+                "volume-title": "Photorealistic Rendering Techniques"
+            },
+            {
+                "key": "e_1_2_2_74_1",
+                "DOI": "10.1145/218380.218498",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_75_1",
+                "DOI": "10.1145/258734.258775",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_76_1",
+                "DOI": "10.1364/OL.35.001245",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_77_1",
+                "DOI": "10.1145/1531326.1531398",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_78_1",
+                "unstructured": "Sebastian Werner Zdravko Velinov Wenzel Jakob and Matthias B. Hullin. 2017. Scratch Iridescence: Wave-Optical Rendering of Diffractive Surface Structure. ACM SIGGRAPH Asia (2017). 10.1145/3130800.3130840   Sebastian Werner Zdravko Velinov Wenzel Jakob and Matthias B. Hullin. 2017. Scratch Iridescence: Wave-Optical Rendering of Diffractive Surface Structure. ACM SIGGRAPH Asia (2017). 10.1145/3130800.3130840"
+            },
+            {
+                "key": "e_1_2_2_79_1",
+                "DOI": "10.1016/0021-9991(89)90067-3",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_80_1",
+                "DOI": "10.1364/OPEX.12.006530",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_81_1",
+                "DOI": "10.1145/3197517.3201351",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_82_1",
+                "first-page": "3",
+                "article-title": "Imaging blood cells through scattering biological tissue using speckle scanning microscopy",
+                "volume": "22",
+                "author": "Yang Xin",
+                "year": "2014",
+                "journal-title": "Opt. Express"
+            },
+            {
+                "key": "e_1_2_2_83_1",
+                "unstructured": "K. Yee. 1966. Numerical solution of initial boundary value problems involving Maxwell's equations in isotropic media. EEE Trans. on Antennas and Propagation (1966).  K. Yee. 1966. Numerical solution of initial boundary value problems involving Maxwell's equations in isotropic media. EEE Trans. on Antennas and Propagation (1966)."
+            },
+            {
+                "key": "e_1_2_2_84_1",
+                "unstructured": "Hengchin Yeh Ravish Mehra Zhimin Ren Lakulish Antani Dinesh Manocha and Ming Lin. 2013. Wave-ray Coupling for Interactive Sound Propagation in Large Complex Scenes. ACM Trans. Graph. (2013). 10.1145/2508363.2508420   Hengchin Yeh Ravish Mehra Zhimin Ren Lakulish Antani Dinesh Manocha and Ming Lin. 2013. Wave-ray Coupling for Interactive Sound Propagation in Large Complex Scenes. ACM Trans. Graph. (2013). 10.1145/2508363.2508420"
+            },
+            {
+                "key": "e_1_2_2_85_1",
+                "DOI": "10.1145/2601097.2601104",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3322950&ftid=2071641&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2020-07-12T19:21:51Z",
+            "timestamp": 1594581711000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "references-count": 85,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        12
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3306346.3322950"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3306346.3322950",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

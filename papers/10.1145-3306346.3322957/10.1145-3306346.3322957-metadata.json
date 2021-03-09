@@ -1,0 +1,677 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    6,
+                    7
+                ]
+            ],
+            "date-time": "2020-06-07T01:43:46Z",
+            "timestamp": 1591494226546
+        },
+        "reference-count": 90,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2019,
+                            7,
+                            12
+                        ]
+                    ],
+                    "date-time": "2019-07-12T00:00:00Z",
+                    "timestamp": 1562889600000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100000001",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "IIS-1652515,OAC:1835712"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100001711",
+                "name": "Schweizerischer Nationalfonds zur F\u00f6rderung der Wissenschaftlichen Forschung",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "200021_162958"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "DOI": "10.1145/3306346.3322957",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2019-07-12T19:04:08Z",
+            "timestamp": 1562958248000
+        },
+        "page": "1-15",
+        "source": "Crossref",
+        "is-referenced-by-count": 7,
+        "title": [
+            "Interactive hand pose estimation using a stretch-sensing soft glove"
+        ],
+        "prefix": "10.1145",
+        "volume": "38",
+        "author": [
+            {
+                "given": "Oliver",
+                "family": "Glauser",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "ETH Zurich, Switzerland"
+                    }
+                ]
+            },
+            {
+                "given": "Shihao",
+                "family": "Wu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "ETH Zurich, Switzerland"
+                    }
+                ]
+            },
+            {
+                "given": "Daniele",
+                "family": "Panozzo",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "New York University"
+                    }
+                ]
+            },
+            {
+                "given": "Otmar",
+                "family": "Hilliges",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "ETH Zurich, Switzerland"
+                    }
+                ]
+            },
+            {
+                "given": "Olga",
+                "family": "Sorkine-Hornung",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "ETH Zurich, Switzerland"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_1_1_1",
+                "unstructured": "2018 Bando. https://www.youtube.com/watch?v=2XskNHtarj0.  2018 Bando. https://www.youtube.com/watch?v=2XskNHtarj0."
+            },
+            {
+                "key": "e_1_2_1_2_1",
+                "unstructured": "2019 5DT Glove. http://www.5dt.com/data-gloves/.  2019 5DT Glove. http://www.5dt.com/data-gloves/."
+            },
+            {
+                "key": "e_1_2_1_3_1",
+                "unstructured": "2019 CyberGlove. http://www.cyberglovesystems.com/.  2019 CyberGlove. http://www.cyberglovesystems.com/."
+            },
+            {
+                "key": "e_1_2_1_4_1",
+                "unstructured": "2019 HT2 Textile Glue. https://consumer.guetermann.com/en/product-finder/textile-glue-ht2.  2019 HT2 Textile Glue. https://consumer.guetermann.com/en/product-finder/textile-glue-ht2."
+            },
+            {
+                "key": "e_1_2_1_5_1",
+                "unstructured": "2019 HTC Vive Tracker. https://www.vive.com/eu/vive-tracker/.  2019 HTC Vive Tracker. https://www.vive.com/eu/vive-tracker/."
+            },
+            {
+                "key": "e_1_2_1_6_1",
+                "unstructured": "2019 Imerys ENSACO 250G. http://www.imerys-graphite-and-carbon.com/wordpress/wp-app/uploads/2014/04/Polymer<sub>c</sub>ompounds1.pdf.  2019 Imerys ENSACO 250G. http://www.imerys-graphite-and-carbon.com/wordpress/wp-app/uploads/2014/04/Polymer<sub>c</sub>ompounds1.pdf."
+            },
+            {
+                "key": "e_1_2_1_7_1",
+                "unstructured": "2019 Intel Real Sense SR3000. https://software.intel.com/en-us/realsense/sr300.  2019 Intel Real Sense SR3000. https://software.intel.com/en-us/realsense/sr300."
+            },
+            {
+                "key": "e_1_2_1_8_1",
+                "unstructured": "2019 ManusVR glove. https://manus-vr.odoo.com/hardware.  2019 ManusVR glove. https://manus-vr.odoo.com/hardware."
+            },
+            {
+                "key": "e_1_2_1_9_1",
+                "unstructured": "2019a. Sil-PoxySilicone Adhesive. https://www.smooth-on.com/product-line/sil-poxy/.  2019a. Sil-PoxySilicone Adhesive. https://www.smooth-on.com/product-line/sil-poxy/."
+            },
+            {
+                "key": "e_1_2_1_10_1",
+                "unstructured": "2019b. Silbione RTV 4420. https://silicones.elkem.com/EN/our<sub>o</sub>ffer/Product/90060082/90060081/SILBIONE-RTV-4420-B-U1.  2019b. Silbione RTV 4420. https://silicones.elkem.com/EN/our<sub>o</sub>ffer/Product/90060082/90060081/SILBIONE-RTV-4420-B-U1."
+            },
+            {
+                "key": "e_1_2_1_11_1",
+                "unstructured": "2019 Stretchsense. https://www.youtube.com/watch?v=XJCqdpzxMME.  2019 Stretchsense. https://www.youtube.com/watch?v=XJCqdpzxMME."
+            },
+            {
+                "key": "e_1_2_1_12_1",
+                "unstructured": "2019 Vicon. http://www.vicon.com.  2019 Vicon. http://www.vicon.com."
+            },
+            {
+                "key": "e_1_2_1_13_1",
+                "unstructured": "2019 VPL Data Glove. https://www.britannica.com/technology/VPL-DataGlove.  2019 VPL Data Glove. https://www.britannica.com/technology/VPL-DataGlove."
+            },
+            {
+                "key": "e_1_2_1_14_1",
+                "DOI": "10.1021/acsami.5b04975",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_15_1",
+                "unstructured": "Asli Atalay Vanessa Sanchez Ozgur Atalay Daniel M. Vogt Florian Haufe Robert J. Wood and Conor J. Walsh. 2017. Batch Fabrication of Customizable Silicone-Textile Composite Capacitive Strain Sensors for Human Motion Tracking. Advanced Materials Technologies 2 9 (2017).  Asli Atalay Vanessa Sanchez Ozgur Atalay Daniel M. Vogt Florian Haufe Robert J. Wood and Conor J. Walsh. 2017. Batch Fabrication of Customizable Silicone-Textile Composite Capacitive Strain Sensors for Human Motion Tracking. Advanced Materials Technologies 2 9 (2017).",
+                "DOI": "10.1002/admt.201700136",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_16_1",
+                "DOI": "10.1007/978-3-642-33783-3_46",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_17_1",
+                "author": "Cai Yujun",
+                "volume-title": "Proc"
+            },
+            {
+                "key": "e_1_2_1_18_1",
+                "DOI": "10.1145/2207676.2208639",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_19_1",
+                "DOI": "10.1145/2858036.2858125",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_20_1",
+                "DOI": "10.1109/ICRA.2015.7139544",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_21_1",
+                "author": "Chou Te-Shun",
+                "year": "2000",
+                "volume-title": "Proc. Human Interface Technologies."
+            },
+            {
+                "key": "e_1_2_1_22_1",
+                "unstructured": "Simone Ciotti Edoardo Battaglia Nicola Carbonaro Antonio Bicchi Alessandro Tognetti and Matteo Bianchi. 2016. A Synergy-Based Optimally Designed Sensing Glove for Functional Grasp Recognition. Sensors 16 (06 2016) 811.  Simone Ciotti Edoardo Battaglia Nicola Carbonaro Antonio Bicchi Alessandro Tognetti and Matteo Bianchi. 2016. A Synergy-Based Optimally Designed Sensing Glove for Functional Grasp Recognition. Sensors 16 (06 2016) 811.",
+                "DOI": "10.3390/s16060811",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_23_1",
+                "first-page": "3",
+                "article-title": "IMU Sensor-Based Electronic Goniometric Glove for Clinical Finger Movement Analysis",
+                "volume": "18",
+                "author": "Connolly James",
+                "year": "2018",
+                "journal-title": "IEEE Sensors Journal"
+            },
+            {
+                "key": "e_1_2_1_24_1",
+                "DOI": "10.1109/TSMCC.2008.923862",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_25_1",
+                "DOI": "10.1016/j.cviu.2006.10.012",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_26_1",
+                "unstructured": "Bin Fang Fuchun Sun Huaping Liu and Di Guo. 2017. Development of a Wearable Device for Motion Capturing Based on Magnetic and Inertial Measurement Units. Scientific Programming 2017 (01 2017) 1--11. 10.1155/2017/7594763   Bin Fang Fuchun Sun Huaping Liu and Di Guo. 2017. Development of a Wearable Device for Motion Capturing Based on Magnetic and Inertial Measurement Units. Scientific Programming 2017 (01 2017) 1--11. 10.1155/2017/7594763",
+                "DOI": "10.1155/2017/7594763",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_27_1",
+                "author": "Fischer Max",
+                "volume": "2",
+                "volume-title": "Proc. ICRA"
+            },
+            {
+                "key": "e_1_2_1_28_1",
+                "DOI": "10.1109/CVPR.2017.602",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_29_1",
+                "unstructured": "Reinhard Gentner and Joseph Classen. 2008. Development and evaluation of a low-cost sensor glove for assessment of human finger movements in neurophysiological settings. Journal of neuroscience methods 178 (12 2008) 138--47.  Reinhard Gentner and Joseph Classen. 2008. Development and evaluation of a low-cost sensor glove for assessment of human finger movements in neurophysiological settings. Journal of neuroscience methods 178 (12 2008) 138--47.",
+                "DOI": "10.1016/j.jneumeth.2008.11.005",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_30_1",
+                "unstructured": "Oliver Glauser Daniele Panozzo Otmar Hilliges and Olga Sorkine-Hornung. 2019. Deformation Capture via Soft and Stretchable Sensor Arrays. ACM Transactions on Graphics 38 (03 2019) 1--16. 10.1145/3311972   Oliver Glauser Daniele Panozzo Otmar Hilliges and Olga Sorkine-Hornung. 2019. Deformation Capture via Soft and Stretchable Sensor Arrays. ACM Transactions on Graphics 38 (03 2019) 1--16. 10.1145/3311972",
+                "DOI": "10.1145/3311972",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_31_1",
+                "author": "Glorot Xavier",
+                "year": "2010",
+                "volume-title": "Proc. of the Int. Conf. on Artificial Intelligence and Statistics. 249--256"
+            },
+            {
+                "key": "e_1_2_1_32_1",
+                "author": "Griffin Weston",
+                "year": "2000",
+                "volume-title": "ASME IMECE Symposium on Haptic Interfaces for Virtual Environments and Teleoperator Systems."
+            },
+            {
+                "key": "e_1_2_1_33_1",
+                "DOI": "10.1109/IROS.2014.6943125",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_34_1",
+                "DOI": "10.1145/3197517.3201399",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_35_1",
+                "DOI": "10.1109/CVPR.2016.90",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_36_1",
+                "DOI": "10.1145/3242587.3242657",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_37_1",
+                "first-page": "4571",
+                "article-title": "Calibrating human hand for teleoperating the HIT/DLR hand",
+                "volume": "5",
+                "author": "Hu Haiying",
+                "year": "2004",
+                "journal-title": "Proc. ICRA"
+            },
+            {
+                "key": "e_1_2_1_38_1",
+                "DOI": "10.1145/3272127.3275108",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_39_1",
+                "unstructured": "Umar Iqbal Pavlo Molchanov Thomas Breuel Juergen Gall and Jan Kautz. 2018. Hand Pose Estimation via Latent 2.5 D Heatmap Regression. arXiv preprint arXiv:1804.09534 (2018).  Umar Iqbal Pavlo Molchanov Thomas Breuel Juergen Gall and Jan Kautz. 2018. Hand Pose Estimation via Latent 2.5 D Heatmap Regression. arXiv preprint arXiv:1804.09534 (2018).",
+                "DOI": "10.1007/978-3-030-01252-6_8",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_40_1",
+                "author": "Isola Phillip",
+                "volume-title": "Proc. CVPR."
+            },
+            {
+                "key": "e_1_2_1_41_1",
+                "unstructured": "Lisa K Simone Nappinnai Sundarrajan Xun Luo Yicheng Jia and Derek Kamper. 2007. A low cost instrumented glove for extended monitoring and functional hand assessment. Journal of neuroscience methods 160 (04 2007) 335--48.  Lisa K Simone Nappinnai Sundarrajan Xun Luo Yicheng Jia and Derek Kamper. 2007. A low cost instrumented glove for extended monitoring and functional hand assessment. Journal of neuroscience methods 160 (04 2007) 335--48.",
+                "DOI": "10.1016/j.jneumeth.2006.09.021",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_42_1",
+                "author": "Kahlesz Ferenc",
+                "year": "2004",
+                "volume-title": "Computer Graphics International"
+            },
+            {
+                "key": "e_1_2_1_43_1",
+                "DOI": "10.1145/212430.212431",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_44_1",
+                "DOI": "10.1145/2380116.2380139",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_45_1",
+                "DOI": "10.1109/IROS.2011.6094701",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_46_1",
+                "unstructured": "Bor-Shing Lin I-Jung Lee Shu-Yu Yang Yi-Chiang Lo Junghsi Lee and Jean-Lon Chen. 2018. Design of an Inertial-Sensor-Based Data Glove for Hand Function Evaluation. Sensors 18 (05 2018) 1545.  Bor-Shing Lin I-Jung Lee Shu-Yu Yang Yi-Chiang Lo Junghsi Lee and Jean-Lon Chen. 2018. Design of an Inertial-Sensor-Based Data Glove for Hand Function Evaluation. Sensors 18 (05 2018) 1545.",
+                "DOI": "10.3390/s18051545",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_47_1",
+                "unstructured": "Federico Lorussi Enzo Pasquale Scilingo Mario Tesconi Alessandro Tognetti and Danilo De Rossi. 2005. Strain sensing fabric for hand posture and gesture monitoring. IEEE transactions on information technology in biomedicine 9 3 (2005) 372--381. 10.1109/TITB.2005.854510   Federico Lorussi Enzo Pasquale Scilingo Mario Tesconi Alessandro Tognetti and Danilo De Rossi. 2005. Strain sensing fabric for hand posture and gesture monitoring. IEEE transactions on information technology in biomedicine 9 3 (2005) 372--381. 10.1109/TITB.2005.854510",
+                "DOI": "10.1109/TITB.2005.854510",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_48_1",
+                "unstructured": "Anil Menon B. Barnes R. Mills Cynthia Bruyns Xander Twombly J. Smith Kevin Montgomery and Richard D. Boyle. 2003. Using Registration Calibration and Robotics to Build a More Accurate Virtual Reality Simulation for Astronaut Training and Telemedicine. In WSCG.  Anil Menon B. Barnes R. Mills Cynthia Bruyns Xander Twombly J. Smith Kevin Montgomery and Richard D. Boyle. 2003. Using Registration Calibration and Robotics to Build a More Accurate Virtual Reality Simulation for Astronaut Training and Telemedicine. In WSCG."
+            },
+            {
+                "key": "e_1_2_1_49_1",
+                "DOI": "10.1109/IROS.2016.7759492",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_50_1",
+                "DOI": "10.1109/CVPR.2018.00013",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_51_1",
+                "DOI": "10.1109/ICCVW.2017.75",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_52_1",
+                "unstructured": "Markus Oberweger Paul Wohlhart and Vincent Lepetit. 2015. Hands deep in deep learning for hand pose estimation. arXiv preprint arXiv:1502.06807 (2015).  Markus Oberweger Paul Wohlhart and Vincent Lepetit. 2015. Hands deep in deep learning for hand pose estimation. arXiv preprint arXiv:1502.06807 (2015)."
+            },
+            {
+                "key": "e_1_2_1_53_1",
+                "author": "O'Brien Ben",
+                "volume": "9056",
+                "year": "2014",
+                "volume-title": "Proc. SPIE"
+            },
+            {
+                "key": "e_1_2_1_54_1",
+                "DOI": "10.1371/journal.pone.0179766",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_55_1",
+                "DOI": "10.5244/C.25.101",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_56_1",
+                "DOI": "10.1109/ICCV.2011.6126483",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_57_1",
+                "unstructured": "Wookeun Park Kyongkwan Ro Suin Kim and Joonbum Bae. 2017. A Soft Sensor-Based Three-Dimensional (3-D) Finger Motion Measurement System. Sensors (Basel Switzerland) 17 2 (02 2017) 420.  Wookeun Park Kyongkwan Ro Suin Kim and Joonbum Bae. 2017. A Soft Sensor-Based Three-Dimensional (3-D) Finger Motion Measurement System. Sensors (Basel Switzerland) 17 2 (02 2017) 420.",
+                "DOI": "10.3390/s17020420",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_58_1",
+                "DOI": "10.1016/j.robot.2014.08.014",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_59_1",
+                "unstructured": "Adnan Rashid and Osman Hasan. 2018. Wearable technologies for hand joints monitoring for rehabilitation: A survey. Microelectronics Journal (02 2018).  Adnan Rashid and Osman Hasan. 2018. Wearable technologies for hand joints monitoring for rehabilitation: A survey. Microelectronics Journal (02 2018)."
+            },
+            {
+                "key": "e_1_2_1_60_1",
+                "DOI": "10.1145/3130800.3130883",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_61_1",
+                "DOI": "10.1007/978-3-319-24574-4_28",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_62_1",
+                "DOI": "10.1088/1361-665X/aab7cc",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_63_1",
+                "DOI": "10.1145/1622176.1622208",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_64_1",
+                "DOI": "10.1145/2702123.2702179",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_65_1",
+                "DOI": "10.1109/RCAR.2016.7784006",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_66_1",
+                "DOI": "10.1109/CVPR.2017.494",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_67_1",
+                "DOI": "10.1109/CVPR.2016.450",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_68_1",
+                "DOI": "10.1109/CVPR.2018.00017",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_69_1",
+                "DOI": "10.1109/ICCV.2013.305",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_70_1",
+                "unstructured": "Jan Steffen Jonathan Maycock Helge Ritter Honghai Liu and Daniel Schilberg. 2011. Robust Dataglove Mapping for Recording Human Hand Postures. In Intelligent Robotics and Applications. 10.1007/978-3-642-25489-5_4   Jan Steffen Jonathan Maycock Helge Ritter Honghai Liu and Daniel Schilberg. 2011. Robust Dataglove Mapping for Recording Human Hand Postures. In Intelligent Robotics and Applications. 10.1007/978-3-642-25489-5_4"
+            },
+            {
+                "key": "e_1_2_1_71_1",
+                "DOI": "10.1109/CVPR.2015.7298683",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_72_1",
+                "DOI": "10.1111/cgf.12700",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_73_1",
+                "DOI": "10.1109/CVPR.2014.490",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_74_1",
+                "DOI": "10.1109/ICCV.2015.380",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_75_1",
+                "DOI": "10.1109/ICCV.2013.400",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_76_1",
+                "DOI": "10.1145/2897824.2925965",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_77_1",
+                "DOI": "10.1145/3130800.3130853",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_78_1",
+                "DOI": "10.1145/2980179.2980226",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_79_1",
+                "DOI": "10.1145/3130800.3130830",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_80_1",
+                "DOI": "10.1145/2629500",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_81_1",
+                "DOI": "10.1145/3274783.3274854",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_82_1",
+                "DOI": "10.1111/cgf.13131",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_83_1",
+                "DOI": "10.1109/CVPR.2017.132",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_84_1",
+                "DOI": "10.1007/978-3-319-46487-9_34",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_85_1",
+                "DOI": "10.1145/1531326.1531369",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_86_1",
+                "DOI": "10.1145/2485895.2485901",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_87_1",
+                "unstructured": "Jiawei Zhang Jianbo Jiao Mingliang Chen Liangqiong Qu Xiaobin Xu and Qingxiong Yang. 2016. 3D Hand Pose Tracking and Estimation Using Stereo Matching. arXiv preprint arXiv:1610.07214 (2016).  Jiawei Zhang Jianbo Jiao Mingliang Chen Liangqiong Qu Xiaobin Xu and Qingxiong Yang. 2016. 3D Hand Pose Tracking and Estimation Using Stereo Matching. arXiv preprint arXiv:1610.07214 (2016)."
+            },
+            {
+                "key": "e_1_2_1_88_1",
+                "unstructured": "Yang Zheng Yu Peng Gang Wang Xinrong Liu Xiaotong Dong and Jue Wang. 2016. Development and evaluation of a sensor glove for hand function assessment and preliminary attempts at assessing hand coordination. Measurement 93 (06 2016).  Yang Zheng Yu Peng Gang Wang Xinrong Liu Xiaotong Dong and Jue Wang. 2016. Development and evaluation of a sensor glove for hand function assessment and preliminary attempts at assessing hand coordination. Measurement 93 (06 2016).",
+                "DOI": "10.1016/j.measurement.2016.06.059",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_89_1",
+                "DOI": "10.1109/TIM.2010.2057712",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_90_1",
+                "DOI": "10.1109/ICCV.2017.525",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3322957&ftid=2071642&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    5,
+                    5
+                ]
+            ],
+            "date-time": "2020-05-05T17:11:46Z",
+            "timestamp": 1588698706000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "references-count": 90,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        12
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3306346.3322957"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3306346.3322957",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

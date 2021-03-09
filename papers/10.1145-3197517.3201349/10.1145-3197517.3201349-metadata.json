@@ -1,0 +1,484 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T07:43:27Z",
+            "timestamp": 1585986207272
+        },
+        "reference-count": 55,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100003185",
+                "name": "Fraunhofer-Gesellschaft",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "Attract 008- 600075"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100007601",
+                "name": "Horizon 2020",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "665091"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201349",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 5,
+        "title": [
+            "3D printing spatially varying color and translucency"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Alan",
+                "family": "Brunton",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Fraunhofer IGD"
+                    }
+                ]
+            },
+            {
+                "given": "Can Ates",
+                "family": "Arikan",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Fraunhofer IGD"
+                    }
+                ]
+            },
+            {
+                "given": "Tejas Madan",
+                "family": "Tanksale",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Fraunhofer IGD"
+                    }
+                ]
+            },
+            {
+                "given": "Philipp",
+                "family": "Urban",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Fraunhofer IGD and Norwegian University of Science and Technology NTNU"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "3DSystems. 2014. Projet 860Pro. http://www.3dsystems.com/3d-printers/professional/projet-860pro. (2014).  3DSystems. 2014. Projet 860Pro. http://www.3dsystems.com/3d-printers/professional/projet-860pro. (2014)."
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "Marc Alexa Kristian Hildebrand and Sylvain Lefebvre. 2017. Optimal Discrete Slicing. ACM TOG 36 1 Article 12 (Jan. 2017) 16 pages. 10.1145/2999536   Marc Alexa Kristian Hildebrand and Sylvain Lefebvre. 2017. Optimal Discrete Slicing. ACM TOG 36 1 Article 12 (Jan. 2017) 16 pages. 10.1145/2999536",
+                "DOI": "10.1145/2999536",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "unstructured": "C. Arikan A. Brunton T. Tanksale and P. Urban. 2015. Color-Managed 3D-Printing with highly Translucent Printing Materials. In SPIE/IS&T Electronic Imaging Conference. San Francisco.  C. Arikan A. Brunton T. Tanksale and P. Urban. 2015. Color-Managed 3D-Printing with highly Translucent Printing Materials. In SPIE/IS&T Electronic Imaging Conference. San Francisco.",
+                "DOI": "10.1117/12.2083844",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "V. Babaei K. Vidim\u010de M. Foshey A. Kaspar P. Didyk and W. Matusik. 2017. Color contoning for 3D printing. ACM TOG (Proc. SIGGRAPH) 36 4 (2017) 124:1--124:15. 10.1145/3072959.3073605   V. Babaei K. Vidim\u010de M. Foshey A. Kaspar P. Didyk and W. Matusik. 2017. Color contoning for 3D printing. ACM TOG (Proc. SIGGRAPH) 36 4 (2017) 124:1--124:15. 10.1145/3072959.3073605",
+                "DOI": "10.1145/3072959.3073605",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "Barbieri. 2015. Spectro LFP qb. https://www.barbierielectronic.com/en/products/spectrophotometer/spectro-lfp-qb/91-869.html. (2015).  Barbieri. 2015. Spectro LFP qb. https://www.barbierielectronic.com/en/products/spectrophotometer/spectro-lfp-qb/91-869.html. (2015)."
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/2832905",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "unstructured": "Canon. 2014. Canon 5D Mark3. http://www.usa.canon.com/cusa/professional/products/professional_cameras/digital_slr_cameras/eos_5d_mark_iii. (2014).  Canon. 2014. Canon 5D Mark3. http://www.usa.canon.com/cusa/professional/products/professional_cameras/digital_slr_cameras/eos_5d_mark_iii. (2014)."
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "D. Chen D.I.W. Levin P. Didyk P. Sitthi-Armorn and W. Matusik. 2013. Spec2Fab: A Reducer-Tuner Model for Translating Specifications to 3D Prints. ACM TOG (Proc. SIGGRAPH) 32 4 (2013). 10.1145/2461912.2461994   D. Chen D.I.W. Levin P. Didyk P. Sitthi-Armorn and W. Matusik. 2013. Spec2Fab: A Reducer-Tuner Model for Translating Specifications to 3D Prints. ACM TOG (Proc. SIGGRAPH) 32 4 (2013). 10.1145/2461912.2461994",
+                "DOI": "10.1145/2461912.2461994",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1016/j.jcp.2012.11.042",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "Y. Dong J. Wang F. Pellacini X. Tong and B. Guo. 2010. Fabricating Spatially-Varying Subsurface Scattering. ACM TOG (Proc. SIGGRAPH) 29 4 (2010). 10.1145/1778765.1778799   Y. Dong J. Wang F. Pellacini X. Tong and B. Guo. 2010. Fabricating Spatially-Varying Subsurface Scattering. ACM TOG (Proc. SIGGRAPH) 29 4 (2010). 10.1145/1778765.1778799"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "O. Elek D. Sumin R. Zhang T. Weyrich K. Myszkowski B. Bickel A. Wilkie and J. K\u0159iv\u00e1nek. 2017. Scattering-aware Texture Reproduction for 3D Printing. ACM TOG (Proc. of SIGGRAPH Asia) 36 6 (2017) 241:1--241:15. 10.1145/3130800.3130890   O. Elek D. Sumin R. Zhang T. Weyrich K. Myszkowski B. Bickel A. Wilkie and J. K\u0159iv\u00e1nek. 2017. Scattering-aware Texture Reproduction for 3D Printing. ACM TOG (Proc. of SIGGRAPH Asia) 36 6 (2017) 241:1--241:15. 10.1145/3130800.3130890",
+                "DOI": "10.1145/3130800.3130890",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "unstructured": "M. D. Fairchild. 2005. Color Appearance Models (2 ed.). John Wiley & Sons inc. West Sussex England.  M. D. Fairchild. 2005. Color Appearance Models (2 ed.). John Wiley & Sons inc. West Sussex England."
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.4086/toc.2012.v008a019",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/1077399.1077409",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "unstructured": "1\n  .  Gkioulekas B. Xiao S. Zhao E. H. Adelson T Zickler and K. Bala. 2013. Understanding the role of phase function in translucent appearance. ACM TOG 32 5 (2013) 147:1--147:19. 10.1145/2516971.2516972   1. Gkioulekas B. Xiao S. Zhao E. H. Adelson T Zickler and K. Bala. 2013. Understanding the role of phase function in translucent appearance. ACM TOG 32 5 (2013) 147:1--147:19. 10.1145/2516971.2516972",
+                "DOI": "10.1145/2516971.2516972",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/1186562.1015807",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "M. Ha\u0161an M. Fuchs W. Matusik H. Pfister and S. Rusinkiewicz. 2010. Physical Reproduction of Materials with Specified Subsurface Scattering. ACM TOG (Proc. SIGGRAPH) 29 3 (2010). 10.1145/1778765.1778798   M. Ha\u0161an M. Fuchs W. Matusik H. Pfister and S. Rusinkiewicz. 2010. Physical Reproduction of Materials with Specified Subsurface Scattering. ACM TOG (Proc. SIGGRAPH) 29 3 (2010). 10.1145/1778765.1778798",
+                "DOI": "10.1145/1833349.1778798",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "unstructured": "HP. 2018. HP Jet Fusion. http://www8.hp.com/us/en/printers/3d-printers/3dcolorprint.html. (2018).  HP. 2018. HP Jet Fusion. http://www8.hp.com/us/en/printers/3d-printers/3dcolorprint.html. (2018)."
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "unstructured": "R. S. Hunter and R. W. Harold. 1987. The Measurement of Appearance (2 ed.). John Wiley Sons.  R. S. Hunter and R. W. Harold. 1987. The Measurement of Appearance (2 ed.). John Wiley Sons."
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "Image Engineering. 2015. CAL1 Calibration Light Source. https://www.image-engineering.de/products/equipment/illumination-devices/379-call. (2015).  Image Engineering. 2015. CAL1 Calibration Light Source. https://www.image-engineering.de/products/equipment/illumination-devices/379-call. (2015)."
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/383259.383319",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1109/TVCG.2006.56",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "first-page": "593",
+                "article-title": "Ein Beitrag zur Optik der Farbanstriche",
+                "volume": "12",
+                "author": "Kubelka P.",
+                "year": "1931",
+                "journal-title": "Zeitschrifi f\u00fcr Technische Physik"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1109/TIP.2012.2216279",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1109/TIP.2011.2163522",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1109/TVCG.2013.268",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "unstructured": "MCor Technologies. 2014. Iris http://mcortechnologies.com/3d-printers/iris/. (2014).  MCor Technologies. 2014. Iris http://mcortechnologies.com/3d-printers/iris/. (2014)."
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "author": "Morovi\u010d P.",
+                "year": "2017",
+                "volume-title": "Voxel-By-Voxel Content Processing Pipeline for Color and Beyond. Color and Imaging Conference 2017"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1167/10.9.6",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "unstructured": "F. E. Nicodemus J. C. Richmond J. J. Hsia I. W. Ginsberg and T. Limperis. 1977. Geometrical considerations and nomenclature for reflectance. United States. National Bureau of Standards.  F. E. Nicodemus J. C. Richmond J. J. Hsia I. W. Ginsberg and T. Limperis. 1977. Geometrical considerations and nomenclature for reflectance. United States. National Bureau of Standards.",
+                "DOI": "10.6028/NBS.MONO.160",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "unstructured": "S. E. Palmer. 1999. Vision science: Photons to phenomenology. MIT press.  S. E. Palmer. 1999. Vision science: Photons to phenomenology. MIT press."
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1111/cgf.12697",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "unstructured": "M. Papas C. Regg W. Jarosz B. Bickel P. Jackson W. Matusik S. Marschner and M. Gross. 2013. Fabricating Translucent Materials using Continuous Pigment Mixtures. ACM TOG (Proc. SIGGRAPH) 32 4 (2013). 10.1145/2461912.2461974   M. Papas C. Regg W. Jarosz B. Bickel P. Jackson W. Matusik S. Marschner and M. Gross. 2013. Fabricating Translucent Materials using Continuous Pigment Mixtures. ACM TOG (Proc. SIGGRAPH) 32 4 (2013). 10.1145/2461912.2461974",
+                "DOI": "10.1145/2461912.2461974",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/1179352.1141950",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "unstructured": "T. Pereira S. Rusinkiewicz and W. Matusik. 2014. Computational Light Routing: 3D Printed Optical Fibers for Sensing and Display. ACM TOG 33 3 (2014). 10.1145/2602140   T. Pereira S. Rusinkiewicz and W. Matusik. 2014. Computational Light Routing: 3D Printed Optical Fibers for Sensing and Display. ACM TOG 33 3 (2014). 10.1145/2602140"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "unstructured": "Pixelogic. 2017. ZBrush. http://pixologic.com/. (2017).  Pixelogic. 2017. ZBrush. http://pixologic.com/. (2017)."
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "unstructured": "R. Rolleston and R. Balasubramanian. 1993. Accuracy of Various Types of Neugebauer Model. In IS&T/SID. Scottsdale Ariz. 32--36.  R. Rolleston and R. Balasubramanian. 1993. Accuracy of Various Types of Neugebauer Model. In IS&T/SID. Scottsdale Ariz. 32--36."
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "unstructured": "C. Sch\u00fcller D. Panozzo A. Grundh\u00f6fer H. Zimmer E. Sorkine and O. Sorkine-Hornung. 2016. Computational Thermoforming. ACM TOG (Proc. SIGGRAPH) 35 4 (2016). 10.1145/2897824.2925914   C. Sch\u00fcller D. Panozzo A. Grundh\u00f6fer H. Zimmer E. Sorkine and O. Sorkine-Hornung. 2016. Computational Thermoforming. ACM TOG (Proc. SIGGRAPH) 35 4 (2016). 10.1145/2897824.2925914",
+                "DOI": "10.1145/2897824.2925914",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "unstructured": "M. Schwarz and H.-P. Seidel. 2010. Fast Parallel Surface and Solid Voxelization on GPUs. ACM TOG (Proc. SIGGRAPH Asia) 29 6 (2010). 10.1145/1882261.1866201   M. Schwarz and H.-P. Seidel. 2010. Fast Parallel Surface and Solid Voxelization on GPUs. ACM TOG (Proc. SIGGRAPH Asia) 29 6 (2010). 10.1145/1882261.1866201"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1137/S0036144598347059",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "unstructured": "Y. Song X. Tong F. Pellacini and P. Peers. 2009. SubEdit: A Representation for Editing Measured Heterogeneous Subsurface Scattering. ACM TOG (Proc. SIGGRAPH) (2009). 10.1145/1576246.1531337   Y. Song X. Tong F. Pellacini and P. Peers. 2009. SubEdit: A Representation for Editing Measured Heterogeneous Subsurface Scattering. ACM TOG (Proc. SIGGRAPH) (2009). 10.1145/1576246.1531337"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "unstructured": "Stratasys. 2016. J750. http://www.stratasys.com/3d-printers/production-series/stratasys-j750. (2016).  Stratasys. 2016. J750. http://www.stratasys.com/3d-printers/production-series/stratasys-j750. (2016)."
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "unstructured": "Stratasys. 2017. GrabCAD Voxel Print http://www.stratasys.com/software. (2017).  Stratasys. 2017. GrabCAD Voxel Print http://www.stratasys.com/software. (2017)."
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1145/1111411.1111432",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1145/1186822.1073311",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "author": "Urban P.",
+                "year": "2017",
+                "volume-title": "RGBA: Towards a Standard for Graphical 3D Printing. CoRR abs/1710.00546"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "unstructured": "K. Vidim\u010de S.-P. Wang J. Ragan-Kelley and W. Matusik. 2013. OpenFab: A Programmable Pipeline for Multi-Material Fabrication. ACM TOG (Proc. SIGGRAPH) 32 4 (2013). 10.1145/2461912.2461993   K. Vidim\u010de S.-P. Wang J. Ragan-Kelley and W. Matusik. 2013. OpenFab: A Programmable Pipeline for Multi-Material Fabrication. ACM TOG (Proc. SIGGRAPH) 32 4 (2013). 10.1145/2461912.2461993"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "DOI": "10.1109/TIP.2003.819861",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "unstructured": "K.D.D. Willis E. Brockmeyer S.E. Hudson and I. Poupyrev. 2012. Printed Optics: 3D Printing of Embedded Optical Elements for Interactive Devices. In ACM UIST. 10.1145/2380116.2380190   K.D.D. Willis E. Brockmeyer S.E. Hudson and I. Poupyrev. 2012. Printed Optics: 3D Printing of Embedded Optical Elements for Interactive Devices. In ACM UIST. 10.1145/2380116.2380190"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "DOI": "10.1002/(SICI)1520-6378(200002)25:1<4::AID-COL3>3.0.CO;2-X",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "DOI": "10.1167/14.3.17",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "unstructured": "XYZ Printing. 2017. Da Vinci Color. https://www.xyzprinting.com/en-GB/product/davinci-color. (2017).  XYZ Printing. 2017. Da Vinci Color. https://www.xyzprinting.com/en-GB/product/davinci-color. (2017)."
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "DOI": "10.1117/1.3646208",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "DOI": "10.1090/S0025-5718-04-01678-3",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_55_1",
+                "first-page": "421",
+                "article-title": "Parallel Implementations of the Fast Sweeping Method",
+                "volume": "25",
+                "author": "Zhao H.",
+                "year": "2007",
+                "journal-title": "Journal of Computational Mathematics"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201349&ftid=1991746&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:37:01Z",
+            "timestamp": 1585960621000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 55,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201349"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201349",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

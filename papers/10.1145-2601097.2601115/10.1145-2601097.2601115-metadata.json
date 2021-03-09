@@ -1,0 +1,408 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:11:20Z",
+            "timestamp": 1586002280861
+        },
+        "reference-count": 41,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100004835",
+                "name": "Zhejiang University",
+                "doi-asserted-by": "publisher",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601115",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-7",
+        "source": "Crossref",
+        "is-referenced-by-count": 8,
+        "title": [
+            "Physics-inspired adaptive fracture refinement"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Zhili",
+                "family": "Chen",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "The Ohio State University"
+                    }
+                ]
+            },
+            {
+                "given": "Miaojun",
+                "family": "Yao",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "The Ohio State University"
+                    }
+                ]
+            },
+            {
+                "given": "Renguo",
+                "family": "Feng",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "The Ohio State University"
+                    }
+                ]
+            },
+            {
+                "given": "Huamin",
+                "family": "Wang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "The Ohio State University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "author": "Baker M.",
+                "volume-title": "ACM SIGGRAPH 2011 course notes."
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1109/TVCG.2007.39",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/2461912.2461991",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/566654.566623",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/2461912.2461920",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/2461912.2461941",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/2451236.2451243",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1007/s11263-010-0408-9",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "author": "Eckstein I.",
+                "volume-title": "Proc. of SGP, 183--192"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/2485895.2485908",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "Jin H. Yezzi A. J. and Soatto S. 2004. Region-based segmentation on evolving surfaces with application to 3D reconstruction of shape and piecewise constant radiance. In ECCV 114--125.  Jin H. Yezzi A. J. and Soatto S. 2004. Region-based segmentation on evolving surfaces with application to 3D reconstruction of shape and piecewise constant radiance. In ECCV 114--125.",
+                "DOI": "10.1007/978-3-540-24671-8_9",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/1531326.1531356",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/1276377.1276380",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Lenkiewicz P. Pereira M. Freire M. M. and Fernandes J. 2009. The whole mesh deformation model for 2D and 3D image segmentation. In ICIP IEEE 4045--4048.   Lenkiewicz P. Pereira M. Freire M. M. and Fernandes J. 2009. The whole mesh deformation model for 2D and 3D image segmentation. In ICIP IEEE 4045--4048.",
+                "DOI": "10.1109/ICIP.2009.5413724",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1023/B:VISI.0000029664.99615.94",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "author": "Martin S.",
+                "volume-title": "Proc. of SGP, 1521--1529"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "Meyer M. Desbrun M. Schroder P. and Barr A. H. 2002. Discrete differential-geometry operators for triangulated 2-manifolds. In VisMath Springer-Verlag 35--57.  Meyer M. Desbrun M. Schroder P. and Barr A. H. 2002. Discrete differential-geometry operators for triangulated 2-manifolds. In VisMath Springer-Verlag 35--57.",
+                "DOI": "10.1007/978-3-662-05105-4_2",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/1015706.1015734",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "author": "Mould D.",
+                "year": "2005",
+                "volume-title": "Proceedings of Graphics Interface 2005, GI '05, 219--226"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "author": "M\u00fcller M.",
+                "volume-title": "Proceedings of Graphics Interface 2004, GI '04, 239--246"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "author": "M\u00fcller M.",
+                "volume-title": "Proc. of SCA, 113--124"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/545261.545269",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/2461912.2461934",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "M\u00fcller M. 2008. Hierarchical position based dynamics. In VRIPHYS 1--10.  M\u00fcller M. 2008. Hierarchical position based dynamics. In VRIPHYS 1--10."
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/2366145.2366171",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/2461912.2462010",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/97880.97892",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/311535.311550",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/566654.566579",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "unstructured": "Osher S. J. and Fedkiw R. P. 2002. Level Set Methods and Dynamic Implicit Surfaces. Springer-Verlag.  Osher S. J. and Fedkiw R. P. 2002. Level Set Methods and Dynamic Implicit Surfaces . Springer-Verlag.",
+                "DOI": "10.1007/b98879",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/1599470.1599492",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/1073204.1073296",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/1242073.1242200",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "author": "Sifakis E.",
+                "volume-title": "Proc. of SCA, 73--80"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "author": "Steinemann D.",
+                "volume-title": "Proc. of SCA, 63--72"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1145/1599470.1599491",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/1015706.1015736",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1111/j.1467-8659.2005.00891.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1111/j.1467-8659.2007.01058.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1145/1778765.1778787",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1145/1778765.1778806",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601115&amp;ftid=1488921&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:46:40Z",
+            "timestamp": 1586000800000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 41,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601115"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601115",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

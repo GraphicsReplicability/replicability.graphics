@@ -1,0 +1,334 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T02:11:26Z",
+            "timestamp": 1585966286671
+        },
+        "reference-count": 25,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925892",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 17,
+        "title": [
+            "Rigel"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "James",
+                "family": "Hegarty",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Ross",
+                "family": "Daly",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Zachary",
+                "family": "DeVito",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Jonathan",
+                "family": "Ragan-Kelley",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Mark",
+                "family": "Horowitz",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Pat",
+                "family": "Hanrahan",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/1778765.1778766",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "Adelson E. H. Anderson C. H. Bergen J. R. Burt P. J. and Ogden J. M. 1984. Pyramid methods in image processing. RCA engineer 29 6 33--41.  Adelson E. H. Anderson C. H. Bergen J. R. Burt P. J. and Ogden J. M. 1984. Pyramid methods in image processing. RCA engineer 29 6 33--41."
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "author": "Bilsen G.",
+                "volume": "5",
+                "volume-title": "1995 International Conference on Acoustics, Speech, and Signal Processing"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "Bouguet J.-Y. 2001. Pyramidal implementation of the affine Lucas Kanade feature tracker description of the algorithm. Tech. rep. Intel Corporation.  Bouguet J.-Y. 2001. Pyramidal implementation of the affine Lucas Kanade feature tracker description of the algorithm. Tech. rep. Intel Corporation."
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "Brunhaver J. 2015. Design and Optimization of a Stencil Engine. PhD thesis Stanford University.  Brunhaver J. 2015. Design and Optimization of a Stencil Engine . PhD thesis Stanford University."
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/2491956.2462166",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "unstructured": "Elinux 2015. Jetson computer vision performance. http://elinux.org/Jetson/Computer_Vision_Performance. {Online; accessed 12-April-2016}.  Elinux 2015. Jetson computer vision performance. http://elinux.org/Jetson/Computer_Vision_Performance. {Online; accessed 12-April-2016}."
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/1815961.1815968",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "author": "Harris C.",
+                "volume-title": "Proceedings of the 4th Alvey Vision Conference, 147--151"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/2601097.2601174",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "author": "Horstmannshoff J.",
+                "volume-title": "Architectures and Processors, 1997. Proceedings., IEEE International Conference on, 283--292"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/2307636.2307658",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1109/TC.1987.5009446",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1007/BF01759032",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.5555/850924.851523",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "author": "Lucas B. D.",
+                "volume": "81",
+                "year": "1981",
+                "volume-title": "International Joint Conference on Artificial Intelligence"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/2897824.2925952",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1109/TSP.2002.800830",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1023/A:1008633809454",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/2185520.2185528",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1023/A:1014573219977",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/1477926.1477930",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "Vivado 2016. Vivado high-level synthesis. http://www.xilinx.com/products/design-tools/vivado/integration/esl-design/. {Online; accessed 12-April-2016}.  Vivado 2016. Vivado high-level synthesis. http://www.xilinx.com/products/design-tools/vivado/integration/esl-design/. {Online; accessed 12-April-2016}."
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "Xilinx. 2016. Zynq-7000 All Programmable SoC Overview. DS190 Rev. 1.9.  Xilinx. 2016. Zynq-7000 All Programmable SoC Overview. DS190 Rev. 1.9."
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "unstructured": "Xilinx 2016. Power efficiency. http://www.xilinx.com/products/technology/power.html. {Online; accessed 12-April-2016}.  Xilinx 2016. Power efficiency. http://www.xilinx.com/products/technology/power.html. {Online; accessed 12-April-2016}."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925892&amp;ftid=1755945&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:41:43Z",
+            "timestamp": 1585964503000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "flexible multi-rate image processing hardware"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 25,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925892"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925892",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

@@ -1,0 +1,405 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:41:10Z",
+            "timestamp": 1586004070620
+        },
+        "reference-count": 41,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100000038",
+                "name": "Natural Sciences and Engineering Research Council of Canada",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100002418",
+                "name": "Intel Corporation",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100000145",
+                "name": "Division of Information and Intelligent Systems",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "IIS-1149393, IIS-1011919, IIS-1161645"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601206",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 112,
+        "title": [
+            "Intrinsic images in the wild"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Sean",
+                "family": "Bell",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Cornell University"
+                    }
+                ]
+            },
+            {
+                "given": "Kavita",
+                "family": "Bala",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Cornell University"
+                    }
+                ]
+            },
+            {
+                "given": "Noah",
+                "family": "Snavely",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Cornell University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1111/j.1467-8659.2009.01645.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1007/978-3-642-33765-9_5",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "author": "Barron J. T.",
+                "volume-title": "Proc. Computer Vision and Pattern Recognition."
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1109/CVPR.2013.10",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "Barron J. T. and Malik J. 2013. Shape illumination and reflectance from shading. Tech. rep. UC Berkeley.  Barron J. T. and Malik J. 2013. Shape illumination and reflectance from shading. Tech. rep. UC Berkeley.",
+                "DOI": "10.21236/ADA586648",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/2461912.2462002",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "unstructured": "Bostock M. 2013. D3. http://d3js.org/. {Online; accessed 24-Mar-2014}.  Bostock M. 2013. D3. http://d3js.org/. {Online; accessed 24-Mar-2014}."
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/1618452.1618476",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/2461912.2461973",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "author": "Branson S.",
+                "volume-title": "Proc. European Conference on Computer Vision."
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/2010324.1964938",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1109/ICCV.2013.37",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/1531326.1531334",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Dawid A. P. and Skene A. M. 1979. Maximum likelihood estimation of observer error-rates using the EM algorithm. In J. Roy. Statistical Society.  Dawid A. P. and Skene A. M. 1979. Maximum likelihood estimation of observer error-rates using the EM algorithm. In J. Roy. Statistical Society .",
+                "DOI": "10.2307/2346806",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "author": "Felzenszwalb P.",
+                "volume-title": "Proc. Computer Vision and Pattern Recognition."
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1111/j.1467-8659.2012.03137.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "Gehler P. Rother C. Kiefel M. Zhang L. and Scholkopf B. 2011. Recovering intrinsic images with a global sparsity prior on reflectance. In Neural Information Processing Systems.  Gehler P. Rother C. Kiefel M. Zhang L. and Scholkopf B. 2011. Recovering intrinsic images with a global sparsity prior on reflectance. In Neural Information Processing Systems ."
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/2231816.2231817",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "author": "Grosse R.",
+                "volume-title": "Proc. International Conference on Computer Vision."
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "author": "Haber T.",
+                "volume-title": "Proc. Computer Vision and Pattern Recognition."
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1109/CVPR.2013.325",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "unstructured": "Kr\u00e4henb\u00fchl P. and Koltun V. 2011. Efficient inference in fully connected CRFs with gaussian edge potentials. In Neural Information Processing Systems.  Kr\u00e4henb\u00fchl P. and Koltun V. 2011. Efficient inference in fully connected CRFs with gaussian edge potentials. In Neural Information Processing Systems ."
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "author": "Kr\u00e4henb\u00fchl P.",
+                "volume-title": "Proc. International Conference on Machine Learning."
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/2366145.2366221",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1109/TVCG.2012.112",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1364/JOSA.61.000001",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1109/CVPR.2013.129",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1109/TVCG.2012.75",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/383259.383310",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "author": "Omer I.",
+                "volume-title": "Proc. Computer Vision and Pattern Recognition."
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1068/p5418",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/1882261.1866186",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1109/CVPR.2011.5995738",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "author": "Shen L.",
+                "volume-title": "Proc. Computer Vision and Pattern Recognition."
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1109/CVPR.2011.5995507",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "unstructured": "Tappen M. Freeman W. and Adelson E. 2005. Recovering intrinsic images from a single image. IEEE Trans. on Pattern Analysis and Machine Intelligence. 10.1109/TPAMI.2005.185   Tappen M. Freeman W. and Adelson E. 2005. Recovering intrinsic images from a single image. IEEE Trans. on Pattern Analysis and Machine Intelligence . 10.1109/TPAMI.2005.185"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1109/CVPR.2006.114",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "author": "van Wijk J. J.",
+                "volume-title": "Proc. IEEE Conference on Information Visualization (INFOVIS)."
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1109/ICCV.2001.937606",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "unstructured": "Welinder P. Branson S. Belongie S. and Perona P. 2010. The multidimensional wisdom of crowds. In Neural Information Processing Systems.  Welinder P. Branson S. Belongie S. and Perona P. 2010. The multidimensional wisdom of crowds. In Neural Information Processing Systems ."
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1109/TPAMI.2012.77",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601206&amp;ftid=1488968&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:59:49Z",
+            "timestamp": 1586001589000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 41,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601206"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601206",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

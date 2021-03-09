@@ -1,0 +1,352 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:05:36Z",
+            "timestamp": 1586001936311
+        },
+        "reference-count": 30,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "name": "Google Graduate Fellowship",
+                "award": []
+            },
+            {
+                "name": "Adobe",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925933",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-10",
+        "source": "Crossref",
+        "is-referenced-by-count": 21,
+        "title": [
+            "Perspective-aware manipulation of portrait photos"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Ohad",
+                "family": "Fried",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Princeton University"
+                    }
+                ]
+            },
+            {
+                "given": "Eli",
+                "family": "Shechtman",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe Research"
+                    }
+                ]
+            },
+            {
+                "given": "Dan B.",
+                "family": "Goldman",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe Research"
+                    }
+                ]
+            },
+            {
+                "given": "Adam",
+                "family": "Finkelstein",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Princeton University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/1667239.1667251",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/311535.311556",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/1778765.1778778",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1109/TPAMI.2010.143",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "Bryan R. Perona P. and Adolphs R. 2012. Perspective distortion from interpersonal distance is an implicit visual cue for social judgments of faces. PLoS ONE 7 9 (09).  Bryan R. Perona P. and Adolphs R. 2012. Perspective distortion from interpersonal distance is an implicit visual cue for social judgments of faces. PLoS ONE 7 9 (09).",
+                "DOI": "10.1371/journal.pone.0045301",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "author": "Burgos-Artizzu X. P.",
+                "volume-title": "European Conference on Computer Vision (ECCV). Springer, 313--327"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/2461912.2462012",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/2601097.2601204",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1109/TVCG.2013.249",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1137/0806023",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1167/12.5.8",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/280814.280823",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "author": "Giger D.",
+                "volume-title": "IEEE International Conference on Multimedia & Expo."
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1109/CVPRW.2006.76",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "author": "Hassner T.",
+                "volume-title": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR)."
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1109/ICCV.2013.448",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1109/TPAMI.2010.63",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1109/ICCV.2011.6126439",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/2010324.1964956",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "Orlov A. 2016. Selecting a portrait lens with correct focal length. Accessed 2016-01-15: http://petapixel.com/2016/01/04/selecting-a-portrait-lens-with-correct-focal-length/.  Orlov A. 2016. Selecting a portrait lens with correct focal length. Accessed 2016-01-15: http://petapixel.com/2016/01/04/selecting-a-portrait-lens-with-correct-focal-length/."
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1167/7.9.992",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1163/22134913-00002005",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "author": "Saragih J. M.",
+                "volume-title": "International Conference on Computer Vision (ICCV)."
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1007/BF02289464",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "author": "Valind E.",
+                "year": "2014",
+                "volume-title": "Portrait Photography: From Snapshots to Great Shots. Pearson Education."
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/1073204.1073209",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1109/CVPR.2007.383291",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/2010324.1964955",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "author": "Yang F.",
+                "volume-title": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 861--868"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "author": "Yang F.",
+                "volume-title": "Proceedings of Graphics Interface (GI'12)"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925933&amp;ftid=1755950&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:40:07Z",
+            "timestamp": 1585964407000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 30,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925933"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925933",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

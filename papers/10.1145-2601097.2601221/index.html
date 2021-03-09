@@ -1,0 +1,162 @@
+<html><head><meta charset="utf-8">
+ <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+ <script src="../../assets/js/chart-utils.js"></script>
+<link rel="stylesheet"
+       href="../../assets/css/default.min.css">
+ <script src="../../assets/js/highlight.min.js"></script>
+ <script>hljs.initHighlightingOnLoad();</script>
+ <link href="../../assets/css/all.css" rel="stylesheet">
+ <link rel="stylesheet" href="../../assets/css/customstyle.css">
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pretty-checkbox@3.0/dist/pretty-checkbox.min.css">
+
+  <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+  <script>
+  var currentReviewId = 0;
+
+  $( function() {
+    $( "#tabs" ).tabs({
+    activate: function (event, ui) {
+        var reviewId = parseInt(event.currentTarget.id.substring(6));
+
+        [myChart.data.datasets[0].data, myChart.data.datasets[currentReviewId].data] =
+ [myChart.data.datasets[currentReviewId].data, myChart.data.datasets[0].data];
+
+        currentReviewId = reviewId-1;
+
+        [myChart.data.datasets[0].data, myChart.data.datasets[currentReviewId].data] =
+ [myChart.data.datasets[currentReviewId].data, myChart.data.datasets[0].data];
+
+        myChart.update(0);
+    }
+  });
+  } );
+  </script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-164636527-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-164636527-1');
+</script>
+<title>Compact Precomputed Voxelized Shadows</title>
+<meta name="description" content="Replicability and source code of the article Compact Precomputed Voxelized Shadows.">
+
+  </head>
+<body>
+  <ul class="publist-inline" style="text-align:left;"><li class="web"><a href="../../browse.html">< The Data</a></ul><h1 class="title">Compact Precomputed Voxelized Shadows <i class="fas fa-circle graphcol1" style="font-size:150%;color:#43a2ca;" title="code available and we were able to reproduce some results"></i> <i class="fas fa-square graphcol6"  style="font-size:150%;color:#7570b3;" title="Preprint PDF available (author web page, project page, institution page, arxiv...)"></i></h1><ul class="authors">
+<li> Erik <span class="family">Sintorn</span></li>
+<li> Viktor <span class="family">Kämpe</span></li>
+<li> Ola <span class="family">Olsson</span></li>
+<li> Ulf <span class="family">Assarsson</span></li>
+</ul>
+<center> SIGGRAPH 2014</center><ul class="publist-inline">
+<li class="web"> <i class="fas fa-globe-americas"></i> <a href="https://doi.org/10.1145/2601097.2601221">ACM</a></li>
+<li class="pdf"> <i class="far fa-file-pdf"></i> <a href="http://www.cse.chalmers.se/~d00sint/CompressedShadowsPreprint.pdf">preprint</a></li>
+<li class="web"> <i class="far fa-file-alt"></i> <a href="http://www.cse.chalmers.se/~d00sint/CPVS/CPVSStandalone.zip">Code</a></li>
+<li class="web"> <i class="fas fa-database"></i> <a href="10.1145-2601097.2601221-metadata.json">DOI Metadata</a></li>
+</ul>
+<center><img width="300" src="10.1145-2601097.2601221-thumb.png"></img></center><br><br><ul class="publist-inline" style="text-align:left;font-size:100%"><li > <i ></i> <a href="replicability.json">Download complete data for this entry</a></li></ul>
+    <div class="row">
+    <div class="column2 chart-container" style="position: relative; height:40vh; width:30vw">
+    <canvas width="300" height="250" id="myChart" class="chartjs-render-monitor"></canvas>
+    </div>
+    
+    <div class="column2">
+    <h2>Reviews</h2>
+       <div id="tabs">
+          <ul>             <li><a href="#review-1">main</a></li>
+             <li><a href="#review-2">&#43;</a></li>
+</ul><div id="review-1"><h2>Information</h2><ul><li><span class="family">Paper topic</span>: Rendering</li>
+<li><span class="family">Software type</span>: Code</li>
+<li><span class="family">Able to run a replicability test</span>: True</li>
+<li><span class="family">Replicability score</span>: 3</li>
+<li><span class="family">Software language</span>: C/C++</li>
+<li><span class="family">License</span>: unspecified</li>
+<li><span class="family">Build mechanism</span>: IDE Project (VS,..)</li>
+<li><span class="family">Dependencies</span>: cuda / embree / glew / glut / wxWidgets</li>
+<li><span class="family">Documentation score</span> {0,1,2}: 2</li>
+<li><span class="family">Reviewer</span>: Nicolas Bonneel &lt;nicolas.bonneel@liris.cnrs.fr&gt;</li>
+<li><span class="family">Time spent for the test (build->first run, timeout at 100min)</span>: 100min</li>
+</ul><h2>Source code information</h2>
+<ul><li><span class="family">Code URL</span>:  <a href="http://www.cse.chalmers.se/~d00sint/CPVS/CPVSStandalone.zip">http://www.cse.chalmers.se/~d00sint/CPVS/CPVSStandalone.zip</a></li>
+<li><span class="family">MD5 hash of the code archive</span>: 529FD85C18C15184D227287938EDB8B3</li>
+</ul><h2>Comments</h2><pre>I compile the code with VS2017 and Cuda 10.2, which is quite far from the original project settings (VS2014 6.5). Step by step:
+- You need to edit the CPVS2014.vcxproj, replacing at line 55 &lt;Import Project="$(VCTargetsPath)\BuildCustomizations\CUDA 6.5.props" /&gt; by the place where you have your Cuda 10 property sheets (in my case "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\extras\visual_studio_integration\MSBuildExtensions\CUDA 10.2.props"). And similarly in line 185 for the Cuda targets (same folder). And then open the project with visual studio, update/retarget the project file.
+- You need to use a fresh wxWidget, since the one provided is precompiled for VS2014. Go to https://www.wxwidgets.org/downloads/ and download the precompiled binaries for windows (headers and release DLLs). Replace the original wxWidget folder with these downloads (same fold hierarchy).
+- add wxMSVC_VERSION=14x as a preprocessor directive for the projects CHAGApp and CPVS2014 and remove wxMSVC_VERSION_AUTO
+- replace compute_20,sm_20 in Cuda C/C++-&gt;Device-&gt;Code Generation to compute_30,sm_30 in the project CPVS2014
+- add #include &lt;intrin.h&gt; in CompressedShadow.cpp
+- Change WINVER=0x0400 to WINVER=0x0500 in the preprocessor directives of CHAGApp and CPVS2014
+- Change the library path ../wxWidgets/lib/vc120_x64_dll  to ../wxWidgets/lib/vc14x_x64_dll
+- Change the libraries being linked from wxmsw30u_core.lib and wxbase30u.lib to wxmsw31u_core.lib and wxbase31u.lib
+- In line 115 of GLSLProgramManager.cpp, replace return shader; by return "#version 420 compatibility\n"+shader;  This is quite a hack, but works in my case. Remove *all* mentions of #version 400 or 420 in all shader files (Application.glsl, CPVSBuilder.glsl, Scene.glsl) since you are now only allowed a single call to "#version" in the first line of the shader.
+- Compile the code, and put the .exe and the wxWidgets dll in the CPVS2014 folder (where there is a subfolder "media").
+You can now launch the .exe and play with it. There is a very nice Readme.pdf that gives step by step instructions to compress shadow maps. I lowered the reproducibility score for the main reason that the proposed implementation differs from what is explained in the paper (the Readme.pdf explains the differences), and for the secondary reason that the scene files used in the paper are not provided, so it is difficult to appreciate the differences between the new and original implementation in term of results. However, the code works well and shows crisp shadows.</pre></div><div id=review-2>
+           <p> If you want to contribute with another review, please follow <a href="../../index.html#contribute">these instructions</a>. </p>
+
+            <p>Please consider to cut/paste/edit the <a href="replicability.json">raw JSON data</a> attached to this paper.</a></p>
+            </div>
+            </div></div>
+    </div>
+    </div>
+    </div>
+        <script>
+ 	  var color = Chart.helpers.color;
+          var colorNames = Object.keys(window.chartColors);
+          var ctx = document.getElementById('myChart');
+          var myChart = new Chart(ctx, {
+              type: 'polarArea',
+              data: {
+                labels: ['Dependencies', 'Build / Configure', 'Fixing bugs', 'Easy to adapt', 'Can replicate paper results'],
+                     datasets: [{
+                      label: 'Variant -- "main" (the higher, the better,  {1..5}, 0=N/A )',
+                      showLine: false,
+           
+                      borderColor: "#000",
+                      borderWidth: 2,
+                      backgroundColor: [
+                          'rgba(255, 99, 132,.6)',
+                          'rgba(255, 159, 64,.6)',
+                          'rgba(255, 205, 86,.6)',
+                          'rgba(75, 192, 192,.6)',
+                          'rgba(54, 162, 235,.6)',
+                      ],
+                      data: [3,3,2,5,3]
+                  },
+                  ]
+              },
+              options: {
+  scale: {
+      ticks: {
+          suggestedMin: 0,
+          suggestedMax: 5,
+          stepSize: 1
+      }
+  }
+}
+          });
+
+        </script>
+    </code></pre></body><div style="height:30px;display:block;"></div><div id="disqus_thread"></div>
+ <script>
+ /**
+ *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+ *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+ /*
+ var disqus_config = function () {
+ this.page.url = 'https://replicability.graphics';  // Replace PAGE_URL with your page's canonical URL variable
+ this.page.identifier = '10.1145-2601097.2601221'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+ };
+ */
+ (function() { // DON'T EDIT BELOW THIS LINE
+ var d = document, s = d.createElement('script');
+ s.src = 'https://replicability-graphics.disqus.com/embed.js';
+ s.setAttribute('data-timestamp', +new Date());
+ (d.head || d.body).appendChild(s);
+ })();
+ </script>
+ <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript></html>

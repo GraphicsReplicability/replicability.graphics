@@ -1,0 +1,490 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:54Z",
+            "timestamp": 1585962714857
+        },
+        "reference-count": 58,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "name": "FWF",
+                "award": [
+                    "P27974"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201307",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 4,
+        "title": [
+            "Gaussian material synthesis"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "K\u00e1roly",
+                "family": "Zsolnai-Feh\u00e9r",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "TU Wien, Vienna, Austria"
+                    }
+                ]
+            },
+            {
+                "given": "Peter",
+                "family": "Wonka",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "KAUST, Thuwal, Kingdom of Saudi Arabia"
+                    }
+                ]
+            },
+            {
+                "given": "Michael",
+                "family": "Wimmer",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "TU Wien, Vienna, Austria"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/2897824.2925917",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/2461912.2461978",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/2766967",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "first-page": "63",
+                "article-title": "RBF interpolation and Gaussian process regression through an RKHS formulation",
+                "volume": "3",
+                "author": "Anjyo Ken",
+                "year": "2011",
+                "journal-title": "Journal of Math-for-Industry"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1111/cgf.12310",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/3072959.3073708",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "unstructured": "Mikhail Belkin and Partha Niyogi. 2003. Laplacian eigenmaps for dimensionality reduction and data representation. Neural computation 15 6 (2003) 1373--1396. 10.1162/089976603321780317   Mikhail Belkin and Partha Niyogi. 2003. Laplacian eigenmaps for dimensionality reduction and data representation. Neural computation 15 6 (2003) 1373--1396. 10.1162/089976603321780317"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/2461912.2462002",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/1141911.1141979",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "Manuel Blum and Martin A Riedmiller. 2013. Optimization of Gaussian process hyper-parameters using Rprop.. In ESANN. 339--344.  Manuel Blum and Martin A Riedmiller. 2013. Optimization of Gaussian process hyper-parameters using Rprop.. In ESANN. 339--344."
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "Piotr Bojanowski Armand Joulin David Lopez-Paz and Arthur Szlam. 2017. Optimizing the Latent Space of Generative Networks. arXiv preprint arXiv:1707.05776 (2017).  Piotr Bojanowski Armand Joulin David Lopez-Paz and Arthur Szlam. 2017. Optimizing the Latent Space of Generative Networks. arXiv preprint arXiv:1707.05776 (2017)."
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "author": "Burley Brent",
+                "volume": "2012",
+                "year": "2012",
+                "volume-title": "ACM SIGGRAPH"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1137/0916069",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/2601097.2601212",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/2816795.2818096",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/1409060.1409081",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "Djork-Arn\u00e9 Clevert Thomas Unterthiner and Sepp Hochreiter. 2015. Fast and accurate deep network learning by exponential linear units (elus). arXiv preprint arXiv:1511.07289 (2015).  Djork-Arn\u00e9 Clevert Thomas Unterthiner and Sepp Hochreiter. 2015. Fast and accurate deep network learning by exponential linear units (elus). arXiv preprint arXiv:1511.07289 (2015)."
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "author": "Glorot Xavier",
+                "year": "2010",
+                "volume-title": "Proceedings of the Thirteenth International Conference on Artificial Intelligence and Statistics. 249--256"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1109/CVPR.2011.5995713",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "Geoffrey E Hinton and Ruslan R Salakhutdinov 2006. Reducing the dimensionality of data with neural networks. Science 313 5786 (2006) 504--507.  Geoffrey E Hinton and Ruslan R Salakhutdinov 2006. Reducing the dimensionality of data with neural networks. Science 313 5786 (2006) 504--507."
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/2766977",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/3130800.3130880",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1109/ICCV.2007.4408844",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1109/CVPR.2014.223",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/1778765.1778772",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "author": "Kingma Diederik",
+                "year": "2014",
+                "volume-title": "Adam: A method for stochastic optimization. arXiv preprint arXiv.1412.6980"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/2642918.2647386",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/258734.258801",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "Neil D Lawrence. 2004. Gaussian process latent variable models for visualisation of high dimensional data. In Advances in Neural Information Processing Systems. 329--336.   Neil D Lawrence. 2004. Gaussian process latent variable models for visualisation of high dimensional data. In Advances in Neural Information Processing Systems. 329--336."
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1109/5.726791",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "unstructured": "Joel Lehman and Kenneth O Stanley. 2008. Exploiting Open-Endedness to Solve Problems Through the Search for Novelty.. In ALIFE. 329--336.  Joel Lehman and Kenneth O Stanley. 2008. Exploiting Open-Endedness to Solve Problems Through the Search for Novelty.. In ALIFE. 329--336."
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/2001576.2001606",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "author": "van der Maaten Laurens",
+                "first-page": "2579",
+                "year": "2008",
+                "article-title": "Visualizing data using t-SNE",
+                "journal-title": "Journal of Machine Learning Research 9"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "unstructured": "David JC MacKay. 1996. Bayesian methods for backpropagation networks. In Models of Neural Networks III. Springer 211--254.  David JC MacKay. 1996. Bayesian methods for backpropagation networks. In Models of Neural Networks III. Springer 211--254.",
+                "DOI": "10.1007/978-1-4612-0723-8_6",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1145/258734.258887",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "first-page": "52",
+                "article-title": "Stacked convolutional auto-encoders for hierarchical feature extraction",
+                "volume": "2011",
+                "author": "Masci Jonathan",
+                "year": "2011",
+                "journal-title": "Artificial Neural Networks and Machine Learning-ICANN"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "unstructured": "Wojciech Matusik. 2003. A data-driven reflectance model. Ph.D. Dissertation. Massachusetts Institute of Technology.   Wojciech Matusik. 2003. A data-driven reflectance model. Ph.D. Dissertation. Massachusetts Institute of Technology.",
+                "DOI": "10.1145/1201775.882343",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1145/2929464.2929465",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1016/S0893-6080(05)80056-5",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1111/cgf.13225",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "unstructured": "Radford M Neal. 2012. Bayesian learning for neural networks. Vol. 118. Springer Science & Business Media.  Radford M Neal. 2012. Bayesian learning for neural networks. Vol. 118. Springer Science & Business Media."
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1109/ICCV.2015.178",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1162/neco.1992.4.4.473",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "unstructured": "Augustus Odena Vincent Dumoulin and Chris Olah. 2016. Deconvolution and Checkerboard Artifacts. Distill (2016).  Augustus Odena Vincent Dumoulin and Chris Olah. 2016. Deconvolution and Checkerboard Artifacts. Distill (2016)."
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1145/2461912.2462009",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "author": "Riedmiller Martin",
+                "year": "1992",
+                "volume-title": "Proc. of ISCIS VII), Universitat. Citeseer."
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "unstructured": "Shunsuke Saito Lingyu Wei Liwen Hu Koki Nagano and Hao Li. 2016. Photorealistic Facial Texture Inference Using Deep Neural Networks. arXiv preprint arXiv:1612.00523 (2016).  Shunsuke Saito Lingyu Wei Liwen Hu Koki Nagano and Hao Li. 2016. Photorealistic Facial Texture Inference Using Deep Neural Networks. arXiv preprint arXiv:1612.00523 (2016)."
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "DOI": "10.1109/MCG.2016.67",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "DOI": "10.1145/2167076.2167083",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "DOI": "10.1145/2980179.2980242",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "DOI": "10.1145/3072959.3073690",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "DOI": "10.5555/2627435.2670313",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "DOI": "10.1145/1276377.1276411",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "DOI": "10.1126/science.290.5500.2319",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_55_1",
+                "author": "Vincent Pascal",
+                "first-page": "3371",
+                "year": "2010",
+                "article-title": "Stacked denoising autoencoders: Learning useful representations in a deep network with a local denoising criterion",
+                "journal-title": "Journal of Machine Learning Research 11"
+            },
+            {
+                "key": "e_1_2_2_56_1",
+                "DOI": "10.1109/TPAMI.2007.1167",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_57_1",
+                "DOI": "10.1109/CVPR.2010.5539957",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_58_1",
+                "DOI": "10.1111/j.1467-9868.2005.00503.x",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201307&ftid=1991750&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:49:46Z",
+            "timestamp": 1585961386000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 58,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201307"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201307",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

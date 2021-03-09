@@ -1,0 +1,359 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T02:11:26Z",
+            "timestamp": 1585966286503
+        },
+        "reference-count": 33,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925884",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-10",
+        "source": "Crossref",
+        "is-referenced-by-count": 10,
+        "title": [
+            "Artist-directed dynamics for 2D animation"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Yunfei",
+                "family": "Bai",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Adobe Research and Georgia Institute of Technology"
+                    }
+                ]
+            },
+            {
+                "given": "Danny M.",
+                "family": "Kaufman",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe Research"
+                    }
+                ]
+            },
+            {
+                "given": "C. Karen",
+                "family": "Liu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Georgia Institute of Technology"
+                    }
+                ]
+            },
+            {
+                "given": "Jovan",
+                "family": "Popovi\u0107",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe Research"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/344779.344859",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/2185520.2185566",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/54852.378509",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "author": "Barzel R.",
+                "volume-title": "Computer Animation and Simulation '96, Proceedings of the Eurographics Workshop, 184--197"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/1276377.1276439",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "unstructured": "Blair P. 1994. Cartoon Animation. Walter Foster Publishing.  Blair P. 1994. Cartoon Animation. Walter Foster Publishing."
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/2601097.2601116",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/344779.344882",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "Coros S. Martin S. Thomaszewski B. Schumacher C. Sumner R. and Gross M. 2012. Deformable objects alive! ACM Transactions on Graphics 31 4 69:1--69:9. 10.1145/2185520.2185565   Coros S. Martin S. Thomaszewski B. Schumacher C. Sumner R. and Gross M. 2012. Deformable objects alive! ACM Transactions on Graphics 31 4 69:1--69:9. 10.1145/2185520.2185565",
+                "DOI": "10.1145/2185520.2185565",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "Faure F. Gilles B. Bousquet G. and Pai D. K. 2011. Sparse meshless models of complex deformable solids. ACM transactions on graphics (TOG) 30 4 73. 10.1145/2010324.1964968   Faure F. Gilles B. Bousquet G. and Pai D. K. 2011. Sparse meshless models of complex deformable solids. ACM transactions on graphics (TOG) 30 4 73. 10.1145/2010324.1964968",
+                "DOI": "10.1145/2010324.1964968",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "Gilles B. Bousquet G. Faure F. and Pai D. K. 2011. Frame-based elastic models. ACM transactions on graphics (TOG) 30 2 15. 10.1145/1944846.1944855   Gilles B. Bousquet G. Faure F. and Pai D. K. 2011. Frame-based elastic models. ACM transactions on graphics (TOG) 30 2 15. 10.1145/1944846.1944855",
+                "DOI": "10.1145/1944846.1944855",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "unstructured": "Ha S. McCann J. Liu C. K. and Popovic J. 2013. Physics storyboard. Computer Graphics Forum (Eurographics) 32.  Ha S. McCann J. Liu C. K. and Popovic J. 2013. Physics storyboard. Computer Graphics Forum (Eurographics) 32.",
+                "DOI": "10.1111/cgf.12033",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/2185520.2185568",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/2185520.2185567",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/2010324.1964973",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/2185520.2185573",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/2522628.2522631",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/1360612.1360627",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.5555/2421731.2421735",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/566654.566596",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/2508363.2508406",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "unstructured": "Lodigiani V. 2013. The illusion of life. http://the12principles.tumblr.com.  Lodigiani V. 2013. The illusion of life. http://the12principles.tumblr.com."
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/2010324.1964967",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1002/nme.2011",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/344779.344880",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.5555/2421731.2421733",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "author": "Sorkine O.",
+                "volume": "4",
+                "volume-title": "Symposium on Geometry processing"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/1015706.1015736",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/1572614.1572619",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "unstructured": "Thomas F. Johnston O. and Thomas F. 1995. The illusion of life: Disney animation. Hyperion New York.  Thomas F. Johnston O. and Thomas F. 1995. The illusion of life: Disney animation. Hyperion New York."
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/1276377.1276395",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/2766952",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "unstructured": "Witkin A. and Kass M. 1988. Spacetime constraints. In Computer Graphics (Proceedings of SIGGRAPH 88) vol. 22 159--168. 10.1145/54852.378507   Witkin A. and Kass M. 1988. Spacetime constraints. In Computer Graphics (Proceedings of SIGGRAPH 88) vol. 22 159--168. 10.1145/54852.378507",
+                "DOI": "10.1145/378456.378507",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925884&amp;ftid=1755877&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:43:50Z",
+            "timestamp": 1585964630000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 33,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925884"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925884",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

@@ -1,0 +1,558 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T10:23:41Z",
+            "timestamp": 1585995821075
+        },
+        "reference-count": 50,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925969",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 95,
+        "title": [
+            "Fusion4D"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Mingsong",
+                "family": "Dou",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research"
+                    }
+                ]
+            },
+            {
+                "given": "Sameh",
+                "family": "Khamis",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research"
+                    }
+                ]
+            },
+            {
+                "given": "Yury",
+                "family": "Degtyarev",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research"
+                    }
+                ]
+            },
+            {
+                "given": "Philip",
+                "family": "Davidson",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research"
+                    }
+                ]
+            },
+            {
+                "given": "Sean Ryan",
+                "family": "Fanello",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research"
+                    }
+                ]
+            },
+            {
+                "given": "Adarsh",
+                "family": "Kowdle",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research"
+                    }
+                ]
+            },
+            {
+                "given": "Sergio Orts",
+                "family": "Escolano",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research"
+                    }
+                ]
+            },
+            {
+                "given": "Christoph",
+                "family": "Rhemann",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research"
+                    }
+                ]
+            },
+            {
+                "given": "David",
+                "family": "Kim",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research"
+                    }
+                ]
+            },
+            {
+                "given": "Jonathan",
+                "family": "Taylor",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research"
+                    }
+                ]
+            },
+            {
+                "given": "Pushmeet",
+                "family": "Kohli",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research"
+                    }
+                ]
+            },
+            {
+                "given": "Vladimir",
+                "family": "Tankovich",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research"
+                    }
+                ]
+            },
+            {
+                "given": "Shahram",
+                "family": "Izadi",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/2010324.1964970",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "first-page": "1",
+                "article-title": "Patchmatch stereo: Stereo matching with slanted support windows",
+                "volume": "11",
+                "author": "Bleyer M.",
+                "year": "2011",
+                "journal-title": "Proc. BMVC"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "unstructured": "Bogo F. Black M. J. Loper M. and Romero J. 2015. Detailed full-body reconstructions of moving people from monocular RGB-D sequences. In ICCV 2300--2308. 10.1109/ICCV.2015.265   Bogo F. Black M. J. Loper M. and Romero J. 2015. Detailed full-body reconstructions of moving people from monocular RGB-D sequences. In ICCV 2300--2308. 10.1109/ICCV.2015.265",
+                "DOI": "10.1109/ICCV.2015.265",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/2185520.2185549",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/1360612.1360698",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "author": "Cagniart C.",
+                "volume-title": "Proc. CVPR."
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1016/0262-8856(92)90066-C",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "Chen J. Bautembach D. and Izadi S. 2013. Scalable real-time volumetric surface reconstruction. ACM TOG. 10.1145/2461912.2461940   Chen J. Bautembach D. and Izadi S. 2013. Scalable real-time volumetric surface reconstruction. ACM TOG. 10.1145/2461912.2461940",
+                "DOI": "10.1145/2461912.2461940",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/2766945",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/237170.237269",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/1360612.1360697",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "author": "Dou M.",
+                "volume-title": "Proc. ISMAR, IEEE, 99--106"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "Dou M. Taylor J. Fuchs H. Fitzgibbon A. and Izadi S. 2015. 3d scanning deformable objects with a single rgbd sensor. In CVPR.  Dou M. Taylor J. Fuchs H. Fitzgibbon A. and Izadi S. 2015. 3d scanning deformable objects with a single rgbd sensor. In CVPR .",
+                "DOI": "10.1109/CVPR.2015.7298647",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Engels C. Stew\u00e9nius H. and Nist\u00e9r D. 2006. Bundle adjustment rules. Photogrammetric computer vision 2 124--131.  Engels C. Stew\u00e9nius H. and Nist\u00e9r D. 2006. Bundle adjustment rules. Photogrammetric computer vision 2 124--131."
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "author": "Gall J.",
+                "volume-title": "Proc. CVPR, IEEE, 1746--1753"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "Guo K. Xu F. Wang Y. Liu Y. and Dai Q. 2015. Robust non-rigid motion tracking and surface reconstruction using 10 regularization. In ICCV 3083--3091. 10.1109/ICCV.2015.353   Guo K. Xu F. Wang Y. Liu Y. and Dai Q. 2015. Robust non-rigid motion tracking and surface reconstruction using 10 regularization. In ICCV 3083--3091. 10.1109/ICCV.2015.353"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "Kr\u00e4henb\u00fch P. and Koltun V. 2011. Efficient inference in fully connected crfs with gaussian edge potentials. NIPS.  Kr\u00e4henb\u00fch P. and Koltun V. 2011. Efficient inference in fully connected crfs with gaussian edge potentials. NIPS ."
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "unstructured": "Kutulakos K. N. and Seitz S. M. 2000. A theory of shape by space carving. IJCV. 10.1023/A:1008191222954   Kutulakos K. N. and Seitz S. M. 2000. A theory of shape by space carving. IJCV . 10.1023/A:1008191222954",
+                "DOI": "10.1109/ICCV.1999.791235",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "unstructured": "Li H. Adams B. Guibas L. J. and Pauly M. 2009. Robust single-view geometry and motion reconstruction. ACM TOG. 10.1145/1618452.1618521   Li H. Adams B. Guibas L. J. and Pauly M. 2009. Robust single-view geometry and motion reconstruction. ACM TOG . 10.1145/1618452.1618521",
+                "DOI": "10.1145/1661412.1618521",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "Lowe D. G. 2004. Distinctive image features from scale-invariant keypoints. IJCV. 10.1023/B:VISI.0000029664.99615.94   Lowe D. G. 2004. Distinctive image features from scale-invariant keypoints. IJCV . 10.1023/B:VISI.0000029664.99615.94"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "author": "Mitra N. J.",
+                "volume-title": "Proc. SGP, 173--182"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "first-page": "98",
+                "article-title": "The uncanny valley {from the field}. Robotics & Automation Magazine",
+                "volume": "19",
+                "author": "Mori M.",
+                "year": "2012",
+                "journal-title": "IEEE"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1109/ISMAR.2011.6092378",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "author": "Newcombe R. A.",
+                "year": "2015",
+                "volume-title": "Dynamicfusion: Reconstruction and tracking of non-rigid scenes in real-time. In CVPR, 343--352."
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1007/s11263-015-0818-9",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "author": "Pradeep V.",
+                "volume-title": "Proc. ISMAR, IEEE, 83--88"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "author": "Revaud J.",
+                "year": "2015",
+                "volume-title": "Epicflow: Edge-preserving interpolation of correspondences for optical flow. CVPR."
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "unstructured": "Rosten E. and Drummond T. 2005. Fusing points and lines for high performance tracking. In ICCV. 10.1109/ICCV.2005.104   Rosten E. and Drummond T. 2005. Fusing points and lines for high performance tracking. In ICCV . 10.1109/ICCV.2005.104",
+                "DOI": "10.1109/ICCV.2005.104",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "Rusinkiewicz S. and Levoy M. 2001. Efficient variants of the icp algorithm. In 3DIM 145--152.  Rusinkiewicz S. and Levoy M. 2001. Efficient variants of the icp algorithm. In 3DIM 145--152."
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "unstructured": "Shotton J. Glocker B. Zach C. Izadi S. Criminisi A. and Fitzgibbon A. 2013. Scene coordinate regression forests for camera relocalization in rgb-d images. In CVPR. 10.1109/CVPR.2013.377   Shotton J. Glocker B. Zach C. Izadi S. Criminisi A. and Fitzgibbon A. 2013. Scene coordinate regression forests for camera relocalization in rgb-d images. In CVPR. 10.1109/CVPR.2013.377",
+                "DOI": "10.1109/CVPR.2013.377",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "unstructured": "Smolic A. 2011. 3d video and free viewpoint videofrom capture to display. Pattern recognition 44 9 1958--1968. 10.1016/j.patcog.2010.09.005   Smolic A. 2011. 3d video and free viewpoint videofrom capture to display. Pattern recognition 44 9 1958--1968. 10.1016/j.patcog.2010.09.005",
+                "DOI": "10.1016/j.patcog.2010.09.005",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1109/MCG.2007.68",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1109/ICCV.2011.6126338",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/1276377.1276478",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "unstructured": "Tevs A. Berner A. Wand M. Ihrke I. Bokeloh M. Kerber J. and Seidel H.-P. 2012. Animation cartography-intrinsic reconstruction of shape and motion. ACM TOG. 10.1145/2159516.2159517   Tevs A. Berner A. Wand M. Ihrke I. Bokeloh M. Kerber J. and Seidel H.-P. 2012. Animation cartography-intrinsic reconstruction of shape and motion. ACM TOG . 10.1145/2159516.2159517",
+                "DOI": "10.1145/2159516.2159517",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "unstructured": "Theobalt C. de Aguiar E. Stoll C. Seidel H.-P. and Thrun S. 2010. Performance capture from multi-view video. In Image and Geometry Processing for 3D-Cinematography R. Ronfard and G. Taubin Eds. Springer 127ff.  Theobalt C. de Aguiar E. Stoll C. Seidel H.-P. and Thrun S. 2010. Performance capture from multi-view video. In Image and Geometry Processing for 3D-Cinematography R. Ronfard and G. Taubin Eds. Springer 127ff.",
+                "DOI": "10.1007/978-3-642-12392-4_6",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "unstructured": "Vineet V. Warrell J. and Torr P. H. S. 2012. Filter-based mean-field inference for random fields with higher-order terms and product label-spaces. In ECCV. 10.1007/978-3-642-33715-4_3   Vineet V. Warrell J. and Torr P. H. S. 2012. Filter-based mean-field inference for random fields with higher-order terms and product label-spaces. In ECCV . 10.1007/978-3-642-33715-4_3",
+                "DOI": "10.1007/978-3-642-33715-4_3",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "unstructured": "Vlasic D. Baran I. Matusik W. and Popovi\u0107 J. 2008. Articulated mesh animation from multi-view silhouettes. ACM TOG (Proc. SIGGRAPH). 10.1145/1399504.1360696   Vlasic D. Baran I. Matusik W. and Popovi\u0107 J. 2008. Articulated mesh animation from multi-view silhouettes. ACM TOG (Proc. SIGGRAPH) . 10.1145/1399504.1360696",
+                "DOI": "10.1145/1399504.1360696",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/1618452.1618520",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "unstructured": "Wand M. Adams B. Ovsjanikov M. Berner A. Bokeloh M. Jenke P. Guibas L. Seidel H.-P. and Schilling A. 2009. Efficient reconstruction of nonrigid shape and motion from real-time 3D scanner data. ACM TOG. 10.1145/1516522.1516526   Wand M. Adams B. Ovsjanikov M. Berner A. Bokeloh M. Jenke P. Guibas L. Seidel H.-P. and Schilling A. 2009. Efficient reconstruction of nonrigid shape and motion from real-time 3D scanner data. ACM TOG . 10.1145/1516522.1516526",
+                "DOI": "10.1145/1516522.1516526",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "unstructured": "Wang S. Fanello S. R. Rhemann C. Izadi S. and Kohli P. 2016. The global patch collider. CVPR.  Wang S. Fanello S. R. Rhemann C. Izadi S. and Kohli P. 2016. The global patch collider. CVPR .",
+                "DOI": "10.1109/CVPR.2016.21",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "author": "Waschb\u00fcsch M.",
+                "volume-title": "Proc. Pacific Graphics, 629--638"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "unstructured": "Wei L. Huang Q. Ceylan D. Vouga E. and Li H. 2015. Dense human body correspondences using convolutional networks. arXiv preprint arXiv:1511.05904.  Wei L. Huang Q. Ceylan D. Vouga E. and Li H. 2015. Dense human body correspondences using convolutional networks. arXiv preprint arXiv:1511.05904 .",
+                "DOI": "10.1109/CVPR.2016.171",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1109/ICCV.2013.175",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "unstructured": "Ye M. and Yang R. 2014. Real-time simultaneous pose and shape estimation for articulated objects using a single depth camera. In CVPR IEEE. 10.1109/CVPR.2014.301   Ye M. and Yang R. 2014. Real-time simultaneous pose and shape estimation for articulated objects using a single depth camera. In CVPR IEEE. 10.1109/CVPR.2014.301",
+                "DOI": "10.1109/CVPR.2014.301",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "unstructured": "Ye M. Zhang Q. Wang L. Zhu J. Yang R. and Gall J. 2013. A survey on human motion analysis from depth data. In Time-of-Flight and Depth Imaging. Sensors Algorithms and Applications. Springer 149--187.  Ye M. Zhang Q. Wang L. Zhu J. Yang R. and Gall J. 2013. A survey on human motion analysis from depth data. In Time-of-Flight and Depth Imaging. Sensors Algorithms and Applications . Springer 149--187.",
+                "DOI": "10.1007/978-3-642-44964-2_8",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "author": "Zach C.",
+                "year": "2014",
+                "volume-title": "Computer Vision--ECCV"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "DOI": "10.1109/CVPR.2013.26",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "unstructured": "Zhang Q. Fu B. Ye M. and Yang R. 2014. Quality dynamic human body modeling using a single low-cost depth camera. In CVPR IEEE 676--683. 10.1109/CVPR.2014.92   Zhang Q. Fu B. Ye M. and Yang R. 2014. Quality dynamic human body modeling using a single low-cost depth camera. In CVPR IEEE 676--683. 10.1109/CVPR.2014.92",
+                "DOI": "10.1109/CVPR.2014.92",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "unstructured": "Zollh\u00f6fer M. Niessner M. Izadi S. Rhemann C. Zach C. Fisher M. Wu C. Fitzgibbon A. Loop C. Theobalt C. etal 2014. Real-time non-rigid reconstruction using an rgb-d camera. ACM TOG. 10.1145/2601097.2601165   Zollh\u00f6fer M. Niessner M. Izadi S. Rhemann C. Zach C. Fisher M. Wu C. Fitzgibbon A. Loop C. Theobalt C. et al. 2014. Real-time non-rigid reconstruction using an rgb-d camera. ACM TOG. 10.1145/2601097.2601165",
+                "DOI": "10.1145/2601097.2601165",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925969&amp;ftid=1755905&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:32:17Z",
+            "timestamp": 1585963937000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "real-time performance capture of challenging scenes"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 50,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925969"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925969",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

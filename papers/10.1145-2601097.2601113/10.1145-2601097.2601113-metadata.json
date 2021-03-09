@@ -1,0 +1,384 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:11:20Z",
+            "timestamp": 1586002280840
+        },
+        "reference-count": 34,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100000001",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "CGV 1115242, 1116303"
+                ]
+            },
+            {
+                "DOI": "10.13039/100002418",
+                "name": "Intel Corporation",
+                "doi-asserted-by": "publisher",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601113",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 16,
+        "title": [
+            "Factored axis-aligned filtering for rendering multiple distribution effects"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Soham Uday",
+                "family": "Mehta",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of California, Berkeley"
+                    }
+                ]
+            },
+            {
+                "given": "JiaXian",
+                "family": "Yao",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of California, Berkeley"
+                    }
+                ]
+            },
+            {
+                "given": "Ravi",
+                "family": "Ramamoorthi",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of California, Berkeley"
+                    }
+                ]
+            },
+            {
+                "given": "Fredo",
+                "family": "Durand",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "MIT CSAIL"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "Belcour L. Soler C. Subr K. Holzschuch N. and Durand F. 2013. 5D covariance tracing for efficient defocus and motion blur. ACM Transanctions on Graphics 32 3 31:1--31:18. 10.1145/2487228.2487239   Belcour L. Soler C. Subr K. Holzschuch N. and Durand F. 2013. 5D covariance tracing for efficient defocus and motion blur. ACM Transanctions on Graphics 32 3 31:1--31:18. 10.1145/2487228.2487239",
+                "DOI": "10.1145/2487228.2487239",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/344779.344932",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/800031.808590",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1109/TIP.2007.901238",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "author": "Dammertz H.",
+                "volume-title": "Proceedings of the Conference on High Performance Graphics, 67--75"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/2532708",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/1073204.1073320",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/1531326.1531399",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/1944846.1944849",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/192161.192171",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/1360612.1360632",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/15922.15902",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "Kalantari N. K. and Sen P. 2013. Removing the noise in Monte Carlo rendering with general image denoising algorithms. Computer Graphics Forum (Proc. of Eurographics 2013) 32 2 93--102.  Kalantari N. K. and Sen P. 2013. Removing the noise in Monte Carlo rendering with general image denoising algorithms. Computer Graphics Forum (Proc. of Eurographics 2013) 32 2 93--102.",
+                "DOI": "10.1111/cgf.12029",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/2010324.1964950",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "unstructured": "Lehtinen J. Aila T. Laine S. and Durand F. 2012. Reconstructing the indirect light field for global illumination. ACM Transanctions on Graphics 31 4 51:1--51:10. 10.1145/2185520.2185547   Lehtinen J. Aila T. Laine S. and Durand F. 2012. Reconstructing the indirect light field for global illumination. ACM Transanctions on Graphics 31 4 51:1--51:10. 10.1145/2185520.2185547",
+                "DOI": "10.1145/2185520.2185547",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/2366145.2366213",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/325334.325188",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/2366145.2366182",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/2461912.2461947",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/122718.122736",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/1618452.1618486",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/800224.806818",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/383259.383271",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/1618452.1618478",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/2366145.2366214",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/2070781.2024193",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/2167076.2167083",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1007/978-3-642-24870-2_7",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "Shirley P. and Morley R. K. 2003. Realistic Ray Tracing 2 ed. A. K. Peters Ltd. Natick MA USA.   Shirley P. and Morley R. K. 2003. Realistic Ray Tracing 2 ed. A. K. Peters Ltd. Natick MA USA."
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/1944745.1944747",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/1516522.1516529",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "unstructured": "Vaidyanathan K. Munkberg J. Clarberg P. and Salvi M. 2014. Layered Light Field Reconstruction for Defocus Blur. To appear in ACM Transactions on Graphics. http://software.intel.com/en-us/articles/layered-light-field-reconstruction-for-defocus-blur.  Vaidyanathan K. Munkberg J. Clarberg P. and Salvi M. 2014. Layered Light Field Reconstruction for Defocus Blur. To appear in ACM Transactions on Graphics . http://software.intel.com/en-us/articles/layered-light-field-reconstruction-for-defocus-blur.",
+                "DOI": "10.1111/cgf.12415",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/1141911.1141997",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "first-page": "85",
+                "article-title": "Irradiance Gradients",
+                "volume": "92",
+                "author": "Ward G.",
+                "year": "1992",
+                "journal-title": "Eurographics Rendering Workshop"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601113&amp;ftid=1488865&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:47:48Z",
+            "timestamp": 1586000868000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 34,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601113"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601113",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

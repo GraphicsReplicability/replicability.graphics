@@ -1,0 +1,418 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:41:08Z",
+            "timestamp": 1586004068302
+        },
+        "reference-count": 37,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100004052",
+                "name": "King Abdullah University of Science and Technology",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/501100001809",
+                "name": "National Natural Science Foundation of China",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "61372168, 61172104, 61331018, 61372184"
+                ]
+            },
+            {
+                "DOI": "10.13039/100000001",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "643822"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601162",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-10",
+        "source": "Crossref",
+        "is-referenced-by-count": 27,
+        "title": [
+            "Inverse procedural modeling of facade layouts"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Fuzhang",
+                "family": "Wu",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "LIAMA-NLPR, CAS Institute of Automation, China and KAUST, KSA"
+                    }
+                ]
+            },
+            {
+                "given": "Dong-Ming",
+                "family": "Yan",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "KAUST, KSA and LIAMA-NLPR, CAS Institute of Automation, China"
+                    }
+                ]
+            },
+            {
+                "given": "Weiming",
+                "family": "Dong",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "LIAMA-NLPR, CAS Institute of Automation, China"
+                    }
+                ]
+            },
+            {
+                "given": "Xiaopeng",
+                "family": "Zhang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "LIAMA-NLPR, CAS Institute of Automation, China"
+                    }
+                ]
+            },
+            {
+                "given": "Peter",
+                "family": "Wonka",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "KAUST, KSA and Arizona State Univ."
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1109/TVCG.2007.1024",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/2421636.2421644",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1016/j.isprsjprs.2009.06.002",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "author": "Bekins D. R.",
+                "volume-title": "Proceedings of 16th IEEE Visualization, 143--150"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "Bokeloh M. Wand M. and Seidel H.-P. 2010. A connection between partial symmetry and inverse procedural modeling. ACM TOG (SIGGRAPH) 29 104:1--104:10. 10.1145/1778765.1778841   Bokeloh M. Wand M. and Seidel H.-P. 2010. A connection between partial symmetry and inverse procedural modeling. ACM TOG (SIGGRAPH) 29 104:1--104:10. 10.1145/1778765.1778841",
+                "DOI": "10.1145/1778765.1778841",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1007/978-3-642-13089-2_13",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1016/j.jda.2011.04.006",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1109/TIT.2005.850116",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "de Marcken C. G. 1996. Unsupervised Language Acquisition. PhD thesis MIT Cambridge MA.   de Marcken C. G. 1996. Unsupervised Language Acquisition . PhD thesis MIT Cambridge MA."
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "author": "Hohmann B.",
+                "volume-title": "Proceedings of the 3rd ISPRS International Workshop 3D-ARCH 2009: \"3D Virtual Reconstruction and Visualization of Complex Architectures\"."
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "Lefebvre S. Hornus S. and Lasram A. 2010. By-example synthesis of architectural textures. ACM TOG (SIGGRAPH) 29 4 84:1--84:8. 10.1145/1778765.1778821   Lefebvre S. Hornus S. and Lasram A. 2010. By-example synthesis of architectural textures. ACM TOG (SIGGRAPH) 29 4 84:1--84:8. 10.1145/1778765.1778821",
+                "DOI": "10.1145/1778765.1778821",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "unstructured": "Lin J. Cohen-Or D. Zhang H. Liang C. Sharf A. Deussen O. and Chen B. 2011. Structure-preserving retargeting of irregular 3D architecture. ACM TOG (SIGGRAPH Asia) 30 6 183:1--183:10. 10.1145/2070781.2024217   Lin J. Cohen-Or D. Zhang H. Liang C. Sharf A. Deussen O. and Chen B. 2011. Structure-preserving retargeting of irregular 3D architecture. ACM TOG (SIGGRAPH Asia) 30 6 183:1--183:10. 10.1145/2070781.2024217",
+                "DOI": "10.1145/2070781.2024217",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "Lipp M. Wonka P. and Wimmer M. 2008. Interactive visual editing of grammars for procedural architecture. ACM TOG (SIGGRAPH) 27 3 102:1--102:10. 10.1145/1360612.1360701   Lipp M. Wonka P. and Wimmer M. 2008. Interactive visual editing of grammars for procedural architecture. ACM TOG (SIGGRAPH) 27 3 102:1--102:10. 10.1145/1360612.1360701",
+                "DOI": "10.1145/1360612.1360701",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1109/CVPR.2013.33",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1109/3DIMPVT.2011.45",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/1141911.1141931",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "M\u00fcller P. Zeng G. Wonka P. and Gool L. V. 2007. Image-based procedural modeling of facades. ACM TOG (SIGGRAPH) 26 3 85:1--85:9. 10.1145/1276377.1276484   M\u00fcller P. Zeng G. Wonka P. and Gool L. V. 2007. Image-based procedural modeling of facades. ACM TOG (SIGGRAPH) 26 3 85:1--85:9. 10.1145/1276377.1276484"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1111/j.1467-8659.2012.03045.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1111/cgf.12077",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1109/MCG.2010.104",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "Powell W. B. 2011. Approximate Dynamic Programming: Solving the curses of dimensionality 2nd ed. John Wiley and Sons.  Powell W. B. 2011. Approximate Dynamic Programming: Solving the curses of dimensionality 2nd ed. John Wiley and Sons.",
+                "DOI": "10.1002/9781118029176",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "unstructured": "Prusinkiewicz P. and Lindenmayer A. 1990. The Algorithmic Beauty of Plants. Springer-Verlag New York.   Prusinkiewicz P. and Lindenmayer A. 1990. The Algorithmic Beauty of Plants . Springer-Verlag New York.",
+                "DOI": "10.1007/978-1-4613-8476-2",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "Riemenschneider H. Krispel U. Thaller W. Donoser M. Havemann S. Fellner D. and Bischof H. 2012. Irregular lattices for complex shape grammar facade parsing. In CVPR 1640--1647.   Riemenschneider H. Krispel U. Thaller W. Donoser M. Havemann S. Fellner D. and Bischof H. 2012. Irregular lattices for complex shape grammar facade parsing. In CVPR 1640--1647.",
+                "DOI": "10.1109/CVPR.2012.6247857",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "author": "Ripperda N.",
+                "volume-title": "Proc. of 12th AGILE Conf. on GIScience."
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1007/s11263-010-0370-6",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "unstructured": "Talton J. O. Yang L. Kumar R. Lim M. Goodman N. D. and Mech R. 2012. Learning design patterns with bayesian grammar induction. In UIST 63--74. 10.1145/2380116.2380127   Talton J. O. Yang L. Kumar R. Lim M. Goodman N. D. and Mech R. 2012. Learning design patterns with bayesian grammar induction. In UIST 63--74. 10.1145/2380116.2380127"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "unstructured": "Teboul O. Kokkinos I. Simon L. Koutsourakis P. and Paragios N. 2011. Shape grammar parsing via reinforcement learning. In CVPR 2273--2280. 10.1109/CVPR.2011.5995319   Teboul O. Kokkinos I. Simon L. Koutsourakis P. and Paragios N. 2011. Shape grammar parsing via reinforcement learning. In CVPR 2273--2280. 10.1109/CVPR.2011.5995319",
+                "DOI": "10.1109/CVPR.2011.5995319",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1109/TPAMI.2012.252",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "Toshev A. Mordohai P. and Taskar B. 2010. Detecting and parsing architecture at city scale from range data. In CVPR 398--405.  Toshev A. Mordohai P. and Taskar B. 2010. Detecting and parsing architecture at city scale from range data. In CVPR 398--405.",
+                "DOI": "10.1109/CVPR.2010.5540187",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "unstructured": "Vanegas C. A. Aliaga D. G. and Benevs B. 2010. Building reconstruction using manhattan-world grammars. In CVPR 358--365.  Vanegas C. A. Aliaga D. G. and Benevs B. 2010. Building reconstruction using manhattan-world grammars. In CVPR 358--365.",
+                "DOI": "10.1109/CVPR.2010.5540190",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1111/j.1467-8659.2009.01636.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1109/MCG.2008.57",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "unstructured": "Weissenberg J. Riemenschneider H. Prasad M. and Van Gool L. 2013. Is there a procedural logic to architecture? In CVPR 185--192. 10.1109/CVPR.2013.31   Weissenberg J. Riemenschneider H. Prasad M. and Van Gool L. 2013. Is there a procedural logic to architecture? In CVPR 185--192. 10.1109/CVPR.2013.31",
+                "DOI": "10.1109/CVPR.2013.31",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/882262.882324",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1145/2421636.2421639",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "unstructured": "Zhang H. Xu K. Jiang W. Lin J. Cohen-Or D. and Chen B. 2013. Layered analysis of irregular facades via symmetry maximization. ACM TOG (SIGGRAPH) 32 4 121:1--121:10. 10.1145/2461912.2461923   Zhang H. Xu K. Jiang W. Lin J. Cohen-Or D. and Chen B. 2013. Layered analysis of irregular facades via symmetry maximization. ACM TOG (SIGGRAPH) 32 4 121:1--121:10. 10.1145/2461912.2461923",
+                "DOI": "10.1145/2461912.2461923",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "unstructured": "Zhao P. Yang L. Zhang H. and Quan L. 2012. Per-pixel translational symmetry detection optimization and segmentation. In CVPR 526--533.   Zhao P. Yang L. Zhang H. and Quan L. 2012. Per-pixel translational symmetry detection optimization and segmentation. In CVPR 526--533."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601162&amp;ftid=1488929&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:00:56Z",
+            "timestamp": 1586001656000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 37,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601162"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601162",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

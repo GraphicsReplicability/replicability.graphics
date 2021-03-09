@@ -1,0 +1,665 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    8,
+                    12
+                ]
+            ],
+            "date-time": "2020-08-12T12:40:50Z",
+            "timestamp": 1597236050611
+        },
+        "reference-count": 78,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    8
+                ]
+            ]
+        },
+        "DOI": "10.1145/3386569.3392445",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2020,
+                    8,
+                    12
+                ]
+            ],
+            "date-time": "2020-08-12T11:44:27Z",
+            "timestamp": 1597232667000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+            "A level-set method for magnetic substance simulation"
+        ],
+        "prefix": "10.1145",
+        "volume": "39",
+        "author": [
+            {
+                "given": "Xingyu",
+                "family": "Ni",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Peking University &amp; AICFVE"
+                    }
+                ]
+            },
+            {
+                "given": "Bo",
+                "family": "Zhu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Dartmouth College"
+                    }
+                ]
+            },
+            {
+                "given": "Bin",
+                "family": "Wang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Beijing Film Academy"
+                    }
+                ]
+            },
+            {
+                "given": "Baoquan",
+                "family": "Chen",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Peking University &amp; AICFVE"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "author": "Aanjaneya Mridul",
+                "volume": "36",
+                "year": "2017",
+                "article-title": "Power Diagrams and Sparse Paged Grids for High Resolution Adaptive Liquids",
+                "journal-title": "ACM Trans. Graph."
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/2019406.2019408",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "doi-asserted-by": "crossref",
+                "first-page": "022608",
+                "DOI": "10.1103/PhysRevE.99.022608",
+                "article-title": "Wrinkling and folding patterns in a confined ferrofluid droplet with an elastic interface",
+                "volume": "99",
+                "author": "Anjos Pedro H. A.",
+                "year": "2019",
+                "journal-title": "Physical Review E"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.5555/1632592.1632624",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "author": "Batty Christopher",
+                "year": "2012",
+                "volume-title": "Discrete Viscous Sheets. ACM Transactions on Graphics (Proceedings of SIGGRAPH 2012)"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/1778765.1778853",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "unstructured": "Robert Bridson. 2015. Fluid simulation for computer graphics (2nd ed.). AK Peters/CRC Press Boca Raton FL USA.  Robert Bridson. 2015. Fluid simulation for computer graphics (2nd ed.). AK Peters/CRC Press Boca Raton FL USA.",
+                "DOI": "10.1201/9781315266008",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "author": "Brochu Tyson",
+                "year": "2012",
+                "volume-title": "Proceedings of the ACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA '12)"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1016/j.jmmm.2013.11.042",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/2601097.2601146",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/2767003",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "author": "Da Fang",
+                "volume": "35",
+                "year": "2016",
+                "article-title": "Surface-Only Liquids",
+                "journal-title": "ACM Trans. Graph."
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "author": "Da Fang",
+                "volume": "35",
+                "year": "2016",
+                "article-title": "Surface-Only Liquids",
+                "journal-title": "ACM Trans. Graph."
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "doi-asserted-by": "crossref",
+                "first-page": "541",
+                "DOI": "10.1002/andp.19083310807",
+                "article-title": "\u00dcber die im elektromagnetischen Felde auf ruhende K\u00f6rper ausge\u00fcbten ponderomotorischen Kr\u00e4fte",
+                "volume": "331",
+                "author": "Einstein Albert",
+                "year": "1908",
+                "journal-title": "Annalen der Physik"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "author": "Fang Yu",
+                "volume": "38",
+                "year": "2019",
+                "article-title": "Silly Rubber: An Implicit Material Point Method for Simulating Non-Equilibrated Viscoelastic and Elastoplastic Solids",
+                "journal-title": "ACM Trans. Graph."
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/383259.383260",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/3197517.3201392",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "author": "Fei Yun",
+                "volume": "38",
+                "year": "2019",
+                "article-title": "A Multi-Scale Model for Coupling Strands with Shear-Dependent Liquid",
+                "journal-title": "ACM Trans. Graph."
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "author": "Fei Yun",
+                "volume": "36",
+                "year": "2017",
+                "article-title": "A Multi-Scale Model for Simulating Liquid-Hair Interactions",
+                "journal-title": "ACM Trans. Graph."
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/383259.383261",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "author": "Gao Ming",
+                "volume": "36",
+                "year": "2017",
+                "article-title": "An Adaptive Generalized Interpolation Material Point Method for Simulating Elasto-plastic Materials",
+                "journal-title": "ACM Trans. Graph."
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "doi-asserted-by": "crossref",
+                "first-page": "186",
+                "DOI": "10.1016/j.colsurfa.2015.04.038",
+                "article-title": "CFD simulation of equilibrium shape and coalescence of ferrofluid droplets subjected to uniform magnetic field",
+                "volume": "481",
+                "author": "Ghaffari Ali",
+                "year": "2015",
+                "journal-title": "Colloids and Surfaces A: Physicochemical and Engineering Aspects"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1017/S0022112006003466",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1063/1.1761178",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "author": "He Xiaowei",
+                "volume": "31",
+                "year": "2012",
+                "article-title": "Staggered Meshless Solid-Fluid Coupling",
+                "journal-title": "ACM Trans. Graph."
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/1276377.1276436",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "author": "Huang Libo",
+                "volume": "38",
+                "year": "2019",
+                "article-title": "On the Accurate Large-scale Simulation of Ferrofluids",
+                "journal-title": "ACM Trans. Graph."
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "author": "Ishikawa Tomokazu",
+                "volume-title": "Computer Vision, Imaging and Computer Graphics. Theory and Application"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "author": "Doug",
+                "volume-title": "Proceedings of the 26th Annual Conference on Computer Graphics and Interactive Techniques (SIGGRAPH '99)"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "author": "Jeschke Stefan",
+                "volume": "37",
+                "year": "2018",
+                "article-title": "Water Surface Wavelets",
+                "journal-title": "ACM Trans. Graph."
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "author": "Jeschke Stefan",
+                "volume": "34",
+                "year": "2015",
+                "article-title": "Water Wave Animation via Wavefront Parameter Interpolation",
+                "journal-title": "ACM Trans. Graph."
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "author": "Jeschke Stefan",
+                "volume": "34",
+                "year": "2015",
+                "article-title": "Water Wave Animation via Wavefront Parameter Interpolation",
+                "journal-title": "ACM Trans. Graph."
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "author": "Jeschke Stefan",
+                "volume": "36",
+                "year": "2017",
+                "article-title": "Water Wave Packets",
+                "journal-title": "ACM Trans. Graph."
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/3072959.3073623",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "unstructured": "Yupeng Jiang Minchen Li Chenfanfu Jiang and Fernando Alonso-marroquin. 2019. A hybrid material-point spheropolygon-element method for solid and granular material interaction. arXiv:cs.CE/1909.13655  Yupeng Jiang Minchen Li Chenfanfu Jiang and Fernando Alonso-marroquin. 2019. A hybrid material-point spheropolygon-element method for solid and granular material interaction. arXiv:cs.CE/1909.13655"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1023/A:1011178417620",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "author": "Kim Seung-Wook",
+                "volume": "37",
+                "year": "2018",
+                "article-title": "Magnetization Dynamics for Magnetic Object Interactions",
+                "journal-title": "ACM Trans. Graph."
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "author": "Kim Theodore",
+                "volume": "32",
+                "year": "2013",
+                "article-title": "Closest Point Turbulence for Liquid Surfaces",
+                "journal-title": "ACM Trans. Graph."
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/2897824.2925906",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1145/3072959.3073628",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1145/3272127.3275012",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "author": "Liu Haixiang",
+                "volume": "35",
+                "year": "2016",
+                "article-title": "A Scalable Schur-Complement Fluids Solver for Heterogeneous Compute Platforms",
+                "journal-title": "ACM Trans. Graph."
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "doi-asserted-by": "crossref",
+                "first-page": "072008",
+                "DOI": "10.1063/1.3614569",
+                "article-title": "Numerical study of the formation process of ferrofluid droplets",
+                "volume": "23",
+                "author": "Liu Jing",
+                "year": "2011",
+                "journal-title": "Physics of Fluids"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1016/j.compfluid.2005.01.006",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1145/1015706.1015745",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1109/TVCG.2006.51",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "DOI": "10.1109/TVCG.2008.37",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "DOI": "10.1098/rstl.1865.0008",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "author": "McAdams A.",
+                "volume-title": "Proceedings of the 2010 ACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA '10)"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "first-page": "53",
+                "article-title": "Die Grundgleichungen f\u00fcr die elektromagnetischen Vorg\u00e4nge in bewegten K\u00f6rpern. Nachrichten von der Gesellschaft der Wissenschaften zu G\u00f6ttingen",
+                "volume": "1908",
+                "author": "Minkowski Hermann",
+                "year": "1908",
+                "journal-title": "Mathematisch-Physikalische Klasse"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "author": "Nguyen Duc",
+                "year": "2003",
+                "volume-title": "Fall Meeting, UCLA."
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "DOI": "10.1145/566654.566643",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "author": "O'brien James F.",
+                "volume-title": "Proceedings Computer Animation '95"
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "DOI": "10.1023/A:1006611702281",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_55_1",
+                "unstructured": "Stanley Osher and Ronald P Fedkiw. 2005. Level set methods and dynamic implicit surfaces. Springer New York NY USA.  Stanley Osher and Ronald P Fedkiw. 2005. Level set methods and dynamic implicit surfaces. Springer New York NY USA.",
+                "DOI": "10.1115/1.1760520",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_56_1",
+                "DOI": "10.1016/0021-9991(72)90065-4",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_57_1",
+                "DOI": "10.1145/2786784.2786798",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_58_1",
+                "DOI": "10.1016/j.jcp.2010.11.021",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_59_1",
+                "unstructured": "Ronald E. Rosensweig. 1985. Ferrohydrodynamics. Cambridge University Press Cambridgeshire England UK.  Ronald E. Rosensweig. 1985. Ferrohydrodynamics. Cambridge University Press Cambridgeshire England UK."
+            },
+            {
+                "key": "e_1_2_2_60_1",
+                "unstructured": "Robert Saye. 2016. Interfacial gauge methods for incompressible fluid dynamics. Science advances 2 6 (2016) e1501869.  Robert Saye. 2016. Interfacial gauge methods for incompressible fluid dynamics. Science advances 2 6 (2016) e1501869.",
+                "DOI": "10.1126/sciadv.1501869",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_61_1",
+                "unstructured": "Robert I Saye and James A Sethian. 2013. Multiscale modeling of membrane rearrangement drainage and rupture in evolving foams. Science 340 6133 (2013) 720--724.  Robert I Saye and James A Sethian. 2013. Multiscale modeling of membrane rearrangement drainage and rupture in evolving foams. Science 340 6133 (2013) 720--724."
+            },
+            {
+                "key": "e_1_2_2_62_1",
+                "author": "Schreck Camille",
+                "volume": "38",
+                "year": "2019",
+                "article-title": "Fundamental Solutions for Water Wave Animation",
+                "journal-title": "ACM Trans. Graph."
+            },
+            {
+                "key": "e_1_2_2_63_1",
+                "DOI": "10.1145/2661229.2661269",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_64_1",
+                "DOI": "10.1073/pnas.93.4.1591",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_65_1",
+                "doi-asserted-by": "crossref",
+                "first-page": "144",
+                "DOI": "10.1080/10407782.2013.869459",
+                "article-title": "Numerical simulation of a falling ferrofluid droplet in a uniform magnetic field by the VOSET method",
+                "volume": "66",
+                "author": "Shi Dongxiao",
+                "year": "2014",
+                "journal-title": "Numerical Heat Transfer, Part A: Applications"
+            },
+            {
+                "key": "e_1_2_2_66_1",
+                "author": "Solenthaler Barbara",
+                "volume": "30",
+                "year": "2011",
+                "article-title": "Two-Scale Particle Simulation",
+                "journal-title": "ACM Trans. Graph."
+            },
+            {
+                "key": "e_1_2_2_67_1",
+                "author": "Thomaszewski Bernhard",
+                "volume": "27",
+                "year": "2008",
+                "article-title": "Magnets in Motion",
+                "journal-title": "ACM Trans. Graph."
+            },
+            {
+                "key": "e_1_2_2_68_1",
+                "author": "Th\u00fcrey Nils",
+                "volume": "29",
+                "year": "2010",
+                "article-title": "A Multiscale Approach to Mesh-Based Surface Tension Flows",
+                "journal-title": "ACM Trans. Graph."
+            },
+            {
+                "key": "e_1_2_2_69_1",
+                "author": "Yang Sheng",
+                "year": "2016",
+                "volume-title": "Proceedings of the ACMSIGGRAPH/Eurographics Symposium on Computer Animation (SCA '16)"
+            },
+            {
+                "key": "e_1_2_2_70_1",
+                "first-page": "5",
+                "article-title": "Numerical Analysis of Transitional Behavior of Ferrofluid Employing MPS Method and FEM",
+                "volume": "47",
+                "author": "Yoshikawa G.",
+                "year": "2011",
+                "journal-title": "IEEE Transactions on Magnetics"
+            },
+            {
+                "key": "e_1_2_2_71_1",
+                "DOI": "10.1145/2751541",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_72_1",
+                "DOI": "10.1145/3272127.3275095",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_73_1",
+                "doi-asserted-by": "crossref",
+                "first-page": "244",
+                "DOI": "10.1016/j.jmps.2018.10.008",
+                "article-title": "Mechanics of hard-magnetic soft materials",
+                "volume": "124",
+                "author": "Zhao Ruike",
+                "year": "2019",
+                "journal-title": "Journal of the Mechanics and Physics of Solids"
+            },
+            {
+                "key": "e_1_2_2_74_1",
+                "DOI": "10.5555/1218064.1218109",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_75_1",
+                "DOI": "10.1016/j.jcp.2014.08.051",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_76_1",
+                "DOI": "10.1145/2766981",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_77_1",
+                "author": "Zhu Bo",
+                "volume": "33",
+                "year": "2014",
+                "article-title": "Codimensional Surface Tension Flowon Simplicial Complexes",
+                "journal-title": "ACM Trans. Graph."
+            },
+            {
+                "key": "e_1_2_2_78_1",
+                "DOI": "10.1145/1073204.1073298",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    8,
+                    12
+                ]
+            ],
+            "date-time": "2020-08-12T12:10:39Z",
+            "timestamp": 1597234239000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    8
+                ]
+            ]
+        },
+        "references-count": 78,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2020,
+                        7,
+                        8
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3386569.3392445"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3386569.3392445",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

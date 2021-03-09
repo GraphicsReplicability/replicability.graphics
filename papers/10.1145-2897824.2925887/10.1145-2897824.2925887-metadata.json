@@ -1,0 +1,389 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T02:11:27Z",
+            "timestamp": 1585966287998
+        },
+        "reference-count": 34,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925887",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 5,
+        "title": [
+            "Legible compact calligrams"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Changqing",
+                "family": "Zou",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Simon Fraser University and Hengyang Normal University"
+                    }
+                ]
+            },
+            {
+                "given": "Junjie",
+                "family": "Cao",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Dalian University of Technology and Simon Fraser University"
+                    }
+                ]
+            },
+            {
+                "given": "Warunika",
+                "family": "Ranaweera",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Simon Fraser University"
+                    }
+                ]
+            },
+            {
+                "given": "Ibraheem",
+                "family": "Alhashim",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Simon Fraser University"
+                    }
+                ]
+            },
+            {
+                "given": "Ping",
+                "family": "Tan",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Simon Fraser University"
+                    }
+                ]
+            },
+            {
+                "given": "Alla",
+                "family": "Sheffer",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of British Columbia"
+                    }
+                ]
+            },
+            {
+                "given": "Hao",
+                "family": "Zhang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Simon Fraser University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "Adobe 2010. Illustrator CS5 adobe.com/products/illustrator.  Adobe 2010. Illustrator CS5 adobe.com/products/illustrator."
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "Andrews T. 2012. Computation time comparison between matlab and C++ using launch windows. Research report submitted to American Institute of Aeronautics and Astronautics California Polytechnic State University San Luis Obispo.  Andrews T. 2012. Computation time comparison between matlab and C++ using launch windows. Research report submitted to American Institute of Aeronautics and Astronautics California Polytechnic State University San Luis Obispo ."
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "unstructured": "Aruoba S. B. and Fernandez-Villaverde J. 2014. A comparison of programming languages in economics. National Bureau of Economic Research Working Paper 20263.  Aruoba S. B. and Fernandez-Villaverde J. 2014. A comparison of programming languages in economics. National Bureau of Economic Research Working Paper 20263 .",
+                "DOI": "10.3386/w20263",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "Cai D. Chi C.-F. and You M. 2008. Assessment of english letters' legibility using image descriptors. Perceptual and motor skills 107 2 618--628.  Cai D. Chi C.-F. and You M. 2008. Assessment of english letters' legibility using image descriptors. Perceptual and motor skills 107 2 618--628.",
+                "DOI": "10.2466/pms.107.2.618-628",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/2601097.2601212",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/1054972.1055070",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/42188.42265",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/1274871.1274873",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "author": "Goferman S.",
+                "volume-title": "Computer Graphics Forum"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "author": "Harris C.",
+                "volume-title": "In Proc. of Fourth Alvey Vision Conference, 147--151"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "Helmond A. 2010. Textaizer mosaizer.com/Textaizer.  Helmond A. 2010. Textaizer mosaizer.com/Textaizer."
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/1073204.1073323",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/2010324.1964973",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Jin C. and Wang L. 2012. Dimensionality dependent pacbayes margin bound. In NIPS 1043--1051.  Jin C. and Wang L. 2012. Dimensionality dependent pacbayes margin bound. In NIPS 1043--1051."
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "unstructured": "Joachims T. 2002. Optimizing search engines using clickthrough data. In KDD 133--142. 10.1145/775047.775067   Joachims T. 2002. Optimizing search engines using clickthrough data. In KDD 133--142. 10.1145/775047.775067"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "Kendall M. G. 1938. A new measure of rank correlation. Biometrika 30 1/2 81--93.  Kendall M. G. 1938. A new measure of rank correlation. Biometrika 30 1/2 81--93.",
+                "DOI": "10.1093/biomet/30.1-2.81",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/566654.566633",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "unstructured": "Kovesi P. 2006. Matlab and octave functions for computer vision and image processing. http://people.csse.uwa.edu.au/pk/Research/MatlabFns/index.html.  Kovesi P. 2006. Matlab and octave functions for computer vision and image processing. http://people.csse.uwa.edu.au/pk/Research/MatlabFns/index.html."
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "unstructured": "Liang L. and Grauman K. 2014. Beyond comparing image pairs: Setwise active learning for relative attributes. In 2014 208--215. 10.1109/CVPR.2014.34   Liang L. and Grauman K. 2014. Beyond comparing image pairs: Setwise active learning for relative attributes. In 2014 208--215. 10.1109/CVPR.2014.34",
+                "DOI": "10.1109/CVPR.2014.34",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/1360612.1360677",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1037/0096-1523.16.1.1066",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1109/TIP.2014.2376188",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/2010324.1964995",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/2601097.2601110",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "unstructured": "Parikh D. and Grauman K. 2011. Relative attributes. In ICCV 503--510. 10.1109/ICCV.2011.6126281   Parikh D. and Grauman K. 2011. Relative attributes. In ICCV 503--510. 10.1109/ICCV.2011.6126281",
+                "DOI": "10.1109/ICCV.2011.6126281",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1111/cgf.12763",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "unstructured": "Russell S. J. and Norvig P. 2010. Artificial Intelligence - A Modern Approach (3. internat. ed.). Pearson Education.   Russell S. J. and Norvig P. 2010. Artificial Intelligence - A Modern Approach (3. internat. ed.) . Pearson Education."
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1518/001872005775570998",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "author": "Weber O.",
+                "volume": "28",
+                "volume-title": "Computer Graphics Forum"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "unstructured": "Wikipedia 2014. Calligram --- wikipedia the free encyclopedia. {Online; accessed 9-October-2014}.  Wikipedia 2014. Calligram --- wikipedia the free encyclopedia. {Online; accessed 9-October-2014}."
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/1268517.1268527",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/1778765.1778789",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/2661229.2661287",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/2461912.2461985",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925887&amp;ftid=1755937&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:43:23Z",
+            "timestamp": 1585964603000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 34,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925887"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925887",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

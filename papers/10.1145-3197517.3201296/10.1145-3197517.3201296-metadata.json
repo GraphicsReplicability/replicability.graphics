@@ -1,0 +1,477 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:54Z",
+            "timestamp": 1585962714200
+        },
+        "reference-count": 43,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100000038",
+                "name": "Natural Sciences and Engineering Research Council of Canada",
+                "doi-asserted-by": "crossref",
+                "award": []
+            },
+            {
+                "name": "Vital Mechanics Research, Inc.",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201296",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 3,
+        "title": [
+            "The human touch"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Dinesh K.",
+                "family": "Pai",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of British Columbia and Vital Mechanics Research, Canada"
+                    }
+                ]
+            },
+            {
+                "given": "Austin",
+                "family": "Rothwell",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of British Columbia"
+                    }
+                ]
+            },
+            {
+                "given": "Pearson",
+                "family": "Wyder-Hodge",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of British Columbia"
+                    }
+                ]
+            },
+            {
+                "given": "Alistair",
+                "family": "Wick",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of British Columbia"
+                    }
+                ]
+            },
+            {
+                "given": "Ye",
+                "family": "Fan",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of British Columbia and Vital Mechanics Research"
+                    }
+                ]
+            },
+            {
+                "given": "Egor",
+                "family": "Larionov",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of British Columbia and Vital Mechanics Research"
+                    }
+                ]
+            },
+            {
+                "given": "Darcy",
+                "family": "Harrison",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Vital Mechanics Research"
+                    }
+                ]
+            },
+            {
+                "given": "Debanga Raj",
+                "family": "Neog",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of British Columbia"
+                    }
+                ]
+            },
+            {
+                "given": "Cole",
+                "family": "Shing",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of British Columbia"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/2508363.2508415",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.5555/523987.883064",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/1531326.1531395",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "G. Bradski. 2000. The OpenCV Library: Dense Inverse Flow. https://docs.opencv.org/3.3.1/da/d06/classcv_1_1optflow_1_1DISOpticalFlow.html. Dr. Dobb's Journal of Software Tools (2000). Accessed: 2017-12-25.  G. Bradski. 2000. The OpenCV Library: Dense Inverse Flow. https://docs.opencv.org/3.3.1/da/d06/classcv_1_1optflow_1_1DISOpticalFlow.html. Dr. Dobb's Journal of Software Tools (2000). Accessed: 2017-12-25."
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "H. Dreyfuss et al. 1967. Measure of Man. (1967).  H. Dreyfuss et al. 1967. Measure of Man. (1967)."
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/2601097.2601215",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "author": "Flynn C.",
+                "volume-title": "Computational Biophysics of the Skin"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "author": "Gast T. F.",
+                "volume-title": "Proceedings of the ACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA '14)"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/2980179.2982438",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "M. Kim G. Pons-Moll S. Pujades S. Bang J. Kim M. Black and S.-H. Lee. 2017. Data-Driven Physics for Human Soft Tissue Animation. ACM Transactions on Graphics (Proc. SIGGRAPH) 36 4 (2017). 10.1145/3072959.3073685   M. Kim G. Pons-Moll S. Pujades S. Bang J. Kim M. Black and S.-H. Lee. 2017. Data-Driven Physics for Human Soft Tissue Animation. ACM Transactions on Graphics (Proc. SIGGRAPH) 36 4 (2017). 10.1145/3072959.3073685",
+                "DOI": "10.1145/3072959.3073685",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.5555/3128975.3129005",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/237170.237281",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "author": "Kroeger T.",
+                "year": "2016",
+                "volume-title": "European Conference on Computer Vision"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/1141911.1141969",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "author": "Lanir Y.",
+                "volume": "7",
+                "year": "1974",
+                "article-title": "Two-dimensional mechanical properties of rabbit skin-II. Experimental results",
+                "journal-title": "Journal of biomechanics"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/1559755.1559756",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/1559755.1559756",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/2461912.2462008",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1098/rspa.2017.0257",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1109/SIBGRAPI.2009.11",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "W. Maurel Y. Wu N. M. Thalmann and D. Thalmann. 1998. Biomechanical models for soft tissue simulation. Springer.   W. Maurel Y. Wu N. M. Thalmann and D. Thalmann. 1998. Biomechanical models for soft tissue simulation. Springer.",
+                "DOI": "10.1007/978-3-662-03589-4",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/1964921.1964932",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "author": "Miguel E.",
+                "volume": "35",
+                "volume-title": "Modeling and Estimation of Energy-Based Hyperelastic Objects. In Computer Graphics Forum"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "N. M. Mitchell T. W. King A. Oliker E. D. Sifakis etal 2016. A Real-Time Local Flaps Surgical Simulator Based on Advances in Computational Algorithms for Finite Element Models. Plastic and reconstructive surgery 137 2 (2016) 445e--452e.  N. M. Mitchell T. W. King A. Oliker E. D. Sifakis et al. 2016. A Real-Time Local Flaps Surgical Simulator Based on Advances in Computational Algorithms for Finite Element Models. Plastic and reconstructive surgery 137 2 (2016) 445e--452e.",
+                "DOI": "10.1097/01.prs.0000475793.38984.7e",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "unstructured": "R. Murray Z. Li and S. S. Sastry. 1994. A mathematical introduction to robotic manipulation. CRC Press.   R. Murray Z. Li and S. S. Sastry. 1994. A mathematical introduction to robotic manipulation. CRC Press."
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1098/rspa.1972.0026",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1007/s00466-004-0593-y",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "author": "Pai D. K.",
+                "year": "2000",
+                "volume-title": "Robotics in Reality-based Modeling. In Robotics Research: the Ninth International Symposium. Springer-Verlag, 353--358"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/383259.383268",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/2766993",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1098/rsta.1951.0004",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/2626346",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/2343483.2343501",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "author": "Sifakis E.",
+                "year": "2015",
+                "volume-title": "Visual Computing: Computer Graphics, Animation, Computational Photography, and Imaging 1, 1"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "unstructured": "E. Sifakis I. Neverov and R. Fedkiw. 2005. Automatic determination of facial muscle activations from sparse motion capture marker data. In Acm transactions on graphics (tog) Vol. 24. ACM 417--425. 10.1145/1073204.1073208   E. Sifakis I. Neverov and R. Fedkiw. 2005. Automatic determination of facial muscle activations from sparse motion capture marker data. In Acm transactions on graphics (tog) Vol. 24. ACM 417--425. 10.1145/1073204.1073208",
+                "DOI": "10.1145/1073204.1073208",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1145/3180491",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/1360612.1360682",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1109/TVCG.2005.42",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/1073368.1073394",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1145/2461912.2461960",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1145/2766911",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "unstructured": "H. Wendland. 2005. Scattered Data Approximation: Cambridge Monographs on Applied and Computational Mathematics No. 17. Cambridge University Press GB Chapter 16.2 - Hermite-Birkhoff interpolation.  H. Wendland. 2005. Scattered Data Approximation: Cambridge Monographs on Applied and Computational Mathematics No. 17. Cambridge University Press GB Chapter 16.2 - Hermite-Birkhoff interpolation."
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1145/2897824.2925882",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201296&ftid=1991769&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:52:07Z",
+            "timestamp": 1585961527000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "measuring contact with real human soft tissues"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 43,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201296"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201296",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

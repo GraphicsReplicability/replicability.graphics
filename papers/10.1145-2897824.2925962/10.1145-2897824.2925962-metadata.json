@@ -1,0 +1,436 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T02:11:27Z",
+            "timestamp": 1585966287641
+        },
+        "reference-count": 48,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925962",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 17,
+        "title": [
+            "Lightweight eye capture using a parametric model"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Pascal",
+                "family": "B\u00e9rard",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "ETH Zurich and Disney Research"
+                    }
+                ]
+            },
+            {
+                "given": "Derek",
+                "family": "Bradley",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Disney Research"
+                    }
+                ]
+            },
+            {
+                "given": "Markus",
+                "family": "Gross",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "ETH Zurich and Disney Research"
+                    }
+                ]
+            },
+            {
+                "given": "Thabo",
+                "family": "Beeler",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Disney Research"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/882262.882311",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "author": "Amberg B.",
+                "volume-title": "Computer Vision and Pattern Recognition, 2007. CVPR'07. IEEE Conference on, IEEE, 1-8."
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/1073204.1073207",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/1778765.1778777",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/2010324.1964970",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/2661229.2661285",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/311535.311556",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1109/TPAMI.2004.60",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/1778765.1778778",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.5555/1018408.1018699",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/2601097.2601204",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/2448196.2448219",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/383259.383296",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Flickr. 2006. Mohammed Alnaser - Mr. Falcon. Creative Commons - Attribution 2.0. https://www.flickr.com/photos/69er/324313066.  Flickr. 2006. Mohammed Alnaser - Mr. Falcon. Creative Commons - Attribution 2.0. https://www.flickr.com/photos/69er/324313066."
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1109/TVCG.2009.24",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/1015706.1015775",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "Fyffe G. Hawkins T. Watts C. Ma W.-C. and Debevec P. 2011. Comprehensive facial performance capture. In Eurographics.  Fyffe G. Hawkins T. Watts C. Ma W.-C. and Debevec P. 2011. Comprehensive facial performance capture. In Eurographics.",
+                "DOI": "10.1111/j.1467-8659.2011.01888.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/2638549",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/2508363.2508380",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/2070781.2024163",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "Guo B. Liang L. Liu C. Shum H.-Y. and Xu Y. 2001. Real-time texture synthesis by patch-based sampling.  Guo B. Liang L. Liu C. Shum H.-Y. and Xu Y. 2001. Real-time texture synthesis by patch-based sampling.",
+                "DOI": "10.1145/501786.501787",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "first-page": "915",
+                "article-title": "An extension of the icp algorithm for modeling nonrigid objects with mobile robots",
+                "volume": "3",
+                "author": "Haehnel D.",
+                "year": "2003",
+                "journal-title": "IJCAI"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "author": "Ikemoto L.",
+                "volume-title": "Proceedings. Fourth International Conference on, IEEE, 434--441"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1109/TPAMI.2004.44",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/1015706.1015770",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/882262.882264",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1109/MCG.2003.1242384",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "unstructured": "Li H. Sumner R. W. and Pauly M. 2008. Global correspondence optimization for non-rigid registration of depth scans. In Computer graphics forum vol. 27 Wiley Online Library 1421--1430.   Li H. Sumner R. W. and Pauly M. 2008. Global correspondence optimization for non-rigid registration of depth scans. In Computer graphics forum vol. 27 Wiley Online Library 1421--1430.",
+                "DOI": "10.1111/j.1467-8659.2008.01282.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1016/j.cad.2014.08.016",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.5555/2383847.2383873",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/1531326.1531363",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/1531326.1531364",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/882262.882269",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/344779.344987",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1109/TVCG.2007.4",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "unstructured": "Rozenberg G. and Salomaa A. 1976. The mathematical theory of L systems. Springer.   Rozenberg G. and Salomaa A. 1976. The mathematical theory of L systems . Springer.",
+                "DOI": "10.1007/978-1-4615-8249-6_4",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "unstructured": "Ruhland K. Andrist S. Badler J. Peters C. Badler N. Gleicher M. Mutlu B. and McDonnell R. 2014. Look me in the eyes: A survey of eye and gaze animation for virtual agents and artificial systems. In Eurographics State of the Art Reports 69--91.  Ruhland K. Andrist S. Badler J. Peters C. Badler N. Gleicher M. Mutlu B. and McDonnell R. 2014. Look me in the eyes: A survey of eye and gaze animation for virtual agents and artificial systems. In Eurographics State of the Art Reports 69--91."
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1145/192161.192200",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "unstructured": "Shen H.-L. and Cai Q.-Y. 2009. Simple and efficient method for specularity removal in an image. Applied optics 48 14 2711--2719.  Shen H.-L. and Cai Q.-Y. 2009. Simple and efficient method for specularity removal in an image. Applied optics 48 14 2711--2719.",
+                "DOI": "10.1364/AO.48.002711",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1145/1057432.1057456",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "unstructured": "Suwajanakorn S. Kemelmacher-Shlizerman I. and Seitz S. M. 2014. Total moving face reconstruction. In Computer Vision--ECCV 2014. Springer 796--812.  Suwajanakorn S. Kemelmacher-Shlizerman I. and Seitz S. M. 2014. Total moving face reconstruction. In Computer Vision--ECCV 2014 . Springer 796--812.",
+                "DOI": "10.1007/978-3-319-10593-2_52",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "unstructured": "Tai Y.-W. Liu S. Brown M. S. and Lin S. 2010. Super resolution using edge prior and single image detail synthesis. In CVPR.  Tai Y.-W. Liu S. Brown M. S. and Lin S. 2010. Super resolution using edge prior and single image detail synthesis. In CVPR.",
+                "DOI": "10.1109/CVPR.2010.5539933",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1145/2366145.2366206",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1145/1073204.1073209",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "unstructured": "Wei L.-Y. Lefebvre S. Kwatra V. and Turk G. 2009. State of the art in example-based texture synthesis. In Eurographics 2009 State of the Art Report EG-STAR Eurographics Association 93--117.  Wei L.-Y. Lefebvre S. Kwatra V. and Turk G. 2009. State of the art in example-based texture synthesis. In Eurographics 2009 State of the Art Report EG-STAR Eurographics Association 93--117."
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "unstructured": "Wikimedia Commons. 1485. Sandro Botticelli - The Birth of the Venus. Public Domain. https://commons.wikimedia.org/wiki/File:Venus_botticelli_detail.jpg.  Wikimedia Commons. 1485. Sandro Botticelli - The Birth of the Venus . Public Domain. https://commons.wikimedia.org/wiki/File:Venus_botticelli_detail.jpg."
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "unstructured": "Wikimedia Commons. 1887. Vincent Van Gogh - Self-Portrait. Public Domain. https://commons.wikimedia.org/wiki/File:VanGogh_1887_Selbstbildnis.jpg.  Wikimedia Commons. 1887. Vincent Van Gogh - Self-Portrait . Public Domain. https://commons.wikimedia.org/wiki/File:VanGogh_1887_Selbstbildnis.jpg."
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "unstructured": "Wikimedia Commons. 2006. Blue Eye Image. GNU Free Documentation License Version 1.2. https://commons.wikimedia.org/wiki/File:Blueye.JPG.  Wikimedia Commons. 2006. Blue Eye Image . GNU Free Documentation License Version 1.2. https://commons.wikimedia.org/wiki/File:Blueye.JPG."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925962&amp;ftid=1755940&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:33:20Z",
+            "timestamp": 1585964000000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 48,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925962"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925962",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

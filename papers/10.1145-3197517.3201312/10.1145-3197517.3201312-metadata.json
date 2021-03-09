@@ -1,0 +1,540 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:55Z",
+            "timestamp": 1585962715721
+        },
+        "reference-count": 62,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100000038",
+                "name": "Natural Sciences and Engineering Research Council of Canada",
+                "doi-asserted-by": "publisher",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201312",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 1,
+        "title": [
+            "Perception-driven semi-structured boundary vectorization"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Shayan",
+                "family": "Hoshyari",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of British Columbia"
+                    }
+                ]
+            },
+            {
+                "given": "Edoardo Alberto",
+                "family": "Dominici",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of British Columbia"
+                    }
+                ]
+            },
+            {
+                "given": "Alla",
+                "family": "Sheffer",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of British Columbia"
+                    }
+                ]
+            },
+            {
+                "given": "Nathan",
+                "family": "Carr",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe"
+                    }
+                ]
+            },
+            {
+                "given": "Zhaowen",
+                "family": "Wang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe"
+                    }
+                ]
+            },
+            {
+                "given": "Duygu",
+                "family": "Ceylan",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe"
+                    }
+                ]
+            },
+            {
+                "given": "I-Chao",
+                "family": "Shen",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "National Taiwan University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "Adobe. 2017. Adobe Illustrator 2017: Image Trace http://www.adobe.com/. (2017).  Adobe. 2017. Adobe Illustrator 2017: Image Trace http://www.adobe.com/. (2017)."
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "Hani Altwaijry Andreas Veit Sergej Belongie and Cornell Tech. 2016. Learning to Detect and Match Keypoints with Deep Architectures.. In BMVC.  Hani Altwaijry Andreas Veit Sergej Belongie and Cornell Tech. 2016. Learning to Detect and Match Keypoints with Deep Architectures.. In BMVC.",
+                "DOI": "10.5244/C.30.49",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1016/j.patcog.2005.03.006",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1111/j.1467-8659.2009.01635.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1016/0031-3203(87)90004-5",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "unstructured": "Leo Breiman. 2001. Random forests. Machine learning 45 1 (2001) 5--32. 10.1023/A:1010933404324   Leo Breiman. 2001. Random forests. Machine learning 45 1 (2001) 5--32. 10.1023/A:1010933404324",
+                "DOI": "10.1023/A:1010933404324",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1016/j.patcog.2009.06.010",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1023/A:1007979827043",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1007/978-3-540-45179-2_91",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "Ryan Dahl Mohammad Norouzi and Jonathan Shlens. 2017. Pixel Recursive Super Resolution. In IEEE ICCV.  Ryan Dahl Mohammad Norouzi and Jonathan Shlens. 2017. Pixel Recursive Super Resolution. In IEEE ICCV.",
+                "DOI": "10.1109/ICCV.2017.581",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "J. R. Diebel. 2008. Bayesian image vectorization: The probabilistic inversion of vector image rasterization. Ph.D. dissertation Stanford Univ.   J. R. Diebel. 2008. Bayesian image vectorization: The probabilistic inversion of vector image rasterization. Ph.D. dissertation Stanford Univ."
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "unstructured": "Chao Dong Chen Change Loy Kaiming He and Xiaoou Tang. 2014. Learning a deep convolutional network for image super-resolution. In ECCV. 184--199.  Chao Dong Chen Change Loy Kaiming He and Xiaoou Tang. 2014. Learning a deep convolutional network for image super-resolution. In ECCV. 184--199.",
+                "DOI": "10.1007/978-3-319-10593-2_13",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "Eagle. 1997. Eagle. http://everything2.com/index.pl?node_id=1859453. (1997).  Eagle. 1997. Eagle. http://everything2.com/index.pl?node_id=1859453. (1997)."
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Gerald Farin. 2002. Curves and Surfaces for CAGD: A Practical Guide. Morgan Kaufmann Publishers Inc.   Gerald Farin. 2002. Curves and Surfaces for CAGD: A Practical Guide. Morgan Kaufmann Publishers Inc."
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1109/TIP.2016.2514507",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "Raanan Fattal. 2007. Image Upsampling via Imposed Edge Statistics. In ACM SIGGRAPH. Article 95. 10.1145/1275808.1276496   Raanan Fattal. 2007. Image Upsampling via Imposed Edge Statistics. In ACM SIGGRAPH. Article 95. 10.1145/1275808.1276496",
+                "DOI": "10.1145/1275808.1276496",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "Jean-Dominique Favreau Florent Lafarge and Adrien Bousseau Bousseau. 2017. Photo2ClipArt: Image Abstraction and Vectorization Using Layered Linear Gradients. ACM TOG 36 6 (2017). https://hal.inria.fr/hal-01581981 10.1145/3130800.3130888   Jean-Dominique Favreau Florent Lafarge and Adrien Bousseau Bousseau. 2017. Photo2ClipArt: Image Abstraction and Vectorization Using Layered Linear Gradients. ACM TOG 36 6 (2017). https://hal.inria.fr/hal-01581981 10.1145/3130800.3130888",
+                "DOI": "10.1145/3130800.3130888",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "first-page": "1075",
+                "article-title": "Unsupervised contour representation and estimation using B-splines and a minimum description length criterion",
+                "volume": "9",
+                "author": "Figueiredo M. A. T.",
+                "year": "2000",
+                "journal-title": "IEEE TIP"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/1073204.1073227",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1109/TC.1977.1674825",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "Daniel Glasner Shai Bagon and Michal Irani. 2009. Super-Resolution from a Single Image. In IEEE ICCV.  Daniel Glasner Shai Bagon and Michal Irani. 2009. Super-Resolution from a Single Image. In IEEE ICCV.",
+                "DOI": "10.1109/ICCV.2009.5459271",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "author": "Harris Chris",
+                "volume-title": "Alvey vision conference"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "Robert Hess and David Field. 1999. Integration of contours: new insights. Trends in cognitive sciences 3 12 (1999) 480--486.  Robert Hess and David Field. 1999. Integration of contours: new insights. Trends in cognitive sciences 3 12 (1999) 480--486."
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1109/TASSP.1978.1163154",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "unstructured": "Xie Jun Winnem\u00f6ller Holger Li Wilmot and Schiller Stephen. 2017. Interactive Vectorization. In ACM SIGCHI. 10.1145/3025453.3025872   Xie Jun Winnem\u00f6ller Holger Li Wilmot and Schiller Stephen. 2017. Interactive Vectorization. In ACM SIGCHI. 10.1145/3025453.3025872",
+                "DOI": "10.1145/3025453.3025872",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1007/BF00133570",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "unstructured": "Jiwon Kim Jung Kwon Lee and Kyoung Mu Lee. 2016. Accurate image super-resolution using very deep convolutional networks. (2016) 1646--1654.  Jiwon Kim Jung Kwon Lee and Kyoung Mu Lee. 2016. Accurate image super-resolution using very deep convolutional networks. (2016) 1646--1654."
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "unstructured": "K. Koffka. 1955. Principles of Gestalt Psychology. Routledge & K. Paul.  K. Koffka. 1955. Principles of Gestalt Psychology. Routledge & K. Paul."
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "Johannes Kopf and Dani Lischinski. 2011. Depixelizing Pixel Art. ACM TOG 30 4 (2011) 99:1--99:8. 10.1145/2010324.1964994   Johannes Kopf and Dani Lischinski. 2011. Depixelizing Pixel Art. ACM TOG 30 4 (2011) 99:1--99:8. 10.1145/2010324.1964994"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1016/0146-664X(82)90073-9",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "author": "Lecot Gregory",
+                "year": "2006",
+                "volume-title": "Ardeco: Automatic Region Detection and Conversion. In EGSR. 349--360."
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1109/83.951537",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "unstructured": "Yangyan Li Xiaokun Wu Yiorgos Chrysanthou Andrei Sharf Daniel Cohen-Or and Niloy J. Mitra. 2011. GlobFit: Consistently Fitting Primitives by Discovering Global Relations. ACM TOG 30 4 (2011) 52:1--52:12. 10.1145/2010324.1964947   Yangyan Li Xiaokun Wu Yiorgos Chrysanthou Andrei Sharf Daniel Cohen-Or and Niloy J. Mitra. 2011. GlobFit: Consistently Fitting Primitives by Discovering Global Relations. ACM TOG 30 4 (2011) 52:1--52:12. 10.1145/2010324.1964947"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/997817.997823",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.5555/1792279.1792309",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1145/2766929",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "unstructured": "Andrea Mazzoleni. 2001. Scale2x. http://www.scale2x.it/. (2001).  Andrea Mazzoleni. 2001. Scale2x. http://www.scale2x.it/. (2001)."
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "author": "McCrae James",
+                "year": "2008",
+                "volume-title": "Proc. Sketch-Based Interfaces and Modeling."
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/2021164.2021190",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1109/ROBOT.1986.1087424",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "unstructured": "Ravish Mehra Qingnan Zhou Jeremy Long Alla Sheffer Amy Gooch and Niloy J. Mitra. 2009. Abstraction of Man-Made Shapes. ACM TOG 28 5 (2009) 137:1--137:10. 10.1145/1618452.1618483   Ravish Mehra Qingnan Zhou Jeremy Long Alla Sheffer Amy Gooch and Niloy J. Mitra. 2009. Abstraction of Man-Made Shapes. ACM TOG 28 5 (2009) 137:1--137:10. 10.1145/1618452.1618483",
+                "DOI": "10.1145/1618452.1618483",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1007/s00138-014-0623-4",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1145/1360612.1360691",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.5555/1953048.2078195",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "unstructured": "Edward Rosten Reid Porter and Tom Drummond. 2010. Faster and better: A machine learning approach to corner detection. IEEE transactions on pattern analysis and machine intelligence 32 1 (2010) 105--119. 10.1109/TPAMI.2008.275   Edward Rosten Reid Porter and Tom Drummond. 2010. Faster and better: A machine learning approach to corner detection. IEEE transactions on pattern analysis and machine intelligence 32 1 (2010) 105--119. 10.1109/TPAMI.2008.275"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "unstructured": "S Rasoul Safavian and David Landgrebe. 1991. A survey of decision tree classifier methodology. IEEE transactions on systems man and cybernetics 21 3 (1991) 660--674.  S Rasoul Safavian and David Landgrebe. 1991. A survey of decision tree classifier methodology. IEEE transactions on systems man and cybernetics 21 3 (1991) 660--674."
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "unstructured": "ScanFont. 2017. Font Lab http://old.fontlab.eom/font-converter/scanfont//. (2017).  ScanFont. 2017. Font Lab http://old.fontlab.eom/font-converter/scanfont//. (2017)."
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "unstructured": "Peter Selinger. 2003. Potrace: a polygon-based tracing algorithm. In http://potrace.sourceforge.net.  Peter Selinger. 2003. Potrace: a polygon-based tracing algorithm. In http://potrace.sourceforge.net."
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "author": "Jianbo",
+                "volume-title": "Computer Vision and Pattern Recognition, 1994. IEEE Conference on. IEEE, 593--600"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "unstructured": "Maxim Stepin. 2003. Hqx. http://web.archive.org/web/20070717064839/www.hiend3d.com/hq4x.html. (2003).  Maxim Stepin. 2003. Hqx. http://web.archive.org/web/20070717064839/www.hiend3d.com/hq4x.html. (2003)."
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "unstructured": "Jian Sun Lin Liang Fang Wen and Heung-Yeung Shum. 2007. Image Vectorization Using Optimized Gradient Meshes. In ACM SIGGRAPH. Article 11. 10.1145/1275808.1276391   Jian Sun Lin Liang Fang Wen and Heung-Yeung Shum. 2007. Image Vectorization Using Optimized Gradient Meshes. In ACM SIGGRAPH. Article 11. 10.1145/1275808.1276391",
+                "DOI": "10.1145/1275808.1276391",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "author": "S\u00fdkora Daniel",
+                "year": "2005",
+                "volume-title": "Proc. Sketch-Based Interfaces and Modeling. 27--34"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "unstructured": "Vector Magic. 2017. Cedar Lake Ventures http://vectormagic.com/. (2017).  Vector Magic. 2017. Cedar Lake Ventures http://vectormagic.com/. (2017)."
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "DOI": "10.1037/a0029333",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_55_1",
+                "DOI": "10.1109/TIP.2017.2666742",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_56_1",
+                "unstructured": "Zhaowen Wang Ding Liu Jianchao Yang Wei Han and Thomas Huang. 2015. Deep networks for image super-resolution with sparse prior. In IEEE ICCV. 370--378.   Zhaowen Wang Ding Liu Jianchao Yang Wei Han and Thomas Huang. 2015. Deep networks for image super-resolution with sparse prior. In IEEE ICCV. 370--378.",
+                "DOI": "10.1109/ICCV.2015.50",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_57_1",
+                "unstructured": "M. Weber and B. Herzog. 2004. Autotrace. http://autotrace.sourceforge.net. (2004).  M. Weber and B. Herzog. 2004. Autotrace. http://autotrace.sourceforge.net. (2004)."
+            },
+            {
+                "key": "e_1_2_2_58_1",
+                "unstructured": "Tian Xia Binbin Liao and Yizhou Yu. 2009. Patch-based Image Vectorization with Automatic Curvilinear Feature Alignment. ACM TOG 28 5 (2009). 10.1145/1618452.1618461   Tian Xia Binbin Liao and Yizhou Yu. 2009. Patch-based Image Vectorization with Automatic Curvilinear Feature Alignment. ACM TOG 28 5 (2009). 10.1145/1618452.1618461"
+            },
+            {
+                "key": "e_1_2_2_59_1",
+                "unstructured": "Chih-Yuan Yang Chao Ma and Ming-Hsuan Yang. 2014. Single-Image Super-Resolution: A Benchmark. In ECCV David Fleet Tomas Pajdla Bernt Schiele and Tinne Tuytelaars (Eds.). Springer International Publishing 372--386.  Chih-Yuan Yang Chao Ma and Ming-Hsuan Yang. 2014. Single-Image Super-Resolution: A Benchmark. In ECCV David Fleet Tomas Pajdla Bernt Schiele and Tinne Tuytelaars (Eds.). Springer International Publishing 372--386.",
+                "DOI": "10.1007/978-3-319-10593-2_25",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_60_1",
+                "DOI": "10.1109/TVCG.2015.2440273",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_61_1",
+                "DOI": "10.1007/978-3-319-46466-4_28",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_62_1",
+                "DOI": "10.1109/TVCG.2009.9",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201312&ftid=1991785&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:43:12Z",
+            "timestamp": 1585960992000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 62,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201312"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201312",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

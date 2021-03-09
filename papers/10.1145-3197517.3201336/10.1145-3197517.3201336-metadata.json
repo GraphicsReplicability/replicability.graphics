@@ -1,0 +1,424 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:55Z",
+            "timestamp": 1585962715039
+        },
+        "reference-count": 38,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "name": "Marie Skodowska-Curie Grant",
+                "award": [
+                    "665385"
+                ]
+            },
+            {
+                "name": "European Research Council",
+                "award": [
+                    "638176"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201336",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 4,
+        "title": [
+            "Water surface wavelets"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Stefan",
+                "family": "Jeschke",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "NVIDIA"
+                    }
+                ]
+            },
+            {
+                "given": "Tom\u00e1\u0161",
+                "family": "Sk\u0159ivan",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "IST Austria"
+                    }
+                ]
+            },
+            {
+                "given": "Matthias",
+                "family": "M\u00fcller-Fischer",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "NVIDIA"
+                    }
+                ]
+            },
+            {
+                "given": "Nuttapong",
+                "family": "Chentanez",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "NVIDIA"
+                    }
+                ]
+            },
+            {
+                "given": "Miles",
+                "family": "Macklin",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "NVIDIA"
+                    }
+                ]
+            },
+            {
+                "given": "Chris",
+                "family": "Wojtan",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "IST Austria"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "author": "Angst Roland",
+                "year": "1895",
+                "volume-title": "Computer Graphics Forum"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "Robert Bridson. 2015. Fluid simulation for computer graphics. CRC Press.   Robert Bridson. 2015. Fluid simulation for computer graphics. CRC Press.",
+                "DOI": "10.1201/9781315266008",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/2980179.2982415",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/1028523.1028553",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/7529.8927",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/383259.383260",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1049/ji-3-2.1946.0074",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "author": "Geist Robert",
+                "volume-title": "Advances in visual Computing"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/545261.545288",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/2791261.2791267",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/2714572",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/3072959.3073678",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "R.S. Johnson. 1997. A modern introduction to the mathematical theory of-water waves. Vol. 19. Cambridge university press.  R.S. Johnson. 1997. A modern introduction to the mathematical theory of-water waves. Vol. 19. Cambridge university press.",
+                "DOI": "10.1017/CBO9780511624056",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/97879.97884",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/2451236.2451241",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "first-page": "381",
+                "article-title": "A convolution-based algorithm for animated water waves",
+                "volume": "2",
+                "author": "Loviscach J\u00f6rn",
+                "year": "2002",
+                "journal-title": "Eurographics"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/2994258.2994261",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1109/MCG.1987.276961",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/1015706.1015744",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/2421636.2421638",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1111/cgf.12714",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "unstructured": "Bj\u00f6rn Ottosson. 2011. Real-time Interactive Water Waves. Master's thesis. KTH Sweden.  Bj\u00f6rn Ottosson. 2011. Real-time Interactive Water Waves. Master's thesis. KTH Sweden."
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/2508363.2508429",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "author": "Raveendran K.",
+                "volume-title": "Controlling Liquids Using Meshes. In Eurographics/ACM SIGGRAPH Symposium on Computer Animation. 255--264"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/2601097.2601126",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1016/0146-664X(80)90011-8",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1109/JRPROC.1949.232969",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/1073368.1073401",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "first-page": "265",
+                "article-title": "Interactive water surfaces",
+                "volume": "4",
+                "author": "Tessendorf Jerry",
+                "year": "2004",
+                "journal-title": "Game Programming Gems"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "unstructured": "Jerry Tessendorf. 2004b. Simulating ocean water. ACM SIGGRAPH Courses (2004).  Jerry Tessendorf. 2004b. Simulating ocean water. ACM SIGGRAPH Courses (2004)."
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "unstructured": "Jerry Tessendorf. 2014. eWave: Using an Exponential Solver on the iWave Problem. . Technical Note.  Jerry Tessendorf. 2014. eWave: Using an Exponential Solver on the iWave Problem. . Technical Note."
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "unstructured": "William \"Lord Kelvin\" Thomson. 1891. Popular lectures and addresses. Vol. 3. Macmillan London. 481--8 pages.  William \"Lord Kelvin\" Thomson. 1891. Popular lectures and addresses. Vol. 3. Macmillan London. 481--8 pages."
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/2956233",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1016/j.gmod.2008.12.007",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1145/1778765.1778785",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "author": "Yang Sheng",
+                "year": "2016",
+                "volume-title": "Proceedings of the ACM SIGGRAPH/Eurographics Symposium on Computer Animation. Eurographics Association, 29--36"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "author": "Yu Jihun",
+                "year": "2012",
+                "volume-title": "Explicit Mesh Surfaces for Particle Based Fluids. EUROGRAPHICS 2012 30"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1145/1275808.1276501",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201336&ftid=1991735&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:52:34Z",
+            "timestamp": 1585961554000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 38,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201336"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201336",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

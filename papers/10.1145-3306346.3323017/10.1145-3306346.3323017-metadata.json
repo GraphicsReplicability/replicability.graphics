@@ -1,0 +1,472 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    5,
+                    5
+                ]
+            ],
+            "date-time": "2020-05-05T17:41:04Z",
+            "timestamp": 1588700464867
+        },
+        "reference-count": 53,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2019,
+                            7,
+                            12
+                        ]
+                    ],
+                    "date-time": "2019-07-12T00:00:00Z",
+                    "timestamp": 1562889600000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100011199",
+                "name": "FP7 Ideas: European Research Council",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "ERC-2015-AdG-694020"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "DOI": "10.1145/3306346.3323017",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2019-07-12T19:04:08Z",
+            "timestamp": 1562958248000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 1,
+        "title": [
+            "Finding hexahedrizations for small quadrangulations of the sphere"
+        ],
+        "prefix": "10.1145",
+        "volume": "38",
+        "author": [
+            {
+                "given": "Kilian",
+                "family": "Verhetsel",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Universit\u00e9 catholique de Louvain, Belgique"
+                    }
+                ]
+            },
+            {
+                "given": "Jeanne",
+                "family": "Pellerin",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Universit\u00e9 catholique de Louvain, Belgique"
+                    }
+                ]
+            },
+            {
+                "given": "Jean-Fran\u00e7ois",
+                "family": "Remacle",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Universit\u00e9 catholique de Louvain, Belgique"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1186/2213-7467-1-8",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1007/s003660200016",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1016/j.disc.2005.10.005",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "first-page": "323",
+                "article-title": "Fast generation of planar graphs",
+                "volume": "58",
+                "author": "Brinkmann Gunnar",
+                "year": "2007",
+                "journal-title": "MATCH Commun. Math. Comput. Chem"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/1998196.1998220",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.5555/3225288.3225582",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1137/0210015",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1016/S0925-7721(98)00032-7",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.7155/jgaa.00014",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1007/s00454-014-9624-3",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "Torsten Fahle Stefan Schamberger and Meinolf Sellmann. 2001. Symmetry Breaking. In Principles and Practice of Constraint Programming. 93--107.   Torsten Fahle Stefan Schamberger and Meinolf Sellmann. 2001. Symmetry Breaking. In Principles and Practice of Constraint Programming. 93--107.",
+                "DOI": "10.1007/3-540-45578-7_7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/2897824.2925957",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1090/conm/233/03424",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1007/BF02954617",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/3072959.3073676",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "Ian P. Gent Karen E. Petrie and Jean-Fran\u00e7ois Puget. 2006. Symmetry in Constraint Programming. In Handbook of Constraint Programming. 329--376.  Ian P. Gent Karen E. Petrie and Jean-Fran\u00e7ois Puget. 2006. Symmetry in Constraint Programming. In Handbook of Constraint Programming. 329--376.",
+                "DOI": "10.1016/S1574-6526(06)80014-3",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "author": "Goaoc Xavier",
+                "year": "2018",
+                "volume-title": "Proceedings of the 34th Symposium on Computational Geometry. 41:1--41:15"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1111/j.1467-8659.2011.02015.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1016/j.cad.2011.06.023",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1002/nme.2470",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "first-page": "P3",
+                "article-title": "Parallel Enumeration of Triangulations",
+                "volume": "25",
+                "author": "Jordan Charles",
+                "year": "2018",
+                "journal-title": "Electr. J. Comb."
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1016/j.proeng.2014.10.373",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/3197517.3201344",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/2766905",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/2897824.2925976",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1007/978-3-642-04319-2_5",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.5555/646511.695185",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1007/s003660050018",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "Scott A. Mitchell. 2002. A Technical History of Hexahedral Mesh Generation. https://www.sandia.gov/~samitch/_assets/documents/pptx/hex_mesh_history_samitch.ppt. Retrieved January 2 2019.  Scott A. Mitchell. 2002. A Technical History of Hexahedral Mesh Generation. https://www.sandia.gov/~samitch/_assets/documents/pptx/hex_mesh_history_samitch.ppt. Retrieved January 2 2019."
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "author": "Scott",
+                "volume-title": "Proceedings of the 4th International Meshing Roundtable. 231--240"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1007/s003660050022",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1016/S0168-874X(97)81956-7",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1111/j.1467-8659.2011.02014.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "unstructured": "Jeanne Pellerin Amaury Johnen Kilian Verhetsel and Jean-Fran\u00e7ois Remacle. 2018. Identifying combinations of tetrahedra into hexahedra: A vertex based strategy. Computer-Aided Design 105 (2018).  Jeanne Pellerin Amaury Johnen Kilian Verhetsel and Jean-Fran\u00e7ois Remacle. 2018. Identifying combinations of tetrahedra into hexahedra: A vertex based strategy. Computer-Aided Design 105 (2018).",
+                "DOI": "10.1016/j.cad.2018.05.004",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1007/978-3-642-15414-0_15",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "unstructured": "Jean-Francois Remacle Rajesh Gandham and Tim Warburton. 2016. GPU accelerated spectral finite elements on all-hex meshes. J. Comput. Physics 324 (Nov. 2016) 246--257. 10.1016/j.jcp.2016.08.005   Jean-Francois Remacle Rajesh Gandham and Tim Warburton. 2016. GPU accelerated spectral finite elements on all-hex meshes. J. Comput. Physics 324 (Nov. 2016) 246--257. 10.1016/j.jcp.2016.08.005",
+                "DOI": "10.1016/j.jcp.2016.08.005",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "unstructured": "Robert Schneiders. 1995. Open problem. http://www.robertschneiders.de/meshgeneration/open.html. Retrieved January 2 2019.  Robert Schneiders. 1995. Open problem. http://www.robertschneiders.de/meshgeneration/open.html. Retrieved January 2 2019."
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "first-page": "3",
+                "article-title": "A grid-based algorithm for the generation of hexahedral element meshes",
+                "volume": "12",
+                "author": "Schneiders Robert",
+                "year": "1996",
+                "journal-title": "Eng. Comput. (Lond.)"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.5555/3225268.3225437",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1145/2629697",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1145/3072959.3126827",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1002/(SICI)1097-0207(19961015)39:19<3327::AID-NME2>3.0.CO;2-H",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "unstructured": "William P. Thurston. 1993. Hexahedral decomposition of polyhedra. Posting to sci.math. http://www.ics.uci.edu/~eppstein/gina/Thurston-hexahedra.html  William P. Thurston. 1993. Hexahedral decomposition of polyhedra. Posting to sci.math. http://www.ics.uci.edu/~eppstein/gina/Thurston-hexahedra.html"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1016/j.jcp.2013.07.022",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "author": "Verhetsel Kilian",
+                "year": "2018",
+                "volume-title": "Proceedings of the 27th International Meshing Roundtable. Springer."
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "unstructured": "Jean-Christophe Weill and Franck Ledoux. 2016. Towards an automatic and reliable hexahedral meshing. http://tetrahedron.montefiore.ulg.ac.be/weill.pdf. Retrieved January 2 2019.  Jean-Christophe Weill and Franck Ledoux. 2016. Towards an automatic and reliable hexahedral meshing. http://tetrahedron.montefiore.ulg.ac.be/weill.pdf. Retrieved January 2 2019."
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "unstructured": "Shang Xiang and Jianfei Liu. 2018. A 36-element solution to Schneiders' pyramid hex-meshing problem and a parity-changing template for hex-mesh revision. arXiv preprint arXiv:1807.09415 (2018).  Shang Xiang and Jianfei Liu. 2018. A 36-element solution to Schneiders' pyramid hex-meshing problem and a parity-changing template for hex-mesh revision. arXiv preprint arXiv:1807.09415 (2018)."
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "DOI": "10.1007/s003660200019",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "DOI": "10.1002/nme.754",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "DOI": "10.1002/cnm.1256",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "DOI": "10.1016/j.cad.2013.08.018",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "author": "Zhang Yongjie",
+                "year": "2012",
+                "volume-title": "Proceedings of the 21st International Meshing Roundtable. 155--172"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "author": "Ziegler G\u00fcnter M.",
+                "volume": "152",
+                "year": "1995",
+                "volume-title": "Graduate Texts in Mathematics"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3323017&ftid=2071750&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    5,
+                    5
+                ]
+            ],
+            "date-time": "2020-05-05T17:15:46Z",
+            "timestamp": 1588698946000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "references-count": 53,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        12
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3306346.3323017"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3306346.3323017",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

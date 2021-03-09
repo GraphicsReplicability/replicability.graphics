@@ -1,0 +1,438 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:11:20Z",
+            "timestamp": 1586002280724
+        },
+        "reference-count": 33,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100004675",
+                "name": "Autodesk",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100007065",
+                "name": "Nvidia",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100002418",
+                "name": "Intel Corporation",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100000145",
+                "name": "Division of Information and Intelligent Systems",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "IIS-1319483, CMMI-1331499, IIS-1217904, IIS-1117257, CMMI-1129917, IIS-0916129"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100001742",
+                "name": "United States-Israel Binational Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100004795",
+                "name": "Walt Disney Company",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100000147",
+                "name": "Division of Civil, Mechanical and Manufacturing Innovation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "IIS-1319483, CMMI-1331499, IIS-1217904, IIS-1117257, CMMI-1129917, IIS-0916129"
+                ]
+            },
+            {
+                "name": "Weta Digital",
+                "award": []
+            },
+            {
+                "name": "Side Effects",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601100",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 25,
+        "title": [
+            "Adaptive nonlinearity for collisions in complex rod assemblies"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Danny M.",
+                "family": "Kaufman",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Adobe &amp; Columbia University"
+                    }
+                ]
+            },
+            {
+                "given": "Rasmus",
+                "family": "Tamstorf",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Walt Disney Animation Studios"
+                    }
+                ]
+            },
+            {
+                "given": "Breannan",
+                "family": "Smith",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Columbia University"
+                    }
+                ]
+            },
+            {
+                "given": "Jean-Marie",
+                "family": "Aubry",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Weta Digital"
+                    }
+                ]
+            },
+            {
+                "given": "Eitan",
+                "family": "Grinspun",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Columbia University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1016/0045-7825(91)90022-X",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/1778765.1778819",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/280814.280821",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/74334.74356",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/1360612.1360662",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/1778765.1778853",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/1899404.1899410",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "author": "Bonnefon O.",
+                "year": "2011",
+                "volume-title": "Tech. Rep. RT-0400, INRIA, Jan."
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/566654.566623",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/2070781.2024173",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "first-page": "3232",
+                "article-title": "Signorini's contact model for deformable objects in haptic simulations",
+                "volume": "4",
+                "author": "Duriez C.",
+                "year": "2004",
+                "journal-title": "IEEE/RSJ IROS"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1109/TVCG.2006.13",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1016/0043-1648(91)90105-4",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Hadap S. Cani M.-P. Lin M. Kim T.-Y. Bertails F. Marschner S. Ward K. and Ka\u010di\u0107-Alesi\u0107 Z. 2007. Strands and Hair: Modeling Animation and Rendering. In ACM SIGGRAPH Courses 1--150. 10.1145/1281500.1281689   Hadap S. Cani M.-P. Lin M. Kim T.-Y. Bertails F. Marschner S. Ward K. and Ka\u010di\u0107-Alesi\u0107 Z. 2007. Strands and Hair: Modeling Animation and Rendering. In ACM SIGGRAPH Courses 1--150. 10.1145/1281500.1281689",
+                "DOI": "10.1145/1281500.1281689",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "unstructured": "Hairer E. and Wanner G. 2004. Solving Ordinary Differential Equations II: Stiff and Differential-Algebraic Problems second ed. Springer.  Hairer E. and Wanner G. 2004. Solving Ordinary Differential Equations II: Stiff and Differential-Algebraic Problems second ed. Springer."
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/2485895.2485913",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "author": "Jean M.",
+                "volume": "1",
+                "volume-title": "Proceedings of Contact Mechanics International Symposium"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1016/S0045-7825(97)00137-0",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/1409060.1409117",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "author": "Kikuchi N.",
+                "year": "1988",
+                "series-title": "SIAM Studies in Applied and Numerical Mathematics",
+                "volume-title": "Elasticity: A Study of Variational Inequalities and Finite Element Methods"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "author": "Landau L. D.",
+                "volume": "7",
+                "volume-title": "Course of Theoretical Physics"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/1531326.1531368",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/199404.199436",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "first-page": "1",
+                "article-title": "Unilateral Contact and Dry Friction in Finite Freedom Dynamics. Nonsmooth Mechanics and Applications",
+                "volume": "302",
+                "author": "Moreau J. J.",
+                "year": "1988",
+                "journal-title": "CISM Courses and Lectures"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1111/j.1467-8659.2009.01396.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "unstructured": "Provot X. 1997. Collision and self-collision handling in cloth model dedicated to design garments. In Computer Animation and Simulation Eurographics 177--189.  Provot X. 1997. Collision and self-collision handling in cloth model dedicated to design garments. In Computer Animation and Simulation Eurographics 177--189.",
+                "DOI": "10.1007/978-3-7091-6874-5_13",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "unstructured": "Robbins C. R. 2012. Chemical and Physical Behavior of Human Hair fifth ed. Springer.  Robbins C. R. 2012. Chemical and Physical Behavior of Human Hair fifth ed. Springer.",
+                "DOI": "10.1007/978-3-642-25611-0",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/1360612.1360663",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "author": "Spillmann J.",
+                "volume-title": "CORDE: Cosserat Rod Elements for the Dynamic Simulation of One-Dimensional Elastic Objects. In ACM SIGGRAPH/Eurographics Symposium on Computer Animation, 63--72"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1098/rsta.2001.0904",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "unstructured": "Stewart D. E. 2011. Dynamics with Inequalities: Impacts and Hard Constraints. Society for Industrial and Applied Mathematics.   Stewart D. E. 2011. Dynamics with Inequalities: Impacts and Hard Constraints . Society for Industrial and Applied Mathematics.",
+                "DOI": "10.1137/1.9781611970715",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1109/TVCG.2007.30",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/2010324.1964933",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601100&amp;ftid=1488932&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:50:00Z",
+            "timestamp": 1586001000000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 33,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601100"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601100",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

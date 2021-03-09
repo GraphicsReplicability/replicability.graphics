@@ -1,0 +1,464 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:53Z",
+            "timestamp": 1585962713226
+        },
+        "reference-count": 54,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100008982",
+                "name": "National Science Foundation of Sri Lanka",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "1253948, IIS-1321168, IIS-1619376"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201352",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 2,
+        "title": [
+            "Scalable laplacian eigenfluids"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Qiaodong",
+                "family": "Cui",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of California"
+                    }
+                ]
+            },
+            {
+                "given": "Pradeep",
+                "family": "Sen",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of California"
+                    }
+                ]
+            },
+            {
+                "given": "Theodore",
+                "family": "Kim",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Pixar Animation Studios"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/1409060.1409118",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "Alexis Angelidis. 2017. Personal Communication. (2017).  Alexis Angelidis. 2017. Personal Communication. (2017).",
+                "DOI": "10.4074/S0336150017013102",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/280814.280821",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "John P Boyd. 2001. Chebyshev and Fourier spectral methods. Dover Publications.  John P Boyd. 2001. Chebyshev and Fourier spectral methods. Dover Publications."
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "Robert Bridson. 2015. Fluid simulation for computer graphics. CRC Press.   Robert Bridson. 2015. Fluid simulation for computer graphics. CRC Press.",
+                "DOI": "10.1201/9781315266008",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "author": "Brochu Tyson",
+                "year": "2012",
+                "volume-title": "Linear-time Smoke Animation with Vortex Sheet Meshes. In ACM SIGGRAPH/Eurographics Symposium on Computer Animation. 87--95"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "unstructured": "K. J. Burns G. M. Vasil J. S. Oishi D. Lecoanet B. P. Brown and E. Quataert. 2017. Dedalus project. http://dedalus-project.org. (2017).  K. J. Burns G. M. Vasil J. S. Oishi D. Lecoanet B. P. Brown and E. Quataert. 2017. Dedalus project. http://dedalus-project.org. (2017)."
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.5555/1214228",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "Claudio Canuto M Yousuf Hussaini Alfio Quarteroni and TA Zang. 1988. Spectral methods in fluid dynamics. Springer.  Claudio Canuto M Yousuf Hussaini Alfio Quarteroni and TA Zang. 1988. Spectral methods in fluid dynamics. Springer.",
+                "DOI": "10.1007/978-3-642-84108-8",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/2897824.2925868",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1103/PhysRevLett.116.105004",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/2077341.2077351",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/383259.383260",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1109/TVCG.2014.2307873",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1109/JPROC.2004.840301",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1017/CBO9781139170666",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/3130800.3130878",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "unstructured": "Gene H Golub and Charles F Van Loan. 2012. Matrix computations. Vol. 3. JHU Press.  Gene H Golub and Charles F Van Loan. 2012. Matrix computations. Vol. 3. JHU Press."
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "unstructured": "David Gottlieb and Steven A Orszag. 1977. Numerical analysis of spectral methods: theory and applications. SIAM.  David Gottlieb and Steven A Orszag. 1977. Numerical analysis of spectral methods: theory and applications. SIAM.",
+                "DOI": "10.1137/1.9781611970425",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "Ga\u00ebl Guennebaud Beno\u00eet Jacob etal 2010. Eigen v3. http://eigen.tuxfamily.org. (2010).  Ga\u00ebl Guennebaud Beno\u00eet Jacob et al. 2010. Eigen v3. http://eigen.tuxfamily.org. (2010)."
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "author": "Gupta Mohit",
+                "volume-title": "Legendre Fluids: A Unified Framework for Analytic Reduced Space Modeling and Rendering of Participating Media. In ACM SIGGRAPH/Eurographics Symposium on Computer Animation. 17--25"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1111/j.1467-8659.2008.01248.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/2370919.2370927",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/1882261.1866198",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/2766996",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "author": "Jones Aaron Demby",
+                "year": "2016",
+                "volume-title": "Proceedings of the ACM SIGGRAPH/Eurographics Symposium on Computer Animation. 77--84"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "unstructured": "Theodore Kim. 2013. Zephyr. http://www.tkim.graphics/RESIM/source.html. (2013).  Theodore Kim. 2013. Zephyr. http://www.tkim.graphics/RESIM/source.html. (2013)."
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/2461912.2461987",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/1360612.1360649",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1002/sapm1938171123",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/2816795.2818130",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/1507149.1507165",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/1015706.1015745",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "author": "McAdams A.",
+                "volume-title": "ACM SIGGRAPH/Eurographics Symposium on Computer Animation. 65--74"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1145/1531326.1531344",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1145/1409060.1409119",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1063/1.1692445",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1017/S0022112071002842",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/2185520.2185608",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "unstructured": "Yousef Saad. 2003. Iterative methods for sparse linear systems. SIAM.   Yousef Saad. 2003. Iterative methods for sparse linear systems. SIAM.",
+                "DOI": "10.1137/1.9780898718003",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "author": "Schechter H.",
+                "volume-title": "Evolving Sub-grid Turbulence for Smoke Animation. In ACM SIGGRAPH/Eurographics Symposium on Computer Animation. 1--7."
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1007/s10915-007-9166-4",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1145/1073204.1073282",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1145/2661229.2661269",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1145/311535.311548",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1080/10867651.2001.10487540",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "DOI": "10.1145/2461912.2462006",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "unstructured": "Lloyd N Trefethen. 2000. Spectral methods in MATLAB. SIAM.   Lloyd N Trefethen. 2000. Spectral methods in MATLAB. SIAM.",
+                "DOI": "10.1137/1.9780898719598",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "DOI": "10.1145/1141911.1141962",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "DOI": "10.1016/j.jcp.2016.08.013",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "DOI": "10.1145/1778765.1778852",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "DOI": "10.1145/1531326.1531345",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "DOI": "10.1145/2766982",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "DOI": "10.1145/1073204.1073298",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201352&ftid=1991593&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:33:41Z",
+            "timestamp": 1585960421000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 54,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201352"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201352",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

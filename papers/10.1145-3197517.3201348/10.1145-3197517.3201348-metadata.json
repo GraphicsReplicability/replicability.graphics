@@ -1,0 +1,350 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:55Z",
+            "timestamp": 1585962715327
+        },
+        "reference-count": 28,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201348",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-10",
+        "source": "Crossref",
+        "is-referenced-by-count": 3,
+        "title": [
+            "Robust optimization for topological surface reconstruction"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Roee",
+                "family": "Lazar",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Weizmann Institute of Science"
+                    }
+                ]
+            },
+            {
+                "given": "Nadav",
+                "family": "Dym",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Weizmann Institute of Science"
+                    }
+                ]
+            },
+            {
+                "given": "Yam",
+                "family": "Kushinsky",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Weizmann Institute of Science"
+                    }
+                ]
+            },
+            {
+                "given": "Zhiyang",
+                "family": "Huang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Washington University in St. Louis"
+                    }
+                ]
+            },
+            {
+                "given": "Tao",
+                "family": "Ju",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Washington University in St. Louis"
+                    }
+                ]
+            },
+            {
+                "given": "Yaron",
+                "family": "Lipman",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Weizmann Institute of Science"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1007/s00454-013-9531-z",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/2431211.2431214",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "author": "Barequet Gill",
+                "volume-title": "Computer Graphics Forum"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "Pierre-Louis Bazin and Dzung L Pham. 2007. Topology-preserving tissue classification of magnetic resonance brain images. IEEE transactions on medical imaging 26 4 (2007) 487--496.  Pierre-Louis Bazin and Dzung L Pham. 2007. Topology-preserving tissue classification of magnetic resonance brain images. IEEE transactions on medical imaging 26 4 (2007) 487--496."
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/2019627.2019632",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "author": "Boissonnat Jean-Daniel",
+                "year": "2007",
+                "volume-title": "Symposium on Geometry Processing. 89--98"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "Fan RK Chung. 1997. Spectral graph theory. Number 92. American Mathematical Soc.  Fan RK Chung. 1997. Spectral graph theory. Number 92. American Mathematical Soc."
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1016/S0097-8493(00)00036-4",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1016/j.cag.2013.04.004",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1109/GLOCOM.2005.1577670",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/2732197",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "Miroslav Fiedler. 1973. Algebraic connectivity of graphs. Czechoslovak mathematical journal 23 2 (1973) 298--305.  Miroslav Fiedler. 1973. Algebraic connectivity of graphs. Czechoslovak mathematical journal 23 2 (1973) 298--305."
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1109/CDC.2006.377282",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/3072959.3073644",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/1276377.1276430",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1111/j.1467-8659.2008.01112.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/37402.37422",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "unstructured": "Jing Qian Venkatesh Saligrama and Yuting Chen. 2014. Connected sub-graph detection. In Artificial Intelligence and Statistics. 796--804.  Jing Qian Venkatesh Saligrama and Yuting Chen. 2014. Connected sub-graph detection. In Artificial Intelligence and Statistics. 796--804."
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "author": "Sharf Andrei",
+                "volume-title": "Eurographics."
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/1276377.1276431",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/263867.263872",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "author": "Velasco Francisco",
+                "volume": "5",
+                "year": "2008",
+                "article-title": "Adaptive cube tessellation for topologically correct isosurfaces",
+                "journal-title": "JVRB-Journal of Virtual Reality and Broadcasting"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/990002.990007",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/2661229.2661241",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "unstructured": "Yun Zeng Dimitris Samaras Wei Chen and Qunsheng Peng. 2008. Topology cuts: A novel min-cut/max-flow algorithm for topology preserving segmentation in N-D images. Computer vision and image understanding 112 1 (2008) 81--90. 10.1016/j.cviu.2008.07.008   Yun Zeng Dimitris Samaras Wei Chen and Qunsheng Peng. 2008. Topology cuts: A novel min-cut/max-flow algorithm for topology preserving segmentation in N-D images. Computer vision and image understanding 112 1 (2008) 81--90. 10.1016/j.cviu.2008.07.008"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/2661229.2661238",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/2766976",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1111/cgf.12182",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201348&ftid=1991723&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:37:11Z",
+            "timestamp": 1585960631000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 28,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201348"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201348",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

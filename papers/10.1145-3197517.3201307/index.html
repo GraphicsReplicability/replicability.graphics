@@ -1,0 +1,157 @@
+<html><head><meta charset="utf-8">
+ <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+ <script src="../../assets/js/chart-utils.js"></script>
+<link rel="stylesheet"
+       href="../../assets/css/default.min.css">
+ <script src="../../assets/js/highlight.min.js"></script>
+ <script>hljs.initHighlightingOnLoad();</script>
+ <link href="../../assets/css/all.css" rel="stylesheet">
+ <link rel="stylesheet" href="../../assets/css/customstyle.css">
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pretty-checkbox@3.0/dist/pretty-checkbox.min.css">
+
+  <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+  <script>
+  var currentReviewId = 0;
+
+  $( function() {
+    $( "#tabs" ).tabs({
+    activate: function (event, ui) {
+        var reviewId = parseInt(event.currentTarget.id.substring(6));
+
+        [myChart.data.datasets[0].data, myChart.data.datasets[currentReviewId].data] =
+ [myChart.data.datasets[currentReviewId].data, myChart.data.datasets[0].data];
+
+        currentReviewId = reviewId-1;
+
+        [myChart.data.datasets[0].data, myChart.data.datasets[currentReviewId].data] =
+ [myChart.data.datasets[currentReviewId].data, myChart.data.datasets[0].data];
+
+        myChart.update(0);
+    }
+  });
+  } );
+  </script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-164636527-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-164636527-1');
+</script>
+<title>Gaussian material synthesis</title>
+<meta name="description" content="Replicability and source code of the article Gaussian material synthesis.">
+
+  </head>
+<body>
+  <ul class="publist-inline" style="text-align:left;"><li class="web"><a href="../../browse.html">< The Data</a></ul><h1 class="title">Gaussian material synthesis <i class="fas fa-circle graphcol1" style="font-size:150%;color:#43a2ca;" title="code available and we were able to reproduce some results"></i> <i class="fas fa-splotch graphcol5"  style="font-size:150%;color:#1b9e77;" title="PDF available as an ACM Open Access document"></i> <i class="fas fa-square graphcol6"  style="font-size:150%;color:#7570b3;" title="Preprint PDF available (author web page, project page, institution page, arxiv...)"></i></h1><ul class="authors">
+<li> Károly <span class="family">Zsolnai-Fehér</span></li>
+<li> Peter <span class="family">Wonka</span></li>
+<li> Michael <span class="family">Wimmer</span></li>
+</ul>
+<center> SIGGRAPH 2018</center><ul class="publist-inline">
+<li class="web"> <i class="fas fa-globe-americas"></i> <a href="https://doi.org/10.1145/3197517.3201307">ACM</a></li>
+<li class="pdf"> <i class="far fa-file-pdf"></i> <a href="https://users.cg.tuwien.ac.at/~zsolnai/wp/wp-content/uploads/2018/04/gms.pdf">preprint</a></li>
+<li class="web"> <i class="fas fa-globe-americas"></i> <a href="https://users.cg.tuwien.ac.at/zsolnai/gfx/gaussian-material-synthesis/">Project page</a></li>
+<li class="web"> <i class="far fa-file-alt"></i> <a href="https://users.cg.tuwien.ac.at/zsolnai/wp/wp-content/uploads/2018/04/gms-supplementary.zip">Code</a></li>
+<li class="web"> <i class="fas fa-university"></i> <a href="https://arxiv.org/abs/1804.08369">arXiv or openarchive initiative</a></li>
+<li class="web"> <i class="fas fa-database"></i> <a href="10.1145-3197517.3201307-metadata.json">DOI Metadata</a></li>
+</ul>
+<center><img width="300" src="10.1145-3197517.3201307-thumb.png"></img></center><br><br><ul class="publist-inline" style="text-align:left;font-size:100%"><li > <i ></i> <a href="replicability.json">Download complete data for this entry</a></li></ul>
+    <div class="row">
+    <div class="column2 chart-container" style="position: relative; height:40vh; width:30vw">
+    <canvas width="300" height="250" id="myChart" class="chartjs-render-monitor"></canvas>
+    </div>
+    
+    <div class="column2">
+    <h2>Reviews</h2>
+       <div id="tabs">
+          <ul>             <li><a href="#review-1">main</a></li>
+             <li><a href="#review-2">&#43;</a></li>
+</ul><div id="review-1"><h2>Information</h2><ul><li><span class="family">Paper topic</span>: Rendering</li>
+<li><span class="family">Software type</span>: Code</li>
+<li><span class="family">Able to run a replicability test</span>: True</li>
+<li><span class="family">Replicability score</span>: 2</li>
+<li><span class="family">Software language</span>: Python</li>
+<li><span class="family">License</span>: MIT</li>
+<li><span class="family">Build mechanism</span>: Not applicable (python, Matlab..)</li>
+<li><span class="family">Dependencies</span>: keras / tensorflow / blender / pillow / GPy / sklearn / climin</li>
+<li><span class="family">Documentation score</span> {0,1,2}: 1</li>
+<li><span class="family">Reviewer</span>: Nicolas Bonneel &lt;nicolas.bonneel@liris.cnrs.fr&gt;</li>
+<li><span class="family">Time spent for the test (build->first run, timeout at 100min)</span>: 100min</li>
+</ul><h2>Source code information</h2>
+<ul><li><span class="family">Code URL</span>:  <a href="https://users.cg.tuwien.ac.at/zsolnai/wp/wp-content/uploads/2018/04/gms-supplementary.zip">https://users.cg.tuwien.ac.at/zsolnai/wp/wp-content/uploads/2018/04/gms-supplementary.zip</a></li>
+<li><span class="family">MD5 hash of the code archive</span>: 7436791C4E1A279051C66124D3F8064B</li>
+</ul><h2>Comments</h2><pre>There are minor bugs that need to be fixed, that include mixes of tab and space in the Python code (l.70 and 406 of gms.py), the syntax `i+1`.zfill(4) was deemed incorrect by my Python 3.6.8 (l.512, 674 and 690 of gms.py ; replaced by str(i+1).zfill(4)). Error as well on line 20 : from sklearn.gaussian_process import GaussianProcess ; it seems sklearn has evolved and doesn't have GaussianProcess (now separated as classifier or regressor). This line can be commented out.
+The main issue for making it run was the lack of documentation both for installing and for running the code, appart from a short readme. In practice :
+GPy is a Gaussian Process library that needs to be installed with pip (I was looking for a GPy.py in the source folder!), sklearn needs to be installed, as well as climin, keras and tensorflow. Regarding tensorflow, it needs to be sufficiently recent to have tf_utils (1.14.0 worked, but not my older install).
+Also, Pillow needs to be installed with pip. However, the trick is that it needs to be installed *with the Python provided with Blender* and not your usual Python install !
+Ultimately, I could run gms.py and nn-predict.py (which both produce images) but I could not get the Python script within material-loader.blend to run : this script merely erased all .png images of the directory (included reference.png and resolution.png needed to run gms.py and nn-predict.py), and doesn't seem to produce anything. The code within this script is obscure : for instance, the file which likely should contain the output (called "output.txt") is merely erased at the begining of the code if it already exists, and then never used again later in the code for writing.
+I was expecting some kind of user interface (similarly to the one shown in the paper) to navigate within the latent space of BRDFs, but I didn't see one. Since there isn't much documentation, I am not sure what I am looking at and how to use the code.</pre></div><div id=review-2>
+           <p> If you want to contribute with another review, please follow <a href="../../index.html#contribute">these instructions</a>. </p>
+
+            <p>Please consider to cut/paste/edit the <a href="replicability.json">raw JSON data</a> attached to this paper.</a></p>
+            </div>
+            </div></div>
+    </div>
+    </div>
+    </div>
+        <script>
+ 	  var color = Chart.helpers.color;
+          var colorNames = Object.keys(window.chartColors);
+          var ctx = document.getElementById('myChart');
+          var myChart = new Chart(ctx, {
+              type: 'polarArea',
+              data: {
+                labels: ['Dependencies', 'Build / Configure', 'Fixing bugs', 'Easy to adapt', 'Can replicate paper results'],
+                     datasets: [{
+                      label: 'Variant -- "main" (the higher, the better,  {1..5}, 0=N/A )',
+                      showLine: false,
+           
+                      borderColor: "#000",
+                      borderWidth: 2,
+                      backgroundColor: [
+                          'rgba(255, 99, 132,.6)',
+                          'rgba(255, 159, 64,.6)',
+                          'rgba(255, 205, 86,.6)',
+                          'rgba(75, 192, 192,.6)',
+                          'rgba(54, 162, 235,.6)',
+                      ],
+                      data: [4,0,4,4,2]
+                  },
+                  ]
+              },
+              options: {
+  scale: {
+      ticks: {
+          suggestedMin: 0,
+          suggestedMax: 5,
+          stepSize: 1
+      }
+  }
+}
+          });
+
+        </script>
+    </code></pre></body><div style="height:30px;display:block;"></div><div id="disqus_thread"></div>
+ <script>
+ /**
+ *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+ *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+ /*
+ var disqus_config = function () {
+ this.page.url = 'https://replicability.graphics';  // Replace PAGE_URL with your page's canonical URL variable
+ this.page.identifier = '10.1145-3197517.3201307'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+ };
+ */
+ (function() { // DON'T EDIT BELOW THIS LINE
+ var d = document, s = d.createElement('script');
+ s.src = 'https://replicability-graphics.disqus.com/embed.js';
+ s.setAttribute('data-timestamp', +new Date());
+ (d.head || d.body).appendChild(s);
+ })();
+ </script>
+ <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript></html>

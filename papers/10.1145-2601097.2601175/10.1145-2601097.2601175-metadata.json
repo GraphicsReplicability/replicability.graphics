@@ -1,0 +1,528 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:41:08Z",
+            "timestamp": 1586004068206
+        },
+        "reference-count": 58,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100000006",
+                "name": "Office of Naval Research",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "N00014-13-1-0341"
+                ]
+            },
+            {
+                "DOI": "10.13039/100006785",
+                "name": "Google",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100000001",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "1161480"
+                ]
+            },
+            {
+                "DOI": "10.13039/100005883",
+                "name": "Hertz Foundation",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "name": "Max Planck Center for Visual Computing and Communications",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601175",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 30,
+        "title": [
+            "Earth mover's distances on discrete surfaces"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Justin",
+                "family": "Solomon",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Raif",
+                "family": "Rustamov",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Leonidas",
+                "family": "Guibas",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Adrian",
+                "family": "Butscher",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Max Planck Institute for Informatics"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1137/100805741",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "Arnold V. 2003. Lectures on Partial Differential Equations. Universitext. Springer. 10.1109/38.536276   Arnold V. 2003. Lectures on Partial Differential Equations . Universitext. Springer. 10.1109/38.536276"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "unstructured": "Beckmann M. 1952. A continuous model of transportation. Econometrica 643--660.  Beckmann M. 1952. A continuous model of transportation. Econometrica 643--660.",
+                "DOI": "10.2307/1907646",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1007/s002110050002",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/2070781.2024192",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "unstructured": "Bonneel N. Rabin J. Peyr\u00e9 G. and Pfister H. 2013. Sliced and Radon Wasserstein barycenters of measures. Tech. rep. Preprint Hal-00881872.  Bonneel N. Rabin J. Peyr\u00e9 G. and Pfister H. 2013. Sliced and Radon Wasserstein barycenters of measures. Tech. rep. Preprint Hal-00881872."
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1561/2200000016",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1111/cgf.12173",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1109/SFCS.1987.42",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "author": "Chazal F.",
+                "year": "2010",
+                "volume-title": "Tech. Rep. 6930, INRIA, June."
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1007/s10208-011-9098-0",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1073/pnas.0500334102",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "author": "Connolly C.",
+                "volume": "3",
+                "volume-title": "Proc. Conf. on Robotics and Automation"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/2516971.2516977",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1016/j.cad.2014.01.004",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/2366145.2366190",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "Deza M. M. and Laurent M. 2009. Geometry of Cuts and Metrics. Springer.   Deza M. M. and Laurent M. 2009. Geometry of Cuts and Metrics . Springer."
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1109/TVCG.2009.64",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1090/S0002-9947-01-02930-0",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "Folland G. B. 1999. Real analysis: modern techniques and their applications vol. 361. Wiley New York.  Folland G. B. 1999. Real analysis: modern techniques and their applications vol. 361. Wiley New York."
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1109/TKDE.2007.46",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "unstructured": "Gu X. Luo F. Sun J. and Yau S.-T. 2013. Variational principles for Minkowski type problems discrete optimal transport and discrete Monge-Amp\u00e8re equations.  Gu X. Luo F. Sun J. and Yau S.-T. 2013. Variational principles for Minkowski type problems discrete optimal transport and discrete Monge-Amp\u00e8re equations."
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1023/A:1004603514434",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1007/s10107-010-0419-x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/1073204.1073229",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "unstructured": "Kimmel R. and Sethian J. A. 1998. Computing geodesic paths on manifolds. In PNAS 8431--8435.  Kimmel R. and Sethian J. A. 1998. Computing geodesic paths on manifolds. In PNAS 8431--8435.",
+                "DOI": "10.1073/pnas.95.15.8431",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.3934/ipi.2013.7.737",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1023/A:1018333422414",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1016/j.media.2010.01.005",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "first-page": "A1461",
+                "article-title": "Solving partial differential equations on point clouds",
+                "volume": "35",
+                "author": "Liang J.",
+                "year": "2013",
+                "journal-title": "J. Sci. Comp."
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1016/j.aim.2011.01.020",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/1805964.1805971",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1090/S0025-5718-2012-02569-5",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1007/s10208-011-9093-5",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1111/j.1467-8659.2011.02032.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1137/0216045",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/2010324.1964998",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1007/s10957-008-9364-8",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/2461912.2461935",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "author": "Pele O.",
+                "volume-title": "Proc. ICCV, 460--467"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "author": "Plastria F.",
+                "series-title": "Operations Research & Management Science",
+                "volume-title": "Found. of Location Anal."
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "unstructured": "Polthier K. and Preuss E. 2003. Identifying vector field singularities using a discrete Hodge decomposition. In Vis. and Math. III H.-C. Hege and K. Polthier Eds. Springer 113--134.  Polthier K. and Preuss E. 2003. Identifying vector field singularities using a discrete Hodge decomposition. In Vis. and Math. III H.-C. Hege and K. Polthier Eds. Springer 113--134.",
+                "DOI": "10.1007/978-3-662-05105-4_6",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1016/S0377-0427(01)00357-0",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1023/A:1026543900054",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "author": "Rustamov R. M.",
+                "volume-title": "Proc. SGP, 1279--1288"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1007/s00526-009-0231-8",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "unstructured": "Santambrogio F. 2013. Prescribed-divergence problems in optimal transportation. MSRI lecture notes October 2013.  Santambrogio F. 2013. Prescribed-divergence problems in optimal transportation. MSRI lecture notes October 2013."
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "unstructured": "Sayas F.-J. 2008. A gentle introduction to the finite element method.  Sayas F.-J. 2008. A gentle introduction to the finite element method."
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "unstructured": "Schwarz G. 1995. Hodge decomposition: a method for solving boundary value problems. Lecture notes in mathematics. Springer.  Schwarz G. 1995. Hodge decomposition: a method for solving boundary value problems . Lecture notes in mathematics. Springer.",
+                "DOI": "10.1007/BFb0095978",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "DOI": "10.1111/j.1467-8659.2012.03167.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "DOI": "10.1111/cgf.12186",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "first-page": "1535",
+                "article-title": "Fuzzy geodesics and consistent sparse correspondences for deformable shapes",
+                "volume": "29",
+                "author": "Sun J.",
+                "year": "2010",
+                "journal-title": "Proc. SGP"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "DOI": "10.1145/1073204.1073228",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "DOI": "10.1142/S0217595910002545",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_55_1",
+                "author": "Tong Y.",
+                "volume-title": "Proc. SGP, 201--210"
+            },
+            {
+                "key": "e_1_2_2_56_1",
+                "unstructured": "Villani C. 2003. Topics in Optimal Transportation. AMS.  Villani C. 2003. Topics in Optimal Transportation . AMS.",
+                "DOI": "10.1090/gsm/058",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_57_1",
+                "first-page": "355",
+                "article-title": "Sur le point pour lequel la somme des distances de n points donn\u00e9s est minimum",
+                "volume": "43",
+                "author": "Weiszfeld E.",
+                "year": "1937",
+                "journal-title": "T\u00f4hoku Math. J."
+            },
+            {
+                "key": "e_1_2_2_58_1",
+                "DOI": "10.1023/B:JOTA.0000005450.58251.6d",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601175&amp;ftid=1488875&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:58:40Z",
+            "timestamp": 1586001520000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 58,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601175"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601175",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

@@ -1,0 +1,431 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:55Z",
+            "timestamp": 1585962715176
+        },
+        "reference-count": 43,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100008982",
+                "name": "National Science Foundation of Sri Lanka",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "1717320"
+                ]
+            },
+            {
+                "name": "Swiss National Science Foundation, NCCR Digital Fabrication Agreement",
+                "award": [
+                    "51NF40-141853"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201373",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 9,
+        "title": [
+            "Rapid deployment of curved surfaces via programmable auxetics"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Mina",
+                "family": "Konakovi\u0107-Lukovi\u0107",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "EPFL"
+                    }
+                ]
+            },
+            {
+                "given": "Julian",
+                "family": "Panetta",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "EPFL"
+                    }
+                ]
+            },
+            {
+                "given": "Keenan",
+                "family": "Crane",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Carnegie Mellon University"
+                    }
+                ]
+            },
+            {
+                "given": "Mark",
+                "family": "Pauly",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "EPFL"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/1778765.1778800",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1111/j.1467-8659.2012.03171.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/2601097.2601116",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/1778765.1778775",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/2601097.2601189",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1073/pnas.1615140114",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1016/j.cad.2014.01.004",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/311535.311576",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "Mario Deuss Anders Holden Deleuran Sofien Bouaziz Bailin Deng Daniel Piker and Mark Pauly. 2015. ShapeOp---A Robust and Extensible Geometric Modelling Paradigm. Springer International Publishing 505--515.  Mario Deuss Anders Holden Deleuran Sofien Bouaziz Bailin Deng Daniel Piker and Mark Pauly. 2015. ShapeOp---A Robust and Extensible Geometric Modelling Paradigm. Springer International Publishing 505--515.",
+                "DOI": "10.1007/978-3-319-24208-8_42",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "first-page": "59",
+                "article-title": "ESAIM",
+                "volume": "46",
+                "author": "Do\u011fan G\u00fcnay",
+                "year": "2012",
+                "journal-title": "Mathematical Modelling and Numerical Analysis"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1038/nmat4540",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1016/0040-9383(76)90042-2",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "Santiago Fernandez. 2006. Structural Design in the Work of Gaudi. 49 (12 2006) 324--339.  Santiago Fernandez. 2006. Structural Design in the Work of Gaudi. 49 (12 2006) 324--339.",
+                "DOI": "10.3763/asre.2006.4943",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Jan Friedrich Sven Pfeiffer and Christoph Gengnagel. 2018. Locally Varied Auxetic Structures for Doubly-Curved Shapes. Springer Singapore Singapore 323--336.  Jan Friedrich Sven Pfeiffer and Christoph Gengnagel. 2018. Locally Varied Auxetic Structures for Doubly-Curved Shapes. Springer Singapore Singapore 323--336.",
+                "DOI": "10.1007/978-981-10-6611-5_28",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "author": "Gantes C.J.",
+                "year": "2001",
+                "volume-title": "Deployable Structures: Analysis and Design"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "Mohammad Ghomi. 2017. Open Problems in Geometry of Curves and Surfaces http://people.math.gatech.edu/~ghomi/Papers/op.pdf. (Oct. 2017). Accessed: 2017-12-12.  Mohammad Ghomi. 2017. Open Problems in Geometry of Curves and Surfaces http://people.math.gatech.edu/~ghomi/Papers/op.pdf. (Oct. 2017). Accessed: 2017-12-12."
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/3072959.3073709",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/2816795.2818077",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "author": "Kim Sun-Jeong",
+                "year": "2002",
+                "volume-title": "10th Pacific Conference on Computer Graphics and Applications, 2002. Proceedings. 276--283"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/2897824.2925944",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "W. Y. Lam. 2017. Minimal surfaces from infinitesimal deformations of circle packings. ArXiv e-prints (Dec. 2017).  W. Y. Lam. 2017. Minimal surfaces from infinitesimal deformations of circle packings. ArXiv e-prints (Dec. 2017)."
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "unstructured": "Ying Liu Brandi Shaw Michael D. Dickey and Jan Genzer. 2017. Sequential self-folding of polymer sheets. Science Advances 3 3 (2017).  Ying Liu Brandi Shaw Michael D. Dickey and Jan Genzer. 2017. Sequential self-folding of polymer sheets. Science Advances 3 3 (2017)."
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/3130800.3130850",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "I. Niven. 1981. Maxima and Minima Without Calculus. Number v. 6 in Dolciani Mathematical Expositions. Mathematical Association of America.  I. Niven. 1981. Maxima and Minima Without Calculus. Number v. 6 in Dolciani Mathematical Expositions. Mathematical Association of America."
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/2984511.2984520",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "unstructured": "Johannes T. B. Overvelde Twan A. de Jong Yanina Shevchenko Sergio A. Becerra George M. Whitesides James C. Weaver Chuck Hoberman and Katia Bertoldi. 2016. A three-dimensional actuated origami-inspired transformable metamaterial with multiple degrees of freedom. 7 (11 03 2016).  Johannes T. B. Overvelde Twan A. de Jong Yanina Shevchenko Sergio A. Becerra George M. Whitesides James C. Weaver Chuck Hoberman and Katia Bertoldi. 2016. A three-dimensional actuated origami-inspired transformable metamaterial with multiple degrees of freedom. 7 (11 03 2016).",
+                "DOI": "10.1038/ncomms10929",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/2766937",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/3072959.3073695",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/2766998",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1016/j.eml.2016.09.001",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "unstructured": "Dan Raviv Wei Zhao Carrie McKnelly Athina Papadopoulou Achuta Kadambi Boxin Shi Shai Hirsch Daniel Dikovsky Michael Zyracki Carlos Olguin Ramesh Raskar and Skylar Tibbits. 2014. Active Printed Materials for Complex Self-Evolving Deformations. 4 (18 12 2014).  Dan Raviv Wei Zhao Carrie McKnelly Athina Papadopoulou Achuta Kadambi Boxin Shi Shai Hirsch Daniel Dikovsky Michael Zyracki Carlos Olguin Ramesh Raskar and Skylar Tibbits. 2014. Active Printed Materials for Complex Self-Evolving Deformations. 4 (18 12 2014).",
+                "DOI": "10.1038/srep07422",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/3132705",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1002/adem.201600053",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/1618452.1618485",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1145/2766926",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1111/j.1467-8659.2012.03064.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/2601097.2601166",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.5555/1281991.1282006",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "unstructured": "Hideshi Tomita Takashi Higaki Toshiki Kobayashi Takanari Fujii and Kazuto Fujimoto. 2016. Stenting for curved lesions using a novel curved balloon: Preliminary experimental study. 66 (8 2016) 120--124. Issue 2.  Hideshi Tomita Takashi Higaki Toshiki Kobayashi Takanari Fujii and Kazuto Fujimoto. 2016. Stenting for curved lesions using a novel curved balloon: Preliminary experimental study. 66 (8 2016) 120--124. Issue 2.",
+                "DOI": "10.1016/j.jjcc.2014.10.009",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1109/34.88573",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1145/3072959.3073593",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "author": "Zheng Changxi",
+                "year": "2016",
+                "volume-title": "Proceedings of the ACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA '16)"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1145/3095815",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201373&ftid=1991654&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:38:58Z",
+            "timestamp": 1585960738000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 43,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201373"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201373",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

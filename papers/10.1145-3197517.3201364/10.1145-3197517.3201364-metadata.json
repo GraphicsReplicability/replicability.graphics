@@ -1,0 +1,703 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:54Z",
+            "timestamp": 1585962714965
+        },
+        "reference-count": 95,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201364",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 16,
+        "title": [
+            "High-fidelity facial reflectance and geometry inference from an unconstrained image"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Shugo",
+                "family": "Yamaguchi",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Waseda University and USC Institute for Creative Technologies"
+                    }
+                ]
+            },
+            {
+                "given": "Shunsuke",
+                "family": "Saito",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Southern California, and USC Institute for Creative Technologies"
+                    }
+                ]
+            },
+            {
+                "given": "Koki",
+                "family": "Nagano",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Pinscreen"
+                    }
+                ]
+            },
+            {
+                "given": "Yajie",
+                "family": "Zhao",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "USC Institute for Creative Technologies"
+                    }
+                ]
+            },
+            {
+                "given": "Weikai",
+                "family": "Chen",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "USC Institute for Creative Technologies"
+                    }
+                ]
+            },
+            {
+                "given": "Kyle",
+                "family": "Olszewski",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Southern California, and USC Institute for Creative Technologies"
+                    }
+                ]
+            },
+            {
+                "given": "Shigeo",
+                "family": "Morishima",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Waseda University"
+                    }
+                ]
+            },
+            {
+                "given": "Hao",
+                "family": "Li",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Southern California, and USC Institute for Creative Technologies"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/2897824.2925917",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/1667239.1667251",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1109/TPAMI.2014.2377712",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "J. T. Barron and J. Malik. 2015b. Shape Illumination and Reflectance from Shading. IEEE Transactions on Pattern Analysis and Machine Intelligence (2015).  J. T. Barron and J. Malik. 2015b. Shape Illumination and Reflectance from Shading. IEEE Transactions on Pattern Analysis and Machine Intelligence (2015)."
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/1778765.1778777",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/2010324.1964970",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/311535.311556",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1109/CVPR.2016.598",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "author": "Bradley D.",
+                "volume-title": "Computer Graphics Forum"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/2766943",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/2897824.2925873",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/344779.344855",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1109/TPAMI.2006.206",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "author": "Duong C. N",
+                "volume-title": "Proc. CVPR. 4786--4794"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "author": "Edwards G.J.",
+                "volume-title": "Proceedings of the 3rd. International Conference on Face and Gesture Recognition (FG '98)"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/383259.383296",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "A. A. Efros and T. K. Leung. 1999. Texture Synthesis by Non-Parametric Sampling. In IEEE ICCV. 1033--.   A. A. Efros and T. K. Leung. 1999. Texture Synthesis by Non-Parametric Sampling. In IEEE ICCV. 1033--.",
+                "DOI": "10.1109/ICCV.1999.790383",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/2638549",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1111/cgf.13127",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/2508363.2508380",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "L. A. Gatys M. Bethge A. Hertzmann and E. Shechtman. 2016. Preserving Color in Neural Artistic Style Transfer. CoRR abs/1606.05897 (2016).  L. A. Gatys M. Bethge A. Hertzmann and E. Shechtman. 2016. Preserving Color in Neural Artistic Style Transfer. CoRR abs/1606.05897 (2016)."
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "unstructured": "L. A. Gatys A. S. Ecker and M. Bethge. 2015. Texture synthesis and the controlled generation of natural stimuli using convolutional neural networks. CoRR abs/1505.07376 (2015).   L. A. Gatys A. S. Ecker and M. Bethge. 2015. Texture synthesis and the controlled generation of natural stimuli using convolutional neural networks. CoRR abs/1505.07376 (2015)."
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/2070781.2024163",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/1360612.1360658",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/1141911.1141988",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "unstructured": "I. Goodfellow J. Pouget-Abadie M. Mirza B. Xu D. Warde-Farley S. Ozair A. Courville and Y. Bengio. 2014. Generative Adversarial Nets. In Advances in Neural Information Processing Systems 27 Z. Ghahramani M. Welling C. Cortes N D. Lawrence and K. Q. Weinberger (Eds.). Curran Associates Inc. 2672--2680.   I. Goodfellow J. Pouget-Abadie M. Mirza B. Xu D. Warde-Farley S. Ozair A. Courville and Y. Bengio. 2014. Generative Adversarial Nets. In Advances in Neural Information Processing Systems 27 Z. Ghahramani M. Welling C. Cortes N D. Lawrence and K. Q. Weinberger (Eds.). Curran Associates Inc. 2672--2680."
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1109/ICCV.2015.103",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/2342896.2342970",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "P. Graham B. Tunwattanapong J. Busch X. Yu A. Jones P. Debevec and A. Ghosh. 2013b. Measurement-based Synthesis of Facial Microgeometry. In EUROGRAPHICS. 10.1145/2342896.2342970   P. Graham B. Tunwattanapong J. Busch X. Yu A. Jones P. Debevec and A. Ghosh. 2013b. Measurement-based Synthesis of Facial Microgeometry. In EUROGRAPHICS. 10.1145/2342896.2342970"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1007/s00371-006-0078-3",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "author": "Haro A.",
+                "volume-title": "Physically Based Rendering of Fine Scale Human Skin Structure. In Eurographics Workshop on Rendering, S. J. Gortle and K. Myszkowski (Eds.)."
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/3130800.31310887",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/2766974",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/3072959.3073659",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "unstructured": "P. Isola J.-Y. Zhu T. Zhou and A. A. Efros. 2016. Image-to-image translation with conditional adversarial networks. arXiv:1611.07004 (2016).  P. Isola J.-Y. Zhu T. Zhou and A. A. Efros. 2016. Image-to-image translation with conditional adversarial networks. arXiv:1611.07004 (2016)."
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1145/2010324.1964941",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "unstructured": "T. Karras T. Aila S. Laine and J. Lehtinen. 2017. Progressive Growing of GANs for Improved Quality Stability and Variation. CoRR abs/1710.10196 (2017).  T. Karras T. Aila S. Laine and J. Lehtinen. 2017. Progressive Growing of GANs for Improved Quality Stability and Variation. CoRR abs/1710.10196 (2017)."
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "unstructured": "I. Kemelmacher-Shlizerman. 2013. Internet-based Morphable Model. IEEE ICCV (2013). 10.1109/ICCV.2013.404   I. Kemelmacher-Shlizerman. 2013. Internet-based Morphable Model. IEEE ICCV (2013). 10.1109/ICCV.2013.404",
+                "DOI": "10.1109/ICCV.2013.404",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1109/TPAMI.2010.63",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "unstructured": "I. Kemelmacher-Shlizerman and S. M. Seitz. 2011. Face reconstruction in the wild. In IEEE ICCV. IEEE 1746--1753. 10.1109/ICCV.2011.6126439   I. Kemelmacher-Shlizerman and S. M. Seitz. 2011. Face reconstruction in the wild. In IEEE ICCV. IEEE 1746--1753. 10.1109/ICCV.2011.6126439",
+                "DOI": "10.1109/ICCV.2011.6126439",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "author": "Kim H.",
+                "volume-title": "Proc. CVPR."
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "author": "Kingma D. P.",
+                "year": "2014",
+                "volume-title": "Adam: A Method for Stochastic Optimization. CoRR abs/1412.6980"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "unstructured": "T. D. Kulkarni W. F. Whitney P. Kohli and J. Tenenbaum. 2015. Deep Convolutional Inverse Graphics Network. In Advances in Neural Information Processing Systems 28 C. Cortes N. D. Lawrence D. D. Lee M. Sugiyama and R. Garnett (Eds.). Curran Associates Inc. 2539--2547.   T. D. Kulkarni W. F. Whitney P. Kohli and J. Tenenbaum. 2015. Deep Convolutional Inverse Graphics Network. In Advances in Neural Information Processing Systems 28 C. Cortes N. D. Lawrence D. D. Lee M. Sugiyama and R. Garnett (Eds.). Curran Associates Inc. 2539--2547."
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1145/1073204.1073263",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1145/1201775.882264",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1364/JOSAA.11.000467",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "author": "Lasram A.",
+                "volume-title": "Proceedings of the Fourth ACM SIGGRAPH/Eurographics conference on High-Performance Graphics. Eurographics Association, 115--124"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "unstructured": "C. Ledig L. Theis F. Husz\u00e1r J. Caballero A. Cunningham A. Acosta A. Aitken A. Tejani J. Totz Z. Wang and others. 2016. Photo-realistic single image super-resolution using a generative adversarial network. arXiv:1609.04802 (2016).  C. Ledig L. Theis F. Husz\u00e1r J. Caballero A. Cunningham A. Acosta A. Aitken A. Tejani J. Totz Z. Wang and others. 2016. Photo-realistic single image super-resolution using a generative adversarial network. arXiv:1609.04802 (2016).",
+                "DOI": "10.1109/CVPR.2017.19",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "DOI": "10.1145/1141911.1141921",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "author": "Li C.",
+                "volume-title": "Proc. ECCV (5)'14"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "DOI": "10.1145/2766939",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "DOI": "10.1109/CVPR.2017.624",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "DOI": "10.1007/s11263-006-0029-5",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "DOI": "10.1631/FITEE.1700253",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_55_1",
+                "unstructured": "Z. Liu P. Luo X. Wang and X. Tang. 2015. Deep Learning Face Attributes in the Wild. In IEEE ICCV. 10.1109/ICCV.2015.425   Z. Liu P. Luo X. Wang and X. Tang. 2015. Deep Learning Face Attributes in the Wild. In IEEE ICCV. 10.1109/ICCV.2015.425",
+                "DOI": "10.1109/ICCV.2015.425",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_56_1",
+                "DOI": "10.3758/s13428-014-0532-5",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_57_1",
+                "author": "Ma W.-C.",
+                "year": "2007",
+                "volume-title": "Proc. EGSR"
+            },
+            {
+                "key": "e_1_2_2_58_1",
+                "author": "Ma W.-C.",
+                "volume-title": "Eurographics Symposium on Rendering."
+            },
+            {
+                "key": "e_1_2_2_59_1",
+                "DOI": "10.1145/1457515.1409074",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_60_1",
+                "DOI": "10.1023/B:VISI.0000029666.37597.d3",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_61_1",
+                "author": "McDonagh S.",
+                "volume-title": "2016 Fourth International Conference on. IEEE, 639--648"
+            },
+            {
+                "key": "e_1_2_2_62_1",
+                "DOI": "10.1145/1531326.1531363",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_63_1",
+                "DOI": "10.1145/2766894",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_64_1",
+                "author": "Duong C. Nhan",
+                "volume-title": "Proc. CVPR. 4786--4794"
+            },
+            {
+                "key": "e_1_2_2_65_1",
+                "unstructured": "K. Olszewski Z. Li C. Yang Y. Zhou R. Yu Z. Huang S. Xiang S. Saito P. Kohli and H. Li. 2017. Realistic Dynamic Facial Textures From a Single Image Using GANs. In IEEE ICCV.  K. Olszewski Z. Li C. Yang Y. Zhou R. Yu Z. Huang S. Xiang S. Saito P. Kohli and H. Li. 2017. Realistic Dynamic Facial Textures From a Single Image Using GANs. In IEEE ICCV.",
+                "DOI": "10.1109/ICCV.2017.580",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_66_1",
+                "DOI": "10.1145/2980179.2980252",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_67_1",
+                "author": "Pathak D.",
+                "volume-title": "Proc. CVPR. 2536--2544"
+            },
+            {
+                "key": "e_1_2_2_68_1",
+                "unstructured": "A. Radford L. Metz and S. Chintala. 2015. Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks. CoRR abs/1511.06434 (2015).  A. Radford L. Metz and S. Chintala. 2015. Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks. CoRR abs/1511.06434 (2015)."
+            },
+            {
+                "key": "e_1_2_2_69_1",
+                "author": "Richardson E.",
+                "volume-title": "2016 Fourth International Conference on. IEEE, 460--469"
+            },
+            {
+                "key": "e_1_2_2_70_1",
+                "author": "Richardson E.",
+                "volume-title": "Proc. CVPR. IEEE, 5553--5562"
+            },
+            {
+                "key": "e_1_2_2_71_1",
+                "DOI": "10.1109/CVPR.2005.145",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_72_1",
+                "author": "Saito S.",
+                "volume-title": "Proc. ECCV."
+            },
+            {
+                "key": "e_1_2_2_73_1",
+                "author": "Saito S.",
+                "volume-title": "Proc. CVPR."
+            },
+            {
+                "key": "e_1_2_2_74_1",
+                "unstructured": "M. Sela E. Richardson and R. Kimmel. 2017. Unrestricted facial geometry reconstruction using image-to-image translation. In IEEE ICCV. IEEE 1585--1594.  M. Sela E. Richardson and R. Kimmel. 2017. Unrestricted facial geometry reconstruction using image-to-image translation. In IEEE ICCV. IEEE 1585--1594.",
+                "DOI": "10.1109/ICCV.2017.175",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_75_1",
+                "unstructured": "S. Sengupta A. Kanazawa C. D. Castillo and D. Jacobs. 2017. SfSNet: Learning Shape Reflectance and Illuminance of Faces in the Wild. arXiv.1712.01261 (2017).  S. Sengupta A. Kanazawa C. D. Castillo and D. Jacobs. 2017. SfSNet: Learning Shape Reflectance and Illuminance of Faces in the Wild. arXiv.1712.01261 (2017)."
+            },
+            {
+                "key": "e_1_2_2_76_1",
+                "DOI": "10.1145/2661229.2661290",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_77_1",
+                "unstructured": "Z. Shu E. Yumer S. Hadap K. Sunkavalli E. Shechtman and D. Samaras. 2017. Neural Face Editing with Intrinsic Image Disentangling. arXiv:1704.04131 (2017).  Z. Shu E. Yumer S. Hadap K. Sunkavalli E. Shechtman and D. Samaras. 2017. Neural Face Editing with Intrinsic Image Disentangling. arXiv:1704.04131 (2017).",
+                "DOI": "10.1109/CVPR.2017.578",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_78_1",
+                "unstructured": "Solid Angle. 2016. (2016). http://www.solidangle.com/arnold/.  Solid Angle. 2016. (2016). http://www.solidangle.com/arnold/."
+            },
+            {
+                "key": "e_1_2_2_79_1",
+                "author": "Suwajanakorn S.",
+                "volume-title": "Proc. ECCV. Springer, 796--812"
+            },
+            {
+                "key": "e_1_2_2_80_1",
+                "unstructured": "A. Tewari M. Zollh\u00f6fer P. Garrido F. Bernard H. Kim P. P\u00e9rez and C. Theobalt. 2017a. Self-supervised Multi-level Face Model Learning for Monocular Reconstruction at over 250 Hz. arXiv.1712.02859 (2017).  A. Tewari M. Zollh\u00f6fer P. Garrido F. Bernard H. Kim P. P\u00e9rez and C. Theobalt. 2017a. Self-supervised Multi-level Face Model Learning for Monocular Reconstruction at over 250 Hz. arXiv.1712.02859 (2017).",
+                "DOI": "10.1109/CVPR.2018.00270",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_81_1",
+                "author": "Tewari A.",
+                "year": "2017",
+                "volume-title": "Mofa: Model-based deep convolutional face autoencoder for unsupervised monocular reconstruction"
+            },
+            {
+                "key": "e_1_2_2_82_1",
+                "unstructured": "The Digital Human League. 2015. Digital Emily 2.0. (2015). http://gl.ict.usc.edu/Research/DigitalEmily2/.  The Digital Human League. 2015. Digital Emily 2.0. (2015). http://gl.ict.usc.edu/Research/DigitalEmily2/."
+            },
+            {
+                "key": "e_1_2_2_83_1",
+                "author": "Thies J.",
+                "volume-title": "Proc. CVPR."
+            },
+            {
+                "key": "e_1_2_2_84_1",
+                "unstructured": "J. Thies M. Zoll\u00f6fer M. Stamminger C. Theobalt and M. Nie\u00dfner. 2016b. FaceVR: Real-Time Facial Reenactment and Eye Gaze Control in Virtual Reality. arXiv:1610.03151 (2016).  J. Thies M. Zoll\u00f6fer M. Stamminger C. Theobalt and M. Nie\u00dfner. 2016b. FaceVR: Real-Time Facial Reenactment and Eye Gaze Control in Virtual Reality. arXiv:1610.03151 (2016)."
+            },
+            {
+                "key": "e_1_2_2_85_1",
+                "DOI": "10.1162/jocn.1991.3.1.71",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_86_1",
+                "DOI": "10.1145/2614028.2615407",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_87_1",
+                "unstructured": "L.-Y. Wei S. Lefebvre V. Kwatra and G. Turk. 2009. State of the art in example-based texture synthesis. In Eurographics 2009 State of the Art Report EG-STAR. Eurographics Association 93--117.  L.-Y. Wei S. Lefebvre V. Kwatra and G. Turk. 2009. State of the art in example-based texture synthesis. In Eurographics 2009 State of the Art Report EG-STAR. Eurographics Association 93--117."
+            },
+            {
+                "key": "e_1_2_2_88_1",
+                "DOI": "10.1145/344779.345009",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_89_1",
+                "DOI": "10.1145/1141911.1141987",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_90_1",
+                "DOI": "10.1145/1731047.1731055",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_91_1",
+                "DOI": "10.1145/2897824.2925882",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_92_1",
+                "author": "R. A.",
+                "volume-title": "Proc. CVPR. * equal contribution."
+            },
+            {
+                "key": "e_1_2_2_93_1",
+                "author": "Zhao H.",
+                "volume-title": "Proc. CVPR."
+            },
+            {
+                "key": "e_1_2_2_94_1",
+                "unstructured": "J.-Y. Zhu R. Zhang D. Pathak T. Darrell A. A. Efros O. Wang and E. Shechtman. 2017. Toward Multimodal Image-to-image Translation. In Advances in Neural Information Processing Systems 30.  J.-Y. Zhu R. Zhang D. Pathak T. Darrell A. A. Efros O. Wang and E. Shechtman. 2017. Toward Multimodal Image-to-image Translation. In Advances in Neural Information Processing Systems 30."
+            },
+            {
+                "key": "e_1_2_2_95_1",
+                "author": "Zhu X.",
+                "volume-title": "Proc. CVPR. 787--796"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201364&ftid=1991640&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:40:53Z",
+            "timestamp": 1585960853000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 95,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201364"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201364",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

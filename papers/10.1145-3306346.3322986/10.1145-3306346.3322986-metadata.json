@@ -1,0 +1,376 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    5,
+                    5
+                ]
+            ],
+            "date-time": "2020-05-05T17:41:03Z",
+            "timestamp": 1588700463297
+        },
+        "reference-count": 40,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2019,
+                            7,
+                            12
+                        ]
+                    ],
+                    "date-time": "2019-07-12T00:00:00Z",
+                    "timestamp": 1562889600000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100001659",
+                "name": "Deutsche Forschungsgemeinschaft",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "EXC-2046/1"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "DOI": "10.1145/3306346.3322986",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2019-07-12T19:04:08Z",
+            "timestamp": 1562958248000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+            "Harmonic triangulations"
+        ],
+        "prefix": "10.1145",
+        "volume": "38",
+        "author": [
+            {
+                "given": "Marc",
+                "family": "Alexa",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "TU Berlin, Germany"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/2010324.1964997",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "Aleksandr D Alexandrov. 2005. Convex polyhedra. Springer Berlin Heidelberg.  Aleksandr D Alexandrov. 2005. Convex polyhedra. Springer Berlin Heidelberg."
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/1073204.1073238",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1137/0216006",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1137/0713021",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1137/S0036142994265292",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.5555/313651.313694",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.5555/1341391.1341394",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1098/rstl.1869.0010",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "author": "Chen Long",
+                "year": "2004",
+                "volume-title": "Proceedings, 13th International Meshing Roundtable. Sandia National Laboratories"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "first-page": "299",
+                "article-title": "Optimal Delaunay Triangulations",
+                "volume": "22",
+                "author": "Chen Long",
+                "year": "2004",
+                "journal-title": "Journal of Computational Mathematics"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1016/j.cagd.2010.02.002",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1137/120875132",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/355483.355487",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/2602143",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.5555/1952022",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "first-page": "793",
+                "article-title": "Distributed and lumped networks",
+                "volume": "8",
+                "author": "Duffin Richard J",
+                "year": "1959",
+                "journal-title": "Journal of Mathematics and Mechanics"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "author": "Dziuk Gerhard",
+                "volume-title": "Partial Differential Equations and Calculus of Variations"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/142675.142688",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/3197517.3201358",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "Jean Gallier and Jocelyn Quaintance. 2017. Aspects of Convex Geometry Polyhedra Linear Programming Shellings Voronoi Diagrams Delaunay Triangulations. Book in progress earlier version available as arXiv:0805.0292.  Jean Gallier and Jocelyn Quaintance. 2017. Aspects of Convex Geometry Polyhedra Linear Programming Shellings Voronoi Diagrams Delaunay Triangulations. Book in progress earlier version available as arXiv:0805.0292."
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "unstructured": "Ga\u00ebl Guennebaud Beno\u00eet Jacob etal 2010. Eigen v3. http://eigen.tuxfamily.org.  Ga\u00ebl Guennebaud Beno\u00eet Jacob et al. 2010. Eigen v3. http://eigen.tuxfamily.org."
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/3197517.3201353",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "Cl\u00e9ment Jamin Sylvain Pion and Monique Teillaud. 2018. 3D Triangulations. In CGAL User and Reference Manual (4.13 ed.). CGAL Editorial Board. https://doc.cgal.org/4.13/Manual/packages.html#PkgTriangulation3Summary  Cl\u00e9ment Jamin Sylvain Pion and Monique Teillaud. 2018. 3D Triangulations. In CGAL User and Reference Manual (4.13 ed.). CGAL Editorial Board. https://doc.cgal.org/4.13/Manual/packages.html#PkgTriangulation3Summary"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1137/0910044",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1137/0729031",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/1276377.1276448",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1016/0012-365X(72)90093-3",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "Mark Meyer Mathieu Desbrun Peter Schr\u00f6der and Alan H. Barr. 2003. Discrete Differential-Geometry Operators for Triangulated 2-Manifolds. In Visualization and Mathematics III Hans-Christian Hege and Konrad Polthier (Eds.). Springer Berlin Heidelberg Berlin Heidelberg 35--57.  Mark Meyer Mathieu Desbrun Peter Schr\u00f6der and Alan H. Barr. 2003. Discrete Differential-Geometry Operators for Triangulated 2-Manifolds. In Visualization and Mathematics III Hans-Christian Hege and Konrad Polthier (Eds.). Springer Berlin Heidelberg Berlin Heidelberg 35--57.",
+                "DOI": "10.1007/978-3-662-05105-4_2",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "author": "Molino Neil",
+                "year": "2003",
+                "volume-title": "Proceedings, 12th International Meshing Roundtable. Sandia National Laboratories"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/262839.263061",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1080/10586458.1993.10504266",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "unstructured": "William H. Press Saul A. Teukolsky William T. Vetterling and Brian P. Flannery. 1992. Numerical Recipes in C: The Art of Scientific Computing (second ed.). Cambridge University Press.   William H. Press Saul A. Teukolsky William T. Vetterling and Brian P. Flannery. 1992. Numerical Recipes in C: The Art of Scientific Computing (second ed.). Cambridge University Press."
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1016/0167-8396(90)90011-F",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "unstructured": "Jonathan Shewchuk. 2002a. What is a good linear finite element? interpolation conditioning anisotropy and quality measures (preprint). https://people.eecs.berkeley.edu/~jrs/papers/elemj.pdf  Jonathan Shewchuk. 2002a. What is a good linear finite element? interpolation conditioning anisotropy and quality measures (preprint). https://people.eecs.berkeley.edu/~jrs/papers/elemj.pdf"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1016/S0925-7721(01)00047-5",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1093/comjnl/21.3.243",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1145/1531326.1531381",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.5555/1281991.1281995",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1090/S0025-5718-99-01148-5",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3322986&ftid=2071687&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    5,
+                    5
+                ]
+            ],
+            "date-time": "2020-05-05T17:08:34Z",
+            "timestamp": 1588698514000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "references-count": 40,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        12
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3306346.3322986"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3306346.3322986",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

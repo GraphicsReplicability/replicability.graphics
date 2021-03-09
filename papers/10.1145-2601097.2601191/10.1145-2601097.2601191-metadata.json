@@ -1,0 +1,376 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:11:21Z",
+            "timestamp": 1586002281539
+        },
+        "reference-count": 26,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100002367",
+                "name": "Chinese Academy of Sciences",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "2013Y1GA0007"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100002855",
+                "name": "Ministry of Science and Technology of the People's Republic of China",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "2013AA01A604"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100004963",
+                "name": "Seventh Framework Programme",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/501100001809",
+                "name": "National Natural Science Foundation of China",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "61232011, 61379090, 61161160567"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100003977",
+                "name": "Israel Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "name": "Shenzhen Innovation & Technology Program",
+                "award": [
+                    "CXB201104220029A, ZD201111080115A, KC2012JSJS0019A, JSGG20130624154940238, JCYJ20120617114842361"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601191",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-8",
+        "source": "Crossref",
+        "is-referenced-by-count": 11,
+        "title": [
+            "Proactive 3D scanning of inaccessible parts"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Feilong",
+                "family": "Yan",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Shenzhen VisuCA Key Lab/SIAT"
+                    }
+                ]
+            },
+            {
+                "given": "Andrei",
+                "family": "Sharf",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Ben-Gurion University"
+                    }
+                ]
+            },
+            {
+                "given": "Wenzhen",
+                "family": "Lin",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shenzhen VisuCA Key Lab/SIAT"
+                    }
+                ]
+            },
+            {
+                "given": "Hui",
+                "family": "Huang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shenzhen VisuCA Key Lab/SIAT"
+                    }
+                ]
+            },
+            {
+                "given": "Baoquan",
+                "family": "Chen",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shandong University and Shenzhen VisuCA Key Lab/SIAT"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "Amberg B. Romdhani S. and Vetter T. 2007. Optimal step nonrigid icp algorithms for surface registration. In CVPR.  Amberg B. Romdhani S. and Vetter T. 2007. Optimal step nonrigid icp algorithms for surface registration. In CVPR .",
+                "DOI": "10.1109/CVPR.2007.383165",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/235815.235821",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1109/34.121791",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1111/cgf.12178",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/1275808.1276404",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.5555/1731309.1731331",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/1966394.1966405",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1016/0262-8856(92)90066-C",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1016/S1077-3142(03)00009-2",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/1399504.1360697",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1364/JOSAA.4.000629",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "author": "Huang Q.-X.",
+                "volume-title": "Proceedings of the Symposium on Geometry Processing, Eurographics Association, Aire-la-Ville"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/2047196.2047270",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "author": "Kazhdan M.",
+                "volume-title": "Proceedings of the Fourth Eurographics Symposium on Geometry Processing, Eurographics Association, Aire-la-Ville"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "author": "Li H.",
+                "volume-title": "Proceedings of the Symposium on Geometry Processing, Eurographics Association, Aire-la-Ville"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "Li H. Adams B. Guibas L. J. and Pauly M. 2009. Robust single-view geometry and motion reconstruction. In ACM SIGGRAPH Asia 2009 papers 175:1--175:10. 10.1145/1661412.1618521   Li H. Adams B. Guibas L. J. and Pauly M. 2009. Robust single-view geometry and motion reconstruction. In ACM SIGGRAPH Asia 2009 papers 175:1--175:10. 10.1145/1661412.1618521"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "Li H. Vouga E. Gudym A. Luo L. Barron J. T. and Gusev G. 2013. 3d self-portraits. ACM Transactions on Graphics (Proceedings SIGGRAPH Asia 2013) 32 6 (November). 10.1145/2508363.2508407   Li H. Vouga E. Gudym A. Luo L. Barron J. T. and Gusev G. 2013. 3d self-portraits. ACM Transactions on Graphics (Proceedings SIGGRAPH Asia 2013) 32 6 (November). 10.1145/2508363.2508407",
+                "DOI": "10.1145/2508363.2508407",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "author": "Mitra N. J.",
+                "volume-title": "Proceedings of the fifth Eurographics symposium on Geometry processing, Eurographics Association, Aire-la-Ville"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "author": "Muja M.",
+                "volume-title": "International Conference on Computer Vision Theory and Application VISSAPP'09)"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1111/j.1467-8659.2008.01137.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/1457515.1409063",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/1275808.1276478",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "author": "S\u00fcssmuth J.",
+                "volume-title": "Proceedings of the Symposium on Geometry Processing, Eurographics Association, Aire-la-Ville"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/2159516.2159517",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "author": "Wand M.",
+                "volume-title": "Proceedings of the fifth Eurographics symposium on Geometry processing, Eurographics Association, Aire-la-Ville"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/1516522.1516526",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601191&amp;ftid=1488966&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:48:32Z",
+            "timestamp": 1586000912000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 26,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601191"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601191",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

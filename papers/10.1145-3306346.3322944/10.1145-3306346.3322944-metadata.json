@@ -1,0 +1,668 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2020-07-12T20:10:15Z",
+            "timestamp": 1594584615295
+        },
+        "reference-count": 90,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2019,
+                            7,
+                            12
+                        ]
+                    ],
+                    "date-time": "2019-07-12T00:00:00Z",
+                    "timestamp": 1562889600000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "DOI": "10.1145/3306346.3322944",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2019-07-12T19:04:08Z",
+            "timestamp": 1562958248000
+        },
+        "page": "1-18",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+            "Tensor maps for synchronizing heterogeneous shape collections"
+        ],
+        "prefix": "10.1145",
+        "volume": "38",
+        "author": [
+            {
+                "given": "Qixing",
+                "family": "Huang",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "The University of Texas at Austin"
+                    }
+                ]
+            },
+            {
+                "given": "Zhenxiao",
+                "family": "Liang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "The University of Texas at Austin"
+                    }
+                ]
+            },
+            {
+                "given": "Haoyun",
+                "family": "Wang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Tsinghua University"
+                    }
+                ]
+            },
+            {
+                "given": "Simiao",
+                "family": "Zuo",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "The University of Texas at Austin"
+                    }
+                ]
+            },
+            {
+                "given": "Chandrajit",
+                "family": "Bajaj",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "The University of Texas at Austin"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "first-page": "1",
+                "article-title": "Tensor Decompositions for Learning Latent Variable Models",
+                "volume": "15",
+                "author": "Anandkumar Animashree",
+                "year": "2014",
+                "journal-title": "J. Mach. Learn. Res."
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/1073204.1073207",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1016/j.cviu.2018.08.001",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.5555/3122009.3153019",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "author": "Bajaj Chandrajit",
+                "volume": "80",
+                "year": "2018",
+                "volume-title": "Proceedings of the 35th International Conference on Machine Learning (Proceedings of Machine Learning Research), Jennifer Dy and Andreas Krause (Eds.)"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.5555/2980539.2980616",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "author": "Berkhin P.",
+                "volume-title": "Grouping Multidimensional Data: Recent Advances in Clustering"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "James C. Bezdek and Richard J. Hathaway. 2003. Convergence of alternating optimization. Neural Parallel Sci. Comput. 11 (December 2003) 351--368. Issue 4.   James C. Bezdek and Richard J. Hathaway. 2003. Convergence of alternating optimization. Neural Parallel Sci. Comput. 11 (December 2003) 351--368. Issue 4."
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1109/CVPR.2014.491",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1073/pnas.1112822108",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "Alexander Bronstein Michael Bronstein and Ron Kimmel. 2008. Numerical Geometry of Non-Rigid Shapes (1 ed.). Springer Publishing Company Incorporated New York City.   Alexander Bronstein Michael Bronstein and Ron Kimmel. 2008. Numerical Geometry of Non-Rigid Shapes (1 ed.). Springer Publishing Company Incorporated New York City.",
+                "DOI": "10.1007/978-0-387-73301-2_1",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/1970392.1970395",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "E. J. Candes T. Strohmer and V. Voroninski. 2012. PhaseLift: Exact and stable signal recovery from magnitude measurements via convex programming. Communications on Pure and Applied Mathematics 66 (august 2012) 1241--1274. Issue 8.  E. J. Candes T. Strohmer and V. Voroninski. 2012. PhaseLift: Exact and stable signal recovery from magnitude measurements via convex programming. Communications on Pure and Applied Mathematics 66 (august 2012) 1241--1274. Issue 8.",
+                "DOI": "10.1002/cpa.21432",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Angel X. Chang Thomas A. Funkhouser Leonidas J. Guibas Pat Hanrahan Qi-Xing Huang Zimo Li Silvio Savarese Manolis Savva Shuran Song Hao Su Jianxiong Xiao Li Yi and Fisher Yu. 2015. ShapeNet: An Information-Rich 3D Model Repository. CoRR abs/1512.03012 (2015).  Angel X. Chang Thomas A. Funkhouser Leonidas J. Guibas Pat Hanrahan Qi-Xing Huang Zimo Li Silvio Savarese Manolis Savva Shuran Song Hao Su Jianxiong Xiao Li Yi and Fisher Yu. 2015. ShapeNet: An Information-Rich 3D Model Repository. CoRR abs/1512.03012 (2015)."
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "unstructured": "Avishek Chatterjee and Venu Madhav Govindu. 2013. Efficient and Robust Large-Scale Rotation Averaging. In ICCV. IEEE Computer Society Sydney Australia 521--528. 10.1109/ICCV.2013.70   Avishek Chatterjee and Venu Madhav Govindu. 2013. Efficient and Robust Large-Scale Rotation Averaging. In ICCV. IEEE Computer Society Sydney Australia 521--528. 10.1109/ICCV.2013.70",
+                "DOI": "10.1109/ICCV.2013.70",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "author": "Chen Yuxin",
+                "year": "2014",
+                "volume-title": "Proceedings of the 31th International Conference on Machine Learning, ICML 2014"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1109/MSP.2013.2297439",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1111/cgf.12796",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1109/TSP.2007.893943",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1109/83.623193",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/2980179.2982409",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/1015706.1015775",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "author": "Gan Guojun",
+                "year": "2007",
+                "volume-title": "Data Clustering: Theory, Algorithms, and Applications (ASA-SIAM Series on Statistics and Applied Probability)"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1109/TVCG.2014.2369039",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "unstructured": "Daniela Giorgi Silvia Biasotti and Laura Paraboschi. 2007. Shape retrieval contest 2007: Watertight models track. SHREC competition 8 7 (2007).  Daniela Giorgi Silvia Biasotti and Laura Paraboschi. 2007. Shape retrieval contest 2007: Watertight models track. SHREC competition 8 7 (2007)."
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/1409060.1409098",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "unstructured": "G.H. Golub and C.F. Van Loan. 1996. Matrix computations. Johns Hopkins University Press Baltimore MD.  G.H. Golub and C.F. Van Loan. 1996. Matrix computations. Johns Hopkins University Press Baltimore MD."
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/2835487",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1111/j.1467-8659.2012.03175.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/2070781.2024159",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/2601097.2601111",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/1141911.1141925",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.5555/2600289.2600314",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/2366145.2366186",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "first-page": "I",
+                "article-title": "Translation Synchronization via Truncated Least Squares",
+                "volume": "30",
+                "author": "Huang Xiangru",
+                "year": "2017",
+                "journal-title": "Advances in Neural Information Processing Systems"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1109/CVPR.2019.00827",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "unstructured": "Daniel Huber. 2002. Automatic Three-dimensional Modeling from Reality. Ph.D. Dissertation. Robotics Institute Carnegie Mellon University Pittsburgh PA.   Daniel Huber. 2002. Automatic Three-dimensional Modeling from Reality. Ph.D. Dissertation. Robotics Institute Carnegie Mellon University Pittsburgh PA."
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "unstructured": "Evangelos Kalogerakis Melinos Averkiou Subhransu Maji and Siddhartha Chaudhuri. 2017. 3D Shape Segmentation with Projective Convolutional Networks. In CVPR. IEEE Computer Society 6630--6639.  Evangelos Kalogerakis Melinos Averkiou Subhransu Maji and Siddhartha Chaudhuri. 2017. 3D Shape Segmentation with Projective Convolutional Networks. In CVPR. IEEE Computer Society 6630--6639.",
+                "DOI": "10.1109/CVPR.2017.702",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/1833349.1778839",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1109/TIT.2010.2046205",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1145/2461912.2461933",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1145/2185520.2185550",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1145/2010324.1964974",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1137/07070111X",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1145/1015706.1015811",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1109/PG.2007.43",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "DOI": "10.1109/JPROC.2015.2460697",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "unstructured": "Spyridon Leonardos Xiaowei Zhou and Kostas Daniilidis. 2017. Distributed consistent data association via permutation synchronization. In ICRA. IEEE Singapore 2645--2652.  Spyridon Leonardos Xiaowei Zhou and Kostas Daniilidis. 2017. Distributed consistent data association via permutation synchronization. In ICRA. IEEE Singapore 2645--2652.",
+                "DOI": "10.1109/ICRA.2017.7989308",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "unstructured": "Canyi Lu Jiashi Feng Yudong Chen Wei Liu Zhouchen Lin and Shuicheng Yan. 2016. Tensor Robust Principal Component Analysis: Exact Recovery of Corrupted Low-Rank Tensors via Convex Optimization. In CVPR. IEEE Computer Society Las Vegas NV USA 5249--5257.  Canyi Lu Jiashi Feng Yudong Chen Wei Liu Zhouchen Lin and Shuicheng Yan. 2016. Tensor Robust Principal Component Analysis: Exact Recovery of Corrupted Low-Rank Tensors via Convex Optimization. In CVPR. IEEE Computer Society Las Vegas NV USA 5249--5257."
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "DOI": "10.1016/j.sigpro.2004.11.029",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "DOI": "10.1111/j.1467-8659.2011.02022.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "author": "Ohbuchi Ryutarou",
+                "year": "2008",
+                "volume-title": "Shape Modeling and Applications, 2008. SMI 2008. IEEE International Conference on. IEEE Computer Society"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "DOI": "10.1145/571647.571648",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "DOI": "10.1145/2185520.2185526",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_55_1",
+                "author": "Pachauri Deepti",
+                "year": "1860",
+                "volume-title": "Advances in Neural Information Processing Systems 26"
+            },
+            {
+                "key": "e_1_2_2_56_1",
+                "author": "Pelleg Dau",
+                "year": "2000",
+                "volume-title": "X-means: Extending K-means with Efficient Estimation of the Number of Clusters. In In Proceedings of the 17th International Conf. on Machine Learning. Morgan Kaufmann"
+            },
+            {
+                "key": "e_1_2_2_57_1",
+                "unstructured": "Charles Ruizhongtai Qi Li Yi Hao Su and Leonidas J. Guibas. 2017. PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space. CoRR abs/1706.02413 (2017).  Charles Ruizhongtai Qi Li Yi Hao Su and Leonidas J. Guibas. 2017. PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space. CoRR abs/1706.02413 (2017)."
+            },
+            {
+                "key": "e_1_2_2_58_1",
+                "DOI": "10.1080/01621459.1971.10482356",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_59_1",
+                "DOI": "10.1111/cgf.12797",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_60_1",
+                "DOI": "10.5555/1281991.1282022",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_61_1",
+                "DOI": "10.1145/1015706.1015812",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_62_1",
+                "author": "Sharan Vatsal",
+                "volume": "70",
+                "year": "2017",
+                "volume-title": "Proceedings of the 34th International Conference on Machine Learning (Proceedings of Machine Learning Research), Doina Precup and Yee Whye Teh (Eds.)"
+            },
+            {
+                "key": "e_1_2_2_63_1",
+                "DOI": "10.1145/1102351.1102451",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_64_1",
+                "author": "Shen Yanyao",
+                "volume-title": "Advances in Neural Information Processing Systems 29"
+            },
+            {
+                "key": "e_1_2_2_65_1",
+                "DOI": "10.1145/2070781.2024160",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_66_1",
+                "unstructured": "Nicholas D Sidiropoulos Rasmus Bro and Georgios B Giannakis. 2000. Parallel factor analysis in sensor array processing. IEEE transactions on Signal Processing 48 8 (2000) 2377--2388. 10.1109/78.852018   Nicholas D Sidiropoulos Rasmus Bro and Georgios B Giannakis. 2000. Parallel factor analysis in sensor array processing. IEEE transactions on Signal Processing 48 8 (2000) 2377--2388. 10.1109/78.852018"
+            },
+            {
+                "key": "e_1_2_2_67_1",
+                "DOI": "10.1109/TSP.2017.2690524",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_68_1",
+                "DOI": "10.1109/ICCV.2015.114",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_69_1",
+                "DOI": "10.1145/1015706.1015736",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_70_1",
+                "DOI": "10.1145/1150402.1150445",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_71_1",
+                "DOI": "10.1145/1060745.1060803",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_72_1",
+                "author": "Sun Yifan",
+                "year": "2018",
+                "volume-title": "Proceedings, Part V. Springer"
+            },
+            {
+                "key": "e_1_2_2_73_1",
+                "DOI": "10.1145/2461912.2461924",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_74_1",
+                "DOI": "10.1111/j.1467-8659.2011.01884.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_75_1",
+                "author": "M. A.",
+                "volume-title": "Proceedings of the 7th European Conference on Computer Vision-Part I (ECCV '02)"
+            },
+            {
+                "key": "e_1_2_2_76_1",
+                "unstructured": "Daniel Vlasic Matthew Brand Hanspeter Pfister and Jovan Popovi\u0107. 2005. Face transfer with multilinear models. ACM transactions on graphics (TOG) 24 3 (2005) 426--433. 10.1145/1073204.1073209   Daniel Vlasic Matthew Brand Hanspeter Pfister and Jovan Popovi\u0107. 2005. Face transfer with multilinear models. ACM transactions on graphics (TOG) 24 3 (2005) 426--433. 10.1145/1073204.1073209",
+                "DOI": "10.1145/1073204.1073209",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_77_1",
+                "DOI": "10.1109/ICCV.2013.110",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_78_1",
+                "DOI": "10.1093/imaiai/iat005",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_79_1",
+                "DOI": "10.1145/2366145.2366184",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_80_1",
+                "author": "Wu Zhirong",
+                "year": "2015",
+                "volume-title": "CVPR. IEEE Computer Society"
+            },
+            {
+                "key": "e_1_2_2_81_1",
+                "DOI": "10.1145/2461912.2461968",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_82_1",
+                "DOI": "10.1109/TNN.2005.845141",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_83_1",
+                "DOI": "10.1145/3072959.3073652",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_84_1",
+                "DOI": "10.1145/2980179.2980238",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_85_1",
+                "unstructured": "Li Yi Hao Su Xingwen Guo and Leonidas J. Guibas. 2017b. SyncSpecCNN: Synchronized Spectral CNN for 3D Shape Segmentation. In CVPR. IEEE Computer Society 6584--6592.  Li Yi Hao Su Xingwen Guo and Leonidas J. Guibas. 2017b. SyncSpecCNN: Synchronized Spectral CNN for 3D Shape Segmentation. In CVPR. IEEE Computer Society 6584--6592.",
+                "DOI": "10.1109/CVPR.2017.697",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_86_1",
+                "DOI": "10.1145/2366145.2366185",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_87_1",
+                "unstructured": "Christopher Zach Manfred Klopschitz and Marc Pollefeys. 2010. Disambiguating visual relations using loop constraints.. In CVPR. IEEE Computer Society San Francisco CA 1426--1433. http://dblp.uni-trier.de/db/conf/cvpr/cvpr2010.html#ZachKP10  Christopher Zach Manfred Klopschitz and Marc Pollefeys. 2010. Disambiguating visual relations using loop constraints.. In CVPR. IEEE Computer Society San Francisco CA 1426--1433. http://dblp.uni-trier.de/db/conf/cvpr/cvpr2010.html#ZachKP10"
+            },
+            {
+                "key": "e_1_2_2_88_1",
+                "unstructured": "Hongyang Zhang Vatsal Sharan Moses Charikar and Yingyu Liang. 2018. Recovery Guarantees for Quadratic Tensors with Limited Observations. CoRR abs/1811.00148 (2018).  Hongyang Zhang Vatsal Sharan Moses Charikar and Yingyu Liang. 2018. Recovery Guarantees for Quadratic Tensors with Limited Observations. CoRR abs/1811.00148 (2018)."
+            },
+            {
+                "key": "e_1_2_2_89_1",
+                "DOI": "10.1109/CVPR.2019.01134",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_90_1",
+                "unstructured": "Xiaowei Zhou Menglong Zhu and Kostas Daniilidis. 2015. Multi-image Matching via Fast Alternating Minimization. In ICCV. IEEE Computer Society Santiago Chile 4032--4040. 10.1109/ICCV.2015.459   Xiaowei Zhou Menglong Zhu and Kostas Daniilidis. 2015. Multi-image Matching via Fast Alternating Minimization. In ICCV. IEEE Computer Society Santiago Chile 4032--4040. 10.1109/ICCV.2015.459",
+                "DOI": "10.1109/ICCV.2015.459",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3322944&ftid=2071739&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2020-07-12T19:31:55Z",
+            "timestamp": 1594582315000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "references-count": 90,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        12
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3306346.3322944"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3306346.3322944",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

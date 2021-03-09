@@ -1,0 +1,363 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:11:21Z",
+            "timestamp": 1586002281163
+        },
+        "reference-count": 35,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100002920",
+                "name": "Research Grants Council, University Grants Committee",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "CityU 123212, CityU 115112"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601183",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 16,
+        "title": [
+            "Look over here"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Ying",
+                "family": "Cao",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "City University of Hong Kong"
+                    }
+                ]
+            },
+            {
+                "given": "Rynson W. H.",
+                "family": "Lau",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "City University of Hong Kong"
+                    }
+                ]
+            },
+            {
+                "given": "Antoni B.",
+                "family": "Chan",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "City University of Hong Kong"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/1833349.1778826",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "Bishop C. 2006. Pattern Recognition and Machine Learning. Springer.   Bishop C. 2006. Pattern Recognition and Machine Learning . Springer."
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "unstructured": "Cao Y. Chan A. and Lau R. 2012. Automatic stylistic manga layout. In ACM SIGGRAPH Asia'12. 10.1145/2366145.2366160   Cao Y. Chan A. and Lau R. 2012. Automatic stylistic manga layout. In ACM SIGGRAPH Asia'12 . 10.1145/2366145.2366160",
+                "DOI": "10.1145/2366145.2366160",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "Christensen J. Marks J. and Shieber S. 1994. Placing text labels on maps and diagrams. Academic Press.  Christensen J. Marks J. and Shieber S. 1994. Placing text labels on maps and diagrams . Academic Press.",
+                "DOI": "10.1016/B978-0-12-336156-1.50064-1",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/212332.212334",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1007/11919629_58",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "unstructured": "ComiPo 2012. http://www.comipo.com/en.  ComiPo 2012. http://www.comipo.com/en."
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/1833349.1778825",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/566570.566650",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "first-page": "13",
+                "article-title": "A general cartographic labelling algorithm",
+                "volume": "33",
+                "author": "Edmondson S.",
+                "year": "1996",
+                "journal-title": "Computers & Geosciences"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "Folse S. 2010. http://hoodedutilitarian.com/visual-languages-of-manga-and-comics/.  Folse S. 2010. http://hoodedutilitarian.com/visual-languages-of-manga-and-comics/."
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "author": "Friedman N.",
+                "volume-title": "Conf. on Uncertainty in Artificial Intelligence'00"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "Huang H. Zhang L. and Zhang H. 2011. Arcimboldo-like collage using internet images. In ACM SIGGRAPH Asia'11. 10.1145/2024156.2024189   Huang H. Zhang L. and Zhang H. 2011. Arcimboldo-like collage using internet images. In ACM SIGGRAPH Asia'11 . 10.1145/2024156.2024189",
+                "DOI": "10.1145/2024156.2024189",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/2338676.2338688",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "unstructured": "Jain E. 2012. Attention-guided Algorithms to Retarget and Augment Animations Stills and Videos. PhD thesis Carnegie Mellon University.   Jain E. 2012. Attention-guided Algorithms to Retarget and Augment Animations Stills and Videos . PhD thesis Carnegie Mellon University."
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "author": "Judd T.",
+                "volume-title": "ICCV'09"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "Kesting M. 2004. Basic thoughts about visual composition. http://www.hippasus.com/resources/viscomp/index.html.  Kesting M. 2004. Basic thoughts about visual composition. http://www.hippasus.com/resources/viscomp/index.html."
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/566570.566633",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/237170.237260",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "MangaStudio 2011. http://manga.smithmicro.com/.  MangaStudio 2011. http://manga.smithmicro.com/."
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "author": "McCloud S.",
+                "year": "1994",
+                "volume-title": "Understanding Comics: The Invisible Art. William Morrow."
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "author": "McCloud S.",
+                "year": "2006",
+                "volume-title": "Making Comics: Storytelling Secrets of Comics, Manga and Graphic Novels. William Morrow."
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "Murphy K. 1998. A brief introduction to graphical models and bayesian networks. http://www.cs.ubc.ca/~murphyk/Bayes/bayes.html#reading.  Murphy K. 1998. A brief introduction to graphical models and bayesian networks. http://www.cs.ubc.ca/~murphyk/Bayes/bayes.html#reading."
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "Murphy K. 2002. Bayes net toolbox for matlab. https://code.google.com/p/bnt/.  Murphy K. 2002. Bayes net toolbox for matlab. https://code.google.com/p/bnt/."
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "unstructured": "Omori T. Igaki T. Ishii T. Kurata K. and Masuda N. 2004. Eye catchers in comics: Controlling eye movements in reading pictorial and textual media. In Int'l Congress of Psychology'04.  Omori T. Igaki T. Ishii T. Kurata K. and Masuda N. 2004. Eye catchers in comics: Controlling eye movements in reading pictorial and textual media. In Int'l Congress of Psychology'04 ."
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/1457515.1409108",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "unstructured": "Qu Y. Wong T. and Heng P. 2008. Manga colorization. In ACM SIGGRAPH Asia'08. 10.1145/1179352.1142017   Qu Y. Wong T. and Heng P. 2008. Manga colorization. In ACM SIGGRAPH Asia'08 . 10.1145/1179352.1142017"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/2072298.2072305",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "Rasmussen C. and Williams C. 2013. Gaussian processes for machine learning matlab code. http://www.gaussianprocess.org/gpml/code/matlab/doc/.  Rasmussen C. and Williams C. 2013. Gaussian processes for machine learning matlab code. http://www.gaussianprocess.org/gpml/code/matlab/doc/."
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/1179352.1141965",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1109/TASSP.1978.1163055",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "unstructured": "SamuraiMangaWorkshop 2011. Manga artist interview - shin shinmoto - 1/2. https://www.youtube.com/watch?v=fxwcHnYcgLo.  SamuraiMangaWorkshop 2011. Manga artist interview - shin shinmoto - 1/2. https://www.youtube.com/watch?v=fxwcHnYcgLo."
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "unstructured": "Scott-Baron H. 2006. Manga Clip Art: Everything You Need to Create Your Own Professional-Looking Manga Artwork. Andrews McMeel Publishing.  Scott-Baron H. 2006. Manga Clip Art: Everything You Need to Create Your Own Professional-Looking Manga Artwork . Andrews McMeel Publishing."
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/2168556.2168640",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "unstructured": "Yuille A. 2006. The EM algorithm. http://www.stat.ucla.edu/~yuille/courses/stat153/emtutorial.pdf.  Yuille A. 2006. The EM algorithm. http://www.stat.ucla.edu/~yuille/courses/stat153/emtutorial.pdf."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601183&amp;ftid=1488902&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:52:09Z",
+            "timestamp": 1586001129000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "attention-directing composition of manga elements"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 35,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601183"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601183",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

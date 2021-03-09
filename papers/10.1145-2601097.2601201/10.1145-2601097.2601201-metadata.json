@@ -1,0 +1,495 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    8
+                ]
+            ],
+            "date-time": "2020-04-08T10:24:06Z",
+            "timestamp": 1586341446963
+        },
+        "reference-count": 54,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100006754",
+                "name": "Army Research Laboratory",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "AHPCRC W911NF-07-0027"
+                ]
+            },
+            {
+                "DOI": "10.13039/100002418",
+                "name": "Intel Corporation",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100000006",
+                "name": "Office of Naval Research",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "N00014-13-1-0346, N00014-09-1-0101, N-00014-11-1- 0027, N00014-11-1-0707"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601201",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 20,
+        "title": [
+            "Codimensional surface tension flow on simplicial complexes"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Bo",
+                "family": "Zhu",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Ed",
+                "family": "Quigley",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Matthew",
+                "family": "Cong",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University, Industrial Light + Magic"
+                    }
+                ]
+            },
+            {
+                "given": "Justin",
+                "family": "Solomon",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Ronald",
+                "family": "Fedkiw",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University, Industrial Light + Magic"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/1276377.1276437",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/2508363.2508395",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/2019406.2019410",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1109/TVCG.2012.87",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/2461912.2461982",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1111/j.1467-8659.2009.01639.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/2185520.2185609",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "author": "Becker M.",
+                "volume-title": "Proc. of the 2007 ACM SIGGRAPH/Eurographics Symp. on Comput. Anim., 209--217"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/1778765.1778853",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1002/(SICI)1099-0887(199805)14:5<437::AID-CNM162>3.0.CO;2-W",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1137/080737617",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/1778765.1778784",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "Buckingham R. and Bush J. W. M. 2001. Fluid polygons. Physics of Fluids (1994-present) 13 9 S10--S10.  Buckingham R. and Bush J. W. M. 2001. Fluid polygons. Physics of Fluids (1994-present) 13 9 S10--S10.",
+                "DOI": "10.1063/1.4739184",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1017/S002211200400967X",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "author": "Chen X.",
+                "volume-title": "24th Annual Conference on Liquid Atomization and Spray Systems."
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1146/annurev.fluid.39.050905.110317",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/2451236.2451243",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1111/1467-8659.00499",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/383259.383261",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/2508363.2508430",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "Golub G. and Loan C. 1996. Matrix Computations. The John Hopkins University Press Baltimore.   Golub G. and Loan C. 1996. Matrix Computations . The John Hopkins University Press Baltimore."
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/882262.882358",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "Hasha A. E. and Bush J. W. M. 2002. Fluid fishbones. Physics of Fluids (1994-present) 14 9 S8--S8.  Hasha A. E. and Bush J. W. M. 2002. Fluid fishbones. Physics of Fluids (1994-present) 14 9 S8--S8.",
+                "DOI": "10.1063/1.4739198",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1002/nme.1096",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/1276377.1276394",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/1275808.1276500",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/1618452.1618466",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "author": "Klingner B. M.",
+                "volume-title": "Proceedings of the 16th International Meshing Roundtable, Springer, 3--23"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "Loop C. 1987. Smooth subdivision surfaces based on triangles. Master's thesis The University of Utah. 10.1145/54852.378522   Loop C. 1987. Smooth subdivision surfaces based on triangles . Master's thesis The University of Utah. 10.1145/54852.378522"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/1015706.1015745",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1109/TVCG.2008.37",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/1778765.1778776",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "author": "Misztal M. K.",
+                "volume-title": "Proc. of the 7th Workshop on Virtual Reality Interactions and Physical Simulations (VRIPhys2010)"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.5555/2421731.2421747",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "author": "M\u00fcller M.",
+                "volume-title": "Proc. of the 2003 ACM SIGGRAPH/Eurographics Symp. on Comput. Anim., 154--159"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1145/1618452.1618468",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "unstructured": "Oefner F. 2013. Orchid. http://fabianoefner.com/?portfolio=orchid.  Oefner F. 2013. Orchid. http://fabianoefner.com/?portfolio=orchid."
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1145/2485895.2485912",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/2185520.2185608",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "author": "Prem\u017eoe S.",
+                "volume": "22",
+                "volume-title": "Computer Graphics Forum"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1145/1028523.1028549",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1017/S0022112001007649",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1098/rspa.2004.1353",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "unstructured": "Saye R. I. and Sethian J. A. 2013. Multiscale modeling of membrane rearrangement drainage and rupture in evolving foams. Science 340 6133 720--724.  Saye R. I. and Sethian J. A. 2013. Multiscale modeling of membrane rearrangement drainage and rupture in evolving foams. Science 340 6133 720--724.",
+                "DOI": "10.1126/science.1230623",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1145/1599470.1599502",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1145/1057432.1057456",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "DOI": "10.1109/CADCG.2009.5246818",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "DOI": "10.1145/1778765.1778785",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "DOI": "10.1145/1833349.1778786",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "DOI": "10.1145/1531326.1531382",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "author": "Yu J.",
+                "volume-title": "Proc. of the 2010 ACM SIGGRAPH/Eurographics Symp. on Comput. Anim., 217--225"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "DOI": "10.1111/j.1467-8659.2012.03062.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "DOI": "10.1109/TVCG.2011.141",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "unstructured": "Zheng W. Zhu B. Kim B. and Fedkiw R. 2013. A new incompressibility discretization for a hybrid particle MAC grid representation with surface tension. (submitted).  Zheng W. Zhu B. Kim B. and Fedkiw R. 2013. A new incompressibility discretization for a hybrid particle MAC grid representation with surface tension. (submitted) ."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601201&amp;ftid=1488931&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:00:33Z",
+            "timestamp": 1586001633000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 54,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601201"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601201",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

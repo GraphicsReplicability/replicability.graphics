@@ -1,0 +1,468 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:11:21Z",
+            "timestamp": 1586002281452
+        },
+        "reference-count": 46,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100000001",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "1149853"
+                ]
+            },
+            {
+                "DOI": "10.13039/100006602",
+                "name": "Air Force Research Laboratory",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "FA8650-12-C-7212"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601101",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 83,
+        "title": [
+            "Transient attributes for high-level understanding and editing of outdoor scenes"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Pierre-Yves",
+                "family": "Laffont",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Brown University"
+                    }
+                ]
+            },
+            {
+                "given": "Zhile",
+                "family": "Ren",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Brown University"
+                    }
+                ]
+            },
+            {
+                "given": "Xiaofeng",
+                "family": "Tao",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Brown University"
+                    }
+                ]
+            },
+            {
+                "given": "Chao",
+                "family": "Qian",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Brown University"
+                    }
+                ]
+            },
+            {
+                "given": "James",
+                "family": "Hays",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Brown University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1109/TPAMI.2006.244",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/2461912.2462002",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/2019627.2019639",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/2461912.2461939",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "Bychkovsky V. Paris S. Chan E. and Durand F. 2011. Learning photographic global tonal adjustment with a database of input / output image pairs. In CVPR. 10.1109/CVPR.2011.5995413   Bychkovsky V. Paris S. Chan E. and Durand F. 2011. Learning photographic global tonal adjustment with a database of input / output image pairs. In CVPR . 10.1109/CVPR.2011.5995413",
+                "DOI": "10.1109/CVPR.2011.5995332",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "unstructured": "Caicedo J. C. Kapoor A. and Kang S. B. 2011. Collaborative personalization of image enhancement. In CVPR. 10.1109/CVPR.2011.5995439   Caicedo J. C. Kapoor A. and Kang S. B. 2011. Collaborative personalization of image enhancement. In CVPR . 10.1109/CVPR.2011.5995439",
+                "DOI": "10.1109/CVPR.2011.5995439",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/1276377.1276506",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/2682628",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "Comaniciu D. and Meer P. 2002. Mean shift: a robust approach toward feature space analysis. IEEE Trans. PAMI 24. 10.1109/34.1000236   Comaniciu D. and Meer P. 2002. Mean shift: a robust approach toward feature space analysis. IEEE Trans. PAMI 24 . 10.1109/34.1000236",
+                "DOI": "10.1109/34.1000236",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1109/34.244676",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "Dale K. Johnson M. K. Sunkavalli K. Matusik W. and Pfister H. 2009. Image restoration using online photo collections. In ICCV.  Dale K. Johnson M. K. Sunkavalli K. Matusik W. and Pfister H. 2009. Image restoration using online photo collections. In ICCV .",
+                "DOI": "10.1109/ICCV.2009.5459473",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "unstructured": "Dhar S. Ordonez V. and Berg T. L. 2011. High level describable attributes for predicting aesthetics and interestingness. In CVPR. 10.1109/CVPR.2011.5995467   Dhar S. Ordonez V. and Berg T. L. 2011. High level describable attributes for predicting aesthetics and interestingness. In CVPR . 10.1109/CVPR.2011.5995467",
+                "DOI": "10.1109/CVPR.2011.5995467",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/2185520.2185540",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Farhadi A. Endres I. Hoiem D. and Forsyth D. 2009. Describing objects by their attributes. In CVPR. 10.1145/1731047.1731050   Farhadi A. Endres I. Hoiem D. and Forsyth D. 2009. Describing objects by their attributes. In CVPR . 10.1145/1731047.1731050",
+                "DOI": "10.1109/CVPR.2009.5206772",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/1360612.1360671",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "Ferrari V. and Zisserman A. 2007. Learning visual attributes. In NIPS.  Ferrari V. and Zisserman A. 2007. Learning visual attributes. In NIPS ."
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "Garg R. Du H. Seitz S. M. and Snavely N. 2009. The dimensionality of scene appearance. In ICCV.  Garg R. Du H. Seitz S. M. and Snavely N. 2009. The dimensionality of scene appearance. In ICCV .",
+                "DOI": "10.1109/ICCV.2009.5459424",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "unstructured": "Hertzmann A. Jacobs C. E. Oliver N. Curless B. and Salesin D. H. 2001. Image analogies. In SIGGRAPH. 10.1145/383259.383295   Hertzmann A. Jacobs C. E. Oliver N. Curless B. and Salesin D. H. 2001. Image analogies. In SIGGRAPH . 10.1145/383259.383295",
+                "DOI": "10.1145/383259.383295",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1007/s11263-006-0031-y",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "Jacobs N. Roman N. and Pless R. 2007. Consistent temporal variations in many outdoor scenes. In CVPR.  Jacobs N. Roman N. and Pless R. 2007. Consistent temporal variations in many outdoor scenes. In CVPR .",
+                "DOI": "10.1109/CVPR.2007.383258",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1109/TVCG.2010.233",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "unstructured": "Kang S. B. Kapoor A. and Lischinski D. 2010. Personalization of image enhancement. In CVPR.  Kang S. B. Kapoor A. and Lischinski D. 2010. Personalization of image enhancement. In CVPR .",
+                "DOI": "10.1109/CVPR.2010.5539850",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/1276377.1276497",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "author": "Kovashka A.",
+                "year": "2012",
+                "volume-title": "Whittle-search: Image search with relative attribute feedback. In CVPR."
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1109/TPAMI.2011.48",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/2366145.2366221",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/1276377.1276381",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/1618452.1618477",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "Liu Q. Ihler A. and Steyvers M. 2013. Scoring workers in crowdsourcing: how many control questions are enough? In NIPS.  Liu Q. Ihler A. and Steyvers M. 2013. Scoring workers in crowdsourcing: how many control questions are enough? In NIPS ."
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/882262.882343",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "author": "Murphy K. P.",
+                "year": "2012",
+                "volume-title": "Machine Learning: A Probabilistic Perspective"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "unstructured": "Narasimhan S. Wang C. and Nayar S. 2002. All the images of an outdoor scene. In ECCV.   Narasimhan S. Wang C. and Nayar S. 2002. All the images of an outdoor scene. In ECCV .",
+                "DOI": "10.1007/3-540-47977-5_10",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "unstructured": "Parikh D. and Grauman K. 2011. Relative attributes. In ICCV. 10.1109/ICCV.2011.6126281   Parikh D. and Grauman K. 2011. Relative attributes. In ICCV . 10.1109/ICCV.2011.6126281",
+                "DOI": "10.1109/ICCV.2011.6126281",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "unstructured": "Patterson G. and Hays J. 2012. Sun attribute database: Discovering annotating and recognizing scene attributes. In CVPR.   Patterson G. and Hays J. 2012. Sun attribute database: Discovering annotating and recognizing scene attributes. In CVPR .",
+                "DOI": "10.1109/CVPR.2012.6247998",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "unstructured": "Perronnin F. S\u00e1nchez J. and Mensink T. 2010. Improving the fisher kernel for large-scale image classification. In ECCV.   Perronnin F. S\u00e1nchez J. and Mensink T. 2010. Improving the fisher kernel for large-scale image classification. In ECCV .",
+                "DOI": "10.1007/978-3-642-15561-1_11",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "unstructured": "Piti\u00e9 F. Kokaram A. and Dahyot R. 2005. N-Dimensional Probability Density Function Transfer and its Application to Colour Transfer. In ICCV. 10.1109/ICCV.2005.166   Piti\u00e9 F. Kokaram A. and Dahyot R. 2005. N-Dimensional Probability Density Function Transfer and its Application to Colour Transfer. In ICCV . 10.1109/ICCV.2005.166",
+                "DOI": "10.1109/ICCV.2005.166",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "unstructured": "Pouli T. and Reinhard E. 2011. Progressive color transfer for images of arbitrary dynamic range. Computers & Graphics 35. 10.1016/j.cag.2010.11.003   Pouli T. and Reinhard E. 2011. Progressive color transfer for images of arbitrary dynamic range. Computers & Graphics 35 . 10.1016/j.cag.2010.11.003",
+                "DOI": "10.1016/j.cag.2010.11.003",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1109/38.946629",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "unstructured": "Scholkopf B. Smola A. Williamson R. and Bartlett P. 2000. New support vector algorithms. Neural Computation 12. 10.1162/089976600300015565   Scholkopf B. Smola A. Williamson R. and Bartlett P. 2000. New support vector algorithms. Neural Computation 12 . 10.1162/089976600300015565",
+                "DOI": "10.1162/089976600300015565",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1145/2508363.2508419",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1145/1141911.1141964",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1145/1276377.1276504",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1145/1531326.1531374",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1145/2508363.2508418",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "unstructured": "Xiao J. Hays J. Ehinger K. A. Oliva A. and Torralba A. 2010. Sun database: Large-scale scene recognition from abbey to zoo. In CVPR.  Xiao J. Hays J. Ehinger K. A. Oliva A. and Torralba A. 2010. Sun database: Large-scale scene recognition from abbey to zoo. In CVPR .",
+                "DOI": "10.1109/CVPR.2010.5539970",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "unstructured": "Yu Y. and Malik J. 1998. Recovering photometric properties of architectural scenes from photographs. In SIGGRAPH. 10.1145/280814.280874   Yu Y. and Malik J. 1998. Recovering photometric properties of architectural scenes from photographs. In SIGGRAPH . 10.1145/280814.280874",
+                "DOI": "10.1145/280814.280874",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601101&amp;ftid=1488958&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:50:20Z",
+            "timestamp": 1586001020000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 46,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601101"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601101",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

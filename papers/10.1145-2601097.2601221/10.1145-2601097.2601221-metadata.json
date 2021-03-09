@@ -1,0 +1,337 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:11:21Z",
+            "timestamp": 1586002281433
+        },
+        "reference-count": 27,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100001729",
+                "name": "Stiftelsen f\u00f6r\u00a0Strategisk Forskning",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "RIT10-0033"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601221",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-8",
+        "source": "Crossref",
+        "is-referenced-by-count": 13,
+        "title": [
+            "Compact precomputed voxelized shadows"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Erik",
+                "family": "Sintorn",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Chalmers University of Technology"
+                    }
+                ]
+            },
+            {
+                "given": "Viktor",
+                "family": "K\u00e4mpe",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Chalmers University of Technology"
+                    }
+                ]
+            },
+            {
+                "given": "Ola",
+                "family": "Olsson",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Chalmers University of Technology"
+                    }
+                ]
+            },
+            {
+                "given": "Ulf",
+                "family": "Assarsson",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Chalmers University of Technology"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.5555/2383533.2383555",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.5555/2383847.2383857",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "author": "Annen T.",
+                "volume-title": "Proc. of Graph. Interface 2008, Canadian Information Proc. Soc., GI '08, 155--161"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1007/s00371-004-0276-9",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "Bunnel M. and Pellacini F. 2004. Shadow map antialiasing. In GPU Gems: Programming Techniques Tips and Tricks for Real-Time Graphics R. Fernando Ed. Pearson Higher Education.  Bunnel M. and Pellacini F. 2004. Shadow map antialiasing. In GPU Gems: Programming Techniques Tips and Tricks for Real-Time Graphics R. Fernando Ed. Pearson Higher Education."
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/965141.563901",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/1111411.1111440",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "Eisemann E. Schwarz M. Assarsson U. and Wimmer M. 2011. Real-Time Shadows. A. K. Peters.   Eisemann E. Schwarz M. Assarsson U. and Wimmer M. 2011. Real-Time Shadows . A. K. Peters."
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "author": "Engel W.",
+                "volume-title": "ShaderX5: Advanced Rendering Techniques"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "Everitt C. 2001. Interactive order-independent transparency. Published online at http://www.nvidia.com/object/Interactive_Order_Transparency.html.  Everitt C. 2001. Interactive order-independent transparency. Published online at http://www.nvidia.com/object/Interactive_Order_Transparency.html."
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/1268517.1268545",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/1281500.1281665",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/1283900.1283917",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "first-page": "28",
+                "article-title": "Real shadows, real time",
+                "volume": "18",
+                "author": "Heidmann T.",
+                "year": "1991",
+                "journal-title": "Iris Universe"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/1095878.1095889",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/2461912.2462024",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.5555/2383847.2383891",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/1289603.1289611",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.5555/2383894.2383921",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1561/0600000021",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "author": "Rasmusson J.",
+                "volume-title": "Proceedings of the Conference on High Performance Graphics, HPG '10"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1111/j.1467-8659.2008.01267.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/2070781.2024187",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/965139.807402",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "unstructured": "Woo A. and Poulin P. 2012. Shadow Algorithms Data Miner. Taylor & Francis.  Woo A. and Poulin P. 2012. Shadow Algorithms Data Miner . Taylor & Francis.",
+                "DOI": "10.1201/b11901",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "unstructured": "Zhang F. Sun H. and Nyman O. 2005. Parallel-split shadow maps on programmable GPUs. In GPU Gems 3 Addison-Wesley H. Nguyen Ed.  Zhang F. Sun H. and Nyman O. 2005. Parallel-split shadow maps on programmable GPUs. In GPU Gems 3 Addison-Wesley H. Nguyen Ed."
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/1128923.1128975",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601221&amp;ftid=1488959&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:50:08Z",
+            "timestamp": 1586001008000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 27,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601221"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601221",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

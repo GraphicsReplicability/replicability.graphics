@@ -1,0 +1,387 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:55Z",
+            "timestamp": 1585962715472
+        },
+        "reference-count": 39,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201401",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 16,
+        "title": [
+            "Deep appearance models for face rendering"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Stephen",
+                "family": "Lombardi",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Facebook Reality Labs"
+                    }
+                ]
+            },
+            {
+                "given": "Jason",
+                "family": "Saragih",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Facebook Reality Labs"
+                    }
+                ]
+            },
+            {
+                "given": "Tomas",
+                "family": "Simon",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Facebook Reality Labs"
+                    }
+                ]
+            },
+            {
+                "given": "Yaser",
+                "family": "Sheikh",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Facebook Reality Labs"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/311535.311556",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1037/a0021928",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "unstructured": "Konstantinos Bousmalis Nathan Silberman David Dohan Dumitru Erhan and Dilip Krishnan. 2017. Unsupervised Pixel-Level Domain Adaptation with Generative Adversarial Networks. (07 2017) 95--104.  Konstantinos Bousmalis Nathan Silberman David Dohan Dumitru Erhan and Dilip Krishnan. 2017. Unsupervised Pixel-Level Domain Adaptation with Generative Adversarial Networks. (07 2017) 95--104.",
+                "DOI": "10.1109/CVPR.2017.18",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/2897824.2925873",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/2915926.2915936",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1016/j.cviu.2015.08.011",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "unstructured": "Xi Chen Diederik P. Kingma Tim Salimans Yan Duan Prafulla Dhariwal John Schulman Ilya Sutskever and Pieter Abbeel. 2016. Variational Lossy Autoencoder. CoRR abs/1611.02731 (2016). arXiv:1611.02731 http://arxiv.org/abs/1611.02731  Xi Chen Diederik P. Kingma Tim Salimans Yan Duan Prafulla Dhariwal John Schulman Ilya Sutskever and Pieter Abbeel. 2016. Variational Lossy Autoencoder. CoRR abs/1611.02731 (2016). arXiv:1611.02731 http://arxiv.org/abs/1611.02731"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1109/34.927467",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/300776.300778",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "author": "Edwards G. J.",
+                "volume-title": "Proceedings of the 3rd. International Conference on Face & Gesture Recognition (FG '98)"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "P. Ekman. 1980. The Face of Man: Expressions of Universal Emotions in a New Guinea Village. Garland Publishing Incorporated.  P. Ekman. 1980. The Face of Man: Expressions of Universal Emotions in a New Guinea Village. Garland Publishing Incorporated."
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/237170.237200",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "author": "Hou X.",
+                "volume-title": "Deep Feature Consistent Variational Autoencoder. In 2017 IEEE Winter Conference on Applications of Computer Vision (WACV). 1133--1141"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Wei-Ning Hsu Yu Zhang and James R. Glass. 2017. Unsupervised Learning of Disentangled and Interpretable Representations from Sequential Data. In NIPS. 1876--1887.  Wei-Ning Hsu Yu Zhang and James R. Glass. 2017. Unsupervised Learning of Disentangled and Interpretable Representations from Sequential Data. In NIPS. 1876--1887."
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/3130800.31310887",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/2766974",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "author": "Ioffe Sergey",
+                "volume": "37",
+                "year": "2015",
+                "volume-title": "ICML (JMLR Workshop and Conference Proceedings), Francis R. Bach and David M. Blei (Eds.)"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "author": "Kang Sing Bing",
+                "volume": "2",
+                "volume-title": "Proceedings 2000 International Conference on Image Processing"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1109/CVPR.2014.241",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "Taeksoo Kim Moonsu Cha Hyunsoo Kim Jung Kwon Lee and Jiwon Kim. 2017. Learning to Discover Cross-Domain Relations with Generative Adversarial Networks. In ICML.  Taeksoo Kim Moonsu Cha Hyunsoo Kim Jung Kwon Lee and Jiwon Kim. 2017. Learning to Discover Cross-Domain Relations with Generative Adversarial Networks. In ICML."
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "author": "Diederik",
+                "year": "2014",
+                "volume-title": "Proceedings of the 3rd International Conference on Learning Representations abs/1412"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "author": "Diederik",
+                "volume-title": "Proceedings of the 2nd International Conference on Learning Representations."
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1111/cgf.12594",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "Reinhard Knothe Brian Amberg Sami Romdhani Volker Blanz and Thomas Vetter. 2011. Morphable Models of Faces. Springer London London 137--168.  Reinhard Knothe Brian Amberg Sami Romdhani Volker Blanz and Thomas Vetter. 2011. Morphable Models of Faces. Springer London London 137--168.",
+                "DOI": "10.1007/978-0-85729-932-1_6",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "author": "Kulkarni Tejas D.",
+                "volume-title": "Proceedings of the 28th International Conference on Neural Information Processing Systems (NIPS'15)"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/3099564.3099581",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1109/MCG.2010.41",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "author": "Lewis John P.",
+                "year": "2014",
+                "volume-title": "Proc. Eurographics State of The Art Report."
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "Ming-Yu Liu Thomas Breuel and Jan Kautz. 2017. Unsupervised Image-to-image Translation Networks. In NIPS.  Ming-Yu Liu Thomas Breuel and Jan Kautz. 2017. Unsupervised Image-to-image Translation Networks. In NIPS."
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1023/B:VISI.0000029666.37597.d3",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/2980179.2980252",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "unstructured": "Alec Radford Luke Metz and Soumith Chintala. 2015. Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks. CoRR abs/1511.06434 (2015). http://arxiv.org/abs/1511.06434  Alec Radford Luke Metz and Soumith Chintala. 2015. Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks. CoRR abs/1511.06434 (2015). http://arxiv.org/abs/1511.06434"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "author": "Salimans Tim",
+                "year": "2016",
+                "volume-title": "Weight Normalization: A Simple Reparameterization to Accelerate Training of Deep Neural Networks. In Advances in Neural Information Processing Systems 29"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1109/CVPR.2014.220",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.5555/839277.840029",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "unstructured": "J. Thies M. Zollh\u00f6fer M. Stamminger C. Theobalt and M. Nie\u00dfner. 2018. FaceVR: Real-Time Gaze-Aware Facial Reenactment in Virtual Reality. ACM Transactions on Graphics 2018 (TOG) (2018). 10.1145/3182644   J. Thies M. Zollh\u00f6fer M. Stamminger C. Theobalt and M. Nie\u00dfner. 2018. FaceVR: Real-Time Gaze-Aware Facial Reenactment in Virtual Reality. ACM Transactions on Graphics 2018 (TOG) (2018). 10.1145/3182644"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "unstructured": "Georgios Tzimiropoulos Joan Alabort-i Medina Stefanos Zafeiriou and Maja Pantic. 2013. Generic Active Appearance Models Revisited. Springer Berlin Heidelberg Berlin Heidelberg 650--663. 10.1007/978-3-642-37431-9_50   Georgios Tzimiropoulos Joan Alabort-i Medina Stefanos Zafeiriou and Maja Pantic. 2013. Generic Active Appearance Models Revisited. Springer Berlin Heidelberg Berlin Heidelberg 650--663. 10.1007/978-3-642-37431-9_50",
+                "DOI": "10.1007/978-3-642-37431-9_50",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1109/CVPR.2013.75",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "unstructured": "Jun-Yan Zhu Taesung Park Phillip Isola and Alexei A Efros. 2017. Unpaired Image-to-image Translation using Cycle-Consistent Adversarial Networks. (December 2017).  Jun-Yan Zhu Taesung Park Phillip Isola and Alexei A Efros. 2017. Unpaired Image-to-image Translation using Cycle-Consistent Adversarial Networks. (December 2017)."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201401&ftid=1991729&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:40:02Z",
+            "timestamp": 1585960802000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 39,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201401"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201401",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

@@ -1,0 +1,463 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T02:11:28Z",
+            "timestamp": 1585966288116
+        },
+        "reference-count": 50,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2017,
+                            7,
+                            24
+                        ]
+                    ],
+                    "date-time": "2017-07-24T00:00:00Z",
+                    "timestamp": 1500854400000
+                },
+                "delay-in-days": 378,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100000001",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "CAREER-1453101"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925960",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 23,
+        "title": [
+            "Acoustic voxels"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Dingzeyu",
+                "family": "Li",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Columbia University"
+                    }
+                ]
+            },
+            {
+                "given": "David I. W.",
+                "family": "Levin",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Disney Research"
+                    }
+                ]
+            },
+            {
+                "given": "Wojciech",
+                "family": "Matusik",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "MIT CSAIL and Disney Research"
+                    }
+                ]
+            },
+            {
+                "given": "Changxi",
+                "family": "Zheng",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Columbia University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/2767001",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1088/0266-5611/13/2/021",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "unstructured": "Aubry J.-P. 2013. Beginning with Code_Aster. Framasoft.  Aubry J.-P. 2013. Beginning with Code_Aster . Framasoft."
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/1531326.1531359",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/2816795.2818108",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/1778765.1778800",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1121/1.3087423",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "Caloz C. and Itoh T. 2005. Electromagnetic metamaterials: transmission line theory and microwave applications. John Wiley & Sons.  Caloz C. and Itoh T. 2005. Electromagnetic metamaterials: transmission line theory and microwave applications. John Wiley & Sons.",
+                "DOI": "10.1002/0471754323",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1016/j.apacoust.2010.01.008",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "Christopoulos C. 2006. The Transmission-Line Modeling (TLM) Method in Electromagnetics. Morgan & Claypool Publishers.  Christopoulos C. 2006. The Transmission-Line Modeling (TLM) Method in Electromagnetics . Morgan & Claypool Publishers.",
+                "DOI": "10.1002/0471654507.eme458",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1016/j.apacoust.2010.11.008",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1073/pnas.1221464110",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "Feij\u00f3o G. R. Oberai A. A. and Pinsky P. M. 2004. An application of shape optimization in the solution of inverse acoustic scattering problems. Inverse problems 20 1 199.  Feij\u00f3o G. R. Oberai A. A. and Pinsky P. M. 2004. An application of shape optimization in the solution of inverse acoustic scattering problems. Inverse problems 20 1 199.",
+                "DOI": "10.1088/0266-5611/20/1/012",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/280814.280818",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/311535.311590",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/2601097.2601218",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "Ingard U. 2009. Noise reduction analysis. Jones & Bartlett Publishers.  Ingard U. 2009. Noise reduction analysis. Jones & Bartlett Publishers."
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/1141911.1141983",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "unstructured": "Kac M. 1966. Can one hear the shape of a drum? American Mathematical Monthly 1--23.  Kac M. 1966. Can one hear the shape of a drum? American Mathematical Monthly 1--23.",
+                "DOI": "10.1080/00029890.1966.11970915",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1076/jnmr.30.1.69.7117",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "Kirkpatrick S. Gelatt C. D. and Vecchi M. P. 1983. Optimization by simulated annealing. Science 220 4598 671--680.  Kirkpatrick S. Gelatt C. D. and Vecchi M. P. 1983. Optimization by simulated annealing. Science 220 4598 671--680.",
+                "DOI": "10.1126/science.220.4598.671",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/2702123.2702414",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/2820612",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/1015706.1015744",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/2451236.2451245",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "unstructured": "Miguez J. Crisan D. and Djuric P. M. 2010. Sequential monte carlo methods for the optimization of a general class of objective functions. SIAM Journal on Optimization.  Miguez J. Crisan D. and Djuric P. M. 2010. Sequential monte carlo methods for the optimization of a general class of objective functions. SIAM Journal on Optimization."
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1109/38.844375",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "unstructured": "Munjal M. 2014. Acoustics of Ducts and Mufflers second ed. John Wiley & Sons.  Munjal M. 2014. Acoustics of Ducts and Mufflers second ed. John Wiley & Sons."
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1121/1.3466871",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/2766937",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1111/j.1467-8659.2008.01247.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "unstructured": "Pierce A. D. etal 1991. Acoustics: an introduction to its physical principles and applications. Acoustical Society of America Melville NY.  Pierce A. D. et al. 1991. Acoustics: an introduction to its physical principles and applications. Acoustical Society of America Melville NY."
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/2601097.2601184",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/1778765.1778805",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "first-page": "19",
+                "article-title": "An introduction to acoustics",
+                "volume": "18",
+                "author": "Rienstra S. W.",
+                "year": "2003",
+                "journal-title": "Eindhoven University of Technology"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1145/2766895",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "unstructured": "Robert C. and Casella G. 2013. Monte Carlo statistical methods. Springer Science & Business Media.   Robert C. and Casella G. 2013. Monte Carlo statistical methods. Springer Science & Business Media."
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1145/2702123.2702207",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/2766926",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1016/S0022-460X(02)01258-0",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1016/0020-7683(94)90154-6",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1145/74333.74353",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1145/142920.134063",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "unstructured": "Tao Z. and Seybert A. 2003. A review of current techniques for measuring muffler transmission loss. Tech. rep. SAE Technical Paper.  Tao Z. and Seybert A. 2003. A review of current techniques for measuring muffler transmission loss. Tech. rep. SAE Technical Paper.",
+                "DOI": "10.4271/2003-01-1653",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1145/383259.383323",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1145/2010324.1964985",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "DOI": "10.1145/2461912.2461936",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "author": "Wojtan C.",
+                "volume-title": "Proc. SCA."
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "DOI": "10.1145/279232.279236",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "DOI": "10.1080/09298215.2011.621541",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "https://dl.acm.org/doi/pdf/10.1145/2897824.2925960",
+                "content-type": "application/pdf",
+                "content-version": "vor",
+                "intended-application": "syndication"
+            },
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925960&amp;ftid=1755855&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:33:35Z",
+            "timestamp": 1585964015000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "computational optimization of modular acoustic filters"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 50,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925960"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925960",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

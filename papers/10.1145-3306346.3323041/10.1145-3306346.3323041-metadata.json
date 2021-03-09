@@ -1,0 +1,498 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    3
+                ]
+            ],
+            "date-time": "2020-07-03T23:41:06Z",
+            "timestamp": 1593819666995
+        },
+        "reference-count": 58,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2020,
+                            7,
+                            12
+                        ]
+                    ],
+                    "date-time": "2020-07-12T00:00:00Z",
+                    "timestamp": 1594512000000
+                },
+                "delay-in-days": 366,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100000001",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "IIS-1812796, CNS-1205521"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "DOI": "10.1145/3306346.3323041",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2019-07-12T19:04:08Z",
+            "timestamp": 1562958248000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+            "Photon surfaces for robust, unbiased volumetric density estimation"
+        ],
+        "prefix": "10.1145",
+        "volume": "38",
+        "author": [
+            {
+                "given": "Xi",
+                "family": "Deng",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Dartmouth College"
+                    }
+                ]
+            },
+            {
+                "given": "Shaojie",
+                "family": "Jiao",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Dartmouth College"
+                    }
+                ]
+            },
+            {
+                "given": "Benedikt",
+                "family": "Bitterli",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Dartmouth College"
+                    }
+                ]
+            },
+            {
+                "given": "Wojciech",
+                "family": "Jarosz",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Dartmouth College"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "James Richard Arvo. 1995a. Analytic methods for simulated light transport. Ph.D. Dissertation. Yale University.  James Richard Arvo. 1995a. Analytic methods for simulated light transport. Ph.D. Dissertation. Yale University."
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/218380.218467",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/2366145.2366181",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/3015459",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1111/cgf.12948",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "unstructured": "Benedikt Bitterli. 2018. Tungsten Renderer. https://github.com/tunabrain/tungsten.  Benedikt Bitterli. 2018. Tungsten Renderer. https://github.com/tunabrain/tungsten."
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/3072959.3073698",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1007/s00371-005-0287-1",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "Subrahmanyan Chandrasekhar. 1960. Radiative transfer. Dover Publications NY.  Subrahmanyan Chandrasekhar. 1960. Radiative transfer. Dover Publications NY."
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.5555/647652.732123",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.5555/2383696.2383700",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1561/0600000073",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1111/cgf.12256",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Luca Fascione Johannes Hanika Marcos Fajardo Per Christensen Brent Burley Brian Green Rob Piek\u00e9 Christopher Kulla Christophe Hery Ryusuke Villemin Daniel Heckenberg and Andr\u00e9 Mazzone. 2017. Path tracing in production (Parts 1 and 2). In ACM SIGGRAPH Courses. https://doi.org/10/gfz2ck 10.1145/3084873.3084906   Luca Fascione Johannes Hanika Marcos Fajardo Per Christensen Brent Burley Brian Green Rob Piek\u00e9 Christopher Kulla Christophe Hery Ryusuke Villemin Daniel Heckenberg and Andr\u00e9 Mazzone. 2017. Path tracing in production (Parts 1 and 2). In ACM SIGGRAPH Courses. https://doi.org/10/gfz2ck 10.1145/3084873.3084906",
+                "DOI": "10.1145/3084873.3084906",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/2366145.2366211",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/2508363.2508411",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/2010324.1964949",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "author": "Gribel Carl Johan",
+                "year": "2010",
+                "volume-title": "Proceedings of High Performance Graphics. 163--172"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/3197517.3201363",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.2312/sre.20171195",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/1457515.1409083",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/2366145.2366210",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "author": "Havran Vlastimil",
+                "year": "2005",
+                "volume-title": "Rendering Techniques (Proceedings of the Eurographics Symposium on Rendering). 43--54"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/3190834.3190852",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/15886.15901",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "unstructured": "Wenzel Jakob. 2013. Light transport on path-space manifolds. Ph.D. Dissertation. Cornell University.  Wenzel Jakob. 2013. Light transport on path-space manifolds. Ph.D. Dissertation. Cornell University."
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/1899404.1899409",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/2070781.2024215",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1111/j.1467-8659.2008.01153.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "unstructured": "Johannes Jendersie. 2018. Path throughput importance weights. arXiv:1806.01005  Johannes Jendersie. 2018. Path throughput importance weights. arXiv:1806.01005"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.5555/275458.275461",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "unstructured": "Henrik Wann Jensen and Per H. Christensen. 1998. Efficient simulation of light transport in scenes with participating media using photon maps. In Annual Conference Series (Proceedings of SIGGRAPH). 311--320. https://doi.org/10/b64p36 10.1145/280814.280925   Henrik Wann Jensen and Per H. Christensen. 1998. Efficient simulation of light transport in scenes with participating media using photon maps. In Annual Conference Series (Proceedings of SIGGRAPH). 311--320. https://doi.org/10/b64p36 10.1145/280814.280925"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "author": "Thouis",
+                "volume-title": "Rendering Techniques (Proceedings of the Eurographics Workshop on Rendering). 197--206"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/15886.15902",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1111/1467-8659.t01-1-00703",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1145/2766997",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/2601097.2601219",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "first-page": "145",
+                "article-title": "Bi-directional path tracing",
+                "volume": "93",
+                "author": "Lafortune Eric",
+                "year": "1993",
+                "journal-title": "Proceedings of Compugraphics"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/2461912.2461943",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1111/cgf.13383",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "unstructured": "Jan Nov\u00e1k Iliyan Georgiev Johannes Hanika Jaroslav K\u0159iv\u00e1nek and Wojciech Jarosz. 2018b. Monte Carlo methods for physically based volume rendering. In ACM SIGGRAPH Courses. https://doi.org/10/c5fj 10.1145/3214834.3214880   Jan Nov\u00e1k Iliyan Georgiev Johannes Hanika Jaroslav K\u0159iv\u00e1nek and Wojciech Jarosz. 2018b. Monte Carlo methods for physically based volume rendering. In ACM SIGGRAPH Courses. https://doi.org/10/c5fj 10.1145/3214834.3214880",
+                "DOI": "10.1145/3214834.3214880",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1111/j.1467-8659.2012.03136.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1145/2185520.2185556",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1111/cgf.12257",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.5555/647652.732117",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1111/j.1467-8659.2009.01372.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "unstructured": "Matt Pharr Wenzel Jakob and Greg Humphreys. 2016. Physically based rendering: From theory to implementation (3rd ed.).   Matt Pharr Wenzel Jakob and Greg Humphreys. 2016. Physically based rendering: From theory to implementation (3rd ed.)."
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "DOI": "10.1145/3072959.3073656",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "DOI": "10.1111/cgf.13226",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "DOI": "10.1137/0114059",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "DOI": "10.1145/1073204.1073309",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "DOI": "10.1145/2461912.2462023",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "DOI": "10.1145/1778765.1778791",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "author": "Tzeng Stanley",
+                "volume-title": "Proceedings of High Performance Graphics. 23--31"
+            },
+            {
+                "key": "e_1_2_2_55_1",
+                "unstructured": "Eric Veach. 1997. Robust Monte Carlo methods for light transport simulation. Ph.D. Dissertation. Stanford CA USA.   Eric Veach. 1997. Robust Monte Carlo methods for light transport simulation. Ph.D. Dissertation. Stanford CA USA."
+            },
+            {
+                "key": "e_1_2_2_56_1",
+                "author": "Veach Eric",
+                "year": "1994",
+                "volume-title": "Photorealistic Rendering Techniques (Proceedings of the Eurographics Workshop on Rendering. 147--162"
+            },
+            {
+                "key": "e_1_2_2_57_1",
+                "DOI": "10.1145/218380.218498",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_58_1",
+                "DOI": "10.1145/258734.258775",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "https://dl.acm.org/doi/pdf/10.1145/3306346.3323041",
+                "content-type": "application/pdf",
+                "content-version": "vor",
+                "intended-application": "syndication"
+            },
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3323041&ftid=2071686&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    3
+                ]
+            ],
+            "date-time": "2020-07-03T23:09:41Z",
+            "timestamp": 1593817781000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "references-count": 58,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        12
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3306346.3323041"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3306346.3323041",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

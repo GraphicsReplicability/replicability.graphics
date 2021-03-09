@@ -1,0 +1,286 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    5,
+                    5
+                ]
+            ],
+            "date-time": "2020-05-05T17:41:03Z",
+            "timestamp": 1588700463580
+        },
+        "reference-count": 24,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2019,
+                            7,
+                            12
+                        ]
+                    ],
+                    "date-time": "2019-07-12T00:00:00Z",
+                    "timestamp": 1562889600000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "DOI": "10.1145/3306346.3323032",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2019-07-12T19:04:08Z",
+            "timestamp": 1562958248000
+        },
+        "page": "1-8",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+            "Beyond trilinear interpolation"
+        ],
+        "prefix": "10.1145",
+        "volume": "38",
+        "author": [
+            {
+                "given": "Bal\u00e1zs",
+                "family": "Cs\u00e9bfalvi",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Budapest University of Technology and Economics, Hungary"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_1_1_1",
+                "author": "Blu T.",
+                "volume-title": "Proceedings of IEEE International Conference on Image Processing. 667--671"
+            },
+            {
+                "key": "e_1_2_1_2_1",
+                "DOI": "10.1006/acha.1998.0249",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_3_1",
+                "DOI": "10.1109/78.790659",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_4_1",
+                "DOI": "10.1145/197938.197972",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_5_1",
+                "unstructured": "E. Catmull and R. Rom. 1974. A Class of Local Interpolating Splines. Computer Aided Geometric Design (1974) 317--326.  E. Catmull and R. Rom. 1974. A Class of Local Interpolating Splines. Computer Aided Geometric Design (1974) 317--326."
+            },
+            {
+                "key": "e_1_2_1_6_1",
+                "author": "Condat L.",
+                "volume-title": "Proceedings of the IEEE International Conference on Image Processing. 33--36"
+            },
+            {
+                "key": "e_1_2_1_7_1",
+                "DOI": "10.1109/TVCG.2007.70414",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_8_1",
+                "DOI": "10.1111/cgf.13375",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_9_1",
+                "unstructured": "K. Engel M. Hadwiger J. Kniss C. Reck-Salama and D. Weiskopf. 2006. Real-Time Volume Graphics. AK Peters Ltd.   K. Engel M. Hadwiger J. Kniss C. Reck-Salama and D. Weiskopf. 2006. Real-Time Volume Graphics. AK Peters Ltd.",
+                "DOI": "10.1201/b10629",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_10_1",
+                "DOI": "10.1145/1667239.1667241",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_11_1",
+                "DOI": "10.1111/j.1467-8659.2005.00855.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_12_1",
+                "DOI": "10.1109/TASSP.1981.1163711",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_13_1",
+                "author": "Kr\u00fcger J.",
+                "volume-title": "Proceedings of IEEE Visualization. 38--45"
+            },
+            {
+                "key": "e_1_2_1_14_1",
+                "DOI": "10.1109/VISUAL.2004.70",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_15_1",
+                "author": "Marschner S.",
+                "volume-title": "Proceedings of IEEE Visualization. 100--107"
+            },
+            {
+                "key": "e_1_2_1_16_1",
+                "DOI": "10.1145/54852.378514",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_17_1",
+                "DOI": "10.1109/2945.597800",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_18_1",
+                "DOI": "10.1145/288126.288189",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_19_1",
+                "unstructured": "W. K. Pratt. 2001. Digital Image Processing. John Wiley & Sons Inc.   W. K. Pratt. 2001. Digital Image Processing. John Wiley & Sons Inc.",
+                "DOI": "10.1002/0471221325",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_20_1",
+                "first-page": "61",
+                "article-title": "Efficient GPU-Based Texture Interpolation using Uniform B-Splines",
+                "volume": "13",
+                "author": "Ruijters D.",
+                "year": "2008",
+                "journal-title": "Journal of Computer Tools"
+            },
+            {
+                "key": "e_1_2_1_21_1",
+                "unstructured": "C. Sigg and M. Hadwiger. 2005. Fast Third-Order Texture Filtering. In GPU Gems 2: Programming Techniques for High-Performance Graphics and General-Purpose Computation. Matt Pharr (ed.) Addison-Wesley 313--329.  C. Sigg and M. Hadwiger. 2005. Fast Third-Order Texture Filtering. In GPU Gems 2: Programming Techniques for High-Performance Graphics and General-Purpose Computation. Matt Pharr (ed.) Addison-Wesley 313--329."
+            },
+            {
+                "key": "e_1_2_1_22_1",
+                "unstructured": "G. Strang and G. Fix. 1971. A Fourier Analysis of the Finite Element Variational Method. In Constructive Aspects of Functional Analysis. 796--830.  G. Strang and G. Fix. 1971. A Fourier Analysis of the Finite Element Variational Method. In Constructive Aspects of Functional Analysis. 796--830."
+            },
+            {
+                "key": "e_1_2_1_23_1",
+                "DOI": "10.1145/353888.353906",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_24_1",
+                "DOI": "10.1145/280814.280860",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3323032&ftid=2071670&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    5,
+                    5
+                ]
+            ],
+            "date-time": "2020-05-05T17:07:20Z",
+            "timestamp": 1588698440000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "higher quality for free"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "references-count": 24,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        12
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3306346.3323032"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3306346.3323032",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

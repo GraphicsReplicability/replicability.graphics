@@ -1,0 +1,562 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    5,
+                    5
+                ]
+            ],
+            "date-time": "2020-05-05T17:41:03Z",
+            "timestamp": 1588700463347
+        },
+        "reference-count": 64,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2020,
+                            7,
+                            12
+                        ]
+                    ],
+                    "date-time": "2020-07-12T00:00:00Z",
+                    "timestamp": 1594512000000
+                },
+                "delay-in-days": 366,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100000001",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "1617794"
+                ]
+            },
+            {
+                "DOI": "10.13039/100000879",
+                "name": "Alfred P. Sloan Foundation",
+                "doi-asserted-by": "crossref",
+                "award": []
+            },
+            {
+                "name": "Intel Faculty Support Program",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "DOI": "10.1145/3306346.3323015",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2019-07-12T19:04:08Z",
+            "timestamp": 1562958248000
+        },
+        "page": "1-16",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+            "Synthetic defocus and look-ahead autofocus for casual videography"
+        ],
+        "prefix": "10.1145",
+        "volume": "38",
+        "author": [
+            {
+                "given": "Xuaner",
+                "family": "Zhang",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of California"
+                    }
+                ]
+            },
+            {
+                "given": "Kevin",
+                "family": "Matzen",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Facebook Research"
+                    }
+                ]
+            },
+            {
+                "given": "Vivien",
+                "family": "Nguyen",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of California"
+                    }
+                ]
+            },
+            {
+                "given": "Dillon",
+                "family": "Yao",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of California"
+                    }
+                ]
+            },
+            {
+                "given": "You",
+                "family": "Zhang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Chapman University"
+                    }
+                ]
+            },
+            {
+                "given": "Ren",
+                "family": "Ng",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of California"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "Sami Abu-El-Haija Nisarg Kothari Joonseok Lee Paul Natsev George Toderici Balakrishnan Varadarajan and Sudheendra Vijayanarasimhan. 2016. Youtube-8m: A large-scale video classification benchmark. arXiv preprint arXiv:1609.08675 (2016).  Sami Abu-El-Haija Nisarg Kothari Joonseok Lee Paul Natsev George Toderici Balakrishnan Varadarajan and Sudheendra Vijayanarasimhan. 2016. Youtube-8m: A large-scale video classification benchmark. arXiv preprint arXiv:1609.08675 (2016)."
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "Jonathan T Barron Andrew Adams YiChang Shih and Carlos Hern\u00e1ndez. 2015. Fast bilateral-space stereo for synthetic defocus. In CVPR.  Jonathan T Barron Andrew Adams YiChang Shih and Carlos Hern\u00e1ndez. 2015. Fast bilateral-space stereo for synthetic defocus. In CVPR.",
+                "DOI": "10.1109/CVPR.2015.7299076",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "unstructured": "Hakan Bilen Basura Fernando Efstratios Gavves Andrea Vedaldi and Stephen Gould. 2016. Dynamic image networks for action recognition. In CVPR.  Hakan Bilen Basura Fernando Efstratios Gavves Andrea Vedaldi and Stephen Gould. 2016. Dynamic image networks for action recognition. In CVPR.",
+                "DOI": "10.1109/CVPR.2016.331",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "Qifeng Chen and Vladlen Koltun. 2016. Full flow: Optical flow estimation by global optimization over regular grids. In CVPR.  Qifeng Chen and Vladlen Koltun. 2016. Full flow: Optical flow estimation by global optimization over regular grids. In CVPR.",
+                "DOI": "10.1109/CVPR.2016.509",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "Qifeng Chen and Vladlen Koltun. 2017. Photographic image synthesis with cascaded refinement networks. In ICCV.  Qifeng Chen and Vladlen Koltun. 2017. Photographic image synthesis with cascaded refinement networks. In ICCV.",
+                "DOI": "10.1109/ICCV.2017.168",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "unstructured": "Paul E Debevec and Jitendra Malik. 2008. Recovering high dynamic range radiance maps from photographs. ACM Trans. on Graphics (TOG) (2008). 10.1145/1401132.1401174   Paul E Debevec and Jitendra Malik. 2008. Recovering high dynamic range radiance maps from photographs. ACM Trans. on Graphics (TOG) (2008). 10.1145/1401132.1401174"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "unstructured": "Gabriel Eilertsen Joel Kronander Gyorgy Denes Rafal Mantiuk and Jonas Unger. 2017a. HDR image reconstruction from a single exposure using deep CNNs. ACM Trans. on Graphics (TOG) (2017). 10.1145/3130800.3130816   Gabriel Eilertsen Joel Kronander Gyorgy Denes Rafal Mantiuk and Jonas Unger. 2017a. HDR image reconstruction from a single exposure using deep CNNs. ACM Trans. on Graphics (TOG) (2017). 10.1145/3130800.3130816"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "Gabriel Eilertsen Joel Kronander Gyorgy Denes Rafa\u0142 K Mantiuk and Jonas Unger. 2017b. HDR image reconstruction from a single exposure using deep CNNs. ACM Trans. on Graphics (TOG) (2017). 10.1145/3130800.3130816   Gabriel Eilertsen Joel Kronander Gyorgy Denes Rafa\u0142 K Mantiuk and Jonas Unger. 2017b. HDR image reconstruction from a single exposure using deep CNNs. ACM Trans. on Graphics (TOG) (2017). 10.1145/3130800.3130816"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "Ariel Ephrat Inbar Mosseri Oran Lang Tali Dekel Kevin Wilson Avinatan Hassidim William T Freeman and Michael Rubinstein. 2018. Looking to listen at the cocktail party: A speaker-independent audio-visual model for speech separation. ACM Trans. on Graphics (TOG) (2018). 10.1145/3197517.3201357   Ariel Ephrat Inbar Mosseri Oran Lang Tali Dekel Kevin Wilson Avinatan Hassidim William T Freeman and Michael Rubinstein. 2018. Looking to listen at the cocktail party: A speaker-independent audio-visual model for speech separation. ACM Trans. on Graphics (TOG) (2018). 10.1145/3197517.3201357"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "G. D. Evangelidis and E. Z. Psarakis. 2008. Parametric Image Alignment Using Enhanced Correlation Coefficient Maximization. PAMI (2008). 10.1109/TPAMI.2008.113   G. D. Evangelidis and E. Z. Psarakis. 2008. Parametric Image Alignment Using Enhanced Correlation Coefficient Maximization. PAMI (2008). 10.1109/TPAMI.2008.113"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "Christoph Feichtenhofer Axel Pinz and Andrew Zisserman. 2016. Convolutional two-stream network fusion for video action recognition. In CVPR.  Christoph Feichtenhofer Axel Pinz and Andrew Zisserman. 2016. Convolutional two-stream network fusion for video action recognition. In CVPR.",
+                "DOI": "10.1109/CVPR.2016.213",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "author": "Fontaine R",
+                "year": "2017",
+                "volume-title": "International Image Sensors workshop."
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "Ravi Garg Vijay Kumar BG Gustavo Carneiro and Ian Reid. 2016. Unsupervised cnn for single view depth estimation: Geometry to the rescue. In ECCV.  Ravi Garg Vijay Kumar BG Gustavo Carneiro and Ian Reid. 2016. Unsupervised cnn for single view depth estimation: Geometry to the rescue. In ECCV.",
+                "DOI": "10.1007/978-3-319-46484-8_45",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Micha\u00ebl Gharbi Jiawen Chen Jonathan T Barron Samuel W Hasinoff and Fr\u00e9do Durand. 2017. Deep bilateral learning for real-time image enhancement. ACM Trans. on Graphics (TOG) (2017). 10.1145/3072959.3073592   Micha\u00ebl Gharbi Jiawen Chen Jonathan T Barron Samuel W Hasinoff and Fr\u00e9do Durand. 2017. Deep bilateral learning for real-time image enhancement. ACM Trans. on Graphics (TOG) (2017). 10.1145/3072959.3073592"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "author": "Godard Cl\u00e9ment",
+                "volume": "201",
+                "journal-title": "Gabriel J Brostow."
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "Norman Goldberg. 1992. Camera technology: the dark side of the lens.  Norman Goldberg. 1992. Camera technology: the dark side of the lens."
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "Robert T Held Emily A Cooper James F O'brien and Martin S Banks. 2010. Using blur to affect perceived distance and size. ACM Trans. on Graphics (TOG) (2010). 10.1145/1731047.1731057   Robert T Held Emily A Cooper James F O'brien and Martin S Banks. 2010. Using blur to affect perceived distance and size. ACM Trans. on Graphics (TOG) (2010). 10.1145/1731047.1731057"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "unstructured": "Jo\u00e3o F Henriques Rui Caseiro Pedro Martins and Jorge Batista. 2015. High-speed tracking with kernelized correlation filters. PAMI (2015).  Jo\u00e3o F Henriques Rui Caseiro Pedro Martins and Jorge Batista. 2015. High-speed tracking with kernelized correlation filters. PAMI (2015).",
+                "DOI": "10.1109/TPAMI.2014.2345390",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "unstructured": "Qibin Hou Ming-Ming Cheng Xiaowei Hu Ali Borji Zhuowen Tu and Philip Torr. 2017. Deeply supervised salient object detection with short connections. In CVPR.  Qibin Hou Ming-Ming Cheng Xiaowei Hu Ali Borji Zhuowen Tu and Philip Torr. 2017. Deeply supervised salient object detection with short connections. In CVPR.",
+                "DOI": "10.1109/CVPR.2017.563",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "Eddy Ilg Nikolaus Mayer Tonmoy Saikia Margret Keuper Alexey Dosovitskiy and Thomas Brox. 2017. Flownet 2.0: Evolution of optical flow estimation with deep networks. In CVPR.  Eddy Ilg Nikolaus Mayer Tonmoy Saikia Margret Keuper Alexey Dosovitskiy and Thomas Brox. 2017. Flownet 2.0: Evolution of optical flow estimation with deep networks. In CVPR.",
+                "DOI": "10.1109/CVPR.2017.179",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/344779.344929",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "unstructured": "Justin Johnson Alexandre Alahi and Li Fei-Fei. 2016. Perceptual losses for real-time style transfer and super-resolution. In ECCV.  Justin Johnson Alexandre Alahi and Li Fei-Fei. 2016. Perceptual losses for real-time style transfer and super-resolution. In ECCV.",
+                "DOI": "10.1007/978-3-319-46475-6_43",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "Neel Joshi and Larry Zitnick. 2014. Micro-Baseline Stereo. Technical Report.  Neel Joshi and Larry Zitnick. 2014. Micro-Baseline Stereo. Technical Report."
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "Andrej Karpathy George Toderici Sanketh Shetty Thomas Leung Rahul Sukthankar and Li Fei-Fei. 2014. Large-scale video classification with convolutional neural networks. In CVPR. 10.1109/CVPR.2014.223   Andrej Karpathy George Toderici Sanketh Shetty Thomas Leung Rahul Sukthankar and Li Fei-Fei. 2014. Large-scale video classification with convolutional neural networks. In CVPR. 10.1109/CVPR.2014.223",
+                "DOI": "10.1109/CVPR.2014.223",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1109/CVPRW.2017.167",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "unstructured": "Diederik P. Kingma and Jimmy Ba. 2015. Adam: A Method for Stochastic Optimization. In ICLR.  Diederik P. Kingma and Jimmy Ba. 2015. Adam: A Method for Stochastic Optimization. In ICLR."
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "unstructured": "Masahiro Kobayashi Michiko Johnson Yoichi Wada Hiromasa Tsuboi Hideaki Takada Kenji Togo Takafumi Kishi Hidekazu Takahashi Takeshi Ichikawa and Shunsuke Inoue. 2016. A low noise and high sensitivity image sensor with imaging and phase-difference detection AF in all pixels. ITE Trans. on Media Technology and Applications (2016).  Masahiro Kobayashi Michiko Johnson Yoichi Wada Hiromasa Tsuboi Hideaki Takada Kenji Togo Takafumi Kishi Hidekazu Takahashi Takeshi Ichikawa and Shunsuke Inoue. 2016. A low noise and high sensitivity image sensor with imaging and phase-difference detection AF in all pixels. ITE Trans. on Media Technology and Applications (2016).",
+                "DOI": "10.3169/mta.4.123",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "unstructured": "Martin Kraus and Magnus Strengert. 2007. Depth-of-field rendering by pyramidal image processing. CGF (2007).  Martin Kraus and Magnus Strengert. 2007. Depth-of-field rendering by pyramidal image processing. CGF (2007)."
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "Yevhen Kuznietsov J\u00f6rg St\u00fcckler and Bastian Leibe. 2017. Semi-supervised deep learning for monocular depth map prediction. In CVPR.  Yevhen Kuznietsov J\u00f6rg St\u00fcckler and Bastian Leibe. 2017. Semi-supervised deep learning for monocular depth map prediction. In CVPR.",
+                "DOI": "10.1109/CVPR.2017.238",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "unstructured": "Marc Levoy and Pat Hanrahan. 1996. Light Field Rendering. (1996).  Marc Levoy and Pat Hanrahan. 1996. Light Field Rendering. (1996)."
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "unstructured": "Marc Levoy and Yael Pritch. 2017. Portrait mode on the Pixel 2 and Pixel 2 XL smartphones.  Marc Levoy and Yael Pritch. 2017. Portrait mode on the Pixel 2 and Pixel 2 XL smartphones."
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "unstructured": "Zhengqi Li and Noah Snavely. 2018. MegaDepth: Learning Single-View Depth Prediction from Internet Photos. In CVPR.  Zhengqi Li and Noah Snavely. 2018. MegaDepth: Learning Single-View Depth Prediction from Internet Photos. In CVPR."
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "unstructured": "Behrooz Mahasseni Michael Lam and Sinisa Todorovic. 2017. Unsupervised video summarization with adversarial lstm networks. In CVPR.  Behrooz Mahasseni Michael Lam and Sinisa Todorovic. 2017. Unsupervised video summarization with adversarial lstm networks. In CVPR.",
+                "DOI": "10.1109/CVPR.2017.318",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "author": "Mather George",
+                "year": "1996",
+                "volume-title": "Proc. Biological Sciences"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "unstructured": "Atsushi Morimitsu Isao Hirota Sozo Yokogawa Isao Ohdaira Masao Matsumura Hiroaki Takahashi Toshio Yamazaki Hideki Oyaizu Yalcin Incesu Muhammad Atif etal 2015. A 4M pixel full-PDAF CMOS image sensor with 1.58 &mu; m 2X 1 On-Chip Micro-Split-Lens technology. Technical Report.  Atsushi Morimitsu Isao Hirota Sozo Yokogawa Isao Ohdaira Masao Matsumura Hiroaki Takahashi Toshio Yamazaki Hideki Oyaizu Yalcin Incesu Muhammad Atif et al. 2015. A 4M pixel full-PDAF CMOS image sensor with 1.58 &mu; m 2 X 1 On-Chip Micro-Split-Lens technology. Technical Report."
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "unstructured": "S. K. Nayar and Y. Nakagawa. 1994. Shape from focus. PAMI (1994). 10.1109/34.308479   S. K. Nayar and Y. Nakagawa. 1994. Shape from focus. PAMI (1994). 10.1109/34.308479"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "unstructured": "Abhijit S Ogale Cornelia Fermuller and Yiannis Aloimonos. 2005. Motion segmentation using occlusions. PAMI (2005). 10.1109/TPAMI.2005.123   Abhijit S Ogale Cornelia Fermuller and Yiannis Aloimonos. 2005. Motion segmentation using occlusions. PAMI (2005). 10.1109/TPAMI.2005.123"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "unstructured": "Andrew Owens and Alexei A Efros. 2018. Audio-Visual Scene Analysis with Self-Supervised Multisensory Features. In CVPR.  Andrew Owens and Alexei A Efros. 2018. Audio-Visual Scene Analysis with Self-Supervised Multisensory Features. In CVPR.",
+                "DOI": "10.1007/978-3-030-01231-1_39",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "unstructured": "Jinsun Park Yu-Wing Tai Donghyeon Cho and In So Kweon. 2017. A unified approach of multi-scale deep and hand-crafted features for defocus estimation. In CVPR.  Jinsun Park Yu-Wing Tai Donghyeon Cho and In So Kweon. 2017. A unified approach of multi-scale deep and hand-crafted features for defocus estimation. In CVPR.",
+                "DOI": "10.1109/CVPR.2017.295",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "unstructured": "Deepak Pathak Ross Girshick Piotr Doll\u00e1r Trevor Darrell and Bharath Hariharan. 2017. Learning Features by Watching Objects Move. In CVPR.  Deepak Pathak Ross Girshick Piotr Doll\u00e1r Trevor Darrell and Bharath Hariharan. 2017. Learning Features by Watching Objects Move. In CVPR.",
+                "DOI": "10.1109/CVPR.2017.638",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1145/3197517.3201394",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "unstructured": "Michael Potmesil and Indranil Chakravarty. 1982. Synthetic image generation with a lens and aperture camera model. ACM Trans. on Graphics (TOG) (1982). 10.1145/357299.357300   Michael Potmesil and Indranil Chakravarty. 1982. Synthetic image generation with a lens and aperture camera model. ACM Trans. on Graphics (TOG) (1982). 10.1145/357299.357300"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1007/s11263-016-0908-3",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "unstructured": "Anna Rohrbach Marcus Rohrbach Niket Tandon and Bernt Schiele. 2015. A Dataset for Movie Description. In CVPR.  Anna Rohrbach Marcus Rohrbach Niket Tandon and Bernt Schiele. 2015. A Dataset for Movie Description. In CVPR.",
+                "DOI": "10.1109/CVPR.2015.7298940",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1007/978-3-319-24574-4_28",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "unstructured": "Daniel Scharstein and Richard Szeliski. 2002. A taxonomy and evaluation of dense two-frame stereo correspondence algorithms. IJCV (2002). 10.1023/A:1014573219977   Daniel Scharstein and Richard Szeliski. 2002. A taxonomy and evaluation of dense two-frame stereo correspondence algorithms. IJCV (2002). 10.1023/A:1014573219977"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "unstructured": "Khurram Soomro Amir Roshan Zamir and Mubarak Shah. 2012. UCF101: A dataset of 101 human actions classes from videos in the wild. arXiv preprint arXiv:1212.0402 (2012).  Khurram Soomro Amir Roshan Zamir and Mubarak Shah. 2012. UCF101: A dataset of 101 human actions classes from videos in the wild. arXiv preprint arXiv:1212.0402 (2012)."
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "unstructured": "Pratul P Srinivasan Rahul Garg Neal Wadhwa Ren Ng and Jonathan T Barron. 2018. Aperture Supervision for Monocular Depth Estimation. (2018).  Pratul P Srinivasan Rahul Garg Neal Wadhwa Ren Ng and Jonathan T Barron. 2018. Aperture Supervision for Monocular Depth Estimation. (2018).",
+                "DOI": "10.1109/CVPR.2018.00669",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "unstructured": "Meijun Sun Ziqi Zhou Qinghua Hu Zheng Wang and Jianmin Jiang. 2018. SG-FCN: A Motion and Memory-Based Deep Learning Model for Video Saliency Detection. IEEE Trans. on Cybernetics (2018).  Meijun Sun Ziqi Zhou Qinghua Hu Zheng Wang and Jianmin Jiang. 2018. SG-FCN: A Motion and Memory-Based Deep Learning Model for Video Saliency Detection. IEEE Trans. on Cybernetics (2018)."
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "unstructured": "Jaeyong Sung Colin Ponce Bart Selman and Ashutosh Saxena. 2012. Unstructured human activity detection from rgbd images. In ICRA.  Jaeyong Sung Colin Ponce Bart Selman and Ashutosh Saxena. 2012. Unstructured human activity detection from rgbd images. In ICRA.",
+                "DOI": "10.1109/ICRA.2012.6224591",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "unstructured": "S. Suwajanakorn C. Hernandez and S. M. Seitz. 2015. Depth from focus with your mobile phone. In CVPR.  S. Suwajanakorn C. Hernandez and S. M. Seitz. 2015. Depth from focus with your mobile phone. In CVPR.",
+                "DOI": "10.1109/CVPR.2015.7298972",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "unstructured": "Huixuan Tang Scott Cohen Brian L. Price Stephen Schiller and Kiriakos N. Kutulakos. 2017. Depth from Defocus in the Wild. In CVPR.  Huixuan Tang Scott Cohen Brian L. Price Stephen Schiller and Kiriakos N. Kutulakos. 2017. Depth from Defocus in the Wild. In CVPR.",
+                "DOI": "10.1109/CVPR.2017.507",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "unstructured": "Michael W. Tao Sunil Hadap Jitendra Malik and Ravi Ramamoorthi. 2013. Depth from Combining Defocus and Correspondence Using light-Field Cameras. In ICCV. 10.1109/ICCV.2013.89   Michael W. Tao Sunil Hadap Jitendra Malik and Ravi Ramamoorthi. 2013. Depth from Combining Defocus and Correspondence Using light-Field Cameras. In ICCV. 10.1109/ICCV.2013.89"
+            },
+            {
+                "key": "e_1_2_2_55_1",
+                "unstructured": "Carl Vondrick Abhinav Shrivastava Alireza Fathi Sergio Guadarrama and Kevin Murphy. 2018. Tracking emerges by colorizing videos. In ECCV.  Carl Vondrick Abhinav Shrivastava Alireza Fathi Sergio Guadarrama and Kevin Murphy. 2018. Tracking emerges by colorizing videos. In ECCV.",
+                "DOI": "10.1007/978-3-030-01261-8_24",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_56_1",
+                "unstructured": "Neal Wadhwa Rahul Garg David E. Jacobs Bryan E. Feldman Nori Kanazawa Robert Carroll Yair Movshovitz-Attias Jonathan T. Barron Yael Pritch and Marc Levoy. 2018. Synthetic Depth-of-Field With A Single-Camera Mobile Phone. ACM Trans. on Graphics (TOG) (2018). 10.1145/3197517.3201329   Neal Wadhwa Rahul Garg David E. Jacobs Bryan E. Feldman Nori Kanazawa Robert Carroll Yair Movshovitz-Attias Jonathan T. Barron Yael Pritch and Marc Levoy. 2018. Synthetic Depth-of-Field With A Single-Camera Mobile Phone. ACM Trans. on Graphics (TOG) (2018). 10.1145/3197517.3201329"
+            },
+            {
+                "key": "e_1_2_2_57_1",
+                "unstructured": "Lijun Wang Xiaohui Shen Jianming Zhang Oliver Wang Zhe Lin Chih-Yao Hsieh Sarah Kong and Huchuan Lu. 2018b. DeepLens: shallow depth of field from a single image. ACM Trans. on Graphics (TOG) (2018). 10.1145/3272127.3275013   Lijun Wang Xiaohui Shen Jianming Zhang Oliver Wang Zhe Lin Chih-Yao Hsieh Sarah Kong and Huchuan Lu. 2018b. DeepLens: shallow depth of field from a single image. ACM Trans. on Graphics (TOG) (2018). 10.1145/3272127.3275013"
+            },
+            {
+                "key": "e_1_2_2_58_1",
+                "unstructured": "Ting-Chun Wang Jun-Yan Zhu Nima Khademi Kalantari Alexei A Efros and Ravi Ramamoorthi. 2017. Light field video capture using a learning-based hybrid imaging system. ACM Trans. on Graphics (TOG) (2017). 10.1145/3072959.3073614   Ting-Chun Wang Jun-Yan Zhu Nima Khademi Kalantari Alexei A Efros and Ravi Ramamoorthi. 2017. Light field video capture using a learning-based hybrid imaging system. ACM Trans. on Graphics (TOG) (2017). 10.1145/3072959.3073614"
+            },
+            {
+                "key": "e_1_2_2_59_1",
+                "unstructured": "Wenguan Wang Jianbing Shen Fang Guo Ming-Ming Cheng and Ali Borji. 2018a. Revisiting Video Saliency: A Large-scale Benchmark and a New Model. In CVPR.  Wenguan Wang Jianbing Shen Fang Guo Ming-Ming Cheng and Ali Borji. 2018a. Revisiting Video Saliency: A Large-scale Benchmark and a New Model. In CVPR.",
+                "DOI": "10.1109/CVPR.2018.00514",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_60_1",
+                "unstructured": "Bennett Wilburn Neel Joshi Vaibhav Vaish Eino-Ville Talvala Emilio Antunez Adam Barth Andrew Adams Mark Horowitz and Marc Levoy. 2005. High Performance Imaging Using Large Camera Arrays. (2005).  Bennett Wilburn Neel Joshi Vaibhav Vaish Eino-Ville Talvala Emilio Antunez Adam Barth Andrew Adams Mark Horowitz and Marc Levoy. 2005. High Performance Imaging Using Large Camera Arrays. (2005).",
+                "DOI": "10.1145/1186822.1073259",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_61_1",
+                "unstructured": "Yang Yang Haiting Lin Zhan Yu Sylvain Paris and Jingyi Yu. 2016. Virtual DSLR: High Quality Dynamic Depth-of-Field Synthesis on Mobile Platforms. In Digital Photography and Mobile Imaging.  Yang Yang Haiting Lin Zhan Yu Sylvain Paris and Jingyi Yu. 2016. Virtual DSLR: High Quality Dynamic Depth-of-Field Synthesis on Mobile Platforms. In Digital Photography and Mobile Imaging.",
+                "DOI": "10.2352/ISSN.2470-1173.2016.18.DPMI-031",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_62_1",
+                "unstructured": "Zhan Yu Christopher Thorpe Xuan Yu Scott Grauer-Gray Feng Li and Jingyi Yu. 2011. Dynamic Depth of Field on Live Video Streams: A Stereo Solution. In CGI.  Zhan Yu Christopher Thorpe Xuan Yu Scott Grauer-Gray Feng Li and Jingyi Yu. 2011. Dynamic Depth of Field on Live Video Streams: A Stereo Solution. In CGI."
+            },
+            {
+                "key": "e_1_2_2_63_1",
+                "unstructured": "Ke Zhang Wei-Lun Chao Fei Sha and Kristen Grauman. 2016. Video summarization with long short-term memory. In ECCV.  Ke Zhang Wei-Lun Chao Fei Sha and Kristen Grauman. 2016. Video summarization with long short-term memory. In ECCV.",
+                "DOI": "10.1007/978-3-319-46478-7_47",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_64_1",
+                "unstructured": "Xuaner Zhang Ren Ng and Qifeng Chen. 2018. Single Image Reflection Removal with Perceptual Losses. In CVPR.  Xuaner Zhang Ren Ng and Qifeng Chen. 2018. Single Image Reflection Removal with Perceptual Losses. In CVPR.",
+                "DOI": "10.1109/CVPR.2018.00503",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_65_1",
+                "unstructured": "Michael Zollh\u00f6fer Patrick Stotko Andreas G\u00f6rlitz Christian Theobalt Matthias Nie\u00dfner Reinhard Klein and Andreas Kolb. 2018. State of the Art on 3D Reconstruction with RGB-D Cameras. In Computer Graphics Forum.  Michael Zollh\u00f6fer Patrick Stotko Andreas G\u00f6rlitz Christian Theobalt Matthias Nie\u00dfner Reinhard Klein and Andreas Kolb. 2018. State of the Art on 3D Reconstruction with RGB-D Cameras. In Computer Graphics Forum.",
+                "DOI": "10.1111/cgf.13386",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "https://dl.acm.org/doi/pdf/10.1145/3306346.3323015",
+                "content-type": "application/pdf",
+                "content-version": "vor",
+                "intended-application": "syndication"
+            },
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3323015&ftid=2071684&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    5,
+                    5
+                ]
+            ],
+            "date-time": "2020-05-05T17:15:17Z",
+            "timestamp": 1588698917000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "references-count": 64,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        12
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3306346.3323015"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3306346.3323015",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

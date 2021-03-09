@@ -1,0 +1,384 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:29Z",
+            "timestamp": 1585962689397
+        },
+        "reference-count": 41,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100000001",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "CAREER-1055035, IIS-1422869"
+                ]
+            },
+            {
+                "name": "USC Annenberg Graduate Fellowship",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201327",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 2,
+        "title": [
+            "Immersion of self-intersecting solids and surfaces"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Yijing",
+                "family": "Li",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of Southern California"
+                    }
+                ]
+            },
+            {
+                "given": "Jernej",
+                "family": "Barbi\u010d",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Southern California"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1007/s00371-010-0416-3",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1016/j.gmod.2014.09.002",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1109/TVCG.2005.49",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/882262.882357",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "Jernej Barbi\u010d Yijing Li Bohan Wang and Danyong Zhao. 2018. Vega FEM Library 4.0. (2018). http://www.jernejbarbic.com/vega.  Jernej Barbi\u010d Yijing Li Bohan Wang and Danyong Zhao. 2018. Vega FEM Library 4.0. (2018). http://www.jernejbarbic.com/vega."
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1111/j.1467-8659.2009.01609.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "unstructured": "CGAL. 2018. Computational Geometry Algorithms Library. (2018). http://www.cgal.org  CGAL. 2018. Computational Geometry Algorithms Library. (2018). http://www.cgal.org"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "Keenan Crane. 2017. 3D Model Repository. (2017). http://www.cs.cmu.edu/~kmcrane/Projects/ModelRepository  Keenan Crane. 2017. 3D Model Repository. (2017). http://www.cs.cmu.edu/~kmcrane/Projects/ModelRepository"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.5555/1496770.1496789",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "Jeff Erickson. 2009. Computational Topology; Cell Complexes. In Course Notes University of Illinois at Urbana-Champaign. http://jeffe.cs.illinois.edu/teaching/comptop/2009/notes/cell-complexes.pdf  Jeff Erickson. 2009. Computational Topology; Cell Complexes. In Course Notes University of Illinois at Urbana-Champaign. http://jeffe.cs.illinois.edu/teaching/comptop/2009/notes/cell-complexes.pdf"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "Dennis Frisch. 2010. Extending Immersions into the Sphere. arXiv preprint arXiv.1012.4923 (2010).  Dennis Frisch. 2010. Extending Immersions into the Sphere. arXiv preprint arXiv.1012.4923 (2010)."
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "author": "Heidelberger B.",
+                "volume-title": "VMV'04"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1016/j.cad.2010.09.012",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/2661229.2661280",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/2010324.1964973",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/2461912.2461916",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "A Jacobson D Panozzo C Sch\u00fcller O Diamanti Q Zhou N Pietroni etal 2013b. libigl: A simple C++ geometry processing library. (2013).  A Jacobson D Panozzo C Sch\u00fcller O Diamanti Q Zhou N Pietroni et al. 2013b. libigl: A simple C++ geometry processing library. (2013)."
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "unstructured": "Weishi Li. 2011. Detecting Ambiguities in 3D Polygons with Self-Intersecting Projections. In Computer-Aided Design and Computer Graphics CAD/Graphics. 11--16. 10.1109/CAD/Graphics.2011.31   Weishi Li. 2011. Detecting Ambiguities in 3D Polygons with Self-Intersecting Projections. In Computer-Aided Design and Computer Graphics CAD/Graphics. 11--16. 10.1109/CAD/Graphics.2011.31"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "unstructured": "Yijing Li Hongyi Xu and Jernej Barbi\u010d. 2016. Enriching Triangle Mesh Animations With Physically Based Simulation. IEEE Trans. on Visualization and Computer Graphics (2016).  Yijing Li Hongyi Xu and Jernej Barbi\u010d. 2016. Enriching Triangle Mesh Animations With Physically Based Simulation. IEEE Trans. on Visualization and Computer Graphics (2016)."
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/2816795.2818100",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/1186562.1015734",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "author": "Molino Neil",
+                "year": "2003",
+                "volume-title": "Symposium on Computer Animation (SCA)."
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "author": "Molino Neil",
+                "volume-title": "12th Int. Meshing Roundtable. 103--114."
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1016/j.cad.2013.08.037",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/2425333.2425369",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/2021164.2021170",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "unstructured": "Matthieu Nesme Paul G. Kry Lenka Je\u0159\u00e1bkov\u00e1 and Fran\u00e7ois Faure. 2009. Preserving Topology and Elasticity for Embedded Deformable Models. ACM Trans. on Graphics (SIGGRAPH 2009) 28 3 (2009) 52:1--52:9. 10.1145/1531326.1531358   Matthieu Nesme Paul G. Kry Lenka Je\u0159\u00e1bkov\u00e1 and Fran\u00e7ois Faure. 2009. Preserving Topology and Elasticity for Embedded Deformable Models. ACM Trans. on Graphics (SIGGRAPH 2009) 28 3 (2009) 52:1--52:9. 10.1145/1531326.1531358"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1111/j.1467-8659.2012.03224.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1111/cgf.12181",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/73833.73838",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "unstructured": "E. Sifakis. 2007. Algorithmic Aspects of the Simulation and Control of Computer Generated Human Anatomy Models. Ph.D. Dissertation. Stanford University.  E. Sifakis. 2007. Algorithmic Aspects of the Simulation and Control of Computer Generated Human Anatomy Models. Ph.D. Dissertation. Stanford University."
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "author": "Sifakis Eftychios",
+                "year": "2007",
+                "volume-title": "Arbitrary Cutting of Deformable Tetrahedralized Objects. In Symp. on Computer Animation (SCA). 73--80"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "author": "Sorkine Olga",
+                "volume": "4",
+                "year": "2007",
+                "volume-title": "Symp. on Geometry processing"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/360767.360802",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1109/TVCG.2005.42",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "author": "Wang Y.",
+                "volume-title": "Symposium on Computer Animation (SCA). 77--85"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/2601097.2601227",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1145/1531326.1531382",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/1360612.1360646",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1145/2461912.2461968",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1145/2897824.2925901",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201327&ftid=1991622&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:55:23Z",
+            "timestamp": 1585961723000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 41,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201327"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201327",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

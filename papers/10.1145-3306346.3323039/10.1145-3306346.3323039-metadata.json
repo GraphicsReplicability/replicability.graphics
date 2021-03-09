@@ -1,0 +1,587 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2020-07-12T19:40:18Z",
+            "timestamp": 1594582818290
+        },
+        "reference-count": 75,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2019,
+                            7,
+                            12
+                        ]
+                    ],
+                    "date-time": "2019-07-12T00:00:00Z",
+                    "timestamp": 1562889600000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "DOI": "10.1145/3306346.3323039",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2019-07-12T19:04:08Z",
+            "timestamp": 1562958248000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 3,
+        "title": [
+            "Synthetic silviculture"
+        ],
+        "prefix": "10.1145",
+        "volume": "38",
+        "author": [
+            {
+                "given": "Mi\u0142osz",
+                "family": "Makowski",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Adam Mickiewicz University, Poland"
+                    }
+                ]
+            },
+            {
+                "given": "Torsten",
+                "family": "H\u00e4drich",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "KAUST, KSA; S\u00f6ren Pirk"
+                    }
+                ]
+            },
+            {
+                "given": "Jan",
+                "family": "Scheffczyk",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "KAUST, KSA; S\u00f6ren Pirk"
+                    }
+                ]
+            },
+            {
+                "given": "Dominik L.",
+                "family": "Michels",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "KAUST, KSA; S\u00f6ren Pirk"
+                    }
+                ]
+            },
+            {
+                "given": "S\u00f6ren",
+                "family": "Pirk",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Google Brain"
+                    }
+                ]
+            },
+            {
+                "given": "Wojtek",
+                "family": "Pa\u0142ubicki",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adam Mickiewicz University, Poland"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1017/S026646741400025X",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1111/j.1438-8677.1993.tb00718.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1111/cgf.12281",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "#cr-split#-e_1_2_2_4_1.1",
+                "unstructured": "M. Aono and T.L. Kunii. 1984. Botanical Tree Image Generation. IEEE Comput. Graph. Appl. 4",
+                "DOI": "10.1109/MCG.1984.276141",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "#cr-split#-e_1_2_2_4_1.2",
+                "unstructured": "(5) (1984) 10--34. 10.1109/MCG.1984.276141 M. Aono and T.L. Kunii. 1984. Botanical Tree Image Generation. IEEE Comput. Graph. Appl. 4",
+                "DOI": "10.1109/MCG.1984.276141",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "#cr-split#-e_1_2_2_4_1.3",
+                "unstructured": "(5) (1984) 10--34. 10.1109/MCG.1984.276141"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "O. Argudo A. Chica and C. Andujar. 2016. Single-picture Reconstruction and Rendering of Trees for Plausible Vegetation Synthesis. Comput. Graph. 57 C (2016) 55--67. 10.1016/j.cag.2016.03.005   O. Argudo A. Chica and C. Andujar. 2016. Single-picture Reconstruction and Rendering of Trees for Plausible Vegetation Synthesis. Comput. Graph. 57 C (2016) 55--67. 10.1016/j.cag.2016.03.005"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1098/rstb.1986.0027",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1093/aob/mcl260",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "N. Bassuk D. F. Curtis BZ Marranca and B. Neal. 2009. Recommended Urban Trees: Site Assessment and Tree Selection for Stress Tolerance. Cornell University Department of Horticulture (2009).  N. Bassuk D. F. Curtis BZ Marranca and B. Neal. 2009. Recommended Urban Trees: Site Assessment and Tree Selection for Stress Tolerance. Cornell University Department of Horticulture (2009)."
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "B. Bene\u0161 N. Andrysco and O. \u0160t'ava. 2009. Interactive Modeling of Virtual Ecosystems (NPH'09). 9--16.   B. Bene\u0161 N. Andrysco and O. \u0160t'ava. 2009. Interactive Modeling of Virtual Ecosystems (NPH'09). 9--16."
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1111/j.1467-8659.2008.01257.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/2461912.2461952",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "unstructured": "E. Bruneton and F. Neyret. 2012. Real-time Realistic Rendering and Lighting of Forests. Comput. Graph. Forum 31 2pt1 (2012) 373--382.   E. Bruneton and F. Neyret. 2012. Real-time Realistic Rendering and Lighting of Forests. Comput. Graph. Forum 31 2pt1 (2012) 373--382."
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "H. Buckley B. Case R. Vallejos J. Camarero E. Guti\u00e9rrez E. Liang Y. Wang and A. M. Ellison. 2016. Detecting Ecological Patterns Along Environmental Gradients: Alpine Treeline Ecotones. CHANCE 29 (04 2016) 10--15.  H. Buckley B. Case R. Vallejos J. Camarero E. Guti\u00e9rrez E. Liang Y. Wang and A. M. Ellison. 2016. Detecting Ecological Patterns Along Environmental Gradients: Alpine Treeline Ecotones. CHANCE 29 (04 2016) 10--15.",
+                "DOI": "10.1080/09332480.2016.1181960",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/3072959.3073667",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/378456.378505",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "P. Decaudin and F. Neyret. 2004. Rendering Forest Scenes in Real-time (EGSR'04). 93--102.   P. Decaudin and F. Neyret. 2004. Rendering Forest Scenes in Real-time (EGSR'04). 93--102."
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "author": "Deussen O.",
+                "year": "2002",
+                "volume-title": "Interactive Visualization of Complex Plant Ecosystems. VIS '02"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "unstructured": "O. Deussen P. Hanrahan B. Lintermann R. M\u011bch M. Pharr and Przemyslaw Prusinkiewicz. 1998. Realistic Modeling and Rendering of Plant Ecosystems. ACM Trans. Graph. (1998) 275--286.  O. Deussen P. Hanrahan B. Lintermann R. M\u011bch M. Pharr and Przemyslaw Prusinkiewicz. 1998. Realistic Modeling and Rendering of Plant Ecosystems. ACM Trans. Graph. (1998) 275--286."
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1111/j.1365-3040.1995.tb00205.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "J. I. Drever. 2005. Surface and Ground Water Weathering and Soils. Elsevier Science.  J. I. Drever. 2005. Surface and Ground Water Weathering and Soils. Elsevier Science."
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "C. Eloy M. Fournier A. Lacointe and B. Moulia. 2017. Wind loads and competition for light sculpt trees into self-similar structures. In Nature Communications.  C. Eloy M. Fournier A. Lacointe and B. Moulia. 2017. Wind loads and competition for light sculpt trees into self-similar structures. In Nature Communications.",
+                "DOI": "10.1038/s41467-017-00995-6",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.5555/3128975.3128983",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "G. Gilet A. Meyer and F. Neyret. 2005. Point-based Rendering of Trees (NPH'05). 67--73.   G. Gilet A. Meyer and F. Neyret. 2005. Point-based Rendering of Trees (NPH'05). 67--73."
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1051/forest:2000132",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1016/j.cag.2010.11.014",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1111/j.1467-8659.2009.01391.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1111/cgf.13106",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "unstructured": "F. Hall\u00e9 R. A. A. Oldeman and P. B. Tomlinson. 1978. Tropical Trees and Forests - An Architectural Analysis. (1978).  F. Hall\u00e9 R. A. A. Oldeman and P. B. Tomlinson. 1978. Tropical Trees and Forests - An Architectural Analysis. (1978)."
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "M. Heydari and A. Mahdavi. 2009. The Survey of Plant Species Diversity and Richness Between Ecological Species Groups (Zagros Ecosystem Ilam). 9 (2009).  M. Heydari and A. Mahdavi. 2009. The Survey of Plant Species Diversity and Richness Between Ecological Species Groups (Zagros Ecosystem Ilam). 9 (2009)."
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "unstructured": "Shaojun Hu Zhengrong Li Zhang Zhiyi Dongjian He and Michael Wimmer. 2017. Efficient Tree Modeling from Airborne LiDAR Point Clouds. Computers & Graphics 67 (05 2017). 10.1016/j.cag.2017.04.004   Shaojun Hu Zhengrong Li Zhang Zhiyi Dongjian He and Michael Wimmer. 2017. Efficient Tree Modeling from Airborne LiDAR Point Clouds. Computers & Graphics 67 (05 2017). 10.1016/j.cag.2017.04.004"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1111/j.1467-8659.2006.00981.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "unstructured": "M. Jaeger and P. de Reffye. 1992. Basic concepts of computer simulation of plant growth. 17 (1992).  M. Jaeger and P. de Reffye. 1992. Basic concepts of computer simulation of plant growth. 17 (1992)."
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "unstructured": "M. Jaeger and J. Teng. 2003. Tree and plant volume imaging - An introductive study towards voxelized functional landscapes. PMA (2003).  M. Jaeger and J. Teng. 2003. Tree and plant volume imaging - An introductive study towards voxelized functional landscapes. PMA (2003)."
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1007/s13595-014-0446-5",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "unstructured": "B. Lane and P. Prusinkiewicz. 2002. Generating Spatial Distributions for Multilevel Models of Plant Communities. Graphics Interface (2002) 69--80.  B. Lane and P. Prusinkiewicz. 2002. Generating Spatial Distributions for Multilevel Models of Plant Communities. Graphics Interface (2002) 69--80."
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1145/2070781.2024161",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1016/0022-5193(68)90079-9",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1109/38.736469",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/2010324.1964948",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "author": "Longay S.",
+                "volume-title": "Proc. of the Intl. Symp. on SBIM. 107--120"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "unstructured": "L. Mander S. C. Dekker M. Li W. Mio S. W. Punyasena and T. M. Lenton. 2017. A morphometric analysis of vegetation patterns in dryland ecosystems. Royal Society Open Science 4 (February 2017).  L. Mander S. C. Dekker M. Li W. Mio S. W. Punyasena and T. M. Lenton. 2017. A morphometric analysis of vegetation patterns in dryland ecosystems. Royal Society Open Science 4 (February 2017).",
+                "DOI": "10.1098/rsos.160443",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "author": "McGhee G. R.",
+                "year": "1999",
+                "volume-title": "Theoretical Morphology: The Concept and Its Applications."
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "unstructured": "D. Mueller-Dombois. 1992. A Natural Dieback Theory cohort senescence as an alternative to the decline disease theory. (01 1992) 26--37.  D. Mueller-Dombois. 1992. A Natural Dieback Theory cohort senescence as an alternative to the decline disease theory. (01 1992) 26--37."
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1007/s11263-018-1073-7",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1145/237170.237279",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1145/1276377.1276487",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "DOI": "10.1111/j.1467-8659.2011.01897.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "DOI": "10.1145/1281500.1281537",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "DOI": "10.1145/15886.15892",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "DOI": "10.1145/1531326.1531364",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "DOI": "10.1145/3130800.3130814",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "DOI": "10.1145/2661229.2661252",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "DOI": "10.1145/2185520.2185546",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "author": "Prusinkiewicz P.",
+                "year": "1986",
+                "volume-title": "Proc. on Graph. Interf. 247--253"
+            },
+            {
+                "key": "e_1_2_2_55_1",
+                "unstructured": "P. Prusinkiewicz and Aristid Lindenmayer. 1990. The Algorithmic Beauty of Plants. Springer-Verlag New York Inc.   P. Prusinkiewicz and Aristid Lindenmayer. 1990. The Algorithmic Beauty of Plants. Springer-Verlag New York Inc.",
+                "DOI": "10.1007/978-1-4613-8476-2",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_56_1",
+                "first-page": "1717",
+                "article-title": "Real-Time Interactive Tree Animation",
+                "volume": "24",
+                "author": "Quigley E.",
+                "year": "2018",
+                "journal-title": "TVCG"
+            },
+            {
+                "key": "e_1_2_2_57_1",
+                "DOI": "10.1016/j.jtbi.2004.05.006",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_58_1",
+                "unstructured": "N. Salzmann S. C. Scherrer S. Allen and M. Rohrer. 2015. Temperature precipitation and related extremes in mountain areas. Cambridge University Press. 28--49 pages.  N. Salzmann S. C. Scherrer S. Allen and M. Rohrer. 2015. Temperature precipitation and related extremes in mountain areas. Cambridge University Press. 28--49 pages.",
+                "DOI": "10.1017/CBO9781107588653.003",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_59_1",
+                "unstructured": "K. Shinozaki K. Yoda K. Hozumi and T. Kira. 1964. A quantitative analysis of plant form: the pipe model theory. II. Further evidence of the theory and its application in forest ecology. Jpn J Ecol 14 (08 1964) 133--139.  K. Shinozaki K. Yoda K. Hozumi and T. Kira. 1964. A quantitative analysis of plant form: the pipe model theory. II. Further evidence of the theory and its application in forest ecology. Jpn J Ecol 14 (08 1964) 133--139."
+            },
+            {
+                "key": "e_1_2_2_60_1",
+                "DOI": "10.1111/cgf.12282",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_61_1",
+                "DOI": "10.1145/1409060.1409061",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_62_1",
+                "DOI": "10.1145/1276377.1276486",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_63_1",
+                "unstructured": "J. Vanclay. 1995. Growth models for tropical forests: A synthesis of models and methods. Forest Science -Washington- 41 (01 1995) 7--42.  J. Vanclay. 1995. Growth models for tropical forests: A synthesis of models and methods. Forest Science -Washington - 41 (01 1995) 7--42.",
+                "DOI": "10.1093/forestscience/41.1.7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_64_1",
+                "DOI": "10.1145/3072959.3073655",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_65_1",
+                "unstructured": "R. H. Waring and S. W. Running. 2007. Forest Ecosystem Analysis at Multiple Time and Space Scales. In Forest Ecosystems (Third Edition). Academic Press 1 -- 16.  R. H. Waring and S. W. Running. 2007. Forest Ecosystem Analysis at Multiple Time and Space Scales. In Forest Ecosystems (Third Edition). Academic Press 1 -- 16.",
+                "DOI": "10.1016/B978-012370605-8.50005-0",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_66_1",
+                "unstructured": "R. H. Whittaker. 1977. Classification of natural communities. New York: Arno Press. Reprint of the 1962 ed. published in Plainfield N.J. which was issued as v. 28 no. 1 of the Botanical review.  R. H. Whittaker. 1977. Classification of natural communities. New York: Arno Press. Reprint of the 1962 ed. published in Plainfield N.J. which was issued as v. 28 no. 1 of the Botanical review.",
+                "DOI": "10.1007/BF02860872",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_67_1",
+                "DOI": "10.1111/j.1467-8659.2009.01394.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_68_1",
+                "DOI": "10.1109/TVCG.2015.2513409",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_69_1",
+                "DOI": "10.1007/BF02767114",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_70_1",
+                "unstructured": "B. Zeide. 1987. Analysis of the 3/2 Power Law of Self-Thinning. Forest Science 33 (06 1987) 517--537.  B. Zeide. 1987. Analysis of the 3/2 Power Law of Self-Thinning. Forest Science 33 (06 1987) 517--537."
+            },
+            {
+                "key": "e_1_2_2_71_1",
+                "DOI": "10.1088/1755-1315/40/1/012052",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_72_1",
+                "DOI": "10.1111/cgf.13088",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_73_1",
+                "DOI": "10.1145/2461912.2461961",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3323039&ftid=2071745&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2020-07-12T19:17:42Z",
+            "timestamp": 1594581462000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "multi-scale modeling of plant ecosystems"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "references-count": 75,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        12
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3306346.3323039"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3306346.3323039",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

@@ -1,0 +1,426 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2020-07-12T19:40:18Z",
+            "timestamp": 1594582818720
+        },
+        "reference-count": 46,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2020,
+                            7,
+                            12
+                        ]
+                    ],
+                    "date-time": "2020-07-12T00:00:00Z",
+                    "timestamp": 1594512000000
+                },
+                "delay-in-days": 366,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100000183",
+                "name": "Army Research Office",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "W911NF-12-R-0011"
+                ]
+            },
+            {
+                "DOI": "10.13039/100000001",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "IIS-1838071"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "DOI": "10.1145/3306346.3323005",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2019-07-12T19:04:08Z",
+            "timestamp": 1562958248000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+            "Optimal transport-based polar interpolation of directional fields"
+        ],
+        "prefix": "10.1145",
+        "volume": "38",
+        "author": [
+            {
+                "given": "Justin",
+                "family": "Solomon",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Massachusetts Institute of Technology"
+                    }
+                ]
+            },
+            {
+                "given": "Amir",
+                "family": "Vaxman",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Utrecht University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/2980179.2982412",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "Gr\u00e9goire Allaire. 2007. Numerical Analysis and Optimization: An Introduction to Mathematical Modelling and Numerical Simulation. Oxford University Press.  Gr\u00e9goire Allaire. 2007. Numerical Analysis and Optimization: An Introduction to Mathematical Modelling and Numerical Simulation. Oxford University Press."
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/1073368.1073380",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "author": "Ben-Chen Mirela",
+                "volume-title": "Computer Graphics Forum"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/1531326.1531383",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/2504435.2504442",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "author": "Crane Keenan",
+                "volume-title": "Computer Graphics Forum"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "Stefan de Vries. 2016. Modeling sediment transport pathways in the mouth of the Scheldt estuary. Master's thesis. University of Twente.  Stefan de Vries. 2016. Modeling sediment transport pathways in the mouth of the Scheldt estuary. Master's thesis. University of Twente."
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "author": "Diamanti Olga",
+                "volume-title": "Computer Graphics Forum"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/3197517.3201375",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "unstructured": "Simon Fiedler. 2018. Flip Subframe Interpolation. https://vimeo.com/251487780  Simon Fiedler. 2018. Flip Subframe Interpolation. https://vimeo.com/251487780"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1109/VISUAL.2004.107",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "author": "Ji Guangfeng",
+                "volume": "2",
+                "year": "2006",
+                "volume-title": "Pacific Graphics"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "author": "K\u00e4lberer Felix",
+                "volume-title": "Computer Graphics Forum"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1073/pnas.95.15.8431",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/2461912.2462005",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/3272127.3275064",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1051/m2an/2015055",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1016/j.cag.2018.01.009",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1109/TVCG.2006.173",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/3197517.3201344",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "author": "M\u00e9rigot Quentin",
+                "volume-title": "Computer Graphics Forum"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "MOSEK. 2017. The MOSEK optimization toolbox for MATLAB manual (Version 8.1). http://docs.mosek.com/8.1/toolbox/index.html  MOSEK. 2017. The MOSEK optimization toolbox for MATLAB manual (Version 8.1). http://docs.mosek.com/8.1/toolbox/index.html"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/1276377.1276446",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "unstructured": "Gabriel Peyr\u00e9 L\u00e9na\u00efc Chizat Fran\u00e7ois-Xavier Vialard and Justin Solomon. 2017. Quantum entropic regularization of matrix-valued optimal transport. European Journal of Applied Mathematics (2017) 1--24.  Gabriel Peyr\u00e9 L\u00e9na\u00efc Chizat Fran\u00e7ois-Xavier Vialard and Justin Solomon. 2017. Quantum entropic regularization of matrix-valued optimal transport. European Journal of Applied Mathematics (2017) 1--24."
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1561/2200000073",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1016/j.cad.2016.05.004",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "Konrad Polthier and Markus Schmies. 1998. Straightest Geodesics on Polyhedral Surfaces. Springer Berlin Heidelberg 135--150.  Konrad Polthier and Markus Schmies. 1998. Straightest Geodesics on Polyhedral Surfaces. Springer Berlin Heidelberg 135--150.",
+                "DOI": "10.1007/978-3-662-03567-2_11",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/1183287.1183297",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/1640443.1640444",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/1356682.1356683",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "unstructured": "Filippo Santambrogio. 2015. Optimal transport for applied mathematicians. Birk\u00e4user NY (2015) 99--102.  Filippo Santambrogio. 2015. Optimal transport for applied mathematicians. Birk\u00e4user NY (2015) 99--102."
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/3213771",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1007/s00371-015-1122-y",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1016/0898-1221(95)00161-Q",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1016/j.acha.2010.02.001",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1109/LDAV.2018.8739196",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/3197517.3201367",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "author": "Solomon Justin",
+                "year": "2018",
+                "volume-title": "Proceedings of Symposia in Pure Mathematics"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1145/2766963",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1145/2601097.2601175",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "author": "Tong Yiying",
+                "year": "2006",
+                "volume-title": "Eurographics Symposium on Geometry Processing. 1--10"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "author": "Tricoche Xavier",
+                "volume-title": "Visualization"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "unstructured": "Amir Vaxman et al. 2017. Directional: directional field synthesis design and processing. https://github.com/avaxman/Directional.  Amir Vaxman et al. 2017. Directional: directional field synthesis design and processing. https://github.com/avaxman/Directional.",
+                "DOI": "10.1145/3084873.3084921",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "author": "Vaxman Amir",
+                "volume-title": "Computer Graphics Forum"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "unstructured": "C\u00e9dric Villani. 2003. Topics in optimal transportation. Number 58. American Mathematical Soc.  C\u00e9dric Villani. 2003. Topics in optimal transportation. Number 58. American Mathematical Soc.",
+                "DOI": "10.1090/gsm/058",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "https://dl.acm.org/doi/pdf/10.1145/3306346.3323005",
+                "content-type": "application/pdf",
+                "content-version": "vor",
+                "intended-application": "syndication"
+            },
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3323005&ftid=2071662&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2020-07-12T19:21:26Z",
+            "timestamp": 1594581686000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "references-count": 46,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        12
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3306346.3323005"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3306346.3323005",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}
