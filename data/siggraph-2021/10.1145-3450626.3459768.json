@@ -45,7 +45,7 @@
         "git/hg/svn commit hash or revision number": "a827578755d864df68b103c71048c7da7a00ce59",
         "git/hg/svn commit hash or revision number URL2": "",
 
-        "Software Heritage permalink": "",
+        "Software Heritage permalink": "https://archive.softwareheritage.org/swh:1:dir:04de9a9e9fc06b7f546022225cbf44e7c2f2529e;origin=https://github.com/HTDerekLiu/surface_multigrid_code;visit=swh:1:snp:305eb440af79665be5aa5ffef3da20fea5bf25a2;anchor=swh:1:rev:a827578755d864df68b103c71048c7da7a00ce59",
        
 
         "If code not available, pseudo-code available (boolean)": false,
