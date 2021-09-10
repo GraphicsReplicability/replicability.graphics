@@ -30,7 +30,7 @@ More details: [https://replicability.graphics](https://replicability.graphics)
 
 ## Contributors
 
-* [Contributors list](contributors.md)
+* [Contributors list](CONTRIBUTORS.md)
 
 
 ![](website-source/images/banner.png)
