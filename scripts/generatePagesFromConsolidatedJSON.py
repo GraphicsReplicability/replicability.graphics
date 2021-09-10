@@ -705,9 +705,10 @@ def write_index_step2(findex, data):
        </ul></p>
        <p style="text-align:left">and partial data for:</p>
        <ul class="publist-inline-empty">
+       <li> <a href="https://github.com/GraphicsReplicability/replicability.graphics/tree/master/data/sigasia-2015">SIGGRAPH ASIA 2015</a></li>
        <li> <a href="https://github.com/GraphicsReplicability/replicability.graphics/tree/master/data/siggraph-2019">SIGGRAPH 2019</a></li>
        <li> <a href="https://github.com/GraphicsReplicability/replicability.graphics/tree/master/data/siggraph-2020">SIGGRAPH 2020</a></li>
-       <li> <a href="https://github.com/GraphicsReplicability/replicability.graphics/tree/master/data/sigasia-2015">SIGGRAPH ASIA 2015</a></li>
+       <li> <a href="https://github.com/GraphicsReplicability/replicability.graphics/tree/master/data/siggraph-2021">SIGGRAPH 2021</a></li>
        </ul>
        <p style="text-align:left">As a long term goal, we would like to collect data for more SIGGRAPH venues, for SIGGRAPH ASIA editions, for ToG papers, and for any other computer graphics events. If you want to help, see <a href="#contribute" class="scrolly">contributions</a>, and check out <a href="https://github.com/GraphicsReplicability/replicability.graphics/blob/master/CONTRIBUTORS.md">the contributors</a>. </p>
 
