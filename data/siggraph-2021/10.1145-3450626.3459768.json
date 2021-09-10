@@ -72,7 +72,7 @@
 
         "License of the data": "",
 
-        "Able to perform a replicability test (boolean)": yes,
+        "Able to perform a replicability test (boolean)": true,
 
         "If not able to perform a test, was it due to missing hardware/software? (boolean)": false,
 
