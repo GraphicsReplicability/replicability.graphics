@@ -1,10 +1,113 @@
+OctoPocus in VR: Using a Dynamic Guide for 3D Mid-Air Gestures in Virtual Reality
+Only a Matter of Style: Age Transformation Using a Style-Based Regression Model
+Transfer matrix based layered materials rendering
+ROSEFusion: Random Optimization for Online Dense Reconstruction under Fast Camera Motion
+Real-time Locally Injective Volumetric Deformation
+FovVideoVDP: A visible difference predictor for wide field-of-view video
+Authoring Consistent Landscapes with Flora and Fauna
+Learning Skeletal Articulations with Neural Blend Shapes
+SHREC21: Quantifying shape complexity
+Simulating Multi-scale, Granular Materials and Their Transitions with a Hybrid Euler-Lagrange Solver
+Dynamic closest color warping to sort and compare palettes
+Multiscale Cholesky Preconditioning for Ill-conditioned Problems
+DAG Amendment for Inverse Control of Parametric Shapes
+PH-CPF: Planar Hexagonal Meshing using Coordinate Power Fields
+Mechanics Aware Deformation of Yarn Pattern Geometry
+StrokeStrip: Joint Parameterization and Fitting of Stroke Clusters
+Computing minimal surfaces with differential forms
+Orienting Point Clouds with Dipole Propagation
+Seamless Manga Inpainting with Semantics Awareness
+General Virtual Sketching Framework for Vector Line Art
+Fit4CAD: A point cloud benchmark for fitting simple geometric primitives in CAD models
+Wasserstein Distances, Geodesics and Barycenters of Merge Trees
+CADSketchNet- An Annotated Sketch dataset for 3D CAD Model Retrieval with DeepNeural Networks
+Model for predicting perception of facial action unit activation using virtual humans
+Random Auxetic Porous Materials from Parametric Growth Processes
+Partial 3D Object Retrieval using Local Binary QUICCI Descriptors and Dissimilarity Tree Indexing
+Conceptual metaphor and graphical convention influence the interpretation of line graphs
+VERTIGo: a Visual Platform for Querying and Exploring Large Multilayer Networks
+Feature interpolation convolution for point cloud analysis
+Interactive Graph Construction for Graph-Based Semi-Supervised Learning
+FTK: A Simplicial Spacetime Meshing Framework for Robust and Scalable Feature Tracking
+Automatic surface segmentation for seamless fabrication using 4-axis milling machines
+Unordered Task-Parallel Augmented Merge Tree Construction
+2D Points Curve Reconstruction Survey and Benchmark
+Interactive Focus+Context Rendering for Hexahedral Mesh Inspection
+Can visualization alleviate dichotomous thinking? Effects of visual representations on the cliff effect
+Declutter and Focus: Empirically Evaluating Design Guidelines for Effective Data Communication
+Velocity Skinning for Real-time Stylized Skeletal Animation
+DimLift: Interactive Hierarchical Data Exploration through Dimensional Bundling
+Shape-driven Coordinate Ordering for Star Glyph Sets via Reinforcement Learning
+A Progressive Approach to Scalar Field Topology
+Digital surface regularization with guarantees
+DeepFaceDrawing: Deep Generation of Face Images from Sketches
+PRS-Net: Planar Reflective Symmetry Detection Net for 3D Models
+Functional Optimization of Fluidic Devices with Differentiable Stokes Flow
+Net2Vis - A Visual Grammar for Automatically Generating Publication-Tailored CNN Architecture Visualizations
+Integrated Dual Analysis of Quantitative and Qualitative High-Dimensional Data
+Mesh Denoising with Facet Graph Convolutions
+Multi-resolution Terrain Rendering Using Summed-Area Tables
+Imma Sort by two or more attributes with Interpretable Monotonic Multi-Attribute Sorting
+Impact of Cognitive Biases on Progressive Visualization
+A Training Free Technique for 3D Object Recognition using the Concept of Vibration, Energy and Frequency
+Persistence Analysis of Multi-scale Planar Structure Graph in Point Clouds
+Code Replicability in Computer Graphics
+MichiGAN: Multi-Input-Conditioned Hair Image Generation for Portrait Editing
+Fast and exact discrete geodesic computation based on triangle-oriented wavefront propagation
+Task-Based Effectiveness of Interactive Contiguous Area Cartograms
+Visual Quality of 3D Meshes with Diffuse Colors in Virtual Reality: Subjective and Objective Evaluation
+Robust Fitting of Parallax-Aware Mixtures for Path Guiding
+Semi-Procedural Textures Using Point Process Texture Basis Functions
+Adaptive merging for rigid body simulation
+An Evaluation Testbed for Locomotion in Virtual Reality
+Developability of Heightfields via Rank Minimization
+Fast Tetrahedral Meshing in the Wild
+CD-MPM: Continuum Damage Material Point Methods for Dynamic Fracture Animation
+Variable-width contouring for additive manufacturing
+Point2Mesh: A Self-Prior for Deformable Meshes
+Deep Geometric Texture Synthesis
+HexEx: Robust Hexahedral Mesh Extraction
+Synthesizing Camera Noise using Generative Adversarial Networks
+Solid Geometry Processing on Deconstructed Domains
+Skeleton-Aware Networks for Deep Motion Retargeting
+Converting stroked primitives to filled primitives
+CARL: Controllable Agent with Reinforcement Learning for Quadruped Locomotion
+Pointfilter: Point Cloud Filtering via Encoder-Decoder Modeling
+RigNet: Neural Rigging for Articulated Characters
+Real-time Image Smoothing via Iterative Least Squares
+Visual Analysis of Class Separations with Locally Linear Segments
+Deep Radiance Caching: Convolutional Autoencoders Deeper in Ray Tracing
+Confidence-controlled Local Isosurfacing
+Gradient-domain volumetric photon density estimation
+Semantic Soft Segmentation
+Support-Free Volume Printing by Multi-Axis Motion
+Accelerated Quadratic Proxy for Geometric Optimization
+Gradient-Domain Processing within a Texture Atlas
+DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills
+An Indexing Scheme and Descriptor for 3D Object Retrieval Based on Local Shape Querying
+Scalable Mesh Refinement for Canonical Polygonal Schemas of Extremely High Genus Shapes
+SHREC'20: Shape correspondence with non-isometric deformations
+Radial intersection count image: a clutter resistant 3D shape descriptor
+Implicit Frictional Boundary Handling for SPH
+Interactive Visual Exploration of Metabolite Ratios in MR Spectroscopy Studies
 Gaussian-Product Subdivision Surfaces
+Attention-based relation and context modeling for point cloud semantic segmentation
+Fast quasi-conformal regional flattening of the left atrium
+Vectorization of persistence barcode with applications in pattern classification of porous structures
+Surfel-Based Incremental Reconstruction of the Boundary between Known and Unknown Space
+On the perceptual Influence of Shape overlap on Data-Comparision using Scatterplots
+Disentangled Human Body Embedding Based on Deep Hierarchical Neural Network
+t-viSNE: Interactive Assessment and Interpretation of t-SNE Projections
+Virtual reality framework for editing and exploring medial axis representations of nanometric scale neural structures
+CrossVis: A Visual Analytics System for Exploring Heterogeneous Multivariate Data with Applications to Materials and Climate Sciences
 SDM-NET: Deep Generative Network for Structured Deformable Mesh
+Subdivision-Specialized Linear Algebra Kernels for Static and Dynamic Mesh Connectivity on the GPU
 Automatic Unpaired Shape Deformation Transfer
 Corner-Operated Tran-Similar (COTS) maps, patterns, and lattices
 A Similarity Measure for Material Appearance
 Simplicial complex augmentation framework for bijective maps
 TriWild: Robust Triangulation with Curve Constraints
+Half-Space Power Diagrams and Discrete Surface Offsets
 Tetrahedral Meshing in the Wild
 Poly-Spline Finite Element Method
 Decoupling Simulation Accuracy from Mesh Quality
@@ -12,14 +115,40 @@ Learning Character-Agnostic Motion for Motion Retargeting in 2D
 Position-Free Monte Carlo Simulation for Arbitrary Layered BSDFs
 Rodent: Generating Renderers without Writing a Generator
 Variational Implicit Point Set Surfaces
+Progressive Wasserstein Barycenters of Persistence Diagrams
 MeshCNN: A Network With an Edge
 On Bubble Rings and Ink Chandeliers
+Combining Voxel and Normal Predictions for Multi-View 3D Sketching
 An Implicit Frictional Contact Solver for Adaptive Cloth Simulation
 Learning Symmetric and Low-energy Locomotion
+Exploring the Sensitivity of Choropleths under Attribute Uncertainty
+Persistence Atlas for Critical Point Variability in Ensembles
 Progressive Parameterizations
+Robust and High Fidelity Mesh Denoising
 Mastering Sketching: Adversarial Augmentation for Structured Prediction
 Variational Stokes: A Unified Pressure-Viscosity Solver for Accurate Viscous Liquids
+Learning Fuzzy Set Representations of Partial Shapes on Dual Embedding Spaces
+Peeling the Longest: A Simple Generalized Curve Reconstruction Algorithm
+3D Synthesis of Man-made Objects based on Fine-grained Parts
+Constraint-based Point Set Denoising using Normal Voting Tensor and Restricted Quadratic Error Metrics
+FitConnect: Connecting Noisy 2D Samples by Fitted Neighborhoods
 T-junctions in spline surfaces
 Semi-Supervised Co-Analysis of 3D Shape Styles from Projected Lines
+Adjoint Map Representation for Shape Analysis and Matching
 A Multi-Scale Model for Simulating Liquid-Hair Interactions
 Interpolations of Smoke and Liquid Simulations
+Disjoint Convex Shell and its Applications in Mesh Unfolding
+Hole Detection of a Planar Point Set: An Empty Disk Approach
+Improved shape for refinable surfaces with singularly parameterized irregularities
+Extrinsically Smooth Direction Fields
+PinMesh -- Fast and Exact 3D Point Location Queries using a Uniform Grid
+The 2D Shape Structure Dataset: A user annotated open Access Database
+Computing a Discrete Morse Gradient From a Watershed Decomposition
+A Closed-Form Formulation of HRBF-Based Surface Reconstruction by Approximate Solution
+Modeling and Analysis of Origami Structures with Smooth Folds
+Planar Minimization Diagrams via Subdivision with Applications to Anisotropic Voronoi Diagrams
+Crawl through Neighbors: A Simple Curve Reconstruction Algorithm
+Non-Rigid Puzzles
+Construction of Topologically Correct and Manifold Isosurfaces
+Curve Reconstruction with Many Fewer Samples
+Complex Transfinite Barycentric Mappings with Similarity Kernels
