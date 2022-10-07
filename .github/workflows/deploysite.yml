@@ -3,9 +3,6 @@ name: Building and deploying the website
 on:
   push:
     branches: [ master ]
-  schedule:
-    # * is a special character in YAML so you have to quote this string
-    - cron:  '0 14 * * *'
 
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
@@ -25,7 +22,7 @@ jobs:
          pip3 install -U setuptools
          pip3 install python-slugify
          scripts/deployWeb.sh  ${{ secrets.AltmetricKey }}
-                
+
     - name: Deploy to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@3.4.6
       with:
