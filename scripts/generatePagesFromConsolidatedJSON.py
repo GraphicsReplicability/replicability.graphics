@@ -490,7 +490,7 @@ def dumpTableHeader(findex):
   findex.write('<th>Pseudocode only</th>')
   findex.write('<th>Pseudocode score</th>')
   findex.write('<th>Doc. score</th>')
-  findex.write('<th>Altmetric Attention Score</th>')
+  #findex.write('<th>Altmetric Attention Score</th>')
   findex.write('</tr></thead>\n<tbody>')
 
 def dumpTableFooter(findex,topicsGlobal, data):
@@ -886,10 +886,8 @@ def write_index_step2(findex, data):
                 <img height="100px" src="images/logo_cnrs.png"/>   &nbsp;&nbsp;&nbsp;  <img height="100px" src="images/logo_liris.png"/> &nbsp;&nbsp;&nbsp; <img height="100px"  src="images/logo_irit.png"/>
                 <br><br>
                 <h3>Acknowledgments</h3>
-                This work was funded in part by ANR-16-CE23-0009 (ROOT), ANR-16-CE33-0026 (CAL- iTrOp), ANR-15-CE40-0006 (CoMeDiC) and ANR-16-CE38-0009 (e- ROMA). We also thank <a href="http://altmetric.com">Altmetric</a> for providing us access to their Altmetric Attention Score.
-
-
-                </div>
+                This work was funded in part by ANR-16-CE23-0009 (ROOT), ANR-16-CE33-0026 (CAL- iTrOp), ANR-15-CE40-0006 (CoMeDiC) and ANR-16-CE38-0009 (e- ROMA).
+                        </div>
             </div>
         </div>
     </section>
@@ -1055,7 +1053,7 @@ with open(sys.argv[1]) as json_file:
 
               paperBadge = genBadges(variant)
 
-              altmetric = getAltmetric(pathPages,doiclean)
+              #altmetric = getAltmetric(pathPages,doiclean)
 
               if thumbExists(pathPages,doiclean):
                  fbrowse.write('<td style="text-align:center;vertical-align: middle;"><img class="thumb" src="papers/'+doiclean+'/'+doiclean+'-thumb-small.png"></td>')
@@ -1104,10 +1102,10 @@ with open(sys.argv[1]) as json_file:
               #Doc score
               fbrowse.write("<td>"+str(variant['Documentation score {0=NA,1,2,3}'])+"</td>")
               #altmetric
-              if altmetric[0] != -1:
-                  fbrowse.write('   <td> <a href="'+altmetric[2]+'"><img width="30px" src="'+str(altmetric[1])+'"></a><span style="font-size:0%">'+str(altmetric[0])+'</span></td>')
-              else:
-                  fbrowse.write("<td></td>")
+              #if altmetric[0] != -1:
+                #  fbrowse.write('   <td> <a href="'+altmetric[2]+'"><img width="30px" src="'+str(altmetric[1])+'"></a><span style="font-size:0%">'+str(altmetric[0])+'</span></td>')
+              #else:
+            #      fbrowse.write("<td></td>")
 
               if ( variant["ACM Open Access (boolean)"]):
                   step2dataYearPdf[0] = step2dataYearPdf[0] +1
