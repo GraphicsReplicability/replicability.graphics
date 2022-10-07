@@ -1,0 +1,365 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T02:11:27Z",
+            "timestamp": 1585966287799
+        },
+        "reference-count": 35,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100002341",
+                "name": "Academy of Finland",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "277833"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925917",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 30,
+        "title": [
+            "Reflectance modeling by neural texture synthesis"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Miika",
+                "family": "Aittala",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Aalto University"
+                    }
+                ]
+            },
+            {
+                "given": "Timo",
+                "family": "Aila",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "NVIDIA"
+                    }
+                ]
+            },
+            {
+                "given": "Jaakko",
+                "family": "Lehtinen",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Aalto University, NVIDIA"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/2766967",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "Barron J. and Malik J. 2015. Shape illumination and reflectance from shading. IEEE TPAMI (to appear).  Barron J. and Malik J. 2015. Shape illumination and reflectance from shading. IEEE TPAMI (to appear).",
+                "DOI": "10.1109/TPAMI.2014.2377712",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/383259.383270",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "Clark R. 2010. Crazybump. http://www.crazybump.com Last access: 16 Jan 2016.  Clark R. 2010. Crazybump. http://www.crazybump.com Last access: 16 Jan 2016."
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/344779.344855",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/1778765.1778835",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/2070781.2024180",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/383259.383296",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "author": "Efros A. A.",
+                "volume": "2",
+                "volume-title": "Proc. International Conference on Computer Vision (ICCV '99)"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1109/TIP.2010.2052822",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "Gatys L. A. Ecker A. S. and Bethge M. 2015. A neural algorithm of artistic style. CoRR abs/1508.06576.  Gatys L. A. Ecker A. S. and Bethge M. 2015. A neural algorithm of artistic style. CoRR abs/1508.06576."
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "unstructured": "Gatys L. A. Ecker A. S. and Bethge M. 2015. Texture synthesis using convolutional neural networks. In Advances in Neural Information Processing Systems 28.   Gatys L. A. Ecker A. S. and Bethge M. 2015. Texture synthesis using convolutional neural networks. In Advances in Neural Information Processing Systems 28.",
+                "DOI": "10.1109/CVPR.2016.265",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "Graham P. Tunwattanapong B. Busch J. Yu X. Jones A. Debevec P. and Ghosh A. 2013. Measurement-Based Synthesis of Facial Microgeometry. Computer Graphics Forum 32 2pt3 335--344.  Graham P. Tunwattanapong B. Busch J. Yu X. Jones A. Debevec P. and Ghosh A. 2013. Measurement-Based Synthesis of Facial Microgeometry. Computer Graphics Forum 32 2pt3 335--344.",
+                "DOI": "10.1111/cgf.12053",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/218380.218446",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/383259.383295",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "Huang L. Yang Y. Deng Y. and Yu Y 2015. Densebox: Unifying landmark localization with end to end object detection. CoRR abs/1509.04874.  Huang L. Yang Y. Deng Y. and Yu Y 2015. Densebox: Unifying landmark localization with end to end object detection. CoRR abs/1509.04874."
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1111/cgf.12565",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/1073204.1073263",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "author": "LeCun Y.",
+                "volume-title": "Proc. IEEE, 2278--2324"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/636886.636891",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.5555/2383654.2383671",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1023/A:1026553619983",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1007/978-3-642-24785-9_37",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1109/CVPRW.2014.131",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "unstructured": "Simonyan K. and Zisserman A. 2014. Very deep convolutional networks for large-scale image recognition. CoRR abs/1409.1556.  Simonyan K. and Zisserman A. 2014. Very deep convolutional networks for large-scale image recognition. CoRR abs/1409.1556 ."
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1109/34.385983",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "author": "Szegedy C.",
+                "volume-title": "Proc. CVPR."
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/566654.566634",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "Vedaldi A. and Lenc K. 2014. MatConvNet - convolutional neural networks for MATLAB. CoRR abs/1412.4564.  Vedaldi A. and Lenc K. 2014. MatConvNet - convolutional neural networks for MATLAB. CoRR abs/1412.4564 ."
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/1360612.1360640",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/2070781.2024206",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/1360612.1360651",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/1141911.1141987",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1561/0600000022",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1109/TPAMI.2006.170",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925917&amp;ftid=1755944&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:33:56Z",
+            "timestamp": 1585964036000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 35,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925917"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925917",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

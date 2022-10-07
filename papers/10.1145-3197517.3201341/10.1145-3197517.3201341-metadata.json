@@ -1,0 +1,418 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:55Z",
+            "timestamp": 1585962715415
+        },
+        "reference-count": 32,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100001691",
+                "name": "Japan Society for the Promotion of Science",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "17H00752"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100002241",
+                "name": "Japan Science and Technology Agency",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "JPMJPR16UK"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100007601",
+                "name": "Horizon 2020",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "642841, 645599"
+                ]
+            },
+            {
+                "DOI": "10.13039/100010663",
+                "name": "H2020 European Research Council",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "715767"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201341",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 5,
+        "title": [
+            "CoreCavity"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Kazutaka",
+                "family": "Nakashima",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "The University of Tokyo"
+                    }
+                ]
+            },
+            {
+                "given": "Thomas",
+                "family": "Auzinger",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "IST Austria"
+                    }
+                ]
+            },
+            {
+                "given": "Emmanuel",
+                "family": "Iarussi",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "CONICET, IST Austria"
+                    }
+                ]
+            },
+            {
+                "given": "Ran",
+                "family": "Zhang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "IST Austria"
+                    }
+                ]
+            },
+            {
+                "given": "Takeo",
+                "family": "Igarashi",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "The University of Tokyo"
+                    }
+                ]
+            },
+            {
+                "given": "Bernd",
+                "family": "Bickel",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "IST Austria"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "Giuseppe Alemanno Paolo Cignoni Nico Pietroni Federico Ponchio and Roberto Scopigno. 2014. Interlocking Pieces for Printing Tangible Cultural Heritage Replicas. (2014).  Giuseppe Alemanno Paolo Cignoni Nico Pietroni Federico Ponchio and Roberto Scopigno. 2014. Interlocking Pieces for Printing Tangible Cultural Heritage Replicas. (2014)."
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "author": "Bischoff Stephan",
+                "year": "2005",
+                "volume-title": "Bildverarbeitung f\u00c3\u00ffr die Medizin"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/383259.383266",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1016/j.jmatprotec.2008.05.051",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/2816795.2818087",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/1015706.1015817",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1142/S0218195901000687",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "J.Y.H. Fuh M. W. Fu and A.Y.C. Nee. 2004. Computer-Aided Injection Mold Design and Manufacture. CRC Press. https://www.crcpress.com/Computer-Aided-Injection-Mold-Design-and-Manufacture/Fuh-Fu-Nee-Fu/p/book/9780824753146  J.Y.H. Fuh M. W. Fu and A.Y.C. Nee. 2004. Computer-Aided Injection Mold Design and Manufacture. CRC Press. https://www.crcpress.com/Computer-Aided-Injection-Mold-Design-and-Manufacture/Fuh-Fu-Nee-Fu/p/book/9780824753146"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/2807442.2807476",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1111/cgf.12556",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/2661229.2661244",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.7315/JCDE.2014.005",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/2461912.2461916",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/2816795.2818078",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "unstructured": "David O. Kazmer. 2016. Injection Mold Design Engineering. Carl Hanser Verlag. http://www.hanserpublications.com/Products/385-injection-mold-design-engineering-2e-ebook.aspx  David O. Kazmer. 2016. Injection Mold Design Engineering. Carl Hanser Verlag. http://www.hanserpublications.com/Products/385-injection-mold-design-engineering-2e-ebook.aspx",
+                "DOI": "10.3139/9781569905715.fm",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/1060244.1060271",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/1073204.1073244",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "doi-asserted-by": "crossref",
+                "first-page": "3",
+                "DOI": "10.1109/TASE.2009.2021324",
+                "article-title": "Molds for Meshes: Computing Smooth Parting Lines and Undercut Removal",
+                "volume": "6",
+                "author": "Li Weishi",
+                "year": "2009",
+                "journal-title": "IEEE Transactions on Automation Science and Engineering"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "unstructured": "Alan C. Lin and Nguyen Huu Quang. 2014. Automatic generation of mold-piece regions and parting curves for complex CAD models in multi-piece mold design. Computer-Aided Design 57 (dec 2014) 15--28.  Alan C. Lin and Nguyen Huu Quang. 2014. Automatic generation of mold-piece regions and parting curves for complex CAD models in multi-piece mold design. Computer-Aided Design 57 (dec 2014) 15--28.",
+                "DOI": "10.1016/j.cad.2014.06.014",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/2366145.2366148",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/2980179.2982397",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1016/S0007-8506(07)60858-0",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1016/S0010-4485(03)00107-6",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1016/0010-4485(90)90024-7",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/2019627.2019628",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1007/s00371-007-0197-5",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.5555/1281991.1282006",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1111/cgf.12353",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1111/cgf.12811",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/2816795.2818064",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "first-page": "1",
+                "article-title": "Feature extraction from freeform molded parts for moldability analysis",
+                "volume": "48",
+                "author": "Zhang Chunjie",
+                "year": "2009",
+                "journal-title": "The International Journal of Advanced Manufacturing Technology"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/2816795.2818121",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201341&ftid=1991742&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:36:26Z",
+            "timestamp": 1585960586000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "interactive shell decomposition for fabrication with two-piece rigid molds"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 32,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201341"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201341",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

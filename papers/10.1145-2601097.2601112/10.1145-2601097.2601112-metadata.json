@@ -1,0 +1,441 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:11:20Z",
+            "timestamp": 1586002280620
+        },
+        "reference-count": 41,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100000781",
+                "name": "European Research Council",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "iModel (StG-2012-306877)"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100004343",
+                "name": "Stavros Niarchos Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "200021 137879"
+                ]
+            },
+            {
+                "DOI": "10.13039/100002418",
+                "name": "Intel Corporation",
+                "doi-asserted-by": "publisher",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601112",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 34,
+        "title": [
+            "Tangible and modular input device for character articulation"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Alec",
+                "family": "Jacobson",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "ETH Zurich"
+                    }
+                ]
+            },
+            {
+                "given": "Daniele",
+                "family": "Panozzo",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "ETH Zurich"
+                    }
+                ]
+            },
+            {
+                "given": "Oliver",
+                "family": "Glauser",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "ETH Zurich"
+                    }
+                ]
+            },
+            {
+                "given": "C\u00e9dric",
+                "family": "Pradalier",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "GeorgiaTech Lorraine"
+                    }
+                ]
+            },
+            {
+                "given": "Otmar",
+                "family": "Hilliges",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "ETH Zurich"
+                    }
+                ]
+            },
+            {
+                "given": "Olga",
+                "family": "Sorkine-Hornung",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "ETH Zurich"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "author": "Ando Y.",
+                "volume-title": "Proc. APCHI."
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/2185520.2185543",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/1276377.1276467",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/1531326.1531342",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/1409060.1409077",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1111/j.1467-8659.2012.03034.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/2366145.2366149",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "Celsys Inc. 2013. QUMARION. http://www.clip-studio.com.  Celsys Inc. 2013. QUMARION. http://www.clip-studio.com."
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/2380116.2380171",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/882262.882285",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/199404.199424",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "author": "Feng T.-C.",
+                "volume-title": "Proc. ICPR, 1--4."
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/2380116.2380170",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/1531326.1531367",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/258549.258715",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/174630.174631",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/2010324.1964973",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "unstructured": "Jacobson A. Panozzo D. etal 2013. libigl: A simple C++ geometry processing library. http://igl.ethz.ch/projects/libigl/.  Jacobson A. Panozzo D. et al. 2013. libigl: A simple C++ geometry processing library. http://igl.ethz.ch/projects/libigl/."
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "author": "Johnson M. P.",
+                "volume-title": "Proc. CHI."
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1107/S0567739476001873",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/223904.223943",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "unstructured": "Kuhn H. W. 1955. The hungarian method for the assignment problem. Naval research logistics quarterly 2 1--2 83--97.  Kuhn H. W. 1955. The hungarian method for the assignment problem. Naval research logistics quarterly 2 1--2 83--97.",
+                "DOI": "10.1002/nav.3800020109",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1109/TVCG.2012.61",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "Melexis Sys. 2013. MLX90316 DataSheet.  Melexis Sys. 2013. MLX90316 DataSheet."
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "unstructured": "Oikonomidis I. Kyriazis N. and Argyros A. A. 2012. Tracking the Articulated Motion of Two Strongly Interacting Hands. In IEEE CVPR.   Oikonomidis I. Kyriazis N. and Argyros A. A. 2012. Tracking the Articulated Motion of Two Strongly Interacting Hands. In IEEE CVPR .",
+                "DOI": "10.1109/CVPR.2012.6247885",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "author": "Oore S.",
+                "volume-title": "Proc. Graphics Interface, 133--140"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/985692.985774",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "unstructured": "Romero J. Kjellstrom H. and Kragic D. 2010. Hands in action: real-time 3D reconstruction of hands in interaction with objects. In IEEE ICRA 458--463.  Romero J. Kjellstrom H. and Kragic D. 2010. Hands in action: real-time 3D reconstruction of hands in interaction with objects. In IEEE ICRA 458--463.",
+                "DOI": "10.1109/ROBOT.2010.5509753",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/2485895.2485903",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "unstructured": "Shim B. 2010. Best student project prize talk: The wonder hospital. SIGGRAPH Computer Animation Festival.  Shim B. 2010. Best student project prize talk: The wonder hospital. SIGGRAPH Computer Animation Festival ."
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "unstructured": "Shiratori T. Mahler M. Trezevant W. and Hodgins J. K. 2013. Expressing animated performances through puppeteering. In 3DUI IEEE 59--66.  Shiratori T. Mahler M. Trezevant W. and Hodgins J. K. 2013. Expressing animated performances through puppeteering. In 3DUI IEEE 59--66.",
+                "DOI": "10.1109/3DUI.2013.6550198",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/238218.238281",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "author": "Shoemake K.",
+                "year": "1992",
+                "volume-title": "Proc. CGI."
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/2398356.2398381",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "author": "Sorkine O.",
+                "volume-title": "Proc. SGP, 109--116"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1109/ICCV.2013.305",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/1015706.1015736",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1111/j.1467-8659.2012.03178.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/1531326.1531369",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1145/1347390.1347402",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1145/1978942.1979034",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601112&amp;ftid=1488890&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:47:42Z",
+            "timestamp": 1586000862000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 41,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601112"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601112",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

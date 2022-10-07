@@ -1,0 +1,277 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    8
+                ]
+            ],
+            "date-time": "2020-04-08T15:43:48Z",
+            "timestamp": 1586360628517
+        },
+        "reference-count": 18,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100000781",
+                "name": "European Research Council",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "ShapeForge (StG-2012-307877)"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601153",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-10",
+        "source": "Crossref",
+        "is-referenced-by-count": 70,
+        "title": [
+            "Bridging the gap"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "J\u00e9r\u00e9mie",
+                "family": "Dumas",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Universit\u00e9 de Lorraine, INRIA"
+                    }
+                ]
+            },
+            {
+                "given": "Jean",
+                "family": "Hergel",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "INRIA, Universit\u00e9 de Lorraine"
+                    }
+                ]
+            },
+            {
+                "given": "Sylvain",
+                "family": "Lefebvre",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "INRIA, Universit\u00e9 de Lorraine"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1016/S0010-4485(97)00083-3",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "Allaire G. 2006. Conception optimale de structures. Springer. ISBN 3-540-36710-1.  Allaire G. 2006. Conception optimale de structures . Springer. ISBN 3-540-36710-1."
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "unstructured": "Allen S. and Dutta D. 1995. Determination and evaluation of support structures in layered manufacturing.  Allen S. and Dutta D. 1995. Determination and evaluation of support structures in layered manufacturing."
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "Allison J. W. Chen T. P. Cohen A. L. Smalley D. R. Snead D. E. and Vorgitch T. J. 1988. Boolean layer comparison slice. US Patent 5854748 3D Systems Inc.  Allison J. W. Chen T. P. Cohen A. L. Smalley D. R. Snead D. E. and Vorgitch T. J. 1988. Boolean layer comparison slice. US Patent 5854748 3D Systems Inc."
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "author": "Chalasani K.",
+                "volume-title": "Solid Freeform Fabrication Symposium, 229--241"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1108/13552549510104429",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "unstructured": "Eggers G. and Renap K. 2007. Method and apparatus for automatic support generation for an object made by means of a rapid prototype production method. US Patent 20100228369 Materialize.  Eggers G. and Renap K. 2007. Method and apparatus for automatic support generation for an object made by means of a rapid prototype production method. US Patent 20100228369 Materialize."
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1007/BF00124677",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "Heide E. 2011. Method for generating and building support structures with deposition-based digital manufacturing systems 07. US Patent 20110178621 A1.  Heide E. 2011. Method for generating and building support structures with deposition-based digital manufacturing systems 07. US Patent 20110178621 A1."
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1016/S1007-0214(09)70096-3",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1007/s00170-008-1675-2",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "unstructured": "Kritchman E. Gothait H. and Miller G. 2008. System and method for printing and supporting three dimensional objects 04. US Patent 7364686.  Kritchman E. Gothait H. and Miller G. 2008. System and method for printing and supporting three dimensional objects 04. US Patent 7364686."
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1016/S0925-7721(99)00002-4",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/2461912.2461957",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/566654.566580",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/2185520.2185544",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1007/s00170-012-4403-x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/2508363.2508382",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601153&amp;ftid=1488906&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:55:27Z",
+            "timestamp": 1586001327000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "automated steady scaffoldings for 3D printing"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 18,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601153"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601153",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

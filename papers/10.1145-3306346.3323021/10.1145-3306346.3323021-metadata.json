@@ -1,0 +1,374 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2020-07-12T19:40:18Z",
+            "timestamp": 1594582818488
+        },
+        "reference-count": 38,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2019,
+                            7,
+                            12
+                        ]
+                    ],
+                    "date-time": "2019-07-12T00:00:00Z",
+                    "timestamp": 1562889600000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100008952",
+                "name": "Agence Nationale pour le D\u00e9veloppement de la Recherche Universitaire",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "ANR-16-CE23-0009"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "DOI": "10.1145/3306346.3323021",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2019-07-12T19:04:08Z",
+            "timestamp": 1562958248000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 1,
+        "title": [
+            "SPOT"
+        ],
+        "prefix": "10.1145",
+        "volume": "38",
+        "author": [
+            {
+                "given": "Nicolas",
+                "family": "Bonneel",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Univ. Lyon, CNRS"
+                    }
+                ]
+            },
+            {
+                "given": "David",
+                "family": "Coeurjolly",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Univ. Lyon, CNRS"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "Martin Arjovsky Soumith Chintala and L\u00e9on Bottou. 2017. Wasserstein GAN. (2017). arXiv:1701.07875.  Martin Arjovsky Soumith Chintala and L\u00e9on Bottou. 2017. Wasserstein GAN. (2017). arXiv:1701.07875."
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "unstructured": "Jean-David Benamou. 2003. Numerical resolution of an \"unbalanced\" mass transport problem. ESAIM: Mathematical Modelling and Numerical Analysis 37 5 (2003).  Jean-David Benamou. 2003. Numerical resolution of an \"unbalanced\" mass transport problem. ESAIM: Mathematical Modelling and Numerical Analysis 37 5 (2003).",
+                "DOI": "10.1051/m2an:2003058",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1007/s10851-014-0506-3",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/2461912.2461939",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/2070781.2024192",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "author": "Charter Kevin",
+                "year": "2000",
+                "volume-title": "International conference on mathematics and engineering techniques in medicine and biological sciences. 239--245"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "Lenaic Chizat Gabriel Peyr\u00e9 Bernhard Schmitzer and Fran\u00e7ois-Xavier Vialard. 2016. Scaling Algorithms for Unbalanced Transport Problems. Math. Comp. 87 (07 2016).  Lenaic Chizat Gabriel Peyr\u00e9 Bernhard Schmitzer and Fran\u00e7ois-Xavier Vialard. 2016. Scaling Algorithms for Unbalanced Transport Problems. Math. Comp. 87 (07 2016)."
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1109/CVPR.2018.00367",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1109/ICIP.2007.4379798",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "Alessio Figalli. 2010. The optimal partial transport problem. Archive for rational mechanics and analysis 195 2 (2010) 533--560.  Alessio Figalli. 2010. The optimal partial transport problem. Archive for rational mechanics and analysis 195 2 (2010) 533--560.",
+                "DOI": "10.1007/s00205-008-0212-7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.3115/112405.112428",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "Xianfeng Gu Feng Luo Jian Sun and S-T Yau. 2013. Variational principles for Minkowski type problems discrete optimal transport and discrete Monge-Ampere equations. arXiv:1302.5472 (2013).  Xianfeng Gu Feng Luo Jian Sun and S-T Yau. 2013. Variational principles for Minkowski type problems discrete optimal transport and discrete Monge-Ampere equations. arXiv:1302.5472 (2013)."
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/360825.360861",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "unstructured": "Berthold KP Horn Hugh M Hilden and Shahriar Negahdaripour. 1988. Closed-form solution of absolute orientation using orthonormal matrices. JOSA A 5 7 (1988).  Berthold KP Horn Hugh M Hilden and Shahriar Negahdaripour. 1988. Closed-form solution of absolute orientation using orthonormal matrices. JOSA A 5 7 (1988)."
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1109/ICASSP.2006.1661259",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "Jun Kitagawa Quentin M\u00e9rigot and Boris Thibert. 2016. Convergence of a Newton algorithm for semi-discrete optimal transport. arXiv:1603.05579 (2016).  Jun Kitagawa Quentin M\u00e9rigot and Boris Thibert. 2016. Convergence of a Newton algorithm for semi-discrete optimal transport. arXiv:1603.05579 (2016)."
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "unstructured": "Soheil Kolouri Charles E Martin and Gustavo K Rohde. 2018. Sliced-Wasserstein Autoencoder: An Embarrassingly Simple Generative Model. arXiv:1804.01947 (2018).  Soheil Kolouri Charles E Martin and Gustavo K Rohde. 2018. Sliced-Wasserstein Autoencoder: An Embarrassingly Simple Generative Model. arXiv:1804.01947 (2018)."
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1109/CVPR.2016.568",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "author": "Levenshtein Vladimir I",
+                "volume-title": "Soviet physics doklady"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "Bruno L\u00e9vy. 2015. A Numerical Algorithm for L2 semi-discrete optimal transport in 3D. ESAIM M2AN (Mathematical Modeling and Numerical Analysis) (2015).  Bruno L\u00e9vy. 2015. A Numerical Algorithm for L2 semi-discrete optimal transport in 3D. ESAIM M2AN (Mathematical Modeling and Numerical Analysis) (2015).",
+                "DOI": "10.1051/m2an/2015055",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "author": "Lu Tyler",
+                "year": "2015",
+                "volume-title": "Value-Directed Compression of Large-Scale Assignment Problems. In AAAI Conf. on Artificial Intelligence."
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "Quentin M\u00e9rigot. 2011. A Multiscale Approach to Optimal Transport. Computer Graphics Forum (2011).  Quentin M\u00e9rigot. 2011. A Multiscale Approach to Optimal Transport. Computer Graphics Forum (2011).",
+                "DOI": "10.1111/j.1467-8659.2011.02032.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/3272127.3275091",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1007/s11263-007-0110-8",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "unstructured": "Gabriel Peyr\u00e9 Marco Cuturi etal 2017. Computational optimal transport. arXiv:1803.00567 (2017).  Gabriel Peyr\u00e9 Marco Cuturi et al. 2017. Computational optimal transport. arXiv:1803.00567 (2017)."
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1109/ICCV.2005.166",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1016/j.cviu.2006.11.011",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1109/ICIP.2010.5650823",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1109/ICIP.2014.7025983",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1007/978-3-642-24785-9_37",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "unstructured": "Filippo Santambrogio. 2015. Optimal transport for applied mathematicians. Birk\u00e4user NY (2015).  Filippo Santambrogio. 2015. Optimal transport for applied mathematicians. Birk\u00e4user NY (2015).",
+                "DOI": "10.1007/978-3-319-20828-2",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1007/BF02289451",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1145/2766963",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1145/62.2160",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1109/34.88573",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "unstructured": "C\u00e9dric Villani. 2003. Topics in optimal transportation. American Mathematical Soc.  C\u00e9dric Villani. 2003. Topics in optimal transportation. American Mathematical Soc.",
+                "DOI": "10.1090/gsm/058",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1109/ICCV.2013.184",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1109/ICIP.2003.1246775",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3323021&ftid=2071719&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2020-07-12T19:14:50Z",
+            "timestamp": 1594581290000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "sliced partial optimal transport"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "references-count": 38,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        12
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3306346.3323021"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3306346.3323021",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

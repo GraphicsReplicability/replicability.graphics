@@ -1,0 +1,427 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T02:11:28Z",
+            "timestamp": 1585966288057
+        },
+        "reference-count": 41,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "name": "ICT R&D program of MSIP/IITP",
+                "award": [
+                    "R0101-15-284"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925983",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 26,
+        "title": [
+            "Rich360"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Jungjin",
+                "family": "Lee",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "KAIST"
+                    }
+                ]
+            },
+            {
+                "given": "Bumki",
+                "family": "Kim",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "KAIST"
+                    }
+                ]
+            },
+            {
+                "given": "Kyehyun",
+                "family": "Kim",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "KAIST"
+                    }
+                ]
+            },
+            {
+                "given": "Younghui",
+                "family": "Kim",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "KAI Co., Inc."
+                    }
+                ]
+            },
+            {
+                "given": "Junyong",
+                "family": "Noh",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "KAIST"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1111/cgf.12289",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "first-page": "25",
+                "article-title": "High accuracy optical flow estimation based on a theory for warping",
+                "volume": "2004",
+                "author": "Brox T.",
+                "year": "2004",
+                "journal-title": "Computer Vision-ECCV"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/1531326.1531349",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/1778765.1778864",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1109/ICCV.2013.351",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1109/CVPR.2014.422",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/2487228.2487238",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/2766945",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "Hartley R. and Zisserman A. 2003. Multiple view geometry in computer vision. Cambridge university press.   Hartley R. and Zisserman A. 2003. Multiple view geometry in computer vision. Cambridge university press.",
+                "DOI": "10.1017/CBO9780511811685",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/2461912.2462004",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "Igarashi T. Moscovich T. and Hughes J. F. 2005. As-rigid-as-possible shape manipulation. ACM transactions on Graphics (TOG) 24 3 1134--1141. 10.1145/1073204.1073323   Igarashi T. Moscovich T. and Hughes J. F. 2005. As-rigid-as-possible shape manipulation. ACM transactions on Graphics (TOG) 24 3 1134--1141. 10.1145/1073204.1073323",
+                "DOI": "10.1145/1073204.1073323",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "author": "Jiang W.",
+                "volume-title": "Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops, 42--48"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1111/j.1467-8659.2009.01485.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/1618452.1618472",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/1778765.1778812",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "author": "Li B.",
+                "volume-title": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 1301--1307"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1109/ICCV.2015.487",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1109/CVPR.2011.5995314",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "author": "Lin C.-C.",
+                "volume-title": "Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 1155--1163"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/1531326.1531350",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/2461912.2461995",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "unstructured": "Lowe D. G. 2004. Distinctive image features from scale-invariant keypoints. International journal of computer vision 60 2 91--110. 10.1023/B:VISI.0000029664.99615.94   Lowe D. G. 2004. Distinctive image features from scale-invariant keypoints. International journal of computer vision 60 2 91--110. 10.1023/B:VISI.0000029664.99615.94",
+                "DOI": "10.1023/B:VISI.0000029664.99615.94",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "author": "Mei C.",
+                "volume-title": "IEEE International Conference on Robotics and Automation, 3945--3950"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "Panozzo D. Weber O. and Sorkine O. 2012. Robust image retargeting via axis-aligned deformation. Computer Graphics Forum 31 2pt1 229--236. 10.1111/j.1467-8659.2012.03001.x   Panozzo D. Weber O. and Sorkine O. 2012. Robust image retargeting via axis-aligned deformation. Computer Graphics Forum 31 2pt1 229--236. 10.1111/j.1467-8659.2012.03001.x",
+                "DOI": "10.1111/j.1467-8659.2012.03001.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1111/cgf.12541",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1109/CVPR.2013.166",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "unstructured": "Shum H.-Y. Chan S.-C. and Kang S. B. 2008. Image-based rendering. Springer Science & Business Media.   Shum H.-Y. Chan S.-C. and Kang S. B. 2008. Image-based rendering. Springer Science & Business Media."
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "unstructured": "Szeliski R. 2006. Image alignment and stitching: A tutorial. Foundations and Trends\u00ae in Computer Graphics and Vision 2 1 1--104. 10.1561/0600000009   Szeliski R. 2006. Image alignment and stitching: A tutorial. Foundations and Trends \u00ae in Computer Graphics and Vision 2 1 1--104. 10.1561/0600000009",
+                "DOI": "10.1561/0600000009",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1109/MCG.2004.1297011",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "author": "Viola P.",
+                "volume": "1",
+                "volume-title": "Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1111/1467-8659.00334",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1109/TPAMI.2008.300",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/1618452.1618473",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/1778765.1778827",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1109/TVCG.2013.11",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "unstructured": "Xu W. and Mulligan J. 2013. Panoramic video stitching from commodity hdtv cameras. Multimedia systems 19 5 407--426. 10.1007/s00530-013-0316-2   Xu W. and Mulligan J. 2013. Panoramic video stitching from commodity hdtv cameras. Multimedia systems 19 5 407--426. 10.1007/s00530-013-0316-2",
+                "DOI": "10.1007/s00530-013-0316-2",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "unstructured": "Yildirim G. and Susstrunk S. 2015. Fasa: fast accurate and size-aware salient object detection. In Computer Vision-ACCV2014. 514--528.  Yildirim G. and Susstrunk S. 2015. Fasa: fast accurate and size-aware salient object detection. In Computer Vision-ACCV2014. 514--528.",
+                "DOI": "10.1007/978-3-319-16811-1_34",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1109/TPAMI.2013.247",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1109/ICCV.2005.231",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1109/CVPR.2014.423",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1109/TIP.2011.2162743",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925983&amp;ftid=1755910&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:38:59Z",
+            "timestamp": 1585964339000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "optimized spherical representation from structured panoramic camera arrays"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 41,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925983"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925983",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

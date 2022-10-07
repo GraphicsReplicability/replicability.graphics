@@ -1,0 +1,412 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    4
+                ]
+            ],
+            "date-time": "2020-07-04T00:11:23Z",
+            "timestamp": 1593821483263
+        },
+        "reference-count": 42,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2019,
+                            7,
+                            12
+                        ]
+                    ],
+                    "date-time": "2019-07-12T00:00:00Z",
+                    "timestamp": 1562889600000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "DOI": "10.1145/3306346.3322964",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2019-07-12T19:04:08Z",
+            "timestamp": 1562958248000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+            "Using moments to represent bounded signals for spectral rendering"
+        ],
+        "prefix": "10.1145",
+        "volume": "38",
+        "author": [
+            {
+                "given": "Christoph",
+                "family": "Peters",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Karlsruhe Institute of Technology, Germany"
+                    }
+                ]
+            },
+            {
+                "given": "Sebastian",
+                "family": "Merzbach",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Bonn, Germany"
+                    }
+                ]
+            },
+            {
+                "given": "Johannes",
+                "family": "Hanika",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Karlsruhe Institute of Technology and Weta Digital, Germany"
+                    }
+                ]
+            },
+            {
+                "given": "Carsten",
+                "family": "Dachsbacher",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Karlsruhe Institute of Technology, Germany"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "author": "Aeschbacher Jonas",
+                "year": "2017",
+                "volume-title": "2017 IEEE International Conference on Computer Vision Workshops (ICCVW). IEEE, 471--479"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/3072959.3073620",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "unstructured": "Nir Benty Kai-Hwa Yao Tim Foley Conor Lavelle and Chris Wyman. 2018. The Falcor Rendering Framework 3.2. https://github.com/NVIDIAGameWorks/Falcor  Nir Benty Kai-Hwa Yao Tim Foley Conor Lavelle and Chris Wyman. 2018. The Falcor Rendering Framework 3.2. https://github.com/NVIDIAGameWorks/Falcor"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/1477926.1477931",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "John Parker Burg. 1975. Maximum Entropy Spectral Analysis. Ph.D. dissertation. Stanford University Department of Geophysics. http://sepwww.stanford.edu/data/media/public/oldreports/sep06/  John Parker Burg. 1975. Maximum Entropy Spectral Analysis. Ph.D. dissertation. Stanford University Department of Geophysics. http://sepwww.stanford.edu/data/media/public/oldreports/sep06/"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/2701416",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1111/cgf.12418",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/3084873.3084904",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1111/j.1467-8659.2010.01735.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1109/38.31468",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "Gene H. Golub and Charles F. Van Loan. 2012. Matrix Computations Fourth Edition. The Johns Hopkins University Press. https://jhupbooks.press.jhu.edu/content/matrix-computations-0  Gene H. Golub and Charles F. Van Loan. 2012. Matrix Computations Fourth Edition. The Johns Hopkins University Press. https://jhupbooks.press.jhu.edu/content/matrix-computations-0"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1007/978-3-319-65810-0",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1364/JOSAA.25.002444",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Wenzel Jakob and Johannes Hanika. 2019. A Low-Dimensional Function Space for Efficient Spectral Upsampling. Computer Graphics Forum 38 2 (2019).  Wenzel Jakob and Johannes Hanika. 2019. A Low-Dimensional Function Space for Efficient Spectral Upsampling. Computer Graphics Forum 38 2 (2019)."
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1109/TAC.2013.2251775",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/2421636.2421646",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "I. V. Kovalishina and Vladimir Petrovich Potapov. 1982. Integral representation of Hermitian positive functions. Hokkaido University Sapporo Japan. https://gso.gbv.de/DB=2.1/PPNSET?PPN=014282208 Private translation by Tsuyoshi Ando of a Russian monograph. Copies were gifted to several libraries.  I. V. Kovalishina and Vladimir Petrovich Potapov. 1982. Integral representation of Hermitian positive functions. Hokkaido University Sapporo Japan. https://gso.gbv.de/DB=2.1/PPNSET?PPN=014282208 Private translation by Tsuyoshi Ando of a Russian monograph. Copies were gifted to several libraries."
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1002/cav.1755",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "author": "Kre\u012dn Mark Grigorievich",
+                "volume": "50",
+                "year": "1977",
+                "volume-title": "Translations of Mathematical Monographs"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/3072959.3073665",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "author": "MacAdam David L.",
+                "volume": "25",
+                "year": "1935",
+                "article-title": "Maximum Visual Efficiency of Colored Materials",
+                "journal-title": "J. Opt. Soc. Am."
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "author": "MacAdam David L.",
+                "volume": "25",
+                "year": "1935",
+                "article-title": "The Theory of the Maximum Visual Efficiency of Colored Materials",
+                "journal-title": "J. Opt. Soc. Am."
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1007/BF01445804",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "Johannes Meng Florian Simon Johannes Hanika and Carsten Dachsbacher. 2015. Physically Meaningful Rendering using Tristimulus Colours. Computer Graphics Forum 34 4 (2015).   Johannes Meng Florian Simon Johannes Hanika and Carsten Dachsbacher. 2015. Physically Meaningful Rendering using Tristimulus Colours. Computer Graphics Forum 34 4 (2015)."
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1111/cgf.13477",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/3203206",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1111/cgf.13332",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "author": "Park Jong-Il",
+                "volume-title": "Multispectral Imaging Using Multiplexed Illumination. In IEEE 11th International Conference on Computer Vision. 1--8."
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/166117.166142",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/2816795.2818103",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/2699276.2699277",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "first-page": "17",
+                "article-title": "Improved Moment Shadow Maps for Translucent Occluders, Soft Shadows and Single Scattering",
+                "volume": "6",
+                "author": "Peters Christoph",
+                "year": "2017",
+                "journal-title": "Journal of Computer Graphics Techniques (JCGT)"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "unstructured": "Victor Petitjean Pablo Bauszat and Elmar Eisemann. 2018. Spectral Gradient Sampling for Path Tracing. Computer Graphics Forum 37 4 (2018).  Victor Petitjean Pablo Bauszat and Elmar Eisemann. 2018. Spectral Gradient Sampling for Path Tracing. Computer Graphics Forum 37 4 (2018)."
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "first-page": "9",
+                "article-title": "An Improved Technique for Full Spectral Rendering",
+                "volume": "17",
+                "author": "Radziszewski Michal",
+                "year": "2009",
+                "journal-title": "Journal of WSCG"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1145/3231578.3231585",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1080/10867651.1999.10487511",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/3272127.3275077",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1145/3012001",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/3150165.3150167",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1109/TPAMI.1987.4767868",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "unstructured": "Alexander Wilkie Sehera Nawaz Marc Droske Andrea Weidlich and Johannes Hanika. 2014. Hero Wavelength Spectral Sampling. Computer Graphics Forum 33 4 (2014).  Alexander Wilkie Sehera Nawaz Marc Droske Andrea Weidlich and Johannes Hanika. 2014. Hero Wavelength Spectral Sampling. Computer Graphics Forum 33 4 (2014).",
+                "DOI": "10.1111/cgf.12419",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1145/3197517.3201351",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3322964&ftid=2071668&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    3
+                ]
+            ],
+            "date-time": "2020-07-03T23:30:07Z",
+            "timestamp": 1593819007000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "references-count": 42,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        12
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3306346.3322964"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3306346.3322964",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

@@ -1,0 +1,356 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:55Z",
+            "timestamp": 1585962715344
+        },
+        "reference-count": 31,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201285",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 14,
+        "title": [
+            "Non-stationary texture synthesis by adversarial expansion"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Yang",
+                "family": "Zhou",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Shenzhen University and Huazhong University of Science &amp; Technology"
+                    }
+                ]
+            },
+            {
+                "given": "Zhen",
+                "family": "Zhu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Huazhong University of Science and Technology"
+                    }
+                ]
+            },
+            {
+                "given": "Xiang",
+                "family": "Bai",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Huazhong University of Science and Technology"
+                    }
+                ]
+            },
+            {
+                "given": "Dani",
+                "family": "Lischinski",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "The Hebrew University of Jerusalem"
+                    }
+                ]
+            },
+            {
+                "given": "Daniel",
+                "family": "Cohen-Or",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shenzhen University and Tel Aviv University"
+                    }
+                ]
+            },
+            {
+                "given": "Hui",
+                "family": "Huang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shenzhen University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "Urs Bergmann Nikolay Jetchev and Roland Vollgraf. 2017. Learning Texture Manifolds with the Periodic Spatial GAN. CoRR abs/1705.06566 (2017).  Urs Bergmann Nikolay Jetchev and Roland Vollgraf. 2017. Learning Texture Manifolds with the Periodic Spatial GAN. CoRR abs/1705.06566 (2017)."
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/2185520.2185578",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/383259.383296",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "author": "Alexei",
+                "year": "1999",
+                "volume-title": "Proc. ICCV '99 2"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "L.A. Gatys A.S. Ecker and M. Bethge. 2015a. Texture Synthesis Using Convolutional Neural Networks. Advances in Neural Information Processing Systems 28 (May 2015) 262--270. http://arxiv.org/abs/1505.07376   L.A. Gatys A.S. Ecker and M. Bethge. 2015a. Texture Synthesis Using Convolutional Neural Networks. Advances in Neural Information Processing Systems 28 (May 2015) 262--270. http://arxiv.org/abs/1505.07376"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "unstructured": "Leon A. Gatys Alexander S. Ecker and Matthias Bethge. 2015b. A Neural Algorithm of Artistic Style. CoRR abs/1508.06576 (Aug 2015). http://arxiv.org/abs/1508.06576  Leon A. Gatys Alexander S. Ecker and Matthias Bethge. 2015b. A Neural Algorithm of Artistic Style. CoRR abs/1508.06576 (Aug 2015). http://arxiv.org/abs/1508.06576"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "unstructured": "Ian J. Goodfellow Jean Pouget-Abadie Mehdi Mirza Bing Xu David Warde-Farley Sherjil Ozair Aaron Courville and Yoshua Bengio. 2014. Generative Adversarial Networks. CoRR abs/1406.2661 (June 2014). https://arxiv.org/abs/1406.2661  Ian J. Goodfellow Jean Pouget-Abadie Mehdi Mirza Bing Xu David Warde-Farley Sherjil Ozair Aaron Courville and Yoshua Bengio. 2014. Generative Adversarial Networks. CoRR abs/1406.2661 (June 2014). https://arxiv.org/abs/1406.2661"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1109/CVPR.2016.90",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/383259.383295",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "Phillip Isola Jun-Yan Zhu Tinghui Zhou and Alexei A. Efros. 2016. Image-to-Image Translation with Conditional Adversarial Networks. CoRR abs/1611.07004 (2016). arXiv:1611.07004 http://arxiv.org/abs/1611.07004  Phillip Isola Jun-Yan Zhu Tinghui Zhou and Alexei A. Efros. 2016. Image-to-Image Translation with Conditional Adversarial Networks. CoRR abs/1611.07004 (2016). arXiv:1611.07004 http://arxiv.org/abs/1611.07004"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1109/CVPR.2017.632",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "unstructured": "Nikolay Jetchev Urs Bergmann and Roland Vollgraf. 2016. Texture Synthesis with Spatial Generative Adversarial Networks. CoRR abs/1611.08207 (2016).  Nikolay Jetchev Urs Bergmann and Roland Vollgraf. 2016. Texture Synthesis with Spatial Generative Adversarial Networks. CoRR abs/1611.08207 (2016)."
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1007/978-3-319-46475-6_43",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1111/cgf.12565",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "unstructured": "Diederik P. Kingma and Jimmy Ba. 2014. Adam: A Method for Stochastic Optimization. CoRR abs/1412.6980 (2014). arXiv:1412.6980 http://arxiv.org/abs/1412.6980  Diederik P. Kingma and Jimmy Ba. 2014. Adam: A Method for Stochastic Optimization. CoRR abs/1412.6980 (2014). arXiv:1412.6980 http://arxiv.org/abs/1412.6980"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/1073204.1073263",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/882262.882264",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "unstructured": "Christian Ledig Lucas Theis Ferenc Huszar Jose Caballero Andrew P. Aitken Alykhan Tejani Johannes Totz Zehan Wang and Wenzhe Shi. 2016. Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network. CoRR abs/1609.04802 (2016). arXiv:1609.04802 http://arxiv.org/abs/1609.04802  Christian Ledig Lucas Theis Ferenc Huszar Jose Caballero Andrew P. Aitken Alykhan Tejani Johannes Totz Zehan Wang and Wenzhe Shi. 2016. Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network. CoRR abs/1609.04802 (2016). arXiv:1609.04802 http://arxiv.org/abs/1609.04802"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/1141911.1141921",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1007/978-3-319-46487-9_43",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/1015706.1015731",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/1618452.1618453",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/3015461",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "Karen Simonyan and Andrew Zisserman. 2014. Very Deep Convolutional Networks for Large-Scale Image Recognition. CoRR abs/1409.1556 (2014). arXiv:1409.1556 http://arxiv.org/abs/1409.1556  Karen Simonyan and Andrew Zisserman. 2014. Very Deep Convolutional Networks for Large-Scale Image Recognition. CoRR abs/1409.1556 (2014). arXiv:1409.1556 http://arxiv.org/abs/1409.1556"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "unstructured": "Dmitry Ulyanov Vadim Lebedev Andrea Vedaldi and Victor S. Lempitsky. 2016. Texture Networks: Feed-forward Synthesis of Textures and Stylized Images. CoRR abs/1603.03417 (2016). arXiv:1603.03417 http://arxiv.org/abs/1603.03417  Dmitry Ulyanov Vadim Lebedev Andrea Vedaldi and Victor S. Lempitsky. 2016. Texture Networks: Feed-forward Synthesis of Textures and Stylized Images. CoRR abs/1603.03417 (2016). arXiv:1603.03417 http://arxiv.org/abs/1603.03417"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "unstructured": "Li-Yi Wei Sylvain Lefebvre Vivek Kwatra and Greg Turk. 2009. State of the Art in Example-based Texture Synthesis. In Eurographics 2009 State of The Art Reports. Eurographics.  Li-Yi Wei Sylvain Lefebvre Vivek Kwatra and Greg Turk. 2009. State of the Art in Example-based Texture Synthesis. In Eurographics 2009 State of The Art Reports. Eurographics."
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/344779.345009",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1109/TPAMI.2007.60",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/882262.882266",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "unstructured": "Yang Zhou Huajie Shi Dani Lischinski Minglun Gong Johannes Kopf and Hui Huang. 2017. Analysis and Controlled Synthesis of Inhomogeneous Textures. Computer Graphics Forum (Proc. Eurographics 2017) 36 2 (2017). 10.1111/cgf.13119   Yang Zhou Huajie Shi Dani Lischinski Minglun Gong Johannes Kopf and Hui Huang. 2017. Analysis and Controlled Synthesis of Inhomogeneous Textures. Computer Graphics Forum (Proc. Eurographics 2017) 36 2 (2017). 10.1111/cgf.13119",
+                "DOI": "10.1111/cgf.13119",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "unstructured": "Jun-Yan Zhu Taesung Park Phillip Isola and Alexei A. Efros. 2017. Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks. CoRR abs/1703.10593 (2017). arXiv:1703.10593 http://arxiv.org/abs/1703.10593  Jun-Yan Zhu Taesung Park Phillip Isola and Alexei A. Efros. 2017. Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks. CoRR abs/1703.10593 (2017). arXiv:1703.10593 http://arxiv.org/abs/1703.10593"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201285&ftid=1991672&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:54:50Z",
+            "timestamp": 1585961690000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 31,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201285"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201285",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

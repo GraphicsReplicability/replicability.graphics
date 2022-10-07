@@ -1,0 +1,481 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    13
+                ]
+            ],
+            "date-time": "2020-07-13T12:26:29Z",
+            "timestamp": 1594643189051
+        },
+        "reference-count": 60,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2019,
+                            7,
+                            12
+                        ]
+                    ],
+                    "date-time": "2019-07-12T00:00:00Z",
+                    "timestamp": 1562889600000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "DOI": "10.1145/3306346.3323014",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2019-07-12T19:04:08Z",
+            "timestamp": 1562958248000
+        },
+        "page": "1-15",
+        "source": "Crossref",
+        "is-referenced-by-count": 1,
+        "title": [
+            "Anisotropic elasticity for inversion-safety and element rehabilitation"
+        ],
+        "prefix": "10.1145",
+        "volume": "38",
+        "author": [
+            {
+                "given": "Theodore",
+                "family": "Kim",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Pixar Animation Studios"
+                    }
+                ]
+            },
+            {
+                "given": "Fernando",
+                "family": "De Goes",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Pixar Animation Studios"
+                    }
+                ]
+            },
+            {
+                "given": "Hayley",
+                "family": "Iben",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Pixar Animation Studios"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1016/j.jbiomech.2008.07.008",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/344779.344859",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/280814.280821",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/1073204.1073300",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/1276377.1276397",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "unstructured": "T. Belytschko W. Liu B. Moran and K. Elkhodary. 2013. Nonlinear finite elements for continua and structures. John Wiley & Sons.  T. Belytschko W. Liu B. Moran and K. Elkhodary. 2013. Nonlinear finite elements for continua and structures. John Wiley & Sons."
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1016/j.jbiomech.2004.04.009",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "J. Bonet and R. D. Wood. 2008. Nonlinear continuum mechanics for finite element analysis. Cambridge University Press.  J. Bonet and R. D. Wood. 2008. Nonlinear continuum mechanics for finite element analysis. Cambridge University Press.",
+                "DOI": "10.1017/CBO9780511755446",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/2601097.2601116",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "J. Cai. 2016. Simulating Deformable Models with Anisotropic Materials. Ph.D. Dissertation. Nanyang Technological University.  J. Cai. 2016. Simulating Deformable Models with Anisotropic Materials. Ph.D. Dissertation. Nanyang Technological University."
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1007/s10659-014-9508-z",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/3197517.3201386",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1016/j.jmbbm.2011.05.006",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "author": "Forest C.",
+                "volume-title": "Proceedings of Computer Animation. 225--229"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1109/TVCG.2015.2459687",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "G. H. Golub and C. F. Van Loan. 2012. Matrix computations. Vol. 3. JHU Press.  G. H. Golub and C. F. Van Loan. 2012. Matrix computations. Vol. 3. JHU Press."
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "C. Gonzalez-Ochoa D. Eberle and R. Dressel. 2002. Dynamic Simulation of Wing Motion on \"Reign of Fire\". In ACM SIGGRAPH Sketches. 174--174. 10.1145/1242073.1242187   C. Gonzalez-Ochoa D. Eberle and R. Dressel. 2002. Dynamic Simulation of Wing Motion on \"Reign of Fire\". In ACM SIGGRAPH Sketches. 174--174. 10.1145/1242073.1242187",
+                "DOI": "10.1145/1242073.1242187",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "first-page": "607",
+                "article-title": "Similarities between soft biological tissues and rubberlike materials",
+                "volume": "4",
+                "author": "Holzapfel G.",
+                "year": "2005",
+                "journal-title": "Constitutive Models for Rubber IV"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1023/A:1010835316564",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1016/j.jmps.2005.04.004",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/3197517.3201353",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "unstructured": "H. Iben. 2007. Generating Surface Crack Patterns. Ph.D. Dissertation. University of California Berkeley.   H. Iben. 2007. Generating Surface Crack Patterns. Ph.D. Dissertation. University of California Berkeley."
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/1401032.1401102",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/1028523.1028541",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/2659467.2675048",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1016/S0168-874X(02)00070-7",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/3072959.3073666",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/1276377.1276448",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/1141911.1142013",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/3197517.3201330",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/2661229.2661233",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1109/TVCG.2015.2448105",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1109/TVCG.2016.2620467",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/2990496",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1111/cgf.12941",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1145/2010324.1964932",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "unstructured": "A. Milne M. McLaughlin R. Tamstorf A. Stomakhin N. Burkard M. Counsell J. Canal D. Komorowski and E. Goldberg. 2016. Flesh Flab and Fascia Simulation on Zootopia. In ACM SIGGRAPH Talks. Article 34 2 pages. 10.1145/2897839.2927390   A. Milne M. McLaughlin R. Tamstorf A. Stomakhin N. Burkard M. Counsell J. Canal D. Komorowski and E. Goldberg. 2016. Flesh Flab and Fascia Simulation on Zootopia. In ACM SIGGRAPH Talks. Article 34 2 pages. 10.1145/2897839.2927390",
+                "DOI": "10.1145/2897839.2927390",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1145/1015706.1015734",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "unstructured": "N. Molino R. Bridson J. Teran and R. Fedkiw. 2003. A Crystalline Red Green Strategy for Meshing Highly Deformable Objects with Tetrahedra.. In International Meshing Roundtable. 103--114.  N. Molino R. Bridson J. Teran and R. Fedkiw. 2003. A Crystalline Red Green Strategy for Meshing Highly Deformable Objects with Tetrahedra.. In International Meshing Roundtable. 103--114."
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1016/j.jmbbm.2014.06.016",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "author": "Picinbono G.",
+                "volume-title": "IEEE International Conference on Robotics and Automation. IEEE, 596--602"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "unstructured": "Y. Qiu. 2018. Spectra a C++ Library For Large Scale Eigenvalue Problems. https://spectralib.org.  Y. Qiu. 2018. Spectra a C++ Library For Large Scale Eigenvalue Problems. https://spectralib.org."
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1137/15M1026419",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1145/2766987",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1145/2766957",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "unstructured": "T. Schneider Y. Hu J. Dumas X. Gao D. Panozzo and D. Zorin. 2018. Decoupling Simulation Accuracy from Mesh Quality. ACM Trans. Graph. (2018). 10.1145/3272127.3275067   T. Schneider Y. Hu J. Dumas X. Gao D. Panozzo and D. Zorin. 2018. Decoupling Simulation Accuracy from Mesh Quality. ACM Trans. Graph. (2018). 10.1145/3272127.3275067"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "unstructured": "J. Shewchuk. 2002. What is a good linear finite element? interpolation conditioning anisotropy and quality measures. University of California at Berkeley 73 (2002).  J. Shewchuk. 2002. What is a good linear finite element? interpolation conditioning anisotropy and quality measures. University of California at Berkeley 73 (2002)."
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "DOI": "10.1145/3180491",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "unstructured": "B. Smith F. de Goes and T. Kim. 2019. Analytic Eigensystems For Isotropic Distortion Energies. ACM Trans. Graph. (2019). 10.1145/3241041   B. Smith F. de Goes and T. Kim. 2019. Analytic Eigensystems For Isotropic Distortion Energies. ACM Trans. Graph. (2019). 10.1145/3241041"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "author": "Sorkine O.",
+                "volume": "4",
+                "volume-title": "Eurog. Symposium on Geometry processing"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "author": "Stomakhin A.",
+                "volume-title": "Energetically Consistent Invertible Elasticity. In ACM SIGGRAPH/Eurog. Symp. Comp. Anim. 25--32"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "author": "Teran J.",
+                "volume-title": "SIGGRAPH/Eurog. Symp. on Comp. Anim. 68--74"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "DOI": "10.1145/1073368.1073394",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "DOI": "10.1145/882262.882290",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_55_1",
+                "DOI": "10.1145/3072959.3073655",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_56_1",
+                "DOI": "10.1145/2980179.2980236",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_57_1",
+                "DOI": "10.1016/0045-7825(96)01035-3",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_58_1",
+                "DOI": "10.1145/1360612.1360646",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_59_1",
+                "unstructured": "A. Wong D. Eberle and T. Kim. 2018. Clean Cloth Inputs: Removing Character Self-intersections with Volume Simulation. In ACM SIGGRAPH Talks. Article 42. 10.1145/3214745.3214786   A. Wong D. Eberle and T. Kim. 2018. Clean Cloth Inputs: Removing Character Self-intersections with Volume Simulation. In ACM SIGGRAPH Talks. Article 42. 10.1145/3214745.3214786",
+                "DOI": "10.1145/3214745.3214786",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_60_1",
+                "DOI": "10.1145/2766917",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3323014&ftid=2071644&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2020-07-12T19:26:04Z",
+            "timestamp": 1594581964000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "references-count": 60,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        12
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3306346.3323014"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3306346.3323014",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

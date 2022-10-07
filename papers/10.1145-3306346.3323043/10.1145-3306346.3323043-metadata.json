@@ -1,0 +1,657 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    3
+                ]
+            ],
+            "date-time": "2020-07-03T23:40:33Z",
+            "timestamp": 1593819633968
+        },
+        "reference-count": 91,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2019,
+                            7,
+                            12
+                        ]
+                    ],
+                    "date-time": "2019-07-12T00:00:00Z",
+                    "timestamp": 1562889600000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "DOI": "10.1145/3306346.3323043",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2019-07-12T19:04:08Z",
+            "timestamp": 1562958248000
+        },
+        "page": "1-22",
+        "source": "Crossref",
+        "is-referenced-by-count": 1,
+        "title": [
+            "Weaving geodesic foliations"
+        ],
+        "prefix": "10.1145",
+        "volume": "38",
+        "author": [
+            {
+                "given": "Josh",
+                "family": "Vekhter",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "The University of Texas at Austin"
+                    }
+                ]
+            },
+            {
+                "given": "Jiacheng",
+                "family": "Zhuo",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "The University of Texas at Austin"
+                    }
+                ]
+            },
+            {
+                "given": "Luisa F Gil",
+                "family": "Fandino",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "The University of Texas at Austin"
+                    }
+                ]
+            },
+            {
+                "given": "Qixing",
+                "family": "Huang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "The University of Texas at Austin"
+                    }
+                ]
+            },
+            {
+                "given": "Etienne",
+                "family": "Vouga",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "The University of Texas at Austin"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "Hillel Aharoni Desislava V. Todorova Octavio Albarr\u00e1n Lucas Goehring Randall D. Kamien and Eleni Katifori. 2017. The smectic order of wrinkles. In Nature communications.  Hillel Aharoni Desislava V. Todorova Octavio Albarr\u00e1n Lucas Goehring Randall D. Kamien and Eleni Katifori. 2017. The smectic order of wrinkles. In Nature communications.",
+                "DOI": "10.1038/ncomms15809",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1016/j.cag.2011.03.003",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/1576246.1531384",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/2010324.1964997",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "author": "Aviles Patricio",
+                "volume-title": "Miniconference on geometry/partial differential equations, 2"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "unstructured": "Phil Ayres Alison Grace Martin and Mateusz Zwierzycki. 2018. Beyond the basket case: A principled approach to the modelling of kagome weave patterns for the fabrication of interlaced lattice structures using straight strips. In Advances in Architectural Geometry.  Phil Ayres Alison Grace Martin and Mateusz Zwierzycki. 2018. Beyond the basket case: A principled approach to the modelling of kagome weave patterns for the fabrication of interlaced lattice structures using straight strips. In Advances in Architectural Geometry."
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/2723158",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1111/j.1467-8659.2010.01779.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/1778765.1778853",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/1360612.1360662",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/1179352.1142012",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "author": "Bhatia H.",
+                "volume-title": "2011 IEEE Pacific Visualization Symposium. IEEE"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "E Boeckx and L Vanhecke. 2000. Harmonic and minimal vector fields on tangent and unit tangent bundles. Differential Geometry and its Applications 13 (07 2000) 77--93.  E Boeckx and L Vanhecke. 2000. Harmonic and minimal vector fields on tangent and unit tangent bundles. Differential Geometry and its Applications 13 (07 2000) 77--93.",
+                "DOI": "10.1016/S0926-2245(00)00021-8",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1111/cgf.12014",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/1531326.1531383",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1007/978-3-642-27413-8_12",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "author": "Scientific Boston",
+                "year": "2015",
+                "volume-title": "Innova: Self-expanding nitinol stent system for Superficial Femoral Arterty"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "unstructured": "J. B. Boyling. 1968. Carath\u00e9odory's principle and the existence of global integrating factors. Communications in Mathematical Physics 10 1 (01 Feb 1968) 52--68.  J. B. Boyling. 1968. Carath\u00e9odory's principle and the existence of global integrating factors. Communications in Mathematical Physics 10 1 (01 Feb 1968) 52--68.",
+                "DOI": "10.1007/BF01654133",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1103/PhysRevLett.114.174501",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/2185520.2185606",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/2897824.2925890",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/2661229.2661236",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1111/cgf.12401",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/2537852",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/2661229.2661279",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1111/j.1467-8659.2010.01761.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/2516971.2516977",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/2897826.2927303",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.5555/2771589.2771590",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/2766906",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1007/s00332-008-9035-9",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/3197517.3201375",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/1276377.1276447",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "author": "Fornes Marc",
+                "year": "2017",
+                "volume-title": "World Expo"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1145/2601097.2601106",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1145/227683.227684",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/344779.345074",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "unstructured": "W. S. Howard and V. Kumar. 1993. A minimum principle for the dynamic analysis of systems with frictional contacts. In {1993} Proceedings IEEE International Conference on Robotics and Automation. IEEE Atlanta GA 437--442 vol.3.  W. S. Howard and V. Kumar. 1993. A minimum principle for the dynamic analysis of systems with frictional contacts. In {1993} Proceedings IEEE International Conference on Robotics and Automation. IEEE Atlanta GA 437--442 vol.3."
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "unstructured": "Yuki Igarashi Takeo Igarashi and Hiromasa Suzuki 2008 Knitting a 3D Model. Comput. Graph. Forum 27 (10 2008) 1737--1743.  Yuki Igarashi Takeo Igarashi and Hiromasa Suzuki 2008 Knitting a 3D Model. Comput. Graph. Forum 27 (10 2008) 1737--1743.",
+                "DOI": "10.1111/j.1467-8659.2008.01318.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "unstructured": "Pierre-Emmanuel Jabin Felix Otto and Beno\u00ee t Perthame. 2002. Line-energy Ginzburg-Landau models : zero-energy states. Annali della Scuola Normale Superiore di Pisa - Classe di Scienze Ser. 5 1 1 (2002) 187--202.  Pierre-Emmanuel Jabin Felix Otto and Beno\u00ee t Perthame. 2002. Line-energy Ginzburg-Landau models : zero-energy states. Annali della Scuola Normale Superiore di Pisa - Classe di Scienze Ser. 5 1 1 (2002) 187--202."
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1145/2816795.2818078",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "unstructured": "Felix K\u00e4lberer Matthias Nieser and Konrad Polthier. 2007. QuadCover - Surface Parameterization using Branched Coverings. Comput. Graph. Forum 26 (09 2007) 375--384.  Felix K\u00e4lberer Matthias Nieser and Konrad Polthier. 2007. QuadCover - Surface Parameterization using Branched Coverings. Comput. Graph. Forum 26 (09 2007) 375--384.",
+                "DOI": "10.1111/j.1467-8659.2007.01060.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1145/1399504.1360664",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "unstructured": "W. Klingenberg. 1978. Lectures on Closed Geodesies. Springer-Verlag. https://books.google.com/books?id=t1nvAAAAMAAJ  W. Klingenberg. 1978. Lectures on Closed Geodesies. Springer-Verlag. https://books.google.com/books?id=t1nvAAAAMAAJ"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1145/2461912.2462005",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1145/2767000",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "author": "Kohn Robert",
+                "volume": "1",
+                "year": "2006",
+                "volume-title": "International Congress of Mathematicians, ICM"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "DOI": "10.1145/3272127.3275105",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "unstructured": "Urszula Lewandowska Wojciech Zajaczkowski Stefano Corra Junki Tanabe Ruediger Borrmann Edmondo M. Benetti Sebastian Stappert Kohei Watanabe Nellie A. K. Ochs Robin Schaeublin Chen Li Eiji Yashima Wojciech Pisula Klaus M\u00fcllen and Helma Wennemers. 2017. A triaxial supramolecular weave. Nature Chemistry 9 (24 Jul 2017) 1068 EP -. Article.  Urszula Lewandowska Wojciech Zajaczkowski Stefano Corra Junki Tanabe Ruediger Borrmann Edmondo M. Benetti Sebastian Stappert Kohei Watanabe Nellie A. K. Ochs Robin Schaeublin Chen Li Eiji Yashima Wojciech Pisula Klaus M\u00fcllen and Helma Wennemers. 2017. A triaxial supramolecular weave. Nature Chemistry 9 (24 Jul 2017) 1068 EP -. Article.",
+                "DOI": "10.1038/nchem.2823",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "DOI": "10.5555/2567709.2567755",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "DOI": "10.1145/2870629",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "unstructured": "Thomas Machon Hillel Aharoni Yichen Hu and Randall D. Kamien. 2019. Aspects of Defect Topology in Smectic Liquid Crystals. Communications in Mathematical Physics (20 Feb 2019).  Thomas Machon Hillel Aharoni Yichen Hu and Randall D. Kamien. 2019. Aspects of Defect Topology in Smectic Liquid Crystals. Communications in Mathematical Physics (20 Feb 2019)."
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "unstructured": "Alison Martin. 2018. Alison Grace Martin. http://gallery.bridgesmathart.org/exhibitions/2013-bridges-conference/alison-martin. Accessed: 2018-01-23.  Alison Martin. 2018. Alison Grace Martin. http://gallery.bridgesmathart.org/exhibitions/2013-bridges-conference/alison-martin. Accessed: 2018-01-23."
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "DOI": "10.1145/2897824.2925940",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_55_1",
+                "DOI": "10.1145/2897824.2925978",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_56_1",
+                "DOI": "10.1137/0216045",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_57_1",
+                "DOI": "10.1145/3186265",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_58_1",
+                "DOI": "10.1109/TVCG.2011.118",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_59_1",
+                "DOI": "10.1145/1276377.1276446",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_60_1",
+                "DOI": "10.1145/2601097.2601179",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_61_1",
+                "DOI": "10.1145/2766998",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_62_1",
+                "DOI": "10.2307/1986219",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_63_1",
+                "unstructured": "S. Poljak and Z. Tuza. 1994. The Max-cut Problem: A Survey. Institute of Mathematics Academia Sinica Taipei Taiwan China. https://books.google.com/books?id=-AaZMwEACAAJ  S. Poljak and Z. Tuza. 1994. The Max-cut Problem: A Survey. Institute of Mathematics Academia Sinica Taipei Taiwan China. https://books.google.com/books?id=-AaZMwEACAAJ"
+            },
+            {
+                "key": "e_1_2_2_64_1",
+                "unstructured": "Konrad Polthier and Eike Preu\u00df. 2003. Identifying Vector Field Singularities Using a Discrete Hodge Decomposition. In Visualization and Mathematics III Hans-Christian Hege and Konrad Polthier (Eds.). Springer Berlin Heidelberg Berlin Heidelberg 113--134.  Konrad Polthier and Eike Preu\u00df. 2003. Identifying Vector Field Singularities Using a Discrete Hodge Decomposition. In Visualization and Mathematics III Hans-Christian Hege and Konrad Polthier (Eds.). Springer Berlin Heidelberg Berlin Heidelberg 113--134.",
+                "DOI": "10.1007/978-3-662-05105-4_6",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_65_1",
+                "DOI": "10.1145/1185657.1185664",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_66_1",
+                "unstructured": "Mariana Popescu Matthias Rippmann Tom Van Mele and Philippe Block. 2018. Automated Generation of Knit Patterns for Non-developable Surfaces. Springer Singapore Singapore 271--284.  Mariana Popescu Matthias Rippmann Tom Van Mele and Philippe Block. 2018. Automated Generation of Knit Patterns for Non-developable Surfaces. Springer Singapore Singapore 271--284.",
+                "DOI": "10.1007/978-981-10-6611-5_24",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_67_1",
+                "DOI": "10.1145/1778765.1778780",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_68_1",
+                "unstructured": "Martin Puryear. 1998. Brunhilde. Cedar and rattan.  Martin Puryear. 1998. Brunhilde. Cedar and rattan."
+            },
+            {
+                "key": "e_1_2_2_69_1",
+                "unstructured": "Qmechanic. 2018. Is every vector field locally integrable up to a rescaling? Mathematics Stack Exchange. URL:https://math.stackexchange.com/q/2716593 (version: 2018-04-10).  Qmechanic. 2018. Is every vector field locally integrable up to a rescaling? Mathematics Stack Exchange. URL:https://math.stackexchange.com/q/2716593 (version: 2018-04-10)."
+            },
+            {
+                "key": "e_1_2_2_70_1",
+                "DOI": "10.1145/1183287.1183297",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_71_1",
+                "DOI": "10.1145/2602145",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_72_1",
+                "DOI": "10.1145/1640443.1640444",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_73_1",
+                "DOI": "10.1002/1097-0312(200103)54:3<294::AID-CPA2>3.0.CO;2-S",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_74_1",
+                "DOI": "10.1109/TVCG.2017.2744038",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_75_1",
+                "DOI": "10.1111/cgf.12753",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_76_1",
+                "DOI": "10.1145/2816795.2818128",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_77_1",
+                "DOI": "10.1145/2461912.2461915",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_78_1",
+                "DOI": "10.1145/1073204.1073228",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_79_1",
+                "DOI": "10.1145/2980179.2982406",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_80_1",
+                "DOI": "10.1145/2851581.2892293",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_81_1",
+                "DOI": "10.1145/3025453.3025699",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_82_1",
+                "DOI": "10.1103/PhysRevLett.106.224301",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_83_1",
+                "DOI": "10.5555/3059330.3059332",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_84_1",
+                "DOI": "10.1137/17M1142703",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_85_1",
+                "DOI": "10.1145/3197517.3201360",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_86_1",
+                "DOI": "10.1145/2037715.2037781",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_87_1",
+                "unstructured": "Alexander Yampolsky. 2005. On extrinsic geometry of unit normal vector fields of Riemannian hyperfoliations. (2005). arXiv:arXiv:math/0503566  Alexander Yampolsky. 2005. On extrinsic geometry of unit normal vector fields of Riemannian hyperfoliations. (2005). arXiv:arXiv:math/0503566"
+            },
+            {
+                "key": "e_1_2_2_88_1",
+                "DOI": "10.1145/2185520.2185533",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_89_1",
+                "DOI": "10.1145/2897824.2925888",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_90_1",
+                "DOI": "10.1145/1183287.1183290",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_91_1",
+                "unstructured": "Mateusz Zwierzycki Petras Vestartas Mary Katherine Heinrich and Phil Ayres. 2017. High Resolution Representation and Simulation of Braiding Patterns. In Acadia 2017: Disciplines and Disruption Vol. MA 2--4. Acadia Publishing Company Boston MA 670--679.  Mateusz Zwierzycki Petras Vestartas Mary Katherine Heinrich and Phil Ayres. 2017. High Resolution Representation and Simulation of Braiding Patterns. In Acadia 2017: Disciplines and Disruption Vol. MA 2--4. Acadia Publishing Company Boston MA 670--679."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3323043&ftid=2071651&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    3
+                ]
+            ],
+            "date-time": "2020-07-03T23:11:05Z",
+            "timestamp": 1593817865000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "references-count": 91,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        12
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3306346.3323043"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3306346.3323043",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

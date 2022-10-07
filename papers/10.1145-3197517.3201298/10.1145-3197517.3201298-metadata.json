@@ -1,0 +1,508 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:29Z",
+            "timestamp": 1585962689501
+        },
+        "reference-count": 56,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100003422",
+                "name": "Global Collaborative Research, King Abdullah University of Science and Technology",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "Visual Computing Center CCF"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201298",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 7,
+        "title": [
+            "Space-time tomography for continuously deforming objects"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Guangming",
+                "family": "Zang",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "King Abdullah University of Science And Technology, Saudi Arabia"
+                    }
+                ]
+            },
+            {
+                "given": "Ramzi",
+                "family": "Idoughi",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "King Abdullah University of Science And Technology, Saudi Arabia"
+                    }
+                ]
+            },
+            {
+                "given": "Ran",
+                "family": "Tao",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "King Abdullah University of Science And Technology, Saudi Arabia"
+                    }
+                ]
+            },
+            {
+                "given": "Gilles",
+                "family": "Lubineau",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "King Abdullah University of Science And Technology, Saudi Arabia"
+                    }
+                ]
+            },
+            {
+                "given": "Peter",
+                "family": "Wonka",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "King Abdullah University of Science And Technology, Saudi Arabia"
+                    }
+                ]
+            },
+            {
+                "given": "Wolfgang",
+                "family": "Heidrich",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "King Abdullah University of Science And Technology, Saudi Arabia"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "Mohamed Aly Guangming Zang Wolfgang Heidrich and Peter Wonka. 2016. TRex: A Tomography Reconstruction Proximal Framework for Robust Sparse View X-Ray Applications. arXiv preprint arXiv:1606.03601 (2016).  Mohamed Aly Guangming Zang Wolfgang Heidrich and Peter Wonka. 2016. TRex: A Tomography Reconstruction Proximal Framework for Robust Sparse View X-Ray Applications. arXiv preprint arXiv:1606.03601 (2016)."
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1177/016173468400600107",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/1409060.1409085",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1007/BF02323555",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "Derek Bradley Tiberiu Popa Alla Sheffer Wolfgang Heidrich and Tamy Boubekeur. 2008. Markerless garment capture. 27 3 (2008) 99. 10.1145/1360612.1360698   Derek Bradley Tiberiu Popa Alla Sheffer Wolfgang Heidrich and Tamy Boubekeur. 2008. Markerless garment capture. 27 3 (2008) 99. 10.1145/1360612.1360698"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1137/16M1084183",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1007/s10851-010-0251-1",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1109/TMI.2011.2172951",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "author": "Chlewicki W",
+                "year": "2001",
+                "volume-title": "Proceedings of MEDICON 2001"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "Edilson De Aguiar Carsten Stoll Christian Theobalt Naveed Ahmed Hans-Peter Seidel and Sebastian Thrun. 2008. Performance capture from sparse multi-view video. 27 3 (2008) 98. 10.1145/1360612.1360697   Edilson De Aguiar Carsten Stoll Christian Theobalt Naveed Ahmed Hans-Peter Seidel and Sebastian Thrun. 2008. Performance capture from sparse multi-view video. 27 3 (2008) 98. 10.1145/1360612.1360697",
+                "DOI": "10.1145/1360612.1360697",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1109/TMI.2006.889743",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/2897824.2925969",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1007/s00348-006-0212-z",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1364/JOSAA.1.000612",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.5201/ipol.2012.g-tvd",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/2601097.2601147",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/2185520.2185548",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1109/TPAMI.2007.1056",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "unstructured": "Gabor T. Herman. 2009. Fundamentals of computerized tomography: image reconstruction from projections.   Gabor T. Herman. 2009. Fundamentals of computerized tomography: image reconstruction from projections."
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1007/978-3-319-00768-7_26",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1016/0004-3702(81)90024-2",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "author": "Huber Peter J",
+                "volume-title": "Int. Encyclopedia of Statistical Science. 1248--1251."
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/1028523.1028572",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/2601097.2601124",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "author": "Innmann Matthias",
+                "volume-title": "Proc"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "unstructured": "Oszk\u00e1r J\u00f3zsa Attila B\u00f6res and Csaba Benedek. 2013. Towards 4D virtual city reconstruction from Lidar point cloud sequences. ISPRS.  Oszk\u00e1r J\u00f3zsa Attila B\u00f6res and Csaba Benedek. 2013. Towards 4D virtual city reconstruction from Lidar point cloud sequences. ISPRS.",
+                "DOI": "10.5194/isprsannals-II-3-W1-15-2013",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "unstructured": "Avinash C Kak and Malcolm Slaney. 2001. Principles of computerized tomographic imaging. SIAM.   Avinash C Kak and Malcolm Slaney. 2001. Principles of computerized tomographic imaging. SIAM."
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/3145690.3145715",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "author": "Kim ByungMoon",
+                "year": "2005",
+                "volume-title": "Flowfixer: Using bfecc for fluid simulation. Technical Report"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1016/j.ijfatigue.2014.03.022",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/2070781.2024220",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1007/s11340-014-9871-5",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/2077341.2077343",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.5201/ipol.2013.20",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "author": "Mitra Niloy J",
+                "year": "2007",
+                "volume-title": "Symposium on geometry processing. 173--182"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "unstructured": "K Aditya Mohan SV Venkatakrishnan John W Gibbs Emine Begum Gulsoy Xianghui Xiao Marc De Graef Peter W Voorhees and Charles A Bouman. 2015. TIMBER: A method for time-space reconstruction from interlaced views. 1 2 (2015) 96--111.  K Aditya Mohan SV Venkatakrishnan John W Gibbs Emine Begum Gulsoy Xianghui Xiao Marc De Graef Peter W Voorhees and Charles A Bouman. 2015. TIMBER: A method for time-space reconstruction from interlaced views. 1 2 (2015) 96--111.",
+                "DOI": "10.1109/TCI.2015.2431913",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1007/s11340-012-9660-y",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "unstructured": "Cyril Mory Vincent Auvray Bo Zhang Michael Grass Dirk Sch\u00e4fer S James Chen John D Carroll Simon Rit Fran\u00e7oise Peyrin Philippe Douek etal 2014. Cardiac C-arm computed tomography using a 3D + time ROI reconstruction method with spatial and temporal regularization. Med. Phys. 41 2 (2014).  Cyril Mory Vincent Auvray Bo Zhang Michael Grass Dirk Sch\u00e4fer S James Chen John D Carroll Simon Rit Fran\u00e7oise Peyrin Philippe Douek et al. 2014. Cardiac C-arm computed tomography using a 3D + time ROI reconstruction method with spatial and temporal regularization. Med. Phys. 41 2 (2014).",
+                "DOI": "10.1118/1.4860215",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "author": "Mory Cyril",
+                "year": "2012",
+                "volume-title": "Proc. EUSIPCO. 2728--2732"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1002/nme.4882",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1145/1015706.1015785",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "unstructured": "St\u00e9phane Roux Fran\u00e7ois Hild Philippe Viot and Dominique Bernard. 2008. Three-dimensional image correlation from X-ray computed tomography of solid foam. Composites Part A: Applied science and manufacturing 39 8 (2008) 1253--1265.  St\u00e9phane Roux Fran\u00e7ois Hild Philippe Viot and Dominique Bernard. 2008. Three-dimensional image correlation from X-ray computed tomography of solid foam. Composites Part A: Applied science and manufacturing 39 8 (2008) 1253--1265.",
+                "DOI": "10.1016/j.compositesa.2007.11.011",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "unstructured": "Hubert Schreier Jean-Jos\u00e9 Orteu and Michael A Sutton. 2009. Image correlation for shape motion and deformation measurements. Springer US.  Hubert Schreier Jean-Jos\u00e9 Orteu and Michael A Sutton. 2009. Image correlation for shape motion and deformation measurements. Springer US.",
+                "DOI": "10.1007/978-0-387-78747-3",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1088/0031-9155/53/17/021",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1118/1.1869074",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1016/S1360-1385(02)00004-3",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "DOI": "10.1103/PhysRevLett.117.025501",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "DOI": "10.1007/978-3-319-24571-3_69",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "DOI": "10.5555/2383894.2383902",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "author": "JG Van der Corp",
+                "year": "1935",
+                "volume-title": "Proc. 38"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "DOI": "10.1016/j.jbiomech.2003.12.036",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "DOI": "10.1145/1516522.1516526",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "DOI": "10.1145/2010324.1964990",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "DOI": "10.1145/3072959.3073662",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_55_1",
+                "DOI": "10.1145/2010324.1964939",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_56_1",
+                "DOI": "10.1111/cgf.12989",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201298&ftid=1991755&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:51:46Z",
+            "timestamp": 1585961506000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 56,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201298"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201298",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

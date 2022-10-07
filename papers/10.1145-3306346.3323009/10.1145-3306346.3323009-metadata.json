@@ -1,0 +1,416 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2020-07-12T19:40:18Z",
+            "timestamp": 1594582818745
+        },
+        "reference-count": 37,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2019,
+                            7,
+                            12
+                        ]
+                    ],
+                    "date-time": "2019-07-12T00:00:00Z",
+                    "timestamp": 1562889600000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100007601",
+                "name": "Horizon 2020",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "642841"
+                ]
+            },
+            {
+                "name": "Grantov\u00e1 Agentura \u00f0esk\u00e9 Republiky",
+                "award": [
+                    "19-07626S, 16-18964S"
+                ]
+            },
+            {
+                "name": "Grantov\u00e1 Agentura, Univerzita Karlova",
+                "award": [
+                    "996218"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "DOI": "10.1145/3306346.3323009",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2019-07-12T19:04:08Z",
+            "timestamp": 1562958248000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 2,
+        "title": [
+            "Optimal multiple importance sampling"
+        ],
+        "prefix": "10.1145",
+        "volume": "38",
+        "author": [
+            {
+                "given": "Ivo",
+                "family": "Kondapaneni",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Charles University, Prague"
+                    }
+                ]
+            },
+            {
+                "given": "Petr",
+                "family": "Vevoda",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Charles University, Prague"
+                    }
+                ]
+            },
+            {
+                "given": "Pascal",
+                "family": "Grittmann",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Saarland University"
+                    }
+                ]
+            },
+            {
+                "given": "Tom\u00e1\u0161",
+                "family": "Sk\u0159ivan",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "IST Austria, Vienna"
+                    }
+                ]
+            },
+            {
+                "given": "Philipp",
+                "family": "Slusallek",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Saarland University and DFKI"
+                    }
+                ]
+            },
+            {
+                "given": "Jaroslav",
+                "family": "K\u0159iv\u00e1nek",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Charles University, Prague"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/218380.218500",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "Gilles Aubert and Pierre Kornprobst. 2006. Mathematical Problems in Image Processing: Partial Differential Equations and the Calculus of Variations (2nd ed.). Springer.   Gilles Aubert and Pierre Kornprobst. 2006. Mathematical Problems in Image Processing: Partial Differential Equations and the Calculus of Variations (2nd ed.). Springer.",
+                "DOI": "10.1007/978-0-387-44588-5",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "unstructured": "Benedikt Bitterli. 2016. Rendering resources. https://benedikt-bitterli.me/resources/.  Benedikt Bitterli. 2016. Rendering resources. https://benedikt-bitterli.me/resources/."
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "Olivier Capp\u00e9 Randal Douc Arnaud Guillin Jean-Michel Marin and Christian P. Robert. 2008. Adaptive importance sampling in general mixture classes. Statistics and Computing 18 4 (01 Dec 2008) 447--459. 10.1007/s11222-008-9059-x   Olivier Capp\u00e9 Randal Douc Arnaud Guillin Jean-Michel Marin and Christian P. Robert. 2008. Adaptive importance sampling in general mixture classes. Statistics and Computing 18 4 (01 Dec 2008) 447--459. 10.1007/s11222-008-9059-x",
+                "DOI": "10.1007/s11222-008-9059-x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "Victor Elvira Luca Martino David Luengo and M\u00f3nica F. Bugallo. 2015. Generalized multiple importance sampling. arXiv:1511.03095.  Victor Elvira Luca Martino David Luengo and M\u00f3nica F. Bugallo. 2015. Generalized multiple importance sampling. arXiv:1511.03095."
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1109/LSP.2016.2600678",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "unstructured": "Shaohua Fan Stephen Chenney Bo Hu Kam Wah Tsui and Yu Chi Lai. 2006. Optimizing control variate estimators for rendering. Comput. Graph. Forum (EUROGRAPHICS 2006) 25 3 (2006) 351--357.  Shaohua Fan Stephen Chenney Bo Hu Kam Wah Tsui and Yu Chi Lai. 2006. Optimizing control variate estimators for rendering. Comput. Graph. Forum (EUROGRAPHICS 2006) 25 3 (2006) 351--357.",
+                "DOI": "10.1111/j.1467-8659.2006.00954.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "Iliyan Georgiev Jaroslav K\u0159iv\u00e1nek Tom\u00e1\u0161 Davidovi\u010d and Philipp Slusallek. 2012a. Light Transport Simulation with Vertex Connection and Merging. ACM Trans. Graph. (SIGGRAPH Asia 2012) 31 6 Article 192 (Nov. 2012) 10 pages. 10.1145/2366145.2366211   Iliyan Georgiev Jaroslav K\u0159iv\u00e1nek Tom\u00e1\u0161 Davidovi\u010d and Philipp Slusallek. 2012a. Light Transport Simulation with Vertex Connection and Merging. ACM Trans. Graph. (SIGGRAPH Asia 2012) 31 6 Article 192 (Nov. 2012) 10 pages. 10.1145/2366145.2366211"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "Iliyan Georgiev Jaroslav K\u0159iv\u00e1nek Stefan Popov and Philipp Slusallek. 2012b. Importance Caching for Complex Illumination. Comput. Graph. Forum (EUROGRAPHICS 2012) 31 2pt3 (May 2012) 701--710. 10.1111/j.1467-8659.2012.03049.x   Iliyan Georgiev Jaroslav K\u0159iv\u00e1nek Stefan Popov and Philipp Slusallek. 2012b. Importance Caching for Complex Illumination. Comput. Graph. Forum (EUROGRAPHICS 2012) 31 2pt3 (May 2012) 701--710. 10.1111/j.1467-8659.2012.03049.x",
+                "DOI": "10.1111/j.1467-8659.2012.03049.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "Paul Glasserman. 2003. Monte Carlo method in financial engineering. Springer-Verlag New York USA.  Paul Glasserman. 2003. Monte Carlo method in financial engineering. Springer-Verlag New York USA.",
+                "DOI": "10.1007/978-0-387-21617-1",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/2963097",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "unstructured": "Toshiya Hachisuka Anton S. Kaplanyan and Carsten Dachsbacher. 2014. Multiplexed Metropolis Light Transport. ACM Trans. Graph. (SIGGRAPH 2014) 33 4 (2014). 10.1145/2601097.2601138   Toshiya Hachisuka Anton S. Kaplanyan and Carsten Dachsbacher. 2014. Multiplexed Metropolis Light Transport. ACM Trans. Graph. (SIGGRAPH 2014) 33 4 (2014). 10.1145/2601097.2601138"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "Toshiya Hachisuka Jacopo Pantaleoni and Henrik Wann Jensen. 2012. A Path Space Extension for Robust Light Transport Simulation. ACM Trans. Graph. (SIGGRAPH Asia 2012) 31 6 Article 191 (Nov. 2012) 10 pages. 10.1145/2366145.2366210   Toshiya Hachisuka Jacopo Pantaleoni and Henrik Wann Jensen. 2012. A Path Space Extension for Robust Light Transport Simulation. ACM Trans. Graph. (SIGGRAPH Asia 2012) 31 6 Article 191 (Nov. 2012) 10 pages. 10.1145/2366145.2366210"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/2670473.2670496",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "unstructured": "Hera Y. He and Art B. Owen. 2014. Optimal mixture weights in multiple importance sampling. (2014) 1--22. arXiv:1411.3954  Hera Y. He and Art B. Owen. 2014. Optimal mixture weights in multiple importance sampling. (2014) 1--22. arXiv:1411.3954"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "Sebastian Herholz Oskar Elek Ji\u0159\u00ed Vorba Hendrik Lensch and Jaroslav K\u0159iv\u00e1nek. 2016. Product Importance Sampling for Light Transport Path Guiding. Comput. Graph. Forum (EGSR 2016) 35 4 (2016) 67--77.   Sebastian Herholz Oskar Elek Ji\u0159\u00ed Vorba Hendrik Lensch and Jaroslav K\u0159iv\u00e1nek. 2016. Product Importance Sampling for Light Transport Path Guiding. Comput. Graph. Forum (EGSR 2016) 35 4 (2016) 67--77.",
+                "DOI": "10.1111/cgf.12950",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "Malvin H. Kalos and Paula A. Whitlock. 2008. Monte Carlo Methods (2nd ed.). Wiley-VCH.  Malvin H. Kalos and Paula A. Whitlock. 2008. Monte Carlo Methods (2nd ed.). Wiley-VCH.",
+                "DOI": "10.1002/9783527626212",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1111/1467-8659.t01-1-00703",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/2776880.2792699",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "Jaroslav K\u0159iv\u00e1nek Iliyan Georgiev Toshiya Hachisuka Petr V\u00e9voda Martin \u0160ik Derek Nowrouzezahrai and Wojciech Jarosz. 2014. Unifying Points Beams and Paths in Volumetric Light Transport Simulation. ACM Trans. Graph. (SIGGRAPH 2014) 33 4 Article 103 (July 2014) 13 pages. 10.1145/2601097.2601219   Jaroslav K\u0159iv\u00e1nek Iliyan Georgiev Toshiya Hachisuka Petr V\u00e9voda Martin \u0160ik Derek Nowrouzezahrai and Wojciech Jarosz. 2014. Unifying Points Beams and Paths in Volumetric Light Transport Simulation. ACM Trans. Graph. (SIGGRAPH 2014) 33 4 Article 103 (July 2014) 13 pages. 10.1145/2601097.2601219",
+                "DOI": "10.1145/2601097.2601219",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1287/opre.30.1.182",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "unstructured": "H. Lu R. Pacanowski and X. Granier. 2013. Second-Order Approximation for Variance Reduction in Multiple Importance Sampling. Comput. Graph. Forum (EGSR 2013) 32 7 (2013) 131--136.  H. Lu R. Pacanowski and X. Granier. 2013. Second-Order Approximation for Variance Reduction in Multiple Importance Sampling. Comput. Graph. Forum (EGSR 2013) 32 7 (2013) 131--136."
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "Thomas M\u00fcller Markus Gross and Jan Nov\u00e1k. 2017. Practical Path Guiding for Efficient Light-Transport Simulation. Comput. Graph. Forum (EGSR 2017) 36 4 (2017) 91--100. 10.1111/cgf.13227   Thomas M\u00fcller Markus Gross and Jan Nov\u00e1k. 2017. Practical Path Guiding for Efficient Light-Transport Simulation. Comput. Graph. Forum (EGSR 2017) 36 4 (2017) 91--100. 10.1111/cgf.13227"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1080/01621459.2000.10473909",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1109/TVCG.2010.230",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "unstructured": "Matt Pharr Wenzel Jakob and Greg Humphreys. 2016. Physically Based Rendering: From Theory to Implementation (3rd ed.). Morgan Kaufmann.   Matt Pharr Wenzel Jakob and Greg Humphreys. 2016. Physically Based Rendering: From Theory to Implementation (3rd ed.). Morgan Kaufmann."
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "unstructured": "Stefan Popov Ravi Ramamoorthi Fredo Durand and George Drettakis. 2015. Probabilistic Connections for Bidirectional Path Tracing. Comput. Graph. Forum (EGSR 2015) 34 4 (July 2015) 75--86.   Stefan Popov Ravi Ramamoorthi Fredo Durand and George Drettakis. 2015. Probabilistic Connections for Bidirectional Path Tracing. Comput. Graph. Forum (EGSR 2015) 34 4 (July 2015) 75--86.",
+                "DOI": "10.1111/cgf.12680",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1287/opre.33.3.661",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1007/s00371-017-1398-1",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.5555/3151666.3151712",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1186/s13634-018-0531-2",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "unstructured": "Eric Veach. 1997. Robust Monte Carlo methods for light transport simulation. Ph.D. Dissertation. Stanford University.   Eric Veach. 1997. Robust Monte Carlo methods for light transport simulation. Ph.D. Dissertation. Stanford University."
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/218380.218498",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1016/0167-6377(86)90098-2",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "unstructured": "Petr V\u00e9voda IvoKondapaneni and Jaroslav K\u0159iv\u00e1nek. 2018. Bayesian Online Regression for Adaptive Direct Illumination Sampling. ACM Trans. Graph. (SIGGRAPH 2018) 37 4 Article 125 (July 2018) 12 pages. 10.1145/3197517.3201340   Petr V\u00e9voda IvoKondapaneni and Jaroslav K\u0159iv\u00e1nek. 2018. Bayesian Online Regression for Adaptive Direct Illumination Sampling. ACM Trans. Graph. (SIGGRAPH 2018) 37 4 Article 125 (July 2018) 12 pages. 10.1145/3197517.3201340"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "unstructured": "Ji\u0159\u00ed Vorba Ond\u0159ej Karl\u00edk Martin \u0160ik Tobias Ritschel and Jaroslav K\u0159iv\u00e1nek. 2014. On-line Learning of Parametric Mixture Models for Light Transport Simulation. ACM Trans. Graph. (SIGGRAPH 2014) 33 4 Article 101 (July 2014) 11 pages. 10.1145/2601097.2601203   Ji\u0159\u00ed Vorba Ond\u0159ej Karl\u00edk Martin \u0160ik Tobias Ritschel and Jaroslav K\u0159iv\u00e1nek. 2014. On-line Learning of Parametric Mixture Models for Light Transport Simulation. ACM Trans. Graph. (SIGGRAPH 2014) 33 4 Article 101 (July 2014) 11 pages. 10.1145/2601097.2601203",
+                "DOI": "10.1145/2601097.2601203",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "unstructured": "Martin \u0160ik Hisanari Otsu Toshiya Hachisuka and Jaroslav K\u0159iv\u00e1nek. 2016. Robust Light Transport Simulation via Metropolised Bidirectional Estimators. ACM Trans. Graph. (SIGGRAPH Asia 2016) 35 6 Article 245 (Nov. 2016) 12 pages. 10.1145/2980179.2982411   Martin \u0160ik Hisanari Otsu Toshiya Hachisuka and Jaroslav K\u0159iv\u00e1nek. 2016. Robust Light Transport Simulation via Metropolised Bidirectional Estimators. ACM Trans. Graph. (SIGGRAPH Asia 2016) 35 6 Article 245 (Nov. 2016) 12 pages. 10.1145/2980179.2982411"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3323009&ftid=2071652&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2020-07-12T19:25:11Z",
+            "timestamp": 1594581911000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "references-count": 37,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        12
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3306346.3323009"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3306346.3323009",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

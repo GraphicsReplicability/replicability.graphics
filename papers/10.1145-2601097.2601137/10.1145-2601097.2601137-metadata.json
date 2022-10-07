@@ -1,0 +1,412 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:11:21Z",
+            "timestamp": 1586002281429
+        },
+        "reference-count": 39,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100004344",
+                "name": "Adobe Systems",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "name": "Quanta Computer",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601137",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 70,
+        "title": [
+            "Style transfer for headshot portraits"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "YiChang",
+                "family": "Shih",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "MIT CSAIL and Adobe"
+                    }
+                ]
+            },
+            {
+                "given": "Sylvain",
+                "family": "Paris",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe"
+                    }
+                ]
+            },
+            {
+                "given": "Connelly",
+                "family": "Barnes",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe and University of Virginia"
+                    }
+                ]
+            },
+            {
+                "given": "William T.",
+                "family": "Freeman",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "MIT CSAIL"
+                    }
+                ]
+            },
+            {
+                "given": "Fr\u00e9do",
+                "family": "Durand",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "MIT CSAIL"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "Ahonen T. Hadid A. and Pietikainen M. 2006. Face description with local binary patterns: Application to face recognition. IEEE Trans. Pattern Analysis and Machine Intelligence. 10.1109/TPAMI.2006.244   Ahonen T. Hadid A. and Pietikainen M. 2006. Face description with local binary patterns: Application to face recognition. IEEE Trans. Pattern Analysis and Machine Intelligence . 10.1109/TPAMI.2006.244",
+                "DOI": "10.1109/TPAMI.2006.244",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1111/j.1467-8659.2009.01595.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "unstructured": "Bae S. Paris S. and Durand F. 2006. Two-scale tone management for photographic look. In ACM Trans. Graphics. 10.1145/1141911.1141935   Bae S. Paris S. and Durand F. 2006. Two-scale tone management for photographic look. In ACM Trans. Graphics . 10.1145/1141911.1141935",
+                "DOI": "10.1145/1179352.1141935",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "Barnes C. Shechtman E. Finkelstein A. and Goldman D. B. 2009. PatchMatch: A randomized correspondence algorithm for structural image editing. ACM Trans. Graphics. 10.1145/1531326.1531330   Barnes C. Shechtman E. Finkelstein A. and Goldman D. B. 2009. PatchMatch: A randomized correspondence algorithm for structural image editing. ACM Trans. Graphics . 10.1145/1531326.1531330",
+                "DOI": "10.1145/1576246.1531330",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/142920.134003",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "author": "Brand M.",
+                "volume-title": "IEEE Conf. Computer Vision and Pattern Recognition."
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "author": "Brox T.",
+                "volume-title": "European Conference on Computer Vision. 25--36"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1109/TCOM.1983.1095851",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "Cohen-Or D. Sorkine O. Gal R. Leyvand T. and Xu Y.-Q. 2006. Color harmonization. ACM Trans. Graphics 25. 10.1145/1141911.1141933   Cohen-Or D. Sorkine O. Gal R. Leyvand T. and Xu Y.-Q. 2006. Color harmonization. ACM Trans. Graphics 25 . 10.1145/1141911.1141933",
+                "DOI": "10.1145/1179352.1141933",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1109/34.244676",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "author": "Guo D.",
+                "volume-title": "IEEE Conf. Computer Vision and Pattern Recognition."
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/2010324.1964965",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "Heeger D. J. and Bergen J. R. 1995. Pyramid-based texture analysis/synthesis. In ACM Trans. Graphics ACM 229--238. 10.1145/218380.218446   Heeger D. J. and Bergen J. R. 1995. Pyramid-based texture analysis/synthesis. In ACM Trans. Graphics ACM 229--238. 10.1145/218380.218446"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/1731047.1731050",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1109/TPAMI.2007.1177",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/1360612.1360637",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "Li Y. Sharan L. and Adelson E. H. 2005. Compressing and companding high dynamic range images with subband architectures. ACM Trans. Graphics 24. 10.1145/1073204.1073271   Li Y. Sharan L. and Adelson E. H. 2005. Compressing and companding high dynamic range images with subband architectures. ACM Trans. Graphics 24 . 10.1145/1073204.1073271",
+                "DOI": "10.1145/1186822.1073271",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1007/s11263-006-0029-5",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1109/TPAMI.2010.147",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1364/JOSAA.7.000923",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/1531326.1531363",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "unstructured": "Nars F. 2004. Makeup your mind. PowerHouse Books.  Nars F. 2004. Makeup your mind. PowerHouse Books ."
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/1141911.1141919",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/1276377.1276442",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "unstructured": "Phillips N. 2004. Lighting techniques for low key portrait photography. Amherst Media 12--16.  Phillips N. 2004. Lighting techniques for low key portrait photography. Amherst Media 12--16."
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1109/ICCV.2005.166",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1109/38.946629",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/1015706.1015720",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "author": "Saragih J. M.",
+                "volume-title": "IEEE Conference on Computer Vision, 1034--1041"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/2508363.2508419",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "author": "Su S.",
+                "volume-title": "Proc. of ICCV Workshop on Texture Analysis and Synthesis."
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/1778765.1778862",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1109/CVPR.2005.215",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "unstructured": "Tong W.-S. Tang C.-K. Brown M. S. and Xu Y.-Q. 2007. Example-based cosmetic transfer. In IEEE Pacific Graphics. 10.1109/PG.2007.21   Tong W.-S. Tang C.-K. Brown M. S. and Xu Y.-Q. 2007. Example-based cosmetic transfer. In IEEE Pacific Graphics . 10.1109/PG.2007.21",
+                "DOI": "10.1109/PG.2007.31",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1007/11744047_45",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1145/1882261.1866172",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/2010324.1964959",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "author": "Wen Z.",
+                "volume": "2",
+                "volume-title": "IEEE Conf. Computer Vision and Pattern Recognition"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1109/CVPR.2005.152",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601137&amp;ftid=1488957&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:52:41Z",
+            "timestamp": 1586001161000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 39,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601137"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601137",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

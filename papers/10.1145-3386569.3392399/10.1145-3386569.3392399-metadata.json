@@ -1,0 +1,423 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    12,
+                    10
+                ]
+            ],
+            "date-time": "2020-12-10T00:14:59Z",
+            "timestamp": 1607559299619
+        },
+        "reference-count": 45,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "funder": [
+            {
+                "DOI": "10.13039/501100001659",
+                "name": "Deutsche Forschungsgemeinschaft",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "IRTG-2379, Gottfried Wilhelm Leibniz Programme"
+                ]
+            },
+            {
+                "name": "Excellence Initiative of the German federal and state governments",
+                "award": [
+                    "CompSE"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    8
+                ]
+            ]
+        },
+        "DOI": "10.1145/3386569.3392399",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2020,
+                    8,
+                    12
+                ]
+            ],
+            "date-time": "2020-08-12T11:44:27Z",
+            "timestamp": 1597232667000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+            "Inter-surface maps via constant-curvature metrics"
+        ],
+        "prefix": "10.1145",
+        "volume": "39",
+        "author": [
+            {
+                "given": "Patrick",
+                "family": "Schmidt",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "RWTH Aachen University"
+                    }
+                ]
+            },
+            {
+                "given": "Marcel",
+                "family": "Campen",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Osnabr\u00fcck University"
+                    }
+                ]
+            },
+            {
+                "given": "Janis",
+                "family": "Born",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "RWTH Aachen University"
+                    }
+                ]
+            },
+            {
+                "given": "Leif",
+                "family": "Kobbelt",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "RWTH Aachen University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/3072959.3073615",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/2816795.2818099",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/2980179.2982412",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/2601097.2601158",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/2766921",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1137/140953393",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1111/cgf.13503",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.2140/gt.2015.19.2155",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/2461912.2462014",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "author": "Bouaziz Sofien",
+                "year": "2013",
+                "volume-title": "Sparse Iterative Closest Point. In Symposium on Geometry Processing. Eurographics Association."
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "Sebastian Claici Mikhail Bessmeltsev Scott Schaefer and Justin Solomon. 2017. Isometry-Aware Preconditioning for Mesh Parameterization. 36 5 (2017) 37--47.  Sebastian Claici Mikhail Bessmeltsev Scott Schaefer and Justin Solomon. 2017. Isometry-Aware Preconditioning for Mesh Parameterization. 36 5 (2017) 37--47.",
+                "DOI": "10.1111/cgf.13243",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "unstructured": "Danielle Ezuz Behrend Heeren Omri Azencot Martin Rumpf and Mirela Ben-Chen. 2019a. Elastic Correspondence between Triangle Meshes. 38 2 (2019).  Danielle Ezuz Behrend Heeren Omri Azencot Martin Rumpf and Mirela Ben-Chen. 2019a. Elastic Correspondence between Triangle Meshes. 38 2 (2019).",
+                "DOI": "10.1111/cgf.13624",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/3202660",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Hershel M. Farkas and Irwin Kra. 1992. Uniformization. Springer New York 166--256.  Hershel M. Farkas and Irwin Kra. 1992. Uniformization. Springer New York 166--256.",
+                "DOI": "10.1007/978-1-4612-2034-3_5",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/3197517.3201353",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "author": "Huang Qi-Xing",
+                "volume-title": "Proceedings of the Symposium on Geometry Processing (SGP '08)"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1109/PCCGA.1997.626179",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/2070781.2024203",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/2897824.2925920",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/1186562.1015811",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1109/TVCG.2008.32",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/1531326.1531378",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "author": "Litke Nathan",
+                "volume": "255",
+                "year": "2005",
+                "volume-title": "Symposium on Geometry Processing"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/3197517.3201331",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/3072959.3073671",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/2185520.2185526",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/2461912.2461935",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1007/s10851-006-6228-4",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "Emanuele Rodol\u00e0 Michael M\u00f6ller and Daniel Cremers. 2015. Point-wise Map Recovery and Refinement from Functional Correspondence. In VMV.  Emanuele Rodol\u00e0 Michael M\u00f6ller and Daniel Cremers. 2015. Point-wise Map Recovery and Refinement from Functional Correspondence. In VMV."
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1111/j.1467-8659.2010.01759.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/3355089.3356519",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/1015706.1015812",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "first-page": "835",
+                "article-title": "Snap-Paste",
+                "volume": "22",
+                "author": "Sharf Andrei",
+                "year": "2006",
+                "journal-title": "An Interactive Technique for Easy Mesh Composition. Vis. Comput."
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/3072959.3073618",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1145/2766947",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "unstructured": "Justin Solomon Andy Nguyen Adrian Butscher Mirela Ben-Chen and Leonidas Guibas. 2012. Soft maps between surfaces. 31 5 (2012) 1617--1626.  Justin Solomon Andy Nguyen Adrian Butscher Mirela Ben-Chen and Leonidas Guibas. 2012. Soft maps between surfaces. 31 5 (2012) 1617--1626.",
+                "DOI": "10.1111/j.1467-8659.2012.03167.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "unstructured": "J. Stillwell. 1996. Sources of Hyperbolic Geometry. American Mathematical Society.  J. Stillwell. 1996. Sources of Hyperbolic Geometry. American Mathematical Society.",
+                "DOI": "10.1090/hmath/010",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1109/TVCG.2012.310",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/1073368.1073394",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1016/j.cad.2011.08.020",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "unstructured": "Andrea Walther and Andreas Griewank. 2012. Getting Started with ADOL-C. In Combinatorial Scientific Computing Uwe Naumann and Olaf Schenk (Eds.). CRC Press Taylor & Francis Group 181--202.  Andrea Walther and Andreas Griewank. 2012. Getting Started with ADOL-C. In Combinatorial Scientific Computing Uwe Naumann and Olaf Schenk (Eds.). CRC Press Taylor & Francis Group 181--202.",
+                "DOI": "10.1201/b11644-8",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "unstructured": "Benjamin Wilson and Matthias Leimeister. 2018. Gradient descent in hyperbolic space. arXiv preprint arXiv:1805.08207 (2018).  Benjamin Wilson and Matthias Leimeister. 2018. Gradient descent in hyperbolic space. arXiv preprint arXiv:1805.08207 (2018)."
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1109/ICCV.2007.4408908",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "unstructured": "Y. Yang X. Fu S. Chai S. Xiao and L. Liu. 2018. Volume-Enhanced Compatible Remeshing of 3D Models. IEEE Transactions on Visualization and Computer Graphics (2018).  Y. Yang X. Fu S. Chai S. Xiao and L. Liu. 2018. Volume-Enhanced Compatible Remeshing of 3D Models. IEEE Transactions on Visualization and Computer Graphics (2018)."
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "author": "Zhang Lei",
+                "volume-title": "Advances in Computer Graphics"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "https://dl.acm.org/doi/pdf/10.1145/3386569.3392399",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    12,
+                    9
+                ]
+            ],
+            "date-time": "2020-12-09T23:45:41Z",
+            "timestamp": 1607557541000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    8
+                ]
+            ]
+        },
+        "references-count": 45,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2020,
+                        7,
+                        8
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3386569.3392399"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3386569.3392399",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

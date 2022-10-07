@@ -1,0 +1,415 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:03:46Z",
+            "timestamp": 1585998226010
+        },
+        "reference-count": 46,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925975",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 85,
+        "title": [
+            "A deep learning framework for character motion synthesis and editing"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Daniel",
+                "family": "Holden",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of Edinburgh"
+                    }
+                ]
+            },
+            {
+                "given": "Jun",
+                "family": "Saito",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Marza Animation Planet"
+                    }
+                ]
+            },
+            {
+                "given": "Taku",
+                "family": "Komura",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Edinburgh"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "Allen B. F. and Faloutsos P. 2009. Evolved controllers for simulated locomotion. In Motion in games. Springer 219--230. 10.1007/978-3-642-10347-6_20   Allen B. F. and Faloutsos P. 2009. Evolved controllers for simulated locomotion. In Motion in games . Springer 219--230. 10.1007/978-3-642-10347-6_20",
+                "DOI": "10.1007/978-3-642-10347-6_20",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/566654.566606",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "author": "Bergstra J.",
+                "volume-title": "Proc. of the Python for Scientific Computing Conference (SciPy). Oral Presentation."
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "CMU. Carnegie-Mellon Mocap Database. http://mocap.cs.cmu.edu/.  CMU. Carnegie-Mellon Mocap Database. http://mocap.cs.cmu.edu/."
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "author": "Du Y.",
+                "volume-title": "Proc. of the IEEE Conference on Computer Vision and Pattern Recognition."
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.5555/2919332.2919834",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "unstructured": "Gatys L. A. Ecker A. S. and Bethge M. 2015. A neural algorithm of artistic style. CoRR abs/1508.06576.  Gatys L. A. Ecker A. S. and Bethge M. 2015. A neural algorithm of artistic style. CoRR abs/1508.06576."
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "author": "Goodfellow I.",
+                "volume-title": "Proc. of Advances in Neural Information Processing Systems. 2672--2680"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "author": "Graves A.",
+                "volume-title": "Speech and Signal Processing (ICASSP), 2013 IEEE International Conference on, IEEE, 6645--6649"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/1015706.1015755",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "Hariharan B. Arbel\u00e1ez P. A. Girshick R. B. and Malik J. 2014. Hypercolumns for object segmentation and fine-grained localization. CoRR abs/1411.5752.  Hariharan B. Arbel\u00e1ez P. A. Girshick R. B. and Malik J. 2014. Hypercolumns for object segmentation and fine-grained localization. CoRR abs/1411.5752.",
+                "DOI": "10.1109/CVPR.2015.7298642",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/1230100.1230123",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "author": "Hinton G.",
+                "series-title": "Lecture Notes in Computer Science",
+                "volume-title": "Neural Networks: Tricks of the Trade, G. Montavon, G. Orr, and K.-R"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/2820903.2820918",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/1531326.1531385",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "author": "Kingma D. P.",
+                "year": "2014",
+                "volume-title": "Adam: A method for stochastic optimization. CoRR abs/1412.6980."
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/1015706.1015760",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/566654.566605",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "author": "Krizhevsky A.",
+                "volume-title": "Proc. of Advances in Neural Information Processing Systems, 1097--1105"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/1028523.1028535",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/311535.311539",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/566654.566607",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/1882261.1866160",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "author": "Levine S.",
+                "volume-title": "Proc. of the 31st International Conference on Machine Learning (ICML-14)"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/2185520.2185524",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/2366145.2366172",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/1640443.1640452",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "author": "Mittelman R.",
+                "volume-title": "Proc. of the 31st International Conference on Machine Learning (ICML-14)"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "author": "Mordatch I.",
+                "volume-title": "Proc. of Advances in Neural Information Processing Systems."
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/1073204.1073313",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "author": "M\u00fcller M.",
+                "year": "2007",
+                "volume-title": "Tech. Rep. CG-2007-2, Universit\u00e4t Bonn, June."
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "author": "Nair V.",
+                "volume-title": "Proc. of the 27th International Conference on Machine Learning (ICML-10)"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1109/WACV.2013.6474999",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1109/38.708559",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1111/1467-8659.00516",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1145/1276377.1276510",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "author": "Shin H. J.",
+                "volume-title": "Proc. of the 2006 ACM SIGGRAPH/Eurographics Symposium on Computer Animation, Eurographics Association, 291--298"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.5555/2627435.2670313",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/2601097.2601121",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1145/1553374.1553505",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.5555/1953048.2021035",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.5555/1756006.1953039",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "author": "Wang J.",
+                "volume-title": "Proc. of Advances in Neural Information Processing Systems, 1441--1448"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1145/2766999",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1109/TVCG.2003.1207443",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "unstructured": "Zeiler M. D. and Fergus R. 2014. Visualizing and understanding convolutional networks. In Computer Vision--ECCV 2014. Springer 818--833.  Zeiler M. D. and Fergus R. 2014. Visualizing and understanding convolutional networks. In Computer Vision--ECCV 2014 . Springer 818--833.",
+                "DOI": "10.1007/978-3-319-10590-1_53",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925975&amp;ftid=1755906&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:31:20Z",
+            "timestamp": 1585963880000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 46,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925975"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925975",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

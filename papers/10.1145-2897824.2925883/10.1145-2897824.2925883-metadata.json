@@ -1,0 +1,440 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T02:11:26Z",
+            "timestamp": 1585966286600
+        },
+        "reference-count": 46,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2017,
+                            7,
+                            24
+                        ]
+                    ],
+                    "date-time": "2017-07-24T00:00:00Z",
+                    "timestamp": 1500854400000
+                },
+                "delay-in-days": 378,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100002920",
+                "name": "Research Grants Council, University Grants Committee",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "17202415"
+                ]
+            },
+            {
+                "DOI": "10.13039/100000001",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "CNS-0959979, IIP1069147, CNS-1302246"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925883",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 40,
+        "title": [
+            "Mapping virtual and physical reality"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Qi",
+                "family": "Sun",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Stony Brook University"
+                    }
+                ]
+            },
+            {
+                "given": "Li-Yi",
+                "family": "Wei",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Hong Kong"
+                    }
+                ]
+            },
+            {
+                "given": "Arie",
+                "family": "Kaufman",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stony Brook University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "author": "Bonnans J. F.",
+                "year": "2006",
+                "volume-title": "Numerical Optimization: Theoretical and Practical Aspects (Universitext)"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "first-page": "128",
+                "article-title": "Revising the factor structure of the simulator sickness questionnaire",
+                "volume": "5",
+                "author": "Bouchard S.",
+                "year": "2007",
+                "journal-title": "Annual Review of CyberTherapy and Telemedicine"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1162/105474602760204309",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1109/TVCG.2015.2391864",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/2766989",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/2807442.2807463",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "author": "Choi S.",
+                "volume-title": "CVPR '15"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "Crassin C. McGuire M. Fatahalian K. and Lefohn A. 2015. Aggregate G-buffer anti-aliasing. In I3D '15 109--119. 10.1145/2699276.2699285   Crassin C. McGuire M. Fatahalian K. and Lefohn A. 2015. Aggregate G-buffer anti-aliasing. In I3D '15 109--119. 10.1145/2699276.2699285",
+                "DOI": "10.1145/2699276.2699285",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1109/TVCG.2010.127",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/237170.237191",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "author": "Febretti A.",
+                "year": "2014",
+                "volume-title": "Omegalib: A multi-view application framework for hybrid reality display environments. In Virtual Reality (VR)"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/2766938",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.2312/EGWR/EGSR06/297-303",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Gray A. 1996. Modern Differential Geometry of Curves and Surfaces with Mathematica 1st ed. CRC Press Inc.   Gray A. 1996. Modern Differential Geometry of Curves and Surfaces with Mathematica 1st ed. CRC Press Inc."
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/2043603.2043604",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/258734.258750",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/2766922",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/1179133.1179162",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1109/TVCG.2015.2391860",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1207/s15327108ijap0303_3",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/566654.566590",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/2766939",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/2503713.2503733",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "McMillan Jr. L. 1997. An Image-based Approach to Three-dimensional Computer Graphics. PhD thesis. UMI Order No. GAX97-30561.   McMillan Jr. L. 1997. An Image-based Approach to Three-dimensional Computer Graphics . PhD thesis. UMI Order No. GAX97-30561."
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "unstructured": "Nescher T. Huang Y.-Y. and Kunz A. 2014. Planning redirection techniques for optimal free walking experience using model predictive control. In 3DUI '14 111--118.  Nescher T. Huang Y.-Y. and Kunz A. 2014. Planning redirection techniques for optimal free walking experience using model predictive control. In 3DUI '14 111--118.",
+                "DOI": "10.1109/3DUI.2014.6798851",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1109/TVCG.2014.21",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/1618452.1618504",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/2601097.2601123",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "Razzaque S. Kohn Z. and Whitton M. C. 2001. Redirected Walking. In Eurographics 2001 - Short Presentations Eurographics Association.  Razzaque S. Kohn Z. and Whitton M. C. 2001. Redirected Walking. In Eurographics 2001 - Short Presentations Eurographics Association."
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "author": "Razzaque S.",
+                "volume-title": "EGVE '02"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "unstructured": "Rudin W. 1976. Principles of mathematical analysis third ed. McGraw-Hill Book Co. New York. International Series in Pure and Applied Mathematics.  Rudin W. 1976. Principles of mathematical analysis third ed. McGraw-Hill Book Co. New York. International Series in Pure and Applied Mathematics."
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/2207676.2207690",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1111/cgf.12179",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "author": "Schwaiger M.",
+                "year": "2007",
+                "volume-title": "Cyberwalk: Implementation of a ball bearing platform for humans. In Human-Computer Interaction. Interaction Platforms and Techniques"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1145/2702123.2702389",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1145/2043603.2043607",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/1450579.1450611",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1109/TVCG.2012.47",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/1198555.1198639",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1145/311535.311589",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "unstructured": "Vasylevska K. Kaufmann H. Bolas M. and Suma E. 2013. Flexible spaces: Dynamic layout generation for infinite walking in virtual environments. In 3DUI '13 39--42.  Vasylevska K. Kaufmann H. Bolas M. and Suma E. 2013. Flexible spaces: Dynamic layout generation for infinite walking in virtual environments. In 3DUI '13 39--42.",
+                "DOI": "10.1109/3DUI.2013.6550194",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1162/105474698565686",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "unstructured": "Wong R. 2015. Vr startups: Stop trying to make virtual reality treadmills a thing. http://mashable.com/2015/06/20/virtual-reality-treadmills/.  Wong R. 2015. Vr startups: Stop trying to make virtual reality treadmills a thing. http://mashable.com/2015/06/20/virtual-reality-treadmills/."
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1145/2070781.2024184",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1145/2492494.2492514",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1109/TVCG.2013.88",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "https://dl.acm.org/doi/pdf/10.1145/2897824.2925883",
+                "content-type": "application/pdf",
+                "content-version": "vor",
+                "intended-application": "syndication"
+            },
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925883&amp;ftid=1755907&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:43:56Z",
+            "timestamp": 1585964636000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 46,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925883"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925883",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

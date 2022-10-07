@@ -1,0 +1,563 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    5,
+                    5
+                ]
+            ],
+            "date-time": "2020-05-05T17:41:03Z",
+            "timestamp": 1588700463624
+        },
+        "reference-count": 68,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2020,
+                            7,
+                            12
+                        ]
+                    ],
+                    "date-time": "2020-07-12T00:00:00Z",
+                    "timestamp": 1594512000000
+                },
+                "delay-in-days": 366,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100000001",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "1835712 1821334 1652515"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "DOI": "10.1145/3306346.3323012",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2019-07-12T19:04:08Z",
+            "timestamp": 1562958248000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 1,
+        "title": [
+            "Progressive embedding"
+        ],
+        "prefix": "10.1145",
+        "volume": "38",
+        "author": [
+            {
+                "given": "Hanxiao",
+                "family": "Shen",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "New York University"
+                    }
+                ]
+            },
+            {
+                "given": "Zhongshi",
+                "family": "Jiang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "New York University"
+                    }
+                ]
+            },
+            {
+                "given": "Denis",
+                "family": "Zorin",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "New York University"
+                    }
+                ]
+            },
+            {
+                "given": "Daniele",
+                "family": "Panozzo",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "New York University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/3072959.3073615",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/2816795.2818099",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/2980179.2982412",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/2601097.2601158",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/2766921",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/2461912.2462014",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "unstructured": "D. Bommes B. L\u00e9vy N. Pietroni E. Puppo C. Silv a M. Tarini and D. Zorin. 2012. State of the Art in Quad Meshing. In Eurographics STARS.  D. Bommes B. L\u00e9vy N. Pietroni E. Puppo C. Silv a M. Tarini and D. Zorin. 2012. State of the Art in Quad Meshing. In Eurographics STARS."
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/1531326.1531383",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "Herv\u00e9 Br\u00f6nnimann Andreas Fabri Geert-Jan Giezeman Susan Hert Michael Hoffmann Lutz Kettner Sylvain Pion and Stefan Schirra. 2018. 2D and 3D Linear Geometry Kernel. In CGAL User and Reference Manual (4.13 ed.). CGAL Editorial Board. https://doc.cgal.org/4.13/Manual/packages.html#PkgKernel23Summary  Herv\u00e9 Br\u00f6nnimann Andreas Fabri Geert-Jan Giezeman Susan Hert Michael Hoffmann Lutz Kettner Sylvain Pion and Stefan Schirra. 2018. 2D and 3D Linear Geometry Kernel. In CGAL User and Reference Manual (4.13 ed.). CGAL Editorial Board. https://doc.cgal.org/4.13/Manual/packages.html#PkgKernel23Summary"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/2897824.2925890",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.5555/1964371.1964384",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1111/cgf.13243",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "author": "Degener P.",
+                "volume-title": "Proceedings of the 12th International Meshing Roundtable. 201--213"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "first-page": "23",
+                "article-title": "Topology preserving edge contraction",
+                "volume": "66",
+                "author": "Dey Tamal K",
+                "year": "1999",
+                "journal-title": "Publ. Inst. Math.(Beograd)(NS)"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "first-page": "229",
+                "article-title": "On straight line representation of planar graphs",
+                "volume": "11",
+                "author": "F\u00e1ry Istv\u00e1n",
+                "year": "1948",
+                "journal-title": "Acta Univ. Szeged. Sect. Sci. Math."
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1016/S0167-8396(96)00031-3",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "Michael S. Floater and Kai Hormann. 2005. Surface Parameterization: a Tutorial and Survey. In In Advances in Multiresolution for Geometric Modelling Mathematics and Visualization. Springer Verlag 157--186.  Michael S. Floater and Kai Hormann. 2005. Surface Parameterization: a Tutorial and Survey. In In Advances in Multiresolution for Geometric Modelling Mathematics and Visualization. Springer Verlag 157--186.",
+                "DOI": "10.1007/3-540-26808-1_9",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/1236463.1236468",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/2980179.2980231",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/2766938",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1016/S0097-8493(00)00108-4",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "author": "Granlund Torbj\u00f6rn",
+                "year": "2018",
+                "volume-title": "GNU MP: The GNU Multiple Precision Arithmetic Library (5.0.5 ed.)"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "Ga\u00ebl Guennebaud Beno\u00eet Jacob etal 2010. Eigen v3. http://eigen.tuxfamily.org.  Ga\u00ebl Guennebaud Beno\u00eet Jacob et al. 2010. Eigen v3. http://eigen.tuxfamily.org."
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1016/S0925-7721(01)00064-5",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/237170.237216",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "first-page": "153",
+                "article-title": "MIPS: An Efficient Global Parametrization Method",
+                "volume": "1999",
+                "author": "Hormann K.",
+                "year": "2000",
+                "journal-title": "Curve and Surface Design: Saint-Malo"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/1508044.1508091",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/3197517.3201353",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "John FP Hudson and Julius L Shaneson. 1969. Piecewise linear topology. Vol. 11. WA Benjamin New York.  John FP Hudson and Julius L Shaneson. 1969. Piecewise linear topology. Vol. 11. WA Benjamin New York."
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "unstructured": "Alec Jacobson Daniele Panozzo etal 2016. libigl: A simple C++ geometry processing library. http://libigl.github.io/libigl/.  Alec Jacobson Daniele Panozzo et al. 2016. libigl: A simple C++ geometry processing library. http://libigl.github.io/libigl/.",
+                "DOI": "10.1145/3134472.3134497",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/3130800.3130895",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/2816795.2818098",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/2897824.2925920",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/1015706.1015811",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1145/882262.882271",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1016/0196-6774(91)90040-6",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.5555/795680.797444",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1109/TVCG.2007.70432",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/566654.566590",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1145/3272127.3275042",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1145/2185520.2185604",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1137/130939754",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1145/3197517.3201331",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "unstructured": "Aleksandar Mijatovi\u0107. 2003. Simplifying triangulations of S<sup>3</sup>. Pacific journal of mathematics 208 2 (2003) 291--324.  Aleksandar Mijatovi\u0107. 2003. Simplifying triangulations of S<sup>3</sup>. Pacific journal of mathematics 208 2 (2003) 291--324.",
+                "DOI": "10.2140/pjm.2003.208.291",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1145/2766907",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1145/2601097.2601154",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "unstructured": "Eli Packer. 2018. 2D Snap Rounding. In CGAL User and Reference Manual (4.13 ed.). CGAL Editorial Board. https://doc.cgal.org/4.13/Manual/packages.html#PkgSnapRounding2Summary  Eli Packer. 2018. 2D Snap Rounding. In CGAL User and Reference Manual (4.13 ed.). CGAL Editorial Board. https://doc.cgal.org/4.13/Manual/packages.html#PkgSnapRounding2Summary"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "DOI": "10.1145/3197517.3201290",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "DOI": "10.1145/2601097.2601123",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "DOI": "10.1145/3130800.3130845",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "DOI": "10.1145/383259.383277",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "DOI": "10.1145/2983621",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "unstructured": "Pedro V. Sander John Snyder Steven J. Gortler and Hugues Hoppe. 2001. Texture Mapping Progressive Meshes. In ACM SIGGRAPH. 409--416. 10.1145/383259.383307   Pedro V. Sander John Snyder Steven J. Gortler and Hugues Hoppe. 2001. Texture Mapping Progressive Meshes. In ACM SIGGRAPH. 409--416. 10.1145/383259.383307"
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "DOI": "10.5555/320176.320191",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_55_1",
+                "DOI": "10.1145/1015706.1015812",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_56_1",
+                "DOI": "10.1111/cgf.12179",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_57_1",
+                "author": "Segall Aviv",
+                "year": "2016",
+                "volume-title": "Proceedings of the ACM SIGGRAPH/Eurographics symposium on computer animation. Eurographics Association, 85--95"
+            },
+            {
+                "key": "e_1_2_2_58_1",
+                "DOI": "10.1561/0600000011",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_59_1",
+                "author": "Shewchuk Jonathan Richard",
+                "year": "1996",
+                "volume-title": "Triangle: Engineering a 2D Quality Mesh Generator and Delaunay Triangulator. In Applied Computational Geometry: Towards Geometric Engineering, Ming C"
+            },
+            {
+                "key": "e_1_2_2_60_1",
+                "DOI": "10.1016/0925-7721(92)90019-O",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_61_1",
+                "DOI": "10.1145/3072959.3073618",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_62_1",
+                "DOI": "10.1145/2766947",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_63_1",
+                "DOI": "10.5555/602099.602154",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_64_1",
+                "DOI": "10.1112/plms/s3-13.1.743",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_65_1",
+                "DOI": "10.1145/2601097.2601227",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_66_1",
+                "DOI": "10.1145/1037957.1037958",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_67_1",
+                "first-page": "3D",
+                "article-title": "Thingi10K",
+                "volume": "10",
+                "author": "Zhou Qingnan",
+                "year": "2016",
+                "journal-title": "A Dataset of"
+            },
+            {
+                "key": "e_1_2_2_68_1",
+                "DOI": "10.1145/3197517.3201359",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "https://dl.acm.org/doi/pdf/10.1145/3306346.3323012",
+                "content-type": "application/pdf",
+                "content-version": "vor",
+                "intended-application": "syndication"
+            },
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3323012&ftid=2071709&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    5,
+                    5
+                ]
+            ],
+            "date-time": "2020-05-05T17:18:06Z",
+            "timestamp": 1588699086000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "references-count": 68,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        12
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3306346.3323012"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3306346.3323012",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

@@ -1,0 +1,443 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:11:21Z",
+            "timestamp": 1586002281440
+        },
+        "reference-count": 42,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100000145",
+                "name": "Division of Information and Intelligent Systems",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "IIS-1111415, IIS-1116296"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601148",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-8",
+        "source": "Crossref",
+        "is-referenced-by-count": 10,
+        "title": [
+            "Modeling and optimizing eye vergence response to stereoscopic cuts"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Krzysztof",
+                "family": "Templin",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "MIT CSAIL and MPI Informatik"
+                    }
+                ]
+            },
+            {
+                "given": "Piotr",
+                "family": "Didyk",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "MIT CSAIL"
+                    }
+                ]
+            },
+            {
+                "given": "Karol",
+                "family": "Myszkowski",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "MPI Informatik"
+                    }
+                ]
+            },
+            {
+                "given": "Mohamed M.",
+                "family": "Hefeeda",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Qatar Computing Research Institute"
+                    }
+                ]
+            },
+            {
+                "given": "Hans-Peter",
+                "family": "Seidel",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "MPI Informatik"
+                    }
+                ]
+            },
+            {
+                "given": "Wojciech",
+                "family": "Matusik",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "MIT CSAIL"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1016/j.visres.2005.01.017",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/2578153.2578169",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1364/JOSA.49.000568",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1016/j.visres.2006.08.019",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "Cutting J. Brunick K. Delong J. Iricinschi C. and Candan A. 2011. Quicker faster darker: Changes in hollywood film over 75 years. i-PERCEPTION 2 6 569--76.  Cutting J. Brunick K. Delong J. Iricinschi C. and Candan A. 2011. Quicker faster darker: Changes in hollywood film over 75 years. i-PERCEPTION 2 6 569--76.",
+                "DOI": "10.1068/i0441aap",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/2508363.2508387",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1016/S0275-5408(99)00057-5",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/2491956.2462166",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "Finke R. 1989. Principles of Mental Imagery. MIT Press.  Finke R. 1989. Principles of Mental Imagery . MIT Press."
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/2010324.1964989",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1167/8.3.33",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "first-page": "3486",
+                "article-title": "Vergence eye movements under natural viewing conditions",
+                "volume": "35",
+                "author": "Hung G. K.",
+                "year": "1994",
+                "journal-title": "Invest. Ophthalmol. Vis. Sci."
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1111/j.1475-1313.1992.tb00404.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1016/S0169-2607(97)00048-5",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "unstructured": "Hung G. K. 2001. Models of oculomotor control. World Scientific Publishing Singapore.  Hung G. K. 2001. Models of oculomotor control . World Scientific Publishing Singapore.",
+                "DOI": "10.1142/4652",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1109/MCG.2010.37",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1109/TC.1987.5009446",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1097/00006324-197707000-00007",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.2352/J.ImagingSci.Technol.2009.53.3.030201",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1016/j.displa.2011.05.012",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/1778765.1778812",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1109/TPAMI.2010.147",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1109/TCSVT.2004.823398",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "Mendiburu B. 2009. 3D Movie Making: Stereoscopic Digital Cinema from Script to Screen. Focal Press.  Mendiburu B. 2009. 3D Movie Making: Stereoscopic Digital Cinema from Script to Screen . Focal Press."
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1007/s12559-010-9074-z",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "first-page": "552",
+                "article-title": "Human visual accommodation and vergence eye movement while viewing stereoscopic display and actual target",
+                "volume": "2",
+                "author": "Okuyama F.",
+                "year": "1998",
+                "journal-title": "Proc. IEEE Eng. Med. Biol. Society"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/2070781.2024223",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "author": "Owens C.",
+                "volume-title": "2nd Toronto International Stereoscopic 3D Conference."
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/2228360.2228472",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1016/0042-6989(79)90208-6",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1097/00006324-199204000-00002",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1046/j.1475-1313.1999.00409.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1364/JOSA.69.000639",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "first-page": "558",
+                "article-title": "Quantitative assessment of disparity vergence components",
+                "volume": "27",
+                "author": "Semmlow J.",
+                "year": "1986",
+                "journal-title": "Invest. Ophthalmol. Vis. Sci."
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1167/11.8.11",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "author": "Tam W. J.",
+                "volume-title": "Proc. SPIE, A. J. Woods, N. S. Holliman, and G. E. Favalora, Eds., 8288:13"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1046/j.1475-1313.2002.00061.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1167/12.1.16",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.3758/BF03202828",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1016/j.displa.2004.09.002",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1109/JPROC.2010.2095810",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.5555/2383894.2383905",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601148&amp;ftid=1488954&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:55:41Z",
+            "timestamp": 1586001341000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 42,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601148"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601148",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

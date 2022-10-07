@@ -1,0 +1,374 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:54Z",
+            "timestamp": 1585962714800
+        },
+        "reference-count": 33,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201399",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-10",
+        "source": "Crossref",
+        "is-referenced-by-count": 17,
+        "title": [
+            "Online optical marker-based hand tracking with deep labels"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Shangchen",
+                "family": "Han",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Facebook Reality Labs"
+                    }
+                ]
+            },
+            {
+                "given": "Beibei",
+                "family": "Liu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Facebook Reality Labs"
+                    }
+                ]
+            },
+            {
+                "given": "Robert",
+                "family": "Wang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Facebook Reality Labs"
+                    }
+                ]
+            },
+            {
+                "given": "Yuting",
+                "family": "Ye",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Facebook Reality Labs"
+                    }
+                ]
+            },
+            {
+                "given": "Christopher D.",
+                "family": "Twigg",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Facebook Reality Labs"
+                    }
+                ]
+            },
+            {
+                "given": "Kenrick",
+                "family": "Kin",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Facebook Reality Labs"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "2018. OptiTrack Motion Capture Systems. (2018). https://www.optitrack.com  2018. OptiTrack Motion Capture Systems. (2018). https://www.optitrack.com"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "2018. Vicon Motion Systems. (2018). https://www.vicon.com/  2018. Vicon Motion Systems. (2018). https://www.vicon.com/"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/2994258.2994264",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "Simon Alexanderson Carol O'Sullivan and Jonas Beskow. 2017. Real-time labeling of non-rigid motion capture marker sets. Computers & graphics (2017). 10.1016/j.cag.2017.10.001   Simon Alexanderson Carol O'Sullivan and Jonas Beskow. 2017. Real-time labeling of non-rigid motion capture marker sets. Computers & graphics (2017). 10.1016/j.cag.2017.10.001"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/2933540.2933551",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "author": "Aristidou A.",
+                "volume-title": "2010 4th International Symposium on Communications, Control and Signal Processing (ISCCSP)."
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "author": "Bulat Adrian",
+                "year": "2016",
+                "volume-title": "Computer Vision - ECCV"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "Thomas H. Cormen Charles E. Leiserson Ronald L. Rivest and Clifford Stein. 2009. Introduction to Algorithms Third Edition (3rd ed.). The MIT Press.   Thomas H. Cormen Charles E. Leiserson Ronald L. Rivest and Clifford Stein. 2009. Introduction to Algorithms Third Edition (3rd ed.). The MIT Press."
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "author": "He Kaiming",
+                "year": "2017",
+                "volume-title": "Mask R-CNN. In The IEEE International Conference on Computer Vision (ICCV)."
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1007/978-3-642-34710-8_23",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "M. Kitagawa and B. Windsor. 2008. MoCap for Artists: Workflow and Techniques for Motion Capture. Focal Press.   M. Kitagawa and B. Windsor. 2008. MoCap for Artists: Workflow and Techniques for Motion Capture. Focal Press.",
+                "DOI": "10.1016/B978-0-240-81000-3.50012-7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "unstructured": "Alex Krizhevsky Ilya Sutskever and Geoffrey E Hinton. 2012. ImageNet Classification with Deep Convolutional Neural Networks. In Advances in Neural Information Processing Systems (NIPS).   Alex Krizhevsky Ilya Sutskever and Geoffrey E Hinton. 2012. ImageNet Classification with Deep Convolutional Neural Networks. In Advances in Neural Information Processing Systems (NIPS)."
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "author": "Maycock Jonathan",
+                "volume-title": "15th IEEE-RAS International Conference on Humanoid Robots. 461--466"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "author": "Meyer J.",
+                "volume-title": "2014 IEEE International Conference on Robotics and Automation (ICRA)."
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "author": "Oikonomidis Iason",
+                "volume-title": "Tracking the Articulated Motion of Two Strongly Interacting Hands. In The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)."
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "Shaoqing Ren Kaiming He Ross Girshick and Jian Sun. 2015. Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks. In Advances in Neural Information Processing Systems (NIPS).   Shaoqing Ren Kaiming He Ross Girshick and Jian Sun. 2015. Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks. In Advances in Neural Information Processing Systems (NIPS)."
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1109/CVPR.2017.701",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "author": "Ringer Maurice",
+                "year": "2002",
+                "volume-title": "Multiple Hypothesis Tracking for Automatic Optical Motion Capture. In The 7th European Conference on Computer Vision (ECCV)."
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.5244/C.16.73",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/2822013.2822026",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "Matthias Schr\u00f6der Thomas Waltemate Jonathan Maycock Tobias R\u00c3\u0171hlig Helge Ritter and Mario Botsch. 2017. Design and evaluation of reduced marker layouts for hand motion capture. Computer Animation and Virtual Worlds (2017) e1751.  Matthias Schr\u00f6der Thomas Waltemate Jonathan Maycock Tobias R\u00c3\u0171hlig Helge Ritter and Mario Botsch. 2017. Design and evaluation of reduced marker layouts for hand motion capture. Computer Animation and Virtual Worlds (2017) e1751.",
+                "DOI": "10.1002/cav.1751",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1109/ICRA.2016.7487771",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "author": "Schubert T.",
+                "volume-title": "2015 IEEE International Conference on Robotics and Automation (ICRA)."
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.5244/C.29.128",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "author": "Simon Tomas",
+                "year": "2017",
+                "volume-title": "Hand Keypoint Detection in Single Images Using Multiview Bootstrapping. In The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)."
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "author": "Simonyan K.",
+                "volume-title": "Proceedings of the International Conference on Learning Representations (ICLR)."
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/2897824.2925965",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/3130800.3130853",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/2980179.2980226",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/2629500",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/2522628.2522656",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "unstructured": "Nkenge Wheatland Yingying Wang Huaguang Song Michael Neff Victor Zordan and Sophie J\u00c3\u0171rg. 2015. State of the Art in Hand and Finger Modeling and Animation. Computer Graphics Forum (2015). 10.1111/cgf.12595   Nkenge Wheatland Yingying Wang Huaguang Song Michael Neff Victor Zordan and Sophie J\u00c3\u0171rg. 2015. State of the Art in Hand and Finger Modeling and Animation. Computer Graphics Forum (2015). 10.1111/cgf.12595"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "unstructured": "Yonghui Wu Mike Schuster Zhifeng Chen Quoc V. Le Mohammad Norouzi Wolfgang Macherey Maxim Krikun Yuan Cao Qin Gao Klaus Macherey Jeff Klingner Apurva Shah Melvin Johnson Xiaobing Liu Lukasz Kaiser Stephan Gouws Yoshikiyo Kato Taku Kudo Hideto Kazawa Keith Stevens George Kurian Nishant Patil Wei Wang Cliff Young Jason Smith Jason Riesa Alex Rudnick Oriol Vinyals Gregory S. Corrado Macduff Hughes and Jeffrey Dean. 2016. Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation. CoRR abs/1609.08144 (2016).  Yonghui Wu Mike Schuster Zhifeng Chen Quoc V. Le Mohammad Norouzi Wolfgang Macherey Maxim Krikun Yuan Cao Qin Gao Klaus Macherey Jeff Klingner Apurva Shah Melvin Johnson Xiaobing Liu Lukasz Kaiser Stephan Gouws Yoshikiyo Kato Taku Kudo Hideto Kazawa Keith Stevens George Kurian Nishant Patil Wei Wang Cliff Young Jason Smith Jason Riesa Alex Rudnick Oriol Vinyals Gregory S. Corrado Macduff Hughes and Jeffrey Dean. 2016. Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation. CoRR abs/1609.08144 (2016)."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201399&ftid=1991747&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:45:23Z",
+            "timestamp": 1585961123000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 33,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201399"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201399",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

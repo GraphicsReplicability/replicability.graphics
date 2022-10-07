@@ -1,0 +1,447 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:29Z",
+            "timestamp": 1585962689447
+        },
+        "reference-count": 47,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100011199",
+                "name": "FP7 Ideas: European Research Council",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "291763"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201362",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 15,
+        "title": [
+            "Deep convolutional priors for indoor scene synthesis"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Kai",
+                "family": "Wang",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Brown University"
+                    }
+                ]
+            },
+            {
+                "given": "Manolis",
+                "family": "Savva",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Princeton University"
+                    }
+                ]
+            },
+            {
+                "given": "Angel X.",
+                "family": "Chang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Princeton University"
+                    }
+                ]
+            },
+            {
+                "given": "Daniel",
+                "family": "Ritchie",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Brown University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "Andrej Karpathy. 2015. char-rnn. https://github.com/karpathy/char-rnn. (2015). Accessed: 2018-01-20.  Andrej Karpathy. 2015. char-rnn. https://github.com/karpathy/char-rnn. (2015). Accessed: 2018-01-20."
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "Angel X Chang Manolis Savva and Christopher D Manning. 2014. Learning Spatial Knowledge for Text to 3D Scene Generation. In Empirical Methods in Natural Language Processing (EMNLP).  Angel X Chang Manolis Savva and Christopher D Manning. 2014. Learning Spatial Knowledge for Text to 3D Scene Generation. In Empirical Methods in Natural Language Processing (EMNLP).",
+                "DOI": "10.3115/v1/D14-1217",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/2661229.2661239",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/2816795.2818096",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "B. Efron and R. Tibshirani. 1986. Bootstrap Methods for Standard Errors Confidence Intervals and Other Measures of Statistical Accuracy. Statist. Sci. 1 1 (02 1986) 54--75.  B. Efron and R. Tibshirani. 1986. Bootstrap Methods for Standard Errors Confidence Intervals and Other Measures of Statistical Accuracy. Statist. Sci. 1 1 (02 1986) 54--75.",
+                "DOI": "10.1214/ss/1177013815",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "unstructured": "Kevin Ellis Daniel Ritchie Armando Solar-Lezama and Joshua B. Tenenbaum. 2017. Learning to Infer Graphics Programs from Hand-Drawn Images. CoRR arXiv:1707.09627 (2017).  Kevin Ellis Daniel Ritchie Armando Solar-Lezama and Joshua B. Tenenbaum. 2017. Learning to Infer Graphics Programs from Hand-Drawn Images. CoRR arXiv:1707.09627 (2017)."
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "author": "Ali Eslami S. M.",
+                "year": "2016",
+                "volume-title": "Repeat: Fast Scene Understanding with Generative Models. In NIPS"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/2366145.2366154",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "Matthew Fisher Manolis Savva Yangyan Li Pat Hanrahan and Matthias Nie\u00dfner. 2015. Activity-centric Scene Synthesis for Functional 3D Scene Modeling. (2015).  Matthew Fisher Manolis Savva Yangyan Li Pat Hanrahan and Matthias Nie\u00dfner. 2015. Activity-centric Scene Synthesis for Functional 3D Scene Modeling. (2015).",
+                "DOI": "10.1145/2816795.2818057",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/3130800.3130805",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "author": "Goodfellow Ian",
+                "year": "2014",
+                "volume-title": "Generative Adversarial Nets. In NIPS"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "author": "Gregor Karol",
+                "year": "2015",
+                "volume-title": "DRAW: A Recurrent Neural Network For Image Generation. In ICML"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "David Ha and Douglas Eck. 2017. A Neural Representation of Sketch Drawings. CoRR arXiv:1704.03477 (2017).  David Ha and Douglas Eck. 2017. A Neural Representation of Sketch Drawings. CoRR arXiv:1704.03477 (2017)."
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "author": "He Kaiming",
+                "year": "2016",
+                "volume-title": "Deep Residual Learning for Image Recognition. In CVPR"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "unstructured": "Paul Henderson and Vittorio Ferrari. 2017. A Generative Model of 3D Object Layouts in Apartments. CoRR arXiv:1711.10939 (2017). H. Huang E. Kalogerakis S. Chaudhuri D. Ceylan V. Kim and E. Yumer. 2017. Learning Local Shape Descriptors with View-based Convolutional Neural Networks. ACM Transactions on Graphics (2017).  Paul Henderson and Vittorio Ferrari. 2017. A Generative Model of 3D Object Layouts in Apartments. CoRR arXiv:1711.10939 (2017). H. Huang E. Kalogerakis S. Chaudhuri D. Ceylan V. Kim and E. Yumer. 2017. Learning Local Shape Descriptors with View-based Convolutional Neural Networks. ACM Transactions on Graphics (2017)."
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "author": "Isola Phillip",
+                "year": "2017",
+                "volume-title": "Image-to-image Translation with Conditional Adversarial Networks. In CVPR"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1109/CVPR.2017.702",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1111/cgf.12976",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "author": "Diederik",
+                "year": "2015",
+                "volume-title": "Adam: A Method for Stochastic Optimization. In ICLR"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "author": "Diederik",
+                "year": "2014",
+                "volume-title": "Auto-Encoding Variational Bayes. In ICLR"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/3072959.3073637",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "author": "Liang Yuan",
+                "year": "2017",
+                "volume-title": "Automatic Data-Driven Room Design Generation. In Next Generation Computer Animation Techniques: Third International Workshop (AniNex"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1111/cgf.12977",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/2766898",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/1964921.1964982",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "unstructured": "Tomas Mikolov Kai Chen Greg Corrado and Jeffrey Dean. 2013. Efficient Estimation of Word Representations in Vector Space. CoRR arXiv:1301.3781 (2013).  Tomas Mikolov Kai Chen Greg Corrado and Jeffrey Dean. 2013. Efficient Estimation of Word Representations in Vector Space. CoRR arXiv:1301.3781 (2013)."
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "unstructured": "Adam Paszke Sam Gross Soumith Chintala Gregory Chanan Edward Yang Zachary DeVito Zeming Lin Alban Desmaison Luca Antiga and Adam Lerer. 2017. Automatic differentiation in PyTorch. (2017).  Adam Paszke Sam Gross Soumith Chintala Gregory Chanan Edward Yang Zachary DeVito Zeming Lin Alban Desmaison Luca Antiga and Adam Lerer. 2017. Automatic differentiation in PyTorch. (2017)."
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/3072959.3073602",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "Planner5d. 2017. Home Design Software and Interior Design Tool ONLINE for home and floor plans in 2D and 3D. https://planner5d.com. (2017). Accessed: 2017-10-20.  Planner5d. 2017. Home Design Software and Interior Design Tool ONLINE for home and floor plans in 2D and 3D. https://planner5d.com. (2017). Accessed: 2017-10-20."
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "author": "Qi Siyuan",
+                "year": "2018",
+                "volume-title": "Human-centric Indoor Scene Synthesis Using Stochastic Grammar. In Conference on Computer Vision and Pattern Recognition (CVPR)."
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "author": "Ren Shaoqing",
+                "year": "2015",
+                "volume-title": "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks. In NIPS"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "author": "Ritchie Daniel",
+                "year": "2016",
+                "volume-title": "NIPS"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/2661229.2661230",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "unstructured": "Gopal Sharma Rishabh Goyal Difan Liu Evangelos Kalogerakis and Subhransu Maji. 2017. CSGNet: Neural Shape Parser for Constructive Solid Geometry. CoRR arXiv:1712.08290 (2017).  Gopal Sharma Rishabh Goyal Difan Liu Evangelos Kalogerakis and Subhransu Maji. 2017. CSGNet: Neural Shape Parser for Constructive Solid Geometry. CoRR arXiv:1712.08290 (2017).",
+                "DOI": "10.1109/CVPR.2018.00578",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1109/CVPR.2017.28",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1109/ICCV.2015.114",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "unstructured": "Minhyuk Sung Hao Su Vladimir G. Kim Siddhartha Chaudhuri and Leonidas J. Guibas. 2017. ComplementMe: Weakly-Supervised Component Suggestions for 3D Modeling. In SIGGRAPH Asia 2017. 10.1145/3130800.3130821   Minhyuk Sung Hao Su Vladimir G. Kim Siddhartha Chaudhuri and Leonidas J. Guibas. 2017. ComplementMe: Weakly-Supervised Component Suggestions for 3D Modeling. In SIGGRAPH Asia 2017. 10.1145/3130800.3130821"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "unstructured": "Benigno Uria Marc-Alexandre Cote Karol Gregor Iain Murray and Hugo Larochelle. 2016. Neural Autoregressive Distribution Estimation. CoRR arXiv:1605.02226 (2016).   Benigno Uria Marc-Alexandre Cote Karol Gregor Iain Murray and Hugo Larochelle. 2016. Neural Autoregressive Distribution Estimation. CoRR arXiv:1605.02226 (2016)."
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "author": "Den Oord Aaron Van",
+                "year": "2016",
+                "volume-title": "Wavenet: A generative model for raw audio. arXiv preprint arXiv:1609.03499"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "unstructured": "Aaron van den Oord Nal Kalchbrenner Lasse Espeholt Oriol Vinyals Alex Graves etal 2016. Conditional image generation with pixelcnn decoders. In Advances in Neural Information Processing Systems. 4790--4798.   Aaron van den Oord Nal Kalchbrenner Lasse Espeholt Oriol Vinyals Alex Graves et al. 2016. Conditional image generation with pixelcnn decoders. In Advances in Neural Information Processing Systems. 4790--4798."
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1145/2461912.2461968",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "first-page": "25",
+                "article-title": "Constraint-based automatic placement for scene composition",
+                "volume": "2",
+                "author": "Xu Ken",
+                "year": "2002",
+                "journal-title": "Graphics Interface"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1145/2185520.2185552",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1145/1964921.1964981",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "author": "Zhang Richard",
+                "year": "2016",
+                "volume-title": "Colorful Image Colorization. In ECCV"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "unstructured": "Jun-Yan Zhu Richard Zhang Deepak Pathak Trevor Darrell Alexei A Efros Oliver Wang and Eli Shechtman. 2017. Toward multimodal image-to-image translation. In Advances in Neural Information Processing Systems. 465--476.  Jun-Yan Zhu Richard Zhang Deepak Pathak Trevor Darrell Alexei A Efros Oliver Wang and Eli Shechtman. 2017. Toward multimodal image-to-image translation. In Advances in Neural Information Processing Systems. 465--476."
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "author": "Zou C.",
+                "year": "2017",
+                "volume-title": "ICCV"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201362&ftid=1991589&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:41:33Z",
+            "timestamp": 1585960893000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 47,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201362"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201362",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

@@ -1,0 +1,533 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:11:20Z",
+            "timestamp": 1586002280714
+        },
+        "reference-count": 53,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100006785",
+                "name": "Google",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100000145",
+                "name": "Division of Information and Intelligent Systems",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "DMS 1228304, CCF 1161480, IIS-1251217, CNS-0831374"
+                ]
+            },
+            {
+                "DOI": "10.13039/100000006",
+                "name": "Office of Naval Research",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "N00014-13-1-0341"
+                ]
+            },
+            {
+                "DOI": "10.13039/100004344",
+                "name": "Adobe Systems",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100000144",
+                "name": "Division of Computer and Network Systems",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "DMS 1228304, CCF 1161480, IIS-1251217, CNS-0831374"
+                ]
+            },
+            {
+                "DOI": "10.13039/100002418",
+                "name": "Intel Corporation",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100000121",
+                "name": "Division of Mathematical Sciences",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "DMS 1228304, CCF 1161480, IIS-1251217, CNS-0831374"
+                ]
+            },
+            {
+                "DOI": "10.13039/100000181",
+                "name": "Air Force Office of Scientific Research",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "FA9550-12-1-0372"
+                ]
+            },
+            {
+                "DOI": "10.13039/100000143",
+                "name": "Division of Computing and Communication Foundations",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "DMS 1228304, CCF 1161480, IIS-1251217, CNS-0831374"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601117",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 50,
+        "title": [
+            "Shape2Pose"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Vladimir G.",
+                "family": "Kim",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Siddhartha",
+                "family": "Chaudhuri",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Princeton University"
+                    }
+                ]
+            },
+            {
+                "given": "Leonidas",
+                "family": "Guibas",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Thomas",
+                "family": "Funkhouser",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Princeton University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "Bard C. and Troccaz J. 1990. Automatic preshaping for a dextrous hand from a simple description of objects. Intelligent Robots and Systems 865--872.  Bard C. and Troccaz J. 1990. Automatic preshaping for a dextrous hand from a simple description of objects. Intelligent Robots and Systems 865--872."
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "author": "Bohg J.",
+                "year": "2013",
+                "article-title": "Data driven grasp synthesis - a survey",
+                "journal-title": "IEEE Transactions on Robotics."
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1023/A:1010933404324",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "Buss S. R. 2005. Introduction to inverse kinematics with jacobian transpose pseudoinverse and damped least squares methods. Unpublished survey.  Buss S. R. 2005. Introduction to inverse kinematics with jacobian transpose pseudoinverse and damped least squares methods. Unpublished survey ."
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/1964921.1964930",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/2185520.2185525",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "unstructured": "Delaitre V. Fouhey D. Laptev I. Sivic J. Gupta A. and Efros A. 2012. Scene semantics from long-term observation of people. In ECCV. 10.1007/978-3-642-33783-3_21   Delaitre V. Fouhey D. Laptev I. Sivic J. Gupta A. and Efros A. 2012. Scene semantics from long-term observation of people. In ECCV . 10.1007/978-3-642-33783-3_21",
+                "DOI": "10.1007/978-3-642-33783-3_21",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1109/TRO.2012.2217675",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "Fouhey D. F. Delaitre V. Gupta A. Efros A. A. Laptev I. and Sivic J. 2012. People watching: Human actions as a cue for single-view geometry. In ECCV. 10.1007/978-3-642-33715-4_53   Fouhey D. F. Delaitre V. Gupta A. Efros A. A. Laptev I. and Sivic J. 2012. People watching: Human actions as a cue for single-view geometry. In ECCV . 10.1007/978-3-642-33715-4_53",
+                "DOI": "10.1007/978-3-642-33715-4_53",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "Fritz G. Paletta L. Breithaupt R. and Rome E. 2006. Learning predictive features in affordance based robotic perception systems. In Intelligent Robots and Systems 3642--3647.  Fritz G. Paletta L. Breithaupt R. and Rome E. 2006. Learning predictive features in affordance based robotic perception systems. In Intelligent Robots and Systems 3642--3647.",
+                "DOI": "10.1109/IROS.2006.281720",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "Fu H. Cohen-Or D. Dror G. and Sheffer A. 2008. Upright orientation of man-made objects. SIGGRAPH. 10.1145/1399504.1360641   Fu H. Cohen-Or D. Dror G. and Sheffer A. 2008. Upright orientation of man-made objects. SIGGRAPH . 10.1145/1399504.1360641",
+                "DOI": "10.1145/1399504.1360641",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "unstructured": "Gal R. and Cohen-Or D. 2006. Salient geometric features for partial shape matching and similarity. ACM Trans. Graph. 10.1145/1122501.1122507   Gal R. and Cohen-Or D. 2006. Salient geometric features for partial shape matching and similarity. ACM Trans. Graph . 10.1145/1122501.1122507"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "Gal R. Sorkine O. Mitra N. J. and Cohen-Or D. 2009. iWIRES: An analyze-and-edit approach to shape manipulation. SIGGRAPH 28 3 #33 1--10. 10.1145/1531326.1531339   Gal R. Sorkine O. Mitra N. J. and Cohen-Or D. 2009. iWIRES: An analyze-and-edit approach to shape manipulation. SIGGRAPH 28 3 #33 1--10. 10.1145/1531326.1531339",
+                "DOI": "10.1145/1531326.1531339",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Gibson J. J. 1977. The theory of affordances. Lawrence Erlbaum.  Gibson J. J. 1977. The theory of affordances. Lawrence Erlbaum ."
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1007/s10514-011-9228-1",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1016/j.cag.2009.03.010",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "Grabner H. Gall J. and van Gool L. 2011. What makes a chair a chair? CVPR. 10.1109/CVPR.2011.5995327   Grabner H. Gall J. and van Gool L. 2011. What makes a chair a chair? CVPR . 10.1109/CVPR.2011.5995327",
+                "DOI": "10.1109/CVPR.2011.5995327",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "unstructured": "Gupta A. Satkin S. Efros A. A. and Hebert M. 2011. From 3D scene geometry to human workspace. In IEEE CVPR. 10.1109/CVPR.2011.5995448   Gupta A. Satkin S. Efros A. A. and Hebert M. 2011. From 3D scene geometry to human workspace. In IEEE CVPR . 10.1109/CVPR.2011.5995448",
+                "DOI": "10.1109/CVPR.2011.5995448",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "unstructured": "Hermans T. Rehg J. M. and Bobick A. 2011. Affordance prediction via learned object attributes. ICRA.  Hermans T. Rehg J. M. and Bobick A. 2011. Affordance prediction via learned object attributes. ICRA ."
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "Huang Q. Koltun V. and Guibas L. 2011. Joint shape segmentation with linear programming. In SIGGRAPH Asia. 10.1145/2024156.2024159   Huang Q. Koltun V. and Guibas L. 2011. Joint shape segmentation with linear programming. In SIGGRAPH Asia . 10.1145/2024156.2024159",
+                "DOI": "10.1145/2024156.2024159",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "Huang Q.-x. Zhang G.-X. Gao L. Hu S.-M. Butscher A. and Guibas L. 2012. An optimization approach for extracting and encoding consistent maps. SIGGRAPH Asia. 10.1145/2366145.2366186   Huang Q.-x. Zhang G.-X. Gao L. Hu S.-M. Butscher A. and Guibas L. 2012. An optimization approach for extracting and encoding consistent maps. SIGGRAPH Asia . 10.1145/2366145.2366186"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "unstructured": "Huang Q. Su H. and Guibas L. 2013. Fine-grained semi-supervised labeling of large shape collections. SIGGRAPH Asia. 10.1145/2508363.2508364   Huang Q. Su H. and Guibas L. 2013. Fine-grained semi-supervised labeling of large shape collections. SIGGRAPH Asia . 10.1145/2508363.2508364",
+                "DOI": "10.1145/2508363.2508364",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "Jiang Y. and Saxena A. 2012. Hallucinating humans for learning robotic placement of objects. ISER.  Jiang Y. and Saxena A. 2012. Hallucinating humans for learning robotic placement of objects. ISER .",
+                "DOI": "10.1007/978-3-319-00065-7_61",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "Jiang Y. and Saxena A. 2013. Infinite latent conditional random fields for modeling environments through humans. RSS.  Jiang Y. and Saxena A. 2013. Infinite latent conditional random fields for modeling environments through humans. RSS .",
+                "DOI": "10.1109/ICCVW.2013.42",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "unstructured": "Jiang Y. Lim M. and Saxena A. 2012. Learning object arrangements in 3D scenes using human context. ICML.  Jiang Y. Lim M. and Saxena A. 2012. Learning object arrangements in 3D scenes using human context. ICML ."
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "unstructured": "Jiang Y. Koppula H. S. and Saxena A. 2013. Hallucinated humans as the hidden context for labeling 3D scenes. CVPR. 10.1109/CVPR.2013.385   Jiang Y. Koppula H. S. and Saxena A. 2013. Hallucinated humans as the hidden context for labeling 3D scenes. CVPR . 10.1109/CVPR.2013.385",
+                "DOI": "10.1109/CVPR.2013.385",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "unstructured": "Kalogerakis E. Hertzmann A. and Singh K. 2010. Learning 3D mesh segmentation and labeling. In SIGGRAPH. 10.1145/1833349.1778839   Kalogerakis E. Hertzmann A. and Singh K. 2010. Learning 3D mesh segmentation and labeling. In SIGGRAPH . 10.1145/1833349.1778839",
+                "DOI": "10.1145/1833349.1778839",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "unstructured": "Kalogerakis E. Chaudhuri S. Koller D. and Koltun V. 2012. A probabilistic model for component-based shape synthesis. SIGGRAPH. 10.1145/2185520.2185551   Kalogerakis E. Chaudhuri S. Koller D. and Koltun V. 2012. A probabilistic model for component-based shape synthesis. SIGGRAPH . 10.1145/2185520.2185551"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "Kim V. G. Li W. Mitra N. DiVerdi S. and Funkhouser T. 2012. Exploring collections of 3D models using fuzzy correspondences. SIGGRAPH. 10.1145/2185520.2185550   Kim V. G. Li W. Mitra N. DiVerdi S. and Funkhouser T. 2012. Exploring collections of 3D models using fuzzy correspondences. SIGGRAPH . 10.1145/2185520.2185550"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "unstructured": "Kim V. G. Li W. Mitra N. J. Chaudhuri S. DiVerdi S. and Funkhouser T. 2013. Learning part-based templates from large collections of 3D shapes. SIGGRAPH. 10.1145/2461912.2461933   Kim V. G. Li W. Mitra N. J. Chaudhuri S. DiVerdi S. and Funkhouser T. 2013. Learning part-based templates from large collections of 3D shapes. SIGGRAPH . 10.1145/2461912.2461933",
+                "DOI": "10.1145/2461912.2461933",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "unstructured": "Lee C. Varshney A. and Jacobs D. 2005. Mesh saliency. SIGGRAPH. 10.1145/1186822.1073244   Lee C. Varshney A. and Jacobs D. 2005. Mesh saliency. SIGGRAPH . 10.1145/1186822.1073244",
+                "DOI": "10.1145/1186822.1073244",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "unstructured": "Lenz I. Lee H. and Saxena A. 2013. Deep learning for detecting robotic grasps. In RSS.  Lenz I. Lee H. and Saxena A. 2013. Deep learning for detecting robotic grasps. In RSS .",
+                "DOI": "10.15607/RSS.2013.IX.012",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "unstructured": "Mitra N. J. Pauly M. Wand M. and Ceylan D. 2012. Symmetry in 3D geometry: Extraction and applications. In EUROGRAPHICS State-of-the-art Report.  Mitra N. J. Pauly M. Wand M. and Ceylan D. 2012. Symmetry in 3D geometry: Extraction and applications. In EUROGRAPHICS State-of-the-art Report .",
+                "DOI": "10.1111/cgf.12010",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "unstructured": "Mitra N. J. Wand M. Zhang H. Cohen-Or D. Kim V. and Huang Q.-X. 2013. Structure-aware shape processing. In Courses Siggraph Asia. 10.1145/2542266.2542267   Mitra N. J. Wand M. Zhang H. Cohen-Or D. Kim V. and Huang Q.-X. 2013. Structure-aware shape processing. In Courses Siggraph Asia . 10.1145/2542266.2542267",
+                "DOI": "10.1145/2542266.2542267",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "unstructured": "Norman D. 1988. The Psychology of Everyday Things. Basic Books.  Norman D. 1988. The Psychology of Everyday Things . Basic Books."
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "unstructured": "Ovsjanikov M. Li W. Guibas L. and Mitra N. J. 2011. Exploration of continuous variability in collections of 3D shapes. SIGGRAPH 30 4 33:1--33:10. 10.1145/1964921.1964928   Ovsjanikov M. Li W. Guibas L. and Mitra N. J. 2011. Exploration of continuous variability in collections of 3D shapes. SIGGRAPH 30 4 33:1--33:10. 10.1145/1964921.1964928",
+                "DOI": "10.1145/2010324.1964928",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/1141911.1141923",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "unstructured": "Pollard N. S. and Zordan V. B. 2005. Physically based grasping control from example. SCA. 10.1145/1073368.1073413   Pollard N. S. and Zordan V. B. 2005. Physically based grasping control from example. SCA . 10.1145/1073368.1073413",
+                "DOI": "10.1145/1073368.1073413",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "unstructured": "Przybylski M. Wachter M. Asfour T. and Dillmann R. 2012. A skeleton-based approach to grasp known objects with a humanoid robot. Humanoid Robots.  Przybylski M. Wachter M. Asfour T. and Dillmann R. 2012. A skeleton-based approach to grasp known objects with a humanoid robot. Humanoid Robots .",
+                "DOI": "10.1109/HUMANOIDS.2012.6651547",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "unstructured": "Rosales C. Porta J. and Ros L. 2011. Global optimization of robotic grasps. RSS.  Rosales C. Porta J. and Ros L. 2011. Global optimization of robotic grasps. RSS ."
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "unstructured": "Saxena A. Driemeyer J. Kearns J. and Ng A. 2006. Robotic grasping of novel objects. In NIPS.  Saxena A. Driemeyer J. Kearns J. and Ng A. 2006. Robotic grasping of novel objects. In NIPS ."
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "unstructured": "Saxena A. 2009. Monocular depth perception and robotic grasping of novel objects. PhD thesis Stanford University.   Saxena A. 2009. Monocular depth perception and robotic grasping of novel objects . PhD thesis Stanford University."
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1145/2019627.2019628",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1007/s00371-007-0197-5",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1145/1243980.1243981",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "unstructured": "Sidi O. van Kaick O. Kleiman Y. Zhang H. and Cohen-Or D. 2011. Unsupervised co-segmentation of a set of shapes via descriptor-space spectral clustering. SIGGRAPH Asia 30 6 126:1--126:9. 10.1145/2024156.2024160   Sidi O. van Kaick O. Kleiman Y. Zhang H. and Cohen-Or D. 2011. Unsupervised co-segmentation of a set of shapes via descriptor-space spectral clustering. SIGGRAPH Asia 30 6 126:1--126:9. 10.1145/2024156.2024160",
+                "DOI": "10.1145/2070781.2024160",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "unstructured": "Stark M. Lies P. Zillich M. Wyatt J. and Schiele B. 2008. Functional object class detection based on learned affordance cues. Computer Vision Systems.   Stark M. Lies P. Zillich M. Wyatt J. and Schiele B. 2008. Functional object class detection based on learned affordance cues. Computer Vision Systems ."
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "unstructured": "Sun J. Moore J. L. Bobick A. and Rehg J. M. 2009. Learning visual object categories for robot affordance prediction. The International Journal of Robotics Research.  Sun J. Moore J. L. Bobick A. and Rehg J. M. 2009. Learning visual object categories for robot affordance prediction. The International Journal of Robotics Research ."
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "unstructured": "Trimble 2013. Trimble 3D warehouse http://sketchup.google.com/3dwarehouse/.  Trimble 2013. Trimble 3D warehouse http://sketchup.google.com/3dwarehouse/."
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "unstructured": "van Kaick O. Xu K. Zhang H. Wang Y. Sun S. Shamir A. and Cohen-Or D. 2013. Co-hierarchical analysis of shape structures. SIGGRAPH 32 4 69:1--69:10. 10.1145/2461912.2461924   van Kaick O. Xu K. Zhang H. Wang Y. Sun S. Shamir A. and Cohen-Or D. 2013. Co-hierarchical analysis of shape structures. SIGGRAPH 32 4 69:1--69:10. 10.1145/2461912.2461924"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "unstructured": "Wei P. Zhao Y. B. Zheng N. and Zhu S. 2013. Modeling 4D human-object interactions for event and object recognition. ICCV. 10.1109/ICCV.2013.406   Wei P. Zhao Y. B. Zheng N. and Zhu S. 2013. Modeling 4D human-object interactions for event and object recognition. ICCV . 10.1109/ICCV.2013.406",
+                "DOI": "10.1109/ICCV.2013.406",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "DOI": "10.1109/TVCG.2007.1033",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "unstructured": "Zhao W. Zhang J. Min J. and Chai J. 2013. Robust realtime physically based motion control for human grasping. In SIGGRAPH Asia. 10.1145/2508363.2508412   Zhao W. Zhang J. Min J. and Chai J. 2013. Robust realtime physically based motion control for human grasping. In SIGGRAPH Asia . 10.1145/2508363.2508412"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601117&amp;ftid=1488928&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:47:19Z",
+            "timestamp": 1586000839000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "human-centric shape analysis"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 53,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601117"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601117",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

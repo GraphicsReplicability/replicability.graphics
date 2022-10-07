@@ -1,0 +1,500 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:55Z",
+            "timestamp": 1585962715453
+        },
+        "reference-count": 51,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201338",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 6,
+        "title": [
+            "DSCarver"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Haisen",
+                "family": "Zhao",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Shandong University"
+                    }
+                ]
+            },
+            {
+                "given": "Hao",
+                "family": "Zhang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Simon Fraser University"
+                    }
+                ]
+            },
+            {
+                "given": "Shiqing",
+                "family": "Xin",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shandong University"
+                    }
+                ]
+            },
+            {
+                "given": "Yuanmin",
+                "family": "Deng",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shandong University"
+                    }
+                ]
+            },
+            {
+                "given": "Changhe",
+                "family": "Tu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shandong University"
+                    }
+                ]
+            },
+            {
+                "given": "Wenping",
+                "family": "Wang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Hong Kong University"
+                    }
+                ]
+            },
+            {
+                "given": "Daniel",
+                "family": "Cohen-Or",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Tel Aviv University"
+                    }
+                ]
+            },
+            {
+                "given": "Baoquan",
+                "family": "Chen",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shandong University and Peking University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "first-page": "7",
+                "article-title": "Optimization of CNC isoscallop free form surface machining using a genetic algorithm",
+                "volume": "46",
+                "author": "Agrawal Rajneesh Kumar",
+                "year": "2006",
+                "journal-title": "The International Journal of Advanced Manufacturing Technology"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1007/s00170-005-0269-5",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "unstructured": "Karlo Apro. 2008. Secrets of 5-axis machining. Industrial Press Inc.   Karlo Apro. 2008. Secrets of 5-axis machining. Industrial Press Inc."
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1111/cgf.13146",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1016/j.rcim.2005.04.001",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/1882261.1866188",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1109/34.969114",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1111/cgf.12173",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1007/s00170-010-2698-z",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/2816795.2818087",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "B. Choi and R. Jerrard. 1998. Sculptured Surface Machining: Theory and Applications. Kluwer Academic Publishers.  B. Choi and R. Jerrard. 1998. Sculptured Surface Machining: Theory and Applications. Kluwer Academic Publishers.",
+                "DOI": "10.1007/978-1-4615-5283-3_1",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1287/moor.4.3.233",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "Thomas H. Cormen Charles E. Leiserson Ronald L. Rivest and Clifford Stein. 2001. Introduction to Algorithms. MIT Press and McGraw-Hill.   Thomas H. Cormen Charles E. Leiserson Ronald L. Rivest and Clifford Stein. 2001. Introduction to Algorithms. MIT Press and McGraw-Hill."
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/2516971.2516977",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/2516971.2516977",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1007/s00170-014-5808-5",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1016/j.amc.2015.04.122",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1016/j.cagd.2012.11.003",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1115/1.2039100",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "Stefan Gottschalk Ming Lin Dinesh Manocha and Eric Larsen. 1999. PQP-the proximity query package. Accessed October 4 (1999) 2011.  Stefan Gottschalk Ming Lin Dinesh Manocha and Eric Larsen. 1999. PQP-the proximity query package. Accessed October 4 (1999) 2011."
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1243/09544054JEM1224",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1016/0010-4485(95)00071-2",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1007/s00170-010-3004-9",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "Manjuri Hazarika Uday Shanker Dixit et al. 2015. Setup planning for machining. Springer.  Manjuri Hazarika Uday Shanker Dixit et al. 2015. Setup planning for machining. Springer.",
+                "DOI": "10.1007/978-3-319-13320-1",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1080/16864360.2014.863508",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1111/cgf.12556",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1016/j.cag.2013.05.011",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/2661229.2661244",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "Ralph L Keeney and Howard Raiffa. 1993. Decisions with multiple objectives: preferences and value trade-offs. Cambridge university press.  Ralph L Keeney and Howard Raiffa. 1993. Decisions with multiple objectives: preferences and value trade-offs. Cambridge university press.",
+                "DOI": "10.1017/CBO9781139174084",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "first-page": "5",
+                "article-title": "CL surface deformation approach for a 5-axis tool path generation",
+                "volume": "28",
+                "author": "Kim Su Jin",
+                "year": "2006",
+                "journal-title": "International Journal of Advanced Manufacturing Technology"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/2816795.2818060",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1016/j.cad.2010.04.002",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1111/1467-8659.t01-1-00582",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/2601097.2601168",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1145/2366145.2366148",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "author": "Misra Debananda",
+                "volume-title": "Geometric and algorithmic aspects of computer-aided design and manufacturing: DIMACS workshop computer aided design and manufacturing"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1016/S0010-4485(02)00111-2",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1016/j.cagd.2008.01.002",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/2461912.2461957",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1007/s00170-008-1385-9",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1111/j.1467-8659.2007.01103.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "unstructured": "Siemens. 2016. NX Software. http://www.plm.automation.siemens.com/en_us/products/nx/index.shtml. (2016).  Siemens. 2016. NX Software. http://www.plm.automation.siemens.com/en_us/products/nx/index.shtml. (2016)."
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "unstructured": "Ondrej Stava Juraj Vanek Bedrich Benes Nathan Carr and Radomir M\u011bch. 2012. Stress relief: improving structural strength of 3D printable objects. ACM Tran. on Graph 31 4 (2012) 48:1--48:11. 10.1145/2185520.2185544   Ondrej Stava Juraj Vanek Bedrich Benes Nathan Carr and Radomir M\u011bch. 2012. Stress relief: improving structural strength of 3D printable objects. ACM Tran. on Graph 31 4 (2012) 48:1--48:11. 10.1145/2185520.2185544",
+                "DOI": "10.1145/2185520.2185544",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1080/002075498192346",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1016/j.cad.2014.11.012",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "author": "Xu Nuo",
+                "year": "2007",
+                "volume-title": "International journal of manufacturing technology and management 11, 2"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "DOI": "10.1108/13552540210413284",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "DOI": "10.1145/2897824.2925958",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "DOI": "10.1007/s11424-013-3173-3",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "unstructured": "Bo Zhou Jibin Zhao Lun Li and Renbo Xia. 2016. A smooth double spiral tool path generation and linking method for high-speed machining of multiply-connected pockets. Precision Engineering (2016).  Bo Zhou Jibin Zhao Lun Li and Renbo Xia. 2016. A smooth double spiral tool path generation and linking method for high-speed machining of multiply-connected pockets. Precision Engineering (2016)."
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "first-page": "217",
+                "article-title": "Iso-level tool path planning for free-form surfaces",
+                "volume": "53",
+                "author": "Zoua Qiang",
+                "year": "2014",
+                "journal-title": "Computer-Aided Design"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201338&ftid=1991635&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:52:14Z",
+            "timestamp": 1585961534000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "decompose-and-spiral-carve for subtractive manufacturing"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 51,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201338"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201338",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

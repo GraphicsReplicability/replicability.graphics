@@ -1,0 +1,381 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2020-07-12T20:10:15Z",
+            "timestamp": 1594584615341
+        },
+        "reference-count": 33,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2019,
+                            7,
+                            12
+                        ]
+                    ],
+                    "date-time": "2019-07-12T00:00:00Z",
+                    "timestamp": 1562889600000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "name": "National Key Research & Development Program of China",
+                "award": [
+                    "2018YFE0100900"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "DOI": "10.1145/3306346.3322969",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2019-07-12T19:04:08Z",
+            "timestamp": 1562958248000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 2,
+        "title": [
+            "NeuroSkinning"
+        ],
+        "prefix": "10.1145",
+        "volume": "38",
+        "author": [
+            {
+                "given": "Lijuan",
+                "family": "Liu",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "NetEase Fuxi AI Lab"
+                    }
+                ]
+            },
+            {
+                "given": "Youyi",
+                "family": "Zheng",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Zhejiang University"
+                    }
+                ]
+            },
+            {
+                "given": "Di",
+                "family": "Tang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "NetEase Fuxi AI Lab"
+                    }
+                ]
+            },
+            {
+                "given": "Yi",
+                "family": "Yuan",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "NetEase Fuxi AI Lab"
+                    }
+                ]
+            },
+            {
+                "given": "Changjie",
+                "family": "Fan",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "NetEase Fuxi AI Lab"
+                    }
+                ]
+            },
+            {
+                "given": "Kun",
+                "family": "Zhou",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Zhejiang University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/3197517.3201300",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1111/cgf.12751",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/3186565",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "Ilya Baran and Jovan Popovi\u0107. 2007. Automatic rigging and animation of 3d characters. ACM Transactions on graphics (TOG) 26 3 (2007) 72:1--72:8. 10.1145/1276377.1276467   Ilya Baran and Jovan Popovi\u0107. 2007. Automatic rigging and animation of 3d characters. ACM Transactions on graphics (TOG) 26 3 (2007) 72:1--72:8. 10.1145/1276377.1276467"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "Davide Boscaini Jonathan Masci Emanuele Rodol\u00e0 and Michael Bronstein. 2016. Learning shape correspondence with anisotropic convolutional neural networks. In Advances in Neural Information Processing Systems. 3189--3197.   Davide Boscaini Jonathan Masci Emanuele Rodol\u00e0 and Michael Bronstein. 2016. Learning shape correspondence with anisotropic convolutional neural networks. In Advances in Neural Information Processing Systems. 3189--3197."
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "unstructured": "Joan Bruna Wojciech Zaremba Arthur Szlam and Yann LeCun. 2013. Spectral Networks and Locally Connected Networks on Graphs. CoRR abs/1312.6203 (2013).  Joan Bruna Wojciech Zaremba Arthur Szlam and Yann LeCun. 2013. Spectral Networks and Locally Connected Networks on Graphs. CoRR abs/1312.6203 (2013)."
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "unstructured": "Micha\u00ebl Defferrard Xavier Bresson and Pierre Vandergheynst. 2016. Convolutional neural networks on graphs with fast localized spectral filtering. In Advances in Neural Information Processing Systems. 3844--3852.   Micha\u00ebl Defferrard Xavier Bresson and Pierre Vandergheynst. 2016. Convolutional neural networks on graphs with fast localized spectral filtering. In Advances in Neural Information Processing Systems. 3844--3852."
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/2485895.2485919",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1109/TVCG.2014.2321563",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "Will Hamilton Zhitao Ying and Jure Leskovec. 2017. Inductive representation learning on large graphs. In Advances in Neural Information Processing Systems. 1024--1034.   Will Hamilton Zhitao Ying and Jure Leskovec. 2017. Inductive representation learning on large graphs. In Advances in Neural Information Processing Systems. 1024--1034."
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "Mikael Henaff Joan Bruna and Yann LeCun. 2015. Deep Convolutional Networks on Graph-Structured Data. CoRR abs/1506.05163 (2015).  Mikael Henaff Joan Bruna and Yann LeCun. 2015. Deep Convolutional Networks on Graph-Structured Data. CoRR abs/1506.05163 (2015)."
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1109/CVPR.2017.632",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/2010324.1964973",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/1230100.1230107",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/2366145.2366215",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/1053427.1053429",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/3072959.3073685",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "unstructured": "Thomas N. Kipf and Max Welling. 2016. Semi-Supervised Classification with Graph Convolutional Networks. CoRR abs/1609.02907 (2016).  Thomas N. Kipf and Max Welling. 2016. Semi-Supervised Classification with Graph Convolutional Networks. CoRR abs/1609.02907 (2016)."
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/2601097.2601161",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/2897824.2925959",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/2816795.2818013",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "author": "Luo Ran",
+                "volume": "24",
+                "year": "2018",
+                "article-title": "NNWarp: Neural Network-based Nonlinear Deformation",
+                "journal-title": "IEEE Transactions on Visualization and Computer Graphics"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1109/ICCVW.2015.112",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1109/CVPR.2017.576",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/2897824.2925905",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "author": "Qi Charles R",
+                "volume": "1",
+                "year": "2017",
+                "volume-title": "Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "unstructured": "Yi-Ling Qiao Lin Gao Yu-Kun Lai and Shihong Xia. 2018. Learning Bidirectional LSTM Networks for Synthesizing 3D Mesh Animation Sequences. CoRR abs/1810.02042 (2018).  Yi-Ling Qiao Lin Gao Yu-Kun Lai and Shihong Xia. 2018. Learning Bidirectional LSTM Networks for Synthesizing 3D Mesh Animation Sequences. CoRR abs/1810.02042 (2018)."
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/2626346",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "Qingyang Tan Lin Gao Yu-Kun Lai Jie Yang and Shihong Xia. 2018. Mesh-Based Autoencoders for Localized Deformation Component Analysis. In AAAI.  Qingyang Tan Lin Gao Yu-Kun Lai Jie Yang and Shihong Xia. 2018. Mesh-Based Autoencoders for Localized Deformation Component Analysis. In AAAI."
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "unstructured": "Kiran Koshy Thekumparampil Chong Wang Sewoong Oh and Li-Jia Li. 2018. Attention-based Graph Neural Network for Semi-supervised Learning. CoRR abs/1803.03735 (2018).  Kiran Koshy Thekumparampil Chong Wang Sewoong Oh and Li-Jia Li. 2018. Attention-based Graph Neural Network for Semi-supervised Learning. CoRR abs/1803.03735 (2018)."
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "unstructured": "Ashish Vaswani Noam Shazeer Niki Parmar Jakob Uszkoreit Llion Jones Aidan N Gomez \u0141ukasz Kaiser and Illia Polosukhin. 2017. Attention is all you need. In Advances in Neural Information Processing Systems. 5998--6008.   Ashish Vaswani Noam Shazeer Niki Parmar Jakob Uszkoreit Llion Jones Aidan N Gomez \u0141ukasz Kaiser and Illia Polosukhin. 2017. Attention is all you need. In Advances in Neural Information Processing Systems. 5998--6008."
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "author": "Veli\u010dkovi\u0107 Petar",
+                "year": "2018",
+                "volume-title": "Graph Attention Networks. International Conference on Learning Representations"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1007/978-3-540-70517-8_7",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3322969&ftid=2071693&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2020-07-12T19:28:53Z",
+            "timestamp": 1594582133000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "automatic skin binding for production characters with deep graph networks"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "references-count": 33,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        12
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3306346.3322969"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3306346.3322969",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

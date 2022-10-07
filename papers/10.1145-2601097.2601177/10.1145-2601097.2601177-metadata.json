@@ -1,0 +1,459 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:11:20Z",
+            "timestamp": 1586002280804
+        },
+        "reference-count": 44,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100004675",
+                "name": "Autodesk",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100005851",
+                "name": "John Simon Guggenheim Memorial Foundation",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100002418",
+                "name": "Intel Corporation",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100000145",
+                "name": "Division of Information and Intelligent Systems",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "HCC-0905506, DGE-1144153"
+                ]
+            },
+            {
+                "DOI": "10.13039/100000082",
+                "name": "Division of Graduate Education",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "HCC-0905506, DGE-1144153"
+                ]
+            },
+            {
+                "name": "Advanced CAE Research",
+                "award": []
+            },
+            {
+                "name": "Pixar",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601177",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-9",
+        "source": "Crossref",
+        "is-referenced-by-count": 12,
+        "title": [
+            "Eigenmode compression for modal sound models"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Timothy R.",
+                "family": "Langlois",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Cornell University"
+                    }
+                ]
+            },
+            {
+                "given": "Steven S.",
+                "family": "An",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Cornell University"
+                    }
+                ]
+            },
+            {
+                "given": "Kelvin K.",
+                "family": "Jin",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Cornell University"
+                    }
+                ]
+            },
+            {
+                "given": "Doug L.",
+                "family": "James",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Cornell University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "Adrien J.-M. 1991. Representations of musical signals. MIT Press Cambridge MA USA ch. The Missing Link: Modal Synthesis 269--298.   Adrien J.-M. 1991. Representations of musical signals. MIT Press Cambridge MA USA ch. The Missing Link: Modal Synthesis 269--298."
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "Agarwal S. Mierle K. and Others. Ceres solver. https://code.google.com/p/ceres-solver/.  Agarwal S. Mierle K. and Others. Ceres solver. https://code.google.com/p/ceres-solver/."
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "author": "Alexa M.",
+                "volume": "19",
+                "volume-title": "Computer Graphics Forum"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "author": "Alexa M.",
+                "volume-title": "Proceedings of the Conference on Visualization '01, IEEE Computer Society, Washington, DC, USA, VIS '01, 21--28"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1121/1.2761883",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "unstructured": "Bathe K.-J. 1996. Finite Element Procedures second ed. Prentice Hall.  Bathe K.-J. 1996. Finite Element Procedures second ed. Prentice Hall."
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/1360612.1360623",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/1618452.1618465",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/2185520.2185599",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "author": "Cook P. R.",
+                "year": "1995",
+                "volume-title": "Proceedings of the International Computer Music Conference, 525--528"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "Cook P. 2002. Real Sound Synthesis for Interactive Applications. A. K. Peters.   Cook P. 2002. Real Sound Synthesis for Interactive Applications . A. K. Peters.",
+                "DOI": "10.1201/b19597",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "author": "Fastl H.",
+                "year": "2006",
+                "volume-title": "Psychoacoustics: Facts and models"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/1073204.1073227",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Grelaud D. Bonneel N. Wimmer M. Asselot M. and Drettakis G. 2009. Efficient and practical audio-visual rendering for games using crossmodal perception. In I3D '09: Proceedings of the 2009 symposium on Interactive 3D graphics and games ACM New York NY USA 177--182. 10.1145/1507149.1507178   Grelaud D. Bonneel N. Wimmer M. Asselot M. and Drettakis G. 2009. Efficient and practical audio-visual rendering for games using crossmodal perception. In I3D '09: Proceedings of the 2009 symposium on Interactive 3D graphics and games ACM New York NY USA 177--182. 10.1145/1507149.1507178",
+                "DOI": "10.1145/1507149.1507178",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/882262.882358",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/1028523.1028547",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "Howe M. S. 1998. Acoustics of fluid-structure interactions. Cambridge University Press.  Howe M. S. 1998. Acoustics of fluid-structure interactions . Cambridge University Press.",
+                "DOI": "10.1017/CBO9780511662898",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/588272.588278",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/1141911.1141983",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/1507149.1507173",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "author": "Kolarov K.",
+                "volume": "3164",
+                "volume-title": "Proc. of SPIE Conference on Applications of Digital Image Processing XX"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/1778765.1778840",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "Liu Y. J. 2009. Fast Multipole Boundary Element Method: Theory and Applications in Engineering. Cambridge University Press Cambridge.  Liu Y. J. 2009. Fast Multipole Boundary Element Method: Theory and Applications in Engineering . Cambridge University Press Cambridge.",
+                "DOI": "10.1017/CBO9780511605345",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/1138450.1138462",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/1141911.1141924",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "unstructured": "Mitra N. J. Pauly M. Wand M. and Ceylan D. 2012. Symmetry in 3d geometry: Extraction and applications. In EUROGRAPHICS State-of-the-art Report.  Mitra N. J. Pauly M. Wand M. and Ceylan D. 2012. Symmetry in 3d geometry: Extraction and applications. In EUROGRAPHICS State-of-the-art Report .",
+                "DOI": "10.1111/cgf.12010",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/545261.545290",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/383259.383268",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "author": "Pauly M.",
+                "volume-title": "Proceedings of the conference on Visualization '02, IEEE Computer Society, Washington, DC, USA, VIS '02, 163--170"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/1111411.1111429",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "unstructured": "Richmond J. L. 2000. Automatic measurement and modeling of contact sounds. Master's thesis University of British Columbia.  Richmond J. L. 2000. Automatic measurement and modeling of contact sounds . Master's thesis University of British Columbia."
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/1141911.1141920",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/218380.218439",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/2070781.2024198",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "unstructured": "Shabana A. A. 1990. Theory of Vibration Volume II: Discrete and Continuous Systems. Springer--Verlag New York NY.  Shabana A. A. 1990. Theory of Vibration Volume II: Discrete and Continuous Systems . Springer--Verlag New York NY."
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1145/1015706.1015816",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "author": "Simari P.",
+                "volume-title": "Proceedings of the Fourth Eurographics Symposium on Geometry Processing, Eurographics Association, Aire-la-Ville"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1109/SMI.2004.38",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/1015706.1015710",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "author": "van den Doel K.",
+                "volume-title": "Intl Conf. on Auditory Display."
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1145/383259.383322",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1162/105474604774048252",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1145/1778765.1778806",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1145/2010324.1964933",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601177&amp;ftid=1488849&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:57:37Z",
+            "timestamp": 1586001457000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 44,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601177"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601177",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

@@ -1,0 +1,368 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T05:03:50Z",
+            "timestamp": 1585976630110
+        },
+        "reference-count": 37,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100003977",
+                "name": "Israel Science Foundation",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "1869/15, 2102/15"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925929",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-15",
+        "source": "Crossref",
+        "is-referenced-by-count": 6,
+        "title": [
+            "On the convexity and feasibility of the bounded distortion harmonic mapping problem"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Zohar",
+                "family": "Levi",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Victoria University of Wellington, New Zealand"
+                    }
+                ]
+            },
+            {
+                "given": "Ofir",
+                "family": "Weber",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Bar Ilan University, Israel"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "Ahlfors L. 1979. Complex analysis vol. 7. McGraw-Hill Education.  Ahlfors L. 1979. Complex analysis vol. 7. McGraw-Hill Education."
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/2461912.2461931",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/2601097.2601158",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1111/1467-8659.00575",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "ApS M. 2015. The MOSEK optimization toolbox for MATLAB manual. Version 7.1 (Revision 28).  ApS M. 2015. The MOSEK optimization toolbox for MATLAB manual. Version 7.1 (Revision 28)."
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "unstructured": "Bell S. R. 1992. The Cauchy transform potential theory and conformal mapping vol. 7. CRC press.  Bell S. R. 1992. The Cauchy transform potential theory and conformal mapping vol. 7. CRC press."
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1111/cgf.12014",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1109/TVCG.2007.1054",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "Boyd S. and Vandenberghe L. 2004. Convex optimization. Cambridge University Press.   Boyd S. and Vandenberghe L. 2004. Convex optimization . Cambridge University Press.",
+                "DOI": "10.1017/CBO9780511804441",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/2766989",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/2897824.2925926",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "unstructured": "Duren P. 2004. Harmonic mappings in the plane. Cambridge University Press.  Duren P. 2004. Harmonic mappings in the plane . Cambridge University Press.",
+                "DOI": "10.1017/CBO9780511546600",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "Floater M. and Hormann K. 2005. Surface Parameterization: a Tutorial and Survey. Adv. Multi. Geom. Modelling.  Floater M. and Hormann K. 2005. Surface Parameterization: a Tutorial and Survey. Adv. Multi. Geom. Modelling ."
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1016/S0167-8396(96)00031-3",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "author": "Grant M.",
+                "year": "2008",
+                "volume-title": "Cvx: Matlab software for disciplined convex programming."
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "first-page": "153",
+                "article-title": "Mips: An efficient global parametrization method",
+                "volume": "99",
+                "author": "Hormann K.",
+                "year": "2000",
+                "journal-title": "Curve and Surface Design: Saint-Malo"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/1276377.1276466",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/1138450.1138461",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/2601097.2601142",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/2816795.2818098",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/2661229.2661258",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/566654.566590",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/2185520.2185604",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.5555/1731309.1731336",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/2601097.2601123",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1111/cgf.12179",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1561/0600000011",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "unstructured": "Sorkine O. and Alexa M. 2007. As-rigid-as-possible surface modeling. In SGP 109--116.   Sorkine O. and Alexa M. 2007. As-rigid-as-possible surface modeling. In SGP 109--116."
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1111/j.1467-8659.2006.00999.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/1360612.1360676",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1112/plms/s3-13.1.743",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/1778765.1778815",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/2601097.2601227",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1111/j.1467-8659.2009.01399.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1111/j.1467-8659.2012.03173.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "unstructured": "Weber O. 2010. Hybrid Methods for Interactive Shape Manipulation. PhD thesis Technion - Israel Institute of Technology.  Weber O. 2010. Hybrid Methods for Interactive Shape Manipulation . PhD thesis Technion - Israel Institute of Technology."
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "unstructured": "Wolberg G. 1998. Image morphing: a survey. The visual computer 14 8 360--372.  Wolberg G. 1998. Image morphing: a survey. The visual computer 14 8 360--372.",
+                "DOI": "10.1007/s003710050148",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925929&amp;ftid=1755902&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:42:07Z",
+            "timestamp": 1585964527000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 37,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925929"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925929",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

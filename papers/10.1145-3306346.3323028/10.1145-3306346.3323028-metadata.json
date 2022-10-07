@@ -1,0 +1,673 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    3
+                ]
+            ],
+            "date-time": "2020-07-03T23:40:33Z",
+            "timestamp": 1593819633215
+        },
+        "reference-count": 76,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2020,
+                            7,
+                            12
+                        ]
+                    ],
+                    "date-time": "2020-07-12T00:00:00Z",
+                    "timestamp": 1594512000000
+                },
+                "delay-in-days": 366,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100004344",
+                "name": "Adobe Systems",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100011199",
+                "name": "FP7 Ideas: European Research Council",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "Consolidator Grant 4DRepLy #770784"
+                ]
+            },
+            {
+                "DOI": "10.13039/100007084",
+                "name": "Princeton Environmental Institute, Princeton University",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100008502",
+                "name": "Brown Institute for Media Innovation",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100000001",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "NSF GRFP #DGE-1656466"
+                ]
+            },
+            {
+                "DOI": "10.13039/100007242",
+                "name": "Office of the Dean for Research, Princeton University",
+                "doi-asserted-by": "publisher",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "DOI": "10.1145/3306346.3323028",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2019-07-12T19:04:08Z",
+            "timestamp": 1562958248000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 5,
+        "title": [
+            "Text-based editing of talking-head video"
+        ],
+        "prefix": "10.1145",
+        "volume": "38",
+        "author": [
+            {
+                "given": "Ohad",
+                "family": "Fried",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Ayush",
+                "family": "Tewari",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Max Planck Institute for Informatics"
+                    }
+                ]
+            },
+            {
+                "given": "Michael",
+                "family": "Zollh\u00f6fer",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Adam",
+                "family": "Finkelstein",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Princeton University"
+                    }
+                ]
+            },
+            {
+                "given": "Eli",
+                "family": "Shechtman",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe"
+                    }
+                ]
+            },
+            {
+                "given": "Dan B",
+                "family": "Goldman",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Kyle",
+                "family": "Genova",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Princeton University"
+                    }
+                ]
+            },
+            {
+                "given": "Zeyu",
+                "family": "Jin",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe"
+                    }
+                ]
+            },
+            {
+                "given": "Christian",
+                "family": "Theobalt",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Max Planck Institute for Informatics"
+                    }
+                ]
+            },
+            {
+                "given": "Maneesh",
+                "family": "Agrawala",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_1_1_1",
+                "unstructured": "Annosoft. 2008. Lipsync Tool. (2008). http://www.annosoft.com/docs/Visemes17.html  Annosoft. 2008. Lipsync Tool. (2008). http://www.annosoft.com/docs/Visemes17.html"
+            },
+            {
+                "key": "e_1_2_1_2_1",
+                "DOI": "10.1145/3130800.3130818",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_3_1",
+                "unstructured": "Aayush Bansal Shugao Ma Deva Ramanan and Yaser Sheikh. 2018. Recycle-GAN: Unsupervised Video Retargeting. In ECCV.  Aayush Bansal Shugao Ma Deva Ramanan and Yaser Sheikh. 2018. Recycle-GAN: Unsupervised Video Retargeting. In ECCV.",
+                "DOI": "10.1007/978-3-030-01228-1_8",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_4_1",
+                "DOI": "10.1145/2185520.2185563",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_5_1",
+                "DOI": "10.1111/j.1467-8659.2004.00799.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_6_1",
+                "DOI": "10.1145/311535.311556",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_7_1",
+                "DOI": "10.1007/s11263-017-1009-7",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_8_1",
+                "DOI": "10.1145/258734.258880",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_9_1",
+                "DOI": "10.1145/2766943",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_10_1",
+                "unstructured": "Caroline Chan Shiry Ginosar Tinghui Zhou and Alexei A. Efros. 2018. Everybody Dance Now. arXiv e-prints (August 2018). arXiv:1808.07371  Caroline Chan Shiry Ginosar Tinghui Zhou and Alexei A. Efros. 2018. Everybody Dance Now. arXiv e-prints (August 2018). arXiv:1808.07371"
+            },
+            {
+                "key": "e_1_2_1_11_1",
+                "DOI": "10.1145/1073368.1073388",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_12_1",
+                "author": "Chen Qifeng",
+                "year": "2017",
+                "volume-title": "Photographic Image Synthesis with Cascaded Refinement Networks. In International Conference on Computer Vision (ICCV). 1520--1529"
+            },
+            {
+                "key": "e_1_2_1_13_1",
+                "author": "Dou Pengfei",
+                "volume-title": "The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)."
+            },
+            {
+                "key": "e_1_2_1_14_1",
+                "DOI": "10.1145/2897824.2925984",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_15_1",
+                "DOI": "10.1145/566654.566594",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_16_1",
+                "DOI": "10.1145/2638549",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_17_1",
+                "unstructured": "J. S. Garofolo L. F. Lamel W. M. Fisher J. G. Fiscus D. S. Pallett and N. L. Dahlgren. 1993. DARPA TIMIT Acoustic Phonetic Continuous Speech Corpus CDROM. (1993). http://www.ldc.upenn.edu/Catalog/LDC93S1.html  J. S. Garofolo L. F. Lamel W. M. Fisher J. G. Fiscus D. S. Pallett and N. L. Dahlgren. 1993. DARPA TIMIT Acoustic Phonetic Continuous Speech Corpus CDROM. (1993). http://www.ldc.upenn.edu/Catalog/LDC93S1.html",
+                "DOI": "10.6028/NIST.IR.4930",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_18_1",
+                "unstructured": "Pablo Garrido Levi Valgaerts Ole Rehmsen Thorsten Thormaehlen Patrick P\u00e9rez and Christian Theobalt. 2014. Automatic Face Reenactment. In CVPR. 4217--4224. 10.1109/CVPR.2014.537   Pablo Garrido Levi Valgaerts Ole Rehmsen Thorsten Thormaehlen Patrick P\u00e9rez and Christian Theobalt. 2014. Automatic Face Reenactment. In CVPR. 4217--4224. 10.1109/CVPR.2014.537",
+                "DOI": "10.1109/CVPR.2014.537",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_19_1",
+                "DOI": "10.1111/cgf.12552",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_20_1",
+                "DOI": "10.1145/2890493",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_21_1",
+                "DOI": "10.1145/3272127.3275043",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_22_1",
+                "author": "Genova Kyle",
+                "volume-title": "The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)."
+            },
+            {
+                "key": "e_1_2_1_23_1",
+                "unstructured": "Ian J. Goodfellow Jean Pouget-Abadie Mehdi Mirza Bing Xu David Warde-Farley Sherjil Ozair Aaron Courville and Yoshua Bengio. 2014. Generative Adversarial Nets. In Advances in Neural Information Processing Systems.   Ian J. Goodfellow Jean Pouget-Abadie Mehdi Mirza Bing Xu David Warde-Farley Sherjil Ozair Aaron Courville and Yoshua Bengio. 2014. Generative Adversarial Nets. In Advances in Neural Information Processing Systems."
+            },
+            {
+                "key": "e_1_2_1_24_1",
+                "unstructured": "Y. Guo J. Zhang J. Cai B. Jiang and J. Zheng. 2018. CNN-based Real-time Dense Face Reconstruction with Inverse-rendered Photo-realistic Face Images. IEEE Transactions on Pattern Analysis and Machine Intelligence (2018) 1--1.  Y. Guo J. Zhang J. Cai B. Jiang and J. Zheng. 2018. CNN-based Real-time Dense Face Reconstruction with Inverse-rendered Photo-realistic Face Images. IEEE Transactions on Pattern Analysis and Machine Intelligence (2018) 1--1."
+            },
+            {
+                "key": "e_1_2_1_25_1",
+                "DOI": "10.1109/ICASSP.1996.541110",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_26_1",
+                "unstructured": "IBM. 2016. IBM Speech to Text Service. https://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/doc/speech-to-text/. (2016). Accessed 2016-12-17.  IBM. 2016. IBM Speech to Text Service. https://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/doc/speech-to-text/. (2016). Accessed 2016-12-17."
+            },
+            {
+                "key": "e_1_2_1_27_1",
+                "DOI": "10.1145/2766974",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_28_1",
+                "author": "Isola Phillip",
+                "volume-title": "Image-to-Image Translation with Conditional Adversarial Networks. In Conference on Computer Vision and Pattern Recognition (CVPR). 5967--5976"
+            },
+            {
+                "key": "e_1_2_1_29_1",
+                "DOI": "10.1145/3072959.3073702",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_30_1",
+                "author": "Karras Tero",
+                "year": "2018",
+                "volume-title": "International Conference on Learning Representations (ICLR)."
+            },
+            {
+                "key": "e_1_2_1_31_1",
+                "DOI": "10.1109/ICCV.2013.404",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_32_1",
+                "author": "Kemelmacher-Shlizerman Ira",
+                "volume-title": "Being John Malkovich. In European Conference on Computer Vision (ECCV). 341--353"
+            },
+            {
+                "key": "e_1_2_1_33_1",
+                "DOI": "10.1145/3197517.3201283",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_34_1",
+                "unstructured": "H. Kim P. Garrido A. Tewari W. Xu J. Thies N. Nie\u00dfner P. P\u00e9rez C. Richardt M. Zollh\u00f6fer and C. Theobalt. 2018b. Deep Video Portraits. ACM Transactions on Graphics 2018 (TOG) (2018). 10.1145/3197517.3201283   H. Kim P. Garrido A. Tewari W. Xu J. Thies N. Nie\u00dfner P. P\u00e9rez C. Richardt M. Zollh\u00f6fer and C. Theobalt. 2018b. Deep Video Portraits. ACM Transactions on Graphics 2018 (TOG) (2018). 10.1145/3197517.3201283"
+            },
+            {
+                "key": "e_1_2_1_35_1",
+                "DOI": "10.1145/3072959.3073653",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_36_1",
+                "author": "Levenshtein Vladimir I",
+                "volume-title": "Soviet physics doklady"
+            },
+            {
+                "key": "e_1_2_1_37_1",
+                "DOI": "10.1109/TMM.2013.2293064",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_38_1",
+                "DOI": "10.1109/ICME.2011.6011835",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_39_1",
+                "unstructured": "L. Liu W. Xu M. Zollhoefer H. Kim F. Bernard M. Habermann W. Wang and C. Theobalt. 2018. Neural Animation and Reenactment of Human Actor Videos. ArXiv e-prints (September 2018). arXiv:1809.03658  L. Liu W. Xu M. Zollhoefer H. Kim F. Bernard M. Habermann W. Wang and C. Theobalt. 2018. Neural Animation and Reenactment of Human Actor Videos. ArXiv e-prints (September 2018). arXiv:1809.03658"
+            },
+            {
+                "key": "e_1_2_1_40_1",
+                "DOI": "10.1145/383259.383289",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_41_1",
+                "DOI": "10.1145/3272127.3275099",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_42_1",
+                "unstructured": "Wesley Mattheyses Lukas Latacz and Werner Verhelst. 2010. Optimized photorealistic audiovisual speech synthesis using active appearance modeling. In Auditory-Visual Speech Processing. 8--1.  Wesley Mattheyses Lukas Latacz and Werner Verhelst. 2010. Optimized photorealistic audiovisual speech synthesis using active appearance modeling. In Auditory-Visual Speech Processing. 8--1."
+            },
+            {
+                "key": "e_1_2_1_43_1",
+                "unstructured": "Mehdi Mirza and Simon Osindero. 2014. Conditional Generative Adversarial Nets. (2014). https://arxiv.org/abs/1411.1784 arXiv:1411.1784.  Mehdi Mirza and Simon Osindero. 2014. Conditional Generative Adversarial Nets. (2014). https://arxiv.org/abs/1411.1784 arXiv:1411.1784."
+            },
+            {
+                "key": "e_1_2_1_44_1",
+                "DOI": "10.1145/3272127.3275075",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_45_1",
+                "author": "Ochshorn Robert",
+                "year": "2016",
+                "volume-title": "Gentle: A Forced Aligner. https://lowerquality.com/gentle/."
+            },
+            {
+                "key": "e_1_2_1_46_1",
+                "DOI": "10.1109/ICCV.2017.580",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_47_1",
+                "DOI": "10.1145/2984511.2984552",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_48_1",
+                "DOI": "10.1145/2642918.2647400",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_49_1",
+                "author": "Radford Alec",
+                "year": "2016",
+                "volume-title": "Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks. In International Conference on Learning Representations (ICLR)."
+            },
+            {
+                "key": "e_1_2_1_50_1",
+                "DOI": "10.1109/3DV.2016.56",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_51_1",
+                "DOI": "10.1109/CVPR.2017.589",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_52_1",
+                "author": "Ronneberger Olaf",
+                "year": "2015",
+                "volume-title": "U-Net: Convolutional Networks for Biomedical Image Segmentation. In International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI). 234--241"
+            },
+            {
+                "key": "e_1_2_1_53_1",
+                "DOI": "10.1109/TPAMI.2016.2636829",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_54_1",
+                "DOI": "10.1145/2501988.2501993",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_55_1",
+                "author": "Sela Matan",
+                "year": "2017",
+                "volume-title": "Unrestricted Facial Geometry Reconstruction Using Image-to-Image Translation. In International Conference on Computer Vision (ICCV). 1585--1594"
+            },
+            {
+                "key": "e_1_2_1_56_1",
+                "unstructured": "Jonathan Shen Ruoming Pang Ron J Weiss Mike Schuster Navdeep Jaitly Zongheng Yang Zhifeng Chen Yu Zhang Yuxuan Wang Rj Skerrv-Ryan etal 2018. Natural tts synthesis by conditioning wavenet on mel spectrogram predictions. In ICASSP. IEEE 4779--4783.  Jonathan Shen Ruoming Pang Ron J Weiss Mike Schuster Navdeep Jaitly Zongheng Yang Zhifeng Chen Yu Zhang Yuxuan Wang Rj Skerrv-Ryan et al. 2018. Natural tts synthesis by conditioning wavenet on mel spectrogram predictions. In ICASSP. IEEE 4779--4783.",
+                "DOI": "10.1109/ICASSP.2018.8461368",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_57_1",
+                "DOI": "10.1145/2661229.2661290",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_58_1",
+                "DOI": "10.1145/2984511.2984561",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_59_1",
+                "DOI": "10.1007/978-3-030-01246-5_34",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_60_1",
+                "DOI": "10.1145/3072959.3073640",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_61_1",
+                "DOI": "10.1145/3072959.3073699",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_62_1",
+                "unstructured": "Ayush Tewari Michael Zollh\u00f6fer Florian Bernard Pablo Garrido Hyeongwoo Kim Patrick Perez and Christian Theobalt. 2018a. High-Fidelity Monocular Face Reconstruction based on an Unsupervised Model-based Face Autoencoder. IEEE Transactions on Pattern Analysis and Machine Intelligence (2018) 1--1.  Ayush Tewari Michael Zollh\u00f6fer Florian Bernard Pablo Garrido Hyeongwoo Kim Patrick Perez and Christian Theobalt. 2018a. High-Fidelity Monocular Face Reconstruction based on an Unsupervised Model-based Face Autoencoder. IEEE Transactions on Pattern Analysis and Machine Intelligence (2018) 1--1."
+            },
+            {
+                "key": "e_1_2_1_63_1",
+                "DOI": "10.1109/CVPR.2018.00270",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_64_1",
+                "unstructured": "Ayush Tewari Michael Zollh\u00f6fer Hyeongwoo Kim Pablo Garrido Florian Bernard Patrick P\u00e9rez and Christian Theobalt. 2017. MoFA: Model-based Deep Convolutional Face Autoencoder for Unsupervised Monocular Reconstruction. In ICCV. 3735--3744.  Ayush Tewari Michael Zollh\u00f6fer Hyeongwoo Kim Pablo Garrido Florian Bernard Patrick P\u00e9rez and Christian Theobalt. 2017. MoFA: Model-based Deep Convolutional Face Autoencoder for Unsupervised Monocular Reconstruction. In ICCV. 3735--3744.",
+                "DOI": "10.1109/ICCV.2017.401",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_65_1",
+                "DOI": "10.1145/2929464.2929475",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_66_1",
+                "DOI": "10.1109/CVPR.2017.163",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_67_1",
+                "DOI": "10.1145/2984511.2984569",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_68_1",
+                "unstructured": "A\u00e4ron Van Den Oord Sander Dieleman Heiga Zen Karen Simonyan Oriol Vinyals Alex Graves Nal Kalchbrenner Andrew W Senior and Koray Kavukcuoglu. 2016. WaveNet: A generative model for raw audio. In SSW. 125.  A\u00e4ron Van Den Oord Sander Dieleman Heiga Zen Karen Simonyan Oriol Vinyals Alex Graves Nal Kalchbrenner Andrew W Senior and Koray Kavukcuoglu. 2016. WaveNet: A generative model for raw audio. In SSW. 125."
+            },
+            {
+                "key": "e_1_2_1_69_1",
+                "DOI": "10.1145/1073204.1073209",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_70_1",
+                "unstructured": "Ting-Chun Wang Ming-Yu Liu Jun-Yan Zhu Guilin Liu Andrew Tao Jan Kautz and Bryan Catanzaro. 2018a. Video-to-Video Synthesis. In Advances in Neural Information Processing Systems (NeurIPS).   Ting-Chun Wang Ming-Yu Liu Jun-Yan Zhu Guilin Liu Andrew Tao Jan Kautz and Bryan Catanzaro. 2018a. Video-to-Video Synthesis. In Advances in Neural Information Processing Systems (NeurIPS)."
+            },
+            {
+                "key": "e_1_2_1_71_1",
+                "unstructured": "Ting-Chun Wang Ming-Yu Liu Jun-Yan Zhu Andrew Tao Jan Kautz and Bryan Catanzaro. 2018b. High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs. In CVPR.  Ting-Chun Wang Ming-Yu Liu Jun-Yan Zhu Andrew Tao Jan Kautz and Bryan Catanzaro. 2018b. High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs. In CVPR."
+            },
+            {
+                "key": "e_1_2_1_72_1",
+                "author": "Wiles O.",
+                "volume-title": "European Conference on Computer Vision."
+            },
+            {
+                "key": "e_1_2_1_73_1",
+                "DOI": "10.1121/1.2935783",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_74_1",
+                "unstructured": "Heiga Zen Keiichi Tokuda and Alan W Black. 2009. Statistical parametric speech synthesis. speech communication 51 11 (2009) 1039--1064. 10.1016/j.specom.2009.04.004   Heiga Zen Keiichi Tokuda and Alan W Black. 2009. Statistical parametric speech synthesis. speech communication 51 11 (2009) 1039--1064. 10.1016/j.specom.2009.04.004"
+            },
+            {
+                "key": "e_1_2_1_75_1",
+                "DOI": "10.1145/3197517.3201292",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_76_1",
+                "unstructured": "M. Zollh\u00f6fer J. Thies P. Garrido D. Bradley T. Beeler P. P\u00e9rez M. Stamminger M. Nie\u00dfner and C. Theobalt. 2018. State of the Art on Monocular 3D Face Reconstruction Tracking and Applications. Computer Graphics Forum (Eurographics State of the Art Reports 2018) 37 2 (2018).  M. Zollh\u00f6fer J. Thies P. Garrido D. Bradley T. Beeler P. P\u00e9rez M. Stamminger M. Nie\u00dfner and C. Theobalt. 2018. State of the Art on Monocular 3D Face Reconstruction Tracking and Applications. Computer Graphics Forum (Eurographics State of the Art Reports 2018) 37 2 (2018).",
+                "DOI": "10.1111/cgf.13382",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "https://dl.acm.org/doi/pdf/10.1145/3306346.3323028",
+                "content-type": "application/pdf",
+                "content-version": "vor",
+                "intended-application": "syndication"
+            },
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3323028&ftid=2071716&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    3
+                ]
+            ],
+            "date-time": "2020-07-03T23:13:57Z",
+            "timestamp": 1593818037000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "references-count": 76,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        12
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3306346.3323028"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3306346.3323028",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

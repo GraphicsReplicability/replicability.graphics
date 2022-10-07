@@ -1,0 +1,345 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:55Z",
+            "timestamp": 1585962715634
+        },
+        "reference-count": 29,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "name": "KAKENHI",
+                "award": [
+                    "15H05924"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201400",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-10",
+        "source": "Crossref",
+        "is-referenced-by-count": 1,
+        "title": [
+            "Fabricating reflectors for displaying multiple images"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Kaisei",
+                "family": "Sakurai",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Dwango CG Research"
+                    }
+                ]
+            },
+            {
+                "given": "Yoshinori",
+                "family": "Dobashi",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Hokkaido University and Dwango CG Research"
+                    }
+                ]
+            },
+            {
+                "given": "Kei",
+                "family": "Iwasaki",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Wakayama University and Dwango CG Research"
+                    }
+                ]
+            },
+            {
+                "given": "Tomoyuki",
+                "family": "Nishita",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Dwango CG Research and Hiroshima Shudo University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/1833349.1778797",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "Ilya Baran Philipp Keller Derek Bradley Stelian Coros Wojciech Jarosz Derek Nowrouzezahrai and Markus Gross. 2012. Manufacturing Layered Attenuators for Multiple Prescribed Shadow Images. Computer Graphics Forum (Proceedings of Eurographics 2012) 31 2 (May 2012) 603--610. 10.1111/j.1467-8659.2012.03039.x   Ilya Baran Philipp Keller Derek Bradley Stelian Coros Wojciech Jarosz Derek Nowrouzezahrai and Markus Gross. 2012. Manufacturing Layered Attenuators for Multiple Prescribed Shadow Images. Computer Graphics Forum (Proceedings of Eurographics 2012) 31 2 (May 2012) 603--610. 10.1111/j.1467-8659.2012.03039.x",
+                "DOI": "10.1111/j.1467-8659.2012.03039.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1023/A:1008154927611",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1111/j.1467-8659.2012.03038.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1364/AO.50.005042",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/2601097.2601140",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "unstructured": "David E. Goldberg. 1989. Genetic Algorithms in Search Optimization and Machine Lerning. Addison-Wesley Professional.   David E. Goldberg. 1989. Genetic Algorithms in Search Optimization and Machine Lerning. Addison-Wesley Professional."
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/1015706.1015709",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/2461912.2461989",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/1882261.1866164",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/2070781.2024220",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/2461912.2461981",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/1618452.1618474",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/1618452.1618502",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/2366145.2366205",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1109/TPAMI.2006.60",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/344779.344933",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/2816795.2818083",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/2766944",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/1882261.1866192",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "author": "Sakurai Kaisei",
+                "volume-title": "Proceedings of the The 5th IIEEJ International Workshop on Image Electronics and Visual Computing"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/2661229.2661267",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1016/j.cag.2013.07.002",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1109/SMI.2007.9",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/2591011",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/2010324.1964990",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/2185520.2185576",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/1276377.1276417",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "Yonghao Yue Kei Iwasaki Bing-Yu Chen Yoshinori Dobashi and Tomoyuki Nishita. 2012. Pixel Art with Refracted Light by Rearrangeable Sticks. Computer Graphics Forum 31 2pt3 (2012) 575--582. 10.1111/j.1467-8659.2012.03036.x   Yonghao Yue Kei Iwasaki Bing-Yu Chen Yoshinori Dobashi and Tomoyuki Nishita. 2012. Pixel Art with Refracted Light by Rearrangeable Sticks. Computer Graphics Forum 31 2pt3 (2012) 575--582. 10.1111/j.1467-8659.2012.03036.x",
+                "DOI": "10.1111/j.1467-8659.2012.03036.x",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201400&ftid=1991617&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:39:47Z",
+            "timestamp": 1585960787000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 29,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201400"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201400",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

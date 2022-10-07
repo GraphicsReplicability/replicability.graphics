@@ -1,0 +1,465 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    4
+                ]
+            ],
+            "date-time": "2020-07-04T00:11:00Z",
+            "timestamp": 1593821460012
+        },
+        "reference-count": 53,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2020,
+                            7,
+                            12
+                        ]
+                    ],
+                    "date-time": "2020-07-12T00:00:00Z",
+                    "timestamp": 1594512000000
+                },
+                "delay-in-days": 366,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100000001",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "1451830, IIS-1813553"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "DOI": "10.1145/3306346.3322936",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2019-07-12T19:04:08Z",
+            "timestamp": 1562958248000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+            "Accurate appearance preserving prefiltering for rendering displacement-mapped surfaces"
+        ],
+        "prefix": "10.1145",
+        "volume": "38",
+        "author": [
+            {
+                "given": "Lifan",
+                "family": "Wu",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of California"
+                    }
+                ]
+            },
+            {
+                "given": "Shuang",
+                "family": "Zhao",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of California"
+                    }
+                ]
+            },
+            {
+                "given": "Ling-Qi",
+                "family": "Yan",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of California"
+                    }
+                ]
+            },
+            {
+                "given": "Ravi",
+                "family": "Ramamoorthi",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of California"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_1_1_1",
+                "unstructured": "Michael Ashikmin Simon Premo\u017ee and Peter Shirley. 2000. A microfacet-based BRDF generator. SIGGRAPH (2000) 65--74. 10.1145/344779.344814   Michael Ashikmin Simon Premo\u017ee and Peter Shirley. 2000. A microfacet-based BRDF generator. SIGGRAPH (2000) 65--74. 10.1145/344779.344814"
+            },
+            {
+                "key": "e_1_2_1_2_1",
+                "DOI": "10.1109/TVCG.2011.81",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_3_1",
+                "unstructured": "Brian Cabral Nelson Max and Rebecca Springmeyer. 1987. Bidirectional reflection functions from surface bump maps. SIGGRAPH (1987) 273--281. 10.1145/37401.37434   Brian Cabral Nelson Max and Rebecca Springmeyer. 1987. Bidirectional reflection functions from surface bump maps. SIGGRAPH (1987) 273--281. 10.1145/37401.37434"
+            },
+            {
+                "key": "e_1_2_1_4_1",
+                "unstructured": "Xavier Chermain Fr\u00e9d\u00e9ric Claux and St\u00e9phane M\u00e9rillou. 2018. A microfacet-based BRDF for the accurate and efficient rendering of high-definition specular normal maps. The Visual Computer (2018).  Xavier Chermain Fr\u00e9d\u00e9ric Claux and St\u00e9phane M\u00e9rillou. 2018. A microfacet-based BRDF for the accurate and efficient rendering of high-definition specular normal maps. The Visual Computer (2018)."
+            },
+            {
+                "key": "e_1_2_1_5_1",
+                "DOI": "10.1145/1073204.1073328",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_6_1",
+                "unstructured": "Robert L Cook and Kenneth E. Torrance. 1982. A reflectance model for computer graphics. SIGGRAPH (1982) 7--24. 10.1145/357290.357293   Robert L Cook and Kenneth E. Torrance. 1982. A reflectance model for computer graphics. SIGGRAPH (1982) 7--24. 10.1145/357290.357293"
+            },
+            {
+                "key": "e_1_2_1_7_1",
+                "DOI": "10.1145/300776.300778",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_8_1",
+                "DOI": "10.1145/2508363.2508422",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_9_1",
+                "unstructured": "Alain Fournier. 1992. Normal Distribution Functions and Multiple Surfaces. (1992).  Alain Fournier. 1992. Normal Distribution Functions and Multiple Surfaces. (1992)."
+            },
+            {
+                "key": "e_1_2_1_10_1",
+                "DOI": "10.1007/978-3-319-46487-9_42",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_11_1",
+                "DOI": "10.1145/2508363.2508377",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_12_1",
+                "DOI": "10.1145/1276377.1276412",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_13_1",
+                "DOI": "10.1145/2451236.2451237",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_14_1",
+                "unstructured": "Wolfgang Heidrich Katja Daubert Jan Kautz and Hans-Peter Seidel. 2000. Illuminating micro geometry based on precomputed visibility. SIGGRAPH (2000) 455--464. 10.1145/344779.344984   Wolfgang Heidrich Katja Daubert Jan Kautz and Hans-Peter Seidel. 2000. Illuminating micro geometry based on precomputed visibility. SIGGRAPH (2000) 455--464. 10.1145/344779.344984"
+            },
+            {
+                "key": "e_1_2_1_15_1",
+                "first-page": "32",
+                "article-title": "Understanding the masking-shadowing function in microfacet-based BRDFs",
+                "volume": "3",
+                "author": "Heitz Eric",
+                "year": "2014",
+                "journal-title": "Journal of Computer Graphics Techniques"
+            },
+            {
+                "key": "e_1_2_1_16_1",
+                "DOI": "10.1145/2766988",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_17_1",
+                "DOI": "10.1145/2897824.2925943",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_18_1",
+                "DOI": "10.5555/3071773.3071781",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_19_1",
+                "unstructured": "Homan Igehy. 1999. Tracing Ray Differentials. SIGGRAPH (1999) 179--186. 10.1145/311535.311555   Homan Igehy. 1999. Tracing Ray Differentials. SIGGRAPH (1999) 179--186. 10.1145/311535.311555"
+            },
+            {
+                "key": "e_1_2_1_20_1",
+                "DOI": "10.1145/2366145.2366163",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_21_1",
+                "unstructured": "Wenzel Jakob. 2010. Mitsuba renderer. http://www.mitsuba-renderer.org.  Wenzel Jakob. 2010. Mitsuba renderer. http://www.mitsuba-renderer.org."
+            },
+            {
+                "key": "e_1_2_1_22_1",
+                "DOI": "10.1145/2601097.2601186",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_23_1",
+                "unstructured": "Adrian Jarabo Hongzhi Wu Julie Dorsey Holly Rushmeier and Diego Gutierrez. 2014. Effects of Approximate Filtering on the Appearance of Bidirectional Texture Functions. IEEE Transactions on Visualization and Computer Graphics (2014) 880--892. 10.1109/TVCG.2014.2312016   Adrian Jarabo Hongzhi Wu Julie Dorsey Holly Rushmeier and Diego Gutierrez. 2014. Effects of Approximate Filtering on the Appearance of Bidirectional Texture Functions. IEEE Transactions on Visualization and Computer Graphics (2014) 880--892. 10.1109/TVCG.2014.2312016",
+                "DOI": "10.1109/TVCG.2014.2312016",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_24_1",
+                "unstructured": "Anton S Kaplanyan Stephen Hill Anjul Patney and Aaron E Lefohn. 2016. Filtering distributions of normals for shading antialiasing.. In High Performance Graphics. 151--162.   Anton S Kaplanyan Stephen Hill Anjul Patney and Aaron E Lefohn. 2016. Filtering distributions of normals for shading antialiasing.. In High Performance Graphics. 151--162."
+            },
+            {
+                "key": "e_1_2_1_25_1",
+                "DOI": "10.1145/2818648",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_26_1",
+                "DOI": "10.1145/3272127.3275016",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_27_1",
+                "DOI": "10.1109/ICIP.2012.6466947",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_28_1",
+                "DOI": "10.1111/cgf.13138",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_29_1",
+                "DOI": "10.1145/1053427.1053458",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_30_1",
+                "DOI": "10.1111/j.1467-8659.2009.01490.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_31_1",
+                "DOI": "10.1145/1730804.1730834",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_32_1",
+                "unstructured": "Michael Oren and Shree K Nayar. 1994. Generalization of Lambert's reflectance model. SIGGRAPH (1994) 239--246. 10.1145/192161.192213   Michael Oren and Shree K Nayar. 1994. Generalization of Lambert's reflectance model. SIGGRAPH (1994) 239--246. 10.1145/192161.192213"
+            },
+            {
+                "key": "e_1_2_1_33_1",
+                "DOI": "10.1145/1073204.1073239",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_34_1",
+                "DOI": "10.1080/10867651.1997.10487479",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_35_1",
+                "unstructured": "B Smith. 1967. Geometrical shadowing of a random rough surface. IEEE transactions on antennas and propagation 15 5 (1967) 668--671.  B Smith. 1967. Geometrical shadowing of a random rough surface. IEEE transactions on antennas and propagation 15 5 (1967) 668--671.",
+                "DOI": "10.1109/TAP.1967.1138991",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_36_1",
+                "DOI": "10.1111/j.1467-8659.2008.01266.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_37_1",
+                "DOI": "10.1109/TVCG.2007.70439",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_38_1",
+                "unstructured": "Ping Tan Stephen Lin Long Quan Baining Guo and Heung-Yeung Shum. 2005. Multiresolution Reflectance Filtering. Rendering Techniques (2005) 111--116.   Ping Tan Stephen Lin Long Quan Baining Guo and Heung-Yeung Shum. 2005. Multiresolution Reflectance Filtering. Rendering Techniques (2005) 111--116."
+            },
+            {
+                "key": "e_1_2_1_39_1",
+                "DOI": "10.1111/j.1467-8659.2009.01642.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_40_1",
+                "DOI": "10.1080/2151237X.2005.10129203",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_41_1",
+                "unstructured": "Eric Veach. 1997. Robust monte carlo methods for light transport simulation. Stanford University PhD thesis (1997).   Eric Veach. 1997. Robust monte carlo methods for light transport simulation. Stanford University PhD thesis (1997)."
+            },
+            {
+                "key": "e_1_2_1_42_1",
+                "DOI": "10.5555/2383847.2383874",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_43_1",
+                "unstructured": "Stephen H. Westin James R. Arvo and Kenneth E. Torrance. 1992. Predicting Reflectance Functions from Complex Surfaces. SIGGRAPH (1992) 255--264. 10.1145/133994.134075   Stephen H. Westin James R. Arvo and Kenneth E. Torrance. 1992. Predicting Reflectance Functions from Complex Surfaces. SIGGRAPH (1992) 255--264. 10.1145/133994.134075"
+            },
+            {
+                "key": "e_1_2_1_44_1",
+                "DOI": "10.1111/j.1467-8659.2009.01500.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_45_1",
+                "DOI": "10.1145/2070781.2024179",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_46_1",
+                "DOI": "10.1145/3272127.3275078",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_47_1",
+                "DOI": "10.1111/cgf.13221",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_48_1",
+                "DOI": "10.1145/2508363.2508386",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_49_1",
+                "DOI": "10.1145/2601097.2601155",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_50_1",
+                "DOI": "10.1145/2897824.2925915",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_51_1",
+                "DOI": "10.1145/2010324.1964939",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_52_1",
+                "DOI": "10.1145/2980179.2980228",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_53_1",
+                "DOI": "10.1145/2856400.2856409",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "https://dl.acm.org/doi/pdf/10.1145/3306346.3322936",
+                "content-type": "application/pdf",
+                "content-version": "vor",
+                "intended-application": "syndication"
+            },
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3322936&ftid=2071708&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    3
+                ]
+            ],
+            "date-time": "2020-07-03T23:31:12Z",
+            "timestamp": 1593819072000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "references-count": 53,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        12
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3306346.3322936"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3306346.3322936",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

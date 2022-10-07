@@ -1,0 +1,521 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    21
+                ]
+            ],
+            "date-time": "2020-07-21T01:44:59Z",
+            "timestamp": 1595295899376
+        },
+        "reference-count": 71,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2019,
+                            7,
+                            12
+                        ]
+                    ],
+                    "date-time": "2019-07-12T00:00:00Z",
+                    "timestamp": 1562889600000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "DOI": "10.1145/3306346.3322970",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2019-07-12T19:04:08Z",
+            "timestamp": 1562958248000
+        },
+        "page": "1-15",
+        "source": "Crossref",
+        "is-referenced-by-count": 4,
+        "title": [
+            "SurfaceBrush"
+        ],
+        "prefix": "10.1145",
+        "volume": "38",
+        "author": [
+            {
+                "given": "Enrique",
+                "family": "Rosales",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of British Columbia, Canada and Universidad Panamericana, M\u00e9xico"
+                    }
+                ]
+            },
+            {
+                "given": "Jafet",
+                "family": "Rodriguez",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Universidad Panamericana, M\u00e9xico"
+                    }
+                ]
+            },
+            {
+                "given": "ALLA",
+                "family": "SHEFFER",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of British Columbia, Canada"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_1_1_1",
+                "DOI": "10.1145/2261250.2261314",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_2_1",
+                "DOI": "10.1145/3027063.3050435",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_3_1",
+                "unstructured": "Haim Avron Andrei Sharf Chen Greif and Daniel Cohen-Or. 2010. &ell;<sub>1</sub> Sparsee Reconstruction of Sharp Point Set Surfaces. ACM Trans. Graph. (2010) 135:1--135:12. 10.1145/1857907.1857911   Haim Avron Andrei Sharf Chen Greif and Daniel Cohen-Or. 2010. &ell;<sub>1</sub> Sparsee Reconstruction of Sharp Point Set Surfaces. ACM Trans. Graph. (2010) 135:1--135:12. 10.1145/1857907.1857911"
+            },
+            {
+                "key": "e_1_2_1_4_1",
+                "DOI": "10.1145/1449715.1449740",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_5_1",
+                "DOI": "10.1023/B:MACH.0000033116.57574.95",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_6_1",
+                "unstructured": "Gavin Barill Neil G. Dickson Ryan Schmidt David I. W. Levin and Alec Jacobson. 2018. Fast Winding Numbers for Soups and Clouds. ACM Trans. Graph. (2018) 43:1--43:12. 10.1145/3197517.3201337   Gavin Barill Neil G. Dickson Ryan Schmidt David I. W. Levin and Alec Jacobson. 2018. Fast Winding Numbers for Soups and Clouds. ACM Trans. Graph. (2018) 43:1--43:12. 10.1145/3197517.3201337"
+            },
+            {
+                "key": "e_1_2_1_7_1",
+                "DOI": "10.1111/cgf.12802",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_8_1",
+                "DOI": "10.1109/2945.817351",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_9_1",
+                "DOI": "10.1145/2366145.2366197",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_10_1",
+                "unstructured": "CGAL. 2018. CGAL The Computational Geometry Algorithms Library. https://www.cgal.org/  CGAL. 2018. CGAL The Computational Geometry Algorithms Library. https://www.cgal.org/"
+            },
+            {
+                "key": "e_1_2_1_11_1",
+                "unstructured": "DesignSpace. 2018. DesignSpace VR. http://www.designspacevr.org/  DesignSpace. 2018. DesignSpace VR. http://www.designspacevr.org/"
+            },
+            {
+                "key": "e_1_2_1_12_1",
+                "DOI": "10.1115/1.1633278",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_13_1",
+                "unstructured": "Holger Diehl Franz M\u00fcller and Udo Lindemann. 2004. From raw 3D-Sketches to exact CAD product models Concept for an assistant-system. In Sketch Based Interfaces and Modeling.   Holger Diehl Franz M\u00fcller and Udo Lindemann. 2004. From raw 3D-Sketches to exact CAD product models Concept for an assistant-system. In Sketch Based Interfaces and Modeling."
+            },
+            {
+                "key": "e_1_2_1_14_1",
+                "DOI": "10.1145/174462.156635",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_15_1",
+                "DOI": "10.1145/2070781.2024200",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_16_1",
+                "DOI": "10.5555/850976.854972",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_17_1",
+                "unstructured": "Hongbo Fu Shizhe Zhou Ligang Liu and Niloy J. Mitra. 2011. Animated Construction of Line Drawings. ACM Trans. Graph. (2011) 133:1--133:10. 10.1145/2070781.2024167   Hongbo Fu Shizhe Zhou Ligang Liu and Niloy J. Mitra. 2011. Animated Construction of Line Drawings. ACM Trans. Graph. (2011) 133:1--133:10. 10.1145/2070781.2024167"
+            },
+            {
+                "key": "e_1_2_1_18_1",
+                "DOI": "10.1145/2601097.2601163",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_19_1",
+                "unstructured": "Kun Gao and Alyn Rockwood. 2005. Multi-sided attribute based modeling. Mathematics of Surfaces XI (2005) 219--232. 10.1007/11537908_13   Kun Gao and Alyn Rockwood. 2005. Multi-sided attribute based modeling. Mathematics of Surfaces XI (2005) 219--232. 10.1007/11537908_13"
+            },
+            {
+                "key": "e_1_2_1_20_1",
+                "unstructured": "GoogleBlocks. 2018. Google Blocks. https://vr.google.com/blocks/  GoogleBlocks. 2018. Google Blocks. https://vr.google.com/blocks/"
+            },
+            {
+                "key": "e_1_2_1_21_1",
+                "unstructured": "GravitySketch. 2018. Gravity Sketch. https://www.gravitysketch.com/  GravitySketch. 2018. Gravity Sketch. https://www.gravitysketch.com/"
+            },
+            {
+                "key": "e_1_2_1_22_1",
+                "author": "Grimm Cindy",
+                "year": "2012",
+                "volume-title": "Proc. Symposium on Sketch-Based Interfaces and Modeling. 121--130"
+            },
+            {
+                "key": "e_1_2_1_23_1",
+                "DOI": "10.1145/503376.503398",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_24_1",
+                "DOI": "10.1145/3072959.3073644",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_25_1",
+                "unstructured": "J.H. Israel E. Wiese M. Mateescu C. Z\u00f6llner and R. Stark. 2009. Investigating three-dimensional sketching for early conceptual design---Results from expert discussions and user studies. Computers and Graphics (2009) 462 -- 473. 10.1016/j.cag.2009.05.005   J.H. Israel E. Wiese M. Mateescu C. Z\u00f6llner and R. Stark. 2009. Investigating three-dimensional sketching for early conceptual design---Results from expert discussions and user studies. Computers and Graphics (2009) 462 -- 473. 10.1016/j.cag.2009.05.005",
+                "DOI": "10.1016/j.cag.2009.05.005",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_26_1",
+                "DOI": "10.1109/TVCG.2016.2518099",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_27_1",
+                "unstructured": "Tao Ju. 2004. Robust Repair of Polygonal Models. ACM Trans. Graph. (2004) 888--895. 10.1145/1015706.1015815   Tao Ju. 2004. Robust Repair of Polygonal Models. ACM Trans. Graph. (2004) 888--895. 10.1145/1015706.1015815"
+            },
+            {
+                "key": "e_1_2_1_28_1",
+                "author": "Karp R.",
+                "volume-title": "Complexity of Computer Computations"
+            },
+            {
+                "key": "e_1_2_1_29_1",
+                "DOI": "10.1145/2487228.2487237",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_30_1",
+                "DOI": "10.1109/TVCG.2007.1060",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_31_1",
+                "DOI": "10.1145/364338.364370",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_32_1",
+                "DOI": "10.5555/2919332.2919819",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_33_1",
+                "DOI": "10.1145/3173574.3173812",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_34_1",
+                "unstructured": "Kodon. 2018. TenkLabs Kodon. https://www.tenklabs.com/kodon  Kodon. 2018. TenkLabs Kodon. https://www.tenklabs.com/kodon"
+            },
+            {
+                "key": "e_1_2_1_35_1",
+                "DOI": "10.1145/1057432.1057434",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_36_1",
+                "DOI": "10.1007/11581772_28",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_37_1",
+                "unstructured": "Changjian Li Hao Pan Yang Liu Xin Tong Alla Sheffer and Wenping Wang. 2017. BendSketch: Modeling Freeform Surfaces Through 2D Sketching. ACM Trans. Graph. (2017) 125:1--125:14. 10.1145/3072959.3073632   Changjian Li Hao Pan Yang Liu Xin Tong Alla Sheffer and Wenping Wang. 2017. BendSketch: Modeling Freeform Surfaces Through 2D Sketching. ACM Trans. Graph. (2017) 125:1--125:14. 10.1145/3072959.3073632"
+            },
+            {
+                "key": "e_1_2_1_38_1",
+                "DOI": "10.1145/3197517.3201314",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_39_1",
+                "unstructured": "Xueting Liu Tien-Tsin Wong and Pheng-Ann Heng. 2015. Closure-aware Sketch Simplification. ACM Trans. Graph. (2015) 168:1--168:10. 10.1145/2816795.2818067   Xueting Liu Tien-Tsin Wong and Pheng-Ann Heng. 2015. Closure-aware Sketch Simplification. ACM Trans. Graph. (2015) 168:1--168:10. 10.1145/2816795.2818067"
+            },
+            {
+                "key": "e_1_2_1_40_1",
+                "DOI": "10.1111/j.1467-8659.2009.01417.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_41_1",
+                "DOI": "10.1145/1276377.1276429",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_42_1",
+                "unstructured": "G. Noris D. S\u00fdkora A. Shamir S. Coros B. Whited M. Simmons A. Hornung M. Gross and R. Sumner. 2012. Smart Scribbles for Sketch Segmentation. Comput. Graph. Forum (2012) 2516--2527. 10.1111/j.1467-8659.2012.03224.x   G. Noris D. S\u00fdkora A. Shamir S. Coros B. Whited M. Simmons A. Hornung M. Gross and R. Sumner. 2012. Smart Scribbles for Sketch Segmentation. Comput. Graph. Forum (2012) 2516--2527. 10.1111/j.1467-8659.2012.03224.x",
+                "DOI": "10.1111/j.1467-8659.2012.03224.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_43_1",
+                "unstructured": "OculusMedium. 2016. OculusMedium. https://oculus.com/medium/  OculusMedium. 2016. OculusMedium. https://oculus.com/medium/"
+            },
+            {
+                "key": "e_1_2_1_44_1",
+                "unstructured": "L. Olsen F.F. Samavati M.C. Sousa and J. Jorge. 2009. Sketch-Based Modeling: A Survey. Computers & Graphics 33 (2009). Issue 1. 10.1016/j.cag.2008.09.013   L. Olsen F.F. Samavati M.C. Sousa and J. Jorge. 2009. Sketch-Based Modeling: A Survey. Computers & Graphics 33 (2009). Issue 1. 10.1016/j.cag.2008.09.013"
+            },
+            {
+                "key": "e_1_2_1_45_1",
+                "unstructured": "A. C. \u00d6ztireli G. Guennebaud and M. Gross. 2009. Feature Preserving Point Set Surfaces based on Non-Linear Kernel Regression. Computer Graphics Forum (2009).  A. C. \u00d6ztireli G. Guennebaud and M. Gross. 2009. Feature Preserving Point Set Surfaces based on Non-Linear Kernel Regression. Computer Graphics Forum (2009)."
+            },
+            {
+                "key": "e_1_2_1_46_1",
+                "unstructured": "PaintLab. 2018. PaintLab VR. http://paintlabvr.com/  PaintLab. 2018. PaintLab VR. http://paintlabvr.com/"
+            },
+            {
+                "key": "e_1_2_1_47_1",
+                "DOI": "10.1145/2766990",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_48_1",
+                "unstructured": "Poly. 2018. Tilt Brush sketches. https://poly.google.com/tiltbrush  Poly. 2018. Tilt Brush sketches. https://poly.google.com/tiltbrush"
+            },
+            {
+                "key": "e_1_2_1_49_1",
+                "DOI": "10.1109/38.103389",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_50_1",
+                "DOI": "10.1145/1057432.1057447",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_51_1",
+                "DOI": "10.1145/365024.365114",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_52_1",
+                "unstructured": "S. Schkolne and P. Schroeder. 1999. Surface Drawing. Caltech Department of Computer Science Technical Report CS-TR-99-03.   S. Schkolne and P. Schroeder. 1999. Surface Drawing. Caltech Department of Computer Science Technical Report CS-TR-99-03.",
+                "DOI": "10.1145/311625.311959",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_53_1",
+                "DOI": "10.1145/1618452.1618495",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_54_1",
+                "DOI": "10.1145/2185520.2185541",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_55_1",
+                "unstructured": "ShapeLab. 2018. ShapeLab. https://store.steampowered.com/app/571890/ShapeLab/  ShapeLab. 2018. ShapeLab. https://store.steampowered.com/app/571890/ShapeLab/"
+            },
+            {
+                "key": "e_1_2_1_56_1",
+                "author": "Sharma Ojaswa",
+                "year": "2016",
+                "volume-title": "Proc. Graphics Interface. 33--40"
+            },
+            {
+                "key": "e_1_2_1_57_1",
+                "unstructured": "Chen Shen James F. O'Brien and Jonathan R. Shewchuk. 2004. Interpolating and Approximating Implicit Surfaces from Polygon Soup. ACM Trans. Graph. (2004) 896--904. 10.1145/1015706.1015816   Chen Shen James F. O'Brien and Jonathan R. Shewchuk. 2004. Interpolating and Approximating Implicit Surfaces from Polygon Soup. ACM Trans. Graph. (2004) 896--904. 10.1145/1015706.1015816"
+            },
+            {
+                "key": "e_1_2_1_58_1",
+                "unstructured": "Sketchfab. 2018. Tilt Brush. https://sketchfab.com/tags/tiltbrush  Sketchfab. 2018. Tilt Brush. https://sketchfab.com/tags/tiltbrush"
+            },
+            {
+                "key": "e_1_2_1_59_1",
+                "unstructured": "Thomas F. Stahovich Eric J. Peterson and Hanlung Lin. 2014. An efficient classification-based approach for grouping pen strokes into objects. Computers & Graphics (2014) 14 -- 30.  Thomas F. Stahovich Eric J. Peterson and Hanlung Lin. 2014. An efficient classification-based approach for grouping pen strokes into objects. Computers & Graphics (2014) 14 -- 30."
+            },
+            {
+                "key": "e_1_2_1_60_1",
+                "author": "Tano Shun'ichi",
+                "year": "2003",
+                "volume-title": "Godzilla: Seamless 2D and 3D Sketch Environment for Reflective and Creative Design Work. In INTERACT."
+            },
+            {
+                "key": "e_1_2_1_61_1",
+                "first-page": "37",
+                "article-title": "Truly Useful 3D Drawing System for Professional Designer by \"Life-Sized and Operable",
+                "volume": "2013",
+                "author": "Tano Shun'ichi",
+                "year": "2013",
+                "journal-title": "Feature and New Interaction. In Human-Computer Interaction - INTERACT"
+            },
+            {
+                "key": "e_1_2_1_62_1",
+                "unstructured": "TiltBrush. 2018. Google TiltBrush. https://tiltbrush.com/  TiltBrush. 2018. Google TiltBrush. https://tiltbrush.com/"
+            },
+            {
+                "key": "e_1_2_1_63_1",
+                "DOI": "10.1109/CVPR.2017.485",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_64_1",
+                "unstructured": "T. V\u00e1rady Alyn Rockwood and P. Salvi. 2011. Transfinite surface interpolation over irregular n-sided domains. Computer-Aided Design iv (2011). 10.1016/j.cad.2011.08.028   T. V\u00e1rady Alyn Rockwood and P. Salvi. 2011. Transfinite surface interpolation over irregular n-sided domains. Computer-Aided Design iv (2011). 10.1016/j.cad.2011.08.028"
+            },
+            {
+                "key": "e_1_2_1_65_1",
+                "DOI": "10.1109/TIT.1967.1054010",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_66_1",
+                "unstructured": "Ruimin Wang Ligang Liu Zhouwang Yang Kang Wang Wen Shan Jiansong Deng and Falai Chen. 2016. Construction of Manifolds via Compatible Sparse Representations. ACM Trans. Graph. (2016) 14:1--14:10. 10.1145/2835488   Ruimin Wang Ligang Liu Zhouwang Yang Kang Wang Wen Shan Jiansong Deng and Falai Chen. 2016. Construction of Manifolds via Compatible Sparse Representations. ACM Trans. Graph. (2016) 14:1--14:10. 10.1145/2835488"
+            },
+            {
+                "key": "e_1_2_1_67_1",
+                "DOI": "10.1145/505008.505041",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_68_1",
+                "unstructured": "Jun Xing Hsiang-Ting Chen and Li-Yi Wei. 2014. Autocomplete Painting Repetitions. ACM Trans. Graph. (2014) 172:1--172:11. 10.1145/2661229.2661247   Jun Xing Hsiang-Ting Chen and Li-Yi Wei. 2014. Autocomplete Painting Repetitions. ACM Trans. Graph. (2014) 172:1--172:11. 10.1145/2661229.2661247"
+            },
+            {
+                "key": "e_1_2_1_69_1",
+                "unstructured": "Shiyao Xiong Juyong Zhang Jianmin Zheng Jianfei Cai and Ligang Liu. 2014. Robust Surface Reconstruction via Dictionary Learning. ACM Trans. Graph. (2014) 201:1--201:12. 10.1145/2661229.2661263   Shiyao Xiong Juyong Zhang Jianmin Zheng Jianfei Cai and Ligang Liu. 2014. Robust Surface Reconstruction via Dictionary Learning. ACM Trans. Graph. (2014) 201:1--201:12. 10.1145/2661229.2661263"
+            },
+            {
+                "key": "e_1_2_1_70_1",
+                "DOI": "10.1145/2601097.2601128",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_71_1",
+                "DOI": "10.1145/2766976",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3322970&ftid=2071647&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2020-07-12T19:13:21Z",
+            "timestamp": 1594581201000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "from virtual reality drawings to manifold surfaces"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "references-count": 71,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        12
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3306346.3322970"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3306346.3322970",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

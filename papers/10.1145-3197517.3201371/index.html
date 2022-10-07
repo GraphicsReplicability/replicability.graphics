@@ -1,0 +1,156 @@
+<html><head><meta charset="utf-8">
+ <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+ <script src="../../assets/js/chart-utils.js"></script>
+<link rel="stylesheet"
+       href="../../assets/css/default.min.css">
+ <script src="../../assets/js/highlight.min.js"></script>
+ <script>hljs.initHighlightingOnLoad();</script>
+ <link href="../../assets/css/all.css" rel="stylesheet">
+ <link rel="stylesheet" href="../../assets/css/customstyle.css">
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pretty-checkbox@3.0/dist/pretty-checkbox.min.css">
+
+  <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+  <script>
+  var currentReviewId = 0;
+
+  $( function() {
+    $( "#tabs" ).tabs({
+    activate: function (event, ui) {
+        var reviewId = parseInt(event.currentTarget.id.substring(6));
+
+        [myChart.data.datasets[0].data, myChart.data.datasets[currentReviewId].data] =
+ [myChart.data.datasets[currentReviewId].data, myChart.data.datasets[0].data];
+
+        currentReviewId = reviewId-1;
+
+        [myChart.data.datasets[0].data, myChart.data.datasets[currentReviewId].data] =
+ [myChart.data.datasets[currentReviewId].data, myChart.data.datasets[0].data];
+
+        myChart.update(0);
+    }
+  });
+  } );
+  </script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-164636527-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-164636527-1');
+</script>
+<title>Visual Rhythm and Beat</title>
+<meta name="description" content="Replicability and source code of the article Visual Rhythm and Beat.">
+
+  </head>
+<body>
+  <ul class="publist-inline" style="text-align:left;"><li class="web"><a href="../../browse.html">< The Data</a></ul><h1 class="title">Visual Rhythm and Beat <i class="fas fa-circle graphcol0" style="font-size:150%;color:#0868ac;" title="code available and we were able to reproduce most results (score >= 4)"></i> <i class="fas fa-square graphcol6"  style="font-size:150%;color:#7570b3;" title="Preprint PDF available (author web page, project page, institution page, arxiv...)"></i></h1><ul class="authors">
+<li> Abe <span class="family">Davis</span></li>
+<li> Maneesh <span class="family">Agrawala</span></li>
+</ul>
+<center> SIGGRAPH 2018</center><ul class="publist-inline">
+<li class="web"> <i class="fas fa-globe-americas"></i> <a href="https://doi.org/10.1145/3197517.3201371">ACM</a></li>
+<li class="pdf"> <i class="far fa-file-pdf"></i> <a href="http://www.abedavis.com/files/papers/VisualRhythm_Davis18.pdf">preprint</a></li>
+<li class="web"> <i class="fas fa-globe-americas"></i> <a href="http://abedavis.com/visualbeat/">Project page</a></li>
+<li class="web"> <i class="far fa-file-alt"></i> <a href="https://github.com/abedavis/visbeat/">Code</a></li>
+<li class="web"> <i class="fas fa-database"></i> <a href="10.1145-3197517.3201371-metadata.json">DOI Metadata</a></li>
+</ul>
+<center><img width="300" src="10.1145-3197517.3201371-thumb.png"></img></center><br><br><ul class="publist-inline" style="text-align:left;font-size:100%"><li > <i ></i> <a href="replicability.json">Download complete data for this entry</a></li></ul>
+    <div class="row">
+    <div class="column2 chart-container" style="position: relative; height:40vh; width:30vw">
+    <canvas width="300" height="250" id="myChart" class="chartjs-render-monitor"></canvas>
+    </div>
+    
+    <div class="column2">
+    <h2>Reviews</h2>
+       <div id="tabs">
+          <ul>             <li><a href="#review-1">main</a></li>
+             <li><a href="#review-2">&#43;</a></li>
+</ul><div id="review-1"><h2>Information</h2><ul><li><span class="family">Paper topic</span>: Images</li>
+<li><span class="family">Software type</span>: Code</li>
+<li><span class="family">Able to run a replicability test</span>: True</li>
+<li><span class="family">Replicability score</span>: 4</li>
+<li><span class="family">Software language</span>: Python</li>
+<li><span class="family">License</span>: Stanford</li>
+<li><span class="family">Build mechanism</span>: Not applicable (python, Matlab..)</li>
+<li><span class="family">Dependencies</span>: numpy/scipy/moviepy/librosa/bs4/librosa/imageio/requests/moviepy/termcolor/youtube-dl/matplotlib</li>
+<li><span class="family">Documentation score</span> {0,1,2}: 1</li>
+<li><span class="family">Reviewer</span>: David Coeurjolly &lt;david.coeurjolly@liris.cnrs.fr&gt;</li>
+<li><span class="family">Time spent for the test (build->first run, timeout at 100min)</span>: 100min</li>
+</ul><h2>Source code information</h2>
+<ul><li><span class="family">Code URL</span>:  <a href="https://github.com/abedavis/visbeat/">https://github.com/abedavis/visbeat/</a></li>
+<li><span class="family">Git commit hash</span>: e6b7c5da1d2007b98fd53ba4b5ca6d58c75f17c0</li>
+<li><span class="family">Software Heritage link</span>: <a href="https://archive.softwareheritage.org/swh:1:dir:2d2e048b547c32d61ff64422e06cd5a9a64f554b;origin=https://github.com/abedavis/visbeat/"><img src="https://archive.softwareheritage.org/badge/swh:1:dir:2d2e048b547c32d61ff64422e06cd5a9a64f554b;origin=https://github.com/abedavis/visbeat/"></a></li>
+</ul><h2>Comments</h2><pre>Very easy to setup and play with on MacOS thanks to the "pip install visbeat" and the examples.
+
+
+-- Aternative build on windows --
+
+While the paper is accompanied by a very nice website to explore all results, and effort has been made to make code execution easy, I still did not manage to run the code. The docker file was not working. This is due to matplotlib and imageio-ffmpeg not supporting anymore Python 2.7 (Python 2.7 is being discontinued as of January 2020 anyway) and I am not familiar with docker to fix it. Going back to manual installation of the libraries, it turns out that only imageio version 2.4.1 is able to execute the required  imageio.ffmpeg.download() command (and pip install imageio-ffmpeg does not work on Python 2.7). It also turns out that installing matplotlib for Python 2.7 is also difficult (ended up upgrading my pip and setuptools "python -m pip install -U pip setuptools" before the pip install matplotlib, despite Python 2.7 being a fresh install -- I otherwise had "Command python setup.py egg_info failed with error code 1"). I also had to add "sys.path.insert(0, "../visbeat/")" in the dancefer.py example file for python to search in the correct folder. Ultimately, running the TLDR example results in the error "AssertionError: Wrong number of files for ./VisBeatAssets/VideoSources\fDWFVI8PQOI\Versions\\Original\maxheight_240\\Snap! - Rhythm is a Dancer-fDWFVI8PQOI.mp4 Found: []". Thinking this could be due to mixes of slashes and backslashes I fixed that in the code to no avail. I realized this file actually did not exist : instead, there was a file called "Snap! - Rhythm is a Dancer-fDWFVI8PQOI.f133.mp4" which did not have audio, and a "Snap! - Rhythm is a Dancer-fDWFVI8PQOI.f140.m4a" which was the audio file. I merged both in Premiere to create the desired "Snap! - Rhythm is a Dancer-fDWFVI8PQOI.f133.mp4" file, ran the code again. This time, this resulted in "Issue loading audio for ./VisBeatAssets/VideoSources/fDWFVI8PQOI/Versions/Original/maxheight_240/Snap! - Rhythm is a Dancer-fDWFVI8PQOI.mp4". I tried again with MPEG audio instead of AAC. This didn't work either. I gave up after a day.</pre></div><div id=review-2>
+           <p> If you want to contribute with another review, please follow <a href="../../index.html#contribute">these instructions</a>. </p>
+
+            <p>Please consider to cut/paste/edit the <a href="replicability.json">raw JSON data</a> attached to this paper.</a></p>
+            </div>
+            </div></div>
+    </div>
+    </div>
+    </div>
+        <script>
+ 	  var color = Chart.helpers.color;
+          var colorNames = Object.keys(window.chartColors);
+          var ctx = document.getElementById('myChart');
+          var myChart = new Chart(ctx, {
+              type: 'polarArea',
+              data: {
+                labels: ['Dependencies', 'Build / Configure', 'Fixing bugs', 'Easy to adapt', 'Can replicate paper results'],
+                     datasets: [{
+                      label: 'Variant -- "main" (the higher, the better,  {1..5}, 0=N/A )',
+                      showLine: false,
+           
+                      borderColor: "#000",
+                      borderWidth: 2,
+                      backgroundColor: [
+                          'rgba(255, 99, 132,.6)',
+                          'rgba(255, 159, 64,.6)',
+                          'rgba(255, 205, 86,.6)',
+                          'rgba(75, 192, 192,.6)',
+                          'rgba(54, 162, 235,.6)',
+                      ],
+                      data: [5,5,0,5,4]
+                  },
+                  ]
+              },
+              options: {
+  scale: {
+      ticks: {
+          suggestedMin: 0,
+          suggestedMax: 5,
+          stepSize: 1
+      }
+  }
+}
+          });
+
+        </script>
+    </code></pre></body><div style="height:30px;display:block;"></div><div id="disqus_thread"></div>
+ <script>
+ /**
+ *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+ *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+ /*
+ var disqus_config = function () {
+ this.page.url = 'https://replicability.graphics';  // Replace PAGE_URL with your page's canonical URL variable
+ this.page.identifier = '10.1145-3197517.3201371'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+ };
+ */
+ (function() { // DON'T EDIT BELOW THIS LINE
+ var d = document, s = d.createElement('script');
+ s.src = 'https://replicability-graphics.disqus.com/embed.js';
+ s.setAttribute('data-timestamp', +new Date());
+ (d.head || d.body).appendChild(s);
+ })();
+ </script>
+ <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript></html>

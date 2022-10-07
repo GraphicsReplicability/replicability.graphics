@@ -1,0 +1,396 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:11:21Z",
+            "timestamp": 1586002281114
+        },
+        "reference-count": 32,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100006785",
+                "name": "Google",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100004344",
+                "name": "Adobe Systems",
+                "doi-asserted-by": "publisher",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601190",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-9",
+        "source": "Crossref",
+        "is-referenced-by-count": 15,
+        "title": [
+            "DecoBrush"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Jingwan",
+                "family": "Lu",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Princeton University and Adobe Research"
+                    }
+                ]
+            },
+            {
+                "given": "Connelly",
+                "family": "Barnes",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Virginia"
+                    }
+                ]
+            },
+            {
+                "given": "Connie",
+                "family": "Wan",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Princeton University"
+                    }
+                ]
+            },
+            {
+                "given": "Paul",
+                "family": "Asente",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe Research"
+                    }
+                ]
+            },
+            {
+                "given": "Radomir",
+                "family": "Mech",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe Research"
+                    }
+                ]
+            },
+            {
+                "given": "Adam",
+                "family": "Finkelstein",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Princeton University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/2487276.2487278",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1007/978-3-540-89639-5_58",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "author": "Ando R.",
+                "volume-title": "Proc. Eurographics -- Short papers."
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/364338.364405",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "Barla P. Breslav S. Thollot J. Sillion F. and Markosian L. 2006. Stroke pattern analysis and synthesis. In Computer Graphics Forum (Proc. of Eurographics 2006).  Barla P. Breslav S. Thollot J. Sillion F. and Markosian L. 2006. Stroke pattern analysis and synthesis. In Computer Graphics Forum (Proc. of Eurographics 2006) .",
+                "DOI": "10.1111/j.1467-8659.2006.00986.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "first-page": "1",
+                "article-title": "A npr system for generating floral patterns based on 1-system. Bulletin of Networking",
+                "volume": "1",
+                "author": "Chen Y.-S.",
+                "year": "2012",
+                "journal-title": "Computing, Systems, and Software"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "author": "Efros A. A.",
+                "volume-title": "IEEE International Conference on Computer Vision, 1033--1038"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "Hertzmann A. Oliver N. Curless B. and Seitz S. M. 2002. Curve analogies. In Rendering Techniques 233--246.   Hertzmann A. Oliver N. Curless B. and Seitz S. M. 2002. Curve analogies. In Rendering Techniques 233--246.",
+                "DOI": "10.1145/1242073.1242260",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/168642.168662",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/1572614.1572623",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/1186822.1073323",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1111/j.1467-8659.2008.01140.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/1274871.1274878",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "author": "Kazhdan M.",
+                "volume-title": "Proceedings of the fourth Eurographics symposium on Geometry processing."
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/2207676.2208302",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1111/j.1467-8659.2010.01802.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1111/cgf.12152",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/1073204.1073261",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/1179352.1141921",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1016/1049-9660(92)90008-Q",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/2185520.2185542",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/2461912.2461998",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/2461912.2461956",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/2010324.1964957",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "first-page": "1",
+                "article-title": "The Deco framework for interactive procedural modeling",
+                "volume": "1",
+                "author": "M\u011bch R.",
+                "year": "2012",
+                "journal-title": "Journal of Computer Graphics Techniques (JCGT)"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "unstructured": "Muja M. and Lowe D. G. 2009. Fast approximate nearest neighbors with automatic algorithm configuration. In VISAPP (1) 331--340.  Muja M. and Lowe D. G. 2009. Fast approximate nearest neighbors with automatic algorithm configuration. In VISAPP (1) 331--340."
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/1833349.1778822",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "author": "Schmidt F. R.",
+                "volume-title": "IEEE Conf. Computer Vision and Pattern Recognition, IEEE, 351--356"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "author": "Schmidt R.",
+                "volume-title": "Computer Graphics Forum"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/2448196.2448221",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/280814.280948",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1111/cgf.12055",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601190&amp;ftid=1488898&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:52:17Z",
+            "timestamp": 1586001137000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "drawing structured decorative patterns by example"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 32,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601190"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601190",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

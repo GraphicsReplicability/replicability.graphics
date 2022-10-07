@@ -1,0 +1,460 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T02:11:27Z",
+            "timestamp": 1585966287176
+        },
+        "reference-count": 46,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100005386",
+                "name": "Israeli Centers for Research Excellence",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "4/11"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100003977",
+                "name": "Israel Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "1284/12"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100000781",
+                "name": "European Research Council",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "307754"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925920",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 35,
+        "title": [
+            "Accelerated quadratic proxy for geometric optimization"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Shahar Z.",
+                "family": "Kovalsky",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Weizmann Institute of Science"
+                    }
+                ]
+            },
+            {
+                "given": "Meirav",
+                "family": "Galun",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Weizmann Institute of Science"
+                    }
+                ]
+            },
+            {
+                "given": "Yaron",
+                "family": "Lipman",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Weizmann Institute of Science"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/2766921",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/280814.280821",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "unstructured": "Beck A. and Teboulle M. 2009. A fast iterative shrinkage-thresholding algorithm for linear inverse problems. SIAM journal on imaging sciences 2 1 183--202. 10.1137/080716542   Beck A. and Teboulle M. 2009. A fast iterative shrinkage-thresholding algorithm for linear inverse problems. SIAM journal on imaging sciences 2 1 183--202. 10.1137/080716542",
+                "DOI": "10.1137/080716542",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/1531326.1531340",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1109/TVCG.2007.1054",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "author": "Botsch M.",
+                "volume-title": "Symposium on Geometry Processing, no. EPFL-CONF-149310"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/1778765.1778775",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "Combettes P. L. and Pesquet J.-C. 2011. Proximal splitting methods in signal processing. In Fixed-point algorithms for inverse problems in science and engineering. Springer 185--212.  Combettes P. L. and Pesquet J.-C. 2011. Proximal splitting methods in signal processing. In Fixed-point algorithms for inverse problems in science and engineering. Springer 185--212.",
+                "DOI": "10.1007/978-1-4419-9569-8_10",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "first-page": "201",
+                "article-title": "An adaptable surface parameterization method",
+                "volume": "3",
+                "author": "Degener P.",
+                "year": "2003",
+                "journal-title": "IMR"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "author": "Desbrun M.",
+                "volume": "21",
+                "volume-title": "Computer Graphics Forum"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "first-page": "206",
+                "article-title": "Sobolev gradient type preconditioning for the saint-venant model of elasto-plastic torsion",
+                "volume": "5",
+                "author": "Farago I.",
+                "year": "2008",
+                "journal-title": "Int. J. Numer. Anal. Model"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "unstructured": "Floater M. S. and Hormann K. 2005. Surface parameterization: a tutorial and survey. Advances in multiresolution for geometric modelling 1 1.  Floater M. S. and Hormann K. 2005. Surface parameterization: a tutorial and survey. Advances in multiresolution for geometric modelling 1 1."
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/2766938",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "author": "Grinspun E.",
+                "volume-title": "Discrete Shells. In ACM SIGGRAPH / Eurographics Symposium on Computer Animation, 62--67"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/2019627.2019638",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "author": "Hormann K.",
+                "year": "2000",
+                "volume-title": "Mips: An efficient global parametrization method. Tech. rep., DTIC Document."
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/1141911.1142003",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "author": "Huang Q.-X.",
+                "volume": "28",
+                "volume-title": "Computer Graphics Forum"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "unstructured": "Iserles A. 2009. A first course in the numerical analysis of differential equations. No. 44. Cambridge University Press.   Iserles A. 2009. A first course in the numerical analysis of differential equations . No. 44. Cambridge University Press.",
+                "DOI": "10.1017/CBO9780511995569",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/1073204.1073229",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/2601097.2601142",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/2816795.2818098",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "Lee J. Sun Y. and Saunders M. 2012. Proximal newton-type methods for convex optimization. In Advances in Neural Information Processing Systems 836--844.  Lee J. Sun Y. and Saunders M. 2012. Proximal newton-type methods for convex optimization. In Advances in Neural Information Processing Systems 836--844."
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/566654.566590",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "unstructured": "Li H. and Lin Z. 2015. Accelerated proximal gradient methods for nonconvex programming. In Advances in Neural Information Processing Systems 379--387.   Li H. and Lin Z. 2015. Accelerated proximal gradient methods for nonconvex programming. In Advances in Neural Information Processing Systems 379--387."
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "author": "Liu L.",
+                "volume": "27",
+                "volume-title": "Computer Graphics Forum"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/2508363.2508406",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "first-page": "372",
+                "article-title": "A method of solving a convex programming problem with convergence rate o (1/k2)",
+                "volume": "27",
+                "author": "Nesterov Y",
+                "year": "1983",
+                "journal-title": "Soviet Mathematics Doklady"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "Nocedal J. and Wright S. 2006. Numerical optimization. Springer Science & Business Media.  Nocedal J. and Wright S. 2006. Numerical optimization. Springer Science & Business Media."
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1137/130942954",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "unstructured": "Papadopoulo T. and Lourakis M. I. 2000. Estimating the jacobian of the singular value decomposition: Theory and applications. In Computer Vision-ECCV 2000. Springer 554--570.   Papadopoulo T. and Lourakis M. I. 2000. Estimating the jacobian of the singular value decomposition: Theory and applications. In Computer Vision-ECCV 2000. Springer 554--570.",
+                "DOI": "10.1007/3-540-45054-8_36",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "unstructured": "Parikh N. and Boyd S. P. 2014. Proximal algorithms. Foundations and Trends in optimization 1 3 127--239. 10.1561/2400000003   Parikh N. and Boyd S. P. 2014. Proximal algorithms. Foundations and Trends in optimization 1 3 127--239. 10.1561/2400000003",
+                "DOI": "10.1561/2400000003",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "first-page": "15",
+                "article-title": "The matrix cookbook",
+                "volume": "7",
+                "author": "Petersen K. B.",
+                "year": "2008",
+                "journal-title": "Technical University of Denmark"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1016/0041-5553(64)90137-5",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1016/S0377-0427(00)00412-X",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1145/2816795.2818093",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "unstructured": "Schuller C. Kavan L. Panozzo D. and Sorkine-Hornung O. 2013. Locally injective mappings. Computer Graphics Forum (proceedings of Symposium on Geometry Processing) 32 5. 10.1111/cgf.12179   Schuller C. Kavan L. Panozzo D. and Sorkine-Hornung O. 2013. Locally injective mappings. Computer Graphics Forum (proceedings of Symposium on Geometry Processing) 32 5. 10.1111/cgf.12179",
+                "DOI": "10.1111/cgf.12179",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1561/0600000011",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/2629697",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1145/2766947",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "author": "Sorkine O.",
+                "volume": "4",
+                "volume-title": "Symposium on Geometry processing"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1145/378456.378522",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.4208/cicp.281114.290615a",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1112/plms/s3-13.1.743",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1145/2766952",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1016/j.cagd.2007.07.006",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925920&amp;ftid=1755853&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:43:33Z",
+            "timestamp": 1585964613000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 46,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925920"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925920",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

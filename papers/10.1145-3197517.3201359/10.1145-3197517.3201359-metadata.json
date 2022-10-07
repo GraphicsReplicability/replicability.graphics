@@ -1,0 +1,402 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T05:03:50Z",
+            "timestamp": 1585976630121
+        },
+        "reference-count": 43,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201359",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 10,
+        "title": [
+            "Blended cured quasi-newton for distortion optimization"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Yufeng",
+                "family": "Zhu",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of British Columbia &amp; Adobe Research"
+                    }
+                ]
+            },
+            {
+                "given": "Robert",
+                "family": "Bridson",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Autodesk &amp; University of British Columbia"
+                    }
+                ]
+            },
+            {
+                "given": "Danny M.",
+                "family": "Kaufman",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe Research"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/2766921",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "Mirela Ben-chen Craig Gotsman and Guy Bunin. 2008. Conformal flattening by curvature prescription and metric scaling. Computer Graphics Forum 27 (2008).  Mirela Ben-chen Craig Gotsman and Guy Bunin. 2008. Conformal flattening by curvature prescription and metric scaling. Computer Graphics Forum 27 (2008)."
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "unstructured": "Dimitri P. Bertsekas. 2016. Nonlinear Programming. Athena Scientific.  Dimitri P. Bertsekas. 2016. Nonlinear Programming. Athena Scientific."
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/2461912.2462014",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "J Bonet and AJ Burton. 1998. A simple orthotropic transversely isotropic hyperelastic constitutive equation for large strain computations. Computer methods in applied mechanics and engineering 162 1 (1998) 151--164.  J Bonet and AJ Burton. 1998. A simple orthotropic transversely isotropic hyperelastic constitutive equation for large strain computations. Computer methods in applied mechanics and engineering 162 1 (1998) 151--164."
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "unstructured": "Allan F Bower. 2009. Applied mechanics of solids. CRC press.  Allan F Bower. 2009. Applied mechanics of solids. CRC press.",
+                "DOI": "10.1201/9781439802489",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/1778765.1778775",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/3130800.3130843",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/2461912.2461983",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/1391989.1391995",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1111/cgf.13243",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "unstructured": "Richard W. Cottle Jong-Shi Pang and Richard E. Stone. 2009. The Linear Complementarity Problem. Society for Industrial & Applied Mathematics (SIAM).  Richard W. Cottle Jong-Shi Pang and Richard E. Stone. 2009. The Linear Complementarity Problem. Society for Industrial & Applied Mathematics (SIAM).",
+                "DOI": "10.1137/1.9780898719000",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "author": "Desbrun Mathieu",
+                "volume-title": "Computer Graphics Forum"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "A Fischer. 1992. A special Newton-type optimization method. 24 (1992) 269--284.  A Fischer. 1992. A special Newton-type optimization method. 24 (1992) 269--284.",
+                "DOI": "10.1080/02331939208843795",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/2766938",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1007/BF01396242",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "author": "Hormann Kai",
+                "year": "2000",
+                "volume-title": "MIPS: An efficient global parametrization method. Technical Report. DTIC Document."
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/2816795.2818098",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "Shahar Z. Kovalsky Meirav Galun and Yaron Lipman. 2016. Accelerated Quadratic Proxy for Geometric Optimization. ACM Transactions on Graphics (proceedings of ACM SIGGRAPH) 35 4 (2016). 10.1145/2897824.2925920   Shahar Z. Kovalsky Meirav Galun and Yaron Lipman. 2016. Accelerated Quadratic Proxy for Geometric Optimization. ACM Transactions on Graphics (proceedings of ACM SIGGRAPH) 35 4 (2016). 10.1145/2897824.2925920"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/566654.566590",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/2185520.2185604",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1137/0716027",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "author": "Liu Ligang",
+                "volume-title": "Computer Graphics Forum"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/2990496",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1111/cgf.12019",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1063/1.1712836",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.5555/1731309.1731335",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "first-page": "372",
+                "article-title": "A method of solving a convex programming problem with convergence rate O(1/sqr(k))",
+                "volume": "27",
+                "author": "Nesterov Yurii",
+                "year": "1983",
+                "journal-title": "Soviet Mathematics Doklady"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.2969/jmsj/03720187",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "unstructured": "J. Nocedal and S. Wright. 2006. Numerical Optimization. Springer New York.  J. Nocedal and S. Wright. 2006. Numerical Optimization. Springer New York."
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "author": "Ogden Raymond",
+                "series-title": "Series A, Mathematical and Physical Sciences. 565--584.",
+                "volume-title": "Proceedings of the Royal Society of London"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "unstructured": "Cosmin G. Petra Olaf Schenk and Mihai Anitescu. 2014a. Real-time stochastic optimization of complex energy systems on high-performance computers. IEEE Computing in Science & Engineering 16 5 (2014).  Cosmin G. Petra Olaf Schenk and Mihai Anitescu. 2014a. Real-time stochastic optimization of complex energy systems on high-performance computers. IEEE Computing in Science & Engineering 16 5 (2014)."
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1137/130908737",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1145/2983621",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "author": "Rivlin Ronald S.",
+                "year": "1948",
+                "volume-title": "Proc. Rubber Technology Conference. 1--8."
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/3072959.3073618",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1145/2185520.2185602",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/2766947",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "author": "Sorkine Olga",
+                "volume": "4",
+                "year": "2007",
+                "volume-title": "Symposium on Geometry processing"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1145/1073368.1073394",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1145/2980179.2980236",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1111/j.1467-8659.2012.03173.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1145/2766917",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201359&ftid=1991621&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:35:08Z",
+            "timestamp": 1585960508000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 43,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201359"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201359",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

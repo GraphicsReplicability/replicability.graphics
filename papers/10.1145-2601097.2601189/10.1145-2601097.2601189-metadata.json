@@ -1,0 +1,394 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:11:20Z",
+            "timestamp": 1586002280975
+        },
+        "reference-count": 35,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100002418",
+                "name": "Intel Corporation",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/501100001809",
+                "name": "National Natural Science Foundation of China",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "61272305, 61303136, 61322204"
+                ]
+            },
+            {
+                "name": "Lenovo's Program for Young Scientists",
+                "award": []
+            },
+            {
+                "name": "Columbia Junior Faculty startup fund",
+                "award": []
+            },
+            {
+                "name": "National Program for Special Support of Eminent Professionals of China",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601189",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 45,
+        "title": [
+            "An asymptotic numerical method for inverse elastic shape design"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Xiang",
+                "family": "Chen",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "State Key Lab of CAD&amp;CG, Zhejiang University"
+                    }
+                ]
+            },
+            {
+                "given": "Changxi",
+                "family": "Zheng",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Columbia University"
+                    }
+                ]
+            },
+            {
+                "given": "Weiwei",
+                "family": "Xu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Hangzhou Normal University"
+                    }
+                ]
+            },
+            {
+                "given": "Kun",
+                "family": "Zhou",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "State Key Lab of CAD&amp;CG, Zhejiang University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "Allgower E. L. and Georg K. 1990. Numerical continuation methods vol. 13. Springer-Verlag Berlin.   Allgower E. L. and Georg K. 1990. Numerical continuation methods vol. 13. Springer-Verlag Berlin.",
+                "DOI": "10.1007/978-3-642-61257-2",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/2185520.2185543",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/1531326.1531359",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "Barbi\u010d J. Sin F. S. and Schroeder D. 2012. Vega FEM Library. http://www.jernejbarbic.com/vega.  Barbi\u010d J. Sin F. S. and Schroeder D. 2012. Vega FEM Library. http://www.jernejbarbic.com/vega."
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/2185520.2185566",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/1778765.1778800",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/2185520.2185614",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "Bonet J. and Wood R. D. 1997. Nonlinear Continuum Mechanics for Finite Element Analysis. Cambridge University.  Bonet J. and Wood R. D. 1997. Nonlinear Continuum Mechanics for Finite Element Analysis . Cambridge University."
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "Brent R. P. 2013. Algorithms for minimization without derivatives. Courier Dover Publications.  Brent R. P. 2013. Algorithms for minimization without derivatives . Courier Dover Publications."
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/2366145.2366149",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/2508363.2508400",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/2461912.2461994",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "Cochelin B. 1994. A path-following technique via an asymptotic-numerical method. Computers & structures 53 5 1181--1192.  Cochelin B. 1994. A path-following technique via an asymptotic-numerical method. Computers & structures 53 5 1181--1192.",
+                "DOI": "10.1016/0045-7949(94)90165-1",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/2185520.2185565",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/2461912.2461953",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1016/0020-7225(90)90043-I",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/1882261.1866159",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/2508363.2508398",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "author": "Hadap S.",
+                "year": "2006",
+                "volume-title": "Proceedings of SCA, 91--100"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/2185520.2185567",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1016/j.jmps.2013.04.002",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "author": "Levenberg K.",
+                "first-page": "2",
+                "year": "1944",
+                "article-title": "A method for the solution of certain nonlinear problems in least squares",
+                "journal-title": "Quart. J. Appl. Maths."
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "Lourakis M. I. A. Jul. 2004. levmar: Levenberg-marquardt nonlinear least squares algorithms in C/C++. {web page} http://www.ics.forth.gr/~lourakis/levmar.  Lourakis M. I. A. Jul. 2004. levmar: Levenberg-marquardt nonlinear least squares algorithms in C/C++. {web page} http://www.ics.forth.gr/~lourakis/levmar."
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/2010324.1964967",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1111/j.1467-8659.2012.03031.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1111/j.1467-8659.2006.01000.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "unstructured": "Ogden R. W. 1997. Non-linear elastic deformations. Courier Dover Publications.  Ogden R. W. 1997. Non-linear elastic deformations . Courier Dover Publications."
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/2461912.2461957",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1111/j.1467-8659.2012.03064.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/2461912.2461979",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/2185520.2185544",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "unstructured": "SunPe P. Professional Rapid Prototyping & Manufacturing. http://www.sunpe.com/types-34.html SunPe PROTOTYPE.  SunPe P. Professional Rapid Prototyping & Manufacturing. http://www.sunpe.com/types-34.html SunPe PROTOTYPE."
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/2019406.2019437",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/2010324.1964985",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1016/S0045-7825(98)00320-X",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601189&amp;ftid=1488903&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:50:28Z",
+            "timestamp": 1586001028000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 35,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601189"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601189",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

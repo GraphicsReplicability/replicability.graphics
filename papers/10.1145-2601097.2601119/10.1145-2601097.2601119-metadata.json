@@ -1,0 +1,394 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:11:21Z",
+            "timestamp": 1586002281068
+        },
+        "reference-count": 29,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100007458",
+                "name": "Qatar Foundation",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100000001",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "CGV-1111415, 1122374"
+                ]
+            },
+            {
+                "DOI": "10.13039/100006919",
+                "name": "Massachusetts Institute of Technology",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100006112",
+                "name": "Microsoft Research",
+                "doi-asserted-by": "publisher",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601119",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-10",
+        "source": "Crossref",
+        "is-referenced-by-count": 91,
+        "title": [
+            "The visual microphone"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Abe",
+                "family": "Davis",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "MIT CSAIL"
+                    }
+                ]
+            },
+            {
+                "given": "Michael",
+                "family": "Rubinstein",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research and MIT CSAIL"
+                    }
+                ]
+            },
+            {
+                "given": "Neal",
+                "family": "Wadhwa",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "MIT CSAIL"
+                    }
+                ]
+            },
+            {
+                "given": "Gautham J.",
+                "family": "Mysore",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe Research"
+                    }
+                ]
+            },
+            {
+                "given": "Fr\u00e9do",
+                "family": "Durand",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "MIT CSAIL"
+                    }
+                ]
+            },
+            {
+                "given": "William T.",
+                "family": "Freeman",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "MIT CSAIL"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/1015706.1015718",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "first-page": "113",
+                "article-title": "Suppression of acoustic noise in speech using spectral subtraction. Acoustics, Speech and Signal Processing",
+                "volume": "27",
+                "author": "Boll S.",
+                "year": "1979",
+                "journal-title": "IEEE Transactions on"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "author": "Chen J.",
+                "volume-title": "Proceedings of the 32nd International Modal Analysis Conference (to appear)."
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1121/1.1458024",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1109/TPAMI.2012.218",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "author": "Fisher W. M.",
+                "volume-title": "Proc. DARPA Workshop on speech recognition, 93--99"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1109/TNN.2002.1031944",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "author": "Grundmann M.",
+                "volume-title": "Computational Photography (ICCP), 2012 IEEE International Conference on, IEEE, 1--8."
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "first-page": "2819",
+                "article-title": "An effective quality evaluation protocol for speech enhancement algorithms",
+                "volume": "7",
+                "author": "Hansen J. H.",
+                "year": "1998",
+                "journal-title": "ICSLP"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "first-page": "317",
+                "article-title": "Adaptive interpolation of discrete-time signals that can be modeled as autoregressive processes. Acoustics, Speech and Signal Processing",
+                "volume": "34",
+                "author": "Janssen A.",
+                "year": "1986",
+                "journal-title": "IEEE Transactions on"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "Jansson E. Molin N.-E. and Sundin H. 1970. Resonances of a violin body studied by hologram interferometry and acoustical methods. Physica scripta 2 6 243.  Jansson E. Molin N.-E. and Sundin H. 1970. Resonances of a violin body studied by hologram interferometry and acoustical methods. Physica scripta 2 6 243.",
+                "DOI": "10.1088/0031-8949/2/6/002",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/1073204.1073223",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1109/TPAMI.2004.1262177",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Meingast M. Geyer C. and Sastry S. 2005. Geometric models of rolling-shutter cameras. arXiv preprint cs/0503076. 10.1145/1531326.1531350   Meingast M. Geyer C. and Sastry S. 2005. Geometric models of rolling-shutter cameras. arXiv preprint cs/0503076 . 10.1145/1531326.1531350"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.4028/www.scientific.net/KEM.347.239",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "Nakamura J. 2005. Image sensors and signal processing for digital still cameras. CRC Press.   Nakamura J. 2005. Image sensors and signal processing for digital still cameras . CRC Press."
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "Poe E. A. 1845. The Raven. 10.1109/ICCV.2005.13   Poe E. A. 1845. The Raven. 10.1109/ICCV.2005.13"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1023/A:1026553619983",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1016/j.jvcir.2007.04.002",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "Quackenbush S. R. Barnwell T. P. and Clements M. A. 1988. Objective measures of speech quality. Prentice Hall Englewood Cliffs NJ.  Quackenbush S. R. Barnwell T. P. and Clements M. A. 1988. Objective measures of speech quality . Prentice Hall Englewood Cliffs NJ."
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1016/0022-460X(89)90705-0",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "unstructured": "Rubinstein M. 2014. Analysis and Visualization of Temporal Variations in Video. PhD thesis Massachusetts Institute of Technology.  Rubinstein M. 2014. Analysis and Visualization of Temporal Variations in Video . PhD thesis Massachusetts Institute of Technology."
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1109/18.119725",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1006/mssp.1998.1209",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1109/TASL.2011.2114881",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/2461912.2461966",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "author": "Wadhwa N.",
+                "volume-title": "Computational Photography (ICCP), 2014 IEEE International Conference on, IEEE."
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/2185520.2185561",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1364/OE.17.021566",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601119&amp;ftid=1488887&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:48:55Z",
+            "timestamp": 1586000935000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "passive recovery of sound from video"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 29,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601119"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601119",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

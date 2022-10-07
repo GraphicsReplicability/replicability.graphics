@@ -1,0 +1,450 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:54Z",
+            "timestamp": 1585962714390
+        },
+        "reference-count": 44,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100007065",
+                "name": "Nvidia",
+                "doi-asserted-by": "crossref",
+                "award": []
+            },
+            {
+                "name": "Adobe",
+                "award": []
+            },
+            {
+                "name": "ANRT CIFRE scholarship between Inria and Optis",
+                "award": []
+            },
+            {
+                "name": "Toyota Research Institute",
+                "award": []
+            },
+            {
+                "name": "EU",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201378",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-15",
+        "source": "Crossref",
+        "is-referenced-by-count": 15,
+        "title": [
+            "Single-image SVBRDF capture with a rendering-aware deep network"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Valentin",
+                "family": "Deschaintre",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Universit\u00e9 C\u00f4te d'Azur"
+                    }
+                ]
+            },
+            {
+                "given": "Miika",
+                "family": "Aittala",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "MIT CSAIL"
+                    }
+                ]
+            },
+            {
+                "given": "Fredo",
+                "family": "Durand",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Universit\u00e9 C\u00f4te d'Azur"
+                    }
+                ]
+            },
+            {
+                "given": "George",
+                "family": "Drettakis",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Universit\u00e9 C\u00f4te d'Azur"
+                    }
+                ]
+            },
+            {
+                "given": "Adrien",
+                "family": "Bousseau",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Universit\u00e9 C\u00f4te d'Azur"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "Mart\u00edn Abadi Ashish Agarwal Paul Barham Eugene Brevdo Zhifeng Chen Craig Citro Greg S. Corrado Andy Davis Jeffrey Dean Matthieu Devin Sanjay Ghemawat Ian Goodfellow Andrew Harp Geoffrey Irving Michael Isard Yangqing Jia Rafal Jozefowicz Lukasz Kaiser Manjunath Kudlur Josh Levenberg Dan Man\u00e9 Rajat Monga Sherry Moore Derek Murray Chris Olah Mike Schuster Jonathon Shlens Benoit Steiner Ilya Sutskever Kunal Talwar Paul Tucker Vincent Vanhoucke Vijay Vasudevan Fernanda Vi\u00e9gas Oriol Vinyals Pete Warden Martin Wattenberg Martin Wicke Yuan Yu and Xiaoqiang Zheng. 2015. TensorFlow: Large-Scale Machine Learning on Heterogeneous Systems. (2015). https://www.tensorflow.org/ Software available from tensorflow.org.  Mart\u00edn Abadi Ashish Agarwal Paul Barham Eugene Brevdo Zhifeng Chen Craig Citro Greg S. Corrado Andy Davis Jeffrey Dean Matthieu Devin Sanjay Ghemawat Ian Goodfellow Andrew Harp Geoffrey Irving Michael Isard Yangqing Jia Rafal Jozefowicz Lukasz Kaiser Manjunath Kudlur Josh Levenberg Dan Man\u00e9 Rajat Monga Sherry Moore Derek Murray Chris Olah Mike Schuster Jonathon Shlens Benoit Steiner Ilya Sutskever Kunal Talwar Paul Tucker Vincent Vanhoucke Vijay Vasudevan Fernanda Vi\u00e9gas Oriol Vinyals Pete Warden Martin Wattenberg Martin Wicke Yuan Yu and Xiaoqiang Zheng. 2015. TensorFlow: Large-Scale Machine Learning on Heterogeneous Systems. (2015). https://www.tensorflow.org/ Software available from tensorflow.org."
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "Miika Aittala Timo Aila and Jaakko Lehtinen. 2016. Reflectance Modeling by Neural Texture Synthesis. ACM Transactions on Graphics (Proc. SIGGRAPH) 35 4 (2016). 10.1145/2897824.2925917   Miika Aittala Timo Aila and Jaakko Lehtinen. 2016. Reflectance Modeling by Neural Texture Synthesis. ACM Transactions on Graphics (Proc. SIGGRAPH) 35 4 (2016). 10.1145/2897824.2925917"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "unstructured": "Miika Aittala Tim Weyrich and Jaakko Lehtinen. 2015. Two-shot SVBRDF Capture for Stationary Materials. ACM Transactions on Graphics (Proc. SIGGRAPH) 34 4 (2015). 10.1145/2766967   Miika Aittala Tim Weyrich and Jaakko Lehtinen. 2015. Two-shot SVBRDF Capture for Stationary Materials. ACM Transactions on Graphics (Proc. SIGGRAPH) 34 4 (2015). 10.1145/2766967"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "Allegorithmic. 2018. Substance Share. (2018). https://share.allegorithmic.com/  Allegorithmic. 2018. Substance Share. (2018). https://share.allegorithmic.com/"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "author": "Ashikhmin Michael",
+                "volume-title": "Technical Report"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "author": "Chen Qifeng",
+                "year": "2017",
+                "volume-title": "Photographic Image Synthesis with Cascaded Refinement Networks. In International Conference on Computer Vision (ICCV)."
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/357290.357293",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/2661229.2661283",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "Yue Dong Xin Tong Fabio Pellacini and Baining Guo. 2011. AppGen: Interactive Material Modeling from a Single Image. ACM Transactions on Graphics (Proc. SIGGRAPH Asia) 30 6 (2011) 146:1--146:10. 10.1145/2070781.2024180   Yue Dong Xin Tong Fabio Pellacini and Baining Guo. 2011. AppGen: Interactive Material Modeling from a Single Image. ACM Transactions on Graphics (Proc. SIGGRAPH Asia) 30 6 (2011) 146:1--146:10. 10.1145/2070781.2024180"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "Yue Dong Jinpeng Wang Xin Tong John Snyder Moshe Ben-Ezra Yanxiang Lan and Baining Guo. 2010. Manifold Bootstrapping for SVBRDF Capture. ACM Transactions on Graphics (Proc. SIGGRAPH) 29 4 (2010). 10.1145/1778765.1778835   Yue Dong Jinpeng Wang Xin Tong John Snyder Moshe Ben-Ezra Yanxiang Lan and Baining Guo. 2010. Manifold Bootstrapping for SVBRDF Capture. ACM Transactions on Graphics (Proc. SIGGRAPH) 29 4 (2010). 10.1145/1778765.1778835",
+                "DOI": "10.1145/1833349.1778835",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "author": "Dror Ron O.",
+                "year": "2001",
+                "volume-title": "Proc. IEEE Workshop on Identifying Objects Across Variations in Lighting: Psychophysics and Computation"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "unstructured": "Dar'ya Guarnera Giuseppe Claudio Guarnera Abhijeet Ghosh Cornelia Denk and Mashhuda Glencross. 2016. BRDF Representation and Acquisition. Computer Graphics Forum (2016).  Dar'ya Guarnera Giuseppe Claudio Guarnera Abhijeet Ghosh Cornelia Denk and Mashhuda Glencross. 2016. BRDF Representation and Acquisition. Computer Graphics Forum (2016).",
+                "DOI": "10.1111/cgf.12867",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "author": "He Kaiming",
+                "year": "2016",
+                "volume-title": "Deep Residual Learning for Image Recognition. In The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)."
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "author": "Hui Z.",
+                "volume-title": "Reflectance Capture Using Univariate Sampling of BRDFs. In IEEE International Conference on Computer Vision (ICCV)."
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/2897824.2925974",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "C. Innamorati T. Ritschel T. Weyrich and N. Mitra. 2017. Decomposing Single Images for Layered Photo Retouching. Computer Graphics Forum (Proc. EGSR) 36 4 (2017). 10.1111/cgf.13220   C. Innamorati T. Ritschel T. Weyrich and N. Mitra. 2017. Decomposing Single Images for Layered Photo Retouching. Computer Graphics Forum (Proc. EGSR) 36 4 (2017). 10.1111/cgf.13220"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "author": "Isola Phillip",
+                "year": "2017",
+                "volume-title": "Image-to-image Translation with Conditional Adversarial Networks. In The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)."
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "unstructured": "Wenzel Jakob. 2010. Mitsuba renderer. (2010). http://www.mitsuba-renderer.org.  Wenzel Jakob. 2010. Mitsuba renderer. (2010). http://www.mitsuba-renderer.org."
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "author": "Karras Tero",
+                "year": "2018",
+                "volume-title": "International Conference on Learning Representations (ICLR)."
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "author": "Diederik",
+                "volume-title": "Adam: A Method for Stochastic Optimization. In International Conference on Learning Representations (ICLR)."
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "G\u00fcnter Klambauer Thomas Unterthiner Andreas Mayr and Sepp Hochreiter. 2017. Self-Normalizing Neural Networks. In Advances in Neural Information Processing Systems (NIPS). 972--981.  G\u00fcnter Klambauer Thomas Unterthiner Andreas Mayr and Sepp Hochreiter. 2017. Self-Normalizing Neural Networks. In Advances in Neural Information Processing Systems (NIPS). 972--981."
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/636886.636891",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "Xiao Li Yue Dong Pieter Peers and Xin Tong. 2017. Modeling Surface Appearance from a Single Photograph using Self-augmented Convolutional Neural Networks. ACM Transactions on Graphics (Proc. SIGGRAPH) 36 4 (2017). 10.1145/3072959.3073641   Xiao Li Yue Dong Pieter Peers and Xin Tong. 2017. Modeling Surface Appearance from a Single Photograph using Self-augmented Convolutional Neural Networks. ACM Transactions on Graphics (Proc. SIGGRAPH) 36 4 (2017). 10.1145/3072959.3073641"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1109/ICCV.2017.248",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1109/TPAMI.2015.2430318",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1109/ICCV.2015.342",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "unstructured": "K. Rematas S. Georgoulis T. Ritschel E. Gavves M. Fritz L. Van Gool and T. Tuytelaars. 2017. Reflectance and Natural Illumination from Single-Material Specular Objects Using Deep Learning. IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI) (2017).  K. Rematas S. Georgoulis T. Ritschel E. Gavves M. Fritz L. Van Gool and T. Tuytelaars. 2017. Reflectance and Natural Illumination from Single-Material Specular Objects Using Deep Learning. IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI) (2017).",
+                "DOI": "10.1109/TPAMI.2017.2742999",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "unstructured": "Peiran Ren Jinpeng Wang John Snyder Xin Tong and Baining Guo. 2011. Pocket Reflectometry. ACM Transactions on Graphics (Proc. SIGGRAPH) 30 4 (2011). 10.1145/2010324.1964940   Peiran Ren Jinpeng Wang John Snyder Xin Tong and Baining Guo. 2011. Pocket Reflectometry. ACM Transactions on Graphics (Proc. SIGGRAPH) 30 4 (2011). 10.1145/2010324.1964940",
+                "DOI": "10.1145/2010324.1964940",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1007/978-3-319-46475-6_7",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "unstructured": "J. Riviere P. Peers and A. Ghosh. 2016. Mobile Surface Reflectometry. Computer Graphics Forum 35 1 (2016). 10.1111/cgf.12719   J. Riviere P. Peers and A. Ghosh. 2016. Mobile Surface Reflectometry. Computer Graphics Forum 35 1 (2016). 10.1111/cgf.12719"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "unstructured": "J\u00e9r\u00e9my Riviere Ilya Reshetouski Luka Filipi and Abhijeet Ghosh. 2017. Polarization imaging reflectometry in the wild. ACM Transactions on Graphics (Proc. SIGGRAPH) (2017). 10.1145/3130800.3130894   J\u00e9r\u00e9my Riviere Ilya Reshetouski Luka Filipi and Abhijeet Ghosh. 2017. Polarization imaging reflectometry in the wild. ACM Transactions on Graphics (Proc. SIGGRAPH) (2017). 10.1145/3130800.3130894"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "first-page": "234",
+                "article-title": "U-Net: Convolutional Networks for Biomedical Image Segmentation",
+                "volume": "9351",
+                "author": "Ronneberger O.",
+                "year": "2015",
+                "journal-title": "Medical Image Computing and Computer-Assisted Intervention (MICCAI) (LNCS)"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1109/ICCV.2015.308",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "author": "Tewari Ayush",
+                "year": "2017",
+                "volume-title": "MoFA: Model-based Deep Convolutional Face Autoencoder for Unsupervised Monocular Reconstruction. In IEEE International Conference on Computer Vision (ICCV)."
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "author": "Ulyanov Dmitry",
+                "year": "2017",
+                "volume-title": "Improved Texture Networks: Maximizing Quality and Diversity in Feed-Forward Stylization and Texture Synthesis. In The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)."
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "author": "Walter Bruce",
+                "volume-title": "Proc. of Eurographics Conference on Rendering Techniques (EGSR)."
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "unstructured": "Chun-Po Wang Noah Snavely and Steve Marschner. 2011. Estimating Dual-scale Properties of Glossy Surfaces from Step-edge Lighting. ACM Transactions on Graphics (Proc. SIGGRAPH Asia) 30 6 (2011). 10.1145/2070781.2024206   Chun-Po Wang Noah Snavely and Steve Marschner. 2011. Estimating Dual-scale Properties of Glossy Surfaces from Step-edge Lighting. ACM Transactions on Graphics (Proc. SIGGRAPH Asia) 30 6 (2011). 10.1145/2070781.2024206"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "author": "Wang Xiaolong",
+                "year": "2018",
+                "volume-title": "Non-local Neural Networks. In The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)."
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1007/978-3-319-10578-9_11",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "unstructured": "Zexiang Xu Jannik Boll Nielsen Jiyang Yu Henrik Wann Jensen and Ravi Ramamoorthi. 2016. Minimal BRDF Sampling for Two-shot Near-field Reflectance Acquisition. ACM Transactions on Graphics (Proc. SIGGRAPH Asia) 35 6 (2016). 10.1145/2980179.2982396   Zexiang Xu Jannik Boll Nielsen Jiyang Yu Henrik Wann Jensen and Ravi Ramamoorthi. 2016. Minimal BRDF Sampling for Two-shot Near-field Reflectance Acquisition. ACM Transactions on Graphics (Proc. SIGGRAPH Asia) 35 6 (2016). 10.1145/2980179.2982396",
+                "DOI": "10.1145/2980179.2982396",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "unstructured": "Richard Zhang Jun-Yan Zhu Phillip Isola Xinyang Geng Angela S Lin Tianhe Yu and Alexei A Efros. 2017b. Real-Time User-Guided Image Colorization with Learned Deep Priors. ACM Transactions on Graphics (Proc. SIGGRAPH) 9 4 (2017). 10.1145/3072959.3073703   Richard Zhang Jun-Yan Zhu Phillip Isola Xinyang Geng Angela S Lin Tianhe Yu and Alexei A Efros. 2017b. Real-Time User-Guided Image Colorization with Learned Deep Priors. ACM Transactions on Graphics (Proc. SIGGRAPH) 9 4 (2017). 10.1145/3072959.3073703"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "author": "Zhang Yinda",
+                "volume-title": "Physically-Based Rendering for Indoor Scene Understanding Using Convolutional Neural Networks. In The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)."
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "author": "Zhao Hengshuang",
+                "year": "2017",
+                "volume-title": "Pyramid Scene Parsing Network. In The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)."
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1109/TPAMI.2006.170",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201378&ftid=1991633&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:37:59Z",
+            "timestamp": 1585960679000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 44,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201378"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201378",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

@@ -1,0 +1,488 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:41:08Z",
+            "timestamp": 1586004068076
+        },
+        "reference-count": 52,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100007397",
+                "name": "Univerzita Karlova v Praze",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "GA UK 580612, SVV2014260103"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100001824",
+                "name": "Grantov\u00e1 Agentura \u010cesk\u00e9 Republiky",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "P202-13-26189S"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601203",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 45,
+        "title": [
+            "On-line learning of parametric mixture models for light transport simulation"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Ji\u0159\u00ed",
+                "family": "Vorba",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Charles University in Prague"
+                    }
+                ]
+            },
+            {
+                "given": "Ond\u0159ej",
+                "family": "Karl\u00edk",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Charles University in Prague"
+                    }
+                ]
+            },
+            {
+                "given": "Martin",
+                "family": "\u0160ik",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Charles University in Prague"
+                    }
+                ]
+            },
+            {
+                "given": "Tobias",
+                "family": "Ritschel",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "MPI Informatik, Saarbr\u00fccken"
+                    }
+                ]
+            },
+            {
+                "given": "Jaroslav",
+                "family": "K\u0159iv\u00e1nek",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Charles University in Prague"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/97879.97886",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1111/j.1467-8659.2012.02099.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "author": "Bashford-Rogers T.",
+                "year": "2013",
+                "article-title": "Importance driven environment map sampling",
+                "journal-title": "IEEE Transactions on Visualization and Computer Graphics 19."
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1214/aos/1176342874",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "Bishop C. M. 2006. Pattern Recognition and Machine Learning. Springer.   Bishop C. M. 2006. Pattern Recognition and Machine Learning . Springer."
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "unstructured": "Booth T. 1985. A sample problem for variance reduction in MCNP. Tech. rep. Los Alamos National Laboratory Los Alamos New Mexico 87545.  Booth T. 1985. A sample problem for variance reduction in MCNP. Tech. rep. Los Alamos National Laboratory Los Alamos New Mexico 87545."
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1016/j.apradiso.2011.11.037",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1111/j.1467-8659.2008.01345.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "Capp\u00e9 O. 2011. Online Expectation Maximisation. John Wiley & Sons Ltd 31--53.  Capp\u00e9 O. 2011. Online Expectation Maximisation . John Wiley & Sons Ltd 31--53.",
+                "DOI": "10.1002/9781119995678.ch2",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/1073204.1073330",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "Cline D. Adams D. and Egbert P. 2008. Table-driven adaptive importance sampling. Computer Graphics Forum 27. 10.1111/j.1467-8659.2008.01249.x   Cline D. Adams D. and Egbert P. 2008. Table-driven adaptive importance sampling. Computer Graphics Forum 27 . 10.1111/j.1467-8659.2008.01249.x",
+                "DOI": "10.1111/j.1467-8659.2008.01249.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "first-page": "1",
+                "article-title": "Maximum likelihood from incomplete data via the EM algorithm",
+                "volume": "39",
+                "author": "Dempster A. P.",
+                "year": "1977",
+                "journal-title": "Journal of the Royal Statistical Society, Series B"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "author": "Dutr\u00e9 P.",
+                "volume-title": "Eurographics Workshop on Rendering."
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "author": "Dutr\u00e9 P.",
+                "volume-title": "EG Workshop on Rendering."
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "unstructured": "Dutr\u00e9 P. Bala K. and Bekaert P. 2006. Advanced Global Illumination 2nd ed. A. K. Peters.   Dutr\u00e9 P. Bala K. and Bekaert P. 2006. Advanced Global Illumination 2nd ed. A. K. Peters.",
+                "DOI": "10.1201/b10632",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1098/rspa.1953.0064",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1109/89.279278",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1111/j.1467-8659.2012.03049.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/2366145.2366211",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "Georgiev I. 2012. Implementing vertex connection and merging. Tech. rep. Saarland University.  Georgiev I. 2012. Implementing vertex connection and merging. Tech. rep. Saarland University."
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/1409060.1409083",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/2366145.2366210",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1016/S0149-1970(02)00002-1",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "Hey H. and Purgathofer W. 2002. Importance sampling with hemispherical particle footprints. In SCCG. 10.1145/584458.584476   Hey H. and Purgathofer W. 2002. Importance sampling with hemispherical particle footprints. In SCCG . 10.1145/584458.584476",
+                "DOI": "10.1145/584458.584476",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/2185520.2185554",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1111/j.1467-8659.2011.01988.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "unstructured": "Jakob W. 2010. Mitsuba renderer. http://mitsuba-renderer.org.  Jakob W. 2010. Mitsuba renderer. http://mitsuba-renderer.org."
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1007/978-3-7091-9430-0_31",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "Karl\u00edk O. 2009. Corona Renderer. http://corona-renderer.com.  Karl\u00edk O. 2009. Corona Renderer. http://corona-renderer.com."
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1111/1467-8659.t01-1-00703",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "first-page": "71",
+                "article-title": "The Fisher-Bingham distribution on the sphere. Journal of the Royal Statistical Society",
+                "volume": "44",
+                "author": "Kent J. T.",
+                "year": "1982",
+                "journal-title": "Series B"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1109/TVCG.2005.83",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.5555/2383894.2383911",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "author": "Lafortune E. P.",
+                "volume-title": "Eurographics Workshop on Rendering. 11--20"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1145/2461912.2461943",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1016/0021-9991(78)90004-9",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "author": "Liang P.",
+                "volume-title": "Human Language Technologies (NAACL '09)"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "author": "Pegoraro V.",
+                "volume-title": "IEEE Symposium on Interactive Ray Tracing, 107--114"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1111/j.1467-8659.2008.01247.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "unstructured": "Peter I. and Pietrek G. 1998. Importance driven construction of photon maps. In Rendering Techniques 269--80.  Peter I. and Pietrek G. 1998. Importance driven construction of photon maps. In Rendering Techniques 269--80.",
+                "DOI": "10.1007/978-3-7091-6453-2_25",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "unstructured": "Pharr M. and Humphreys G. 2010. Physically Based Rendering Second Edition: From Theory To Implementation 2nd ed. Morgan Kaufmann Publishers Inc. San Francisco CA.   Pharr M. and Humphreys G. 2010. Physically Based Rendering Second Edition: From Theory To Implementation 2nd ed. Morgan Kaufmann Publishers Inc. San Francisco CA."
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1162/089976600300015853",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1080/10867651.1997.10487479",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "unstructured": "Silverman B. W. 1986. Density Estimation for Statistics and Data Analysis. Chapman & Hall London.  Silverman B. W. 1986. Density Estimation for Statistics and Data Analysis . Chapman & Hall London.",
+                "DOI": "10.1007/978-1-4899-3324-9",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "author": "Steinhurst J.",
+                "volume-title": "IEEE Symposium on Interactive Ray Tracing, 133--138"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1007/s00371-008-0263-7",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "DOI": "10.1145/258734.258775",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "unstructured": "Veach E. 1997. Robust Monte Carlo methods for light transport simulation. PhD thesis Stanford University.   Veach E. 1997. Robust Monte Carlo methods for light transport simulation . PhD thesis Stanford University."
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "DOI": "10.1007/s10618-005-0033-3",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "DOI": "10.1145/54852.378490",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "DOI": "10.1145/133994.134078",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "DOI": "10.1145/2508363.2508386",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601203&amp;ftid=1488909&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:59:25Z",
+            "timestamp": 1586001565000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 52,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601203"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601203",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

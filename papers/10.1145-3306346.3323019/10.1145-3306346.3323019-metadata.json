@@ -1,0 +1,502 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    5,
+                    5
+                ]
+            ],
+            "date-time": "2020-05-05T17:41:03Z",
+            "timestamp": 1588700463616
+        },
+        "reference-count": 56,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2019,
+                            7,
+                            12
+                        ]
+                    ],
+                    "date-time": "2019-07-12T00:00:00Z",
+                    "timestamp": 1562889600000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100011199",
+                "name": "FP7 Ideas: European Research Council",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "340884"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100001659",
+                "name": "Deutsche Forschungsgemeinschaft",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "Gottfried-Wilhelm-Leibniz Programme"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "DOI": "10.1145/3306346.3323019",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2019-07-12T19:04:08Z",
+            "timestamp": 1562958248000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 1,
+        "title": [
+            "Parametrization quantization with free boundaries for trimmed quad meshing"
+        ],
+        "prefix": "10.1145",
+        "volume": "38",
+        "author": [
+            {
+                "given": "Max",
+                "family": "Lyon",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "RWTH Aachen University"
+                    }
+                ]
+            },
+            {
+                "given": "Marcel",
+                "family": "Campen",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Osnabr\u00fcck University"
+                    }
+                ]
+            },
+            {
+                "given": "David",
+                "family": "Bommes",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Bern"
+                    }
+                ]
+            },
+            {
+                "given": "Leif",
+                "family": "Kobbelt",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "RWTH Aachen University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_1_1_1",
+                "author": "Akleman Ergun",
+                "year": "2005",
+                "volume-title": "Tiled Textures. ISAMA'2008"
+            },
+            {
+                "key": "e_1_2_1_2_1",
+                "DOI": "10.1016/j.proeng.2015.10.123",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_3_1",
+                "DOI": "10.1145/2461912.2462014",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_4_1",
+                "DOI": "10.1111/cgf.12014",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_5_1",
+                "DOI": "10.1145/1531326.1531383",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_6_1",
+                "DOI": "10.2312/egt.20171033",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_7_1",
+                "DOI": "10.1145/2816795.2818140",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_8_1",
+                "unstructured": "Marcel Campen Moritz Ibing Hans-Christian Ebke Denis Zorin and Leif Kobbelt. 2016. Scale-Invariant Directional Alignment of Surface Parametrizations. Computer Graphics Forum 35 5 (2016).  Marcel Campen Moritz Ibing Hans-Christian Ebke Denis Zorin and Leif Kobbelt. 2016. Scale-Invariant Directional Alignment of Surface Parametrizations. Computer Graphics Forum 35 5 (2016).",
+                "DOI": "10.1111/cgf.12958",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_9_1",
+                "DOI": "10.1111/cgf.12401",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_10_1",
+                "DOI": "10.1111/j.1467-8659.2010.01761.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_11_1",
+                "DOI": "10.1145/1141911.1141993",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_12_1",
+                "unstructured": "Hans-Christian Ebke David Bommes Marcel Campen and Leif Kobbelt. 2013. QEx: Robust Quad Mesh Extraction. 32 6 (2013) 168:1--168:10. 10.1145/2508363.2508372   Hans-Christian Ebke David Bommes Marcel Campen and Leif Kobbelt. 2013. QEx: Robust Quad Mesh Extraction. 32 6 (2013) 168:1--168:10. 10.1145/2508363.2508372"
+            },
+            {
+                "key": "e_1_2_1_13_1",
+                "DOI": "10.1145/2661229.2661240",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_14_1",
+                "DOI": "10.1145/2980179.2982413",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_15_1",
+                "DOI": "10.1007/PL00009479",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_16_1",
+                "DOI": "10.5555/1731309.1731334",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_17_1",
+                "DOI": "10.1145/3197517.3201354",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_18_1",
+                "unstructured": "Gerald E. Farin and Dianne Hansford. 2000. The Essentials of CAGD. A. K. Peters Ltd. Natick MA USA.   Gerald E. Farin and Dianne Hansford. 2000. The Essentials of CAGD. A. K. Peters Ltd. Natick MA USA.",
+                "DOI": "10.1201/9781439864111",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_19_1",
+                "first-page": "253",
+                "article-title": "The extended/generalized finite element method: an overview of the method and its applications",
+                "volume": "84",
+                "author": "Fries Thomas-Peter",
+                "year": "2010",
+                "journal-title": "Internat. J. Numer. Methods Engrg."
+            },
+            {
+                "key": "e_1_2_1_20_1",
+                "DOI": "10.1109/TBME.2011.2158212",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_21_1",
+                "DOI": "10.1016/j.cad.2013.09.003",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_22_1",
+                "DOI": "10.1145/1409060.1409100",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_23_1",
+                "DOI": "10.1111/cgf.13498",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_24_1",
+                "DOI": "10.1145/2816795.2818078",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_25_1",
+                "unstructured": "Felix K\u00e4lberer Matthias Nieser and Konrad Polthier. 2007. QuadCover - Surface Parameterization using Branched Coverings. Computer Graphics Forum 26 3 (2007).  Felix K\u00e4lberer Matthias Nieser and Konrad Polthier. 2007. QuadCover - Surface Parameterization using Branched Coverings. Computer Graphics Forum 26 3 (2007)."
+            },
+            {
+                "key": "e_1_2_1_26_1",
+                "doi-asserted-by": "crossref",
+                "first-page": "265",
+                "DOI": "10.1002/jnm.2073",
+                "article-title": "An interface-enriched generalized finite element analysis for electromagnetic problems with non-conformal discretizations",
+                "volume": "29",
+                "author": "Kedi Zhang",
+                "year": "2015",
+                "journal-title": "International Journal of Numerical Modelling: Electronic Networks, Devices and Fields"
+            },
+            {
+                "key": "e_1_2_1_27_1",
+                "DOI": "10.1145/882262.882275",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_28_1",
+                "DOI": "10.1016/j.cagd.2011.06.003",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_29_1",
+                "DOI": "10.1145/2653476",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_30_1",
+                "DOI": "10.1016/j.cad.2017.05.005",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_31_1",
+                "unstructured": "Manish Mandad and Marcel Campen. 2019. Exact Constraint Satisfaction for Truly Seamless Parametrization. Computer Graphics Forum 38 2 (2019).  Manish Mandad and Marcel Campen. 2019. Exact Constraint Satisfaction for Truly Seamless Parametrization. Computer Graphics Forum 38 2 (2019)."
+            },
+            {
+                "key": "e_1_2_1_32_1",
+                "DOI": "10.1111/cgf.12183",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_33_1",
+                "DOI": "10.1007/978-3-642-27413-8_31",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_34_1",
+                "DOI": "10.1145/1778765.1778854",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_35_1",
+                "DOI": "10.1145/2601097.2601154",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_36_1",
+                "DOI": "10.1145/2185520.2185605",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_37_1",
+                "author": "Nicolas Mo\u00ebs",
+                "volume": "46",
+                "year": "1999",
+                "article-title": "A finite element method for crack growth without remeshing",
+                "journal-title": "Internat. J. Numer. Methods Engrg."
+            },
+            {
+                "key": "e_1_2_1_38_1",
+                "DOI": "10.1111/j.1467-8659.2011.02014.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_39_1",
+                "unstructured": "Steven J Owen. 1998. A survey of unstructured mesh generation technology.. In IMR.  Steven J Owen. 1998. A survey of unstructured mesh generation technology.. In IMR."
+            },
+            {
+                "key": "e_1_2_1_40_1",
+                "DOI": "10.1145/2601097.2601179",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_41_1",
+                "DOI": "10.1145/2070781.2024183",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_42_1",
+                "DOI": "10.1145/1360612.1360675",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_43_1",
+                "DOI": "10.1145/3072959.2983621",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_44_1",
+                "DOI": "10.1145/1183287.1183297",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_45_1",
+                "DOI": "10.1111/j.1467-8659.2010.01746.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_46_1",
+                "DOI": "10.1111/cgf.12710",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_47_1",
+                "DOI": "10.1145/3197517.3201389",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_48_1",
+                "DOI": "10.1145/3072959.3073635",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_49_1",
+                "DOI": "10.1145/882262.882295",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_50_1",
+                "DOI": "10.1080/16864360.2006.10738427",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_51_1",
+                "DOI": "10.1145/3072959.3073618",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_52_1",
+                "author": "Tong Yiying",
+                "year": "2006",
+                "volume-title": "Proc. SGP '06"
+            },
+            {
+                "key": "e_1_2_1_53_1",
+                "DOI": "10.1112/plms/s3-13.1.743",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_54_1",
+                "DOI": "10.1111/j.1467-8659.2010.01776.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_55_1",
+                "DOI": "10.1145/1778765.1778855",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_56_1",
+                "DOI": "10.1016/j.cagd.2018.03.003",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3323019&ftid=2071749&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    5,
+                    5
+                ]
+            ],
+            "date-time": "2020-05-05T17:18:55Z",
+            "timestamp": 1588699135000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "references-count": 56,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        12
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3306346.3323019"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3306346.3323019",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

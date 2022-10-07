@@ -1,0 +1,541 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2020-07-12T19:40:19Z",
+            "timestamp": 1594582819199
+        },
+        "reference-count": 56,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2019,
+                            7,
+                            12
+                        ]
+                    ],
+                    "date-time": "2019-07-12T00:00:00Z",
+                    "timestamp": 1562889600000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100011199",
+                "name": "FP7 Ideas: European Research Council",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "PERDY-804226"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100004281",
+                "name": "Narodowe Centrum Nauki",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "DEC-2013/09/B/ST6/02270"
+                ]
+            },
+            {
+                "name": "German Pact for Research and Innovation",
+                "award": []
+            },
+            {
+                "name": "EU Horizon 2020 research and innovation programme",
+                "award": [
+                    "642841 (DISTRO)"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "DOI": "10.1145/3306346.3322985",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2019-07-12T19:04:08Z",
+            "timestamp": 1562958248000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 2,
+        "title": [
+            "Luminance-contrast-aware foveated rendering"
+        ],
+        "prefix": "10.1145",
+        "volume": "38",
+        "author": [
+            {
+                "given": "Okan Tarhan",
+                "family": "Tursun",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Max Planck Institute for Informatics"
+                    }
+                ]
+            },
+            {
+                "given": "Elena",
+                "family": "Arabadzhiyska-Koleva",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Saarland University, MMCI"
+                    }
+                ]
+            },
+            {
+                "given": "Marek",
+                "family": "Wernikowski",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "West Pomeranian University of Technology"
+                    }
+                ]
+            },
+            {
+                "given": "Rados\u0142aw",
+                "family": "Mantiuk",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "West Pomeranian University of Technology"
+                    }
+                ]
+            },
+            {
+                "given": "Hans-Peter",
+                "family": "Seidel",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Max Planck Institute for Informatics"
+                    }
+                ]
+            },
+            {
+                "given": "Karol",
+                "family": "Myszkowski",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Max Planck Institute for Informatics"
+                    }
+                ]
+            },
+            {
+                "given": "Piotr",
+                "family": "Didyk",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Universit\u00e0 della Svizzera Italiana"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "Hime Aguiar e Oliveira Junior Lester Ingber Antonio Petraglia Mariane Rembold Petraglia and Maria Augusta Soares Machado. 2012. Adaptive Simulated Annealing. Springer Berlin Heidelberg Berlin Heidelberg 33--62.  Hime Aguiar e Oliveira Junior Lester Ingber Antonio Petraglia Mariane Rembold Petraglia and Maria Augusta Soares Machado. 2012. Adaptive Simulated Annealing. Springer Berlin Heidelberg Berlin Heidelberg 33--62.",
+                "DOI": "10.1007/978-3-642-27479-4_4",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/3127589",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/3072959.3073642",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "author": "Barten Peter GJ",
+                "volume-title": "Human Vision, Visual Processing, and Digital Display"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "Peter GJ Barten. 1999. Contrast sensitivity of the human eye and its effects on image quality. Vol. 72. SPIE press.  Peter GJ Barten. 1999. Contrast sensitivity of the human eye and its effects on image quality. Vol. 72. SPIE press.",
+                "DOI": "10.1117/3.353254",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/280814.280924",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1167/14.12.22",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1109/TCOM.1983.1095851",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1109/CVPR.2014.461",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1002/cne.903000103",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/1498700.1498703",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/2628257.2628259",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "Andrew T. Duchowski and Bruce Howard McCormick. 1995. Preattentive considerations for gaze-contingent image processing Vol. 2411.  Andrew T. Duchowski and Bruce Howard McCormick. 1995. Preattentive considerations for gaze-contingent image processing Vol. 2411.",
+                "DOI": "10.1117/12.207556",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Joe Durbin. 2017. NVIDIA Estimates VR Is 20 Years Away From Resolutions That Match The Human Eye. https://uploadvr.com/nvidia-estimates-20-years-away-vr-eye-quality-resolution/. (May 2017). Accessed: 2019-01-10.  Joe Durbin. 2017. NVIDIA Estimates VR Is 20 Years Away From Resolutions That Match The Human Eye. https://uploadvr.com/nvidia-estimates-20-years-away-vr-eye-quality-resolution/. (May 2017). Accessed: 2019-01-10."
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "author": "Griffith Henry",
+                "year": "2018",
+                "volume-title": "Proc. Future Technologies Conf. (FTC)"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/2366145.2366183",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1002/jsid.730",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/2714573",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/3130800.3130889",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/2897824.2925866",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "Joohwan Kim Qi Sun Fu-Chung Huang Li-Yi Wei David Luebke and Arie E. Kaufman. 2017. Perceptual Studies for Foveated Light Field Displays. CoRR abs/1708.06034 (2017). arXiv:1708.06034 http://arxiv.org/abs/1708.06034  Joohwan Kim Qi Sun Fu-Chung Huang Li-Yi Wei David Luebke and Arie E. Kaufman. 2017. Perceptual Studies for Foveated Light Field Displays. CoRR abs/1708.06034 (2017). arXiv:1708.06034 http://arxiv.org/abs/1708.06034"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1364/JOSA.70.001458",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "J. Lubin. 1995. A visual discrimination model for imaging system design and development. In Vision models for target detection and recognition Peli E. (Ed.). World Scientific 245--283.  J. Lubin. 1995. A visual discrimination model for imaging system design and development. In Vision models for target detection and recognition Peli E. (Ed.). World Scientific 245--283.",
+                "DOI": "10.1142/9789812831200_0010",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1109/TIT.1974.1055250",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1007/978-3-642-23834-5_1",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "unstructured": "Rafal Mantiuk Kil Joong Kim Allan G. Rempel and Wolfgang Heidrich. 2011b. HDR-VDP-2: a calibrated visual metric for visibility and quality predictions in all luminance conditions. ACM Trans. Graph. (Proc. SIGGRAPH) (2011). 10.1145/2010324.1964935   Rafal Mantiuk Kil Joong Kim Allan G. Rempel and Wolfgang Heidrich. 2011b. HDR-VDP-2: a calibrated visual metric for visibility and quality predictions in all luminance conditions. ACM Trans. Graph. (Proc. SIGGRAPH) (2011). 10.1145/2010324.1964935",
+                "DOI": "10.1145/1964921.1964935",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1016/j.cag.2013.10.003",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/2556288.2557089",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "Morgan McGuire. 2017. Computer Graphics Archive. (July 2017). https://casual-effects.com/data  Morgan McGuire. 2017. Computer Graphics Archive. (July 2017). https://casual-effects.com/data"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/3130800.3130846",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "unstructured": "Cornelis Noorlander Jan J. Koenderink Ron J. Den Olden and B. Wigbold Edens. 1983. Sensitivity to spatiotemporal colour contrast in the peripheral visual field. Vision Research 23 1 (1983).  Cornelis Noorlander Jan J. Koenderink Ron J. Den Olden and B. Wigbold Edens. 1983. Sensitivity to spatiotemporal colour contrast in the peripheral visual field. Vision Research 23 1 (1983).",
+                "DOI": "10.1016/0042-6989(83)90035-4",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "unstructured": "Nvidia. 2018. VRWorks - Variable Rate Shading (VRS) website. https://developer.nvidia.com/vrworks/graphics/variablerateshading. (2018). Accessed: 2019-01-09.  Nvidia. 2018. VRWorks - Variable Rate Shading (VRS) website. https://developer.nvidia.com/vrworks/graphics/variablerateshading. (2018). Accessed: 2019-01-09."
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/2980179.2980246",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "first-page": "2033",
+                "article-title": "Contrast in complex images. Journal of the Opt",
+                "volume": "7",
+                "author": "Peli E.",
+                "year": "1990",
+                "journal-title": "Soc. of America"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1364/JOSAA.8.001762",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "author": "Pohl Daniel",
+                "year": "2016",
+                "volume-title": "Virtual Reality (VR)"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "unstructured": "Simon JD Prince and Brian J Rogers. 1998. Sensitivity to disparity corrugations in peripheral vision. Vision Research 38 17 (1998).  Simon JD Prince and Brian J Rogers. 1998. Sensitivity to disparity corrugations in peripheral vision. Vision Research 38 17 (1998)."
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1145/311535.311543",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1109/38.946633",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1159/000264746",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1167/15.5.16",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "unstructured": "Mark Segal Kurt Akeley C Frazier J Leech and P Brown. 2013. The OpenGL Graphics System: A Specification (Version 4.4 (Core Profile) - October 18 2013). (2013).  Mark Segal Kurt Akeley C Frazier J Leech and P Brown. 2013. The OpenGL Graphics System: A Specification (Version 4.4 (Core Profile) - October 18 2013). (2013)."
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.5555/3071773.3071787",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.5555/3071773.3071787",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1167/11.5.13",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1145/3130800.3130807",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "DOI": "10.1145/2931002.2931011",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "unstructured": "Unity3D. 2018. Official website. https://unity3d.com/. (2018). Accessed: 2019-01-09.  Unity3D. 2018. Official website. https://unity3d.com/. (2018). Accessed: 2019-01-09."
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "unstructured": "Karthik Vaidyanathan Marco Salvi Robert Toth Tim Foley Tomas Akenine-M\u00f6ller Jim Nilsson Jacob Munkberg Jon Hasselgren Masamichi Sugihara Petrik Clarberg etal 2014. Coarse pixel shading. In High Performance Graphics.   Karthik Vaidyanathan Marco Salvi Robert Toth Tim Foley Tomas Akenine-M\u00f6ller Jim Nilsson Jacob Munkberg Jon Hasselgren Masamichi Sugihara Petrik Clarberg et al. 2014. Coarse pixel shading. In High Performance Graphics."
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "unstructured": "Carlin Vieri Grace Lee Nikhil Balram Sang Hoon Jung Joon Young Yang Soo Young Yoon and In Byeong Kang. 2018. An 18 megapixel 4.3\"1443 ppi 120 Hz OLED display for wide field of view high acuity head mounted displays. Journal of the Soc. for Information Display (2018).  Carlin Vieri Grace Lee Nikhil Balram Sang Hoon Jung Joon Young Yang Soo Young Yoon and In Byeong Kang. 2018. An 18 megapixel 4.3\"1443 ppi 120 Hz OLED display for wide field of view high acuity head mounted displays. Journal of the Soc. for Information Display (2018).",
+                "DOI": "10.1002/sdtp.12477",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "first-page": "52",
+                "article-title": "Blur discrimination of the human eye in the near retinal periphery",
+                "volume": "82",
+                "author": "Wang B.",
+                "year": "2005",
+                "journal-title": "Optom Vis Sci."
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "DOI": "10.1167/14.7.15",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "DOI": "10.1167/11.5.10",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "DOI": "10.1111/cgf.13150",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_55_1",
+                "author": "Zeng Wenjun",
+                "volume": "1",
+                "year": "2000",
+                "volume-title": "Proc. Int. Conf. on Image Processing"
+            },
+            {
+                "key": "e_1_2_2_56_1",
+                "author": "Zeng Wenjun",
+                "year": "2001",
+                "volume-title": "An Overview of the Visual Optimization Tools in JPEG"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3322985&ftid=2071674&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2020-07-12T19:19:54Z",
+            "timestamp": 1594581594000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "references-count": 56,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        12
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3306346.3322985"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3306346.3322985",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

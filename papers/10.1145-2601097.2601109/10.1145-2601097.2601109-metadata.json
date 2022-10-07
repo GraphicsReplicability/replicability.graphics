@@ -1,0 +1,451 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:11:20Z",
+            "timestamp": 1586002280897
+        },
+        "reference-count": 35,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100001809",
+                "name": "National Natural Science Foundation of China",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "61202333, 61379090, 61272327"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100000038",
+                "name": "Natural Sciences and Engineering Research Council of Canada",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "611370"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100002855",
+                "name": "Ministry of Science and Technology of the People's Republic of China",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "2012AA011802"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100003977",
+                "name": "Israel Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "name": "Shenzhen Innovation Program",
+                "award": [
+                    "CXB201104220029A, KQCX20120807104901791, JSGG20130624154940238, JCYJ20120617114842361"
+                ]
+            },
+            {
+                "name": "CPSF China",
+                "award": [
+                    "2012M520392"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601109",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 20,
+        "title": [
+            "Organizing heterogeneous scene collections through contextual focal points"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Kai",
+                "family": "Xu",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Shenzhen VisuCA Key Lab/SIAT and HPCL, National University of Defense Technology"
+                    }
+                ]
+            },
+            {
+                "given": "Rui",
+                "family": "Ma",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Simon Fraser University"
+                    }
+                ]
+            },
+            {
+                "given": "Hao",
+                "family": "Zhang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Simon Fraser University"
+                    }
+                ]
+            },
+            {
+                "given": "Chenyang",
+                "family": "Zhu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "HPCL, National University of Defense Technology"
+                    }
+                ]
+            },
+            {
+                "given": "Ariel",
+                "family": "Shamir",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "The Interdisciplinary Center"
+                    }
+                ]
+            },
+            {
+                "given": "Daniel",
+                "family": "Cohen-Or",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Tel Aviv University"
+                    }
+                ]
+            },
+            {
+                "given": "Hui",
+                "family": "Huang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shenzhen VisuCA Key Lab/SIAT"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "first-page": "49",
+                "article-title": "A context similarity measure",
+                "volume": "784",
+                "author": "Biberman Y.",
+                "year": "1994",
+                "journal-title": "Machine Learning"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1007/s00371-013-0867-4",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/2185520.2185597",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/1882261.1866204",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/2010324.1964929",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/2366145.2366154",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1007/s10618-006-0059-1",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/2366145.2366186",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/2508363.2508364",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/2461912.2461954",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1111/j.1467-8659.2012.03042.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/775047.775126",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1109/CVPR.2013.124",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/2185520.2185550",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/2010324.1964928",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "author": "Quattoni A.",
+                "volume-title": "Proc. IEEE Conf. on Comp. Vis. and Pat. Rec., 413--420"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "author": "Rasiwasia N.",
+                "volume-title": "Proc. IEEE Conf. on Comp. Vis. and Pat. Rec., 1--6."
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "first-page": "217",
+                "article-title": "Exact and inexact graph matching: Methodology and applications",
+                "volume": "40",
+                "author": "Riesen K.",
+                "year": "2010",
+                "journal-title": "Managing and Mining Graph Data"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1016/0010-0285(75)90021-3",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1007/s11263-009-0279-0",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/1243980.1243981",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.5555/2964398.2964405",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/1143844.1143964",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1037/0033-295X.84.4.327",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/2461912.2461924",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1109/MSP.2010.939739",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "unstructured": "Wang S. Yuan X. Yao T. Yan S. and Shen J. 2011. Efficient subspace segmentation via quadratic programming. In AAAI 519--524.  Wang S. Yuan X. Yao T. Yan S. and Shen J. 2011. Efficient subspace segmentation via quadratic programming. In AAAI 519--524."
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1111/j.1467-8659.2011.01885.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "Wittgenstein L. 1953. Philosophical investigations. New York: Macmillan.  Wittgenstein L. 1953. Philosophical investigations . New York: Macmillan."
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/2185520.2185553",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/2461912.2461968",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "author": "Yan X.",
+                "volume-title": "Proc. Int. Conf. on Data Mining, 721--724"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "first-page": "1601",
+                "article-title": "Self-tuning spectral clustering",
+                "volume": "17",
+                "author": "Zelnik-Manor L.",
+                "year": "2004",
+                "journal-title": "Proc. Advances in Neural Information Processing Systems (NIPS)"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "unstructured": "Zhao X. Wang H. and Komura T. 2014. Indexing 3d scenes using the interaction bisector surface. ACM Trans. on Graph to appear. 10.1145/2574860   Zhao X. Wang H. and Komura T. 2014. Indexing 3d scenes using the interaction bisector surface. ACM Trans. on Graph to appear. 10.1145/2574860",
+                "DOI": "10.1145/2574860",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1111/cgf.12039",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601109&amp;ftid=1488844&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:52:32Z",
+            "timestamp": 1586001152000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 35,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601109"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601109",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

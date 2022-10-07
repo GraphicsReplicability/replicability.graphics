@@ -1,0 +1,513 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2020-07-12T19:40:18Z",
+            "timestamp": 1594582818519
+        },
+        "reference-count": 52,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2020,
+                            7,
+                            12
+                        ]
+                    ],
+                    "date-time": "2020-07-12T00:00:00Z",
+                    "timestamp": 1594512000000
+                },
+                "delay-in-days": 366,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100000001",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "1846368"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "DOI": "10.1145/3306346.3322952",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2019-07-12T19:04:08Z",
+            "timestamp": 1562958248000
+        },
+        "page": "1-10",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+            "RedMax"
+        ],
+        "prefix": "10.1145",
+        "volume": "38",
+        "author": [
+            {
+                "given": "Ying",
+                "family": "Wang",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Texas A&amp;M University"
+                    }
+                ]
+            },
+            {
+                "given": "Nicholas J.",
+                "family": "Weidner",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Texas A&amp;M University"
+                    }
+                ]
+            },
+            {
+                "given": "Margaret A.",
+                "family": "Baxter",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Texas A&amp;M University"
+                    }
+                ]
+            },
+            {
+                "given": "Yura",
+                "family": "Hwang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Texas A&amp;M University"
+                    }
+                ]
+            },
+            {
+                "given": "Danny M.",
+                "family": "Kaufman",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe Research"
+                    }
+                ]
+            },
+            {
+                "given": "Shinjiro",
+                "family": "Sueda",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Texas A&amp;M University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "V. Acary and B. Brogliato. 2008. Numerical Methods for Nonsmooth Dynamical Systems: Applications in Mechanics and Electronics. Springer Science & Business Media.  V. Acary and B. Brogliato. 2008. Numerical Methods for Nonsmooth Dynamical Systems: Applications in Mechanics and Electronics. Springer Science & Business Media.",
+                "DOI": "10.1007/978-3-540-75392-6",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1007/s10107-004-0535-6",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1016/0045-7825(93)90072-6",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "first-page": "359",
+                "article-title": "A Recursive Formulation for Constrained Mechanical System Dynamics",
+                "volume": "15",
+                "author": "Bae D.-S.",
+                "year": "1987",
+                "journal-title": "Part I. Open Loop Systems. J STRUCT MECH"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "first-page": "481",
+                "article-title": "A Recursive Formulation for Constrained Mechanical System Dynamics",
+                "volume": "15",
+                "author": "Bae D.-S.",
+                "year": "1987",
+                "journal-title": "Part II. Closed Loop Systems. J STRUCT MECH"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/237170.237226",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "unstructured": "D. Baraff and A. Witkin. 1998. Large Steps in Cloth Simulation. In Annual Conference Series (Proc. SIGGRAPH). 43--54. 10.1145/280814.280821   D. Baraff and A. Witkin. 1998. Large Steps in Cloth Simulation. In Annual Conference Series (Proc. SIGGRAPH). 43--54. 10.1145/280814.280821"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "J. Baumgarte. 1972. Stabilization of Constraints and Integrals of Motion in Dynamical Systems. Comput. Methods in Appl. Mech. Eng. 1 (Jun 1972) 1--16.  J. Baumgarte. 1972. Stabilization of Constraints and Integrals of Motion in Dynamical Systems. Comput. Methods in Appl. Mech. Eng. 1 (Jun 1972) 1--16.",
+                "DOI": "10.1016/0045-7825(72)90018-7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1111/j.1467-8659.2009.01381.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/2601097.2601116",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "S. Boyd and L. Vandenberghe. 2004. Convex Optimization. Cambridge University Press.   S. Boyd and L. Vandenberghe. 2004. Convex Optimization. Cambridge University Press.",
+                "DOI": "10.1017/CBO9780511804441",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "first-page": "3744",
+                "article-title": "Post-stabilization for Rigid Body Simulation with Contact and Constraints",
+                "volume": "3",
+                "author": "Cline M. B.",
+                "year": "2003",
+                "journal-title": "IEEE Int. Conf. Robot. Autom."
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "J. G. De Jalon and E. Bayo. 2012. Kinematic and Dynamic Simulation of Multibody Systems: The Real-Time Challenge. Springer Science & Business Media.  J. G. De Jalon and E. Bayo. 2012. Kinematic and Dynamic Simulation of Multibody Systems: The Real-Time Challenge. Springer Science & Business Media."
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1109/TBME.2007.901024",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "unstructured": "E. D. Demaine and J. O'Rourke. 2008. Geometric Folding Algorithms: Linkages Origami Polyhedra (reprint ed.). Cambridge University Press.   E. D. Demaine and J. O'Rourke. 2008. Geometric Folding Algorithms: Linkages Origami Polyhedra (reprint ed.). Cambridge University Press.",
+                "DOI": "10.1017/CBO9780511735172",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "M. Deuss D. Panozzo E. Whiting Y. Liu P. Block O. Sorkine-Hornung and M. Pauly.  M. Deuss D. Panozzo E. Whiting Y. Liu P. Block O. Sorkine-Hornung and M. Pauly."
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/2661229.2661266",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1007/978-3-642-34327-8_9",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "unstructured": "E. Drumwright and D. A. Shell. 2010. Modeling Contact Friction and Joint Friction in Dynamic Robotic Simulation Using the Principle of Maximum Dissipation. In Algorithmic Foundations of Robotics IX. Springer 249--266.  E. Drumwright and D. A. Shell. 2010. Modeling Contact Friction and Joint Friction in Dynamic Robotic Simulation Using the Principle of Maximum Dissipation. In Algorithmic Foundations of Robotics IX. Springer 249--266.",
+                "DOI": "10.1007/978-3-642-17452-0_15",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "E. Evans Y. Hwang S. Sueda and T. A. Uyeno. 2018. Estimating Whole Body Flexibility in Pacific Hagfish. In The Society for Integrative & Comparative Biology.  E. Evans Y. Hwang S. Sueda and T. A. Uyeno. 2018. Estimating Whole Body Flexibility in Pacific Hagfish. In The Society for Integrative & Comparative Biology."
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1177/027836498300200102",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "author": "Hadap S.",
+                "year": "2006",
+                "volume-title": "Proc. ACM SIGGRAPH / Eurographics Symp. Comput. Anim. (SCA '06)"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "author": "Hernandez F.",
+                "year": "2011",
+                "volume-title": "Linear-Time Dynamics of Characters with Stiff Joints. In V Ibero-American Symposium on Computer Graphics (SIACG"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/2070781.2024197",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/1409060.1409117",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/2019627.2019640",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "unstructured": "C. Lanczos. 2012. The Variational Principles of Mechanics (4 ed.). Dover Publications.  C. Lanczos. 2012. The Variational Principles of Mechanics (4 ed.). Dover Publications."
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1016/j.jbiomech.2010.04.021",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/3197517.3201308",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/2508363.2508427",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1016/j.jvcir.2007.01.005",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "first-page": "221",
+                "article-title": "A Topology-based Approach to Exploiting Sparsity in Multibody Dynamics: Joint Formulation",
+                "volume": "25",
+                "author": "Negrut D.",
+                "year": "1997",
+                "journal-title": "J STRUCT MECH"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "author": "Popov E. P.",
+                "year": "1978",
+                "volume-title": "Robot Manipulators: Dynamics and Algorithms."
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "first-page": "5",
+                "article-title": "Real-Time Interactive Tree Animation",
+                "volume": "24",
+                "author": "Quigley E.",
+                "year": "2018",
+                "journal-title": "IEEE TVCG"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1145/1073204.1073294",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "unstructured": "R. E. Roberson. 1966. A Dynamical Formalism for an Arbitrary Number of Interconnected Rigid Bodies with Reference to the Problem of Satellite Attitude Control.  R. E. Roberson. 1966. A Dynamical Formalism for an Arbitrary Number of Interconnected Rigid Bodies with Reference to the Problem of Satellite Attitude Control."
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "year": "1966",
+                "volume-title": "3rd Congr. of Int. Fed. Automatic Control 1"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/2766987",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "unstructured": "L. Sciavicco and B. Siciliano. 2012. Modelling and Control of Robot Manipulators. Springer Science & Business Media.  L. Sciavicco and B. Siciliano. 2012. Modelling and Control of Robot Manipulators. Springer Science & Business Media."
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "first-page": "379",
+                "article-title": "A Topology-based Approach for Exploiting Sparsity in Multibody Dynamics in Cartesian Formulation",
+                "volume": "25",
+                "author": "Serban R.",
+                "year": "1997",
+                "journal-title": "J STRUCT MECH"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "unstructured": "A. A. Shabana. 2013. Dynamics of Multibody Systems. Cambridge University press.  A. A. Shabana. 2013. Dynamics of Multibody Systems. Cambridge University press."
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1145/2835173",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "author": "Shinar T.",
+                "volume-title": "Proc. ACM SIGGRAPH / Eurographics Symp. Comput. Anim. 95--103"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1145/2343483.2343501",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1137/S0036144599360110",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "DOI": "10.1145/1360612.1360682",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "DOI": "10.1145/2766969",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "DOI": "10.1115/1.3139699",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "DOI": "10.1145/2185520.2185521",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "DOI": "10.1115/1.1590354",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "DOI": "10.1145/2366145.2366178",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "DOI": "10.1145/2601097.2601173",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "https://dl.acm.org/doi/pdf/10.1145/3306346.3322952",
+                "content-type": "application/pdf",
+                "content-version": "vor",
+                "intended-application": "syndication"
+            },
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3322952&ftid=2071676&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2020-07-12T19:24:12Z",
+            "timestamp": 1594581852000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "efficient & flexible approach for articulated dynamics"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "references-count": 52,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        12
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3306346.3322952"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3306346.3322952",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

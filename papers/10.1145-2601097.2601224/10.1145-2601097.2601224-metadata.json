@@ -1,0 +1,318 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:11:21Z",
+            "timestamp": 1586002281039
+        },
+        "reference-count": 23,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100003246",
+                "name": "Nederlandse Organisatie voor Wetenschappelijk Onderzoek",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "639.021.123, 612.001.022"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601224",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-10",
+        "source": "Crossref",
+        "is-referenced-by-count": 5,
+        "title": [
+            "The Connect-The-Dots family of puzzles"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Maarten",
+                "family": "L\u00f6ffler",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Mira",
+                "family": "Kaiser",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Tim",
+                "family": "van Kapel",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Gerwin",
+                "family": "Klappe",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Marc",
+                "family": "van Kreveld",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Frank",
+                "family": "Staals",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1006/gmip.1998.0465",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1016/0020-0190(79)90002-4",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "author": "Brodal G. S.",
+                "volume-title": "Foundations of Computer Science, 2002. Proceedings. The 43rd Annual IEEE Symposium on, IEEE, 617--626"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "Browne C. 2011. Evolutionary Game Design. SpringerBriefs in Computer Science. Springer.  Browne C. 2011. Evolutionary Game Design . SpringerBriefs in Computer Science. Springer.",
+                "DOI": "10.1007/978-1-4471-2179-4",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "Burch M. Vehlow C. Konevtsova N. and \n      \n      \n      Weiskopf D\n      \n  \n  . \n  2011\n  . Evaluating partially drawn links for directed graph edges. In Graph Drawing - 19th International Symposium GD 2011 Springer vol. \n  7034\n   of \n  Lecture Notes in Computer Science 226--237. 10.1007/978-3-642-25878-7_22   Burch M. Vehlow C. Konevtsova N. and Weiskopf D. 2011. Evaluating partially drawn links for directed graph edges. In Graph Drawing - 19th International Symposium GD 2011 Springer vol. 7034 of Lecture Notes in Computer Science 226--237. 10.1007/978-3-642-25878-7_22"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1142/S0218195996000058",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/212332.212334",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "author": "Colton S.",
+                "year": "2002",
+                "volume-title": "Proceedings of the AISB'02 Symposium on AI and Creativity in the Arts and Science."
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1559/152304098782383007",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1016/S0925-7721(99)00051-6",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.3138/FM57-6770-U75U-7727",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/378583.378612",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1142/S0218195993000257",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "author": "Harborth H.",
+                "volume-title": "The Lighter Side of Mathematics: Proceedings of the Eug\u00e9ne Strens Memorial Conference of Recreational Mathematics and its History"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/2422956.2422957",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "Hoppe H. DeRose T. Duchamp T. McDonald J. A. and Stuetzle W. 1992. Surface reconstruction from unorganized points. In SIGGRAPH ACM J. J. Thomas Ed. 71--78. 10.1145/133994.134011   Hoppe H. DeRose T. Duchamp T. McDonald J. A. and Stuetzle W. 1992. Surface reconstruction from unorganized points. In SIGGRAPH ACM J. J. Thomas Ed. 71--78. 10.1145/133994.134011",
+                "DOI": "10.1145/142920.134011",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "Imai H. and Iri M. 1988. Polygonal approximations of a curve formulations and algorithms. In Computational Morphology Elsevier Science 71--86.  Imai H. and Iri M. 1988. Polygonal approximations of a curve formulations and algorithms. In Computational Morphology Elsevier Science 71--86.",
+                "DOI": "10.1016/B978-0-444-70467-2.50011-4",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1007/s00371-013-0812-6",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1016/S0734-189X(87)80169-X",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1016/j.cag.2007.08.006",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "Paterson M. and \n      \n      \n      Yao F. F\n      \n  \n  . \n  1992\n  . On nearest-neighbor graphs. In ICALP Springer W. Kuich Ed. vol. \n  623\n   of \n  Lecture Notes in Computer Science 416--426.   Paterson M. and Yao F. F. 1992. On nearest-neighbor graphs. In ICALP Springer W. Kuich Ed. vol. 623 of Lecture Notes in Computer Science 416--426.",
+                "DOI": "10.1007/3-540-55719-9_93",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/1276377.1276414",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1111/j.1467-8659.2008.01334.x",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601224&amp;ftid=1488880&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:51:04Z",
+            "timestamp": 1586001064000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "design and automatic generation"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 23,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601224"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601224",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

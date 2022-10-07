@@ -1,0 +1,371 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:11:20Z",
+            "timestamp": 1586002280669
+        },
+        "reference-count": 30,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100000145",
+                "name": "Division of Information and Intelligent Systems",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "IIS-1217765, IIS-1350323"
+                ]
+            },
+            {
+                "DOI": "10.13039/100006785",
+                "name": "Google",
+                "doi-asserted-by": "publisher",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601180",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 12,
+        "title": [
+            "Reflectance scanning"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Guojun",
+                "family": "Chen",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Tianjin University"
+                    }
+                ]
+            },
+            {
+                "given": "Yue",
+                "family": "Dong",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research"
+                    }
+                ]
+            },
+            {
+                "given": "Pieter",
+                "family": "Peers",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "College of William &amp; Mary"
+                    }
+                ]
+            },
+            {
+                "given": "Jiawan",
+                "family": "Zhang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Tianjin University"
+                    }
+                ]
+            },
+            {
+                "given": "Xin",
+                "family": "Tong",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research and Tianjin University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/2461912.2461978",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "Alldrin N. Zickler T. E. and Kriegman D. 2008. Photometric stereo with non-parametric and spatially-varying reflectance. In CVPR 1--8. 10.1145/37402.37414   Alldrin N. Zickler T. E. and Kriegman D. 2008. Photometric stereo with non-parametric and spatially-varying reflectance. In CVPR 1--8. 10.1145/37402.37414",
+                "DOI": "10.1109/CVPR.2008.4587656",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "unstructured": "Ben-Ezra M. Wang J. Wilburn B. Li X. and Ma L. 2008. An LED-only BRDF measurement device. In CVPR 1--8. 10.1145/2508363.2508422   Ben-Ezra M. Wang J. Wilburn B. Li X. and Ma L. 2008. An LED-only BRDF measurement device. In CVPR 1--8. 10.1145/2508363.2508422",
+                "DOI": "10.1109/CVPR.2008.4587766",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1137/080738970",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/357290.357293",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/300776.300778",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/1778765.1778835",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/882262.882342",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1111/j.1467-8659.2009.01493.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1109/ICCV.2005.219",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/882262.882341",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/1409060.1409086",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/258734.258801",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/1141911.1141949",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/636886.636891",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1109/TPAMI.2012.88",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1364/AO.37.005974",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "unstructured": "Ma W.-C. Hawkins T. Peers P. Chabert C.-F. Weiss M. and Debevec P. E. 2007. Rapid acquisition of specular and diffuse normal maps from polarized spherical gradient illumination. In Rendering Techniques 183--194. 10.2312/EGWR/EGSR07/183-194   Ma W.-C. Hawkins T. Peers P. Chabert C.-F. Weiss M. and Debevec P. E. 2007. Rapid acquisition of specular and diffuse normal maps from polarized spherical gradient illumination. In Rendering Techniques 183--194. 10.2312/EGWR/EGSR07/183-194"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.5555/2383815.2383829",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "Matusik W. Pfister H. Brand M. and McMillan L. 2003. Efficient isotropic BRDF measurement. In Rendering Techniques 241--247.   Matusik W. Pfister H. Brand M. and McMillan L. 2003. Efficient isotropic BRDF measurement. In Rendering Techniques 241--247."
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "Mukaigawa Y. sumino K. and yagi Y. 2007. High-speed measurement of BRDF using an ellipsoidal mirror and a projector. In ACCV 246--257.  Mukaigawa Y. sumino K. and yagi Y. 2007. High-speed measurement of BRDF using an ellipsoidal mirror and a projector. In ACCV 246--257.",
+                "DOI": "10.1007/978-3-540-76390-1_25",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.5555/2383654.2383671",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "Nicodemus F. E. Richmond J. C. Hsia J. J. Ginsberg I. W. and Limperis T. 1977. Geometric considerations and nomenclature for reflectance. Monograph 161 National Bureau of Standards (US).  Nicodemus F. E. Richmond J. C. Hsia J. J. Ginsberg I. W. and Limperis T. 1977. Geometric considerations and nomenclature for reflectance. Monograph 161 National Bureau of Standards (US) .",
+                "DOI": "10.6028/NBS.MONO.160",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "Nocedal J. and Wright S. J. 2006. Numerical Optimization. Springer Series in Operations Research and Financial Enginee. Springer Science+Business Media LLC.  Nocedal J. and Wright S. J. 2006. Numerical Optimization . Springer Series in Operations Research and Financial Enginee. Springer Science+Business Media LLC."
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/2010324.1964940",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/2461912.2461944",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/1360612.1360640",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/133994.134078",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1109/34.888718",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "unstructured": "Zickler T. Enrique S. Ramamoorthi R. and Belhumeur P. 2005. Reflectance sharing: image-based rendering from a sparse set of images. In Rendering Techniques 253--264. 10.2312/EGWR/EGSR05/253-264   Zickler T. Enrique S. Ramamoorthi R. and Belhumeur P. 2005. Reflectance sharing: image-based rendering from a sparse set of images. In Rendering Techniques 253--264. 10.2312/EGWR/EGSR05/253-264",
+                "DOI": "10.1145/1187112.1187290",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601180&amp;ftid=1488925&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:51:49Z",
+            "timestamp": 1586001109000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "estimating shading frame and BRDF with generalized linear light sources"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 30,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601180"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601180",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

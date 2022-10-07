@@ -1,0 +1,350 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T02:11:27Z",
+            "timestamp": 1585966287487
+        },
+        "reference-count": 33,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925910",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-8",
+        "source": "Crossref",
+        "is-referenced-by-count": 4,
+        "title": [
+            "Resolving fluid boundary layers with particle strength exchange and weak adaptivity"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Xinxin",
+                "family": "Zhang",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "UBC Computer Science"
+                    }
+                ]
+            },
+            {
+                "given": "Minchen",
+                "family": "Li",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "UBC Computer Science"
+                    }
+                ]
+            },
+            {
+                "given": "Robert",
+                "family": "Bridson",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "UBC Computer Science, Autodesk Canada"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/2461912.2461982",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1111/cgf.12576",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/1276377.1276502",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "Bridson R. 2008. Fluid Simulation for Computer Graphics. A K Peters / CRC Press.   Bridson R. 2008. Fluid Simulation for Computer Graphics . A K Peters / CRC Press."
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1017/S0022112073002016",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/2601097.2601167",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/2485895.2485897",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/383259.383260",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "first-page": "1",
+                "article-title": "Large-scale liquid simulation on adaptive hexahedral grids. Visualization and Computer Graphics",
+                "volume": "99",
+                "author": "Ferstl F.",
+                "year": "2014",
+                "journal-title": "IEEE Transactions on PP"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "author": "Gamito M. N.",
+                "volume-title": "Computer Animation and Simulation '95"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/2366145.2366167",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/2766996",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/1360612.1360649",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/1778765.1778851",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "unstructured": "Lienhard J. 1966. Synopsis of Lift Drag and Vortex Frequency Data for Rigid Circular Cylinders. Bulletin (Washington State University. College of Engineering. Research Division). Technical Extension Service Washington State University.  Lienhard J. 1966. Synopsis of Lift Drag and Vortex Frequency Data for Rigid Circular Cylinders. Bulletin (Washington State University. College of Engineering. Research Division). Technical Extension Service Washington State University."
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/1015706.1015745",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1137/0732050",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "author": "McAdams A.",
+                "volume-title": "Proc. ACM SIGGRAPH / Eurographics Symp. Comp. Anim., 65--74"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "author": "Molemaker J.",
+                "volume-title": "SCA '08: Proceedings of the 2007 ACM SIGGRAPH/Eurographics symposium on Computer animation, Eurographics Association, 9--18"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/1073368.1073406",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/1618452.1618467",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1090/S0025-5718-1962-0150954-0",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1006/jcph.2001.6712",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "author": "Schechter H.",
+                "volume-title": "Proceedings of the 2008 ACM/Eurographics Symposium on Computer Animation."
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/2661229.2661269",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1109/TVCG.2007.1022",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1063/1.868164",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.2514/6.2010-5099",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "author": "Stock M. J.",
+                "volume": "20",
+                "volume-title": "28th AIAA Applied Aerodynamics Conference"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "unstructured": "Van Dyke M. 1982. An album of fluid motion. Parabolic Press.  Van Dyke M. 1982. An album of fluid motion . Parabolic Press.",
+                "DOI": "10.1115/1.3241909",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/2661229.2661261",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/2766982",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/1073204.1073298",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925910&amp;ftid=1755908&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:35:28Z",
+            "timestamp": 1585964128000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 33,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925910"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925910",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

@@ -1,0 +1,426 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T02:11:27Z",
+            "timestamp": 1585966287040
+        },
+        "reference-count": 43,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925942",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 19,
+        "title": [
+            "Sky is not the limit"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Yi-Hsuan",
+                "family": "Tsai",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of California, Merced"
+                    }
+                ]
+            },
+            {
+                "given": "Xiaohui",
+                "family": "Shen",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe Research"
+                    }
+                ]
+            },
+            {
+                "given": "Zhe",
+                "family": "Lin",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe Research"
+                    }
+                ]
+            },
+            {
+                "given": "Kalyan",
+                "family": "Sunkavalli",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe Research"
+                    }
+                ]
+            },
+            {
+                "given": "Ming-Hsuan",
+                "family": "Yang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of California, Merced"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/1360612.1360638",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "Boykov Y. and Kolmogorov V. 2004. An experimental comparison of min-cut/max-flow algorithms for energy minimization in vision. PAMI 1124--1137. 10.1109/TPAMI.2004.60   Boykov Y. and Kolmogorov V. 2004. An experimental comparison of min-cut/max-flow algorithms for energy minimization in vision. PAMI 1124--1137. 10.1109/TPAMI.2004.60",
+                "DOI": "10.1109/TPAMI.2004.60",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "unstructured": "Chen L.-C. Papandreou G. Kokkinos I. Murphy K. and Yuille A. L. 2015. Semantic image segmentation with deep convolutional nets and fully connected crfs. In ICLR.  Chen L.-C. Papandreou G. Kokkinos I. Murphy K. and Yuille A. L. 2015. Semantic image segmentation with deep convolutional nets and fully connected crfs. In ICLR ."
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "Dale K. Johnson M. K. Sunkavalli K. Matusik W. and Pfister H. 2009. Image restoration using online photo collections. In ICCV.  Dale K. Johnson M. K. Sunkavalli K. Matusik W. and Pfister H. 2009. Image restoration using online photo collections. In ICCV .",
+                "DOI": "10.1109/ICCV.2009.5459473",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/2185520.2185578",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "unstructured": "Galasso F. Nagaraja N. Cardenas T. Brox T. and Schiele B. 2013. A unified video segmentation benchmark: Annotation metrics and analysis. In ICCV. 10.1109/ICCV.2013.438   Galasso F. Nagaraja N. Cardenas T. Brox T. and Schiele B. 2013. A unified video segmentation benchmark: Annotation metrics and analysis. In ICCV . 10.1109/ICCV.2013.438",
+                "DOI": "10.1109/ICCV.2013.438",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/2010324.1964965",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/1276377.1276382",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1109/TPAMI.2012.213",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1007/s11263-006-0031-y",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1109/TVCG.2010.233",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1111/j.1467-8659.2012.03225.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "Kumar M. P. Torr P. and Zisserman A. 2005. Obj cut. In CVPR. 10.1109/CVPR.2005.249   Kumar M. P. Torr P. and Zisserman A. 2005. Obj cut. In CVPR . 10.1109/CVPR.2005.249"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/2601097.2601101",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "unstructured": "Lalonde J.-F. and Efros A. A. 2007. Using color compatibility for assessing image realism. In ICCV.  Lalonde J.-F. and Efros A. A. 2007. Using color compatibility for assessing image realism. In ICCV .",
+                "DOI": "10.1109/ICCV.2007.4409107",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/1276377.1276381",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1007/s11263-009-0291-4",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1007/s11263-011-0501-8",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "unstructured": "Lazebnik S. Schmid C. and Ponce J. 2006. Beyond bags of features: Spatial pyramid matching for recognizing natural scene categories. In CVPR. 10.1109/CVPR.2006.68   Lazebnik S. Schmid C. and Ponce J. 2006. Beyond bags of features: Spatial pyramid matching for recognizing natural scene categories. In CVPR . 10.1109/CVPR.2006.68"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "Lee J.-Y. Sunkavalli K. Lin Z. Shen X. and Kweon I. S. 2016. Automatic content-aware color and tone stylization. In CVPR.  Lee J.-Y. Sunkavalli K. Lin Z. Shen X. and Kweon I. S. 2016. Automatic content-aware color and tone stylization. In CVPR .",
+                "DOI": "10.1109/CVPR.2016.271",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1109/TVCG.2011.77",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1109/TPAMI.2011.131",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1111/cgf.12409",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "Long J. Shelhamer E. and Darrell T. 2015. Fully convolutional networks for semantic segmentation. In CVPR.  Long J. Shelhamer E. and Darrell T. 2015. Fully convolutional networks for semantic segmentation. In CVPR .",
+                "DOI": "10.1109/CVPR.2015.7298965",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/882262.882269",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "unstructured": "Piti\u00e9 F. and Kokaram A. 2007. The linear mongekantorovitch linear colour mapping for example-based colour transfer. In CVMP.  Piti\u00e9 F. and Kokaram A. 2007. The linear mongekantorovitch linear colour mapping for example-based colour transfer. In CVMP .",
+                "DOI": "10.1049/cp:20070055",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1109/38.946629",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/1015706.1015720",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "Shahrian E. Rajan D. Price B. and Cohen S. 2013. Improving image matting using comprehensive sampling sets. In CVPR. 10.1109/CVPR.2013.88   Shahrian E. Rajan D. Price B. and Cohen S. 2013. Improving image matting using comprehensive sampling sets. In CVPR . 10.1109/CVPR.2013.88",
+                "DOI": "10.1109/CVPR.2013.88",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/2508363.2508419",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/1778765.1778862",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "unstructured": "Tai Y.-W. Jia J. and Tang C.-K. 2005. Local color transfer via probabilistic segmentation by expectation-maximization. In CVPR. 10.1109/CVPR.2005.215   Tai Y.-W. Jia J. and Tang C.-K. 2005. Local color transfer via probabilistic segmentation by expectation-maximization. In CVPR . 10.1109/CVPR.2005.215"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/1531326.1531374",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1007/s11263-012-0579-7",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1007/s11263-012-0574-z",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1037/0033-295X.113.4.766",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "unstructured": "Tsai Y.-H. Hamsici O. and Yang M.-H. 2015. Adaptive region pooling for object detection. In CVPR.  Tsai Y.-H. Hamsici O. and Yang M.-H. 2015. Adaptive region pooling for object detection. In CVPR .",
+                "DOI": "10.1109/CVPR.2015.7298673",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "unstructured": "Wang X. Yang M. Zhu S. and Lin Y. 2013. Regionlets for generic object detection. In ICCV. 10.1109/ICCV.2013.10   Wang X. Yang M. Zhu S. and Lin Y. 2013. Regionlets for generic object detection. In ICCV. 10.1109/ICCV.2013.10",
+                "DOI": "10.1109/ICCV.2013.10",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1111/cgf.12008",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1145/2185520.2185580",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1145/2790296",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "unstructured": "Zheng S. Jayasumana S. Romera-Paredes B. Vineet V. Su Z. Du D. Huang C. and Torr P. 2015. Conditional random fields as recurrent neural networks. In ICCV. 10.1109/ICCV.2015.179   Zheng S. Jayasumana S. Romera-Paredes B. Vineet V. Su Z. Du D. Huang C. and Torr P. 2015. Conditional random fields as recurrent neural networks. In ICCV . 10.1109/ICCV.2015.179",
+                "DOI": "10.1109/ICCV.2015.179",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "unstructured": "Zhu J.-Y. Kr\u00e4henb\u00fchl P. Shechtman E. and Efros A. A. 2015. Learning a discriminative model for the perception of realism in composite images. In ICCV. 10.1109/ICCV.2015.449   Zhu J.-Y. Kr\u00e4henb\u00fchl P. Shechtman E. and Efros A. A. 2015. Learning a discriminative model for the perception of realism in composite images. In ICCV . 10.1109/ICCV.2015.449",
+                "DOI": "10.1109/ICCV.2015.449",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925942&amp;ftid=1755924&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:30:34Z",
+            "timestamp": 1585963834000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "semantic-aware sky replacement"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 43,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925942"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925942",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

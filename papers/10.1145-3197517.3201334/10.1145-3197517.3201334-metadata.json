@@ -1,0 +1,452 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:54Z",
+            "timestamp": 1585962714240
+        },
+        "reference-count": 48,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201334",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 4,
+        "title": [
+            "Fluid directed rigid body control using deep reinforcement learning"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Pingchuan",
+                "family": "Ma",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Nankai University, China"
+                    }
+                ]
+            },
+            {
+                "given": "Yunsheng",
+                "family": "Tian",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Nankai University, China"
+                    }
+                ]
+            },
+            {
+                "given": "Zherong",
+                "family": "Pan",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of North Carolina at Chapel Hill"
+                    }
+                ]
+            },
+            {
+                "given": "Bo",
+                "family": "Ren",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Nankai University, China"
+                    }
+                ]
+            },
+            {
+                "given": "Dinesh",
+                "family": "Manocha",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Maryland at College Park"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/2185520.2185558",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/1276377.1276502",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.5555/1272690.1272719",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1109/TVCG.2008.107",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "Boris Bonev Lukas Prantl and Nils Thuerey. 2017. Pre-computed Liquid Spaces with Generative Neural Networks. arXiv to appear (Apr 2017) 14.  Boris Bonev Lukas Prantl and Nils Thuerey. 2017. Pre-computed Liquid Spaces with Generative Neural Networks. arXiv to appear (Apr 2017) 14."
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/1964921.1964977",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "unstructured": "Marc Claesen and Bart De Moor. 2015. Hyperparameter Search in Machine Learning. arXiv preprint arXiv:1502.02127 (2015).  Marc Claesen and Bart De Moor. 2015. Hyperparameter Search in Machine Learning. arXiv preprint arXiv:1502.02127 (2015)."
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/566654.566645",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "Isabelle Fantoni and Rogelio Lozano. 2001. Non-Linear Control for Underactuated Mechanical Systems. Springer-Verlag New York Inc. Secaucus NJ USA.   Isabelle Fantoni and Rogelio Lozano. 2001. Non-Linear Control for Underactuated Mechanical Systems. Springer-Verlag New York Inc. Secaucus NJ USA."
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/1015706.1015743",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "first-page": "6",
+                "article-title": "Some Guidelines and Guarantees for Common Random Numbers. Manage",
+                "volume": "38",
+                "author": "Glasserman Paul",
+                "year": "1992",
+                "journal-title": "Sci."
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1162/106365601750190398",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "author": "Kakade Sham",
+                "year": "2001",
+                "volume-title": "Advances in Neural Information Processing Systems 14 (NIPS"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Diederik P. Kingma and Jimmy Ba. 2014. Adam: A Method for Stochastic Optimization. CoRR abs/1412.6980 (2014).  Diederik P. Kingma and Jimmy Ba. 2014. Adam: A Method for Stochastic Optimization. CoRR abs/1412.6980 (2014)."
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "author": "Krizhevsky Alex",
+                "volume": "1",
+                "volume-title": "Proceedings of the 25th International Conference on Neural Information Processing Systems -"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "Alexander Kurganov and Guergana Petrova. 2007. A Second-Order Well-Balanced Positivity Preserving Central-Upwind Scheme for the Saint-Venant System. Commun. Math. Sci. 5 1 (03 2007) 133--160. https://projecteuclid.org:443/euclid.cms/1175797625  Alexander Kurganov and Guergana Petrova. 2007. A Second-Order Well-Balanced Positivity Preserving Central-Upwind Scheme for the Saint-Venant System. Commun. Math. Sci. 5 1 (03 2007) 133--160. https://projecteuclid.org:443/euclid.cms/1175797625",
+                "DOI": "10.4310/CMS.2007.v5.n1.a6",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "Anita T. Layton and Michiel van de Panne. 2002. A numerically efficient and stable algorithm for animating water waves. The Visual Computer 18 1 (01 Feb 2002) 41--53.  Anita T. Layton and Michiel van de Panne. 2002. A numerically efficient and stable algorithm for animating water waves. The Visual Computer 18 1 (01 Feb 2002) 41--53.",
+                "DOI": "10.1007/s003710100131",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "first-page": "1",
+                "article-title": "End-to-end Training of Deep Visuomotor Policies",
+                "volume": "17",
+                "author": "Levine Sergey",
+                "year": "2016",
+                "journal-title": "J. Mach. Learn. Res."
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/3083723",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1109/TVCG.2008.37",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "author": "Lowe Ryan",
+                "year": "2017",
+                "volume-title": "Advances in Neural Information Processing Systems 30 (NIPS"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "unstructured": "Jonathan Masci Ueli Meier Dan Cire\u015fan and J\u00fcrgen Schmidhuber. 2011. Stacked Convolutional Auto-Encoders for Hierarchical Feature Extraction. Springer Berlin Heidelberg Berlin Heidelberg 52--59.   Jonathan Masci Ueli Meier Dan Cire\u015fan and J\u00fcrgen Schmidhuber. 2011. Stacked Convolutional Auto-Encoders for Hierarchical Feature Extraction. Springer Berlin Heidelberg Berlin Heidelberg 52--59.",
+                "DOI": "10.1007/978-3-642-21735-7_7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/1015706.1015744",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "author": "Mnih Volodymyr",
+                "volume": "48",
+                "year": "2016",
+                "volume-title": "Proceedings of The 33rd International Conference on Machine Learning (Proceedings of Machine Learning Research), Maria Fiorina Balcan and Kilian Q. Weinberger (Eds.)"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/1531326.1531344",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "unstructured": "J. Nocedal and S. J. Wright. 2006. Numerical Optimization (2nd ed.). Springer New York.  J. Nocedal and S. J. Wright. 2006. Numerical Optimization (2nd ed.). Springer New York."
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/2508363.2508429",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/3016963",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/3072959.3073602",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/944020.944025",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/344779.344880",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/2601097.2601126",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/1399504.1360645",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "author": "Schulman John",
+                "volume": "37",
+                "year": "2015",
+                "volume-title": "Proceedings of the 32nd International Conference on Machine Learning (Proceedings of Machine Learning Research), Francis Bach and David Blei (Eds.)"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "unstructured": "John Schulman Philipp Moritz Sergey Levine Michael Jordan and Pieter Abbeel. 2015b. High-Dimensional Continuous Control Using Generalized Advantage Estimation. (2015). arXiv:arXiv:1506.02438  John Schulman Philipp Moritz Sergey Levine Michael Jordan and Pieter Abbeel. 2015b. High-Dimensional Continuous Control Using Generalized Advantage Estimation. (2015). arXiv:arXiv:1506.02438"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "unstructured": "John Schulman Filip Wolski Prafulla Dhariwal Alec Radford and Oleg Klimov. 2017. Proximal Policy Optimization Algorithms. (2017). arXiv:arXiv:1707.06347  John Schulman Filip Wolski Prafulla Dhariwal Alec Radford and Oleg Klimov. 2017. Proximal Policy Optimization Algorithms. (2017). arXiv:arXiv:1707.06347"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/1073368.1073401",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1145/2956233",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "unstructured": "J. Tompson K. Schlachter P. Sprechmann and K. Perlin. 2016. Accelerating Eulerian Fluid Simulation With Convolutional Networks. ArXiv e-prints (July 2016). arXiv:cs.CV/1607.03597  J. Tompson K. Schlachter P. Sprechmann and K. Perlin. 2016. Accelerating Eulerian Fluid Simulation With Convolutional Networks. ArXiv e-prints (July 2016). arXiv:cs.CV/1607.03597"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1145/882262.882337",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1145/1276377.1276395",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1145/1360612.1360624",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1145/2185520.2185521",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1145/3130800.3130833",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1145/1275808.1276509",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "unstructured": "Matthew D. Zeiler Dilip Krishnan Graham W. Taylor and Rob Fergus. 2010. Deconvolutional networks. 2528--2535.  Matthew D. Zeiler Dilip Krishnan Graham W. Taylor and Rob Fergus. 2010. Deconvolutional networks. 2528--2535.",
+                "DOI": "10.1109/CVPR.2010.5539957",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "DOI": "10.1145/2461912.2461999",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "DOI": "10.1145/1073204.1073298",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201334&ftid=1991653&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:50:37Z",
+            "timestamp": 1585961437000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 48,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201334"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201334",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

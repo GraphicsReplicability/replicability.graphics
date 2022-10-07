@@ -1,0 +1,325 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T02:11:27Z",
+            "timestamp": 1585966287907
+        },
+        "reference-count": 33,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925898",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 10,
+        "title": [
+            "Volume-encoded UV-maps"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Marco",
+                "family": "Tarini",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Universit\u00e0 dell'Insubria, Varese"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/566654.566652",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1111/j.1467-8659.2008.01253.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.5555/2383533.2383551",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "author": "Chuang M.",
+                "volume-title": "Proc., 1475--1484"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "Cignoni P. Ranzuglia G. Callieri M. Corsini M. Ganovelli F. Pietroni N. and Tarini M. 2011. Mesh-lab. http://www.meshlab.org/.  Cignoni P. Ranzuglia G. Callieri M. Corsini M. Ganovelli F. Pietroni N. and Tarini M. 2011. Mesh-lab. http://www.meshlab.org/."
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "unstructured": "Dachsbacher C. and Lefebvre S. 2008. Efficient and Practical TileTrees (in Shader X6). Shader X6. Charles River Media.  Dachsbacher C. and Lefebvre S. 2008. Efficient and Practical TileTrees (in Shader X6) . Shader X6. Charles River Media."
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1111/1467-8659.00580",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "Ford L. and Fulkerson D. 1962. Flows in networks. Princeton U. Press.  Ford L. and Fulkerson D. 1962. Flows in networks. Princeton U. Press.",
+                "DOI": "10.1515/9781400875184",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/2070781.2024195",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "Gu X. Gortler S. J. and Hoppe H. 2002. Geometry images. ACM Trans. Graph. 21 (3) (21/07/2002) 355--361. 10.1145/566654.566589   Gu X. Gortler S. J. and Hoppe H. 2002. Geometry images. ACM Trans. Graph. 21 (3) (21/07/2002) 355--361. 10.1145/566654.566589",
+                "DOI": "10.1145/566654.566589",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1016/j.cag.2009.03.024",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "unstructured": "Hormann K. L\u00e9vy B. and Sheffer A. 2007. Mesh parameterization: Theory and practice. SIGGRAPH Course Notes. 10.1145/1281500.1281510   Hormann K. L\u00e9vy B. and Sheffer A. 2007. Mesh parameterization: Theory and practice. SIGGRAPH Course Notes. 10.1145/1281500.1281510",
+                "DOI": "10.1145/1281500.1281510",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/2816795.2818078",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/1230100.1230104",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/1141911.1141926",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "Lefebvre S. Hornus S. Neyret F. etal 2005. Octree textures on the gpu. GPU gems 2 595--613.  Lefebvre S. Hornus S. Neyret F. et al. 2005. Octree textures on the gpu. GPU gems 2 595--613."
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/566654.566590",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1142/S0218195904001470",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "unstructured": "Panetta J. Kazhdan M. and Zorin D. 2012. Volumetric basis reduction for global seamless parameterization of meshes. Tech. rep. New York University.  Panetta J. Kazhdan M. and Zorin D. 2012. Volumetric basis reduction for global seamless parameterization of meshes. Tech. rep. New York University."
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1109/TVCG.2009.96",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/2070781.2024183",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/1057432.1057441",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "Ray N. Nivoliers V. Lefebvre S. and Levy B. 2010. Invisible Seams. Comput. Graph. Forum. 10.1111/j.1467-8659.2010.01746.x   Ray N. Nivoliers V. Lefebvre S. and Levy B. 2010. Invisible Seams. Comput. Graph. Forum . 10.1111/j.1467-8659.2010.01746.x"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/383259.383307",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "author": "Sander P. V.",
+                "volume-title": "Proc. of Symp. on Geom. Proc., SGP '03"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "unstructured": "Sheffer A. Praun E. and Rose K. 2006. Mesh parameterization methods and their applications. Foundations and Trends\u00ae in Computer Graphics and Vision 2 2 105--171. 10.1561/0600000011   Sheffer A. Praun E. and Rose K. 2006. Mesh parameterization methods and their applications. Foundations and Trends\u00ae in Computer Graphics and Vision 2 2 105--171. 10.1561/0600000011",
+                "DOI": "10.1561/0600000011",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/1015706.1015810",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/2070781.2024176",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1080/2151237X.2012.654054",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/1944745.1944771",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/1731047.1731053",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1016/j.cag.2010.03.006",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/1057432.1057439",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925898&amp;ftid=1755914&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:40:28Z",
+            "timestamp": 1585964428000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 33,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925898"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925898",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

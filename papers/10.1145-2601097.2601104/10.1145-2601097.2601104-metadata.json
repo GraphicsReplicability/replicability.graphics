@@ -1,0 +1,373 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:11:20Z",
+            "timestamp": 1586002280631
+        },
+        "reference-count": 34,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100000145",
+                "name": "Division of Information and Intelligent Systems",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "IIS 1011832, IIS 1011919, IIS 1161645"
+                ]
+            },
+            {
+                "DOI": "10.13039/100002418",
+                "name": "Intel Corporation",
+                "doi-asserted-by": "publisher",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601104",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 14,
+        "title": [
+            "High-order similarity relations in radiative transfer"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Shuang",
+                "family": "Zhao",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Cornell University"
+                    }
+                ]
+            },
+            {
+                "given": "Ravi",
+                "family": "Ramamoorthi",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of California, Berkeley"
+                    }
+                ]
+            },
+            {
+                "given": "Kavita",
+                "family": "Bala",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Cornell University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1109/TVCG.2010.117",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "Arfken G. B. Weber H.-J. and Ruby L. 1985. Mathematical methods for physicists. Academic press New York.  Arfken G. B. Weber H.-J. and Ruby L. 1985. Mathematical methods for physicists . Academic press New York."
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "unstructured": "Chandrasekhar S. 1960. Radiative transfer. Courier Dover Publications.  Chandrasekhar S. 1960. Radiative transfer . Courier Dover Publications."
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "Chatigny S. Morin M. Asselin D. Painchaud Y. and Beaudry P. 1999. Hybrid Monte Carlo for photon transport through optically thick scattering media. Applied optics 38 28 6075--6086.  Chatigny S. Morin M. Asselin D. Painchaud Y. and Beaudry P. 1999. Hybrid Monte Carlo for photon transport through optically thick scattering media. Applied optics 38 28 6075--6086.",
+                "DOI": "10.1364/AO.38.006075",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "first-page": "603",
+                "article-title": "Recursiveness, positivity, and truncated moment problems",
+                "volume": "17",
+                "author": "Curto R. E.",
+                "year": "1991",
+                "journal-title": "Houston J. Math"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1111/cgf.12256",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/280814.280864",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/2010324.1964951",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/2366145.2366164",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.5555/2383847.2383879",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/1276377.1276452",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/2516971.2516972",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/2508363.2508377",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Gurobi 2013. Gurobi optimization libraries. www.gurobi.com.  Gurobi 2013. Gurobi optimization libraries. www.gurobi.com."
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1111/cgf.12148",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/2343483.2343489",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/1778765.1778798",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1086/144246",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "unstructured": "Ishimaru A. 1978. Wave propagation and scattering in random media vol. 2. Academic press New York.  Ishimaru A. 1978. Wave propagation and scattering in random media vol. 2. Academic press New York."
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/1778765.1778790",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "Jakob W. 2010. Mitsuba renderer. www.mitsuba-renderer.org.  Jakob W. 2010. Mitsuba renderer. www.mitsuba-renderer.org."
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/383259.383319",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/964965.808594",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1016/0041-5553(80)90098-1",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "unstructured": "Lafortune E. P. and Willems Y. D. 1996. Rendering participating media with bidirectional path tracing. In Rendering Techniques\u00e2\u0102&Zacute; 96. Springer 91--100.   Lafortune E. P. and Willems Y. D. 1996. Rendering participating media with bidirectional path tracing. In Rendering Techniques\u00e2\u0102&Zacute; 96 . Springer 91--100.",
+                "DOI": "10.1007/978-3-7091-7484-5_10",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.5555/2383654.2383694",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/2010324.1964935",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/2461912.2461974",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "first-page": "11",
+                "article-title": "Metropolis light transport for participating media",
+                "volume": "2000",
+                "author": "Pauly M.",
+                "year": "2000",
+                "journal-title": "Proceedings of EGWR"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/218380.218498",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.5555/2383847.2383874",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/1330511.1330520",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1016/0021-9991(89)90067-3",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "unstructured": "Wyman D. R. Patterson M. S. and Wilson B. C. 1989. Similarity relations for the interaction parameters in radiation transport. Applied optics 28 24 5243--5249.  Wyman D. R. Patterson M. S. and Wilson B. C. 1989. Similarity relations for the interaction parameters in radiation transport. Applied optics 28 24 5243--5249.",
+                "DOI": "10.1364/AO.28.005243",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601104&amp;ftid=1488912&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:49:01Z",
+            "timestamp": 1586000941000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 34,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601104"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601104",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

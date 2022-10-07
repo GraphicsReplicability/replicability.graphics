@@ -1,0 +1,761 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:55Z",
+            "timestamp": 1585962715402
+        },
+        "reference-count": 107,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201392",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-16",
+        "source": "Crossref",
+        "is-referenced-by-count": 9,
+        "title": [
+            "A multi-scale model for simulating liquid-fabric interactions"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Yun (Raymond)",
+                "family": "Fei",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Columbia University"
+                    }
+                ]
+            },
+            {
+                "given": "Christopher",
+                "family": "Batty",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Waterloo, Canada"
+                    }
+                ]
+            },
+            {
+                "given": "Eitan",
+                "family": "Grinspun",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Columbia University"
+                    }
+                ]
+            },
+            {
+                "given": "Changxi",
+                "family": "Zheng",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Columbia University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1061/(ASCE)GT.1943-5606.0001011",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1002/pc.750120303",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.2166/ws.2001.0022",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1002/cav.1499",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1002/pc.10430",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1021/i160024a007",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/2786784.2786793",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/2897824.2925919",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1063/1.1487378",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "Samila Bandara and Kenichi Soga. 2015. Coupling of soil deformation and pore fluid flow using material point method. Computers and geotechnics 63 (2015) 199--214.  Samila Bandara and Kenichi Soga. 2015. Coupling of soil deformation and pore fluid flow using material point method. Computers and geotechnics 63 (2015) 199--214."
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "Jacob Bear. 2013. Dynamics of fluids in porous media. Courier Corporation.  Jacob Bear. 2013. Dynamics of fluids in porous media. Courier Corporation."
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1016/0020-7225(83)90071-X",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/1778765.1778853",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1146/annurev-fluid-122316-050130",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1063/1.1712886",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "Javier Bonet and Richard D Wood. 1997. Nonlinear continuum mechanics for finite element analysis. Cambridge university press.  Javier Bonet and Richard D Wood. 1997. Nonlinear continuum mechanics for finite element analysis. Cambridge university press."
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1016/j.ijsolstr.2005.04.045",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "unstructured": "Mario Botsch Leif Kobbelt Mark Pauly Pierre Alliez and Bruno L\u00e9vy. 2010. Polygon mesh processing. CRC press.  Mario Botsch Leif Kobbelt Mark Pauly Pierre Alliez and Bruno L\u00e9vy. 2010. Polygon mesh processing. CRC press.",
+                "DOI": "10.1201/b10688",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "unstructured": "Robert Bridson. 2015. Fluid simulation for computer graphics. CRC Press.  Robert Bridson. 2015. Fluid simulation for computer graphics. CRC Press.",
+                "DOI": "10.1201/9781315266008",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "Royal Harvard Brooks and Arthur Thomas Corey. 1964. Hydraulic properties of porous media. Hydrology papers (Colorado State University) 3 (1964).  Royal Harvard Brooks and Arthur Thomas Corey. 1964. Hydraulic properties of porous media. Hydrology papers (Colorado State University) 3 (1964)."
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "Richard L Burden and J Douglas Faires. 1985. 2.2 Fixed-Point Iteration. Numerical Analysis (3rd ed.). PWS Publishers. ISBN 0-87150-857-5 (1985).  Richard L Burden and J Douglas Faires. 1985. 2.2 Fixed-Point Iteration. Numerical Analysis (3rd ed.). PWS Publishers. ISBN 0-87150-857-5 (1985)."
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "first-page": "150",
+                "article-title": "Fluid flow through granular beds",
+                "volume": "15",
+                "author": "Carman Philip Crosbie",
+                "year": "1937",
+                "journal-title": "Transactions-Institution of Chemical Engineeres"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1007/s00371-012-0687-y",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/1073204.1073221",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1016/0021-9797(73)90293-2",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/2661229.2661279",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/258734.258896",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "unstructured": "Trong Dang-Vu and Jan Hupka. 2005. Characterization of porous materials by capillary rise method. Physicochemical problems of mineral processing 39 (2005) 47--65.  Trong Dang-Vu and Jan Hupka. 2005. Characterization of porous materials by capillary rise method. Physicochemical problems of mineral processing 39 (2005) 47--65."
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "Henry Philibert Gaspard Darcy. 1856. D\u00e8termination des lois d'\u00e8coulement de l'eau \u00e0 travers le sable.  Henry Philibert Gaspard Darcy. 1856. D\u00e8termination des lois d'\u00e8coulement de l'eau \u00e0 travers le sable."
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "first-page": "194",
+                "article-title": "Moisture transmission through textiles. Part II: evaluation methods and mathematical modeling",
+                "volume": "7",
+                "author": "Das Brojeswari",
+                "year": "2007",
+                "journal-title": "Autex Res J"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1007/s12221-008-0036-y",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "unstructured": "Gilles Daviet and Florence Bertails-Descoubes. 2017. Simulation of Drucker-Prager granular flows inside Newtonian fluids. (Feb. 2017). working paper or preprint.  Gilles Daviet and Florence Bertails-Descoubes. 2017. Simulation of Drucker-Prager granular flows inside Newtonian fluids. (Feb. 2017). working paper or preprint."
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "unstructured": "Reint De Boer. 2012. Theory of porous media: highlights in historical development and current state. Springer Science & Business Media.  Reint De Boer. 2012. Theory of porous media: highlights in historical development and current state. Springer Science & Business Media."
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "unstructured": "M de Saint-Venant. 1856. M\u00e9moire sur la torsion des prismes: avec des consid\u00e9rations sur leur flexion ainsi que sur l'\u00e9quilibre int\u00e9rieur des solides \u00e9lastiques en g\u00e9n\u00e9ral: et des formules pratiques pour le calcul de leur r\u00e9sistance \u00e0 divers efforts s' exer\u00e7ant simultan\u00e9ment. Imprimerie nationale.  M de Saint-Venant. 1856. M\u00e9moire sur la torsion des prismes: avec des consid\u00e9rations sur leur flexion ainsi que sur l'\u00e9quilibre int\u00e9rieur des solides \u00e9lastiques en g\u00e9n\u00e9ral: et des formules pratiques pour le calcul de leur r\u00e9sistance \u00e0 divers efforts s' exer\u00e7ant simultan\u00e9ment. Imprimerie nationale."
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "first-page": "89",
+                "article-title": "Fluid flow through packed columns",
+                "volume": "48",
+                "author": "Ergun Sabri",
+                "year": "1952",
+                "journal-title": "Chem. Eng. Prog."
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1145/3072959.3073630",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1002/andp.18551700105",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "first-page": "532",
+                "article-title": "Der auftrieb in talsperren. Osterr. Wochenschrift fur den offentl",
+                "volume": "19",
+                "author": "Fillunger Paul",
+                "year": "1913",
+                "journal-title": "Baudienst"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "first-page": "1782",
+                "article-title": "Wasserbewegung durch boden",
+                "volume": "45",
+                "author": "Forchheimer PH",
+                "year": "1901",
+                "journal-title": "Zeitz. Ver. Duetch Ing."
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "author": "Grinspun Eitan",
+                "year": "2003",
+                "volume-title": "Discrete Shells. In Proceedings of the 2003 ACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA '03)"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1145/1073204.1073299",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "unstructured": "Henry Selby Hele-Shaw. 1898. The flow of water. Nature 58 1489 (1898) 33--36.  Henry Selby Hele-Shaw. 1898. The flow of water. Nature 58 1489 (1898) 33--36.",
+                "DOI": "10.1038/058034a0",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1111/cgf.12455",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1145/2037715.2037726",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1109/TVCG.2013.105",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1145/3072959.3073623",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "DOI": "10.1145/2766996",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "DOI": "10.1145/1360612.1360664",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "DOI": "10.1145/1778765.1778842",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "first-page": "29",
+                "article-title": "In-plane liquid distribution in nonwoven fabrics: Part 2--simulation",
+                "volume": "12",
+                "author": "Kim HS",
+                "year": "2003",
+                "journal-title": "Int. Nonwoven J."
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "DOI": "10.1177/004051759606601008",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "DOI": "10.1017/S0022112005003356",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "DOI": "10.1016/S1359-835X(97)00030-4",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "DOI": "10.1145/1360612.1360648",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_55_1",
+                "author": "Lin Wei-Chin",
+                "volume-title": "Workshop on Virtual Reality Interaction and Physical Simulation"
+            },
+            {
+                "key": "e_1_2_2_56_1",
+                "DOI": "10.1016/j.cag.2015.06.005",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_57_1",
+                "DOI": "10.1177/0040517515580531",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_58_1",
+                "DOI": "10.1177/0040517516685276",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_59_1",
+                "DOI": "10.1177/0040517516639827",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_60_1",
+                "DOI": "10.1007/BF01461107",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_61_1",
+                "unstructured": "Hern\u00e1n A Makse David L Johnson and Lawrence M Schwartz. 2000. Packing of compressible granular materials. Physical review letters 84 18 (2000) 4160.  Hern\u00e1n A Makse David L Johnson and Lawrence M Schwartz. 2000. Packing of compressible granular materials. Physical review letters 84 18 (2000) 4160."
+            },
+            {
+                "key": "e_1_2_2_62_1",
+                "DOI": "10.1615/JPorMedia.v15.i8.60",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_63_1",
+                "unstructured": "Reza Masoodi and Krishna M Pillai. 2012b. Wicking in porous materials: traditional and modern modeling approaches. CRC Press.  Reza Masoodi and Krishna M Pillai. 2012b. Wicking in porous materials: traditional and modern modeling approaches. CRC Press.",
+                "DOI": "10.1201/b12972",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_64_1",
+                "DOI": "10.1115/FEDSM2008-55172",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_65_1",
+                "DOI": "10.1006/jcph.1994.1034",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_66_1",
+                "DOI": "10.5555/846276.846298",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_67_1",
+                "DOI": "10.1145/2461912.2461918",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_68_1",
+                "DOI": "10.1016/S0017-9310(97)00008-2",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_69_1",
+                "unstructured": "Hilary Ockendon and John R Ockendon. 1995. Viscous flow. Vol. 13. Cambridge University Press.  Hilary Ockendon and John R Ockendon. 1995. Viscous flow. Vol. 13. Cambridge University Press.",
+                "DOI": "10.1017/CBO9781139174206",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_70_1",
+                "unstructured": "Alexander Oron Stephen H Davis and S George Bankoff. 1997. Long-scale evolution of thin liquid films. Reviews of modern physics 69 3 (1997) 931.  Alexander Oron Stephen H Davis and S George Bankoff. 1997. Long-scale evolution of thin liquid films. Reviews of modern physics 69 3 (1997) 931.",
+                "DOI": "10.1103/RevModPhys.69.931",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_71_1",
+                "DOI": "10.1145/1805964.1805967",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_72_1",
+                "DOI": "10.1029/91WR00334",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_73_1",
+                "unstructured": "Saket Patkar and Parag Chaudhuri. 2013. Wetting of porous solids. IEEE transactions on visualization and computer graphics 19 9 (2013) 1592--1604. 10.1109/TVCG.2013.8   Saket Patkar and Parag Chaudhuri. 2013. Wetting of porous solids. IEEE transactions on visualization and computer graphics 19 9 (2013) 1592--1604. 10.1109/TVCG.2013.8",
+                "DOI": "10.1109/TVCG.2013.8",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_74_1",
+                "DOI": "10.1533/jotp.2006.38.1.1",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_75_1",
+                "DOI": "10.1006/jcis.1996.0522",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_76_1",
+                "author": "Bruce Pitman E",
+                "volume": "363",
+                "year": "2005",
+                "article-title": "A two-fluid model for avalanche and debris flows",
+                "journal-title": "Philosophical Transactions of the Royal Society of London A: Mathematical, Physical and Engineering Sciences"
+            },
+            {
+                "key": "e_1_2_2_77_1",
+                "unstructured": "Kumbakonam Ramamani Rajagopal and Lu Tao. 1995. Mechanics of mixtures. World Scientific.  Kumbakonam Ramamani Rajagopal and Lu Tao. 1995. Mechanics of mixtures. World Scientific.",
+                "DOI": "10.1142/2197",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_78_1",
+                "DOI": "10.1145/2645703",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_79_1",
+                "DOI": "10.1063/1.1745010",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_80_1",
+                "DOI": "10.1145/1360612.1360645",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_81_1",
+                "DOI": "10.1111/j.1467-8659.2008.01336.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_82_1",
+                "author": "Scholt\u00e8s Luc",
+                "year": "2009",
+                "volume-title": "International journal for numerical and analytical methods in geomechanics 33, 10"
+            },
+            {
+                "key": "e_1_2_2_83_1",
+                "author": "Segall Aviv",
+                "year": "2016",
+                "volume-title": "Proceedings of the ACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA '16)"
+            },
+            {
+                "key": "e_1_2_2_84_1",
+                "first-page": "1285",
+                "article-title": "Simulations and experiments on low-pressure permeation of fabrics: Part II---The variable gap model and prediction of permeability",
+                "volume": "35",
+                "author": "Senoguz MT",
+                "year": "2001",
+                "journal-title": "Journal of composite materials"
+            },
+            {
+                "key": "e_1_2_2_85_1",
+                "DOI": "10.1177/0040517509342320",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_86_1",
+                "DOI": "10.1002/nme.4605",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_87_1",
+                "DOI": "10.1145/2601097.2601176",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_88_1",
+                "DOI": "10.1063/1.3021477",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_89_1",
+                "unstructured": "Deborah Sulsky Zhen Chen and Howard L Schreyer. 1994. A particle method for history-dependent materials. Computer methods in applied mechanics and engineering 118 1--2 (1994) 179--196.  Deborah Sulsky Zhen Chen and Howard L Schreyer. 1994. A particle method for history-dependent materials. Computer methods in applied mechanics and engineering 118 1--2 (1994) 179--196."
+            },
+            {
+                "key": "e_1_2_2_90_1",
+                "DOI": "10.1145/3072959.3073651",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_91_1",
+                "first-page": "125",
+                "article-title": "Die berechnung der durchlassigkeitsziffer des tones aus dem verlauf der hydrodynamischen spannungserscheinungen. Sitzungsberichte der Akademie der Wissenschaften in Wien, Mathematisch-Naturwissenschaftliche Klasse",
+                "volume": "132",
+                "author": "von Terzaghi Karl",
+                "year": "1923",
+                "journal-title": "Abteilung IIa"
+            },
+            {
+                "key": "e_1_2_2_92_1",
+                "unstructured": "Karl von Terzaghi. 1943. Theoretical soil mechanics. Vol. 18. Wiley Online Library.  Karl von Terzaghi. 1943. Theoretical soil mechanics. Vol. 18. Wiley Online Library.",
+                "DOI": "10.1002/9780470172766",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_93_1",
+                "author": "Thomaszewski Bernhard",
+                "volume-title": "Eurographics 2007 - Tutorials"
+            },
+            {
+                "key": "e_1_2_2_94_1",
+                "DOI": "10.1145/3072959.3073633",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_95_1",
+                "DOI": "10.1002/cav.1497",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_96_1",
+                "unstructured": "M Th Van Genuchten. 1980. A closed-form equation for predicting the hydraulic conductivity of unsaturated soils. Soil science society of America journal 44 5 (1980) 892--898.  M Th Van Genuchten. 1980. A closed-form equation for predicting the hydraulic conductivity of unsaturated soils. Soil science society of America journal 44 5 (1980) 892--898.",
+                "DOI": "10.2136/sssaj1980.03615995004400050002x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_97_1",
+                "unstructured": "Orestis Vantzos Omri Azencot Max Wardeztky Martin Rumpf and Mirela Ben-Chen. 2017. Functional Thin Films on Surfaces. IEEE transactions on visualization and computer graphics 23 3 (2017) 1179--1192. 10.1109/TVCG.2016.2605083   Orestis Vantzos Omri Azencot Max Wardeztky Martin Rumpf and Mirela Ben-Chen. 2017. Functional Thin Films on Surfaces. IEEE transactions on visualization and computer graphics 23 3 (2017) 1179--1192. 10.1109/TVCG.2016.2605083",
+                "DOI": "10.1109/TVCG.2016.2605083",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_98_1",
+                "DOI": "10.5555/1272690.1272721",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_99_1",
+                "DOI": "10.1021/la401324f",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_100_1",
+                "unstructured": "Edward W Washburn. 1921. The dynamics of capillary flow. Physical review 17 3 (1921) 273.  Edward W Washburn. 1921. The dynamics of capillary flow. Physical review 17 3 (1921) 273.",
+                "DOI": "10.1103/PhysRev.17.273",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_101_1",
+                "DOI": "10.1002/pen.760140603",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_102_1",
+                "unstructured": "Reinhard Woltmann. 1792. Beitrdge zur Hydraulischen Architectur. Vol. 2. Dieterich.  Reinhard Woltmann. 1792. Beitrdge zur Hydraulischen Architectur. Vol. 2. Dieterich."
+            },
+            {
+                "key": "e_1_2_2_103_1",
+                "DOI": "10.1145/2897824.2925897",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_104_1",
+                "DOI": "10.1145/3130800.3130882",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_105_1",
+                "DOI": "10.1145/2816795.2818117",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_106_1",
+                "unstructured": "K Yazdchi and Stefan Luding. 2012. Towards unified drag laws for inertial flow through fibrous materials. Chemical engineering journal 207 (2012) 35--48.  K Yazdchi and Stefan Luding. 2012. Towards unified drag laws for inertial flow through fibrous materials. Chemical engineering journal 207 (2012) 35--48."
+            },
+            {
+                "key": "e_1_2_2_107_1",
+                "unstructured": "Xinxin Zhang. 2015. A TBB Parallelized Liquid Solver Featuring Simple FLIP and AMGPCG Pressure Solver. https://github.com/zhxx1987/tbb_liquid_amgpcg. (2015).  Xinxin Zhang. 2015. A TBB Parallelized Liquid Solver Featuring Simple FLIP and AMGPCG Pressure Solver. https://github.com/zhxx1987/tbb_liquid_amgpcg. (2015)."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201392&ftid=1991581&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:47:31Z",
+            "timestamp": 1585961251000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 107,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201392"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201392",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

@@ -1,0 +1,448 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:54Z",
+            "timestamp": 1585962714395
+        },
+        "reference-count": 52,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201395",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 1,
+        "title": [
+            "Physical simulation of environmentally induced thin shell deformation"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Hsiao-Yu",
+                "family": "Chen",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of Texas at Austin"
+                    }
+                ]
+            },
+            {
+                "given": "Arnav",
+                "family": "Sastry",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Texas at Austin"
+                    }
+                ]
+            },
+            {
+                "given": "Wim M.",
+                "family": "van Rees",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Massachusetts Institute of Technology"
+                    }
+                ]
+            },
+            {
+                "given": "Etienne",
+                "family": "Vouga",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Texas at Austin"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "Iggesund Paperboard AB. 1993. Paperboard reference manual. Iggesund Paperboard AB.  Iggesund Paperboard AB. 1993. Paperboard reference manual. Iggesund Paperboard AB."
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1016/j.cad.2017.09.006",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/280814.280821",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "Jernej Barbi\u010d Fun Shing Sin and Daniel Schroeder. 2012. Vega FEM Library. (2012). http://www.jernejbarbic.com/vega.  Jernej Barbi\u010d Fun Shing Sin and Daniel Schroeder. 2012. Vega FEM Library. (2012). http://www.jernejbarbic.com/vega."
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1016/0045-7949(83)90150-5",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1002/nme.1620151205",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1016/j.cma.2009.05.011",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.5555/1281957.1281987",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "Alexander I. Bobenko Helmut Pottmann and Johannes Wallner. 2010. A curvature theory for discrete surfaces based on mesh parallelity. Math. Ann. 348 1 (01 Sep 2010) 1--24.  Alexander I. Bobenko Helmut Pottmann and Johannes Wallner. 2010. A curvature theory for discrete surfaces based on mesh parallelity. Math. Ann. 348 1 (01 Sep 2010) 1--24.",
+                "DOI": "10.1007/s00208-009-0467-9",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "author": "Alexander",
+                "volume-title": "Proceedings of the Third Eurographics Symposium on Geometry Processing (SGP '05)"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "Sergey Bochkanov. 1999. ALGLIB. (1999). www.alglib.net  Sergey Bochkanov. 1999. ALGLIB. (1999). www.alglib.net"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/566654.566623",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/1391989.1391995",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Philippe G. Ciarlet. 2000. Theory of Shells Volume 3 (Mathematical Elasticity). North Holland.  Philippe G. Ciarlet. 2000. Theory of Shells Volume 3 (Mathematical Elasticity). North Holland."
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1002/(SICI)1097-0207(20000430)47:12<2039::AID-NME872>3.0.CO;2-1",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1103/PhysRevLett.101.068101",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1103/PhysRevE.80.016602",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1016/j.jmps.2008.12.004",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/1360612.1360665",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "author": "Gingold Yotam",
+                "year": "2004",
+                "volume-title": "Poster: A Discrete Model for Inelastic Deformation of Thin Shells. In ACM/Eurographics Symposium on Computer Animation '04"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1103/PhysRevLett.94.198103",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1111/j.1467-8659.2006.00974.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "author": "Grinspun Eitan",
+                "year": "2003",
+                "volume-title": "Discrete Shells. In Proceedings of the 2003 ACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA '03)"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "Christophe Guberan. 2012. Hydro-Fold. (2012). http://www.christopheguberan.ch/hydro-fold/  Christophe Guberan. 2012. Hydro-Fold. (2012). http://www.christopheguberan.ch/hydro-fold/"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/3072959.3073709",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1007/s00371-011-0575-x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1111/cgf.12009",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1016/j.cma.2009.08.013",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1126/science.1215309",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "unstructured": "Yael Klein Efi Efrati and Eran Sharon. 2007. Shaping of Elastic Sheets by Prescription of Non-Euclidean Metrics. Science 315 5815 (2007) 1116--1120.  Yael Klein Efi Efrati and Eran Sharon. 2007. Shaping of Elastic Sheets by Prescription of Non-Euclidean Metrics. Science 315 5815 (2007) 1116--1120."
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/2522628.2522906",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "unstructured": "Shiguang Liu Qiguang Liu Tai An Jizhou Sun and Qunsheng Peng. 2009. Physically based simulation of thin-shell objects' burning. The Visual Computer 25 5 (01 May 2009) 687--696. 10.1007/s00371-009-0344-2   Shiguang Liu Qiguang Liu Tai An Jizhou Sun and Qunsheng Peng. 2009. Physically based simulation of thin-shell objects' burning. The Visual Computer 25 5 (01 May 2009) 687--696. 10.1007/s00371-009-0344-2"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1109/TVCG.2006.51",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.5555/946250.946923",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1145/1060244.1060265",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1145/1236246.1236257",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/2461912.2462010",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1145/2366145.2366171",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "unstructured": "P. Neff. 2004. A geometrically exact Cosserat shell-model including size effects avoiding degeneracy in the thin shell limit. Part I: Formal dimensional reduction for elastic plates and existence of minimizers for positive Cosserat couple modulus. Continuum Mechanics and Thermodynamics 16 6 (01 Oct 2004) 577--628.  P. Neff. 2004. A geometrically exact Cosserat shell-model including size effects avoiding degeneracy in the thin shell limit. Part I: Formal dimensional reduction for elastic plates and existence of minimizers for positive Cosserat couple modulus. Continuum Mechanics and Thermodynamics 16 6 (01 Oct 2004) 577--628.",
+                "DOI": "10.1007/s00161-004-0182-4",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1145/3072959.3073695",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "unstructured": "Jessica Rosenkrantz and Jesse Louis-Rosenberg. 2018. Nervous Systems. (2018). https://n-e-r-v-o-u-s.com/  Jessica Rosenkrantz and Jesse Louis-Rosenberg. 2018. Nervous Systems. (2018). https://n-e-r-v-o-u-s.com/"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1039/c0sm00479k",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1016/0045-7825(89)90002-9",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "unstructured": "John M. Sullivan. 2008. Curvatures of Smooth and Discrete Surfaces. Birkh\u00e4user Basel. Basel 175--188.  John M. Sullivan. 2008. Curvatures of Smooth and Discrete Surfaces. Birkh\u00e4user Basel. Basel 175--188.",
+                "DOI": "10.1007/978-3-7643-8621-4_9",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1016/j.gmod.2013.07.001",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1073/pnas.1709025114",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "DOI": "10.1002/nme.4536",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "DOI": "10.1145/3025453.3026019",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "DOI": "10.1016/j.cagd.2007.07.006",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "author": "Wawrzinek Anna",
+                "year": "2011",
+                "volume-title": "Vision, Modeling, and Visualization"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "unstructured": "Clarisse Weischedel. 2012. A discrete geometric view on shear-deformable shell models. Ph.D. Dissertation. Georg-August-Universit\u00e4t G\u00f6ttingen.  Clarisse Weischedel. 2012. A discrete geometric view on shear-deformable shell models. Ph.D. Dissertation. Georg-August-Universit\u00e4t G\u00f6ttingen."
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "DOI": "10.1039/c1sm05998j",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201395&ftid=1991744&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:46:18Z",
+            "timestamp": 1585961178000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 52,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201395"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201395",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

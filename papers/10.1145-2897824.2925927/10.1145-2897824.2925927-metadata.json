@@ -1,0 +1,517 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T02:11:27Z",
+            "timestamp": 1585966287731
+        },
+        "reference-count": 59,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "name": "NSF grants",
+                "award": [
+                    "IIS-1064412, IIS-1218515"
+                ]
+            },
+            {
+                "name": "Microsoft Research PhD program",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925927",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 14,
+        "title": [
+            "Tactile mesh saliency"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Manfred",
+                "family": "Lau",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Lancaster University"
+                    }
+                ]
+            },
+            {
+                "given": "Kapil",
+                "family": "Dev",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Lancaster University"
+                    }
+                ]
+            },
+            {
+                "given": "Weiqi",
+                "family": "Shi",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Yale University"
+                    }
+                ]
+            },
+            {
+                "given": "Julie",
+                "family": "Dorsey",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Yale University"
+                    }
+                ]
+            },
+            {
+                "given": "Holly",
+                "family": "Rushmeier",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Yale University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/2185520.2185543",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1109/TRO.2013.2289018",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "unstructured": "Borji A. Sihite D. N. and Itti L. 2012. Salient Object Detection: A Benchmark. ECCV 414--429.  Borji A. Sihite D. N. and Itti L. 2012. Salient Object Detection: A Benchmark. ECCV 414--429.",
+                "DOI": "10.1007/978-3-642-33709-3_30",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "Bylinskii Z. Judd T. Borji A. Itti L. Durand F. Oliva A. and Torralba A. 2015. MIT Saliency Benchmark. http://saliency.mit.edu/.  Bylinskii Z. Judd T. Borji A. Itti L. Durand F. Oliva A. and Torralba A. 2015. MIT Saliency Benchmark. http://saliency.mit.edu/."
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1007/s10791-009-9109-9",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1111/1467-8659.00669",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/1531326.1531379",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/2185520.2185525",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/2537852",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/237170.237278",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/1122501.1122507",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/2601097.2601131",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/2231816.2231817",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "author": "Gingold Y.",
+                "volume-title": "Proceedings of the AAAI Workshop on Human Computation (HCOMP)."
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1109/TPAMI.2011.272",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "Goldfeder C. Ciocarlie M. Dang H. and Allen P. K. 2009. The Columbia Grasp Database. ICRA 3343--3349.   Goldfeder C. Ciocarlie M. Dang H. and Allen P. K. 2009. The Columbia Grasp Database. ICRA 3343--3349.",
+                "DOI": "10.1109/ROBOT.2009.5152709",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1016/j.cag.2013.05.011",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1111/1467-8659.00627",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1109/PROC.1984.13073",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/1077399.1077406",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "Hu J. Lu J. and Tan Y. P. 2014. Discriminative Deep Metric Learning for Face Verification in the Wild. CVPR 1875--1882. 10.1109/CVPR.2014.242   Hu J. Lu J. and Tan Y. P. 2014. Discriminative Deep Metric Learning for Face Verification in the Wild. CVPR 1875--1882. 10.1109/CVPR.2014.242",
+                "DOI": "10.1109/CVPR.2014.242",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "unstructured": "Hu J. Lu J. and Tan Y. P. 2015. Deep Transfer Metric Learning. CVPR 325--333.  Hu J. Lu J. and Tan Y. P. 2015. Deep Transfer Metric Learning. CVPR 325--333.",
+                "DOI": "10.1109/CVPR.2015.7298629",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1109/34.730558",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "Itti L. 2000. Models of Bottom-Up and Top-Down Visual Attention. PhD Thesis California Institute of Technology Pasadena.   Itti L. 2000. Models of Bottom-Up and Top-Down Visual Attention. PhD Thesis California Institute of Technology Pasadena."
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/2366145.2366162",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/582415.582418",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/1778765.1778839",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/1670671.1670676",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "Klank U. Pangercic D. Rusu R. and Beetz M. 2009. Real-time CAD Model Matching for Mobile Manipulation and Grasping. IEEE-RAS Int'l Conf. on Humanoid Robots 290--296.  Klank U. Pangercic D. Rusu R. and Beetz M. 2009. Real-time CAD Model Matching for Mobile Manipulation and Grasping. IEEE-RAS Int'l Conf. on Humanoid Robots 290--296.",
+                "DOI": "10.1109/ICHR.2009.5379561",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/2010324.1964980",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/1073204.1073244",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1007/s00371-005-0314-2",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/2766898",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "author": "Liu Z.",
+                "year": "2015",
+                "article-title": "Human-Centered Saliency Detection",
+                "journal-title": "IEEE Trans. on Neural Networks and Learning Systems."
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1016/j.cag.2008.01.003",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1145/2601097.2601110",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "unstructured": "Osada R. Funkhouser T. Chazelle B. and Dobkin D. 2001. Matching 3D Models with Shape Distributions. Shape Modeling International 154--166.   Osada R. Funkhouser T. Chazelle B. and Dobkin D. 2001. Matching 3D Models with Shape Distributions. Shape Modeling International 154--166."
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1109/ICCV.2011.6126281",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.3758/APP.71.2.421",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1145/2461912.2461957",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "unstructured": "Sahbani A. and El-Khoury S. 2009. A Hybrid Approach for Grasping 3D Objects. IROS 1272--1277.   Sahbani A. and El-Khoury S. 2009. A Hybrid Approach for Grasping 3D Objects. IROS 1272--1277.",
+                "DOI": "10.1109/IROS.2009.5354105",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1016/j.robot.2011.07.016",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "unstructured": "Saxena A. Driemeyer J. Kearns J. and Ng A. Y. 2007. Robotic Grasping of Novel Objects. NIPS 1209--1216.  Saxena A. Driemeyer J. Kearns J. and Ng A. Y. 2007. Robotic Grasping of Novel Objects. NIPS 1209--1216."
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1111/cgf.12051",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1145/1243980.1243981",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "unstructured": "Shilane P. Min P. Kazhdan M. and Funkhouser T. 2004. The Princeton Shape Benchmark. SMI 167--178.   Shilane P. Min P. Kazhdan M. and Funkhouser T. 2004. The Princeton Shape Benchmark. SMI 167--178."
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "unstructured": "Shtrom E. Leifman G. and Tal A. 2013. Saliency Detection in Large Point Sets. ICCV 3591--3598. 10.1109/ICCV.2013.446   Shtrom E. Leifman G. and Tal A. 2013. Saliency Detection in Large Point Sets. ICCV 3591--3598. 10.1109/ICCV.2013.446",
+                "DOI": "10.1109/ICCV.2013.446",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "DOI": "10.1145/2530691",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "unstructured": "Su H. Maji S. Kalogerakis E. and Learned-Miller E. 2015. Multi-view Convolutional Neural Networks for 3D Shape Recognition. ICCV. 10.1109/ICCV.2015.114   Su H. Maji S. Kalogerakis E. and Learned-Miller E. 2015. Multi-view Convolutional Neural Networks for 3D Shape Recognition. ICCV . 10.1109/ICCV.2015.114",
+                "DOI": "10.1109/ICCV.2015.114",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "author": "Surazhsky T.",
+                "volume-title": "International Conference on Robotics and Automation, 1021--1026"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "unstructured": "Tao P. Cao J. Li S. Liu X. and Liu L. 2015. Mesh Saliency via Ranking Unsalient Patches in a Descriptor Space. Computers and Graphics 46 C 264--274. 10.1016/j.cag.2014.09.023   Tao P. Cao J. Li S. Liu X. and Liu L. 2015. Mesh Saliency via Ranking Unsalient Patches in a Descriptor Space. Computers and Graphics 46 C 264--274. 10.1016/j.cag.2014.09.023",
+                "DOI": "10.1016/j.cag.2014.09.023",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "author": "Varadarajan K.",
+                "volume-title": "IROS"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "unstructured": "Wang J. Song Y. Leung T. Rosenberg C. Wang J. Philbin J. Chen B. and Wu Y. 2014. Learning Fine-Grained Image Similarity with Deep Ranking. CVPR 1386--1393. 10.1109/CVPR.2014.180   Wang J. Song Y. Leung T. Rosenberg C. Wang J. Philbin J. Chen B. and Wu Y. 2014. Learning Fine-Grained Image Similarity with Deep Ranking. CVPR 1386--1393. 10.1109/CVPR.2014.180",
+                "DOI": "10.1109/CVPR.2014.180",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "DOI": "10.1111/1467-8659.00531",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_55_1",
+                "unstructured": "Wei L. Huang Q. Ceylan D. Vouga E. and Li H. 2015. Dense Human Body Correspondences Using Convolutional Networks. CVPR.  Wei L. Huang Q. Ceylan D. Vouga E. and Li H. 2015. Dense Human Body Correspondences Using Convolutional Networks. CVPR .",
+                "DOI": "10.1109/CVPR.2016.171",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_56_1",
+                "DOI": "10.1145/2393347.2396378",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_57_1",
+                "unstructured": "Zagoruyko S. and Komodakis N. 2015. Learning to Compare Image Patches via Convolutional Neural Networks. CVPR.  Zagoruyko S. and Komodakis N. 2015. Learning to Compare Image Patches via Convolutional Neural Networks. CVPR .",
+                "DOI": "10.1109/CVPR.2015.7299064",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_58_1",
+                "DOI": "10.1145/2461912.2461967",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_59_1",
+                "DOI": "10.1016/j.gmod.2014.03.009",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925927&amp;ftid=1755949&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:42:33Z",
+            "timestamp": 1585964553000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 59,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925927"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925927",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

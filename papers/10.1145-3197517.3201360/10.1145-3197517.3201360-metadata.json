@@ -1,0 +1,559 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:55Z",
+            "timestamp": 1585962715210
+        },
+        "reference-count": 69,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100008982",
+                "name": "National Science Foundation of Sri Lanka",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "1538593"
+                ]
+            },
+            {
+                "name": "NSF CAREER award",
+                "award": [
+                    "IIS-1652515"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201360",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 7,
+        "title": [
+            "Stitch meshing"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Kui",
+                "family": "Wu",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of Utah"
+                    }
+                ]
+            },
+            {
+                "given": "Xifeng",
+                "family": "Gao",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "New York University"
+                    }
+                ]
+            },
+            {
+                "given": "Zachary",
+                "family": "Ferguson",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "New York University"
+                    }
+                ]
+            },
+            {
+                "given": "Daniele",
+                "family": "Panozzo",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "New York University"
+                    }
+                ]
+            },
+            {
+                "given": "Cem",
+                "family": "Yuksel",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Utah"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/1531326.1531384",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/566654.566588",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/280814.280821",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/2461912.2461975",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1111/cgf.12014",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/1531326.1531383",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/1360612.1360698",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/192161.192259",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/566654.566623",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/142920.134017",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/2816795.2818059",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/2661229.2661279",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/2786784.2786801",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1109/TVCG.2016.2592908",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "unstructured": "Keenan Crane Mathieu Desbrun and Peter Schr\u00f6der. 2010. Trivial Connections on Discrete Surfaces. Computer Graphics Forum 29 5 (2010).  Keenan Crane Mathieu Desbrun and Peter Schr\u00f6der. 2010. Trivial Connections on Discrete Surfaces. Computer Graphics Forum 29 5 (2010)."
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1111/cgf.13125",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "DAVID. 2018. DAVID 3D Scanner http://www.david-3d.com/.  DAVID. 2018. DAVID 3D Scanner http://www.david-3d.com/."
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "author": "Decaudin Philippe",
+                "year": "2006",
+                "volume-title": "Virtual Garments: A Fully Geometric Approach for Clothing Design. Computer Graphics Forum"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "unstructured": "Olga Diamanti Amir Vaxman Daniele Panozzo and Olga Sorkine-Hornung. 2014. Designing N-PolyVector Fields with Complex Polynomials. Computer Graphics Forum 33 5 (2014).   Olga Diamanti Amir Vaxman Daniele Panozzo and Olga Sorkine-Hornung. 2014. Designing N -PolyVector Fields with Complex Polynomials. Computer Graphics Forum 33 5 (2014).",
+                "DOI": "10.1111/cgf.12426",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/2661229.2661240",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/3072959.3073676",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/1276377.1276438",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "author": "Grinspun Eitan",
+                "year": "2003",
+                "volume-title": "Discrete Shells. In Proceedings of the 2003 ACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA '03)"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/566654.566589",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/2185520.2185531",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "unstructured": "Inc. Gurobi Optimization. 2016. Gurobi Optimizer Reference Manual. http://www.gurobi.com  Inc. Gurobi Optimization. 2016. Gurobi Optimizer Reference Manual. http://www.gurobi.com"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/344779.345074",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "unstructured": "Zhiyang Huang and Tao Ju. 2016. Extrinsically Smooth Direction Fields. Comput. Graph. 58 C (Aug. 2016) 109--117. 10.1016/j.cag.2016.05.015   Zhiyang Huang and Tao Ju. 2016. Extrinsically Smooth Direction Fields. Comput. Graph. 58 C (Aug. 2016) 109--117. 10.1016/j.cag.2016.05.015",
+                "DOI": "10.1016/j.cag.2016.05.015",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1111/j.1467-8659.2008.01318.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "author": "Igarashi Yuki",
+                "volume-title": "Eurographics 2008 - Short Papers"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/2816795.2818078",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/3072959.3073623",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/2766927",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "unstructured": "Felix K\u00e4lberer Matthias Nieser and Konrad Polthier. 2007. QuadCover - Surface Parameterization using Branched Coverings. Computer Graphics Forum 26 3 (2007).  Felix K\u00e4lberer Matthias Nieser and Konrad Polthier. 2007. QuadCover - Surface Parameterization using Branched Coverings. Computer Graphics Forum 26 3 (2007)."
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1145/1360612.1360664",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1145/1778765.1778842",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/882262.882275",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "unstructured": "Felix Kn\u00f6ppel Keenan Crane Ulrich Pinkall and Peter Schr\u00f6der. 2013. Globally optimal direction fields. ACM Trans. Graph. (2013). 10.1145/2461912.2462005   Felix Kn\u00f6ppel Keenan Crane Ulrich Pinkall and Peter Schr\u00f6der. 2013. Globally optimal direction fields. ACM Trans. Graph. (2013). 10.1145/2461912.2462005"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/2767000",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "unstructured": "Yu-Kun Lai Miao Jin Xuexiang Xie Ying He J. Palacios E. Zhang Shi-Min Hu and Xianfeng Gu. 2010. Metric-Driven RoSy Field Design and Remeshing. IEEE TVCG 16 1 (2010).   Yu-Kun Lai Miao Jin Xuexiang Xie Ying He J. Palacios E. Zhang Shi-Min Hu and Xianfeng Gu. 2010. Metric-Driven RoSy Field Design and Remeshing. IEEE TVCG 16 1 (2010).",
+                "DOI": "10.1109/TVCG.2009.59",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1016/j.proeng.2017.09.818",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1016/j.cad.2004.09.005",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "unstructured": "Martin Marinov and Leif Kobbelt. 2006. A Robust Two-Step Procedure for Quad-Dominant Remeshing. Computer Graphics Forum (2006).  Martin Marinov and Leif Kobbelt. 2006. A Robust Two-Step Procedure for Quad-Dominant Remeshing. Computer Graphics Forum (2006)."
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1145/2897824.2925940",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1111/1467-8659.00282",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1145/1276377.1276433",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "DOI": "10.1145/2601097.2601154",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "DOI": "10.1109/TVCG.2011.118",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "unstructured": "Olivier Nocent Jean-Michel Nourrit and Yannick Remion. 2001. Towards mechanical level of detail for knitwear simulation. In WSCG. 252--259.  Olivier Nocent Jean-Michel Nourrit and Yannick Remion. 2001. Towards mechanical level of detail for knitwear simulation. In WSCG. 252--259."
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "DOI": "10.1145/1276377.1276446",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "DOI": "10.1145/2601097.2601179",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "DOI": "10.1145/1015706.1015773",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "DOI": "10.1145/2766998",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "DOI": "10.1145/3072959.3073711",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_55_1",
+                "unstructured": "Nicolas Ray Wan Chiu Li Bruno L\u00e9vy Alla Sheffer and Pierre Alliez. 2006. Periodic global parameterization. ACM Trans. Graph. (2006). 10.1145/1183287.1183297   Nicolas Ray Wan Chiu Li Bruno L\u00e9vy Alla Sheffer and Pierre Alliez. 2006. Periodic global parameterization. ACM Trans. Graph. (2006). 10.1145/1183287.1183297"
+            },
+            {
+                "key": "e_1_2_2_56_1",
+                "DOI": "10.1145/1356682.1356683",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_57_1",
+                "DOI": "10.1016/j.cag.2011.03.002",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_58_1",
+                "DOI": "10.1145/2930662",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_59_1",
+                "author": "Turquin Emmanuel",
+                "volume-title": "Proceedings of the First Eurographics Conference on Sketch-Based Interfaces and Modeling (SBM'04)"
+            },
+            {
+                "key": "e_1_2_2_60_1",
+                "unstructured": "Ultimaker. 2018. Ultimaker 3. https://ultimaker.com/en/products/ultimaker-3.  Ultimaker. 2018. Ultimaker 3. https://ultimaker.com/en/products/ultimaker-3."
+            },
+            {
+                "key": "e_1_2_2_61_1",
+                "DOI": "10.1145/2010324.1964985",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_62_1",
+                "unstructured": "Amir Vaxman Marcel Campen Olga Diamanti Daniele Panozzo David Bommes Klaus Hildebrandt and Mirela Ben-Chen. 2016. Directional Field Synthesis Design and Processing. Computer Graphics Forum (2016).  Amir Vaxman Marcel Campen Olga Diamanti Daniele Panozzo David Bommes Klaus Hildebrandt and Mirela Ben-Chen. 2016. Directional Field Synthesis Design and Processing. Computer Graphics Forum (2016).",
+                "DOI": "10.1145/2988458.2988478",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_63_1",
+                "DOI": "10.1080/16864360.2005.10738329",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_64_1",
+                "DOI": "10.1145/1559755.1559762",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_65_1",
+                "DOI": "10.1016/S0010-4485(02)00091-X",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_66_1",
+                "DOI": "10.1145/2897824.2925966",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_67_1",
+                "DOI": "10.1145/2185520.2185533",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_68_1",
+                "DOI": "10.1145/2897824.2925888",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_69_1",
+                "DOI": "10.1111/cgf.12215",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201360&ftid=1991686&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:32:40Z",
+            "timestamp": 1585960360000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 69,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201360"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201360",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

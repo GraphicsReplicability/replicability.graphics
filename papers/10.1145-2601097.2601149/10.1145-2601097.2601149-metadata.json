@@ -1,0 +1,511 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:11:22Z",
+            "timestamp": 1586002282068
+        },
+        "reference-count": 60,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100000038",
+                "name": "Natural Sciences and Engineering Research Council of Canada",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100000143",
+                "name": "Division of Computing and Communication Foundations",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "CCF-1011944"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100000161",
+                "name": "Networks of Centres of Excellence of Canada",
+                "doi-asserted-by": "publisher",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601149",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 3,
+        "title": [
+            "A constructive theory of sampling for image synthesis using reproducing Kernel bases"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Christian",
+                "family": "Lessig",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of Toronto"
+                    }
+                ]
+            },
+            {
+                "given": "Mathieu",
+                "family": "Desbrun",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Caltech"
+                    }
+                ]
+            },
+            {
+                "given": "Eugene",
+                "family": "Fiume",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Toronto"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1090/S0002-9947-1950-0051437-7",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/192161.192179",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "unstructured": "Arvo J. 1995. Analytic Methods for Simulated Light Transport. Ph.d. thesis Yale University.   Arvo J. 1995. Analytic Methods for Simulated Light Transport . Ph.d. thesis Yale University."
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/1384429.1384456",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "Basu K. and Owen A. B. 2014. Low discrepancy constructions in the triangle.  Basu K. and Owen A. B. 2014. Low discrepancy constructions in the triangle."
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1017/S0962492904000182",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/226150.226153",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/237748.237749",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/1073204.1073328",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/964965.808590",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/7529.8927",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "unstructured": "Daubechies I. 1992. Ten Lectures on Wavelets. Society for Industrial and Applied Mathematics Philadelphia PA USA.   Daubechies I. 1992. Ten Lectures on Wavelets . Society for Industrial and Applied Mathematics Philadelphia PA USA.",
+                "DOI": "10.1137/1.9781611970104",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/2077341.2077351",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Dick J. and Pillichshammer F. 2010. Digital Nets and Sequences: Discrepancy Theory and Quasi-Monte Carlo Integration. Cambridge University Press.   Dick J. and Pillichshammer F. 2010. Digital Nets and Sequences: Discrepancy Theory and Quasi-Monte Carlo Integration . Cambridge University Press.",
+                "DOI": "10.1017/CBO9780511761188",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "unstructured": "Donoho D. and Stodden V. 2004. Does Non-Negative Matrix Factorization Give a Correct Decomposition into Parts? In Advances in Neural Information Processing Systems 16 MIT Press Cambridge MA S. Thrun L. Saul and B. Sch\u00f6lkopf Eds.  Donoho D. and Stodden V. 2004. Does Non-Negative Matrix Factorization Give a Correct Decomposition into Parts? In Advances in Neural Information Processing Systems 16 MIT Press Cambridge MA S. Thrun L. Saul and B. Sch\u00f6lkopf Eds."
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "author": "Donoho D. L.",
+                "volume-title": "Mathematical Challenges of the 21st Century"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "first-page": "897",
+                "article-title": "On Electrical Circuits for the Approximate Solution of the Laplace Equation",
+                "volume": "19",
+                "author": "Galerkin B. G.",
+                "year": "1915",
+                "journal-title": "Vestnik Inzh."
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/964965.808601",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/166117.166146",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1109/38.656788",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "Heckbert P. and Winget J. M. 1991. Finite Element Methods for Global Illumination. Technical Report UCB/CSD 91/643 University of California at Berkeley Berkeley CA.   Heckbert P. and Winget J. M. 1991. Finite Element Methods for Global Illumination. Technical Report UCB/CSD 91/643 University of California at Berkeley Berkeley CA."
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/2461912.2461968",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1016/0097-8493(94)00145-O",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/1073204.1073219",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "unstructured": "Jensen H. W. 2001. Realistic Image Synthesis using Photon Mapping. A. K. Peters Ltd. Natick MA USA.   Jensen H. W. 2001. Realistic Image Synthesis using Photon Mapping . A. K. Peters Ltd. Natick MA USA.",
+                "DOI": "10.1201/b10685",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/800031.808594",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/15886.15902",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "unstructured": "Keller A. 2006. Myths of Computer Graphics. Springer 217--243.  Keller A. 2006. Myths of Computer Graphics . Springer 217--243.",
+                "DOI": "10.1007/3-540-31186-6_14",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/1289603.1289604",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1111/j.1467-8659.2010.01736.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1016/j.jcp.2011.09.014",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "unstructured": "Lessig C. 2012. Modern Foundations of Light Transport Simulation. Ph.d. thesis University of Toronto Toronto.   Lessig C. 2012. Modern Foundations of Light Transport Simulation . Ph.d. thesis University of Toronto Toronto."
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1111/j.1467-8659.2008.01251.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "unstructured": "Mallat S. G. 2009. A Wavelet Tour of Signal Processing: The Sparse Way third ed. Academic Press.   Mallat S. G. 2009. A Wavelet Tour of Signal Processing: The Sparse Way third ed. Academic Press."
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1145/37401.37410",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1145/127719.122736",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1007/BF02570568",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.5555/2636719",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "unstructured": "Niederreiter H. 1992. Random Number Generation and Quasi-Monte Carlo Methods. SIAM Philadelphia PA USA.   Niederreiter H. 1992. Random Number Generation and Quasi-Monte Carlo Methods . SIAM Philadelphia PA USA.",
+                "DOI": "10.1137/1.9781611970081",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "author": "Nishita T.",
+                "volume": "63",
+                "volume-title": "1984 Annual Conference of the Japanese Illumination Engineering Society"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "unstructured": "Novak E. and \n      \n      \n      Wo\u017aniakowski H\n      \n  \n  . \n  2010\n  . Tractability of Multivariate Problems: \n  Standard Information\n   for Functionals vol. \n  II\n   of \n  EMS Tracts in Mathematics\n  . \n  European Mathematical Society Publishing House\n  .  Novak E. and Wo\u017aniakowski H. 2010. Tractability of Multivariate Problems: Standard Information for Functionals vol. II of EMS Tracts in Mathematics . European Mathematical Society Publishing House.",
+                "DOI": "10.4171/084",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1145/166117.166142",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "first-page": "3",
+                "article-title": "Application of the Method of Galerkin to a Problem Involving the Stationary Flow of a Viscous Fluid",
+                "volume": "4",
+                "author": "Petrov G. I.",
+                "year": "1940",
+                "journal-title": "Prikl. Matem. Mekh."
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "unstructured": "Pharr M. and Humphreys G. 2010. Physically Based Rendering: From Theory to Implementation second ed. Morgan Kaufmann Publishers Inc. San Francisco CA USA.   Pharr M. and Humphreys G. 2010. Physically Based Rendering: From Theory to Implementation second ed. Morgan Kaufmann Publishers Inc. San Francisco CA USA."
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1088/1751-8113/40/7/011",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1007/BF03024331",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "author": "Schr\u00f6der P.",
+                "volume-title": "Wavelet Projections for Radiosity. In Fourth Eurographics Workshop on Rendering, 105--114"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "author": "Shirley P.",
+                "volume-title": "Proceedings of 6th Workshop on Rendering, Springer, 219--230"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "author": "Shirley P.",
+                "year": "1991",
+                "volume-title": "Proceedings of Eurographics"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "DOI": "10.1145/122718.122739",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "unstructured": "Simons F. J. 2010. Slepian Functions and Their Use in Signal Estimation and Spectral Analysis. In Handbook of Geomathematics W. Freeden Z. M. Nashed and T. Sonar Eds.  Simons F. J. 2010. Slepian Functions and Their Use in Signal Estimation and Spectral Analysis. In Handbook of Geomathematics W. Freeden Z. M. Nashed and T. Sonar Eds.",
+                "DOI": "10.1007/978-3-642-01546-5_30",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "DOI": "10.1145/566570.566612",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "unstructured": "Traub J. F. and Werschulz A. G. 1999. Complexity and Information. Cambridge University Press New York NY USA.   Traub J. F. and Werschulz A. G. 1999. Complexity and Information . Cambridge University Press New York NY USA."
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "author": "Trenogin V. A.",
+                "volume-title": "Encyclopedia of Mathematics"
+            },
+            {
+                "key": "e_1_2_2_55_1",
+                "DOI": "10.1145/258734.258775",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_56_1",
+                "unstructured": "Veach E. 1997. Robust Monte Carlo Methods for Light Transport Simulation. Ph.d. thesis Stanford University.   Veach E. 1997. Robust Monte Carlo Methods for Light Transport Simulation . Ph.d. thesis Stanford University."
+            },
+            {
+                "key": "e_1_2_2_57_1",
+                "DOI": "10.1145/256157.256158",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_58_1",
+                "DOI": "10.1145/133994.134075",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_59_1",
+                "DOI": "10.1145/166117.166145",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_60_1",
+                "DOI": "10.1145/279232.279236",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601149&amp;ftid=1488863&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:55:51Z",
+            "timestamp": 1586001351000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 60,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601149"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601149",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

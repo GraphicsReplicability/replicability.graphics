@@ -1,0 +1,423 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:54Z",
+            "timestamp": 1585962714843
+        },
+        "reference-count": 48,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201339",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 4,
+        "title": [
+            "Parametric directional coding for precomputed sound propagation"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Nikunj",
+                "family": "Raghuvanshi",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research"
+                    }
+                ]
+            },
+            {
+                "given": "John",
+                "family": "Snyder",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1109/TVCG.2011.76",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "author": "Bilinski P.",
+                "volume-title": "2014 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Florence. 4468--4472"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "author": "Blauert J.",
+                "volume-title": "Binaural and Spatial Hearing in Real and Virtual Environments"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "author": "Breebaart Jeroen",
+                "year": "2005",
+                "volume-title": "MPEG Spatial Audio Coding / MPEG Surround: Overview and Current Status. In Audio Engineering Society Convention 119"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "Chunxiao Cao Zhong Ren Carl Schissler Dinesh Manocha and Kun Zhou. 2016. Interactive Sound Propagation with Bidirectional Path Tracing to appear. ACM Transactions on Graphics (SIGGRAPH Asia 2016) (2016). 10.1145/2980179.2982431   Chunxiao Cao Zhong Ren Carl Schissler Dinesh Manocha and Kun Zhou. 2016. Interactive Sound Propagation with Bidirectional Path Tracing to appear. ACM Transactions on Graphics (SIGGRAPH Asia 2016) (2016). 10.1145/2980179.2982431"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/1661412.1618465",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1109/TVCG.2008.111",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "author": "Embrechts Jean-Jacques",
+                "year": "2016",
+                "volume-title": "Proceedings of CFA 2016"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "Kenji Fujii Takuya Hotehama Kosuke Kato Ryota Shimokura Yosuke Okamoto Yukio Suzumura and Yoichi Ando. 2004. Spatial Distribution of Acoustical Parameters in Concert Halls: Comparison of Different Scattered Reflections. 4 (01 2004).  Kenji Fujii Takuya Hotehama Kosuke Kato Ryota Shimokura Yosuke Okamoto Yukio Suzumura and Yoichi Ando. 2004. Spatial Distribution of Acoustical Parameters in Concert Halls: Comparison of Different Scattered Reflections. 4 (01 2004)."
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "Anders Gade. 2007. Acoustics in Halls for Speech and Music. In Springer Handbook of Acoustics (2007 ed.) Thomas Rossing (Ed.). Springer Chapter 9. http://www.worldcat.org/isbn/0387304460  Anders Gade. 2007. Acoustics in Halls for Speech and Music. In Springer Handbook of Acoustics (2007 ed.) Thomas Rossing (Ed.). Springer Chapter 9. http://www.worldcat.org/isbn/0387304460"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "first-page": "2",
+                "article-title": "Periphony",
+                "volume": "21",
+                "author": "Gerzon Michael A.",
+                "year": "1973",
+                "journal-title": "With-Height Sound Reproduction. J. Audio Eng. Soc"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "unstructured": "Nail A. Gumerov and Ramani Duraiswami. 2005. Fast Multipole Methods for the Helmholtz Equation in Three Dimensions (Elsevier Series in Electromagnetism) (1 ed.). Elsevier Science http://www.worldcat.org/isbn/0080443710  Nail A. Gumerov and Ramani Duraiswami. 2005. Fast Multipole Methods for the Helmholtz Equation in Three Dimensions (Elsevier Series in Electromagnetism) (1 ed.). Elsevier Science http://www.worldcat.org/isbn/0080443710"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1109/TASLP.2017.2744799",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.17743/jaes.2014.0049",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/1141911.1141983",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "Heinrich Kuttruff. 2000. Room Acoustics (4 ed.). Taylor & Francis. http://www.worldcat.org/isbn/0419245804  Heinrich Kuttruff. 2000. Room Acoustics (4 ed.). Taylor & Francis. http://www.worldcat.org/isbn/0419245804"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/2207216.2207219",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/2820612",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1121/1.427914",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/2451236.2451245",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1016/j.apacoust.2011.05.012",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "author": "Mehra Ravish",
+                "year": "2015",
+                "volume-title": "WAVE: Interactive Wave-based Sound Propagation for Virtual Environments"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "first-page": "1115",
+                "article-title": "Spatial Impulse Response Rendering I",
+                "volume": "53",
+                "author": "Merimaa Juha",
+                "year": "2005",
+                "journal-title": "Analysis and Synthesis. J. Audio Eng. Soc"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "Brian Moore and Brian Glasberg. 1996. A Revision of Zwicker's Loudness Model. 82 (03 1996) 335--345.  Brian Moore and Brian Glasberg. 1996. A Revision of Zwicker's Loudness Model. 82 (03 1996) 335--345."
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1109/MSP.2007.323264",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.17743/jaes.2017.0039",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "author": "Pierce Allan D.",
+                "year": "1989",
+                "volume-title": "Acoustics: An Introduction to Its Physical Principles and Applications"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "unstructured": "Boaz Rafaely 2015. Fundamentals of Spherical Array Processing (Springer Topics in Signal Processing) (2015 ed.). Springer http://www.worldcat.org/isbn/9783662456644  Boaz Rafaely 2015. Fundamentals of Spherical Array Processing (Springer Topics in Signal Processing) (2015 ed.). Springer http://www.worldcat.org/isbn/9783662456644",
+                "DOI": "10.1007/978-3-662-45664-4",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1109/TVCG.2009.27",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1109/TVCG.2009.27",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/2601097.2601184",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/1778765.1778805",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "unstructured": "Jens H. Rindel and Claus L. Christensen. 2013. The use of colors animations and auralizations in room acoustics. In Internoise 2013.  Jens H. Rindel and Claus L. Christensen. 2013. The use of colors animations and auralizations in room acoustics. In Internoise 2013."
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1121/1.4926438",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1145/2601097.2601216",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "unstructured": "Dirk Schr\u00f6der. 2011. Physically Based Real-Time Auralization of Interactive Virtual Environments. Logos Verlag http://www.worldcat.org/isbn/3832530312  Dirk Schr\u00f6der. 2011. Physically Based Real-Time Auralization of Interactive Virtual Environments. Logos Verlag http://www.worldcat.org/isbn/3832530312"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1109/TASLP.2015.2468066",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "author": "Siltanen S.",
+                "volume-title": "Proc. Int. Symposium on Room Acoustics"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "author": "Siltanen Samuel",
+                "year": "2010",
+                "volume-title": "Proc. ISRA Melbourne"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "unstructured": "Julius O. III Smith. 2007. Introduction to Digital Filters with Audio Applications. (2007). https://ccrma.stanford.edu/~jos/filters/  Julius O. III Smith. 2007. Introduction to Digital Filters with Audio Applications. (2007). https://ccrma.stanford.edu/~jos/filters/"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1109/TASL.2012.2203806",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1145/1631272.1631311",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "first-page": "17",
+                "article-title": "Spatial Decomposition Method for Room Impulse Responses",
+                "volume": "61",
+                "author": "Tervo Sakari",
+                "year": "2013",
+                "journal-title": "J. Audio Eng. Soc"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "author": "Tsingos Nicolas",
+                "year": "2009",
+                "volume-title": "35th AES Conference on Audio for Games."
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "author": "Tsingos Nicolas",
+                "year": "2007",
+                "volume-title": "Instant Sound Scattering. In Rendering Techniques (Proceedings of the Eurographics Symposium on Rendering). http://www-sop.inria.fr/reves/Basilic/2007/TDLD07"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "author": "Vorl\u00e4nder Michael",
+                "year": "2007",
+                "volume-title": "Auralization: Fundamentals of Acoustics, Modelling, Simulation, Algorithms and Acoustic Virtual Reality (RWTHedition) (1 ed.)"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "DOI": "10.1145/2508363.2508420",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "DOI": "10.1121/1.3336399",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201339&ftid=1991630&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:52:24Z",
+            "timestamp": 1585961544000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 48,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201339"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201339",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

@@ -1,0 +1,429 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:55Z",
+            "timestamp": 1585962715726
+        },
+        "reference-count": 40,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100008982",
+                "name": "National Science Foundation of Sri Lanka",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "CHS-1422441, CHS-1617333"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201292",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-10",
+        "source": "Crossref",
+        "is-referenced-by-count": 6,
+        "title": [
+            "Visemenet"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Yang",
+                "family": "Zhou",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of Massachusetts Amherst"
+                    }
+                ]
+            },
+            {
+                "given": "Zhan",
+                "family": "Xu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Massachusetts Amherst"
+                    }
+                ]
+            },
+            {
+                "given": "Chris",
+                "family": "Landreth",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Toronto"
+                    }
+                ]
+            },
+            {
+                "given": "Evangelos",
+                "family": "Kalogerakis",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Massachusetts Amherst"
+                    }
+                ]
+            },
+            {
+                "given": "Subhransu",
+                "family": "Maji",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Massachusetts Amherst"
+                    }
+                ]
+            },
+            {
+                "given": "Karan",
+                "family": "Singh",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Toronto"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1109/CVPR.2013.434",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1016/S0167-6393(97)00025-3",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "unstructured": "G\u00e9rard Bailly Pascal Perrier and Eric Vatikiotis-Bateson. 2012. Audiovisual Speech Processing. Cambridge University Press.  G\u00e9rard Bailly Pascal Perrier and Eric Vatikiotis-Bateson. 2012. Audiovisual Speech Processing. Cambridge University Press.",
+                "DOI": "10.1017/CBO9780511843891",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/258734.258880",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "author": "Busso Carlos",
+                "volume-title": "Proc. InterSpeech."
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "unstructured": "Rich Caruana. 1997. Multi-task Learning. Machine Learning 28 1 (1997). 10.1023/A:1007379606734   Rich Caruana. 1997. Multi-task Learning. Machine Learning 28 1 (1997). 10.1023/A:1007379606734",
+                "DOI": "10.1023/A:1007379606734",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "author": "Cho Kyunghyun",
+                "volume-title": "Proc. EMNLP."
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "Michael M Cohen and Dominic W Massaro. 1993. Modeling Coarticulation in Synthetic Visual Speech. Models and Techniques in Computer Animation 92 (1993).  Michael M Cohen and Dominic W Massaro. 1993. Modeling Coarticulation in Synthetic Visual Speech. Models and Techniques in Computer Animation 92 (1993)."
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1121/1.2229005",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1109/TASSP.1980.1163420",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/2897824.2925984",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "unstructured": "Paul Ekman and Wallace V. Friesen. 1978. Facial Action Coding System: A Technique for the Measurement of Facial Movement. Consulting Psychologists Press.  Paul Ekman and Wallace V. Friesen. 1978. Facial Action Coding System: A Technique for the Measurement of Facial Movement. Consulting Psychologists Press.",
+                "DOI": "10.1037/t27734-000",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/566570.566594",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Faceware. 2017. Analyzer. http://facewaretech.com/products/software/analyzer. (2017).  Faceware. 2017. Analyzer. http://facewaretech.com/products/software/analyzer. (2017)."
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1109/TMM.2010.2052239",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "author": "Fisher Cletus G",
+                "volume": "11",
+                "year": "1968",
+                "article-title": "Confusions among visually perceived consonants",
+                "journal-title": "J. Speech, Language, and Hearing Research"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1177/1754073912451350",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "unstructured": "Google. 2017. Google Cloud Voice. https://cloud.google.com/speech. (2017).  Google. 2017. Google Cloud Voice. https://cloud.google.com/speech. (2017)."
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "author": "Graves Alex",
+                "year": "2014",
+                "volume-title": "Proc. ICML."
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "Alex Graves and J\u00fcrgen Schmidhuber. 2005. Framewise phoneme classification with bidirectional LSTM and other neural network architectures. Neural Networks 18 5 (2005). 10.1016/j.neunet.2005.06.042   Alex Graves and J\u00fcrgen Schmidhuber. 2005. Framewise phoneme classification with bidirectional LSTM and other neural network architectures. Neural Networks 18 5 (2005). 10.1016/j.neunet.2005.06.042"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "author": "Haq S.",
+                "year": "2009",
+                "volume-title": "Proc. AVSP."
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "unstructured": "Sepp Hochreiter and J\u00fcrgen Schmidhuber. 1997. Long short-term memory. Neural computation 9 8 (1997). 10.1162/neco.1997.9.8.1735   Sepp Hochreiter and J\u00fcrgen Schmidhuber. 1997. Long short-term memory. Neural computation 9 8 (1997). 10.1162/neco.1997.9.8.1735"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/3130800.31310887",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "Phillip Isola Jun-Yan Zhu Tinghui Zhou and Alexei A Efros. 2016. Image-to-image Translation with Conditional Adversarial Networks. arxiv abs/1611.07004 (2016).  Phillip Isola Jun-Yan Zhu Tinghui Zhou and Alexei A Efros. 2016. Image-to-image Translation with Conditional Adversarial Networks. arxiv abs/1611.07004 (2016)."
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/3072959.3073658",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "author": "King Davis E.",
+                "year": "2009",
+                "article-title": "Dlib-ml: A Machine Learning Toolkit",
+                "journal-title": "J. of Machine Learning Research 10"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/2461912.2462019",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1037/h0044417",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "Karl F. MacDorman Robert D. Green Chin-Chang Ho and Clinton T Koch. 2009. Too real for comfort? Uncanny responses to computer generated faces. Computers in Human Behavior 25 3 (2009). 10.1016/j.chb.2008.12.026   Karl F. MacDorman Robert D. Green Chin-Chang Ho and Clinton T Koch. 2009. Too real for comfort? Uncanny responses to computer generated faces. Computers in Human Behavior 25 3 (2009). 10.1016/j.chb.2008.12.026",
+                "DOI": "10.1016/j.chb.2008.12.026",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.21437/Interspeech.2017-1386",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "unstructured": "Christopher Olah. 2015. Understanding LSTM Networks. http://colah.github.io/posts/2015-08-Understanding-LSTMs. (2015).  Christopher Olah. 2015. Understanding LSTM Networks. http://colah.github.io/posts/2015-08-Understanding-LSTMs. (2015)."
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1109/ICASSP.1998.675340",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/3072959.3073674",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/3072959.3073640",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1145/3072959.3073699",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "author": "Taylor Sarah L.",
+                "year": "2012",
+                "volume-title": "Proc. SCA."
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1109/ICASSP.2012.6288925",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "author": "Wang Wenwu",
+                "year": "2010",
+                "volume-title": "Machine Audition: Principles, Algorithms and Systems: Principles, Algorithms and Systems. IGI Global."
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/2010324.1964972",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1145/97879.97906",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201292&ftid=1991618&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:53:26Z",
+            "timestamp": 1585961606000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "audio-driven animator-centric speech animation"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 40,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201292"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201292",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

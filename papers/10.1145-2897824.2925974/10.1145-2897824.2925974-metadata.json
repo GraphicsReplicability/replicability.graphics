@@ -1,0 +1,388 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T02:11:28Z",
+            "timestamp": 1585966288138
+        },
+        "reference-count": 41,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925974",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 162,
+        "title": [
+            "Let there be color!"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Satoshi",
+                "family": "Iizuka",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Waseda University"
+                    }
+                ]
+            },
+            {
+                "given": "Edgar",
+                "family": "Simo-Serra",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Waseda University"
+                    }
+                ]
+            },
+            {
+                "given": "Hiroshi",
+                "family": "Ishikawa",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Waseda University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/1360612.1360639",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/2766959",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "unstructured": "Bromley J. Guyon I. Lecun Y. S\u00e4ckinger E. and Shah R. 1994. Signature verification using a \"siamese\" time delay neural network. In NIPS.  Bromley J. Guyon I. Lecun Y. S\u00e4ckinger E. and Shah R. 1994. Signature verification using a \"siamese\" time delay neural network. In NIPS .",
+                "DOI": "10.1142/9789812797926_0003",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "Charpiat G. Hofmann M. and Sch\u00f6lkopf B. 2008. Automatic image colorization via multimodal predictions. In ECCV. 10.1007/978-3-540-88690-7_10   Charpiat G. Hofmann M. and Sch\u00f6lkopf B. 2008. Automatic image colorization via multimodal predictions. In ECCV . 10.1007/978-3-540-88690-7_10"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/2366145.2366151",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1109/ICCV.2015.55",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/2070781.2024190",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1109/TPAMI.2015.2439281",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "Eigen D. and Fergus R. 2015. Predicting depth surface normals and semantic labels with a common multi-scale convolutional architecture. In ICCV. 10.1109/ICCV.2015.304   Eigen D. and Fergus R. 2015. Predicting depth surface normals and semantic labels with a common multi-scale convolutional architecture. In ICCV . 10.1109/ICCV.2015.304",
+                "DOI": "10.1109/ICCV.2015.304",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "author": "Fischer P.",
+                "year": "2015",
+                "volume-title": "Flownet: Learning optical flow with convolutional networks."
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "author": "Fukushima K.",
+                "year": "1988",
+                "volume-title": "Neocognitron: A hierarchical neural network capable of visual pattern recognition. Neural networks 1, 2, 119--130."
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/2393347.2393402",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/1101149.1101223",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Ioffe S. and Szegedy C. 2015. Batch normalization: Accelerating deep network training by reducing internal covariate shift. In ICML.  Ioffe S. and Szegedy C. 2015. Batch normalization: Accelerating deep network training by reducing internal covariate shift. In ICML ."
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.5555/2383654.2383683",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "Krizhevsky A. Sutskever I. and Hinton G. E. 2012. Imagenet classification with deep convolutional neural networks. In NIPS.  Krizhevsky A. Sutskever I. and Hinton G. E. 2012. Imagenet classification with deep convolutional neural networks. In NIPS ."
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1109/5.726791",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/1015706.1015780",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1111/j.1467-8659.2010.01791.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "Liu X. Wan L. Qu Y. Wong T.-T. Lin S. Leung C.-S. and Heng P.-A. 2008. Intrinsic colorization. ACM Transactions on Graphics (SIGGRAPH Asia 2008 issue) 27 5 (December) 152:1--152:9. 10.1145/1409060.1409105   Liu X. Wan L. Qu Y. Wong T.-T. Lin S. Leung C.-S. and Heng P.-A. 2008. Intrinsic colorization. ACM Transactions on Graphics (SIGGRAPH Asia 2008 issue) 27 5 (December) 152:1--152:9. 10.1145/1409060.1409105",
+                "DOI": "10.1145/1409060.1409105",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "Long J. Shelhamer E. and Darrell T. 2015. Fully convolutional networks for semantic segmentation. In CVPR.  Long J. Shelhamer E. and Darrell T. 2015. Fully convolutional networks for semantic segmentation. In CVPR .",
+                "DOI": "10.1109/CVPR.2015.7298965",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.5555/2383847.2383887",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1016/j.cviu.2006.11.011",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/1141911.1142017",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1109/38.946629",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "unstructured": "Rumelhart D. Hinton G. and Williams R. 1986. Learning representations by back-propagating errors. In Nature.  Rumelhart D. Hinton G. and Williams R. 1986. Learning representations by back-propagating errors. In Nature .",
+                "DOI": "10.1038/323533a0",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "author": "Shen W.",
+                "year": "2015",
+                "volume-title": "Deepcontour: A deep convolutional feature learned by positive-sharing loss for contour detection. In CVPR."
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "unstructured": "Simonyan K. and Zisserman A. 2015. Very deep convolutional networks for large-scale image recognition. In ICLR.  Simonyan K. and Zisserman A. 2015. Very deep convolutional networks for large-scale image recognition. In ICLR ."
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "author": "Springenberg J. T.",
+                "volume-title": "ICLR Workshop Track."
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1111/j.1467-8659.2009.01400.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "unstructured": "Tai Y. Jia J. and Tang C. 2005. Local color transfer via probabilistic segmentation by expectation-maximization. In CVPR 747--754. 10.1109/CVPR.2005.215   Tai Y. Jia J. and Tang C. 2005. Local color transfer via probabilistic segmentation by expectation-maximization. In CVPR 747--754. 10.1109/CVPR.2005.215"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "unstructured": "Wang L. Guo S. Huang W. and Qiao Y. 2015. Places205-vggnet models for scene recognition. CoRR abs/1508.01667.  Wang L. Guo S. Huang W. and Qiao Y. 2015. Places205-vggnet models for scene recognition. CoRR abs/1508.01667."
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "unstructured": "Wang L. Lee C. Tu Z. and Lazebnik S. 2015. Training deeper convolutional networks with deep supervision. CoRR abs/1505.02496.  Wang L. Lee C. Tu Z. and Lazebnik S. 2015. Training deeper convolutional networks with deep supervision. CoRR abs/1505.02496."
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "unstructured": "Wang X. Fouhey D. F. and Gupta A. 2015. Designing deep networks for surface normal estimation. In CVPR.  Wang X. Fouhey D. F. and Gupta A. 2015. Designing deep networks for surface normal estimation. In CVPR .",
+                "DOI": "10.1109/CVPR.2015.7298652",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1145/566654.566576",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1111/cgf.12008",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/1618452.1618464",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1145/2508363.2508404",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1109/TIP.2005.864231",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "unstructured": "Zeiler M. D. 2012. ADADELTA: an adaptive learning rate method. CoRR abs/1212.5701.  Zeiler M. D. 2012. ADADELTA: an adaptive learning rate method. CoRR abs/1212.5701."
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "unstructured": "Zhou B. Lapedriza A. Xiao J. Torralba A. and Oliva A. 2014. Learning deep features for scene recognition using places database. In NIPS.   Zhou B. Lapedriza A. Xiao J. Torralba A. and Oliva A. 2014. Learning deep features for scene recognition using places database. In NIPS ."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925974&amp;ftid=1755900&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:31:29Z",
+            "timestamp": 1585963889000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "joint end-to-end learning of global and local image priors for automatic image colorization with simultaneous classification"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 41,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925974"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925974",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

@@ -1,0 +1,598 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T02:11:27Z",
+            "timestamp": 1585966287275
+        },
+        "reference-count": 68,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100001809",
+                "name": "National Natural Science Foundation of China",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "No. 61272305"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100010707",
+                "name": "Digital Manufacturing and Design Centre, Singapore University of Technology and Design",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "(N.A.)"
+                ]
+            },
+            {
+                "DOI": "10.13039/100012005",
+                "name": "University of Massachusetts Boston",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "(N.A.)"
+                ]
+            },
+            {
+                "name": "SUTD-MIT International Design Center Grant",
+                "award": [
+                    "IDG31300106"
+                ]
+            },
+            {
+                "name": "UMass Boston StartUp Grant",
+                "award": [
+                    "P20150000029280"
+                ]
+            },
+            {
+                "name": "Singapore MOE Academic Research Fund",
+                "award": [
+                    "MOE2013-T2-1-159"
+                ]
+            },
+            {
+                "name": "The National Research Foundation, Prime Minister's Office, Singapore under its IDM Futures Funding Initiative",
+                "award": [
+                    "(N.A.)"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925894",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 21,
+        "title": [
+            "Crowd-driven mid-scale layout design"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Tian",
+                "family": "Feng",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Singapore University of Technology and Design"
+                    }
+                ]
+            },
+            {
+                "given": "Lap-Fai",
+                "family": "Yu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Massachusetts Boston"
+                    }
+                ]
+            },
+            {
+                "given": "Sai-Kit",
+                "family": "Yeung",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Singapore University of Technology and Design"
+                    }
+                ]
+            },
+            {
+                "given": "KangKang",
+                "family": "Yin",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "National University of Singapore"
+                    }
+                ]
+            },
+            {
+                "given": "Kun",
+                "family": "Zhou",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Zhejiang University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "AlHalawani S. and Mitra N. J. 2015. Congestion-aware warehouse flow analysis and optimization. In Advances in Visual Computing. Springer 702--711.  AlHalawani S. and Mitra N. J. 2015. Congestion-aware warehouse flow analysis and optimization. In Advances in Visual Computing . Springer 702--711.",
+                "DOI": "10.1007/978-3-319-27863-6_66",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1111/cgf.12441",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "unstructured": "Ali W. and \n      \n      \n      Moulin B\n      \n  \n  . \n  2005\n  . 2d-3d multiagent geosimulation with knowledge-based agents of customers' shopping behavior in a shopping mall. In Spatial Information Theory A.\n   Cohn and D. Mark Eds. vol. \n  3693\n   of \n  Lecture Notes in Computer Science\n  . \n  Springer Berlin Heidelberg 445--458. 10.1007/11556114_28   Ali W. and Moulin B. 2005. 2d-3d multiagent geosimulation with knowledge-based agents of customers' shopping behavior in a shopping mall. In Spatial Information Theory A. Cohn and D. Mark Eds. vol. 3693 of Lecture Notes in Computer Science. Springer Berlin Heidelberg 445--458. 10.1007/11556114_28",
+                "DOI": "10.1007/11556114_28",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/1409060.1409113",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "author": "Aliaga D. G.",
+                "year": "2012",
+                "volume-title": "International Scholarly Research Notices"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "unstructured": "Aschwanden G. D. Haegler S. Bosch\u00e9 F. N. Van Gool L. and Schmitt G. 2011. Empiric design evaluation in urban planning. Automation in construction 20 3 (May) 299--310.  Aschwanden G. D. Haegler S. Bosch\u00e9 F. N. Van Gool L. and Schmitt G. 2011. Empiric design evaluation in urban planning. Automation in construction 20 3 (May) 299--310.",
+                "DOI": "10.1016/j.autcon.2010.10.007",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/2461912.2461977",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1111/cgf.12283",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1016/0022-4359(94)90026-4",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "first-page": "189",
+                "article-title": "Design and value: Spatial form and the economic failure of a mall",
+                "volume": "17",
+                "author": "Brown M. G.",
+                "year": "1999",
+                "journal-title": "Journal of Real Estate Research"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "first-page": "25",
+                "article-title": "A formal approach to test commercial strategies: Comparative study using multiagent based techniques",
+                "volume": "3",
+                "author": "Castillo L. F.",
+                "year": "2009",
+                "journal-title": "Journal of Physical Agents"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/1360612.1360702",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "Clave S. A. 2007. The Global Theme Park Industry. CABI.  Clave S. A. 2007. The Global Theme Park Industry . CABI.",
+                "DOI": "10.1079/9781845932084.0000",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "D. Beyard M. Corrigan M. B. Kramer A. Pawlukiewicz M. and Bach A. 2006. Ten Principles of Rethinking the Mall. Urban Land Institute.  D. Beyard M. Corrigan M. B. Kramer A. Pawlukiewicz M. and Bach A. 2006. Ten Principles of Rethinking the Mall. Urban Land Institute."
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "unstructured": "ESRI 2016. ArcGIS. http://arcgis.com. Accessed: 01-01-2016.  ESRI 2016. ArcGIS. http://arcgis.com. Accessed: 01-01-2016."
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1016/S0379-7112(02)00058-9",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/2816795.2818057",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1111/j.1467-8659.2009.01612.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1111/j.1467-8659.2011.02055.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/358800.358804",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "Gloor C. 2016. Pedsim. http://pedsim.silmaril.org. Accessed: 01-01-2016.  Gloor C. 2016. Pedsim. http://pedsim.silmaril.org. Accessed: 01-01-2016."
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/2366145.2366209",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "Hall E. T. 1990. The Hidden Dimension. A Doubleday anchor book. Anchor Books.  Hall E. T. 1990. The Hidden Dimension . A Doubleday anchor book. Anchor Books."
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/218380.218443",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1093/biomet/57.1.97",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "unstructured": "Helbing D. and Molnar P. 1995. Social force model for pedestrian dynamics. Physical review E 51 5 4282.  Helbing D. and Molnar P. 1995. Social force model for pedestrian dynamics. Physical review E 51 5 4282.",
+                "DOI": "10.1103/PhysRevE.51.4282",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "unstructured": "Huerre S. Lee J. Lin M. and O'Sullivan C. 2010. Simulating believable crowd and group behaviors. In SIGGRAPH Asia 2010 Courses. 10.1145/1900520.1900533   Huerre S. Lee J. Lin M. and O'Sullivan C. 2010. Simulating believable crowd and group behaviors. In SIGGRAPH Asia 2010 Courses. 10.1145/1900520.1900533",
+                "DOI": "10.1145/1900520.1900533",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "unstructured": "ICSC. 2015. U.S. Shopping-Center Classification and Characteristics. ICSC Research and CoStar Realty Information Inc. mar.  ICSC. 2015. U.S. Shopping-Center Classification and Characteristics. ICSC Research and CoStar Realty Information Inc. mar."
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "INRIA 2016. scikit-learn. http://scikit-learn.org. Accessed: 01-01-2016.  INRIA 2016. scikit-learn. http://scikit-learn.org. Accessed: 01-01-2016."
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "unstructured": "Kirkpatrick S. Gelatt C. D. and Vecchi M. P. 1983. Optimization by simulated annealing. SCIENCE 220 4598 671--680.  Kirkpatrick S. Gelatt C. D. and Vecchi M. P. 1983. Optimization by simulated annealing. SCIENCE 220 4598 671--680.",
+                "DOI": "10.1126/science.220.4598.671",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1080/13658810701228686",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1002/cav.1447",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "first-page": "18",
+                "article-title": "Classification and regression by randomforest",
+                "volume": "2",
+                "author": "Liaw A.",
+                "year": "2002",
+                "journal-title": "R News"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "unstructured": "Liu H. Yang Y.-L. AlHalawani S. and Mitra N. J. 2013. Constraint-aware interior layout exploration for precast concrete-based buildings. Visual Computer (CGI Special Issue). 10.1007/s00371-013-0825-1   Liu H. Yang Y.-L. AlHalawani S. and Mitra N. J. 2013. Constraint-aware interior layout exploration for precast concrete-based buildings. Visual Computer (CGI Special Issue). 10.1007/s00371-013-0825-1"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1207/s15327663jcp0901_3",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "unstructured": "Massive Software 2016. Massive. http://massivesoftware.com. Accessed: 01-01-2016.  Massive Software 2016. Massive. http://massivesoftware.com. Accessed: 01-01-2016."
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/1882261.1866203",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1145/2010324.1964982",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1063/1.1699114",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1080/03052150214016",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1145/1618452.1618468",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1016/S0272-4944(02)00102-0",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "unstructured": "Niles R. 2012. Robert's rules for the perfect theme park. http://themeparkinsider.com/flume/201212/3304 Dec. Accessed: 01-01-2016.  Niles R. 2012. Robert's rules for the perfect theme park. http://themeparkinsider.com/flume/201212/3304 Dec. Accessed: 01-01-2016."
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "unstructured": "Nishida G. Garcia-Dorado I. and Aliaga D. G. 2015. Example-driven procedural urban roads. Computer Graphics Forum.  Nishida G. Garcia-Dorado I. and Aliaga D. G. 2015. Example-driven procedural urban roads. Computer Graphics Forum.",
+                "DOI": "10.1111/cgf.12728",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "unstructured": "Older S. J. 1964. Pedestrians. Department of Scientific and Industrial Research Laboratory Crowthorne England.  Older S. J. 1964. Pedestrians . Department of Scientific and Industrial Research Laboratory Crowthorne England."
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1145/383259.383292",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "DOI": "10.1145/2601097.2601164",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "unstructured": "Peng C.-H. Mitra N. J. Bao F. Yan D.-M. and Wonka P. 2015. Computational Network Design from Functional Specifications. ArXiv e-prints (Oct.).  Peng C.-H. Mitra N. J. Bao F. Yan D.-M. and Wonka P. 2015. Computational Network Design from Functional Specifications. ArXiv e-prints (Oct.).",
+                "DOI": "10.1145/2897824.2925935",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "DOI": "10.1145/1401132.1401193",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "unstructured": "Prusinkiewicz P. and Lindenmayer A. 1996. The Algorithmic Beauty of Plants. Springer-Verlag New York Inc. New York NY USA.   Prusinkiewicz P. and Lindenmayer A. 1996. The Algorithmic Beauty of Plants. Springer-Verlag New York Inc. New York NY USA."
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "DOI": "10.1145/1073368.1073371",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "unstructured": "Shaviv E. 1974. A Model for Space Allocation in Complex Buildings: A Computer Graphics Approach. Working papers. Faculty of Architecture and Town Planning.  Shaviv E. 1974. A Model for Space Allocation in Complex Buildings: A Computer Graphics Approach. Working papers. Faculty of Architecture and Town Planning."
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "DOI": "10.1145/585740.585747",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "unstructured": "The AnyLogic Company 2016. Anylogic. http://anylogic.com. Accessed: 01-01-2016.  The AnyLogic Company 2016. Anylogic. http://anylogic.com. Accessed: 01-01-2016."
+            },
+            {
+                "key": "e_1_2_2_55_1",
+                "unstructured": "Thunderhead Engineering Consultants Inc. 2016. Pathfinder. http://thunderheadeng.com/pathfinder. Accessed: 01-01-2016.  Thunderhead Engineering Consultants Inc. 2016. Pathfinder. http://thunderheadeng.com/pathfinder. Accessed: 01-01-2016."
+            },
+            {
+                "key": "e_1_2_2_56_1",
+                "unstructured": "TranSafety Inc. 1997. Study compares older and younger pedestrian walking speeds. Road Engineering Journal.  TranSafety Inc. 1997. Study compares older and younger pedestrian walking speeds. Road Engineering Journal."
+            },
+            {
+                "key": "e_1_2_2_57_1",
+                "DOI": "10.1145/1141911.1142008",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_58_1",
+                "DOI": "10.1145/192161.192170",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_59_1",
+                "DOI": "10.1145/1618452.1618457",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_60_1",
+                "DOI": "10.1145/2366145.2366187",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_61_1",
+                "DOI": "10.1111/j.1467-8659.2012.03047.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_62_1",
+                "DOI": "10.1111/j.1467-8659.2009.01387.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_63_1",
+                "DOI": "10.1145/2461912.2462021",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_64_1",
+                "DOI": "10.1145/2185520.2185553",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_65_1",
+                "DOI": "10.1145/2508363.2508405",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_66_1",
+                "author": "Yu Q.",
+                "volume-title": "Proceedings of the 2007 ACM SIGGRAPH/Eurographics Symposium on Computer Animation, Eurographics Association, Aire-la-Ville, Switzerland, Switzerland, SCA '07, 119--128"
+            },
+            {
+                "key": "e_1_2_2_67_1",
+                "DOI": "10.1145/2010324.1964981",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_68_1",
+                "DOI": "10.1145/2366145.2366153",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925894&amp;ftid=1755936&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:41:31Z",
+            "timestamp": 1585964491000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 68,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925894"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925894",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

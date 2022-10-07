@@ -1,0 +1,419 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:11:20Z",
+            "timestamp": 1586002280652
+        },
+        "reference-count": 32,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100007065",
+                "name": "Nvidia",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/501100003006",
+                "name": "Eidgen\u00f6ssische Technische Hochschule Z\u00fcrich",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/501100004963",
+                "name": "Seventh Framework Programme",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100004356",
+                "name": "Nokia",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100000001",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "1011832, 1011919"
+                ]
+            },
+            {
+                "DOI": "10.13039/100002418",
+                "name": "Intel Corporation",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100004358",
+                "name": "Samsung",
+                "doi-asserted-by": "publisher",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601186",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-10",
+        "source": "Crossref",
+        "is-referenced-by-count": 27,
+        "title": [
+            "Discrete stochastic microfacet models"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Wenzel",
+                "family": "Jakob",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "ETH Z\u00fcrich"
+                    }
+                ]
+            },
+            {
+                "given": "Milo\u0161",
+                "family": "Ha\u0161an",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Autodesk"
+                    }
+                ]
+            },
+            {
+                "given": "Ling-Qi",
+                "family": "Yan",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of California, Berkeley"
+                    }
+                ]
+            },
+            {
+                "given": "Jason",
+                "family": "Lawrence",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Virginia"
+                    }
+                ]
+            },
+            {
+                "given": "Ravi",
+                "family": "Ramamoorthi",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of California, Berkeley"
+                    }
+                ]
+            },
+            {
+                "given": "Steve",
+                "family": "Marschner",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Cornell University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1080/10867651.2000.10487522",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1080/14786444408644925",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1098/rstl.1852.0019",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "Boyd S. and Vandenberghe L. 2004. Convex Optimization. Cambridge University Press New York NY USA.   Boyd S. and Vandenberghe L. 2004. Convex Optimization . Cambridge University Press New York NY USA.",
+                "DOI": "10.1017/CBO9780511804441",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/1073204.1073264",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/800224.806819",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/357290.357293",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "Devroye L. 1986. Non-Uniform Random Variate Generation. Springer-Verlag.  Devroye L. 1986. Non-Uniform Random Variate Generation . Springer-Verlag.",
+                "DOI": "10.1007/978-1-4613-8643-8",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "first-page": "121",
+                "article-title": "Simulation of sparkles in metallic paints",
+                "volume": "1999",
+                "author": "Ershov S.",
+                "year": "1999",
+                "journal-title": "Proceedings of Graphicon"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1111/1467-8659.00515",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "author": "Fairchild M. D.",
+                "volume-title": "Proceedings of the IS&T/SID Color Imaging Conference, 333--338"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "unstructured": "Galassi M. e. a. 2009. GNU Scientific Library Reference Manual 3rd ed ed. Network Theory Ltd.   Galassi M. e. a. 2009. GNU Scientific Library Reference Manual 3rd ed ed. Network Theory Ltd."
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "author": "G\u00fcnther J.",
+                "volume-title": "VMV 2005 Proceedings."
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/1276377.1276412",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/311535.311555",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "Jakob W. 2010. Mitsuba renderer. http://www.mitsuba-renderer.org. 10.1145/882262.882343   Jakob W. 2010. Mitsuba renderer. http://www.mitsuba-renderer.org. 10.1145/882262.882343"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/42372.42381",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/2343483.2343502",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1002/col.20328",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/1531326.1531360",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1002/(SICI)1520-6378(199608)21:4<292::AID-COL4>3.0.CO;2-L",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1111/j.1467-8659.2012.03152.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/1730804.1730834",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/566654.566636",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1111/j.1467-8659.2008.01150.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "unstructured": "Schneider P. and Eberly D. H. 2002. Geometric tools for computer graphics. Morgan Kaufmann.   Schneider P. and Eberly D. H. 2002. Geometric tools for computer graphics . Morgan Kaufmann."
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1080/2151237X.2005.10129203",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1364/JOSA.57.001105",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "Veach E. 1997. Robust Monte Carlo Methods for Light Transport Simulation. PhD thesis Stanford University.   Veach E. 1997. Robust Monte Carlo Methods for Light Transport Simulation . PhD thesis Stanford University."
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.5555/2383847.2383874",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1007/3-540-60590-8_29",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/2601097.2601155",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601186&amp;ftid=1488923&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:51:24Z",
+            "timestamp": 1586001084000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 32,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601186"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601186",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

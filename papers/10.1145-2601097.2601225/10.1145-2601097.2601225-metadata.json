@@ -1,0 +1,371 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:11:20Z",
+            "timestamp": 1586002280426
+        },
+        "reference-count": 36,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601225",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 22,
+        "title": [
+            "Breathing life into shape"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Aggeliki",
+                "family": "Tsoli",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Max Planck Institute for Intelligent Systems, T\u00fcbingen, Germany"
+                    }
+                ]
+            },
+            {
+                "given": "Naureen",
+                "family": "Mahmood",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Max Planck Institute for Intelligent Systems, T\u00fcbingen, Germany"
+                    }
+                ]
+            },
+            {
+                "given": "Michael J.",
+                "family": "Black",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Max Planck Institute for Intelligent Systems, T\u00fcbingen, Germany"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/882262.882311",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "author": "Allen B.",
+                "volume-title": "ACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA), Eurographics Association, 147--156"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/1073204.1073207",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "author": "Bogo F.",
+                "volume-title": "Conference on Computer Vision and Pattern Recognition (CVPR), IEEE."
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "author": "Cavagnaro M.",
+                "volume-title": "International Symposium on Electromagnetic Compatibility (EMC EUROPE), IEEE, 149--153"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1109/CVPR.2013.21",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "unstructured": "Cosker D. and Edge J. 2009. Laughing crying sneezing and yawning: Automatic voice driven animation of non-speech articulations. In Computer Animation and Social Agents (CASA).  Cosker D. and Edge J. 2009. Laughing crying sneezing and yawning: Automatic voice driven animation of non-speech articulations. In Computer Animation and Social Agents (CASA) ."
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/1409060.1409078",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "author": "Egges A.",
+                "volume-title": "Pacific Conf. on Comp. Graphics and Applications, IEEE, 121--130"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "first-page": "3",
+                "article-title": "Synthesis of realistic idle motion for interactive characters",
+                "volume": "6",
+                "author": "Egges A.",
+                "year": "2006",
+                "journal-title": "Game Programming Gems"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1111/j.1467-8659.2009.01373.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1007/978-3-642-33783-3_18",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/1028523.1028534",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/1882261.1866174",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/2019406.2019423",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/1559755.1559756",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1561/0600000036",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "unstructured": "Magnenat-Thalmann N. Zhang J. J. and Feng D. D. 2009. Recent Advances in the 3D Physiological Human. Springer.   Magnenat-Thalmann N. Zhang J. J. and Feng D. D. 2009. Recent Advances in the 3D Physiological Human . Springer.",
+                "DOI": "10.1007/978-1-84882-565-9",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "unstructured": "Mines A. H. 1981. Respiratory Physiology. Raven Press.  Mines A. H. 1981. Respiratory Physiology . Raven Press."
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "Moreno A. Chambon S. Santhanam A. P. Brocardo R. Kupelian P. Rolland J. P. Angelini E. and Bloch I. 2007. Thoracic CT-PET registration using a 3D breathing model. In Medical Image Computing and ComputerAssisted Intervention (MICCAI). Springer 626--633.   Moreno A. Chambon S. Santhanam A. P. Brocardo R. Kupelian P. Rolland J. P. Angelini E. and Bloch I. 2007. Thoracic CT-PET registration using a 3D breathing model. In Medical Image Computing and ComputerAssisted Intervention (MICCAI) . Springer 626--633.",
+                "DOI": "10.1007/978-3-540-75757-3_76",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "MPI IS 2011. http://bodyvisualizer.com/.  MPI IS 2011. http://bodyvisualizer.com/."
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1111/cgf.12048",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/1141911.1141970",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/1360612.1360695",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1002/cav.v15:3/4",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1007/s11548-008-0245-2",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "unstructured": "Promayon E. Baconnier P. and Puech C. 1997. Physically-based model for simulating the human trunk respiration movements. In Computer Vision Virtual Reality and Robotics in Medicine and Medical Robotics and ComputerAssisted Surgery (CVRMed-MRCAS) Springer 379--388.   Promayon E. Baconnier P. and Puech C. 1997. Physically-based model for simulating the human trunk respiration movements. In Computer Vision Virtual Reality and Robotics in Medicine and Medical Robotics and ComputerAssisted Surgery (CVRMed-MRCAS) Springer 379--388.",
+                "DOI": "10.1007/BFb0029259",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "unstructured": "Robinette K. Blackwell S. Daanen H. Boehmer M. Fleming S. Brill T. Hoeferlin D. and Burnsides D. 2002. Civilian American and European Surface Anthropometry Resource (CAESAR) final report. Tech. Rep. AFRL-HE-WP-TR-2002-0169 US Air Force Research Laboratory.  Robinette K. Blackwell S. Daanen H. Boehmer M. Fleming S. Brill T. Hoeferlin D. and Burnsides D. 2002. Civilian American and European Surface Anthropometry Resource (CAESAR) final report. Tech. Rep. AFRL-HE-WP-TR-2002-0169 US Air Force Research Laboratory.",
+                "DOI": "10.21236/ADA406704",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "Sanders B. DiLorenzo P. Zordan V. and Bakal D. 2009. Toward anatomical simulation for breath training in mind/body medicine. In Recent Advances in the 3D Physiological Human. Springer 105--119.  Sanders B. DiLorenzo P. Zordan V. and Bakal D. 2009. Toward anatomical simulation for breath training in mind/body medicine. In Recent Advances in the 3D Physiological Human . Springer 105--119.",
+                "DOI": "10.1007/978-1-84882-565-9_7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1109/CVPR.2013.295",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "author": "Santhanam A.",
+                "volume-title": "Pacific Conf. on Comp. Graphics and Applications, IEEE, 507--511"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/1882261.1866161",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/1015706.1015736",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "unstructured": "Veltkamp R. C. and Piest B. 2009. A physiological torso model for realistic breathing simulation. In Modelling the Physiological Human. Springer 84--94. 10.1007/978-3-642-10470-1_8   Veltkamp R. C. and Piest B. 2009. A physiological torso model for realistic breathing simulation. In Modelling the Physiological Human . Springer 84--94. 10.1007/978-3-642-10470-1_8",
+                "DOI": "10.1007/978-3-642-10470-1_8",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "author": "West J.",
+                "year": "2012",
+                "volume-title": "Respiratory Physiology: The Essentials"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1145/1028523.1028528",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601225&amp;ftid=1488860&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:49:09Z",
+            "timestamp": 1586000949000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "capturing, modeling and animating 3D human breathing"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 36,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601225"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601225",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

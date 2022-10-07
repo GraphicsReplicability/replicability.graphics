@@ -1,0 +1,371 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:55Z",
+            "timestamp": 1585962715821
+        },
+        "reference-count": 30,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100001809",
+                "name": "National Natural Science Foundation of China",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "61772457,U1609215"
+                ]
+            },
+            {
+                "name": "National Key Research & Development Program of China",
+                "award": [
+                    "2016YFB1001403"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201279",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-10",
+        "source": "Crossref",
+        "is-referenced-by-count": 9,
+        "title": [
+            "Efficient reflectance capture using an autoencoder"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Kaizhang",
+                "family": "Kang",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Zhejiang University, China"
+                    }
+                ]
+            },
+            {
+                "given": "Zimin",
+                "family": "Chen",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Zhejiang University, China"
+                    }
+                ]
+            },
+            {
+                "given": "Jiaping",
+                "family": "Wang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Sinovation Ventures"
+                    }
+                ]
+            },
+            {
+                "given": "Kun",
+                "family": "Zhou",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Zhejiang University, China"
+                    }
+                ]
+            },
+            {
+                "given": "Hongzhi",
+                "family": "Wu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Zhejiang University, China"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/2897824.2925917",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/2461912.2461978",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/2766967",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/2601097.2601180",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/300776.300778",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/1778765.1778835",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/882262.882342",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1111/j.1467-8659.2009.01493.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "Ian Goodfellow Yoshua Bengio and Aaron Courville. 2016. Deep Learning. MIT Press. http://www.deeplearningbook.org.   Ian Goodfellow Yoshua Bengio and Aaron Courville. 2016. Deep Learning. MIT Press. http://www.deeplearningbook.org."
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "G. E. Hinton and R. R. Salakhutdinov. 2006. Reducing the Dimensionality of Data with Neural Networks. Science 313 5786 (2006) 504--507.  G. E. Hinton and R. R. Salakhutdinov. 2006. Reducing the Dimensionality of Data with Neural Networks. Science 313 5786 (2006) 504--507."
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/258734.258801",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/1141911.1141949",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/636886.636891",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/3072959.3073641",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "author": "Marschner Stephen R.",
+                "volume-title": "Proc. EGWR. 131--144"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/882262.882343",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "author": "Matusik Wojciech",
+                "year": "2003",
+                "volume-title": "Proc. EGWR. 241--247"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/2343483.2343493",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/2980179.2980220",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/2816795.2818085",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/1477926.1477929",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/2010324.1964940",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "first-page": "26",
+                "article-title": "Lecture 6.5-RMSProp: Divide the Gradient by a Running Average of Its Recent Magnitude",
+                "volume": "4",
+                "author": "Tieleman Tijmen",
+                "year": "2012",
+                "journal-title": "Neural Networks for Machine Learning"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/2461912.2461944",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "unstructured": "Bruce Walter Stephen R. Marschner Hongsong Li and Kenneth E. Torrance. 2007. Microfacet Models for Refraction through Rough Surfaces. In Rendering Techniques (Proc. EGWR).   Bruce Walter Stephen R. Marschner Hongsong Li and Kenneth E. Torrance. 2007. Microfacet Models for Refraction through Rough Surfaces. In Rendering Techniques (Proc. EGWR)."
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/1360612.1360640",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "unstructured": "Michael Weinmann and Reinhard Klein. 2015. Advances in Geometry and Reflectance Acquisition. In SIGGRAPH Asia Courses. Article 1 71 pages. 10.1145/2818143.2818165   Michael Weinmann and Reinhard Klein. 2015. Advances in Geometry and Reflectance Acquisition. In SIGGRAPH Asia Courses. Article 1 71 pages. 10.1145/2818143.2818165",
+                "DOI": "10.1145/2818143.2818165",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1561/0600000022",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/2980179.2982396",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "author": "Zickler Todd",
+                "year": "2005",
+                "volume-title": "Proc. EGSR. 253--264"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201279&ftid=1991714&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:42:54Z",
+            "timestamp": 1585960974000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 30,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201279"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201279",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

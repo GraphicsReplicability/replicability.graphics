@@ -1,0 +1,580 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2020-07-12T19:40:18Z",
+            "timestamp": 1594582818848
+        },
+        "reference-count": 66,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2019,
+                            7,
+                            12
+                        ]
+                    ],
+                    "date-time": "2019-07-12T00:00:00Z",
+                    "timestamp": 1562889600000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "name": "Technology Agency of the Czech Republic",
+                "award": [
+                    "TE01020415"
+                ]
+            },
+            {
+                "name": "Grant Agency of the Czech Technical University in Prague",
+                "award": [
+                    "SGS19/179/OHK3/3T/13"
+                ]
+            },
+            {
+                "name": "Operational Programme Research, Development and Education",
+                "award": [
+                    "CZ.02.1.01/0.0/0.0/16_019/0000765"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "DOI": "10.1145/3306346.3323006",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2019-07-12T19:04:08Z",
+            "timestamp": 1562958248000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 1,
+        "title": [
+            "Stylizing video by example"
+        ],
+        "prefix": "10.1145",
+        "volume": "38",
+        "author": [
+            {
+                "given": "Ond\u0159ej",
+                "family": "Jamri\u0161ka",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Czech Technical University in Prague"
+                    }
+                ]
+            },
+            {
+                "given": "\u0160\u00e1rka",
+                "family": "Sochorov\u00e1",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Czech Technical University in Prague"
+                    }
+                ]
+            },
+            {
+                "given": "Ond\u0159ej",
+                "family": "Texler",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Czech Technical University in Prague"
+                    }
+                ]
+            },
+            {
+                "given": "Michal",
+                "family": "Luk\u00e1\u010d",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe Research"
+                    }
+                ]
+            },
+            {
+                "given": "Jakub",
+                "family": "Fi\u0161er",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe Research"
+                    }
+                ]
+            },
+            {
+                "given": "Jingwan",
+                "family": "Lu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe Research"
+                    }
+                ]
+            },
+            {
+                "given": "Eli",
+                "family": "Shechtman",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe Research"
+                    }
+                ]
+            },
+            {
+                "given": "Daniel",
+                "family": "S\u00fdkora",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Czech Technical University in Prague"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_1_1_1",
+                "DOI": "10.1145/1531326.1531330",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_2_1",
+                "DOI": "10.1145/2461912.2461929",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_3_1",
+                "DOI": "10.1111/j.1467-8659.2010.01747.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_4_1",
+                "DOI": "10.1007/978-3-540-88688-4_9",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_5_1",
+                "DOI": "10.1145/2766946",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_6_1",
+                "DOI": "10.1145/1124728.1124751",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_7_1",
+                "DOI": "10.1145/1276377.1276507",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_8_1",
+                "DOI": "10.1145/2630397.2630406",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_9_1",
+                "DOI": "10.1109/ICCV.2017.126",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_10_1",
+                "DOI": "10.1145/258734.258896",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_11_1",
+                "DOI": "10.1145/2185520.2185578",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_12_1",
+                "DOI": "10.1145/3197517.3201326",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_13_1",
+                "DOI": "10.1145/2897824.2925948",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_14_1",
+                "DOI": "10.1145/3072959.3073660",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_15_1",
+                "DOI": "10.1111/cgf.12407",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_16_1",
+                "DOI": "10.1109/CVPR.2016.66",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_17_1",
+                "DOI": "10.1007/s00371-018-1474-1",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_18_1",
+                "DOI": "10.1109/CVPR.2016.265",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_19_1",
+                "DOI": "10.1109/CVPR.2017.397",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_20_1",
+                "unstructured": "Ian J. Goodfellow Jean Pouget-Abadie Mehdi Mirza Bing Xu David Warde-Farley Sherjil Ozair Aaron C. Courville and Yoshua Bengio. 2014. Generative Adversarial Nets. In Advances in Neural Information Processing Systems. 2672--2680.   Ian J. Goodfellow Jean Pouget-Abadie Mehdi Mirza Bing Xu David Warde-Farley Sherjil Ozair Aaron C. Courville and Yoshua Bengio. 2014. Generative Adversarial Nets. In Advances in Neural Information Processing Systems. 2672--2680."
+            },
+            {
+                "key": "e_1_2_1_21_1",
+                "DOI": "10.1109/CVPR.2018.00858",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_22_1",
+                "DOI": "10.1109/ICCV.2017.438",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_23_1",
+                "DOI": "10.1145/2010324.1964965",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_24_1",
+                "DOI": "10.1007/s00371-007-0144-5",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_25_1",
+                "DOI": "10.1145/987657.987676",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_26_1",
+                "DOI": "10.1145/3233304",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_27_1",
+                "DOI": "10.1145/383259.383295",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_28_1",
+                "DOI": "10.1109/ICCV.2017.167",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_29_1",
+                "unstructured": "Phillip Isola Jun-Yan Zhu Tinghui Zhou and Alexei A. Efros. 2017. Image-to-Image Translation with Conditional Adversarial Networks. 5967--5976.  Phillip Isola Jun-Yan Zhu Tinghui Zhou and Alexei A. Efros. 2017. Image-to-Image Translation with Conditional Adversarial Networks. 5967--5976.",
+                "DOI": "10.1109/CVPR.2017.632",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_30_1",
+                "DOI": "10.1145/2766983",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_31_1",
+                "DOI": "10.1007/978-3-319-46475-6_43",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_32_1",
+                "DOI": "10.1111/cgf.12565",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_33_1",
+                "DOI": "10.1007/978-3-030-01267-0_11",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_34_1",
+                "DOI": "10.1109/CVPR.2016.272",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_35_1",
+                "DOI": "10.1145/2897824.2925973",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_36_1",
+                "unstructured": "Yijun Li Chen Fang Jimei Yang Zhaowen Wang Xin Lu and Ming-Hsuan Yang. 2017. Universal Style Transfer via Feature Transforms. In Advances in Neural Information Processing Systems. 386--396.   Yijun Li Chen Fang Jimei Yang Zhaowen Wang Xin Lu and Ming-Hsuan Yang. 2017. Universal Style Transfer via Feature Transforms. In Advances in Neural Information Processing Systems. 386--396."
+            },
+            {
+                "key": "e_1_2_1_37_1",
+                "DOI": "10.1145/2629494",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_38_1",
+                "DOI": "10.1145/3072959.3073683",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_39_1",
+                "DOI": "10.1145/258734.258893",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_40_1",
+                "DOI": "10.1109/TPAMI.2010.147",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_41_1",
+                "author": "Lu Cewu",
+                "year": "2012",
+                "volume-title": "Proceedings of International Symposium on Non-Photorealistic Animation and Rendering. 65--73"
+            },
+            {
+                "key": "e_1_2_1_42_1",
+                "DOI": "10.1145/3229147.3229162",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_43_1",
+                "DOI": "10.1145/1360612.1360691",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_44_1",
+                "DOI": "10.1145/383259.383328",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_45_1",
+                "DOI": "10.1007/s11263-018-1089-z",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_46_1",
+                "DOI": "10.1111/j.1467-8659.2010.01739.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_47_1",
+                "DOI": "10.1145/258734.258890",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_48_1",
+                "DOI": "10.1007/978-3-030-01237-3_43",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_49_1",
+                "DOI": "10.1145/2010324.1964923",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_50_1",
+                "author": "Shechtman Eli",
+                "volume-title": "Regenerative Morphing. In Proceedings of IEEE Conference on Computer Vision and Pattern Recognition. 615--622"
+            },
+            {
+                "key": "e_1_2_1_51_1",
+                "DOI": "10.1145/2601097.2601137",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_52_1",
+                "unstructured": "Karen Simonyan and Andrew Zisserman. 2014. Very Deep Convolutional Networks for Large-Scale Image Recognition. CoRR abs/1409.1556 (2014).  Karen Simonyan and Andrew Zisserman. 2014. Very Deep Convolutional Networks for Large-Scale Image Recognition. CoRR abs/1409.1556 (2014)."
+            },
+            {
+                "key": "e_1_2_1_53_1",
+                "DOI": "10.1145/1124728.1124739",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_54_1",
+                "DOI": "10.1109/CVPR.2018.00165",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_55_1",
+                "first-page": "1349",
+                "article-title": "Texture Networks: Feed-Forward Synthesis of Textures and Stylized Images",
+                "volume": "48",
+                "author": "Ulyanov Dmitry",
+                "year": "2016",
+                "journal-title": "ICML"
+            },
+            {
+                "key": "e_1_2_1_56_1",
+                "unstructured": "Dmitry Ulyanov Andrea Vedaldi and Victor S. Lempitsky. 2016b. Instance Normalization: The Missing Ingredient for Fast Stylization. CoRR abs/1607.08022 (2016).  Dmitry Ulyanov Andrea Vedaldi and Victor S. Lempitsky. 2016b. Instance Normalization: The Missing Ingredient for Fast Stylization. CoRR abs/1607.08022 (2016)."
+            },
+            {
+                "key": "e_1_2_1_57_1",
+                "author": "Ulyanov Dmitry",
+                "volume-title": "Proceedings of IEEE Conference on Computer Vision and Pattern Recognition. 4105--4113"
+            },
+            {
+                "key": "e_1_2_1_58_1",
+                "unstructured": "Ting-Chun Wang Ming-Yu Liu Jun-Yan Zhu Nikolai Yakovenko Andrew Tao Jan Kautz and Bryan Catanzaro. 2018. Video-to-Video Synthesis. In Advances in Neural Information Processing Systems. 1152--1164.   Ting-Chun Wang Ming-Yu Liu Jun-Yan Zhu Nikolai Yakovenko Andrew Tao Jan Kautz and Bryan Catanzaro. 2018. Video-to-Video Synthesis. In Advances in Neural Information Processing Systems. 1152--1164."
+            },
+            {
+                "key": "e_1_2_1_59_1",
+                "DOI": "10.1109/CVPR.2017.759",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_60_1",
+                "DOI": "10.1109/TPAMI.2007.60",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_61_1",
+                "unstructured": "Pierre Wilmot Eric Risser and Connelly Barnes. 2017. Stable and Controllable Neural Texture Synthesis and Style Transfer Using Histogram Losses. CoRR abs/1701.08893 (2017).  Pierre Wilmot Eric Risser and Connelly Barnes. 2017. Stable and Controllable Neural Texture Synthesis and Style Transfer Using Histogram Losses. CoRR abs/1701.08893 (2017)."
+            },
+            {
+                "key": "e_1_2_1_62_1",
+                "DOI": "10.1145/2070781.2024208",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_63_1",
+                "DOI": "10.1145/2366145.2366195",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_64_1",
+                "DOI": "10.1145/2024676.2024696",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_65_1",
+                "author": "Zhu Jun-Yan",
+                "volume-title": "Proceedings of IEEE International Conference on Computer Vision. 2242--2251"
+            },
+            {
+                "key": "e_1_2_1_66_1",
+                "unstructured": "Jun-Yan Zhu Richard Zhang Deepak Pathak Trevor Darrell Alexei A. Efros Oliver Wang and Eli Shechtman. 2017b. Toward Multimodal Image-to-Image Translation. In Advances in Neural Information Processing Systems. 465--476.   Jun-Yan Zhu Richard Zhang Deepak Pathak Trevor Darrell Alexei A. Efros Oliver Wang and Eli Shechtman. 2017b. Toward Multimodal Image-to-Image Translation. In Advances in Neural Information Processing Systems. 465--476."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3323006&ftid=2071677&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2020-07-12T19:21:05Z",
+            "timestamp": 1594581665000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "references-count": 66,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        12
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3306346.3323006"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3306346.3323006",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

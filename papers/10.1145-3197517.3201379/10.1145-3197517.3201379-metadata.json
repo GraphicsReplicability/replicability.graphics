@@ -1,0 +1,425 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:54Z",
+            "timestamp": 1585962714941
+        },
+        "reference-count": 49,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201379",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 1,
+        "title": [
+            "Laplacian kernel splatting for efficient depth-of-field and motion blur synthesis or reconstruction"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Thomas",
+                "family": "Leimk\u00fchler",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "MPI Informatik, Saarland Informatics Campus, Germany"
+                    }
+                ]
+            },
+            {
+                "given": "Hans-Peter",
+                "family": "Seidel",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "MPI Informatik, Saarland Informatics Campus, Germany"
+                    }
+                ]
+            },
+            {
+                "given": "Tobias",
+                "family": "Ritschel",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University College London, United Kingdom"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "author": "Akenine-M\u00f6ller Tomas",
+                "year": "2007",
+                "volume-title": "Proc. Graphics Hardware. 9."
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/2487228.2487239",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "unstructured": "Pravin Bhat Brian Curless Michael Cohen and C Zitnick. 2008. Fourier analysis of the 2D screened Poisson equation for gradient domain problems. ECCV (2008) 114--28. 10.1007/978-3-540-88688-4_9   Pravin Bhat Brian Curless Michael Cohen and C Zitnick. 2008. Fourier analysis of the 2D screened Poisson equation for gradient domain problems. ECCV (2008) 114--28. 10.1007/978-3-540-88688-4_9"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/1731047.1731048",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/37402.37414",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/964965.808590",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/964965.808600",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1117/12.643267",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "author": "Dutr\u00e9 Philip",
+                "year": "1993",
+                "volume-title": "Proc. Computational Graphics and Visualisation Techniques. 128--37"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/1531326.1531399",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/2070781.2024209",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/1572769.1572780",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/378456.378515",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1007/s10851-008-0087-0",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "unstructured": "Jhonny G\u00f6ransson and Andreas Karlsson. 2007. Practical post-process depth of field. In GPU Gems 3. 583--606.  Jhonny G\u00f6ransson and Andreas Karlsson. 2007. Practical post-process depth of field. In GPU Gems 3. 583--606."
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "Michael Goy. 2013. American cinematographer manual. Vol. 10. Am. Cinemat.  Michael Goy. 2013. American cinematographer manual. Vol. 10. Am. Cinemat."
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/97880.97913",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/15886.15921",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/2010324.1965003",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1111/cgf.12029",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "Craig Kolb Don Mitchell and Pat Hanrahan. 1995. A realistic camera model for computer graphics. In SIGGRAPH. 317--24. 10.1145/218380.218463   Craig Kolb Don Mitchell and Pat Hanrahan. 1995. A realistic camera model for computer graphics. In SIGGRAPH. 317--24. 10.1145/218380.218463"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "unstructured": "Janne Kontkanen Jussi R\u00e4s\u00e4nen and Alexander Keller. 2006. Irradiance filtering for Monte Carlo ray tracing. 259--272 pages.  Janne Kontkanen Jussi R\u00e4s\u00e4nen and Alexander Keller. 2006. Irradiance filtering for Monte Carlo ray tracing. 259--272 pages.",
+                "DOI": "10.1007/3-540-31186-6_16",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/2508363.2508369",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1111/j.1467-8659.2007.01088.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/1618452.1618480",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/1778765.1778802",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1111/j.1467-8659.2008.01344.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/2010324.1964950",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/2461912.2461943",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1111/cgf.13219",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1109/TIT.1982.1056489",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/318009.318015",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "unstructured": "Morgan McGuire Padraic Hennessy Michael Bukowski and Brian Osman. 2012. A reconstruction filter for plausible motion blur. In i3D. 135--42. 10.1145/2159616.2159639   Morgan McGuire Padraic Hennessy Michael Bukowski and Brian Osman. 2012. A reconstruction filter for plausible motion blur. In i3D. 135--42. 10.1145/2159616.2159639",
+                "DOI": "10.1145/2159616.2159639",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1111/cgf.12415",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1111/cgf.13225",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "unstructured": "Oliver Nalbach Tobias Ritschel and Hans-Peter Seidel. 2014. Deep Screen Space. In I3D. ACM. 10.1145/2556700.2556708   Oliver Nalbach Tobias Ritschel and Hans-Peter Seidel. 2014. Deep Screen Space. In I3D. ACM. 10.1145/2556700.2556708",
+                "DOI": "10.1145/2556700.2556708",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/2483852.2483873",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1145/882262.882269",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "unstructured": "Matt Pharr Wenzel Jakob and Greg Humphreys. 2016. Physically based rendering: From theory to implementation. Morgan Kaufmann.   Matt Pharr Wenzel Jakob and Greg Humphreys. 2016. Physically based rendering: From theory to implementation. Morgan Kaufmann."
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1145/965161.806818",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "author": "Premo\u017ee Simon",
+                "year": "2004",
+                "volume-title": "Proc. EGWR. 363--74"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "unstructured": "Gilberto Rosado. 2007. Motion blur as a post-processing effect. 575--81.  Gilberto Rosado. 2007. Motion blur as a post-processing effect. 575--81."
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1145/2167076.2167083",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1145/280814.280882",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "unstructured": "Patrice Simard Leon Bottou Patrick Haffner and Yann LeCun. 1999. Boxlets: a fast convolution algorithm for signal processing and neural networks. In NIPS. 571--7.   Patrice Simard Leon Bottou Patrick Haffner and Yann LeCun. 1999. Boxlets: a fast convolution algorithm for signal processing and neural networks. In NIPS. 571--7."
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1145/1516522.1516529",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "DOI": "10.1145/2185520.2185570",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "DOI": "10.1145/2699647",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "DOI": "10.1111/j.1467-8659.2010.01797.x",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201379&ftid=1991644&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:38:06Z",
+            "timestamp": 1585960686000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 49,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201379"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201379",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

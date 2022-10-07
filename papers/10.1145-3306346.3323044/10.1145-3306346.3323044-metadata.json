@@ -1,0 +1,410 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    5,
+                    5
+                ]
+            ],
+            "date-time": "2020-05-05T17:41:04Z",
+            "timestamp": 1588700464313
+        },
+        "reference-count": 43,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2019,
+                            7,
+                            12
+                        ]
+                    ],
+                    "date-time": "2019-07-12T00:00:00Z",
+                    "timestamp": 1562889600000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "DOI": "10.1145/3306346.3323044",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2019-07-12T19:04:08Z",
+            "timestamp": 1562958248000
+        },
+        "page": "1-8",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+            "Accurate markerless jaw tracking for facial performance capture"
+        ],
+        "prefix": "10.1145",
+        "volume": "38",
+        "author": [
+            {
+                "given": "Gaspard",
+                "family": "Zoss",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "DisneyResearch|Studios, ETH Zurich"
+                    }
+                ]
+            },
+            {
+                "given": "Thabo",
+                "family": "Beeler",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "DisneyResearch|Studios"
+                    }
+                ]
+            },
+            {
+                "given": "Markus",
+                "family": "Gross",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "DisneyResearch|Studios, ETH Zurich"
+                    }
+                ]
+            },
+            {
+                "given": "Derek",
+                "family": "Bradley",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "DisneyResearch|Studios"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_1_1_1",
+                "unstructured": "Sameer Agarwal Keir Mierle and Others. 2016. Ceres Solver http://ceres-solver.org.  Sameer Agarwal Keir Mierle and Others. 2016. Ceres Solver http://ceres-solver.org."
+            },
+            {
+                "key": "e_1_2_1_2_1",
+                "DOI": "10.1016/j.jdsr.2009.04.001",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_3_1",
+                "DOI": "10.1145/2601097.2601182",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_4_1",
+                "unstructured": "Thabo Beeler Fabian Hahn Derek Bradley Bernd Bickel Paul Beardsley Craig Gotsman Robert W. Sumner and Markus Gross. 2011. High-quality passive facial performance capture using anchor frames. ACM Transactions on Graphics (2011) 1. arXiv:arXiv:1011.1669v3 10.1145/2010324.1964970   Thabo Beeler Fabian Hahn Derek Bradley Bernd Bickel Paul Beardsley Craig Gotsman Robert W. Sumner and Markus Gross. 2011. High-quality passive facial performance capture using anchor frames. ACM Transactions on Graphics (2011) 1. arXiv:arXiv:1011.1669v3 10.1145/2010324.1964970"
+            },
+            {
+                "key": "e_1_2_1_5_1",
+                "DOI": "10.1016/j.ins.2017.08.029",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_6_1",
+                "DOI": "10.1145/2461912.2461976",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_7_1",
+                "DOI": "10.1145/1778765.1778778",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_8_1",
+                "DOI": "10.1016/S0003-9969(00)00015-7",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_9_1",
+                "DOI": "10.1016/j.ajodo.2005.06.037",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_10_1",
+                "DOI": "10.1145/2766943",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_11_1",
+                "DOI": "10.1145/2601097.2601204",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_12_1",
+                "DOI": "10.1177/00220345000790060501",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_13_1",
+                "DOI": "10.1016/j.archoralbio.2004.10.002",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_14_1",
+                "unstructured": "Graham Fyffe Tim Hawkins Chris Watts Wan-Chun Ma and Paul Debevec. 2011. Comprehensive Facial Performance Capture. In Eurographics.  Graham Fyffe Tim Hawkins Chris Watts Wan-Chun Ma and Paul Debevec. 2011. Comprehensive Facial Performance Capture. In Eurographics.",
+                "DOI": "10.1111/j.1467-8659.2011.01888.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_15_1",
+                "DOI": "10.1111/cgf.13127",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_16_1",
+                "DOI": "10.1145/2508363.2508380",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_17_1",
+                "DOI": "10.1007/BF02291478",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_18_1",
+                "unstructured": "Pei-Lun Hsieh Chongyang Ma Jihun Yu and Hao Li. 2015. Unconstrained Realtime Facial Performance Capture. In Computer Vision and Pattern Recognition (CVPR).  Pei-Lun Hsieh Chongyang Ma Jihun Yu and Hao Li. 2015. Unconstrained Realtime Facial Performance Capture. In Computer Vision and Pattern Recognition (CVPR).",
+                "DOI": "10.1109/CVPR.2015.7298776",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_19_1",
+                "DOI": "10.5555/1577069.1755843",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_20_1",
+                "DOI": "10.4012/dmj.24.661",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_21_1",
+                "DOI": "10.1145/3099564.3099581",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_22_1",
+                "DOI": "10.1145/2461912.2462019",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_23_1",
+                "DOI": "10.1109/JSEN.2018.2873349",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_24_1",
+                "first-page": "156",
+                "article-title": "Deep bite: A case report with chewing pattern and electromyographic activity before and after therapy with function generating bite",
+                "volume": "14",
+                "author": "Piancino M. G.",
+                "year": "2013",
+                "journal-title": "European Journal of Paediatric Dentistry"
+            },
+            {
+                "key": "e_1_2_1_25_1",
+                "DOI": "10.1590/S1678-77572008000500004",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_26_1",
+                "DOI": "10.1016/S0021-9290(97)00012-2",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_27_1",
+                "author": "Santos Isa C T",
+                "year": "2006",
+                "volume-title": "Proceedings of the 2nd International Workshop on Artificial Neural Networks and Intelligent Information Processing 2006"
+            },
+            {
+                "key": "e_1_2_1_28_1",
+                "unstructured": "Fuhao Shi Hsiang-Tao Wu Xin Tong and Jinxiang Chai. 2014. Automatic Acquisition of High-fidelity Facial Performances Using Monocular Videos. ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2014) 33 6 (2014). 10.1145/2661229.2661290   Fuhao Shi Hsiang-Tao Wu Xin Tong and Jinxiang Chai. 2014. Automatic Acquisition of High-fidelity Facial Performances Using Monocular Videos. ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2014) 33 6 (2014). 10.1145/2661229.2661290"
+            },
+            {
+                "key": "e_1_2_1_29_1",
+                "unstructured": "Supasorn Suwajanakorn Ira Kemelmacher-Shlizerman and Steven M Seitz. 2014. Total Moving Face Reconstruction. In ECCV.  Supasorn Suwajanakorn Ira Kemelmacher-Shlizerman and Steven M Seitz. 2014. Total Moving Face Reconstruction. In ECCV.",
+                "DOI": "10.1007/978-3-319-10593-2_52",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_30_1",
+                "DOI": "10.1016/j.jbiomech.2016.01.011",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_31_1",
+                "author": "Tewari Ayush",
+                "year": "2017",
+                "volume-title": "Proc. of IEEE ICCV."
+            },
+            {
+                "key": "e_1_2_1_32_1",
+                "DOI": "10.1145/2816795.2818056",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_33_1",
+                "DOI": "10.1145/2929464.2929475",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_34_1",
+                "unstructured": "J Thies M Zollh\u00f6fer M Stamminger C Theobalt and M Nie\u00dfner. 2018. HeadOn: Realtime Reenactment of Human Portrait Videos. ACM Transactions on Graphics 2018 (TOG) (2018). 10.1145/3197517.3201350   J Thies M Zollh\u00f6fer M Stamminger C Theobalt and M Nie\u00dfner. 2018. HeadOn: Realtime Reenactment of Human Portrait Videos. ACM Transactions on Graphics 2018 (TOG) (2018). 10.1145/3197517.3201350"
+            },
+            {
+                "key": "e_1_2_1_35_1",
+                "DOI": "10.1145/2366145.2366206",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_36_1",
+                "DOI": "10.1145/2010324.1964972",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_37_1",
+                "DOI": "10.1007/s00221-014-4037-3",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_38_1",
+                "DOI": "10.1044/1092-4388(2011/10-0236)",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_39_1",
+                "DOI": "10.1016/j.archoralbio.2004.07.010",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_40_1",
+                "DOI": "10.1145/2897824.2925882",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_41_1",
+                "unstructured": "Wenwu Yang Nathan Marshak Daniel S\u00fdkora Srikumar Ramalingam and Ladislav Kavan. 2018. Building Anatomically Realistic Jaw Kinematics Model from Data. CoRR abs/1805.0 (2018). arXiv:1805.05903 http://arxiv.org/abs/1805.05903  Wenwu Yang Nathan Marshak Daniel S\u00fdkora Srikumar Ramalingam and Ladislav Kavan. 2018. Building Anatomically Realistic Jaw Kinematics Model from Data. CoRR abs/1805.0 (2018). arXiv:1805.05903 http://arxiv.org/abs/1805.05903"
+            },
+            {
+                "key": "e_1_2_1_42_1",
+                "DOI": "10.1046/j.1365-2842.2000.00505.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_43_1",
+                "DOI": "10.1145/3197517.3201382",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3323044&ftid=2071733&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    5,
+                    5
+                ]
+            ],
+            "date-time": "2020-05-05T16:59:19Z",
+            "timestamp": 1588697959000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "references-count": 43,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        12
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3306346.3323044"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3306346.3323044",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

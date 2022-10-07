@@ -1,0 +1,309 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    5,
+                    5
+                ]
+            ],
+            "date-time": "2020-05-05T17:41:04Z",
+            "timestamp": 1588700464963
+        },
+        "reference-count": 18,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2019,
+                            7,
+                            12
+                        ]
+                    ],
+                    "date-time": "2019-07-12T00:00:00Z",
+                    "timestamp": 1562889600000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100008952",
+                "name": "Agence Nationale pour le D\u00e9veloppement de la Recherche Universitaire",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "ANR-18-CE46-0004, ANR-17-CE10-0002, ANR-15-IDEX-04-LUE"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "DOI": "10.1145/3306346.3322990",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2019-07-12T19:04:08Z",
+            "timestamp": 1562958248000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 1,
+        "title": [
+            "Procedural phasor noise"
+        ],
+        "prefix": "10.1145",
+        "volume": "38",
+        "author": [
+            {
+                "given": "Thibault",
+                "family": "Tricard",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Universit\u00e9 de Lorraine, CNRS, Inria, LORIA"
+                    }
+                ]
+            },
+            {
+                "given": "Semyon",
+                "family": "Efremov",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Universit\u00e9 de Lorraine, CNRS, Inria, LORIA"
+                    }
+                ]
+            },
+            {
+                "given": "C\u00e9dric",
+                "family": "Zanni",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Universit\u00e9 de Lorraine, CNRS, Inria, LORIA"
+                    }
+                ]
+            },
+            {
+                "given": "Fabrice",
+                "family": "Neyret",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "CNRS, Universit\u00e9 Grenoble Alpes, Grenoble INP, LJK, INRIA"
+                    }
+                ]
+            },
+            {
+                "given": "Jon\u00e0s",
+                "family": "Mart\u00ednez",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Universit\u00e9 de Lorraine, CNRS, Inria, LORIA"
+                    }
+                ]
+            },
+            {
+                "given": "Sylvain",
+                "family": "Lefebvre",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Universit\u00e9 de Lorraine, CNRS, Inria, LORIA"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "David S Ebert F Kenton Musgrave Darwyn Peachey Ken Perlin and Steven Worley. 2003. Texturing & modeling: a procedural approach. Morgan Kaufmann.   David S Ebert F Kenton Musgrave Darwyn Peachey Ken Perlin and Steven Worley. 2003. Texturing & modeling: a procedural approach. Morgan Kaufmann.",
+                "DOI": "10.1016/B978-155860848-1/50029-2",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/2185520.2185569",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "author": "Gilet Guillaume",
+                "volume-title": "Eurographics 2010 - Short Papers"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/2661229.2661249",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1111/cgf.13229",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "unstructured": "Felix Kn\u00f6ppel Keenan Crane Ulrich Pinkall and Peter Schr\u00f6der. 2015. Stripe Patterns on Surfaces. ACM Transactions on Graphics 34 (2015). Issue 4. 10.1145/2767000   Felix Kn\u00f6ppel Keenan Crane Ulrich Pinkall and Peter Schr\u00f6der. 2015. Stripe Patterns on Surfaces. ACM Transactions on Graphics 34 (2015). Issue 4. 10.1145/2767000"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/2010324.1964946",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1111/j.1467-8659.2010.01827.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/1531326.1531360",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "Ares Lagae Sylvain Lefebvre and Philip Dutr\u00e9. 2011. Improving Gabor noise. IEEE Transactions on Visualization and Computer Graphics (2011). http://www-sop.inr.ia.fr/reves/Basilic/2011/LLD11 10.1109/TVCG.2010.238   Ares Lagae Sylvain Lefebvre and Philip Dutr\u00e9. 2011. Improving Gabor noise. IEEE Transactions on Visualization and Computer Graphics (2011). http://www-sop.inr.ia.fr/reves/Basilic/2011/LLD11 10.1109/TVCG.2010.238"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/800031.808605",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.5555/16564.16594",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.5555/3128975.3129024",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/3072959.3073638",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "unstructured": "Fabrice Neyret and Eric Heitz. 2016. Understanding and controlling contrast oscillations in stochastic texture algorithms using Spectrum of Variance. Research Report. LJK / Grenoble University - INRIA. 8 pages. https://hal.inria.fr/hal-01349134  Fabrice Neyret and Eric Heitz. 2016. Understanding and controlling contrast oscillations in stochastic texture algorithms using Spectrum of Variance. Research Report. LJK / Grenoble University - INRIA. 8 pages. https://hal.inria.fr/hal-01349134"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "author": "Tavernier Vincent",
+                "volume-title": "EG 2019 - Short Papers"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/2984511.2984516",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/2461912.2461993",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3322990&ftid=2071714&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    5,
+                    5
+                ]
+            ],
+            "date-time": "2020-05-05T17:00:01Z",
+            "timestamp": 1588698001000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "references-count": 18,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        12
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3306346.3322990"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3306346.3322990",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

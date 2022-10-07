@@ -1,0 +1,371 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:41:08Z",
+            "timestamp": 1586004068294
+        },
+        "reference-count": 33,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100000006",
+                "name": "Office of Naval Research",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "N00014-12-1-0259"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601205",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-10",
+        "source": "Crossref",
+        "is-referenced-by-count": 67,
+        "title": [
+            "Image completion using planar structure guidance"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Jia-Bin",
+                "family": "Huang",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of Illinois at Urbana-Champaign"
+                    }
+                ]
+            },
+            {
+                "given": "Sing Bing",
+                "family": "Kang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research"
+                    }
+                ]
+            },
+            {
+                "given": "Narendra",
+                "family": "Ahuja",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Illinois at Urbana-Champaign"
+                    }
+                ]
+            },
+            {
+                "given": "Johannes",
+                "family": "Kopf",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "Aiger D. Cohen-Or D. and Mitra N. J. 2012. Repetition maximization based texture rectification. Computer Graphics Forum (EUROGRAPHICS) 31 2pt2 439--448. 10.1111/j.1467-8659.2012.03023.x   Aiger D. Cohen-Or D. and Mitra N. J. 2012. Repetition maximization based texture rectification. Computer Graphics Forum (EUROGRAPHICS) 31 2pt2 439--448. 10.1111/j.1467-8659.2012.03023.x",
+                "DOI": "10.1111/j.1467-8659.2012.03023.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1109/83.935036",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "unstructured": "Barinova O. Konushin V. Yakubenko A. Lee K. Lim H. and Konushin A. 2008. Fast automatic single-view 3-d reconstruction of urban scenes. In ECCV. 10.1007/978-3-540-88688-4_8   Barinova O. Konushin V. Yakubenko A. Lee K. Lim H. and Konushin A. 2008. Fast automatic single-view 3-d reconstruction of urban scenes. In ECCV . 10.1007/978-3-540-88688-4_8"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/1531326.1531330",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/344779.344972",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1109/TIP.2003.815261",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "unstructured": "Chum O. and Matas J. 2010. Planar affine rectification from change of scale. In ACCV.   Chum O. and Matas J. 2010. Planar affine rectification from change of scale. In ACCV .",
+                "DOI": "10.1007/978-3-642-19282-1_28",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1109/34.1000236",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1109/TIP.2004.833105",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/2185520.2185578",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/383259.383296",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "unstructured": "Efros A. A. and Leung T. K. 1999. Texture synthesis by non-parametric sampling. In ICCV.   Efros A. A. and Leung T. K. 1999. Texture synthesis by non-parametric sampling. In ICCV .",
+                "DOI": "10.1109/ICCV.1999.790383",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "Hartley R. I. and Zisserman A. 2004. Multiple View Geometry in Computer Vision second ed. Cambridge University Press.   Hartley R. I. and Zisserman A. 2004. Multiple View Geometry in Computer Vision second ed. Cambridge University Press.",
+                "DOI": "10.1017/CBO9780511811685",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/1276377.1276382",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "unstructured": "He K. and Sun J. 2012. Statistics of patch offsets for image completion. In ECCV. 10.1007/978-3-642-33709-3_2   He K. and Sun J. 2012. Statistics of patch offsets for image completion. In ECCV . 10.1007/978-3-642-33709-3_2"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/383259.383295",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/2508363.2508373",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "unstructured": "Huang J.-B. Kopf J. Ahuja N. and Kang S. B. 2013. Transformation guided image completion. In ICCP.  Huang J.-B. Kopf J. Ahuja N. and Kang S. B. 2013. Transformation guided image completion. In ICCP .",
+                "DOI": "10.1109/ICCPhot.2013.6528313",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "unstructured": "Jia J. and Tang C. 2003. Image repairing: Robust image synthesis by adaptive nd tensor voting. In CVPR.   Jia J. and Tang C. 2003. Image repairing: Robust image synthesis by adaptive nd tensor voting. In CVPR ."
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1109/TIP.2007.906269",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/2366145.2366150",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/1073204.1073263",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/1015706.1015731",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "Liu Y. Hel-Or H. and Kaplan C. 2010. Computational symmetry in computer vision and computer graphics. Now Publishers.  Liu Y. Hel-Or H. and Kaplan C. 2010. Computational symmetry in computer vision and computer graphics . Now Publishers."
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1023/B:VISI.0000029664.99615.94",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "unstructured": "Mansfield A. Prasad M. Rother C. Sharp T. Kohli P. and Van Gool L. 2011. Transforming image completion. In BMVC.  Mansfield A. Prasad M. Rother C. Sharp T. Kohli P. and Van Gool L. 2011. Transforming image completion. In BMVC .",
+                "DOI": "10.5244/C.25.121",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1007/s00371-006-0050-2",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "unstructured": "Pritch Y. Kav-Venaki E. and Peleg S. 2009. Shift-map image editing. In ICCV.  Pritch Y. Kav-Venaki E. and Peleg S. 2009. Shift-map image editing. In ICCV .",
+                "DOI": "10.1109/ICCV.2009.5459159",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/1073204.1073274",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1109/TPAMI.2007.60",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "unstructured": "Whyte O. Sivic J. and Zisserman A. 2009. Get out of my picture! internet-based inpainting. In BMVC.  Whyte O. Sivic J. and Zisserman A. 2009. Get out of my picture! internet-based inpainting. In BMVC .",
+                "DOI": "10.5244/C.23.116",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1007/s11263-012-0515-x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "unstructured": "Zhang Y. Xiao J. Hays J. and Tan P. 2013. FrameBreak: Dramatic image extrapolation by guided shift-maps. In CVPR. 10.1109/CVPR.2013.155   Zhang Y. Xiao J. Hays J. and Tan P. 2013. FrameBreak: Dramatic image extrapolation by guided shift-maps. In CVPR . 10.1109/CVPR.2013.155",
+                "DOI": "10.1109/CVPR.2013.155",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601205&amp;ftid=1488938&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:59:40Z",
+            "timestamp": 1586001580000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 33,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601205"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601205",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

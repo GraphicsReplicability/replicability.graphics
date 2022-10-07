@@ -1,0 +1,394 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:55Z",
+            "timestamp": 1585962715535
+        },
+        "reference-count": 40,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100008982",
+                "name": "National Science Foundation of Sri Lanka",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "1717320, 1409286, 1717268, 1319483"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201303",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 8,
+        "title": [
+            "Developability of triangle meshes"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Oded",
+                "family": "Stein",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Columbia University"
+                    }
+                ]
+            },
+            {
+                "given": "Eitan",
+                "family": "Grinspun",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Columbia University"
+                    }
+                ]
+            },
+            {
+                "given": "Keenan",
+                "family": "Crane",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Carnegie Mellon University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "author": "Bergou Miklos",
+                "year": "2006",
+                "volume-title": "Symposium on Geometry Processing, Alla Sheffer and Konrad Polthier (Eds.). The Eurographics Association."
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1109/34.334391",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "unstructured": "Alexander Bobenko. 2008. Discrete Differential Geometry. Springer London Limited.  Alexander Bobenko. 2008. Discrete Differential Geometry. Springer London Limited.",
+                "DOI": "10.1007/978-3-7643-8621-4",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1073/pnas.1118478109",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1016/0040-9383(95)00047-X",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "unstructured": "Lian Chang. 2015. The Software Behind Frank Gehry's Geometrically Complex Architecture. (2015). https://priceonomics.com/the-software-behind-frank-gehrys-geometrically/ Online (Priceonomics.com); posted May 12 2015.  Lian Chang. 2015. The Software Behind Frank Gehry's Geometrically Complex Architecture. (2015). https://priceonomics.com/the-software-behind-frank-gehrys-geometrically/ Online (Priceonomics.com); posted May 12 2015."
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "author": "Chu Chih-Hsing",
+                "volume": "29",
+                "year": "2005",
+                "article-title": "Tool path planning for five-axis flank milling with developable surface approximation",
+                "journal-title": "The International Journal of Advanced Manufacturing Technology"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1090/noti1578",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "author": "Decaudin Philippe",
+                "year": "2006",
+                "volume-title": "Virtual Garments: A Fully Geometric Approach for Clothing Design. Computer Graphics Forum"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "Levi H Dudte Etienne Vouga Tomohiro Tachi and L Mahadevan. 2016. Programming curvature using origami tessellations. Nature materials (2016).  Levi H Dudte Etienne Vouga Tomohiro Tachi and L Mahadevan. 2016. Programming curvature using origami tessellations. Nature materials (2016).",
+                "DOI": "10.1038/nmat4540",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1007/s00454-003-2948-z",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "unstructured": "Michael Garland. 1999. Quadric-Based Polygonal Surface Simplification. Ph.D. Dissertation. Carnegie Mellon University.   Michael Garland. 1999. Quadric-Based Polygonal Surface Simplification. Ph.D. Dissertation. Carnegie Mellon University."
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/258734.258849",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1016/j.cad.2012.08.004",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/2816795.2818078",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "Dan Julius Vladislav Kraevoy and Alla Sheffer. 2005. D-Charts: Quasi-Developable Mesh Segmentation. Computer Graphics Forum (2005).  Dan Julius Vladislav Kraevoy and Alla Sheffer. 2005. D-Charts: Quasi-Developable Mesh Segmentation. Computer Graphics Forum (2005)."
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/1360612.1360674",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1142/S0129183108012303",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1007/s10107-012-0514-2",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/1141911.1141941",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1109/PG.2007.46",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/1015706.1015711",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "Jean-Marie Morvan and Boris Thibert. 2006. Unfolding of Surfaces. Discrete & Computational Geometry 36 3 (01 Oct 2006) 393--418.  Jean-Marie Morvan and Boris Thibert. 2006. Unfolding of Surfaces. Discrete & Computational Geometry 36 3 (01 Oct 2006) 393--418.",
+                "DOI": "10.1007/s00454-006-1255-x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/2461912.2462010",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "unstructured": "Jorge Nocedal and Stephen J. Wright. 2006. Numerical Optimization (2nd ed.). Springer.  Jorge Nocedal and Stephen J. Wright. 2006. Numerical Optimization (2nd ed.). Springer."
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.5555/1648394.1648502",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/3130800.3130845",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/1360612.1360675",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/3180494",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.5555/1281991.1282014",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "unstructured": "Robert Sauer. 1970. Differenzengeometrie. Springer.  Robert Sauer. 1970. Differenzengeometrie. Springer.",
+                "DOI": "10.1007/978-3-642-86411-7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "unstructured": "Rohan Sawhney and Keenan Crane. 2017. Boundary First Flattening. CoRR abs/1704.06873 (2017). arXiv:1704.06873 http://arxiv.org/abs/1704.06873 10.1145/3132705   Rohan Sawhney and Keenan Crane. 2017. Boundary First Flattening. CoRR abs/1704.06873 (2017). arXiv:1704.06873 http://arxiv.org/abs/1704.06873 10.1145/3132705"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/2829948",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1007/s00371-006-0067-6",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "unstructured": "Justin Solomon Etienne Vouga Max Wardetzky and Eitan Grinspun. 2012. Flexible Developable Surfaces. Computer Graphics Forum (2012). 10.1111/j.1467-8659.2012.03162.x   Justin Solomon Etienne Vouga Max Wardetzky and Eitan Grinspun. 2012. Flexible Developable Surfaces. Computer Graphics Forum (2012). 10.1111/j.1467-8659.2012.03162.x"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.5555/602099.602154",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/2832906",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1016/j.jsg.2004.08.011",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.5555/1029164.1029168",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1145/2070781.2024158",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201303&ftid=1991731&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:50:13Z",
+            "timestamp": 1585961413000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 40,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201303"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201303",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

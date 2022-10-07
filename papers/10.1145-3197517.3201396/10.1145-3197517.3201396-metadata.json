@@ -1,0 +1,444 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:54Z",
+            "timestamp": 1585962714538
+        },
+        "reference-count": 52,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201396",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 4,
+        "title": [
+            "Voxel cores"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Yajie",
+                "family": "Yan",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Washington University in St. Louis"
+                    }
+                ]
+            },
+            {
+                "given": "David",
+                "family": "Letscher",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "St. Louis University"
+                    }
+                ]
+            },
+            {
+                "given": "Tao",
+                "family": "Ju",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Washington University in St. Louis"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1016/S0925-7721(01)00017-7",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1016/S0925-7721(01)00033-5",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1016/0262-8856(93)90055-L",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1109/TPAMI.2010.140",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.5555/1005800.1005803",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1109/ICIP.1996.560357",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1016/0167-8655(94)90046-9",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1016/0196-8858(85)90021-1",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "H. Blum. 1967. A transformation for extracting new descriptors of form. Models for the Perception of Speech and Visual Form (1967) 362--80.  H. Blum. 1967. A transformation for extracting new descriptors of form. Models for the Perception of Speech and Visual Form (1967) 362--80."
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1016/1049-9660(92)90030-7",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/1377676.1377705",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1016/j.gmod.2005.01.002",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1016/j.comgeo.2007.07.001",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1016/j.cagd.2003.07.008",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1007/s00453-003-1049-y",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1016/S0925-7721(01)00056-6",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/781606.781623",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1109/34.544075",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/1137856.1137905",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1109/TPAMI.2008.21",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "Christoph M Hoffmann. 1990. How to construct the skeleton of CSG objects. (1990).  Christoph M Hoffmann. 1990. How to construct the skeleton of CSG objects. (1990)."
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "unstructured": "Andrei C Jalba Jacek Kustra and Alexandru C Telea. 2013. Surface and curve skeletonization of large 3D models on the GPU. IEEE transactions on pattern analysis and machine intelligence 35 6 (2013) 1495--1508. 10.1109/TPAMI.2012.212   Andrei C Jalba Jacek Kustra and Alexandru C Telea. 2013. Surface and curve skeletonization of large 3D models on the GPU. IEEE transactions on pattern analysis and machine intelligence 35 6 (2013) 1495--1508. 10.1109/TPAMI.2012.212"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "Andrei C Jalba Andre Sobiecki and Alexandru C Telea. 2016. An unified multiscale framework for planar surface and curve skeletonization. IEEE transactions on pattern analysis and machine intelligence 38 1 (2016) 30--45. 10.1109/TPAMI.2015.2414420   Andrei C Jalba Andre Sobiecki and Alexandru C Telea. 2016. An unified multiscale framework for planar surface and curve skeletonization. IEEE transactions on pattern analysis and machine intelligence 38 1 (2016) 30--45. 10.1109/TPAMI.2015.2414420"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/1015706.1015815",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "unstructured": "Reinhard Klette and Azriel Rosenfeld. 2004. Digital geometry: Geometric methods for digital picture analysis. Elsevier.   Reinhard Klette and Azriel Rosenfeld. 2004. Digital geometry: Geometric methods for digital picture analysis. Elsevier.",
+                "DOI": "10.1016/B978-155860861-0/50005-5",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1007/s10851-015-0595-7",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1016/S0965-9978(97)00024-0",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/2753755",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/781606.781620",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1111/j.1467-8659.2010.01814.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1007/s00371-011-0594-7",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/1778765.1778838",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "first-page": "473",
+                "article-title": "Robust Construction of the Voronoi Diagram of a Polyhedron",
+                "volume": "93",
+                "author": "Milenkovic Victor",
+                "year": "1993",
+                "journal-title": "CCCG"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1016/j.cad.2011.08.023",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1006/gmip.1999.0498",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1006/cviu.1998.0680",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1016/j.cad.2010.08.006",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1109/TVCG.2008.23",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "author": "Rumpf Martin",
+                "year": "2002",
+                "volume-title": "Proceedings of the symposium on Data Visualisation"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1016/j.patrec.2015.04.006",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "unstructured": "Punam K. Saha and Bidyut Baran Chaudhuri. 1994. Detection of 3-D simple points for topology preserving transformations with application to thinning. IEEE transactions on pattern analysis and machine intelligence 16 10 (1994) 1028--1032. 10.1109/34.329007   Punam K. Saha and Bidyut Baran Chaudhuri. 1994. Detection of 3-D simple points for topology preserving transformations with application to thinning. IEEE transactions on pattern analysis and machine intelligence 16 10 (1994) 1028--1032. 10.1109/34.329007"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1109/2945.489386",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1145/2629697",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1023/A:1016376116653",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "unstructured": "Kaleem Siddiqi and Stephen M. Pizer. 2008. Medial Representations. Springer.  Kaleem Siddiqi and Stephen M. Pizer. 2008. Medial Representations. Springer.",
+                "DOI": "10.1007/978-1-4020-8658-8",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1016/j.patrec.2014.01.012",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "unstructured": "Peer Stelldinger Longin Jan Latecki and Marcelo Siqueira. 2007. Topological equivalence between a 3D object and the reconstruction of its digital image. IEEE transactions on pattern analysis and machine intelligence 29 1 (2007).   Peer Stelldinger Longin Jan Latecki and Marcelo Siqueira. 2007. Topological equivalence between a 3D object and the reconstruction of its digital image. IEEE transactions on pattern analysis and machine intelligence 29 1 (2007)."
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "DOI": "10.1109/3DPVT.2006.122",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "author": "Tagliasacchi Andrea",
+                "year": "2016",
+                "volume-title": "Skeletons: A State-of-the-Art Report. In Eurographics."
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "DOI": "10.1109/VISUAL.2003.1250410",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "unstructured": "YF Tsao and King Sun Fu. 1981. A parallel thinning algorithm for 3-D pictures. Computer graphics and image processing 17 4 (1981) 315--331.  YF Tsao and King Sun Fu. 1981. A parallel thinning algorithm for 3-D pictures. Computer graphics and image processing 17 4 (1981) 315--331."
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "DOI": "10.1145/2897824.2925938",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201396&ftid=1991580&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:45:40Z",
+            "timestamp": 1585961140000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "efficient, robust, and provably good approximation of 3D medial axes"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 52,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201396"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201396",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

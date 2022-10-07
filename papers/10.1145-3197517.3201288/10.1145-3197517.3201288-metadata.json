@@ -1,0 +1,390 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:55Z",
+            "timestamp": 1585962715279
+        },
+        "reference-count": 39,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201288",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 10,
+        "title": [
+            "P2P-NET"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Kangxue",
+                "family": "Yin",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Simon Fraser University"
+                    }
+                ]
+            },
+            {
+                "given": "Hui",
+                "family": "Huang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shenzhen University"
+                    }
+                ]
+            },
+            {
+                "given": "Daniel",
+                "family": "Cohen-Or",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shenzhen University and Tel Aviv University"
+                    }
+                ]
+            },
+            {
+                "given": "Hao",
+                "family": "Zhang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Simon Fraser University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_1_1_1",
+                "DOI": "10.1109/TVCG.2003.1175093",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_2_1",
+                "DOI": "10.1111/cgf.12802",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_3_1",
+                "DOI": "10.1111/cgf.13132",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_4_1",
+                "DOI": "10.1109/ICRA.2014.6907311",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_5_1",
+                "author": "Byravan Arunkumar",
+                "year": "2016",
+                "volume-title": "Proc. of ICRA."
+            },
+            {
+                "key": "e_1_2_1_6_1",
+                "DOI": "10.1109/SMI.2010.25",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_7_1",
+                "unstructured": "Jonathan C Carr Richard K Beatson Jon B Cherrie Tim J Mitchell W Richard Fright Bruce C McCallum and Tim R Evans. 2001. Reconstruction and representation of 3D objects with radial basis functions. In ACM Trans. on Graph (SIGGRAPH). 67--76. 10.1145/383259.383266   Jonathan C Carr Richard K Beatson Jon B Cherrie Tim J Mitchell W Richard Fright Bruce C McCallum and Tim R Evans. 2001. Reconstruction and representation of 3D objects with radial basis functions. In ACM Trans. on Graph (SIGGRAPH). 67--76. 10.1145/383259.383266"
+            },
+            {
+                "key": "e_1_2_1_8_1",
+                "DOI": "10.1109/TVCG.2012.34",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_9_1",
+                "DOI": "10.1109/CVPR.2017.693",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_10_1",
+                "DOI": "10.1109/CVPR.2017.264",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_11_1",
+                "DOI": "10.5244/C.31.54",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_12_1",
+                "unstructured": "Markus Gross and Hanspeter Pfister. 2007. Point-Based Graphics. Morgan Kaufmann.   Markus Gross and Hanspeter Pfister. 2007. Point-Based Graphics. Morgan Kaufmann."
+            },
+            {
+                "key": "e_1_2_1_13_1",
+                "unstructured": "Michael Gschwandtner Roland Kwitt Andreas Uhl and Wolfgang Pree. 2011. BlenSor: blender sensor simulation toolbox. Advances in visual computing (2011) 199--208.   Michael Gschwandtner Roland Kwitt Andreas Uhl and Wolfgang Pree. 2011. BlenSor: blender sensor simulation toolbox. Advances in visual computing (2011) 199--208.",
+                "DOI": "10.1007/978-3-642-24031-7_20",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_14_1",
+                "unstructured": "Paul Guerrero Yanir Kleiman Maks Ovsjanikov and Niloy J Mitra. 2017. PCP-NET: Learning Local Shape Properties from Raw Point Clouds. arXiv preprint arXiv:1710.04954 (2017).  Paul Guerrero Yanir Kleiman Maks Ovsjanikov and Niloy J Mitra. 2017. PCP-NET: Learning Local Shape Properties from Raw Point Clouds. arXiv preprint arXiv:1710.04954 (2017)."
+            },
+            {
+                "key": "e_1_2_1_15_1",
+                "DOI": "10.1145/3092817",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_16_1",
+                "DOI": "10.1145/1618452.1618522",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_17_1",
+                "DOI": "10.1145/2461912.2461913",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_18_1",
+                "DOI": "10.1145/2421636.2421645",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_19_1",
+                "DOI": "10.1109/CVPR.2017.632",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_20_1",
+                "author": "Jaderberg Max",
+                "year": "2015",
+                "volume-title": "Proc. of NIPS. 2017--2025"
+            },
+            {
+                "key": "e_1_2_1_21_1",
+                "DOI": "10.1145/2487228.2487237",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_22_1",
+                "author": "Lin Chen-Hsuan",
+                "year": "2018",
+                "volume-title": "Proc. of AAAI."
+            },
+            {
+                "key": "e_1_2_1_23_1",
+                "DOI": "10.1145/1276377.1276405",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_24_1",
+                "author": "Liu Ming-Yu",
+                "year": "2017",
+                "volume-title": "Proc. of NIPS. 700--708"
+            },
+            {
+                "key": "e_1_2_1_25_1",
+                "DOI": "10.1109/3DV.2017.00018",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_26_1",
+                "DOI": "10.1145/777792.777840",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_27_1",
+                "DOI": "10.1145/1028523.1028542",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_28_1",
+                "DOI": "10.1145/882262.882319",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_29_1",
+                "DOI": "10.1145/2601097.2601172",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_30_1",
+                "author": "Qi Charles R.",
+                "volume-title": "Proc. of CVPR."
+            },
+            {
+                "key": "e_1_2_1_31_1",
+                "author": "Qi Charles R.",
+                "volume-title": "Proc. of NIPS."
+            },
+            {
+                "key": "e_1_2_1_32_1",
+                "DOI": "10.1145/3130800.3130821",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_33_1",
+                "unstructured": "Andrea Tagliasacchi Thomas Delame Michela Spagnuolo Nina Amenta and Alexandru Telea. 2016. 3D Skeletons. In Eurographics State of the Art Report.  Andrea Tagliasacchi Thomas Delame Michela Spagnuolo Nina Amenta and Alexandru Telea. 2016. 3D Skeletons. In Eurographics State of the Art Report."
+            },
+            {
+                "key": "e_1_2_1_34_1",
+                "DOI": "10.1145/1531326.1531377",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_35_1",
+                "DOI": "10.1145/2816795.2818073",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_36_1",
+                "author": "Wu Zhirong",
+                "year": "2015",
+                "volume-title": "Proc. of CVPR. 1912--1920"
+            },
+            {
+                "key": "e_1_2_1_37_1",
+                "DOI": "10.1109/ICCV.2017.310",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_38_1",
+                "DOI": "10.1007/978-3-319-46493-0_18",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_39_1",
+                "DOI": "10.1109/ICCV.2017.244",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201288&ftid=1991615&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:32:15Z",
+            "timestamp": 1585960335000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "bidirectional point displacement net for shape transform"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 39,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201288"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201288",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

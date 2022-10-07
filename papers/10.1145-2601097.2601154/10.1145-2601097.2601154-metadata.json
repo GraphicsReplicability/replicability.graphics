@@ -1,0 +1,348 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:11:21Z",
+            "timestamp": 1586002281305
+        },
+        "reference-count": 30,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100007523",
+                "name": "Division of Advanced Cyberinfrastructure",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "ACI-1047932, IIS-0905502"
+                ]
+            },
+            {
+                "DOI": "10.13039/100000145",
+                "name": "Division of Information and Intelligent Systems",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "ACI-1047932, IIS-0905502"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601154",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 55,
+        "title": [
+            "Robust field-aligned global parametrization"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Ashish",
+                "family": "Myles",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "New York University"
+                    }
+                ]
+            },
+            {
+                "given": "Nico",
+                "family": "Pietroni",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "ISTI, CNR, Italy"
+                    }
+                ]
+            },
+            {
+                "given": "Denis",
+                "family": "Zorin",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "New York University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/882262.882296",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "Andronov A. A. Leontovich E. Gordon I. and Maier A. 1973. Qualitative theory of second-order dynamic systems. Israel Program for Scientific Translations Jerusalem.  Andronov A. A. Leontovich E. Gordon I. and Maier A. 1973. Qualitative theory of second-order dynamic systems . Israel Program for Scientific Translations Jerusalem."
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1111/j.1467-8659.2008.01142.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/1531326.1531383",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "Bommes D. Lvy B. Pietroni N. Puppo E. Silva C. Tarini M. and Zorin D. 2012. Quad Meshing. Eurographics Association Cagliari Sardinia Italy M.-P. Cani and F. Ganovelli Eds. 159--182.  Bommes D. Lvy B. Pietroni N. Puppo E. Silva C. Tarini M. and Zorin D. 2012. Quad Meshing. Eurographics Association Cagliari Sardinia Italy M.-P. Cani and F. Ganovelli Eds. 159--182."
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/2461912.2462014",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/1141911.1141993",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1007/PL00009479",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "author": "Eppstein D.",
+                "volume": "27",
+                "volume-title": "Computer Graphics Forum"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1016/j.cad.2013.09.003",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "Jadhav S. Bhatia H. Bremer P.-T. Levine J. A. Nonato L. G. and Pascucci V. 2012. Consistent approximation of local flow behavior for 2d vector fields using edge maps. In Topological Methods in Data Analysis and Visualization II. Springer 141--159.  Jadhav S. Bhatia H. Bremer P.-T. Levine J. A. Nonato L. G. and Pascucci V. 2012. Consistent approximation of local flow behavior for 2d vector fields using edge maps. In Topological Methods in Data Analysis and Visualization II . Springer 141--159.",
+                "DOI": "10.1007/978-3-642-23175-9_10",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/1138450.1138461",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/2461912.2462005",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/280814.280828",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1109/TVCG.2006.173",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "author": "Li W.",
+                "volume-title": "Symposium on Geometry Processing, Eurographics Association, 200"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/2185520.2185604",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/2185520.2185605",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/2461912.2461970",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/1778765.1778854",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "Ray N. and Sokolov D. 2013. Tracing cross-free polylines oriented by a n-symmetry direction field on triangulated surfaces. arXiv preprint arXiv:1306.0706.  Ray N. and Sokolov D. 2013. Tracing cross-free polylines oriented by a n-symmetry direction field on triangulated surfaces. arXiv preprint arXiv:1306.0706 ."
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/1183287.1183297",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/1356682.1356683",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1007/PL00013391",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/1360612.1360676",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1109/TVCG.2011.88",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "author": "Tong Y.",
+                "volume-title": "Symposium on Geometry Processing, 201--210"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "unstructured": "Tricoche X. Scheuermann G. and Hagen H. 2000. Higher order singularities in piecewise linear vector fields. In The Mathematics of Surfaces IX. Springer 99--113.   Tricoche X. Scheuermann G. and Hagen H. 2000. Higher order singularities in piecewise linear vector fields. In The Mathematics of Surfaces IX . Springer 99--113.",
+                "DOI": "10.1007/978-1-4471-0495-7_7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "Tricoche X. 2002. Vector and tensor field topology simplification tracking and visualization. In PhD. thesis Universit\u00e4t Kaiserslautern Citeseer.  Tricoche X. 2002. Vector and tensor field topology simplification tracking and visualization. In PhD. thesis Universit\u00e4t Kaiserslautern Citeseer."
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/1183287.1183290",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601154&amp;ftid=1488944&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:55:32Z",
+            "timestamp": 1586001332000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 30,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601154"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601154",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

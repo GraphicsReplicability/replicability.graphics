@@ -1,0 +1,651 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:05:36Z",
+            "timestamp": 1586001936319
+        },
+        "reference-count": 60,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925965",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 84,
+        "title": [
+            "Efficient and precise interactive hand tracking through joint, continuous optimization of pose and correspondences"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Jonathan",
+                "family": "Taylor",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research"
+                    }
+                ]
+            },
+            {
+                "given": "Lucas",
+                "family": "Bordeaux",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research"
+                    }
+                ]
+            },
+            {
+                "given": "Thomas",
+                "family": "Cashman",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research"
+                    }
+                ]
+            },
+            {
+                "given": "Bob",
+                "family": "Corish",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research"
+                    }
+                ]
+            },
+            {
+                "given": "Cem",
+                "family": "Keskin",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research"
+                    }
+                ]
+            },
+            {
+                "given": "Toby",
+                "family": "Sharp",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research"
+                    }
+                ]
+            },
+            {
+                "given": "Eduardo",
+                "family": "Soto",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "McMaster University"
+                    }
+                ]
+            },
+            {
+                "given": "David",
+                "family": "Sweeney",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research"
+                    }
+                ]
+            },
+            {
+                "given": "Julien",
+                "family": "Valentin",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Oxford"
+                    }
+                ]
+            },
+            {
+                "given": "Benjamin",
+                "family": "Luff",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Abertay"
+                    }
+                ]
+            },
+            {
+                "given": "Arran",
+                "family": "Topalian",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Abertay"
+                    }
+                ]
+            },
+            {
+                "given": "Erroll",
+                "family": "Wood",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Cambridge"
+                    }
+                ]
+            },
+            {
+                "given": "Sameh",
+                "family": "Khamis",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research"
+                    }
+                ]
+            },
+            {
+                "given": "Pushmeet",
+                "family": "Kohli",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research"
+                    }
+                ]
+            },
+            {
+                "given": "Shahram",
+                "family": "Izadi",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research"
+                    }
+                ]
+            },
+            {
+                "given": "Richard",
+                "family": "Banks",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research"
+                    }
+                ]
+            },
+            {
+                "given": "Andrew",
+                "family": "Fitzgibbon",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research"
+                    }
+                ]
+            },
+            {
+                "given": "Jamie",
+                "family": "Shotton",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "3Gear Systems Inc 2013. Gesture recognizer. http://threegear.com Jan.  3Gear Systems Inc 2013. Gesture recognizer. http://threegear.com Jan."
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "first-page": "II",
+                "article-title": "Estimating 3D hand pose from a cluttered image",
+                "volume": "2",
+                "author": "Athitsos V.",
+                "year": "2003",
+                "journal-title": "Proc. CVPR"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1007/978-3-642-33783-3_46",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.5555/1949767.1949885",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1109/TPAMI.2011.33",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1109/TSMCC.2008.923862",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1016/j.cviu.2006.10.012",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "author": "Fleishman S.",
+                "volume-title": "Proc. CVPR Workshops, 28--35"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "first-page": "5",
+                "article-title": "Statistical methods for tomographic image reconstruction",
+                "volume": "52",
+                "author": "Geman S.",
+                "year": "1987",
+                "journal-title": "Bulletin of the International Statistical Institute"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1109/CVPR.2014.146",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "author": "Heap T.",
+                "volume-title": "Proc. Automatic Face and Gesture Recognition, 140--145"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "unstructured": "Intel Corporation 2016. RealSense SDK. http://software.intel.com/realsense Jan.  Intel Corporation 2016. RealSense SDK. http://software.intel.com/realsense Jan."
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/2659467.2675048",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1007/978-3-642-33783-3_61",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "author": "Khamis S.",
+                "volume-title": "Proc. CVPR, 2540--2548"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/2380116.2380139",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1109/CVPR.2014.469",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "unstructured": "Leap Motion Inc 2013. Motion Controller. http://leapmotion.com/product Jan.  Leap Motion Inc 2013. Motion Controller. http://leapmotion.com/product Jan."
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "unstructured": "Leap Motion Inc 2015. Orion. http://developer.leapmotion.com/orion Feb.  Leap Motion Inc 2015. Orion. http://developer.leapmotion.com/orion Feb."
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1109/ICCV.2015.100",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "Loop C. T. 1987. Smooth Subdivision Surfaces Based on Triangles. Master's thesis University of Utah.  Loop C. T. 1987. Smooth Subdivision Surfaces Based on Triangles. Master's thesis University of Utah."
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/2816795.2818013",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "author": "Makris A.",
+                "volume-title": "Proc. CVPR Workshops, 8--17"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "author": "Melax S.",
+                "volume-title": "Proceedings of the 2013 Graphics Interface Conference, 63--70"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/122718.122736",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/2642918.2647407",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "unstructured": "Neverova N. Wolf C. Nebout F. and Taylor G. 2015. Hand pose estimation through weakly-supervised learning of a rich intermediate representation. arXiv preprint 1511.06728.  Neverova N. Wolf C. Nebout F. and Taylor G. 2015. Hand pose estimation through weakly-supervised learning of a rich intermediate representation. arXiv preprint 1511.06728."
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "author": "Oberweger M.",
+                "volume-title": "Proc. ICCV, 3316--3324"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "first-page": "1",
+                "article-title": "Efficient model-based 3D tracking of hand articulations using Kinect",
+                "volume": "101",
+                "author": "Oikonomidis I.",
+                "year": "2011",
+                "journal-title": "Proc. BMVC"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "first-page": "1",
+                "article-title": "Hybrid one-shot 3D hand pose estimation by exploiting uncertainties",
+                "volume": "182",
+                "author": "Poier G.",
+                "year": "2015",
+                "journal-title": "Proc. BMVC"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1109/CVPR.2014.145",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "author": "Rehg J. M.",
+                "volume-title": "Proc. ECCV, 35--46"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/2702123.2702179",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1109/CVPR.2011.5995316",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "unstructured": "Shotton J. Sharp T. Kohli P. Nowozin S. Winn J. and Criminisi A. 2013. Decision jungles: Compact and rich models for classification. In NIPS 234--242.  Shotton J. Sharp T. Kohli P. Nowozin S. Winn J. and Criminisi A. 2013. Decision jungles: Compact and rich models for classification. In NIPS 234--242."
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1109/ICCV.2013.305",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1109/3DV.2014.37",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "author": "Sridhar S.",
+                "volume-title": "Proc. CVPR, 3213--3221"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "first-page": "II",
+                "article-title": "Model-based 3D tracking of an articulated hand",
+                "volume": "2",
+                "author": "Stenger B.",
+                "year": "2001",
+                "journal-title": "Proc. CVPR"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "author": "Sun X.",
+                "volume-title": "Proc. CVPR, 824--832"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1111/cgf.12700",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "author": "Tan D. J.",
+                "volume-title": "Proc. CVPR."
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1109/ICCV.2013.400",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1109/ICCV.2015.380",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "author": "Taylor J.",
+                "volume-title": "Proc. CVPR, 103--110"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1109/CVPR.2014.88",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "author": "Tejani A.",
+                "volume-title": "Proc. ECCV, 462--477"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "DOI": "10.1145/2629500",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "unstructured": "Triggs W. McLauchlan P. Hartley R. and Fitzgibbon A. 2000. Bundle adjustment --- A modern synthesis. In Vision Algorithms: Theory and Practice LNCS. 298--372.   Triggs W. McLauchlan P. Hartley R. and Fitzgibbon A. 2000. Bundle adjustment --- A modern synthesis. In Vision Algorithms: Theory and Practice LNCS. 298--372.",
+                "DOI": "10.1007/3-540-44480-7_21",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "unstructured": "Tzionas D. Ballan L. Srikantha A. Aponte P. Pollefeys M. and Gall J. 2015. Capturing hands in action using discriminative salient points and physics simulation. arXiv preprint 1506.02178. 10.1007/s11263-016-0895-4   Tzionas D. Ballan L. Srikantha A. Aponte P. Pollefeys M. and Gall J. 2015. Capturing hands in action using discriminative salient points and physics simulation. arXiv preprint 1506.02178. 10.1007/s11263-016-0895-4"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "unstructured": "Ultrahaptics Ltd 2013. Haptics System. http://ultrahaptics.com Jan. Valentin J. Dai A. Niessner M. Kohli P. Torr P. Izadi S. and Keskin C. 2016. Learning to navigate the energy landscape. arXiv preprint 1603.05772.  Ultrahaptics Ltd 2013. Haptics System. http://ultrahaptics.com Jan. Valentin J. Dai A. Niessner M. Kohli P. Torr P. Izadi S. and Keskin C. 2016. Learning to navigate the energy landscape. arXiv preprint 1603.05772."
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "DOI": "10.1109/3DV.2013.37",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "DOI": "10.1145/1531326.1531369",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "DOI": "10.1145/2047196.2047269",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_55_1",
+                "DOI": "10.1145/2461912.2462000",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_56_1",
+                "first-page": "88",
+                "article-title": "View-independent recognition of hand postures",
+                "volume": "2",
+                "author": "Wu Y.",
+                "year": "2000",
+                "journal-title": "Proc. CVPR"
+            },
+            {
+                "key": "e_1_2_2_57_1",
+                "first-page": "426",
+                "article-title": "Capturing natural hand articulation",
+                "volume": "2",
+                "author": "Wu Y.",
+                "year": "2001",
+                "journal-title": "Proc. ICCV"
+            },
+            {
+                "key": "e_1_2_2_58_1",
+                "DOI": "10.1109/ICCV.2013.429",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_59_1",
+                "DOI": "10.1007/978-3-319-10602-1_50",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_60_1",
+                "author": "Zhao W.",
+                "volume-title": "Proc. Symposium on Computer Animation, 33--42"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925965&amp;ftid=1755881&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:32:58Z",
+            "timestamp": 1585963978000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 60,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925965"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925965",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

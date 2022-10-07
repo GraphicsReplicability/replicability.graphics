@@ -1,0 +1,399 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:11:20Z",
+            "timestamp": 1586002280850
+        },
+        "reference-count": 34,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601120",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 24,
+        "title": [
+            "Cascaded displays"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Felix",
+                "family": "Heide",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "NVIDIA Research"
+                    }
+                ]
+            },
+            {
+                "given": "Douglas",
+                "family": "Lanman",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "NVIDIA Research"
+                    }
+                ]
+            },
+            {
+                "given": "Dikpal",
+                "family": "Reddy",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "NVIDIA Research"
+                    }
+                ]
+            },
+            {
+                "given": "Jan",
+                "family": "Kautz",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "NVIDIA Research"
+                    }
+                ]
+            },
+            {
+                "given": "Kari",
+                "family": "Pulli",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "NVIDIA Research"
+                    }
+                ]
+            },
+            {
+                "given": "David",
+                "family": "Luebke",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "NVIDIA Research"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/2159516.2159518",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1889/1.2036298",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1109/TPAMI.2002.1033210",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1889/1.3069667",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "Ben-Ezra M. Zomet A. and Nayar S. K. 2004. Jitter camera: High resolution video from a low resolution detector. In IEEE Computer Vision and Pattern Recognition (CVPR) 135--142.   Ben-Ezra M. Zomet A. and Nayar S. K. 2004. Jitter camera: High resolution video from a low resolution detector. In IEEE Computer Vision and Pattern Recognition (CVPR) 135--142.",
+                "DOI": "10.21236/ADA437160",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "unstructured": "Berthouzoz F. and Fattal R. 2012. Apparent resolution enhancement for motion videos. In ACM Applied Perception. 10.1145/2338676.2338695   Berthouzoz F. and Fattal R. 2012. Apparent resolution enhancement for motion videos. In ACM Applied Perception . 10.1145/2338676.2338695",
+                "DOI": "10.1145/2338676.2338695",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/2159516.2159521",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "Blondel V. Ho N.-D. and van Dooren P. 2008. Weighted nonnegative matrix factorization and face feature extraction. In Image and Vision Computing 1--17.  Blondel V. Ho N.-D. and van Dooren P. 2008. Weighted nonnegative matrix factorization and face feature extraction. In Image and Vision Computing 1--17."
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/1477926.1477935",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/1778765.1778850",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "first-page": "1",
+                "article-title": "A multilayer liquid crystal display for autostereoscopic 3D viewing",
+                "volume": "7524",
+                "author": "Gotoda H.",
+                "year": "2010",
+                "journal-title": "SPIE Stereoscopic Displays and Applications XXI"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "first-page": "1",
+                "article-title": "Reduction of image blurring in an autostereoscopic multilayer liquid crystal display",
+                "volume": "7863",
+                "author": "Gotoda H.",
+                "year": "2011",
+                "journal-title": "SPIE Stereoscopic Displays and Applications XXII"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "author": "Hart W. M.",
+                "volume-title": "Adler's Physiology of the Eye"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/2461912.2461925",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "unstructured": "Heide F. Gregson J. Wetzstein G. Raskar R. and Heidrich W. 2014. A compressive multi-mode superresolution display. Technical Report arXiv:1404.5916.  Heide F. Gregson J. Wetzstein G. Raskar R. and Heidrich W. 2014. A compressive multi-mode superresolution display. Technical Report arXiv:1404.5916 .",
+                "DOI": "10.1364/COSI.2014.CM4C.3",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "Ho N.-D. 2008. Nonnegative Matrix Factorization Algorithms and Applications. PhD thesis Universit\u00e9 catholique de Louvain.  Ho N.-D. 2008. Nonnegative Matrix Factorization Algorithms and Applications . PhD thesis Universit\u00e9 catholique de Louvain."
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "first-page": "567",
+                "article-title": "Parallax stereogram and process of making same",
+                "volume": "725",
+                "author": "Ives F. E.",
+                "year": "1903",
+                "journal-title": "U.S. Patent"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "unstructured": "Jaynes C. and Ramakrishnan D. 2003. Super-resolution composition in multi-projector displays. In IEEE Projector-Camera Systems (PROCAMS).  Jaynes C. and Ramakrishnan D. 2003. Super-resolution composition in multi-projector displays. In IEEE Projector-Camera Systems (PROCAMS) ."
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1889/1.2841874",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "author": "Kusakabe Y.",
+                "volume-title": "Proc. SPIE 7241"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/1882261.1866164",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/2070781.2024220",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "first-page": "821",
+                "article-title": "\u00c9preuves r\u00e9versibles donnant la sensation du relief",
+                "volume": "7",
+                "author": "Lippmann G.",
+                "year": "1908",
+                "journal-title": "Journal of Physics"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "Majumder A. 2005. Is spatial super-resolution feasible using overlapping projectors? In IEEE Acoustics Speech and Signal Processing (ICASSP) vol. 4.  Majumder A. 2005. Is spatial super-resolution feasible using overlapping projectors? In IEEE Acoustics Speech and Signal Processing (ICASSP) vol. 4."
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "unstructured": "Olson J. Krum D. Suma E. and Bolas M. 2011. A design for a smartphone-based head mounted display. In IEEE Virtual Reality 233--234. 10.1109/VR.2011.5759484   Olson J. Krum D. Suma E. and Bolas M. 2011. A design for a smartphone-based head mounted display. In IEEE Virtual Reality 233--234. 10.1109/VR.2011.5759484",
+                "DOI": "10.1109/VR.2011.5759484",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "author": "Pavlovych A.",
+                "volume-title": "Proc. SPIE 5969"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/2185520.2185575",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "author": "Sajadi B.",
+                "volume-title": "IEEE International Conference on Computational Photography (ICCP), 1--10"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/1015706.1015797",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1109/TIP.2003.819861",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "author": "Watson B. A.",
+                "volume-title": "IEEE Virtual Reality Annual International Symposium, 172--178"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/2010324.1964990",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/2185520.2185576",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1155/2011/602914",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601120&amp;ftid=1488868&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:54:24Z",
+            "timestamp": 1586001264000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "spatiotemporal superresolution using offset pixel layers"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 34,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601120"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601120",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

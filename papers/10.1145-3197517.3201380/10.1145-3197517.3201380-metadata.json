@@ -1,0 +1,307 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:55Z",
+            "timestamp": 1585962715873
+        },
+        "reference-count": 24,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100008982",
+                "name": "National Science Foundation of Sri Lanka",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "IIS-1253530"
+                ]
+            },
+            {
+                "name": "NVIDIA Corporation",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201380",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 2,
+        "title": [
+            "Slang"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Yong",
+                "family": "He",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Carnegie Mellon University"
+                    }
+                ]
+            },
+            {
+                "given": "Kayvon",
+                "family": "Fatahalian",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Tim",
+                "family": "Foley",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "NVIDIA"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "Amazon. 2016. Lumberyard Engine https://aws.amazon.com/lumberyard/. (2016).  Amazon. 2016. Lumberyard Engine https://aws.amazon.com/lumberyard/. (2016)."
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "Apple Inc. 2014a. Metal https://developer.apple.com/documentation/metal  Apple Inc. 2014a. Metal https://developer.apple.com/documentation/metal"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "unstructured": "Apple Inc. 2014b. The Swift Programming Language. https://itunes.apple.com/us/book/the-swift-programming-language-swift-4-0-3/id881256329  Apple Inc. 2014b. The Swift Programming Language. https://itunes.apple.com/us/book/the-swift-programming-language-swift-4-0-3/id881256329"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "F. O. Bartell E. L. Dereniak and W. L Wolfe. 1981. The Theory And Measurement Of Bidirectional Reflectance Distribution Function (BRDF) And Bidirectional Transmittance Distribution Function (BTDF). (1981) 0257 - 0257 - 7 pages.  F. O. Bartell E. L. Dereniak and W. L Wolfe. 1981. The Theory And Measurement Of Bidirectional Reflectance Distribution Function (BRDF) And Bidirectional Transmittance Distribution Function (BTDF). (1981) 0257 - 0257 - 7 pages.",
+                "DOI": "10.1117/12.959611",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "Nir Benty Kai-Hwa Yao Tim Foley Anton S. Kaplanyan Conor Lavelle Chris Wyman and Ashwin Vijay 2017. The Falcor Rendering Framework. (07 2017). https://gir.hub.com/NVTDIAGameWorks/Falcor https://github.com/NVIDIAGameWorks/Falcor.  Nir Benty Kai-Hwa Yao Tim Foley Anton S. Kaplanyan Conor Lavelle Chris Wyman and Ashwin Vijay 2017. The Falcor Rendering Framework. (07 2017). https://gir.hub.com/NVTDIAGameWorks/Falcor https://github.com/NVIDIAGameWorks/Falcor."
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "unstructured": "ECMA International. 2017. C# Language Specification (ECMA-334:2017). (2017).  ECMA International. 2017. C# Language Specification (ECMA-334:2017). (2017)."
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "unstructured": "Epic Games. 2015. Unreal Engine 4 Documentation http://docs.unrealengine.com. (2015).  Epic Games. 2015. Unreal Engine 4 Documentation http://docs.unrealengine.com. (2015)."
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/3072959.3073648",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/2897824.2925895",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "Sony Pictures Imageworks. 2017. Open Shading Language 1.9 Language Specification. https://github.com/imageworks/OpenShadingLanguage/blob/master/src/doc/osl-languagespec.pdf. (2017).  Sony Pictures Imageworks. 2017. Open Shading Language 1.9 Language Specification. https://github.com/imageworks/OpenShadingLanguage/blob/master/src/doc/osl-languagespec.pdf. (2017)."
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "Khronos Group Inc. 2009. ARB_shader_subroutine https://www.opengl.org/registry/specs/ARB/shader_subroutine.txt. (2009).  Khronos Group Inc. 2009. ARB_shader_subroutine https://www.opengl.org/registry/specs/ARB/shader_subroutine.txt. (2009)."
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "unstructured": "Michael D. McCool and Stefanus Du Toit. 2004. Metaprogramming GPUs with Sh. A K Peters. I-XVII 1--290 pages.   Michael D. McCool and Stefanus Du Toit. 2004. Metaprogramming GPUs with Sh. A K Peters. I-XVII 1--290 pages."
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "author": "McCool Michael D.",
+                "volume-title": "Shader Metaprogramming. In Proceedings of the ACM SIGGRAPH/EUROGRAPHICS Conference on Graphics Hardware (HWWS '02)"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "author": "McDonald John",
+                "year": "2016",
+                "volume-title": "GPU Technology Conference 2016 (GTC). http://on-demand.gputechconf.com/gtc/2016/events/vulkanday/High_Performance_Vulkan.pdf."
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "unstructured": "Microsoft. 2011. Interfaces and Classes https://msdn.microsoft.com/en-us/library/windows/desktop/ff471421.aspx. (2011).  Microsoft. 2011. Interfaces and Classes https://msdn.microsoft.com/en-us/library/windows/desktop/ff471421.aspx. (2011)."
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "F. E. Nicodemus J. C. Richmond J. J. Hsia I. W. Ginsberg and T. Limperis. 1992. Radiometry Jones and Bartlett Publishers Inc. USA Chapter Geometrical Considerations and Nomenclature for Reflectance 94--145. http://dl.acm.org/citation.cfm?id=136913.136929   F. E. Nicodemus J. C. Richmond J. J. Hsia I. W. Ginsberg and T. Limperis. 1992. Radiometry Jones and Bartlett Publishers Inc. USA Chapter Geometrical Considerations and Nomenclature for Reflectance 94--145. http://dl.acm.org/citation.cfm?id=136913.136929"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "author": "NVIDIA.",
+                "year": "2017",
+                "volume-title": "ORCA: Open Research Content Archive"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "unstructured": "Matt Pharr. 2004. An Introduction to Shader Interfaces. In GPU Gems: Programming Techniques Tips and Tricks for Real-Time Graphics Randima Fernando (Ed.). Pearson Higher Education.  Matt Pharr. 2004. An Introduction to Shader Interfaces. In GPU Gems: Programming Techniques Tips and Tricks for Real-Time Graphics Randima Fernando (Ed.). Pearson Higher Education."
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "author": "Pranckevi\u010dius Aras",
+                "year": "2015",
+                "volume-title": "SIGGRAPH 2015 Course Notes: An Overview of Next-generation Graphics APIs. http://nextgenapis.realtimerendering.com/presentations/7_Pranckevicius_Unity.pptx."
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "Rust Project Developers. 2015. The Rust Programming Language. https://doc.rust-lang.org/book/.  Rust Project Developers. 2015. The Rust Programming Language. https://doc.rust-lang.org/book/."
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "author": "Sandy Matt",
+                "year": "2018",
+                "volume-title": "DirectX Raytracing. Game Developers Conference 2018 slides.. (2018"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "unstructured": "Natalya Tatarchuk and Chris Tchou. 2017. Destiny Shader Pipeline. (2017). http://advances.realtimerendering.com/destiny/gdc_2017/index.html.  Natalya Tatarchuk and Chris Tchou. 2017. Destiny Shader Pipeline. (2017). http://advances.realtimerendering.com/destiny/gdc_2017/index.html."
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "Unity Technologies. 2017. Unity 5.6 Users Manual. Available at https://docs.unity3d.com/. (2017).  Unity Technologies. 2017. Unity 5.6 Users Manual. Available at https://docs.unity3d.com/. (2017)."
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/75277.75283",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201380&ftid=1991789&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:37:41Z",
+            "timestamp": 1585960661000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "language mechanisms for extensible real-time shading systems"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 24,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201380"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201380",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

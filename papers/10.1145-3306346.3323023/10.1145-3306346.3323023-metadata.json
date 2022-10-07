@@ -1,0 +1,483 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    21
+                ]
+            ],
+            "date-time": "2020-07-21T08:06:12Z",
+            "timestamp": 1595318772918
+        },
+        "reference-count": 49,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2020,
+                            7,
+                            12
+                        ]
+                    ],
+                    "date-time": "2020-07-12T00:00:00Z",
+                    "timestamp": 1594512000000
+                },
+                "delay-in-days": 366,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100000185",
+                "name": "Defense Advanced Research Projects Agency",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "FA8750-18-C000"
+                ]
+            },
+            {
+                "DOI": "10.13039/100000001",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "1524817"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "DOI": "10.1145/3306346.3323023",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2019-07-12T19:04:08Z",
+            "timestamp": 1562958248000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 7,
+        "title": [
+            "Semantic photo manipulation with a generative image prior"
+        ],
+        "prefix": "10.1145",
+        "volume": "38",
+        "author": [
+            {
+                "given": "David",
+                "family": "Bau",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "MIT CSAIL"
+                    }
+                ]
+            },
+            {
+                "given": "Hendrik",
+                "family": "Strobelt",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "IBM Research"
+                    }
+                ]
+            },
+            {
+                "given": "William",
+                "family": "Peebles",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "MIT CSAIL"
+                    }
+                ]
+            },
+            {
+                "given": "Jonas",
+                "family": "Wulff",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "MIT CSAIL"
+                    }
+                ]
+            },
+            {
+                "given": "Bolei",
+                "family": "Zhou",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "The Chinese University of Hong Kong"
+                    }
+                ]
+            },
+            {
+                "given": "Jun-Yan",
+                "family": "Zhu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "MIT CSAIL"
+                    }
+                ]
+            },
+            {
+                "given": "Antonio",
+                "family": "Torralba",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "MIT CSAIL"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/1360612.1360639",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/1276377.1276390",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/1531326.1531330",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "David Bau Jun-Yan Zhu Hendrik Strobelt Zhou Bolei Joshua B. Tenenbaum William T. Freeman and Antonio Torralba. 2019. GAN Dissection: Visualizing and Understanding Generative Adversarial Networks. In ICLR.  David Bau Jun-Yan Zhu Hendrik Strobelt Zhou Bolei Joshua B. Tenenbaum William T. Freeman and Antonio Torralba. 2019. GAN Dissection: Visualizing and Understanding Generative Adversarial Networks. In ICLR."
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "Andrew Brock Jeff Donahue and Karen Simonyan. 2019. Large scale gan training for high fidelity natural image synthesis. (2019).  Andrew Brock Jeff Donahue and Karen Simonyan. 2019. Large scale gan training for high fidelity natural image synthesis. (2019)."
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "unstructured": "Andrew Brock Theodore Lim James M Ritchie and Nick Weston. 2017. Neural photo editing with introspective adversarial networks. In ICLR.  Andrew Brock Theodore Lim James M Ritchie and Nick Weston. 2017. Neural photo editing with introspective adversarial networks. In ICLR."
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "author": "Chen Xi",
+                "year": "2016",
+                "volume-title": "Infogan: Interpretable representation learning by information maximizing generative adversarial nets. In NIPS."
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "Alexey Dosovitskiy and Thomas Brox. 2016. Generating images with perceptual similarity metrics based on deep networks. In NIPS.   Alexey Dosovitskiy and Thomas Brox. 2016. Generating images with perceptual similarity metrics based on deep networks. In NIPS."
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/566654.566574",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "Leon A Gatys Alexander S Ecker and Matthias Bethge. 2016. Image Style Transfer Using Convolutional Neural Networks. CVPR (2016).  Leon A Gatys Alexander S Ecker and Matthias Bethge. 2016. Image Style Transfer Using Convolutional Neural Networks. CVPR (2016)."
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "Jiahao Geng Tianjia Shao Youyi Zheng Yanlin Weng and Kun Zhou. 2018. Warp-guided GANs for single-photo facial animation. In SIGGRAPH Asia. 231. 10.1145/3272127.3275043   Jiahao Geng Tianjia Shao Youyi Zheng Yanlin Weng and Kun Zhou. 2018. Warp-guided GANs for single-photo facial animation. In SIGGRAPH Asia. 231. 10.1145/3272127.3275043"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/3072959.3073592",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "Ian Goodfellow Jean Pouget-Abadie Mehdi Mirza Bing Xu David Warde-Farley Sherjil Ozair Aaron Courville and Yoshua Bengio. 2014. Generative adversarial nets. In NIPS.   Ian Goodfellow Jean Pouget-Abadie Mehdi Mirza Bing Xu David Warde-Farley Sherjil Ozair Aaron Courville and Yoshua Bengio. 2014. Generative adversarial nets. In NIPS."
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Satoshi Iizuka Edgar Simo-Serra and Hiroshi Ishikawa. 2016. Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification. ACM TOG 35 4 (2016). 10.1145/2897824.2925974   Satoshi Iizuka Edgar Simo-Serra and Hiroshi Ishikawa. 2016. Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification. ACM TOG 35 4 (2016). 10.1145/2897824.2925974"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/3072959.3073659",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "Phillip Isola Jun-Yan Zhu Tinghui Zhou and Alexei A Efros. 2017. Image-to-image translation with conditional adversarial networks. In CVPR.  Phillip Isola Jun-Yan Zhu Tinghui Zhou and Alexei A Efros. 2017. Image-to-image translation with conditional adversarial networks. In CVPR.",
+                "DOI": "10.1109/CVPR.2017.632",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "Tero Karras Timo Aila Samuli Laine and Jaakko Lehtinen. 2018. Progressive growing of gans for improved quality stability and variation. In ICLR.  Tero Karras Timo Aila Samuli Laine and Jaakko Lehtinen. 2018. Progressive growing of gans for improved quality stability and variation. In ICLR."
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "unstructured": "Tero Karras Samuli Laine and Timo Aila. 2019. A style-based generator architecture for generative adversarial networks. In CVPR.  Tero Karras Samuli Laine and Timo Aila. 2019. A style-based generator architecture for generative adversarial networks. In CVPR.",
+                "DOI": "10.1109/CVPR.2019.00453",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/2070781.2024191",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/2601097.2601209",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/3197517.3201377",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "author": "Kingma Diederik",
+                "year": "2015",
+                "volume-title": "Adam: A method for stochastic optimization. In ICLR."
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "Diederik P Kingma and Max Welling. 2014. Auto-encoding variational bayes. ICLR (2014).  Diederik P Kingma and Max Welling. 2014. Auto-encoding variational bayes. ICLR (2014)."
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "Jean-Fran\u00e7ois Lalonde Derek Hoiem Alexei A Efros Carsten Rother John Winn and Antonio Criminisi. 2007. Photo clip art. ACM transactions on graphics (TOG) 26 3 (2007) 3. 10.1145/1276377.1276381   Jean-Fran\u00e7ois Lalonde Derek Hoiem Alexei A Efros Carsten Rother John Winn and Antonio Criminisi. 2007. Photo clip art. ACM transactions on graphics (TOG) 26 3 (2007) 3. 10.1145/1276377.1276381",
+                "DOI": "10.1145/1276377.1276381",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/1015706.1015780",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "unstructured": "Yijun Li Ming-Yu Liu Xueting Li Ming-Hsuan Yang and Jan Kautz. 2018. A closed-form solution to photorealistic image stylization. In ECCV.  Yijun Li Ming-Yu Liu Xueting Li Ming-Hsuan Yang and Jan Kautz. 2018. A closed-form solution to photorealistic image stylization. In ECCV."
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "unstructured": "Takeru Miyato Toshiki Kataoka Masanori Koyama and Yuichi Yoshida. 2018. Spectral normalization for generative adversarial networks. In ICLR.  Takeru Miyato Toshiki Kataoka Masanori Koyama and Yuichi Yoshida. 2018. Spectral normalization for generative adversarial networks. In ICLR."
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "unstructured": "Koki Nagano Jaewoo Seo Jun Xing Lingyu Wei Zimo Li Shunsuke Saito Aviral Agarwal Jens Fursund Hao Li Richard Roberts and others. 2018. paGAN: real-time avatars using dynamic textures. In SIGGRAPH Asia. 258. 10.1145/3272127.3275075   Koki Nagano Jaewoo Seo Jun Xing Lingyu Wei Zimo Li Shunsuke Saito Aviral Agarwal Jens Fursund Hao Li Richard Roberts and others. 2018. paGAN: real-time avatars using dynamic textures. In SIGGRAPH Asia. 258. 10.1145/3272127.3275075"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "Taesung Park Ming-Yu Liu Ting-Chun Wang and Jun-Yan Zhu. 2019. Semantic Image Synthesis with Spatially-Adaptive Normalization. In CVPR.  Taesung Park Ming-Yu Liu Ting-Chun Wang and Jun-Yan Zhu. 2019. Semantic Image Synthesis with Spatially-Adaptive Normalization. In CVPR.",
+                "DOI": "10.1109/CVPR.2019.00244",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "unstructured": "Deepak Pathak Philipp Krahenbuhl Jeff Donahue Trevor Darrell and Alexei A Efros. 2016. Context Encoders:Feature Learning by Inpainting. CVPR (2016).  Deepak Pathak Philipp Krahenbuhl Jeff Donahue Trevor Darrell and Alexei A Efros. 2016. Context Encoders:Feature Learning by Inpainting. CVPR (2016).",
+                "DOI": "10.1109/CVPR.2016.278",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "author": "Perarnau Guim",
+                "volume-title": "NIPS Workshop on Adversarial Training."
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "unstructured": "Patrick P\u00e9rez Michel Gangnet and Andrew Blake. 2003. Poisson image editing. ACM Transactions on graphics (TOG) 22 3 (2003) 313--318. 10.1145/882262.882269   Patrick P\u00e9rez Michel Gangnet and Andrew Blake. 2003. Poisson image editing. ACM Transactions on graphics (TOG) 22 3 (2003) 313--318. 10.1145/882262.882269"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/3197517.3201393",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "unstructured": "Erik Reinhard Michael Adhikhmin Bruce Gooch and Peter Shirley. 2001. Color transfer between images. IEEE Computer graphics and applications 21 5 (2001) 34--41. 10.1109/38.946629   Erik Reinhard Michael Adhikhmin Bruce Gooch and Peter Shirley. 2001. Color transfer between images. IEEE Computer graphics and applications 21 5 (2001) 34--41. 10.1109/38.946629",
+                "DOI": "10.1109/38.946629",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "author": "Sangkloy Patsorn",
+                "year": "2017",
+                "volume-title": "Scribbler: Controlling Deep Image Synthesis with Sketch and Color. In CVPR."
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "unstructured": "Assaf Shocher Nadav Cohen and Michal Irani. 2018. \"Zero-Shot\" Super-Resolution using Deep Internal Learning. In CVPR.  Assaf Shocher Nadav Cohen and Michal Irani. 2018. \"Zero-Shot\" Super-Resolution using Deep Internal Learning. In CVPR.",
+                "DOI": "10.1109/CVPR.2018.00329",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "unstructured": "Karen Simonyan and Andrew Zisserman. 2015. Very deep convolutional networks for large-scale image recognition. In ICLR.  Karen Simonyan and Andrew Zisserman. 2015. Very deep convolutional networks for large-scale image recognition. In ICLR."
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "unstructured": "Michael W Tao Micah K Johnson and Sylvain Paris. 2010. Error-tolerant image compositing. In ECCV.   Michael W Tao Micah K Johnson and Sylvain Paris. 2010. Error-tolerant image compositing. In ECCV."
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "unstructured": "Dmitry Ulyanov Andrea Vedaldi and Victor Lempitsky. 2018. Deep image prior. In CVPR.  Dmitry Ulyanov Andrea Vedaldi and Victor Lempitsky. 2018. Deep image prior. In CVPR."
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "unstructured": "Ting-Chun Wang Ming-Yu Liu Jun-Yan Zhu Andrew Tao Jan Kautz and Bryan Catanzaro. 2018. High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs. In CVPR.  Ting-Chun Wang Ming-Yu Liu Jun-Yan Zhu Andrew Tao Jan Kautz and Bryan Catanzaro. 2018. High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs. In CVPR."
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1145/2185520.2185580",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "author": "Yu Fisher",
+                "year": "2015",
+                "volume-title": "Lsun: Construction of a large-scale image dataset using deep learning with humans in the loop. arXiv preprint arXiv:1506.03365"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "author": "Yu Jiahui",
+                "volume-title": "Generative Image Inpainting With Contextual Attention. In The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)."
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1145/2980179.2982432",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "unstructured": "Han Zhang Tao Xu Hongsheng Li Shaoting Zhang Xiaogang Wang Xiaolei Huang and Dimitris Metaxas. 2017a. StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks. In ICCV.  Han Zhang Tao Xu Hongsheng Li Shaoting Zhang Xiaogang Wang Xiaolei Huang and Dimitris Metaxas. 2017a. StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks. In ICCV.",
+                "DOI": "10.1109/ICCV.2017.629",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "unstructured": "Richard Zhang Phillip Isola and Alexei A Efros. 2016b. Colorful Image Colorization. In ECCV.  Richard Zhang Phillip Isola and Alexei A Efros. 2016b. Colorful Image Colorization. In ECCV.",
+                "DOI": "10.1007/978-3-319-46487-9_40",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "DOI": "10.1145/3072959.3073703",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "unstructured": "Jun-Yan Zhu Philipp Kr\u00e4henb\u00fchl Eli Shechtman and Alexei A. Efros. 2016. Generative Visual Manipulation on the Natural Image Manifold. In ECCV.  Jun-Yan Zhu Philipp Kr\u00e4henb\u00fchl Eli Shechtman and Alexei A. Efros. 2016. Generative Visual Manipulation on the Natural Image Manifold. In ECCV."
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "unstructured": "Jun-Yan Zhu Taesung Park Phillip Isola and Alexei A Efros. 2017. Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks. In ICCV.  Jun-Yan Zhu Taesung Park Phillip Isola and Alexei A Efros. 2017. Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks. In ICCV."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "https://dl.acm.org/doi/pdf/10.1145/3306346.3323023",
+                "content-type": "application/pdf",
+                "content-version": "vor",
+                "intended-application": "syndication"
+            },
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3323023&ftid=2071751&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2020-07-12T19:15:22Z",
+            "timestamp": 1594581322000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "references-count": 49,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        12
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3306346.3323023"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3306346.3323023",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

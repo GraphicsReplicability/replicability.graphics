@@ -1,0 +1,337 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:11:20Z",
+            "timestamp": 1586002280829
+        },
+        "reference-count": 27,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100002418",
+                "name": "Intel Corporation",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "name": "Columbia Junior Faculty Startup Fund",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601187",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 13,
+        "title": [
+            "Fast multipole representation of diffusion curves and points"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Timothy",
+                "family": "Sun",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Columbia University"
+                    }
+                ]
+            },
+            {
+                "given": "Papoj",
+                "family": "Thamjaroenporn",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Columbia University"
+                    }
+                ]
+            },
+            {
+                "given": "Changxi",
+                "family": "Zheng",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Columbia University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "Abraham R. 2010. Strange attractors http://www.chaoscope.org.  Abraham R. 2010. Strange attractors http://www.chaoscope.org."
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "Agarwala A. Dontcheva M. Agrawala M. Drucker S. Colburn A. Curless B. S alesin D. and Cohen M. 2004. Interactive digital photomontage. ACM Trans. Graph. (SIGGRAPH 2004) 23 3 (Aug.) 294--302. 10.1145/1015706.1015718   Agarwala A. Dontcheva M. Agrawala M. Drucker S. Colburn A. Curless B. S alesin D. and Cohen M. 2004. Interactive digital photomontage. ACM Trans. Graph. (SIGGRAPH 2004) 23 3 (Aug.) 294--302. 10.1145/1015706.1015718",
+                "DOI": "10.1145/1015706.1015718",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/1809939.1809944",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1111/j.1467-8659.2011.01994.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/2366145.2366192",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.5555/2421731.2421746",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "unstructured": "Farbman Z. Hoffer G. Lipman Y. Cohen-Or D. and Lischinski D. 2009. Coordinates for instant image cloning. ACM Trans. Graph. (SIGGRAPH 2009) 28 3 (July) 67:1--67:9. 10.1145/1531326.1531373   Farbman Z. Hoffer G. Lipman Y. Cohen-Or D. and Lischinski D. 2009. Coordinates for instant image cloning. ACM Trans. Graph. (SIGGRAPH 2009) 28 3 (July) 67:1--67:9. 10.1145/1531326.1531373",
+                "DOI": "10.1145/1531326.1531373",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "Finch M. Snyder J. and Hoppe H. 2011. Freeform vector graphics with controlled thin-plate splines. ACM Trans. Graph. (SIGGRAPH Asia 2011) 30 6 (Dec.) 166:1--166:10. 10.1145/2070781.2024200   Finch M. Snyder J. and Hoppe H. 2011. Freeform vector graphics with controlled thin-plate splines. ACM Trans. Graph. (SIGGRAPH Asia 2011) 30 6 (Dec.) 166:1--166:10. 10.1145/2070781.2024200",
+                "DOI": "10.1145/2070781.2024200",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1016/0021-9991(87)90140-9",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1137/0912004",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1016/j.jcp.2005.10.029",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/127719.122740",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "Ilbery P. Kendall L. Concolato C. and McCosker M. 2013. Biharmonic diffusion curve images from boundary elements. ACM Trans. Graph. (SIGGRAPH Asia 2013) 32 6 (Nov.) 219:1--219:12. 10.1145/2508363.2508426   Ilbery P. Kendall L. Concolato C. and McCosker M. 2013. Biharmonic diffusion curve images from boundary elements. ACM Trans. Graph. (SIGGRAPH Asia 2013) 32 6 (Nov.) 219:1--219:12. 10.1145/2508363.2508426",
+                "DOI": "10.1145/2508363.2508426",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Jeschke S. Cline D. and Wonka P. 2009. A gpu laplacian solver for diffusion curves and poisson image editing. ACM Trans. Graph. (SIGGRAPH Asia 2009) 28 5 (Dec.) 116:1--116:8. 10.1145/1618452.1618462   Jeschke S. Cline D. and Wonka P. 2009. A gpu laplacian solver for diffusion curves and poisson image editing. ACM Trans. Graph. (SIGGRAPH Asia 2009) 28 5 (Dec.) 116:1--116:8. 10.1145/1618452.1618462",
+                "DOI": "10.1145/1618452.1618462",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1038/29195",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/1073204.1073261",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "Li Y. Sharan L. and Adelson E. H. 2005. Compressing and companding high dynamic range images with subband architectures. ACM Trans. Graph. (SIGGRAPH 2005) 24 3 (July) 836--844. 10.1145/1073204.1073271   Li Y. Sharan L. and Adelson E. H. 2005. Compressing and companding high dynamic range images with subband architectures. ACM Trans. Graph. (SIGGRAPH 2005) 24 3 (July) 836--844. 10.1145/1073204.1073271",
+                "DOI": "10.1145/1073204.1073271",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1016/j.enganabound.2005.11.006",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/1141911.1141944",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "Orzan A. Bousseau A. Winnem\u00f6ller H. Barla P. Thollot J. and Salesin D. 2008. Diffusion curves: A vector representation for smooth-shaded images. ACM Trans. on Graphics (SIGGRAPH 2008) 27 3 (Aug.) 92:1--92:8. 10.1145/1360612.1360691   Orzan A. Bousseau A. Winnem\u00f6ller H. Barla P. Thollot J. and Salesin D. 2008. Diffusion curves: A vector representation for smooth-shaded images. ACM Trans. on Graphics (SIGGRAPH 2008) 27 3 (Aug.) 92:1--92:8. 10.1145/1360612.1360691",
+                "DOI": "10.1145/1360612.1360691",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1109/MCG.2011.86",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "unstructured": "P\u00e9rez P. Gangnet M. and Blake A. 2003. Poisson image editing. ACM Trans. Graph. (SIGGRAPH 2003) 22 3 (July) 313--318. 10.1145/882262.882269   P\u00e9rez P. Gangnet M. and Blake A. 2003. Poisson image editing. ACM Trans. Graph. (SIGGRAPH 2003) 22 3 (July) 313--318. 10.1145/882262.882269",
+                "DOI": "10.1145/882262.882269",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/964965.808606",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "Sun X. Xie G. Dong Y. Lin S. Xu W. Wang W. Tong X. and Guo B. 2012. Diffusion curve textures for resolution independent texture mapping. ACM Trans. Graph. (SIGGRAPH 2012) 31 4 (July). 10.1145/2185520.2185570   Sun X. Xie G. Dong Y. Lin S. Xu W. Wang W. Tong X. and Guo B. 2012. Diffusion curve textures for resolution independent texture mapping. ACM Trans. Graph. (SIGGRAPH 2012) 31 4 (July). 10.1145/2185520.2185570",
+                "DOI": "10.1145/2185520.2185570",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "unstructured": "Takayama K. Sorkine O. Nealen A. and Igarashi T. 2010. Volumetric modeling with diffusion surfaces. ACM Transactions on Graphics (proceedings of ACM SIGGRAPH) 29 6 180:1--180:8. 10.1145/1882261.1866202   Takayama K. Sorkine O. Nealen A. and Igarashi T. 2010. Volumetric modeling with diffusion surfaces. ACM Transactions on Graphics (proceedings of ACM SIGGRAPH) 29 6 180:1--180:8. 10.1145/1882261.1866202",
+                "DOI": "10.1145/1882261.1866202",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/1778765.1778806",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/2010324.1964933",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601187&amp;ftid=1488861&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:51:34Z",
+            "timestamp": 1586001094000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 27,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601187"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601187",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

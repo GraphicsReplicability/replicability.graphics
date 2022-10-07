@@ -1,0 +1,178 @@
+<html><head><meta charset="utf-8">
+ <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+ <script src="../../assets/js/chart-utils.js"></script>
+<link rel="stylesheet"
+       href="../../assets/css/default.min.css">
+ <script src="../../assets/js/highlight.min.js"></script>
+ <script>hljs.initHighlightingOnLoad();</script>
+ <link href="../../assets/css/all.css" rel="stylesheet">
+ <link rel="stylesheet" href="../../assets/css/customstyle.css">
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pretty-checkbox@3.0/dist/pretty-checkbox.min.css">
+
+  <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+  <script>
+  var currentReviewId = 0;
+
+  $( function() {
+    $( "#tabs" ).tabs({
+    activate: function (event, ui) {
+        var reviewId = parseInt(event.currentTarget.id.substring(6));
+
+        [myChart.data.datasets[0].data, myChart.data.datasets[currentReviewId].data] =
+ [myChart.data.datasets[currentReviewId].data, myChart.data.datasets[0].data];
+
+        currentReviewId = reviewId-1;
+
+        [myChart.data.datasets[0].data, myChart.data.datasets[currentReviewId].data] =
+ [myChart.data.datasets[currentReviewId].data, myChart.data.datasets[0].data];
+
+        myChart.update(0);
+    }
+  });
+  } );
+  </script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-164636527-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-164636527-1');
+</script>
+<title>On-line Learning of Parametric Mixture Models for Light Transport Simulation</title>
+<meta name="description" content="Replicability and source code of the article On-line Learning of Parametric Mixture Models for Light Transport Simulation.">
+
+  </head>
+<body>
+  <ul class="publist-inline" style="text-align:left;"><li class="web"><a href="../../browse.html">< The Data</a></ul><h1 class="title">On-line Learning of Parametric Mixture Models for Light Transport Simulation <i class="fas fa-circle graphcol2" style="font-size:150%;color:#7bccc4;" title="code available but we weren't able to reproduce any results (technical issue, device specific, repl. score <= 1)"></i> <i class="fas fa-square graphcol6"  style="font-size:150%;color:#7570b3;" title="Preprint PDF available (author web page, project page, institution page, arxiv...)"></i></h1><ul class="authors">
+<li> Jiří <span class="family">Vorba</span></li>
+<li> Ondřej <span class="family">Karlík</span></li>
+<li> Martin <span class="family">Šik</span></li>
+<li> Tobias <span class="family">Ritschel</span></li>
+<li> Jaroslav <span class="family">Křivánek</span></li>
+</ul>
+<center> SIGGRAPH 2014</center><ul class="publist-inline">
+<li class="web"> <i class="fas fa-globe-americas"></i> <a href="https://doi.org/10.1145/2601097.2601203">ACM</a></li>
+<li class="pdf"> <i class="far fa-file-pdf"></i> <a href="https://cgg.mff.cuni.cz/~jaroslav/papers/2014-onlineis/2014-onlineis-paper.pdf">preprint</a></li>
+<li class="web"> <i class="fas fa-globe-americas"></i> <a href="https://cgg.mff.cuni.cz/~jaroslav/papers/2014-onlineis/">Project page</a></li>
+<li class="web"> <i class="far fa-file-alt"></i> <a href="http://cgg.mff.cuni.cz/~jirka/papers/2014/olpm/olpm2014_source.zip">Code</a></li>
+<li class="web"> <i class="fas fa-database"></i> <a href="10.1145-2601097.2601203-metadata.json">DOI Metadata</a></li>
+</ul>
+<center><img width="300" src="10.1145-2601097.2601203-thumb.png"></img></center><br><br><ul class="publist-inline" style="text-align:left;font-size:100%"><li > <i ></i> <a href="replicability.json">Download complete data for this entry</a></li></ul>
+    <div class="row">
+    <div class="column2 chart-container" style="position: relative; height:40vh; width:30vw">
+    <canvas width="300" height="250" id="myChart" class="chartjs-render-monitor"></canvas>
+    </div>
+    
+    <div class="column2">
+    <h2>Reviews</h2>
+       <div id="tabs">
+          <ul>             <li><a href="#review-1">main</a></li>
+             <li><a href="#review-2">&#43;</a></li>
+</ul><div id="review-1"><h2>Information</h2><ul><li><span class="family">Paper topic</span>: Rendering</li>
+<li><span class="family">Software type</span>: Code</li>
+<li><span class="family">Able to run a replicability test</span>: False</li>
+<li><span class="family">Replicability score</span>: 1</li>
+<li><span class="family">Software language</span>: C/C++</li>
+<li><span class="family">License</span>: GPL</li>
+<li><span class="family">Build mechanism</span>: IDE Project (VS,..), SCONS</li>
+<li><span class="family">Dependencies</span>: mitsuba</li>
+<li><span class="family">Documentation score</span> {0,1,2}: 2</li>
+<li><span class="family">Reviewer</span>: Nicolas Bonneel &lt;nicolas.bonneel@liris.cnrs.fr&gt;</li>
+<li><span class="family">Time spent for the test (build->first run, timeout at 100min)</span>: 100min</li>
+</ul><h2>Source code information</h2>
+<ul><li><span class="family">Code URL</span>:  <a href="http://cgg.mff.cuni.cz/~jirka/papers/2014/olpm/olpm2014_source.zip">http://cgg.mff.cuni.cz/~jirka/papers/2014/olpm/olpm2014_source.zip</a></li>
+<li><span class="family">MD5 hash of the code archive</span>: 1C3B368202E9F787D9C5177ADC278303</li>
+</ul><h2>Comments</h2><pre>I tried compiling the code on Windows+Python3.6+VS2017. 
+
+First, the Sconscriptshould be updated to have "print ...." changed to "print(...)". This includes at lines 23, 29-30, 100, 104, 178, 184, 189, 194, 199, 203, 217, 221, 224, 227, 230, 237, 240, 244, 247, 250, 253, 257, 260, 264, 279, 282, 299--306 of Sconscript.configure and line 30 of Sconscript.install.
+
+Then the config-win64-msvc2010.py should be updated. You need to add '/arch:AVX' to CXXFLAGS, and change MSVC_VERSION    = '10.0' to MSVC_VERSION    = '14.1'  (I tried 15.0 since I have VS2017, but VS complained).
+
+In mitsuba/cor/util.h, you need to add #include &lt;intrin.h&gt;
+In Mitsuba 0.5.0\dependencies\include\boost\config\compiler\visualc.hpp, you may comment-out lined 44  #if _MSC_VER &lt; 1300 and the matching #end line 54, and perhaps manually set #define BOOST_COMPILER_VERSION evc15 instead of the error message lines 283--287.
+
+In LibImportance/shared/Config.h, I have issues with 
+    const Float NAN = std::numeric_limits&lt;Float&gt;::signaling_NaN();
+    const Float INFINITY = std::numeric_limits&lt;Float&gt;::infinity();
+line 109.
+Adding #undef NAN and #undef INFINITY did not solve the problem, and commenting out these two lines either.
+
+In LibImportance/shared/Sse.h, the compiler complains about undefined SSE functions, or similarly in avx_mathfun.h, it complains about the undefined __m256 type. Adding #include &lt;intrin.h&gt; did not help (anyway, there is already #include &lt;immintrin.h&gt; ), and passing the /arch:AVX to the compiler in the config-win64-msvc2010.py did not help either (usually, having arch:AVX and intrin.h is sufficient to have __m256 defined ; however, while this works with VisualStudio alone, the SConsScript may not work).
+
+Ultimately, I could not fix these issues and run the code.
+
+-- Alternate test on Linux 
+Compilation did not succeed on Linux.
+ fatal error: xutility: No such file or directory   27 | #include &lt;xutility&gt;, after commenting this line, I got to the error:
+fastonebigheader.h:60:10: fatal error: PrecompiledLibs/Embree/common/simd/smmintrin_emu.h: No such file or directory
+   60 | #include "PrecompiledLibs/Embree/common/simd/smmintrin_emu.h"
+
+which I was not able to solve.</pre></div><div id=review-2>
+           <p> If you want to contribute with another review, please follow <a href="../../index.html#contribute">these instructions</a>. </p>
+
+            <p>Please consider to cut/paste/edit the <a href="replicability.json">raw JSON data</a> attached to this paper.</a></p>
+            </div>
+            </div></div>
+    </div>
+    </div>
+    </div>
+        <script>
+ 	  var color = Chart.helpers.color;
+          var colorNames = Object.keys(window.chartColors);
+          var ctx = document.getElementById('myChart');
+          var myChart = new Chart(ctx, {
+              type: 'polarArea',
+              data: {
+                labels: ['Dependencies', 'Build / Configure', 'Fixing bugs', 'Easy to adapt', 'Can replicate paper results'],
+                     datasets: [{
+                      label: 'Variant -- "main" (the higher, the better,  {1..5}, 0=N/A )',
+                      showLine: false,
+           
+                      borderColor: "#000",
+                      borderWidth: 2,
+                      backgroundColor: [
+                          'rgba(255, 99, 132,.6)',
+                          'rgba(255, 159, 64,.6)',
+                          'rgba(255, 205, 86,.6)',
+                          'rgba(75, 192, 192,.6)',
+                          'rgba(54, 162, 235,.6)',
+                      ],
+                      data: [0,1,1,0,1]
+                  },
+                  ]
+              },
+              options: {
+  scale: {
+      ticks: {
+          suggestedMin: 0,
+          suggestedMax: 5,
+          stepSize: 1
+      }
+  }
+}
+          });
+
+        </script>
+    </code></pre></body><div style="height:30px;display:block;"></div><div id="disqus_thread"></div>
+ <script>
+ /**
+ *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+ *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+ /*
+ var disqus_config = function () {
+ this.page.url = 'https://replicability.graphics';  // Replace PAGE_URL with your page's canonical URL variable
+ this.page.identifier = '10.1145-2601097.2601203'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+ };
+ */
+ (function() { // DON'T EDIT BELOW THIS LINE
+ var d = document, s = d.createElement('script');
+ s.src = 'https://replicability-graphics.disqus.com/embed.js';
+ s.setAttribute('data-timestamp', +new Date());
+ (d.head || d.body).appendChild(s);
+ })();
+ </script>
+ <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript></html>

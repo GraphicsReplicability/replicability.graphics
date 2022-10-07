@@ -1,0 +1,492 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:55Z",
+            "timestamp": 1585962715359
+        },
+        "reference-count": 52,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201388",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-15",
+        "source": "Crossref",
+        "is-referenced-by-count": 14,
+        "title": [
+            "Denoising with kernel prediction and asymmetric loss functions"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Thijs",
+                "family": "Vogels",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Disney Research"
+                    }
+                ]
+            },
+            {
+                "given": "Fabrice",
+                "family": "Rousselle",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Disney Research"
+                    }
+                ]
+            },
+            {
+                "given": "Brian",
+                "family": "Mcwilliams",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Disney Research"
+                    }
+                ]
+            },
+            {
+                "given": "Gerhard",
+                "family": "R\u00f6thlin",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Disney Research"
+                    }
+                ]
+            },
+            {
+                "given": "Alex",
+                "family": "Harvill",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Pixar Animation Studios"
+                    }
+                ]
+            },
+            {
+                "given": "David",
+                "family": "Adler",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Walt Disney Animation Studios"
+                    }
+                ]
+            },
+            {
+                "given": "Mark",
+                "family": "Meyer",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Pixar Animation Studios"
+                    }
+                ]
+            },
+            {
+                "given": "Jan",
+                "family": "Nov\u00e1k",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Disney Research"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "Mart\u00edn Abadi Ashish Agarwal Paul Barham etal 2015. TensorFlow: Large-scale machine learning on heterogeneous systems http://tensorflow.org/  Mart\u00edn Abadi Ashish Agarwal Paul Barham et al. 2015. TensorFlow: Large-scale machine learning on heterogeneous systems http://tensorflow.org/"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1109/CVPR.2016.12",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/3072959.3073708",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "author": "Balduzzi David",
+                "volume": "70",
+                "year": "2017",
+                "volume-title": "Proc. 34th International Conference on Machine Learning (Proc. Machine Learning Research)"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1111/j.1467-8659.2011.01996.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1016/S0167-6377(02)00231-6",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.5555/3071773.3071785",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/280814.280924",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1137/040616024",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1007/s11263-007-0052-1",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "S\u00e9bastien Bubeck. 2015. Convex optimization: Algorithms and complexity. Foundations and Trends\u00ae in Machine Learning 8 3--4 (2015) 231--358. 10.1561/2200000050   S\u00e9bastien Bubeck. 2015. Convex optimization: Algorithms and complexity. Foundations and Trends \u00ae in Machine Learning 8 3--4 (2015) 231--358. 10.1561/2200000050",
+                "DOI": "10.1561/2200000050",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.5555/2354409.2354805",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/3072959.3073601",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1117/12.643267",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/2532708",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "author": "Duchi John",
+                "first-page": "2121",
+                "year": "2011",
+                "article-title": "Adaptive subgradient methods for online learning and stochastic optimization",
+                "journal-title": "Journal of Machine Learning Research 12"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "author": "Glorot Xavier",
+                "year": "2010",
+                "volume-title": "Proc. 13th International Conference on Artificial Intelligence and Statistics (May 13--15)"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/1360612.1360632",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "author": "Hardt Moritz",
+                "year": "2016",
+                "volume-title": "Proc. 33nd International Conference on Machine Learning (June 19--24)"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1109/CVPR.2016.90",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "author": "Jain Viren",
+                "volume-title": "Advances in Neural Information Processing Systems 21 (December 8--11). Curran Associates"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "unstructured": "Xu Jia Bert De Brabandere Tinne Tuytelaars and Luc Van Gool. 2016. Dynamic filter networks. In Advances in Neural Information Processing Systems 29 (December 5--10). Curran Associates Inc. 667--675.   Xu Jia Bert De Brabandere Tinne Tuytelaars and Luc Van Gool. 2016. Dynamic filter networks. In Advances in Neural Information Processing Systems 29 (December 5--10). Curran Associates Inc. 667--675."
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/2766977",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/2776880.2792699",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "unstructured": "Diederik P. Kingma and Jimmy Ba. 2014. Adam: A method for stochastic optimization. CoRR abs/1412.6980 (2014). arXiv:1412.6980  Diederik P. Kingma and Jimmy Ba. 2014. Adam: A method for stochastic optimization. CoRR abs/1412.6980 (2014). arXiv:1412.6980"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1073/pnas.1611835114",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "author": "Krummenacher Gabriel",
+                "volume-title": "Advances in Neural Information Processing Systems 29 (December 5--10). Curran Associates"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1038/nature14539",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/2366145.2366213",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "unstructured": "Aur\u00e9lien Lucchi Brian McWilliams and Thomas Hofmann. 2015. A variance reduced stochastic Newton method. CoRR abs/1503.08316 (2015). arXiv:1503.08316  Aur\u00e9lien Lucchi Brian McWilliams and Thomas Hofmann. 2015. A variance reduced stochastic Newton method. CoRR abs/1503.08316 (2015). arXiv:1503.08316"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/318009.318015",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "unstructured": "Ben Mildenhall Jonathan T. Barron Jiawen Chen Dillon Sharlet Ren Ng and Robert Carroll. 2017. Burst denoising with kernel prediction networks. CoRR abs/1712.02327 (2017). arXiv:1712.02327  Ben Mildenhall Jonathan T. Barron Jiawen Chen Dillon Sharlet Ren Ng and Robert Carroll. 2017. Burst denoising with kernel prediction networks. CoRR abs/1712.02327 (2017). arXiv:1712.02327"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/37401.37410",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/2641762",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1111/cgf.12004",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1145/2897824.2925936",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "unstructured": "Kevin P. Murphy. 2012. Machine learning - a probabilistic perspective. MIT Press.   Kevin P. Murphy. 2012. Machine learning - a probabilistic perspective. MIT Press."
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "author": "Niklaus Simon",
+                "year": "2017",
+                "volume-title": "IEEE Conference on Computer Vision and Pattern Recognition (July 21--26)"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/1618452.1618486",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1145/311535.311543",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1109/TIT.2015.2388583",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "author": "Ronneberger Olaf",
+                "volume-title": "Medical Image Computing and Computer-Assisted Intervention - 18th International Conf. (October 5--9)"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1145/2070781.2024193",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1145/2366145.2366214",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1111/cgf.12219",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1145/192161.192189",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "DOI": "10.1145/2167076.2167083",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "unstructured": "Shai Shalev-Shwartz etal 2012. Online learning and online convex optimization. Foundations and Trends\u00ae in Machine Learning 4 2 (2012) 107--194. 10.1561/2200000018   Shai Shalev-Shwartz et al. 2012. Online learning and online convex optimization. Foundations and Trends \u00ae in Machine Learning 4 2 (2012) 107--194. 10.1561/2200000018"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "unstructured": "Thijs Vogels. 2016. Kernel-predicting convolutional networks for denoising Monte Carlo renderings. Master's thesis. ETH Z\u00fcrich Z\u00fcrich Switzerland.  Thijs Vogels. 2016. Kernel-predicting convolutional networks for denoising Monte Carlo renderings. Master's thesis. ETH Z\u00fcrich Z\u00fcrich Switzerland."
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "DOI": "10.1109/TIP.2003.819861",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "author": "Wilson Ashia C.",
+                "volume-title": "Advances in Neural Information Processing Systems 30 (December 4--9). Curran Associates"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "DOI": "10.5555/2816723.2816781",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201388&ftid=1991711&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:48:57Z",
+            "timestamp": 1585961337000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 52,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201388"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201388",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

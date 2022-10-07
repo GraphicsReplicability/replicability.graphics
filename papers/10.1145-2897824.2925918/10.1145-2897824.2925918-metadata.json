@@ -1,0 +1,435 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T02:11:27Z",
+            "timestamp": 1585966287463
+        },
+        "reference-count": 43,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100000781",
+                "name": "European Research Council",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "279593"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100001691",
+                "name": "Japan Society for the Promotion of Science",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "26700002"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925918",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-10",
+        "source": "Crossref",
+        "is-referenced-by-count": 15,
+        "title": [
+            "Wasserstein barycentric coordinates"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Nicolas",
+                "family": "Bonneel",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Univ. Lyon, CNRS and LIRIS"
+                    }
+                ]
+            },
+            {
+                "given": "Gabriel",
+                "family": "Peyr\u00e9",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "CNRS and Univ. Paris-Dauphine"
+                    }
+                ]
+            },
+            {
+                "given": "Marco",
+                "family": "Cuturi",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Kyoto University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1137/100805741",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1007/s002110050002",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "first-page": "37",
+                "article-title": "Iterative Bregman projections for regularized transportation problems",
+                "volume": "2",
+                "author": "Benamou J.-D.",
+                "year": "2015",
+                "journal-title": "SIAM J. on Sci. Computing"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "Bigot J. and Klein T. 2012. Consistent estimation of a population barycenter in the Wasserstein space. Preprint arXiv:1212.2562.  Bigot J. and Klein T. 2012. Consistent estimation of a population barycenter in the Wasserstein space. Preprint arXiv:1212.2562 ."
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "Bigot J. Gouet R. Klein T. and L\u00f3pez A. 2015. Geodesic PCA in the Wasserstein space by Convex PCA. Annales de l'Institut Henri Poincar\u00e9 B: Probability and Statistics.  Bigot J. Gouet R. Klein T. and L\u00f3pez A. 2015. Geodesic PCA in the Wasserstein space by Convex PCA. Annales de l'Institut Henri Poincar\u00e9 B: Probability and Statistics ."
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/2070781.2024192",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/2461912.2461939",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1007/s10851-014-0506-3",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "author": "Brand M.",
+                "volume-title": "Adv. in Neural Information Proc. Sys."
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "Bregman L. M. 1967. The relaxation method of finding the common point of convex sets and its application to the solution of problems in convex programming. USSR computational mathematics and mathematical physics 7 3 200--217.  Bregman L. M. 1967. The relaxation method of finding the common point of convex sets and its application to the solution of problems in convex programming. USSR computational mathematics and mathematical physics 7 3 200--217.",
+                "DOI": "10.1016/0041-5553(67)90040-7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "Burkard R. Dell'Amico M. and Martello S. 2009. Assignment Problems. Society for Industrial and App. Math.   Burkard R. Dell'Amico M. and Martello S. 2009. Assignment Problems. Society for Industrial and App. Math.",
+                "DOI": "10.1137/1.9780898717754",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/1531326.1531379",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "author": "Cuturi M.",
+                "volume-title": "Int. Conf. on Machine Learning (ICML)."
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "author": "Cuturi M.",
+                "year": "2013",
+                "volume-title": "Adv. in Neural Information Proc. Sys."
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1214/aoms/1177731829",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1111/cgf.12477",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "Haker S. Zhu L. Tannenbaum A. and Angenent S. Optimal mass transport for registration and warping. International Journal of Computer Vision 60 3. 10.1023/B:VISI.0000036836.66311.97   Haker S. Zhu L. Tannenbaum A. and Angenent S. Optimal mass transport for registration and warping. International Journal of Computer Vision 60 3. 10.1023/B:VISI.0000036836.66311.97"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "first-page": "227",
+                "article-title": "On the transfer of masses (in russian)",
+                "volume": "37",
+                "author": "Kantorovich L.",
+                "year": "1942",
+                "journal-title": "Doklady Akademii Nauk"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "unstructured": "Lewis A. S. and Overton M. L. 2013. Nonsmooth optimization via quasi-newton methods. Math. Programming 141.  Lewis A. S. and Overton M. L. 2013. Nonsmooth optimization via quasi-newton methods. Math. Programming 141.",
+                "DOI": "10.1007/s10107-012-0514-2",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/882262.882343",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "first-page": "5",
+                "article-title": "A multiscale approach to optimal transport",
+                "volume": "30",
+                "author": "M\u00e9rigot Q.",
+                "year": "2011",
+                "journal-title": "Computer Graphics Forum (SGP)"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "unstructured": "Monge G. 1781. M\u00e9moire sur la th\u00e9orie des d\u00e9blais et des remblais. Histoire de l'Acad\u00e9mie Royale des Sciences 666--704.  Monge G. 1781. M\u00e9moire sur la th\u00e9orie des d\u00e9blais et des remblais. Histoire de l'Acad\u00e9mie Royale des Sciences 666--704."
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1137/080743627",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "Piti\u00e9 F. Kokaram A. and Dahyot R. 2007. Automated colour grading using colour distribution transfer. Computer Vision and Image Understanding. 10.1016/j.cviu.2006.11.011   Piti\u00e9 F. Kokaram A. and Dahyot R. 2007. Automated colour grading using colour distribution transfer. Computer Vision and Image Understanding. 10.1016/j.cviu.2006.11.011"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "author": "Rabin J.",
+                "volume-title": "Proc. SSVM'15"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "author": "Rabin J.",
+                "volume-title": "IEEE International Conference on Image Processing (ICIP)."
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "unstructured": "Rabin J. Peyr\u00e9 G. Delon J. and Bernot M. 2012. Wasserstein barycenter and its application to texture mixing. In Scale Space and Variational Methods in Computer Vision. 10.1007/978-3-642-24785-9_37   Rabin J. Peyr\u00e9 G. Delon J. and Bernot M. 2012. Wasserstein barycenter and its application to texture mixing. In Scale Space and Variational Methods in Computer Vision. 10.1007/978-3-642-24785-9_37"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1109/38.946629",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "author": "Rolet A.",
+                "volume-title": "Proc. AISTATS'16"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "author": "Rubner Y.",
+                "volume-title": "Computer Vision, 1998. Sixth International Conference on, 59--66"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1023/A:1026543900054",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "first-page": "29",
+                "article-title": "Barycentric coordinates on surfaces",
+                "volume": "5",
+                "author": "Rustamov R. M.",
+                "year": "2010",
+                "journal-title": "Computer Graphics Forum"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "unstructured": "Sandler R. and Lindenbaum M. 2009. Nonnegative matrix factorization with earth mover's distance metric. In IEEE Computer Vision and Pattern Recognition (CVPR).  Sandler R. and Lindenbaum M. 2009. Nonnegative matrix factorization with earth mover's distance metric. In IEEE Computer Vision and Pattern Recognition (CVPR).",
+                "DOI": "10.1109/CVPR.2009.5206834",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "author": "Schmidt M. W.",
+                "volume": "5",
+                "volume-title": "International Conference on Artificial Intelligence and Statistics (AISTATS)"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "author": "Seguy V.",
+                "volume-title": "Adv. in Neural Information Proc. Sys."
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "unstructured": "Sinkhorn R. 1964. A relationship between arbitrary positive matrices and doubly stochastic matrices. Ann. Math. Statist. 35.  Sinkhorn R. 1964. A relationship between arbitrary positive matrices and doubly stochastic matrices. Ann. Math. Statist. 35 .",
+                "DOI": "10.1214/aoms/1177703591",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/2601097.2601175",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "author": "Solomon J.",
+                "volume-title": "Int. Conf. on Machine Learning (ICML)."
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/2766963",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "author": "Srivastava S.",
+                "volume-title": "International Conference on Artificial Intelligence and Statistics."
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "unstructured": "Villani C. 2003. Topics in optimal transportation. American Mathematical Soc.  Villani C. 2003. Topics in optimal transportation. American Mathematical Soc.",
+                "DOI": "10.1090/gsm/058",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "unstructured": "Villani C. 2008. Optimal transport: old and new vol. 338.  Villani C. 2008. Optimal transport: old and new vol. 338.",
+                "DOI": "10.1007/978-3-540-71050-9",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1145/1559755.1559760",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925918&amp;ftid=1755930&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:33:49Z",
+            "timestamp": 1585964029000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "histogram regression using optimal transport"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 43,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925918"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925918",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

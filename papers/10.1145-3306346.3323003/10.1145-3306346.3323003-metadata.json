@@ -1,0 +1,438 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2020-07-12T19:40:18Z",
+            "timestamp": 1594582818228
+        },
+        "reference-count": 48,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2019,
+                            7,
+                            12
+                        ]
+                    ],
+                    "date-time": "2019-07-12T00:00:00Z",
+                    "timestamp": 1562889600000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "DOI": "10.1145/3306346.3323003",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2019-07-12T19:04:08Z",
+            "timestamp": 1562958248000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 1,
+        "title": [
+            "PuppetMaster"
+        ],
+        "prefix": "10.1145",
+        "volume": "38",
+        "author": [
+            {
+                "given": "Simon",
+                "family": "Zimmermann",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "ETH Zurich"
+                    }
+                ]
+            },
+            {
+                "given": "Roi",
+                "family": "Poranne",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "ETH Zurich and University of Haifa"
+                    }
+                ]
+            },
+            {
+                "given": "James M.",
+                "family": "Bern",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "ETH Zurich"
+                    }
+                ]
+            },
+            {
+                "given": "Stelian",
+                "family": "Coros",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "ETH Zurich"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/3197517.3201376",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1111/cgf.12852",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/1531326.1531359",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/3072959.3073700",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "author": "Bernard M.",
+                "volume-title": "2009 IEEE International Conference on Robotics and Automation. 3258--3264"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "author": "Bisgaard Morten",
+                "year": "2009",
+                "volume-title": "Modelling of Generic Slung Load System. In AIAA Modeling and Simulation Technologies Conference and Exhibit. American Institute of Aeronautics and Astronautics."
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1137/S1064827501380630",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1007/1-4020-2204-2_10",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/2766986",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/3272127.3275048",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/142920.134083",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/2461912.2461953",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "author": "Crousaz C\u00e9dric De",
+                "year": "2014",
+                "volume-title": "in IROS 2014 Workshop on Machine Learning in Planning and Control of Robot Motion."
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/2980179.2982427",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "author": "Duenser Simon",
+                "year": "2018",
+                "volume-title": "Interactive Robotic Manipulation of Elastic Objects. In 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS 2018"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "author": "Faust A.",
+                "volume-title": "2013 IEEE International Conference on Robotics and Automation. 4902--4909"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "author": "Gauge Damien",
+                "year": "2014",
+                "volume-title": "Interactive Design of Modular Tensegrity Characters. In The Eurographics / ACM SIGGRAPH Symposium on Computer Animation, SCA 2014"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/3197517.3201368",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "unstructured": "Ga\u00ebl Guennebaud Beno\u00eet Jacob etal 2010. Eigen v3. http://eigen.tuxfamily.org.  Ga\u00ebl Guennebaud Beno\u00eet Jacob et al. 2010. Eigen v3. http://eigen.tuxfamily.org."
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.3182/20020721-6-ES-1901.00312",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.5555/3112652.3112794",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "author": "Johnson E.",
+                "volume-title": "Proceedings 2007 IEEE International Conference on Robotics and Automation. 330--335"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/3272127.3275036",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/2010324.1964967",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/1186562.1015744",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/2816795.2818137",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/3072959.3073636",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1080/00207179.2015.1013063",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "author": "Murphey Todd D",
+                "year": "2011",
+                "volume-title": "American Control Conference (ACC)"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1007/BF00934463",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "author": "Palunko I.",
+                "volume-title": "2013 IEEE International Conference on Robotics and Automation. 4896--4901"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/3197565",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1080/00207178808906114",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/3072959.3073695",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "author": "Schultz J.",
+                "volume-title": "2012 IEEE International Conference on Robotics and Automation. 123--129"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1177/0278364917723465",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/2601097.2601156",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1145/2461912.2461979",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/3130800.3130808",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "unstructured": "Koushil Sreenath and Vijay Kumar. 2013. Dynamics Control and Planning for Cooperative Manipulation of Payloads Suspended by Cables from Multiple Quadrotor Robots.  Koushil Sreenath and Vijay Kumar. 2013. Dynamics Control and Planning for Cooperative Manipulation of Payloads Suspended by Cables from Multiple Quadrotor Robots.",
+                "DOI": "10.15607/RSS.2013.IX.011",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "author": "Sreenath K.",
+                "volume-title": "2013 IEEE International Conference on Robotics and Automation. 4888--4895"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1145/2601097.2601143",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1109/ICRA.2014.6907751",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1145/378456.378507",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1145/3272127.3275089",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1142/S0219843604000319",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "author": "Zameroski D.",
+                "volume-title": "Proceedings 2006 IEEE International Conference on Robotics and Automation, 2006. ICRA 2006. 1997--2003"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "DOI": "10.1145/3072959.3073710",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3323003&ftid=2071704&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2020-07-12T19:20:55Z",
+            "timestamp": 1594581655000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "robotic animation of marionettes"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "references-count": 48,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        12
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3306346.3323003"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3306346.3323003",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

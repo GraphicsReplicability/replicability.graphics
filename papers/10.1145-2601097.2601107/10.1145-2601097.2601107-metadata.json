@@ -1,0 +1,413 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:11:20Z",
+            "timestamp": 1586002280903
+        },
+        "reference-count": 34,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601107",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 29,
+        "title": [
+            "Fast tile-based adaptive sampling with user-specified Fourier spectra"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Florent",
+                "family": "Wachtel",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Universit\u00e9 de Lyon"
+                    }
+                ]
+            },
+            {
+                "given": "Adrien",
+                "family": "Pilleboue",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Universit\u00e9 de Lyon"
+                    }
+                ]
+            },
+            {
+                "given": "David",
+                "family": "Coeurjolly",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "CNRS-LIRIS"
+                    }
+                ]
+            },
+            {
+                "given": "Katherine",
+                "family": "Breeden",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Gurprit",
+                "family": "Singh",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Universit\u00e9 de Lyon"
+                    }
+                ]
+            },
+            {
+                "given": "Ga\u00ebl",
+                "family": "Cathelin",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Universit\u00e9 de Lyon"
+                    }
+                ]
+            },
+            {
+                "given": "Fernando",
+                "family": "de Goes",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Caltech"
+                    }
+                ]
+            },
+            {
+                "given": "Mathieu",
+                "family": "Desbrun",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Caltech"
+                    }
+                ]
+            },
+            {
+                "given": "Victor",
+                "family": "Ostromoukhov",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Universit\u00e9 de Lyon and CNRS-LIRIS"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/1531326.1531392",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/2487228.2487239",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1109/TVCG.2012.94",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/882262.882265",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "Conway J. H. and Guy R. K. 1996. The Book of Numbers. Springer-Verlag.  Conway J. H. and Guy R. K. 1996. The Book of Numbers . Springer-Verlag.",
+                "DOI": "10.1007/978-1-4612-4072-3",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/7529.8927",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/2366145.2366190",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "Dipp\u00e9 M. A. Z. and Wold E. H. 1985. Antialiasing through stochastic sampling. In ACM SIGGRAPH 69--78. 10.1145/325334.325182   Dipp\u00e9 M. A. Z. and Wold E. H. 1985. Antialiasing through stochastic sampling. In ACM SIGGRAPH 69--78. 10.1145/325334.325182",
+                "DOI": "10.1145/325165.325182",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "Durand F. 2011. A frequency analysis of Monte-Carlo and other numerical integration schemes. MIT CSAIL Technical report TR-2011-052.  Durand F. 2011. A frequency analysis of Monte-Carlo and other numerical integration schemes. MIT CSAIL Technical report TR-2011-052 ."
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/2010324.1964944",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/2010324.1964943",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/1640443.1640451",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "Gr\u00fcnbaum B. and Shephard G. C. 1986. Tilings and patterns. W. H. Freeman & Company.   Gr\u00fcnbaum B. and Shephard G. C. 1986. Tilings and patterns . W. H. Freeman & Company."
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/2487228.2487233",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/1141911.1141916",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "Kuipers L. and Niederreiter H. 1974. Uniform Distribution of Sequences. Dover Publications.  Kuipers L. and Niederreiter H. 1974. Uniform Distribution of Sequences . Dover Publications."
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/1183287.1183296",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/1401132.1401254",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "author": "McCool M.",
+                "volume-title": "Proc. Graphics Interface '92"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/122718.122736",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/1015706.1015750",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/1276377.1276475",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/2366145.2366189",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "Pharr M. and Humphreys G. 2010. Physically Based Rendering: From Theory to Implementation 2nd ed. Morgan Kaufmann.   Pharr M. and Humphreys G. 2010. Physically Based Rendering: From Theory to Implementation 2 nd ed. Morgan Kaufmann."
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1093/forestry/75.3.305",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/2018323.2018345",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1111/j.1467-8659.2010.01716.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/2461912.2462013",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1109/5.3288",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "first-page": "332",
+                "article-title": "The void-and-cluster method for dither array generation",
+                "volume": "1913",
+                "author": "Ulichney R.",
+                "year": "1993",
+                "journal-title": "SPIE"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1038/scientificamerican1165-98",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/2010324.1964945",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/1360612.1360619",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/2185520.2185572",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601107&amp;ftid=1488864&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:49:51Z",
+            "timestamp": 1586000991000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 34,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601107"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601107",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

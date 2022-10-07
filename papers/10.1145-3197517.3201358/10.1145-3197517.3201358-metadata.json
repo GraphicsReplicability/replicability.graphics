@@ -1,0 +1,440 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:54Z",
+            "timestamp": 1585962714627
+        },
+        "reference-count": 48,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201358",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-16",
+        "source": "Crossref",
+        "is-referenced-by-count": 7,
+        "title": [
+            "Curved optimal delaunay triangulation"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Leman",
+                "family": "Feng",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Ecole des Ponts ParisTech"
+                    }
+                ]
+            },
+            {
+                "given": "Pierre",
+                "family": "Alliez",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Universit\u00e9 C\u00f4te d'Azur, Inria"
+                    }
+                ]
+            },
+            {
+                "given": "Laurent",
+                "family": "Bus\u00e9",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Universit\u00e9 C\u00f4te d'Azur, Inria"
+                    }
+                ]
+            },
+            {
+                "given": "Herv\u00e9",
+                "family": "Delingette",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Universit\u00e9 C\u00f4te d'Azur, Inria"
+                    }
+                ]
+            },
+            {
+                "given": "Mathieu",
+                "family": "Desbrun",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Caltech"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/1073204.1073238",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.5555/826028.826485",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1006/jagm.1998.0984",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1137/0718033",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/2567943",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/2980179.2980245",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/997817.997864",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/1778765.1778775",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "Long Chen. 2004. Mesh Smoothing Schemes based on Optimal Delaunay Triangulations. In Int. Meshing Roundtable. 109--120.  Long Chen. 2004. Mesh Smoothing Schemes based on Optimal Delaunay Triangulations. In Int. Meshing Roundtable. 109--120."
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1016/j.cma.2010.11.007",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "Long Chen and Jin-chao Xu. 2004. Optimal delaunay triangulations. J. Computational Mathematics (2004) 299--308.  Long Chen and Jin-chao Xu. 2004. Optimal delaunay triangulations. J. Computational Mathematics (2004) 299--308."
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1137/120875132",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/355483.355487",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "Siu-Wing Cheng Tamal K. Dey and Jonathan R. Shewchuk. 2012. Delaunay Mesh Generation. CRC Press.   Siu-Wing Cheng Tamal K. Dey and Jonathan R. Shewchuk. 2012. Delaunay Mesh Generation. CRC Press."
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/44479.44482",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1137/S0036144599352836",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1002/(SICI)1097-0207(19971115)40:21<3979::AID-NME251>3.0.CO;2-9",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/2661229.2661235",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1016/j.cagd.2012.07.001",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "author": "Gargallo-Peir\u00f3 Abel",
+                "year": "2013",
+                "volume-title": "Int. Conf. on Adaptive Modeling & Simulation. 301--312"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1007/978-3-319-12886-3_2",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "Ga\u00ebl Guennebaud Beno\u00eet Jacob and others. 2018. Eigen v3. http://eigen.tuxfamily.org. (2018).  Ga\u00ebl Guennebaud Beno\u00eet Jacob and others. 2018. Eigen v3. http://eigen.tuxfamily.org. (2018)."
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1016/j.jcp.2012.08.051",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "author": "Karman Steve L.",
+                "year": "2016",
+                "volume-title": "High-Order Mesh Curving Using WCN Mesh Optimization. In 46th AIAA Fluid Dynamics Conference."
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1137/S1064827500371499",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/1559755.1559758",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "Adrien Loseille and Fr\u00e9d\u00e9ric Alauzet. 2009. Optimal 3D Highly Anisotropic Mesh Adaptation Based on the Continuous Mesh Framework. In Int. Meshing Roundtable. 575--594.  Adrien Loseille and Fr\u00e9d\u00e9ric Alauzet. 2009. Optimal 3D Highly Anisotropic Mesh Adaptation Based on the Continuous Mesh Framework. In Int. Meshing Roundtable. 575--594.",
+                "DOI": "10.1007/978-3-642-04319-2_33",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "unstructured": "Xiao-Juan Luo Mark S. Shephard Jean-Francois Remacle Robert M. OBara Mark W. Beall Barna Szabo and Ricardo Actis. 2002. p-Version Mesh Generation Issues. In Int. Mesh Roundtable. 343--354.  Xiao-Juan Luo Mark S. Shephard Jean-Francois Remacle Robert M. OBara Mark W. Beall Barna Szabo and Ricardo Actis. 2002. p -Version Mesh Generation Issues. In Int. Mesh Roundtable. 343--354."
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "unstructured": "Mark Meyer Mathieu Desbrun Peter Schr\u00f6der and Alan H. Barr. 2003. Discrete Differential-Geometry Operators for Triangulated 2-Manifolds. 35--57.  Mark Meyer Mathieu Desbrun Peter Schr\u00f6der and Alan H. Barr. 2003. Discrete Differential-Geometry Operators for Triangulated 2-Manifolds. 35--57.",
+                "DOI": "10.1007/978-3-662-05105-4_2",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/1364901.1364915",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "author": "Nadler Edmond",
+                "volume-title": "Approx. Theory V"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "unstructured": "Ray W. Ogden. 1997. Non-linear Elastic Deformations. Dover Publications.  Ray W. Ogden. 1997. Non-linear Elastic Deformations. Dover Publications."
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "unstructured": "Per-Olof Persson and Jaime Peraire. 2009. Curved Mesh Generation and Mesh Refinement using Lagrangian Solid Mechanics.  Per-Olof Persson and Jaime Peraire. 2009. Curved Mesh Generation and Mesh Refinement using Lagrangian Solid Mechanics.",
+                "DOI": "10.2514/6.2009-949",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1016/j.cma.2013.09.019",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1080/10586458.1993.10504266",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "author": "Pottmann Helmut",
+                "volume-title": "Visualization and mathematics"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "unstructured": "Laurent Rineau and Mariette Yvinec. 2008. Meshing 3D Domains Bounded by Piecewise Smooth Surfaces. 443--460.  Laurent Rineau and Mariette Yvinec. 2008. Meshing 3D Domains Bounded by Piecewise Smooth Surfaces. 443--460.",
+                "DOI": "10.1007/978-3-540-75103-8_25",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1111/1467-8659.00275",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "unstructured": "Eloi Ruiz-Girones Abel Gargallo-Peir\u00f3 Josep Sarrate and Xevi Roca. 2017. An augmented Lagrangian formulation to impose boundary conditions for distortion based mesh moving and curving. In Int. Meshing Roundtable.  Eloi Ruiz-Girones Abel Gargallo-Peir\u00f3 Josep Sarrate and Xevi Roca. 2017. An augmented Lagrangian formulation to impose boundary conditions for distortion based mesh moving and curving. In Int. Meshing Roundtable.",
+                "DOI": "10.1016/j.proeng.2017.09.820",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "unstructured": "Nico Schl\u00f6mer. 2018. Numerical integration (quadrature cubature) in Python. (2018). https://github.com/nschloe/quadpy  Nico Schl\u00f6mer. 2018. Numerical integration (quadrature cubature) in Python. (2018). https://github.com/nschloe/quadpy"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1145/276884.276894",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "unstructured": "Jonathan R. Shewchuk. 2002. What is a Good Linear Element? Interpolation Conditioning and Quality Measures. In Int. Meshing Roundtable. 115--126.  Jonathan R. Shewchuk. 2002. What is a Good Linear Element? Interpolation Conditioning and Quality Measures. In Int. Meshing Roundtable. 115--126."
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1145/2485895.2485914",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "unstructured": "The CGAL Project. 2017. CGAL User and Reference Manual (4.11 ed.). CGAL Editorial Board http://doc.cgal.org/4-11/Manual/packages.html  The CGAL Project. 2017. CGAL User and Reference Manual (4.11 ed.). CGAL Editorial Board http://doc.cgal.org/4-11/Manual/packages.html"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "DOI": "10.1145/1531326.1531381",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "DOI": "10.1007/s00371-011-0579-6",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "DOI": "10.1016/j.camwa.2015.03.017",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "unstructured": "Verena Ziel Hadrien B\u00e9riot Onur Atak and G\u00e9na\u00ebl Gabard. 2017. Comparison of 2D curving methods with modal shape functions and a piecewise linear target mesh. In Int. Meshing Roundtable.  Verena Ziel Hadrien B\u00e9riot Onur Atak and G\u00e9na\u00ebl Gabard. 2017. Comparison of 2D curving methods with modal shape functions and a piecewise linear target mesh. In Int. Meshing Roundtable.",
+                "DOI": "10.1016/j.proeng.2017.09.791",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201358&ftid=1991675&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:34:54Z",
+            "timestamp": 1585960494000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 48,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201358"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201358",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

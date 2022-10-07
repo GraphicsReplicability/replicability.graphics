@@ -1,0 +1,469 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T02:11:27Z",
+            "timestamp": 1585966287027
+        },
+        "reference-count": 41,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2017,
+                            7,
+                            24
+                        ]
+                    ],
+                    "date-time": "2017-07-24T00:00:00Z",
+                    "timestamp": 1500854400000
+                },
+                "delay-in-days": 378,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100000006",
+                "name": "Office of Naval Research",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "N000141110719, N000141210834"
+                ]
+            },
+            {
+                "DOI": "10.13039/100000001",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "CCF-1422795"
+                ]
+            },
+            {
+                "DOI": "10.13039/100000005",
+                "name": "U.S. Department of Defense",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "W81XWH-15-1-0147"
+                ]
+            },
+            {
+                "name": "Intel STC-Visual Computing Grant",
+                "award": [
+                    "20112360"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925906",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 37,
+        "title": [
+            "Drucker-prager elastoplasticity for sand animation"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Gergely",
+                "family": "Kl\u00e1r",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of California, Los Angeles"
+                    }
+                ]
+            },
+            {
+                "given": "Theodore",
+                "family": "Gast",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of California, Los Angeles"
+                    }
+                ]
+            },
+            {
+                "given": "Andre",
+                "family": "Pradhana",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of California, Los Angeles"
+                    }
+                ]
+            },
+            {
+                "given": "Chuyuan",
+                "family": "Fu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of California, Los Angeles"
+                    }
+                ]
+            },
+            {
+                "given": "Craig",
+                "family": "Schroeder",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of California, Los Angeles"
+                    }
+                ]
+            },
+            {
+                "given": "Chenfanfu",
+                "family": "Jiang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of California, Los Angeles"
+                    }
+                ]
+            },
+            {
+                "given": "Joseph",
+                "family": "Teran",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of California, Los Angeles"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/2019406.2019410",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "author": "Aldu\u00e1n I.",
+                "volume-title": "Proc Cong Espa\u00f1ol Inf Graf."
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1016/S0045-7825(99)00338-2",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/1073368.1073379",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "Bonet J. and Wood R. 2008. Nonlinear continuum mechanics for finite element analysis. Cambridge University Press.  Bonet J. and Wood R. 2008. Nonlinear continuum mechanics for finite element analysis . Cambridge University Press.",
+                "DOI": "10.1017/CBO9780511755446",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "unstructured": "Chanclou B. Luciani A. and Habibi A. 1996. Physical models of loose soils dynamically marked by a moving object. In Comp Anim 27--35.   Chanclou B. Luciani A. and Habibi A. 1996. Physical models of loose soils dynamically marked by a moving object. In Comp Anim 27--35."
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1007/s11432-012-4564-0",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "Chen P. and Wong S. 2013. Real-time auto stylized sand art drawing. In CAD Comp Graph 439--440. 10.1109/CADGraphics.2013.86   Chen P. and Wong S. 2013. Real-time auto stylized sand art drawing. In CAD Comp Graph 439--440. 10.1109/CADGraphics.2013.86",
+                "DOI": "10.1109/CADGraphics.2013.86",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1006/jcph.2002.7101",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1090/qam/48291",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1109/TVCG.2015.2459687",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "unstructured": "Gonzalez O. and Stuart A. 2008. A first course in continuum mechanics. Cambridge University Press.  Gonzalez O. and Stuart A. 2008. A first course in continuum mechanics. Cambridge University Press."
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1016/j.cag.2013.04.010",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1103/RevModPhys.68.1259",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/2766996",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "Jiang C. 2015. The material point method for the physics-based simulation of solids and fluids. PhD thesis University of California Los Angeles.  Jiang C. 2015. The material point method for the physics-based simulation of solids and fluids . PhD thesis University of California Los Angeles."
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "Kl\u00e1r G. Gast T. Pradhana A. Fu C. Schroeder C. Jiang C. and Teran J. 2016. Drucker-prager elastoplasticity for sand animation: Supplementary technical document. ACM Trans Graph. 10.1145/2897824.2925906   Kl\u00e1r G. Gast T. Pradhana A. Fu C. Schroeder C. Jiang C. and Teran J. 2016. Drucker-prager elastoplasticity for sand animation: Supplementary technical document. ACM Trans Graph. 10.1145/2897824.2925906",
+                "DOI": "10.1145/2897824.2925906",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1111/j.1467-8659.2009.01360.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/166117.166162",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "author": "Luciani A.",
+                "volume-title": "Proc Graph Int, 136--146"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/2601097.2601152",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1007/s11440-014-0309-0",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "Mast C. 2013. Modeling landslide-induced flow interactions with structures using the Material Point Method. PhD thesis.  Mast C. 2013. Modeling landslide-induced flow interactions with structures using the Material Point Method. PhD thesis."
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/2735627",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/237170.237222",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1016/0097-8493(89)90078-2",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/1882261.1866195",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "first-page": "495",
+                "article-title": "A real-time sand simulation using a GPU",
+                "volume": "1",
+                "author": "Nkulikiyimfura D.",
+                "year": "2012",
+                "journal-title": "Comp Tech Inf Man"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "Nocedal J. and Wright S. 2006. Numerical Optimization. Springer series in operations research and financial engineering. Springer.  Nocedal J. and Wright S. 2006. Numerical Optimization. Springer series in operations research and financial engineering. Springer."
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "author": "Onoue K.",
+                "volume-title": "Proc Pac Conf Comp Graph App, 252--262"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "unstructured": "Pla-Castells M. Garcia-Fernandez I. and \n      \n      \n      Martinez R\n      \n  \n  . \n  2006\n  . Interactive terrain simulation and force distribution models in sand piles. \n  In Cellular Automata vol. \n  4173\n   of \n  Lecture Notes Comp Sci\n  . 392--401. 10.1007/11861201_46   Pla-Castells M. Garcia-Fernandez I. and Martinez R. 2006. Interactive terrain simulation and force distribution models in sand piles. In Cellular Automata vol. 4173 of Lecture Notes Comp Sci. 392--401. 10.1007/11861201_46",
+                "DOI": "10.1007/11861201_46",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/2786784.2786798",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1002/nme.2360",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/2461912.2461948",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1145/2601097.2601176",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1016/0045-7825(94)90112-0",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1111/1467-8659.00299",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "unstructured": "Yasuda R. Harada T. and Kawaguchi Y. 2008. Realtime simulation of granular materials using graphics hardware. In Comp Graph Imag Vis 28--31. 10.1109/CGIV.2008.45   Yasuda R. Harada T. and Kawaguchi Y. 2008. Realtime simulation of granular materials using graphics hardware. In Comp Graph Imag Vis 28--31. 10.1109/CGIV.2008.45",
+                "DOI": "10.1109/CGIV.2008.45",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "unstructured": "Yoshioka N. 2003. A sandpile experiment and its implications for self-organized criticality and characteristic earthquake. Earth planets and space 55 6 283--289.  Yoshioka N. 2003. A sandpile experiment and its implications for self-organized criticality and characteristic earthquake. Earth planets and space 55 6 283--289.",
+                "DOI": "10.1186/BF03351762",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1145/2751541",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1145/1073204.1073298",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "https://dl.acm.org/doi/pdf/10.1145/2897824.2925906",
+                "content-type": "application/pdf",
+                "content-version": "vor",
+                "intended-application": "syndication"
+            },
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925906&amp;ftid=1755911&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:36:57Z",
+            "timestamp": 1585964217000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 41,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925906"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925906",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

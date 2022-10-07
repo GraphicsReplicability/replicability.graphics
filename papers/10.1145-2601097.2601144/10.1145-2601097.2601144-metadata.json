@@ -1,0 +1,457 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:11:20Z",
+            "timestamp": 1586002280435
+        },
+        "reference-count": 49,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100000038",
+                "name": "Natural Sciences and Engineering Research Council of Canada",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100000145",
+                "name": "Division of Information and Intelligent Systems",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "IIS-1116718 (AdaCID)"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601144",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 43,
+        "title": [
+            "A compressive light field projection system"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Matthew",
+                "family": "Hirsch",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "MIT Media Lab"
+                    }
+                ]
+            },
+            {
+                "given": "Gordon",
+                "family": "Wetzstein",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "MIT Media Lab"
+                    }
+                ]
+            },
+            {
+                "given": "Ramesh",
+                "family": "Raskar",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "MIT Media Lab"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/1015706.1015804",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/344779.344932",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/2159516.2159521",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.5555/2319074.2321415",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "Cichocki A. Zdunek R. Phan A. H. and ichi Amari S. 2009. Nonnegative Matrix and Tensor Factorizations. Wiley.   Cichocki A. Zdunek R. Phan A. H. and ichi Amari S. 2009. Nonnegative Matrix and Tensor Factorizations . Wiley.",
+                "DOI": "10.1002/9780470747278",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "first-page": "296",
+                "article-title": "Minimized-Thickness Angular Scanner of Electromagnetic Radiation, Apr. 26",
+                "volume": "11",
+                "author": "Cossairt O.",
+                "year": "2006",
+                "journal-title": "US Patent App."
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/1073204.1073320",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/1477926.1477935",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "first-page": "169",
+                "article-title": "A time-sequential multi-projector autostereoscopic display",
+                "volume": "8",
+                "author": "Dodgson N. A.",
+                "year": "2000",
+                "journal-title": "Journal of the SID"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/192161.192171",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1117/12.909410",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/15922.15902",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/1805964.1805966",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Hecht E. 2002. Optics fourth edition. Addison Wesley.  Hecht E. 2002. Optics fourth edition . Addison Wesley."
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/2461912.2461925",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "Heide F. Gregson J. Wetzstein G. Raskar R. and Heidrich W. 2014. A Compressive Multi-Mode Superresolution Display. ArXiv e-prints (Apr.).  Heide F. Gregson J. Wetzstein G. Raskar R. and Heidrich W. 2014. A Compressive Multi-Mode Superresolution Display. ArXiv e-prints (Apr.).",
+                "DOI": "10.1364/COSI.2014.CM4C.3",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/325334.325188",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "unstructured": "Hong J. Kim Y. Park S.-G. Hong J.-H. Min S.-W. Lee S.-D. and Lee B. 2010. 3D/2D Convertible Projection-type Integral Imaging using Concave Half Mirror Array. Optics Express 18.  Hong J. Kim Y. Park S.-G. Hong J.-H. Min S.-W. Lee S.-D. and Lee B. 2010. 3D/2D Convertible Projection-type Integral Imaging using Concave Half Mirror Array. Optics Express 18 .",
+                "DOI": "10.1364/BIOMED.2010.JMA17",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "unstructured": "Hsu F.-H. 2008. Three-Dimensional (3D) Image Projection. US patent 7425070 B2.  Hsu F.-H. 2008. Three-Dimensional (3D) Image Projection. US patent 7425070 B2."
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "Ives H. 1903. Parallax Stereogram and Process of Making Same. US patent 725 567.  Ives H. 1903. Parallax Stereogram and Process of Making Same. US patent 725 567."
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/1618452.1618486",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/800224.806818",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/1276377.1276427",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "Jones A. Liu J. Busch J. Debevec P. Bolas M. and Yu X. 2013. An Autostereoscopic Projector Array Optimized for 3D Facial Display. SIGGRAPH Emerging Technologies. 10.1145/2503368.2503371   Jones A. Liu J. Busch J. Debevec P. Bolas M. and Yu X. 2013. An Autostereoscopic Projector Array Optimized for 3D Facial Display. SIGGRAPH Emerging Technologies. 10.1145/2503368.2503371"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "author": "Jurik J.",
+                "volume-title": "Proc. ProCams, IEEE."
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "unstructured": "Kim Y. Hong K. Yeom J. Hong J. Jung J.-H. Lee Y. W. Park J.-H. and Lee B. 2012. A Frontal Projection-type Three-dimensional Display. Optics Express 20.  Kim Y. Hong K. Yeom J. Hong J. Jung J.-H. Lee Y. W. Park J.-H. and Lee B. 2012. A Frontal Projection-type Three-dimensional Display. Optics Express 20 .",
+                "DOI": "10.1364/OE.20.020130",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/1179133.1179154",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/1882261.1866164",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/2070781.2024220",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1038/44565",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "first-page": "446",
+                "article-title": "La Photographie Int\u00e9grale",
+                "volume": "146",
+                "author": "Lippmann G.",
+                "year": "1908",
+                "journal-title": "Academie des Sciences"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/2503144",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1016/j.cag.2013.10.003",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/1015706.1015805",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "author": "Meuret Y.",
+                "volume": "769007",
+                "volume-title": "Proc. SPIE 7690"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "unstructured": "Nims J. and Lo A. 1972. 3-D Screen and System. US patent 3 814 513.  Nims J. and Lo A. 1972. 3-D Screen and System. US patent 3 814 513."
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "unstructured": "Perlin K. Paxia S. and Kollin J. S. 2000. An Autostereoscopic Display. In ACM SIGGRAPH ACM 319--326. 10.1145/344779.344933   Perlin K. Paxia S. and Kollin J. S. 2000. An Autostereoscopic Display. In ACM SIGGRAPH ACM 319--326. 10.1145/344779.344933"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1145/2185520.2185575",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "author": "Sajadi B.",
+                "volume-title": "Proc. IEEE ICCP, 1--8."
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1145/1073204.1073279",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1145/1015706.1015797",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1145/2048259.2048281",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "first-page": "207",
+                "article-title": "A Solid-State Multi-Planar Volumetric Display",
+                "volume": "32",
+                "author": "Sullivan A.",
+                "year": "2003",
+                "journal-title": "SID Digest"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1145/2461912.2462011",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1364/AO.29.004341",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1109/JPROC.2010.2098351",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "DOI": "10.1145/2010324.1964990",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "DOI": "10.1145/2185520.2185576",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "DOI": "10.1109/TVCG.2007.70410",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601144&amp;ftid=1488866&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:56:00Z",
+            "timestamp": 1586001360000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 49,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601144"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601144",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

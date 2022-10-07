@@ -1,0 +1,733 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    5,
+                    5
+                ]
+            ],
+            "date-time": "2020-05-05T17:41:03Z",
+            "timestamp": 1588700463942
+        },
+        "reference-count": 92,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2020,
+                            7,
+                            12
+                        ]
+                    ],
+                    "date-time": "2020-07-12T00:00:00Z",
+                    "timestamp": 1594512000000
+                },
+                "delay-in-days": 366,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100002790",
+                "name": "Canadian Network for Research and Innovation in Machining Technology, Natural Sciences and Engineering Research Council of Canada",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "RGPIN-2017-05235, RGPAS-2017-507938"
+                ]
+            },
+            {
+                "DOI": "10.13039/100000001",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "1652515, IIS-1320635, DMS-1436591, 1835712"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100001711",
+                "name": "Schweizerischer Nationalfonds zur F\u00f6rderung der Wissenschaftlichen Forschung",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "P2TIP2_175859"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100007224",
+                "name": "Connaught Fund",
+                "doi-asserted-by": "crossref",
+                "award": []
+            },
+            {
+                "name": "Canada Research Chair award",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "DOI": "10.1145/3306346.3323011",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2019-07-12T19:04:08Z",
+            "timestamp": 1562958248000
+        },
+        "page": "1-15",
+        "source": "Crossref",
+        "is-referenced-by-count": 1,
+        "title": [
+            "TriWild"
+        ],
+        "prefix": "10.1145",
+        "volume": "38",
+        "author": [
+            {
+                "given": "Yixin",
+                "family": "Hu",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "New York University"
+                    }
+                ]
+            },
+            {
+                "given": "Teseo",
+                "family": "Schneider",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "New York University"
+                    }
+                ]
+            },
+            {
+                "given": "Xifeng",
+                "family": "Gao",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Florida State University"
+                    }
+                ]
+            },
+            {
+                "given": "Qingnan",
+                "family": "Zhou",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe Research"
+                    }
+                ]
+            },
+            {
+                "given": "Alec",
+                "family": "Jacobson",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Toronto, Canada"
+                    }
+                ]
+            },
+            {
+                "given": "Denis",
+                "family": "Zorin",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "New York University"
+                    }
+                ]
+            },
+            {
+                "given": "Daniele",
+                "family": "Panozzo",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "New York University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1016/j.cpc.2015.02.008",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1016/j.cad.2017.10.004",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "unstructured": "Abaqus. 2018. Abaqus. http://www.feasol.com  Abaqus. 2018. Abaqus. http://www.feasol.com"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1002/fld.3932",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/1073204.1073238",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "unstructured": "Ansys. 2018. Ansys. https://www.ansys.com  Ansys. 2018. Ansys. https://www.ansys.com"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/116873.116880",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "Franz Aurenhammer Rolf Klein and Der-Tsai Lee. 2013. Voronoi Diagrams and Delaunay Triangulations. WORLD SCIENTIFIC.   Franz Aurenhammer Rolf Klein and Der-Tsai Lee. 2013. Voronoi Diagrams and Delaunay Triangulations. WORLD SCIENTIFIC.",
+                "DOI": "10.1142/8685",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1016/0965-9978(92)90097-Y",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1137/0725048",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "unstructured": "Brenda S. Baker Eric Grosse and Conor S. Rafferty. 1988. Nonobtuse triangulation of polygons. Discrete & Computational Geometry 3 2 (01 Jun 1988) 147--168. 10.1007/BF02187904   Brenda S. Baker Eric Grosse and Conor S. Rafferty. 1988. Nonobtuse triangulation of polygons. Discrete & Computational Geometry 3 2 (01 Jun 1988) 147--168. 10.1007/BF02187904",
+                "DOI": "10.1007/BF02187904",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/2567943",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1006/jcph.1997.5454",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "author": "Beall Mark W",
+                "year": "2003",
+                "volume-title": "Proceedings of the 12th International Meshing Roundtable. 33--42"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1016/S0022-0000(05)80059-5",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1137/130948902",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1137/13091720X",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "unstructured": "Christopher J. Bishop. 2016. Nonobtuse Triangulations of PSLGs. Discrete & Computational Geometry 56 1 (2016). 10.1007/s00454-016-9772-8   Christopher J. Bishop. 2016. Nonobtuse Triangulations of PSLGs. Discrete & Computational Geometry 56 1 (2016). 10.1007/s00454-016-9772-8",
+                "DOI": "10.1007/s00454-016-9771-9",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1016/S0925-7721(01)00054-2",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/2366145.2366192",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "unstructured": "Dietrich Braess. 2007. Finite Elements (third ed.). Cambridge University Press. Cambridge Books Online.  Dietrich Braess. 2007. Finite Elements (third ed.). Cambridge University Press. Cambridge Books Online."
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "Oscar P Bruno and Matthew M Pohlman. 2003. High order surface representation. Topics in Computational Wave Propagation Direct and Inverse Problems (2003).  Oscar P Bruno and Matthew M Pohlman. 2003. High order surface representation. Topics in Computational Wave Propagation Direct and Inverse Problems (2003)."
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/1629255.1629259",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "unstructured": "S. A. Canann S. N. Muthukrishnan and R. K. Phillips. 1996. Topological refinement procedures for triangular finite element meshes. Engineering with Computers 12 3 (01 Sep 1996) 243--255.  S. A. Canann S. N. Muthukrishnan and R. K. Phillips. 1996. Topological refinement procedures for triangular finite element meshes. Engineering with Computers 12 3 (01 Sep 1996) 243--255.",
+                "DOI": "10.1007/BF01198738",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1016/0168-874X(93)90056-V",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/997817.997864",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "unstructured": "Long Chen and Jin-chao Xu. 2004. Optimal delaunay triangulations. Journal of Computational Mathematics (2004) 299--308.  Long Chen and Jin-chao Xu. 2004. Optimal delaunay triangulations. Journal of Computational Mathematics (2004) 299--308."
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "Siu-Wing Cheng Tamal K. Dey and Jonathan Shewchuk. 2012. Delaunay Mesh Generation.  Siu-Wing Cheng Tamal K. Dey and Jonathan Shewchuk. 2012. Delaunay Mesh Generation."
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1016/0045-7825(72)90006-0",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "unstructured": "Saikat Dey Robert M. O'Bara and Mark S. Shephard. 1999. Curvilinear Mesh Generation In 3D. In IMR. John Wiley & Sons 407--417.  Saikat Dey Robert M. O'Bara and Mark S. Shephard. 1999. Curvilinear Mesh Generation In 3D. In IMR. John Wiley & Sons 407--417."
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1016/j.cma.2017.02.017",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "unstructured": "Luke Engvall and John A. Evans. 2018. Mesh Quality Metrics for Isogeometric Bernstein-B\u00e9zier Discretizations. arXiv:1810.06975 (2018).  Luke Engvall and John A. Evans. 2018. Mesh Quality Metrics for Isogeometric Bernstein-B\u00e9zier Discretizations. arXiv:1810.06975 (2018)."
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1145/3197517.3201358",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1002/nme.1620020112",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/2766938",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "unstructured": "Abel Gargallo Peir\u00f3 Francisco Javier Roca Navarro Jaume Peraire Guitart and Josep Sarrate Ramos. 2013. High-order mesh generation on CAD geometries. In Adaptive Modeling and Simulation 2013. Centre Internacional de M\u00e8todes Num\u00e8rics en Enginyeria (CIMNE) 301--312.  Abel Gargallo Peir\u00f3 Francisco Javier Roca Navarro Jaume Peraire Guitart and Josep Sarrate Ramos. 2013. High-order mesh generation on CAD geometries. In Adaptive Modeling and Simulation 2013. Centre Internacional de M\u00e8todes Num\u00e8rics en Enginyeria (CIMNE) 301--312."
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "unstructured": "John Alan George. 1971. Computer Implementation of the Finite Element Method. Ph.D. Dissertation. Stanford CA USA. AAI7205916.  John Alan George. 1971. Computer Implementation of the Finite Element Method. Ph.D. Dissertation. Stanford CA USA. AAI7205916."
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1002/nme.3364",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "unstructured": "Christophe Geuzaine Amaury Johnen Jonathan Lambrechts Jean-Fran\u00e7ois Remacle and Thomas Toulorge. 2015. The Generation of Valid Curvilinear Meshes. Springer International Publishing Cham 15--39.  Christophe Geuzaine Amaury Johnen Jonathan Lambrechts Jean-Fran\u00e7ois Remacle and Thomas Toulorge. 2015. The Generation of Valid Curvilinear Meshes. Springer International Publishing Cham 15--39.",
+                "DOI": "10.1007/978-3-319-12886-3_2",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1002/nme.2579",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "author": "Ghasemi Arash",
+                "year": "2016",
+                "volume-title": "Massively Parallel Curved Spectral/Finite Element Mesh Generation of Industrial CAD Geometries in Two and Three Dimensions. Fluids Engineering Division Summer Meeting 50299"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1145/262839.262985",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "unstructured": "Ga\u00ebl Guennebaud Beno\u00eet Jacob etal 2010. Eigen v3.  Ga\u00ebl Guennebaud Beno\u00eet Jacob et al. 2010. Eigen v3."
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1145/3197517.3201353",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "DOI": "10.1016/j.cma.2004.10.008",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "DOI": "10.1016/j.jcp.2012.08.051",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "author": "Joshi Pushkar",
+                "volume-title": "Proceedings of the Fifth Eurographics Conference on Sketch-Based Interfaces and Modeling (SBM'08)"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "author": "Karman Steve L.",
+                "year": "2016",
+                "volume-title": "High-Order Mesh Curving Using WCN Mesh Optimization. In 46th AIAA Fluid Dynamics Conference, AIAA AVIATION Forum."
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "DOI": "10.1002/(SICI)1097-0207(20000720)48:8<1165::AID-NME940>3.0.CO;2-Y",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "DOI": "10.1145/2185520.2185604",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "author": "Lu Qiukai",
+                "volume-title": "Proceedings of the 21st International Meshing Roundtable, Xiangmin Jiao and Jean-Christophe Weill (Eds.). Springer Berlin Heidelberg"
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "unstructured": "Xiaojuan Luo Mark S Shephard and Jean-Francois Remacle. 2001. The influence of geometric approximation on the accuracy of high order methods. Rensselaer SCOREC report 1 (2001).  Xiaojuan Luo Mark S Shephard and Jean-Francois Remacle. 2001. The influence of geometric approximation on the accuracy of high order methods. Rensselaer SCOREC report 1 (2001)."
+            },
+            {
+                "key": "e_1_2_2_55_1",
+                "unstructured": "Xiaojuan Luo Mark S. Shephard Jean-Fran\u00e7ois Remacle Robert M. O'Bara Mark W. Beall Barna A. Szab\u00f3 and Ricardo Actis. 2002. p-Version Mesh Generation Issues. In IMR.  Xiaojuan Luo Mark S. Shephard Jean-Fran\u00e7ois Remacle Robert M. O'Bara Mark W. Beall Barna A. Szab\u00f3 and Ricardo Actis. 2002. p-Version Mesh Generation Issues. In IMR."
+            },
+            {
+                "key": "e_1_2_2_56_1",
+                "unstructured": "Richard H. MacNeal. 1949. The solution of partial differential equations by means of electrical networks. Ph.D. Dissertation. CalTech.  Richard H. MacNeal. 1949. The solution of partial differential equations by means of electrical networks. Ph.D. Dissertation. CalTech."
+            },
+            {
+                "key": "e_1_2_2_57_1",
+                "DOI": "10.1145/2766950",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_58_1",
+                "unstructured": "MATLAB Partial Differential Equation Toolbox 2018. MATLAB Partial Differential Equation Toolbox. The MathWorks Natick MA USA.  MATLAB Partial Differential Equation Toolbox 2018. MATLAB Partial Differential Equation Toolbox. The MathWorks Natick MA USA."
+            },
+            {
+                "key": "e_1_2_2_59_1",
+                "DOI": "10.1016/j.cagd.2008.09.009",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_60_1",
+                "DOI": "10.1137/0724048",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_61_1",
+                "DOI": "10.1016/j.cad.2015.09.007",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_62_1",
+                "DOI": "10.1016/0045-7825(94)90032-9",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_63_1",
+                "DOI": "10.1145/1360612.1360691",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_64_1",
+                "DOI": "10.1021/acsnano.5b07406",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_65_1",
+                "unstructured": "Joaquim Peir\u00f3 Spencer J. Sherwin and Sergio Giordana. 2008. Automatic reconstruction of a patient-specific high-order surface representation and its application to mesh generation for CFD calculations. Medical & Biological Engineering & Computing 46 11 (01 Nov 2008) 1069--1083.  Joaquim Peir\u00f3 Spencer J. Sherwin and Sergio Giordana. 2008. Automatic reconstruction of a patient-specific high-order surface representation and its application to mesh generation for CFD calculations. Medical & Biological Engineering & Computing 46 11 (01 Nov 2008) 1069--1083.",
+                "DOI": "10.1007/s11517-008-0390-3",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_66_1",
+                "DOI": "10.1016/0021-9991(87)90093-3",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_67_1",
+                "DOI": "10.2514/6.2009-949",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_68_1",
+                "unstructured": "Roman Poya Ruben Sevilla and Antonio J. Gil. 2016. A unified approach for a posteriori high-order curved mesh generation using solid mechanics. Computational Mechanics 58 3 (01 Sep 2016) 457--490. 10.1007/s00466-016-1302-2   Roman Poya Ruben Sevilla and Antonio J. Gil. 2016. A unified approach for a posteriori high-order curved mesh generation using solid mechanics. Computational Mechanics 58 3 (01 Sep 2016) 457--490. 10.1007/s00466-016-1302-2",
+                "DOI": "10.1007/s00466-016-1302-2",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_69_1",
+                "DOI": "10.1145/2983621",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_70_1",
+                "author": "Roca Xevi",
+                "year": "2012",
+                "volume-title": "Proceedings of the 20th International Meshing Roundtable, William Roshan Quadros (Ed.). Springer Berlin Heidelberg"
+            },
+            {
+                "key": "e_1_2_2_71_1",
+                "DOI": "10.1016/j.proeng.2017.09.820",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_72_1",
+                "DOI": "10.1016/j.cad.2015.06.011",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_73_1",
+                "DOI": "10.1016/j.proeng.2016.11.108",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_74_1",
+                "DOI": "10.1002/nme.1620151206",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_75_1",
+                "unstructured": "L Ridgway Scott. 1973. Finite element techniques for curved boundaries. Ph.D. Dissertation. Massachusetts Institute of Technology.  L Ridgway Scott. 1973. Finite element techniques for curved boundaries. Ph.D. Dissertation. Massachusetts Institute of Technology."
+            },
+            {
+                "key": "e_1_2_2_76_1",
+                "DOI": "10.1137/0712032",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_77_1",
+                "DOI": "10.1016/0010-4485(90)90039-F",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_78_1",
+                "DOI": "10.1007/s11831-011-9066-5",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_79_1",
+                "DOI": "10.1016/j.apnum.2004.08.040",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_80_1",
+                "DOI": "10.1002/nme.397",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_81_1",
+                "unstructured": "J Shewchuk. 2012. Unstructured Mesh Generation. In Combinatorial Scientific Computing.  J Shewchuk. 2012. Unstructured Mesh Generation. In Combinatorial Scientific Computing.",
+                "DOI": "10.1201/b11644-11",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_82_1",
+                "author": "Shewchuk Jonathan Richard",
+                "year": "1996",
+                "volume-title": "Triangle: Engineering a 2D quality mesh generator and Delaunay triangulator"
+            },
+            {
+                "key": "e_1_2_2_83_1",
+                "first-page": "3",
+                "article-title": "Adaptive Precision Floating-Point Arithmetic and Fast Robust Geometric Predicates",
+                "volume": "18",
+                "author": "Shewchuk Jonathan Richard",
+                "year": "1997",
+                "journal-title": "Discrete & Computational Geometry"
+            },
+            {
+                "key": "e_1_2_2_85_1",
+                "author": "Shewchuk Jonathan Richard",
+                "year": "2002",
+                "volume-title": "Proceedings of the 11th International Meshing Roundtable, IMR 2002"
+            },
+            {
+                "key": "e_1_2_2_86_1",
+                "DOI": "10.1016/j.proeng.2017.09.806",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_87_1",
+                "first-page": "9",
+                "article-title": "Analysis of Mixed Finite Element Methods for the Stokes Problem",
+                "volume": "42",
+                "author": "Stenberg Rolf",
+                "year": "1984",
+                "journal-title": "A Unified Approach. Math. Comp."
+            },
+            {
+                "key": "e_1_2_2_88_1",
+                "DOI": "10.1145/2591011",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_89_1",
+                "DOI": "10.1016/j.jcp.2013.07.022",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_90_1",
+                "DOI": "10.1016/j.jcp.2016.01.023",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_91_1",
+                "unstructured": "Ron Wein Eric Berberich Efi Fogel Dan Halperin Michael Hemmer Oren Salzman and Baruch Zukerman. 2018. 2D Arrangements. In CGAL User and Reference Manual (4.13 ed.). CGAL Editorial Board. https://doc.cgal.org/4.13/Manual/packages.html#PkgArrangement2Summary  Ron Wein Eric Berberich Efi Fogel Dan Halperin Michael Hemmer Oren Salzman and Baruch Zukerman. 2018. 2D Arrangements. In CGAL User and Reference Manual (4.13 ed.). CGAL Editorial Board. https://doc.cgal.org/4.13/Manual/packages.html#PkgArrangement2Summary"
+            },
+            {
+                "key": "e_1_2_2_92_1",
+                "first-page": "283",
+                "article-title": "Control of geometry induced error in hp finite element (FE) simulations. I. Evaluation of FE error for curvilinear geometries",
+                "volume": "2",
+                "author": "Xue Dong",
+                "year": "2005",
+                "journal-title": "Int. J. Numer. Anal. Model"
+            },
+            {
+                "key": "e_1_2_2_93_1",
+                "DOI": "10.1109/MCG.1983.262997",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_94_1",
+                "DOI": "10.1016/j.proeng.2017.09.791",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_95_1",
+                "unstructured": "Patrick Zulian Teseo Schneider Hormann Kai and Krause Rolf. 2017. Parametric finite elements with bijective mappings. BIT Numerical Mathematics (2017) 1--19.  Patrick Zulian Teseo Schneider Hormann Kai and Krause Rolf. 2017. Parametric finite elements with bijective mappings. BIT Numerical Mathematics (2017) 1--19."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "https://dl.acm.org/doi/pdf/10.1145/3306346.3323011",
+                "content-type": "application/pdf",
+                "content-version": "vor",
+                "intended-application": "syndication"
+            },
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3323011&ftid=2071713&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    5,
+                    5
+                ]
+            ],
+            "date-time": "2020-05-05T17:17:29Z",
+            "timestamp": 1588699049000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "robust triangulation with curve constraints"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "references-count": 92,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        12
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3306346.3323011"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3306346.3323011",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

@@ -1,0 +1,419 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T02:11:27Z",
+            "timestamp": 1585966287904
+        },
+        "reference-count": 41,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "name": "ERC Starting Grant iModel",
+                "award": [
+                    "306877"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925914",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-9",
+        "source": "Crossref",
+        "is-referenced-by-count": 25,
+        "title": [
+            "Computational thermoforming"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Christian",
+                "family": "Sch\u00fcller",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "ETH Zurich"
+                    }
+                ]
+            },
+            {
+                "given": "Daniele",
+                "family": "Panozzo",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "ETH Zurich"
+                    }
+                ]
+            },
+            {
+                "given": "Anselm",
+                "family": "Grundh\u00f6fer",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Disney Research"
+                    }
+                ]
+            },
+            {
+                "given": "Henning",
+                "family": "Zimmer",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Disney Research"
+                    }
+                ]
+            },
+            {
+                "given": "Evgeni",
+                "family": "Sorkine",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "ETH Zurich"
+                    }
+                ]
+            },
+            {
+                "given": "Olga",
+                "family": "Sorkine-Hornung",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "ETH Zurich"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "3dsystems 2016. ProJet CJP 660Pro. http://www.3dsystems.com/3d-printers/professional/projet-660pro. Accessed: 2016-01-18.  3dsystems 2016. ProJet CJP 660Pro. http://www.3dsystems.com/3d-printers/professional/projet-660pro. Accessed: 2016-01-18."
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "Accuform 2016. T-sim. http://www.t-sim.com. Accessed: 2016-01-18.  Accuform 2016. T-sim. http://www.t-sim.com. Accessed: 2016-01-18."
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "unstructured": "Agisoft 2016. Agisoft photoscan standard edition 1.2.2. http://www.agisoft.com/. Accessed: 2015-12-18.  Agisoft 2016. Agisoft photoscan standard edition 1.2.2. http://www.agisoft.com/. Accessed: 2015-12-18."
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/1409060.1409085",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/2185520.2185609",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/2508363.2508416",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "author": "Brox T.",
+                "year": "2004",
+                "volume-title": "8th European Conference on Computer Vision"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "Cuttlefish 2015. Cuttlefish: 3D printing pipeline. https://www.cuttlefish.de/. Accessed: 2015-03-01.  Cuttlefish 2015. Cuttlefish: 3D printing pipeline. https://www.cuttlefish.de/. Accessed: 2015-03-01."
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "ESI 2016. ESI Pam-form. https://www.esi-group.com/software-solutions/virtual-manufacturing/composites/solutions-plastics-trims. Accessed: 2016-01-18.  ESI 2016. ESI Pam-form. https://www.esi-group.com/software-solutions/virtual-manufacturing/composites/solutions-plastics-trims. Accessed: 2016-01-18."
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "FUJIFILM 2016. Thermoforming ink. http://www.fujifilm.com.au/powerofinkjet/applications/thermoforming. Accessed: 2016-04-19.  FUJIFILM 2016. Thermoforming ink. http://www.fujifilm.com.au/powerofinkjet/applications/thermoforming. Accessed: 2016-04-19."
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1111/cgf.12318",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "unstructured": "Hill R. 1998. The Mathematical Theory of Plasticity. Oxford classic texts in the physical sciences. Clarendon Press.  Hill R. 1998. The Mathematical Theory of Plasticity . Oxford classic texts in the physical sciences. Clarendon Press."
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "Klein P. 2009. Fundamentals of Plastics Thermoforming. Synthesis lectures on materials engineeering. Morgan & Claypool.  Klein P. 2009. Fundamentals of Plastics Thermoforming . Synthesis lectures on materials engineeering. Morgan & Claypool.",
+                "DOI": "10.2200/S00184ED1V01Y200904MRE001",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1002/pen.760321009",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "unstructured": "Koziey B. Ghafur M. Vlachopoulos J. and \n      \n      \n      Mirza F\n      \n  \n  . \n  1997\n  . Computer simulation of thermoforming. In Composite Sheet Forming D. Bhattacharyya Ed. vol. \n  11\n   of \n  Composite Materials Series\n  . \n  Elsevier ch. 3 75--89.  Koziey B. Ghafur M. Vlachopoulos J. and Mirza F. 1997. Computer simulation of thermoforming. In Composite Sheet Forming D. Bhattacharyya Ed. vol. 11 of Composite Materials Series . Elsevier ch. 3 75--89.",
+                "DOI": "10.1016/S0927-0108(97)80005-7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "Kuzmin A. Luisier M. and \n      \n      \n      Schenk O\n      \n  \n  . \n  2013\n  . Fast methods for computing selected elements of the greens function in massively parallel nanoelectronic device simulations. In Euro-Par 2013 Parallel Processing F. Wolf B. Mohr and D. Mey Eds. vol. \n  8097\n   of \n  Lecture Notes in Computer Science\n  . \n  Springer Berlin Heidelberg 533--544. 10.1007/978-3-642-40047-6_54   Kuzmin A. Luisier M. and Schenk O. 2013. Fast methods for computing selected elements of the greens function in massively parallel nanoelectronic device simulations. In Euro-Par 2013 Parallel Processing F. Wolf B. Mohr and D. Mey Eds. vol. 8097 of Lecture Notes in Computer Science. Springer Berlin Heidelberg 533--544. 10.1007/978-3-642-40047-6_54",
+                "DOI": "10.1007/978-3-642-40047-6_54",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1109/ISMAR.2009.5336503",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1016/j.cag.2013.01.005",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "author": "Liu L.",
+                "volume-title": "Proceedings of the Symposium on Geometry Processing, SGP '08"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "Ltd. M. T. 2016. Mcor Technologies Ltd. http://mcortechnologies.com/. Accessed: 2016-01-18.  Ltd. M. T. 2016. Mcor Technologies Ltd. http://mcortechnologies.com/. Accessed: 2016-01-18."
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "first-page": "2",
+                "article-title": "Improvements in thermoforming simulation by use of 3D digital image correlation",
+                "volume": "9",
+                "author": "Mieghem B. V.",
+                "year": "2015",
+                "journal-title": "Express Polymer Letters"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "author": "M\u00fcller M.",
+                "volume-title": "Proc. Graphics Interface, 239--246"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1002/pen.760302009",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/566654.566579",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1111/cgf.12697",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "unstructured": "Pr\u00e9vost R. Jacobson A. Jarosz W. and Sorkine-Hornung O. 2015. Large-scale painting of photographs by interactive optimization. Computers & Graphics. In press.  Pr\u00e9vost R. Jacobson A. Jarosz W. and Sorkine-Hornung O. 2015. Large-scale painting of photographs by interactive optimization. Computers & Graphics. In press.",
+                "DOI": "10.1016/j.cag.2015.11.001",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.5555/2383696.2383708",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1111/cgf.12319",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "Rheoware 2016. Rheoware simulation. http://www.blowmolding-thermoforming-simulation.com. Accessed: 2016-01-18.  Rheoware 2016. Rheoware simulation. http://www.blowmolding-thermoforming-simulation.com. Accessed: 2016-01-18."
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1109/MCG.2013.82",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1007/s10589-006-9003-y",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1137/070707002",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/2699649",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "unstructured": "Simo J. C. and Hughes T. J. R. 1998. Computational inelasticity. Interdisciplinary applied mathematics. Springer.  Simo J. C. and Hughes T. J. R. 1998. Computational inelasticity. Interdisciplinary applied mathematics. Springer."
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "unstructured": "Thermo3D Q. 2016. Quadraxis Thermo3D. http://quadraxis.com/site/?page_id=45. Accessed: 2016-01-18.  Thermo3D Q. 2016. Quadraxis Thermo3D. http://quadraxis.com/site/?page_id=45. Accessed: 2016-01-18."
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "unstructured": "transferpaper 2015. Themagictouch cpm 6.2 - hard surface transfer paper. http://www.themagictouch.com/cpm.html/. Accessed: 2016-13-04.  transferpaper 2015. Themagictouch cpm 6.2 - hard surface transfer paper. http://www.themagictouch.com/cpm.html/. Accessed: 2016-13-04."
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/2461912.2461993",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1145/2601097.2601199",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "unstructured": "Witkin A. and Baraff D. 1997. Physically based modeling: Principles and practice siggraph course notes.  Witkin A. and Baraff D. 1997. Physically based modeling: Principles and practice siggraph course notes."
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "unstructured": "X-Rite 2016. X-rite. http://xritephoto.com/. Accessed: 2016-01-18.  X-Rite 2016. X-rite. http://xritephoto.com/. Accessed: 2016-01-18."
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1145/2766932",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925914&amp;ftid=1755832&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:34:35Z",
+            "timestamp": 1585964075000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 41,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925914"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925914",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

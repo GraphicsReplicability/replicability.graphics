@@ -1,0 +1,468 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2020-07-12T19:40:18Z",
+            "timestamp": 1594582818881
+        },
+        "reference-count": 54,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2020,
+                            7,
+                            12
+                        ]
+                    ],
+                    "date-time": "2020-07-12T00:00:00Z",
+                    "timestamp": 1594512000000
+                },
+                "delay-in-days": 366,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100000001",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "CNS-1205521, IIS-1812796"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "DOI": "10.1145/3306346.3323025",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2019-07-12T19:04:08Z",
+            "timestamp": 1562958248000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 1,
+        "title": [
+            "A null-scattering path integral formulation of light transport"
+        ],
+        "prefix": "10.1145",
+        "volume": "38",
+        "author": [
+            {
+                "given": "Bailey",
+                "family": "Miller",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Dartmouth College"
+                    }
+                ]
+            },
+            {
+                "given": "Iliyan",
+                "family": "Georgiev",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Autodesk, United Kingdom"
+                    }
+                ]
+            },
+            {
+                "given": "Wojciech",
+                "family": "Jarosz",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Dartmouth College"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "author": "Arvo James",
+                "year": "1993",
+                "volume-title": "Transfer Functions in Global Illumination. In ACM SIGGRAPH '93 Course Notes - Global Illumination."
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "James Richard Arvo. 1995. Analytic methods for simulated light transport. Ph.D. Dissertation. Yale University.  James Richard Arvo. 1995. Analytic methods for simulated light transport. Ph.D. Dissertation. Yale University."
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/3072959.3073698",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/3272127.3275103",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/3182159",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1103/PhysRev.112.2096",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "John C. Butcher and Harry Messel. 1960. Electron number distribution in electron-photon showers in air and aluminium absorbers. Nuclear Physics 20 (1960).  John C. Butcher and Harry Messel. 1960. Electron number distribution in electron-photon showers in air and aluminium absorbers. Nuclear Physics 20 (1960)."
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "Subrahmanyan Chandrasekhar. 1960. Radiative Transfer. Dover Publications.  Subrahmanyan Chandrasekhar. 1960. Radiative Transfer. Dover Publications."
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/3182162",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1561/0600000073",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.13182/NSE68-1",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "author": "Fascione Luca",
+                "year": "2017",
+                "volume-title": "SIGGRAPH 2017 Course Notes: Path tracing in production (Parts 1 and 2). In SIGGRAPH Courses."
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/3182161",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "unstructured": "Mathieu Galtier Stephane Blanco Cyril Caliot Christophe Coustet J\u00e9r\u00e9mi Dauchet Mouna El Hafi Vincent Eymet Richard Fournier Jacques Gautrais Anais Khuong Benjamin Piaud and Guillaume Terr\u00e9e. 2013. Integral formulation of null-collision Monte Carlo algorithms. Journal of Quantitative Spectroscopy and Radiative Transfer 125 (2013).  Mathieu Galtier Stephane Blanco Cyril Caliot Christophe Coustet J\u00e9r\u00e9mi Dauchet Mouna El Hafi Vincent Eymet Richard Fournier Jacques Gautrais Anais Khuong Benjamin Piaud and Guillaume Terr\u00e9e. 2013. Integral formulation of null-collision Monte Carlo algorithms. Journal of Quantitative Spectroscopy and Radiative Transfer 125 (2013).",
+                "DOI": "10.1016/j.jqsrt.2013.04.001",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/3214834.3214864",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/3182160",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/2508363.2508411",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.5555/2858834.2858844",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "Sebastian Herholz Oskar Elek Ji\u0159\u00ed Vorba Hendrik Lensch and Jaroslav K\u0159iv\u00e1nek. 2016. Product Importance Sampling for Light Transport Path Guiding. Computer Graphics Forum 35 4 (2016).   Sebastian Herholz Oskar Elek Ji\u0159\u00ed Vorba Hendrik Lensch and Jaroslav K\u0159iv\u00e1nek. 2016. Product Importance Sampling for Light Transport Path Guiding. Computer Graphics Forum 35 4 (2016).",
+                "DOI": "10.1111/cgf.12950",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "David Immel Michael Cohen and Donald Greenberg. 1986. A radiosity method for non-diffuse environments. Computer Graphics (Proc. SIGGRAPH) 20 4 (1986). 10.1145/15886.15901   David Immel Michael Cohen and Donald Greenberg. 1986. A radiosity method for non-diffuse environments. Computer Graphics (Proc. SIGGRAPH) 20 4 (1986). 10.1145/15886.15901"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "unstructured": "Wenzel Jakob. 2013. Light Transport on Path-Space Manifolds. Ph.D. Dissertation. Cornell University.  Wenzel Jakob. 2013. Light Transport on Path-Space Manifolds. Ph.D. Dissertation. Cornell University."
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/2185520.2185554",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "Adrian Jarabo Carlos Aliaga and Diego Gutierrez. 2018. A Radiative Transfer Framework for Spatially-Correlated Materials. ACM Transactions on Graphics (Proc. SIGGRAPH) 37 4 (2018). 10.1145/3197517.3201282   Adrian Jarabo Carlos Aliaga and Diego Gutierrez. 2018. A Radiative Transfer Framework for Spatially-Correlated Materials. ACM Transactions on Graphics (Proc. SIGGRAPH) 37 4 (2018). 10.1145/3197517.3201282"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/1899404.1899409",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/2070781.2024215",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/1401132.1401137",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "unstructured": "Henrik Wann Jensen and Per H. Christensen. 1998. Efficient Simulation of Light Transport in Scenes With Participating Media Using Photon Maps. In Annual Conference Series (Proc. SIGGRAPH). 10.1145/280814.280925   Henrik Wann Jensen and Per H. Christensen. 1998. Efficient Simulation of Light Transport in Scenes With Participating Media Using Photon Maps. In Annual Conference Series (Proc. SIGGRAPH). 10.1145/280814.280925",
+                "DOI": "10.1145/280814.280925",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/383259.383319",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/15886.15902",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "unstructured": "Markus Kettunen Marco Manzi Miika Aittala Jaakko Lehtinen Fr\u00e9do Durand and Matthias Zwicker. 2015. Gradient-domain Path Tracing. ACM Transactions on Graphics (Proc. SIGGRAPH) 34 4 Article 123 (July 2015). 10.1145/2766997   Markus Kettunen Marco Manzi Miika Aittala Jaakko Lehtinen Fr\u00e9do Durand and Matthias Zwicker. 2015. Gradient-domain Path Tracing. ACM Transactions on Graphics (Proc. SIGGRAPH) 34 4 Article 123 (July 2015). 10.1145/2766997",
+                "DOI": "10.1145/2766997",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1111/j.1467-8659.2012.03148.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/3072959.3073665",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/2601097.2601219",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "author": "Lafortune Eric",
+                "year": "1993",
+                "volume-title": "Proc. Compugraphics."
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.5555/275458.275468",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "author": "M\u00fcller Thomas",
+                "year": "2017",
+                "volume-title": "Practical Path Guiding for Efficient Light-Transport Simulation. Computer Graphics Forum (Proc. Eurographics Symposium on Rendering) 36"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/2487228.2487235",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1111/cgf.13383",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1145/2661229.2661292",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.5555/647652.732117",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1145/325334.325247",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1145/74333.74359",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "unstructured": "Matt Pharr Wenzel Jakob and Greg Humphreys. 2016. Physically Based Rendering: From Theory To Implementation (3rd ed.).   Matt Pharr Wenzel Jakob and Greg Humphreys. 2016. Physically Based Rendering: From Theory To Implementation (3rd ed.)."
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "author": "Raab Matthias",
+                "year": "2006",
+                "volume-title": "Monte Carlo and Quasi-Monte Carlo Methods"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "author": "Sutton T. M.",
+                "year": "1999",
+                "volume-title": "Technical Report KAPL-4840. Knolls Atomic Power Laboratory"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "unstructured": "L\u00e1szl\u00f3 Szirmay-Kalos Iliyan Georgiev Mil\u00e1n Magdics Bal\u00e1zs Moln\u00e1r and D\u00e1vid L\u00e9gr\u00e1dy. 2017. Unbiased Estimators to Render Procedurally Generated Inhomogeneous Participating Media. Computer Graphics Forum (Proc. Eurographics) 36 2 (2017). 10.1111/cgf.13102   L\u00e1szl\u00f3 Szirmay-Kalos Iliyan Georgiev Mil\u00e1n Magdics Bal\u00e1zs Moln\u00e1r and D\u00e1vid L\u00e9gr\u00e1dy. 2017. Unbiased Estimators to Render Procedurally Generated Inhomogeneous Participating Media. Computer Graphics Forum (Proc. Eurographics) 36 2 (2017). 10.1111/cgf.13102",
+                "DOI": "10.1111/cgf.13102",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "DOI": "10.1111/cgf.13342",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "unstructured": "L\u00e1szl\u00f3 Szirmay-Kalos Bal\u00e1zs T\u00f3th and Mil\u00e1n Magdics. 2011. Free path sampling in high resolution inhomogeneous participating media. Computer Graphics Forum 30 1 (2011).  L\u00e1szl\u00f3 Szirmay-Kalos Bal\u00e1zs T\u00f3th and Mil\u00e1n Magdics. 2011. Free path sampling in high resolution inhomogeneous participating media. Computer Graphics Forum 30 1 (2011)."
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "unstructured": "Eric Veach. 1997. Robust Monte Carlo methods for light transport simulation. Ph.D. Dissertation. Stanford CA USA.   Eric Veach. 1997. Robust Monte Carlo methods for light transport simulation. Ph.D. Dissertation. Stanford CA USA."
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "DOI": "10.1145/218380.218498",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "DOI": "10.1145/2601097.2601203",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "DOI": "10.1145/1531326.1531398",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_55_1",
+                "DOI": "10.1111/cgf.12419",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_56_1",
+                "unstructured": "E. R. Woodcock T. Murphy P. J. Hemmings and T. C. Longworth. 1965. Techniques used in the GEM code for Monte Carlo neutronics calculations in reactors and other systems of complex geometry. In Applications of Computing Methods to Reactor Problems. Argonne National Laboratory.  E. R. Woodcock T. Murphy P. J. Hemmings and T. C. Longworth. 1965. Techniques used in the GEM code for Monte Carlo neutronics calculations in reactors and other systems of complex geometry. In Applications of Computing Methods to Reactor Problems. Argonne National Laboratory."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "https://dl.acm.org/doi/pdf/10.1145/3306346.3323025",
+                "content-type": "application/pdf",
+                "content-version": "vor",
+                "intended-application": "syndication"
+            },
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3323025&ftid=2071711&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2020-07-12T19:13:32Z",
+            "timestamp": 1594581212000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "references-count": 54,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        12
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3306346.3323025"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3306346.3323025",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

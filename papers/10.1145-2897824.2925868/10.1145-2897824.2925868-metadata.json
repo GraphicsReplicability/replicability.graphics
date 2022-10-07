@@ -1,0 +1,604 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T02:11:27Z",
+            "timestamp": 1585966287526
+        },
+        "reference-count": 72,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925868",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 8,
+        "title": [
+            "Schr\u00f6dinger's smoke"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Albert",
+                "family": "Chern",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Caltech"
+                    }
+                ]
+            },
+            {
+                "given": "Felix",
+                "family": "Kn\u00f6ppel",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "TU Berlin"
+                    }
+                ]
+            },
+            {
+                "given": "Ulrich",
+                "family": "Pinkall",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "TU Berlin"
+                    }
+                ]
+            },
+            {
+                "given": "Peter",
+                "family": "Schr\u00f6der",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Caltech"
+                    }
+                ]
+            },
+            {
+                "given": "Steffen",
+                "family": "Wei\u00dfmann",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Google Inc."
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "Abraham R. Marsden J. E. and Ratiu T. 2001. Manifolds Tensor Analysis and Applications. No. 75 in Appl. Math. Sci. Springer.  Abraham R. Marsden J. E. and Ratiu T. 2001. Manifolds Tensor Analysis and Applications . No. 75 in Appl. Math. Sci. Springer."
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1137/100788860",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/1073368.1073380",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1007/s002110050401",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "Arquis E. and Caltagirone J.-P. 1984. Sur les conditions hydrodynamiques au voisinage d'une interface milieu fluide-mileu poreux: application \u00e1 convection naturelle. CR Acad. Sci. Paris S\u00e9rie II 299 1 1--4.  Arquis E. and Caltagirone J.-P. 1984. Sur les conditions hydrodynamiques au voisinage d'une interface milieu fluide-mileu poreux: application \u00e1 convection naturelle. CR Acad. Sci. Paris S\u00e9rie II 299 1 1--4."
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/1276377.1276435",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.5555/2421731.2421746",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "first-page": "1453",
+                "article-title": "Boundary Layer for a Penalization Method for Viscous Incompressible",
+                "volume": "8",
+                "author": "Carbou G.",
+                "year": "2003",
+                "journal-title": "Flow. Adv. Diff. Eq."
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "first-page": "141",
+                "article-title": "On Certain Results Relating to Quaternions",
+                "volume": "26",
+                "author": "Cayley A.",
+                "year": "1845",
+                "journal-title": "Phil. Mag."
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1090/S0002-9939-1959-0105008-8",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1515/crll.1859.56.1",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1103/PhysRevLett.82.1554",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "Cottet G.-H. and Koumoutsakos P. D. 2000. Vortex Methods:Theory and Practice. Cam. U. Press.  Cottet G.-H. and Koumoutsakos P. D. 2000. Vortex Methods:Theory and Practice . Cam. U. Press.",
+                "DOI": "10.1017/CBO9780511526442",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Crane K. de Goes F. Desbrun M. and Schr\u00f6der P. 2013. Digital Geometry Processing with Discrete Exterior Calculus. In Courses ACM SIGGRAPH. 10.1145/2504435.2504442   Crane K. de Goes F. Desbrun M. and Schr\u00f6der P. 2013. Digital Geometry Processing with Discrete Exterior Calculus. In Courses ACM SIGGRAPH. 10.1145/2504435.2504442"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "first-page": "427",
+                "article-title": "A Level Set Formulation for the 3D Incompressible Euler Equations",
+                "volume": "12",
+                "author": "Deng J.",
+                "year": "2005",
+                "journal-title": "Methods Appl. Anal."
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "Desbrun M. Kanso E. and \n      \n      \n      Tong Y\n      \n  \n  . \n  2008\n  . Discrete Differential Forms for Computational Modeling. In Discrete Differential Geometry A. I. Bobenko P. Schr\u00f6der J. M. Sullivan and G. M. Ziegler Eds. Vol. \n  38\n   of \n  Oberwolfach Seminars\n  . \n  Birkh\u00e4user Verlag\n  .  Desbrun M. Kanso E. and Tong Y. 2008. Discrete Differential Forms for Computational Modeling. In Discrete Differential Geometry A. I. Bobenko P. Schr\u00f6der J. M. Sullivan and G. M. Ziegler Eds. Vol. 38 of Oberwolfach Seminars . Birkh\u00e4user Verlag."
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/1189762.1189766",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/383259.383260",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "unstructured": "Feynman R. P.\n     1955.\n      \n  \n   \n  Application of Quantum Mechanics to Liquid Helium Vol. \n  1\n   of \n  Progress in Low Temperature Physics\n  . North-Holland Ch\n  . \n  II 17--53.  Feynman R. P. 1955. Application of Quantum Mechanics to Liquid Helium Vol. 1 of Progress in Low Temperature Physics . North-Holland Ch. II 17--53.",
+                "DOI": "10.1016/S0079-6417(08)60077-3",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1103/PhysRevLett.69.1644",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "first-page": "858",
+                "article-title": "On the Theory of Superfluidity",
+                "volume": "7",
+                "author": "Ginsburg V. L.",
+                "year": "1958",
+                "journal-title": "J. Exp. Theor. Phys."
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1007/BF02731494",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "author": "Hall H. E.",
+                "volume-title": "Proc. R. Soc. L. A, Math. Phys. S. 238"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "Hanson A. J. 2005. Visualizing Quaternions. Morgan Kaufmann.   Hanson A. J. 2005. Visualizing Quaternions . Morgan Kaufmann.",
+                "DOI": "10.1145/1198555.1198701",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1017/S0022112072002307",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1007/BF01457962",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "first-page": "41",
+                "article-title": "Numerical Validation of the Volume Penalization Method in Three-Dimensional Pseudo-Spectral",
+                "volume": "67",
+                "author": "Jause-Labert C.",
+                "year": "2012",
+                "journal-title": "Simulations. Comp. & Fl."
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1080/03605302.2014.963604",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/1360612.1360649",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/1618452.1618466",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1038/nphys2560",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/2767000",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/1401132.1401166",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1016/0375-9601(80)90627-1",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "first-page": "153",
+                "article-title": "On the Theory of the Dispersion of Magnetic Permeability in Ferromagnetic",
+                "volume": "8",
+                "author": "Landau L.",
+                "year": "1935",
+                "journal-title": "Bodies. Phys. Zeitsch. Sow."
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1016/0021-9991(80)90040-6",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1007/BF00187063",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1063/1.869160",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1007/s002200050529",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1080/0025570X.2003.11953158",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1007/BF01504657",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1007/BF01400372",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "author": "McAdams A.",
+                "volume-title": "Proc. Symp. Comp. Anim., ACM SIGGRAPH/Eurographics, 65--74"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1088/0951-7715/27/9/2095",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1007/BF02780991",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "author": "Osher S.",
+                "volume": "153",
+                "volume-title": "Level Set Methods and Dynamic Implicit Surfaces"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "DOI": "10.1103/PhysRevLett.22.823",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "DOI": "10.1145/1073368.1073406",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "DOI": "10.1145/2185520.2185608",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "first-page": "451",
+                "article-title": "Vortex Lines in an Imperfect Bose Gas",
+                "volume": "13",
+                "author": "Pitaevskii L. P.",
+                "year": "1961",
+                "journal-title": "J. Exp. Theor. Phys."
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "author": "Reeves M. T.",
+                "volume": "114",
+                "year": "2015",
+                "article-title": "Identifying a Superfluid Reynolds Number via Dynamical",
+                "journal-title": "Similarity. Phys. R. Lett."
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "first-page": "177",
+                "article-title": "Sul moto d'un liquido indefinito con un filetto vorticoso di forma qualunque",
+                "volume": "22",
+                "author": "Rios L. S. D.",
+                "year": "1906",
+                "journal-title": "Rend. Cir. Mat. Pal."
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "DOI": "10.1098/rspa.1931.0189",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "unstructured": "Saffman P. G. 1992. Vortex Dynamics. Cam. U. Press.  Saffman P. G. 1992. Vortex Dynamics . Cam. U. Press.",
+                "DOI": "10.1017/CBO9780511624063",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_55_1",
+                "first-page": "15",
+                "article-title": "B\u00e9nard -- von K\u00e1rm\u00e1n Vortex Street in a Bose-Einstein",
+                "volume": "104",
+                "author": "Sasaki K.",
+                "year": "2010",
+                "journal-title": "Condensate. Phys. R. Lett."
+            },
+            {
+                "key": "e_1_2_2_56_1",
+                "DOI": "10.1007/BF02820368",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_57_1",
+                "DOI": "10.1103/PhysRevB.31.5782",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_58_1",
+                "unstructured": "Schwarz G. 1995. Hodge Decomposition - A Method for Solving Boundary Value Problems. Springer.  Schwarz G. 1995. Hodge Decomposition - A Method for Solving Boundary Value Problems . Springer.",
+                "DOI": "10.1007/BFb0095978",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_59_1",
+                "DOI": "10.1007/BF01448044",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_60_1",
+                "DOI": "10.1145/1073204.1073282",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_61_1",
+                "DOI": "10.1007/s10915-007-9166-4",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_62_1",
+                "DOI": "10.1134/1.1401227",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_63_1",
+                "DOI": "10.1088/0953-4075/47/9/095304",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_64_1",
+                "DOI": "10.1145/311535.311548",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_65_1",
+                "DOI": "10.1063/1.868164",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_66_1",
+                "DOI": "10.1016/j.jcp.2008.05.022",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_67_1",
+                "unstructured": "Strouhal V. 1878. Ueber eine besondere Art der Tonerregung. Ann. Ph. Ch. Series III 5 10 216--250.  Strouhal V. 1878. Ueber eine besondere Art der Tonerregung. Ann. Ph. Ch. Series III 5 10 216--250.",
+                "DOI": "10.1002/andp.18782411005",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_68_1",
+                "unstructured": "Sutcliffe P. 2007. Vortex Rings in Ferromagnets: Numerical Simulations of the Time-Dependent Three-Dimensional Landau-Lifshitz Equation. Phys. R. B 76 18 184439 (6pp).  Sutcliffe P. 2007. Vortex Rings in Ferromagnets: Numerical Simulations of the Time-Dependent Three-Dimensional Landau-Lifshitz Equation. Phys. R. B 76 18 184439 (6pp).",
+                "DOI": "10.1103/PhysRevB.76.184439",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_69_1",
+                "DOI": "10.1134/1.1641478",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_70_1",
+                "DOI": "10.1145/1778765.1778852",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_71_1",
+                "DOI": "10.1145/2601097.2601171",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_72_1",
+                "DOI": "10.1145/2766982",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925868&amp;ftid=1755869&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:37:44Z",
+            "timestamp": 1585964264000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 72,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925868"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925868",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

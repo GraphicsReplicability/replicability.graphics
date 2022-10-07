@@ -1,0 +1,173 @@
+<html><head><meta charset="utf-8">
+ <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+ <script src="../../assets/js/chart-utils.js"></script>
+<link rel="stylesheet"
+       href="../../assets/css/default.min.css">
+ <script src="../../assets/js/highlight.min.js"></script>
+ <script>hljs.initHighlightingOnLoad();</script>
+ <link href="../../assets/css/all.css" rel="stylesheet">
+ <link rel="stylesheet" href="../../assets/css/customstyle.css">
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pretty-checkbox@3.0/dist/pretty-checkbox.min.css">
+
+  <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+  <script>
+  var currentReviewId = 0;
+
+  $( function() {
+    $( "#tabs" ).tabs({
+    activate: function (event, ui) {
+        var reviewId = parseInt(event.currentTarget.id.substring(6));
+
+        [myChart.data.datasets[0].data, myChart.data.datasets[currentReviewId].data] =
+ [myChart.data.datasets[currentReviewId].data, myChart.data.datasets[0].data];
+
+        currentReviewId = reviewId-1;
+
+        [myChart.data.datasets[0].data, myChart.data.datasets[currentReviewId].data] =
+ [myChart.data.datasets[currentReviewId].data, myChart.data.datasets[0].data];
+
+        myChart.update(0);
+    }
+  });
+  } );
+  </script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-164636527-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-164636527-1');
+</script>
+<title>Frame Fields: Anisotropic and Non-Orthogonal Cross Fields</title>
+<meta name="description" content="Replicability and source code of the article Frame Fields: Anisotropic and Non-Orthogonal Cross Fields.">
+
+  </head>
+<body>
+  <ul class="publist-inline" style="text-align:left;"><li class="web"><a href="../../browse.html">< The Data</a></ul><h1 class="title">Frame Fields: Anisotropic and Non-Orthogonal Cross Fields <i class="fas fa-circle graphcol1" style="font-size:150%;color:#43a2ca;" title="code available and we were able to reproduce some results"></i> <i class="fas fa-square graphcol6"  style="font-size:150%;color:#7570b3;" title="Preprint PDF available (author web page, project page, institution page, arxiv...)"></i></h1><ul class="authors">
+<li> Daniele <span class="family">Panozzo</span></li>
+<li> Enrico <span class="family">Puppo</span></li>
+<li> Marco <span class="family">Tarini</span></li>
+<li> Olga <span class="family">Sorkine-Hornung</span></li>
+</ul>
+<center> SIGGRAPH 2014</center><ul class="publist-inline">
+<li class="web"> <i class="fas fa-globe-americas"></i> <a href="https://doi.org/10.1145/2601097.2601179">ACM</a></li>
+<li class="pdf"> <i class="far fa-file-pdf"></i> <a href="http://vcg.isti.cnr.it/Publications/2014/PPTS14/frame-fields.pdf">preprint</a></li>
+<li class="web"> <i class="fas fa-globe-americas"></i> <a href="http://vcg.isti.cnr.it/Publications/2014/PPTS14/">Project page</a></li>
+<li class="web"> <i class="far fa-file-alt"></i> <a href="http://vcg.isti.cnr.it/Publications/2014/PPTS14/source-code.zip">Code</a></li>
+<li class="web"> <i class="far fa-file-alt"></i> <a href="https://github.com/libigl">Code 2</a></li>
+<li class="web"> <i class="fas fa-database"></i> <a href="10.1145-2601097.2601179-metadata.json">DOI Metadata</a></li>
+</ul>
+<center><img width="300" src="10.1145-2601097.2601179-thumb.png"></img></center><br><br><ul class="publist-inline" style="text-align:left;font-size:100%"><li > <i ></i> <a href="replicability.json">Download complete data for this entry</a></li></ul>
+    <div class="row">
+    <div class="column2 chart-container" style="position: relative; height:40vh; width:30vw">
+    <canvas width="300" height="250" id="myChart" class="chartjs-render-monitor"></canvas>
+    </div>
+    
+    <div class="column2">
+    <h2>Reviews</h2>
+       <div id="tabs">
+          <ul>             <li><a href="#review-1">main</a></li>
+             <li><a href="#review-2">&#43;</a></li>
+</ul><div id="review-1"><h2>Information</h2><ul><li><span class="family">Paper topic</span>: Geometry</li>
+<li><span class="family">Software type</span>: Code</li>
+<li><span class="family">Able to run a replicability test</span>: True</li>
+<li><span class="family">Replicability score</span>: 3</li>
+<li><span class="family">Software language</span>: C/C++</li>
+<li><span class="family">License</span>: unspecified</li>
+<li><span class="family">Build mechanism</span>: None</li>
+<li><span class="family">Dependencies</span>: libigl / comiso / eigen / glad / glfw /</li>
+<li><span class="family">Documentation score</span> {0,1,2}: 1</li>
+<li><span class="family">Reviewer</span>: Nicolas Bonneel &lt;nicolas.bonneel@liris.cnrs.fr&gt;</li>
+<li><span class="family">Time spent for the test (build->first run, timeout at 100min)</span>: 100min</li>
+</ul><h2>Source code information</h2>
+<ul><li><span class="family">Code URL</span>:  <a href="http://vcg.isti.cnr.it/Publications/2014/PPTS14/source-code.zip">http://vcg.isti.cnr.it/Publications/2014/PPTS14/source-code.zip</a></li>
+<li><span class="family">Code URL 2</span>: <a href="https://github.com/libigl">https://github.com/libigl</a></li>
+<li><span class="family">MD5 hash of the code archive</span>: D2C432F2CE65F7475F7E25E460A853B8</li>
+</ul><h2>Comments</h2><pre>The code provided on the project website consists in a single downloadable main.cpp file. It is unclear if the core implementation is in libigl (mentioned in the includes) or in the main.cpp. To make the main compile, it has to be updated since it relies on a very old libigl :
+- replace #include &lt;igl/viewer/Viewer.h&gt; by #include &lt;igl/opengl/glfw/Viewer.h&gt;
+- replace #include &lt;igl/comiso/nrosy.h&gt;,  &lt;igl/comiso/miq.h&gt; and &lt;igl/comiso/frame_field.h&gt; by #include &lt;igl/copyleft/comiso/nrosy.h&gt;,  &lt;igl/copyleft/comiso/miq.h&gt;, and &lt;igl/copyleft/comiso/frame_field.h&gt;
+- replace igl::Viewer& viewer by igl::opengl::glfw::Viewer& viewer in key_down(..)
+- replace igl::Viewer viewer; by igl::opengl::glfw::Viewer viewer; in main()
+- replace all viewer.data. by viewer.data(). (24 times)
+- replace viewer.core.show_lines by viewer.data().show_lines 
+- replace viewer.core.show_texture by viewer.data().show_texture
+- replace igl::nrosy, igl::miq and igl::frame_field  by igl::copyleft::comiso::nrosy, igl::copyleft::comiso::miq and igl::copyleft::comiso::frame_field
+- replace Eigen::Matrix&lt;char,Eigen::Dynamic,Eigen::Dynamic&gt; texture_R, texture_G, texture_B; by Eigen::Matrix&lt;unsigned char,Eigen::Dynamic,Eigen::Dynamic&gt; texture_R, texture_G, texture_B; (otherwise you get an YOU_MIXED_DIFFERENT_NUMERIC_TYPES__YOU_NEED_TO_USE_THE_CAST_METHOD_OF_MATRIXBASE_TO_CAST_NUMERIC_TYPES_EXPLICITLY error in Eigen) ; you similarly need to change the parameters of line_texture by replacing char with unsigned char.
+- add #include &lt;igl/local_basis.h&gt; and #include &lt;igl/rotate_vectors.h&gt;
+- *** IGL bug *** : in igl/grad.cpp, in lines 226 and 228, grad_tri and grad_tet should be replaced by igl::grad_tri and igl::grad_tet since they are outside of the namespace.
+Since no CMakeList is given, you need to add the following preprocessor directives (tested on Visual Studio 2017) :
+- EIGEN_NO_DEPRECATED_WARNING; since Eigen::DynamicSparseMatrix is deprecated (and might just not work in the near future)
+- _CRT_SECURE_NO_WARNINGS; _SCL_SECURE_NO_DEPRECATE ; IGL_STATIC_LIBRARY (to prevent linking issues with Comiso), _USE_MATH_DEFINES
+- the blas shipped with Eigen should be compiled and linked to the project (it compiles smoothly with the provided CMakeList).
+- my list of linked libraries looks like: igl_opengl_glfw.lib;igl_opengl.lib;igl.lib;comiso.lib;igl_comiso.lib;eigen_blas_static.lib;glad.lib;glfw3.lib
+- I had to compile it in Multithread (MT), not the default Multithread DLL, due to the way igl is compiled by default (it seems).
+Ultimately, I managed to run the provided example. The data is shipped with the IGL tutorial data. This is the only object provided with constraints stored as a dmat file (how can I generate one ?). All the figure results are provided in a separate archive, but without the constraint file, I cannot test whether it works.
+I also couldn't get the cross frame to render like in the paper : part of the shape show cross frames over a red mesh (by pressing '1'), but part of the shape remains white with no frames. This might be due to the char -&gt; unsigned char bug fix (?).</pre></div><div id=review-2>
+           <p> If you want to contribute with another review, please follow <a href="../../index.html#contribute">these instructions</a>. </p>
+
+            <p>Please consider to cut/paste/edit the <a href="replicability.json">raw JSON data</a> attached to this paper.</a></p>
+            </div>
+            </div></div>
+    </div>
+    </div>
+    </div>
+        <script>
+ 	  var color = Chart.helpers.color;
+          var colorNames = Object.keys(window.chartColors);
+          var ctx = document.getElementById('myChart');
+          var myChart = new Chart(ctx, {
+              type: 'polarArea',
+              data: {
+                labels: ['Dependencies', 'Build / Configure', 'Fixing bugs', 'Easy to adapt', 'Can replicate paper results'],
+                     datasets: [{
+                      label: 'Variant -- "main" (the higher, the better,  {1..5}, 0=N/A )',
+                      showLine: false,
+           
+                      borderColor: "#000",
+                      borderWidth: 2,
+                      backgroundColor: [
+                          'rgba(255, 99, 132,.6)',
+                          'rgba(255, 159, 64,.6)',
+                          'rgba(255, 205, 86,.6)',
+                          'rgba(75, 192, 192,.6)',
+                          'rgba(54, 162, 235,.6)',
+                      ],
+                      data: [2,2,2,3,3]
+                  },
+                  ]
+              },
+              options: {
+  scale: {
+      ticks: {
+          suggestedMin: 0,
+          suggestedMax: 5,
+          stepSize: 1
+      }
+  }
+}
+          });
+
+        </script>
+    </code></pre></body><div style="height:30px;display:block;"></div><div id="disqus_thread"></div>
+ <script>
+ /**
+ *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+ *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+ /*
+ var disqus_config = function () {
+ this.page.url = 'https://replicability.graphics';  // Replace PAGE_URL with your page's canonical URL variable
+ this.page.identifier = '10.1145-2601097.2601179'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+ };
+ */
+ (function() { // DON'T EDIT BELOW THIS LINE
+ var d = document, s = d.createElement('script');
+ s.src = 'https://replicability-graphics.disqus.com/embed.js';
+ s.setAttribute('data-timestamp', +new Date());
+ (d.head || d.body).appendChild(s);
+ })();
+ </script>
+ <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript></html>

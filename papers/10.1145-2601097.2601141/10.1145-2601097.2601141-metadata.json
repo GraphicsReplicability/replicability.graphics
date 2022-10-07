@@ -1,0 +1,317 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:11:21Z",
+            "timestamp": 1586002281082
+        },
+        "reference-count": 18,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100000001",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "1319567"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601141",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 61,
+        "title": [
+            "Pinlight displays"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Andrew",
+                "family": "Maimone",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of North Carolina at Chapel Hill"
+                    }
+                ]
+            },
+            {
+                "given": "Douglas",
+                "family": "Lanman",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "NVIDIA Research"
+                    }
+                ]
+            },
+            {
+                "given": "Kishore",
+                "family": "Rathinavel",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of North Carolina at Chapel Hill"
+                    }
+                ]
+            },
+            {
+                "given": "Kurtis",
+                "family": "Keller",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of North Carolina at Chapel Hill"
+                    }
+                ]
+            },
+            {
+                "given": "David",
+                "family": "Luebke",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "NVIDIA Research"
+                    }
+                ]
+            },
+            {
+                "given": "Henry",
+                "family": "Fuchs",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of North Carolina at Chapel Hill"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1364/OE.18.015223",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1109/TVCG.2005.27",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "author": "Cakmakci O.",
+                "first-page": "761803",
+                "year": "1803",
+                "volume-title": "Proc. SPIE 7618"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "Chaing H.-C. Ho T.-Y. and Sheu C.-R. 2005. Structure for reducing the diffraction effect in periodic electrode arrangements and liquid crystal device including the same. US Patent. US 6977705.  Chaing H.-C. Ho T.-Y. and Sheu C.-R. 2005. Structure for reducing the diffraction effect in periodic electrode arrangements and liquid crystal device including the same. US Patent. US 6977705."
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1364/OL.36.002098",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1889/1.2785545",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "author": "Hiura S.",
+                "year": "2010",
+                "volume-title": "Krill-eye: Superposition compound eye for wide-angle imaging via grin lenses. IPSJ Transactions on Computer Vision and Applications, 186--199."
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "author": "Jurik J.",
+                "volume-title": "IEEE International Workshop on Projector-Camera Systems (PROCAMS)."
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "author": "Kress B.",
+                "volume": "8720",
+                "volume-title": "Proc. SPIE"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/2508363.2508366",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "Levola T. 2006. Diffractive optics for virtual displays. In Journal of the Society for Information Display.  Levola T. 2006. Diffractive optics for virtual displays. In Journal of the Society for Information Display .",
+                "DOI": "10.1889/1.2206112",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "author": "Maimone A.",
+                "volume-title": "Mixed and Augmented Reality (ISMAR), 2013 IEEE International Symposium on, 29--38"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/1576246.1531404",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/1833349.1778814",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/1964921.1964942",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1117/1.2780150",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/2168556.2168585",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1109/JPROC.2011.2176689",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601141&amp;ftid=1488897&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:56:50Z",
+            "timestamp": 1586001410000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "wide field of view augmented reality eyeglasses using defocused point light sources"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 18,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601141"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601141",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

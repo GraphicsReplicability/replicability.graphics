@@ -1,0 +1,359 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:29Z",
+            "timestamp": 1585962689491
+        },
+        "reference-count": 35,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201306",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 3,
+        "title": [
+            "Designing patterns using triangle-quad hybrid meshes"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Chi-Han",
+                "family": "Peng",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "KAUST"
+                    }
+                ]
+            },
+            {
+                "given": "Helmut",
+                "family": "Pottmann",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "TU Wien"
+                    }
+                ]
+            },
+            {
+                "given": "Peter",
+                "family": "Wonka",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "KAUST"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "Sameer Agarwal Keir Mierle and Others. 2016. Ceres Solver http://ceres-solver.org. (2016).  Sameer Agarwal Keir Mierle and Others. 2016. Ceres Solver http://ceres-solver.org. (2016)."
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/2980179.2980218",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1016/j.gmod.2004.06.007",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1111/cgf.12014",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "Mario Botsch Leif Kobbelt Mark Pauly Pierre Alliez and Bruno Levy. 2010. Polygon Mesh Processing. A K Peters/CRC Press.  Mario Botsch Leif Kobbelt Mark Pauly Pierre Alliez and Bruno Levy. 2010. Polygon Mesh Processing. A K Peters/CRC Press.",
+                "DOI": "10.1201/b10688",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/3130800.3130817",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/882262.882265",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/1015706.1015817",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "Branko Grunbaum and Geoffrey Colin Shephard. 2016. Tilings and Patterns: Second Edition. Dover Publications.  Branko Grunbaum and Geoffrey Colin Shephard. 2016. Tilings and Patterns: Second Edition. Dover Publications."
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "Gurobi. 2016. Gurobi Optimizer Reference Manual. (2016). http://www.gurobi.com  Gurobi. 2016. Gurobi Optimizer Reference Manual. (2016). http://www.gurobi.com"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/383259.383327",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "unstructured": "Joachim Hermisson Christoph Richard and Michael Baake. 2002. A Guide to the Symmetry Structure of Quasiperiodic Tiling Classes. 7 (05 2002).  Joachim Hermisson Christoph Richard and Michael Baake. 2002. A Guide to the Symmetry Structure of Quasiperiodic Tiling Classes. 7 (05 2002)."
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1109/TVCG.2015.2498620",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Alec Jacobson Daniele Panozzo etal 2016. libigl: A simple C++ geometry processing library. (2016). http://libigl.github.io/libigl/.  Alec Jacobson Daniele Panozzo et al. 2016. libigl: A simple C++ geometry processing library. (2016). http://libigl.github.io/libigl/.",
+                "DOI": "10.1145/3134472.3134497",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/2816795.2818077",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/344779.345022",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "author": "Craig",
+                "volume-title": "Dihedral Escherization. In Proceedings of Graphics Interface 2004 (GI '04)"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/566654.566633",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/1141911.1141916",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/566654.566590",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "Yufei Li Yang Liu and Wenping Wang. 2015. Planar Hexagonal Meshing for Architecture. 21 (09 2015) 95--106.  Yufei Li Yang Liu and Wenping Wang. 2015. Planar Hexagonal Meshing for Architecture. 21 (09 2015) 95--106.",
+                "DOI": "10.1109/TVCG.2014.2322367",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "author": "Lobel Alain",
+                "year": "2004",
+                "volume-title": "Lobel Frames: Forms and structures generated by identical elements."
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/2766964",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/2601097.2601164",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1016/j.cag.2014.11.002",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/2508363.2508409",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/383259.383307",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/1037957.1037959",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1111/cgf.12967",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1111/1467-8659.t01-2-00647",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "unstructured": "Jens-Boie Suck Michael Schreiber and Peter H\u00e4ussier. 2002. Quasicrystals. An Introduction to Structure Physical Properties and Applications. Springer-Verlag.  Jens-Boie Suck Michael Schreiber and Peter H\u00e4ussier. 2002. Quasicrystals. An Introduction to Structure Physical Properties and Applications. Springer-Verlag."
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "first-page": "5",
+                "article-title": "Pattern-Based Quadrangulation for N-Sided",
+                "volume": "33",
+                "author": "Takayama Kenshi",
+                "year": "2014",
+                "journal-title": "Patches. Comput. Graph. Forum"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/3072959.3073593",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/2980179.2982428",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1145/2508363.2508405",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201306&ftid=1991739&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:50:07Z",
+            "timestamp": 1585961407000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 35,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201306"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201306",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

@@ -1,0 +1,567 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    9,
+                    12
+                ]
+            ],
+            "date-time": "2020-09-12T03:40:48Z",
+            "timestamp": 1599882048858
+        },
+        "reference-count": 71,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2020,
+                            7,
+                            12
+                        ]
+                    ],
+                    "date-time": "2020-07-12T00:00:00Z",
+                    "timestamp": 1594512000000
+                },
+                "delay-in-days": 366,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100000001",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "RI-1618685, DBI-1759836"
+                ]
+            },
+            {
+                "name": "Adobe",
+                "award": []
+            },
+            {
+                "name": "NIH",
+                "award": [
+                    "CA233303-1"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "DOI": "10.1145/3306346.3322994",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2019-07-12T19:04:08Z",
+            "timestamp": 1562958248000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 3,
+        "title": [
+            "Variational implicit point set surfaces"
+        ],
+        "prefix": "10.1145",
+        "volume": "38",
+        "author": [
+            {
+                "given": "Zhiyang",
+                "family": "Huang",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Washington University in St. Louis"
+                    }
+                ]
+            },
+            {
+                "given": "Nathan",
+                "family": "Carr",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe Systems"
+                    }
+                ]
+            },
+            {
+                "given": "Tao",
+                "family": "Ju",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Washington University in St. Louis"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1109/TVCG.2003.1175093",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "author": "Alliez P.",
+                "volume-title": "Proceedings of the Fifth Eurographics Symposium on Geometry Processing (SGP '07)"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1007/PL00009475",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/376957.376986",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/1015706.1015713",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/3197517.3201337",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1111/cgf.12802",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "Fausto Bernardini Joshua Mittleman Holly Rushmeier Cl\u00e1udio Silva and Gabriel Taubin. 1999. The ball-pivoting algorithm for surface reconstruction. IEEE transactions on visualization and computer graphics 5 4 (1999) 349--359. 10.1109/2945.817351   Fausto Bernardini Joshua Mittleman Holly Rushmeier Cl\u00e1udio Silva and Gabriel Taubin. 1999. The ball-pivoting algorithm for surface reconstruction. IEEE transactions on visualization and computer graphics 5 4 (1999) 349--359. 10.1109/2945.817351",
+                "DOI": "10.1109/2945.817351",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/2366145.2366197",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "Jules Bloomenthal. 1994. Graphics Gems IV. Chapter An Implicit Surface Polygonizer 324--349.   Jules Bloomenthal. 1994. Graphics Gems IV. Chapter An Implicit Surface Polygonizer 324--349.",
+                "DOI": "10.1016/B978-0-12-336156-1.50040-9",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1016/S0925-7721(01)00048-7",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1016/j.gmod.2005.01.004",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "Alexandre Boulch and Renaud Marlet. 2012. Fast and Robust Normal Estimation for Point Clouds with Sharp Features. Computer Graphics Forum (2012). 10.1111/j.1467-8659.2012.03181.x   Alexandre Boulch and Renaud Marlet. 2012. Fast and Robust Normal Estimation for Point Clouds with Sharp Features. Computer Graphics Forum (2012). 10.1111/j.1467-8659.2012.03181.x"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Alexandre Boulch and Renaud Marlet. 2016. Deep Learning for Robust Normal Estimation in Unstructured Point Clouds. Computer Graphics Forum (2016).  Alexandre Boulch and Renaud Marlet. 2016. Deep Learning for Robust Normal Estimation in Unstructured Point Clouds. Computer Graphics Forum (2016)."
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.5555/1923363.1923365",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "Martin D Buhmann. 2003. Radial basis functions: theory and implementations. Vol. 12. Cambridge university press.   Martin D Buhmann. 2003. Radial basis functions: theory and implementations. Vol. 12. Cambridge university press.",
+                "DOI": "10.1017/CBO9780511543241",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/383259.383266",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "author": "Cazals F.",
+                "volume-title": "Proceedings of the 2003 Eurographics/ACM SIGGRAPH Symposium on Geometry Processing (SGP '03)"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1109/TVCG.2012.34",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "Tamal K Dey. 2006. Curve and surface reconstruction: algorithms with mathematical analysis. Vol. 23. Cambridge University Press.   Tamal K Dey. 2006. Curve and surface reconstruction: algorithms with mathematical analysis. Vol. 23. Cambridge University Press."
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1115/1.1633278",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/997817.997867",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "author": "Dey Tamal K",
+                "year": "2005",
+                "volume-title": "Symposium on Geometry processing. 43--52"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "Huong Quynh Dinh Greg Turk and Greg Slabaugh. 2002. Reconstructing surfaces by volumetric regularization using radial basis functions. IEEE transactions on pattern analysis and machine intelligence 24 10 (2002) 1358--1371. 10.1109/TPAMI.2002.1039207   Huong Quynh Dinh Greg Turk and Greg Slabaugh. 2002. Reconstructing surfaces by volumetric regularization using radial basis functions. IEEE transactions on pattern analysis and machine intelligence 24 10 (2002) 1358--1371. 10.1109/TPAMI.2002.1039207"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "unstructured": "Petros Drineas and Michael W. Mahoney. 2005. On the Nystr\u00f6m Method for Approximating a Gram Matrix for Improved Kernel-Based Learning. J. Mach. Learn. Res. 6 (Dec. 2005) 2153--2175.   Petros Drineas and Michael W. Mahoney. 2005. On the Nystr\u00f6m Method for Approximating a Gram Matrix for Improved Kernel-Based Learning. J. Mach. Learn. Res. 6 (Dec. 2005) 2153--2175."
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "author": "Duchon Jean",
+                "volume-title": "Constructive theory of functions of several variables"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1111/cgf.12189",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/1276377.1276406",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1111/cgf.13343",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "unstructured": "Hugues Hoppe Tony DeRose Tom Duchamp John McDonald and Werner Stuetzle. 1992. Surface reconstruction from unorganized points. Vol. 26. ACM. 10.1145/142920.134011   Hugues Hoppe Tony DeRose Tom Duchamp John McDonald and Werner Stuetzle. 1992. Surface reconstruction from unorganized points. Vol. 26. ACM. 10.1145/142920.134011",
+                "DOI": "10.1145/142920.134011",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "author": "Hornung Alexander",
+                "year": "2006",
+                "volume-title": "Symposium on geometry processing. Citeseer, 41--50"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/1618452.1618522",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "unstructured": "Zhiyang Huang and Tao Ju. 2016. Extrinsically Smooth Direction Fields. Comput. Graph. 58 C (Aug. 2016) 109--117. 10.1016/j.cag.2016.05.015   Zhiyang Huang and Tao Ju. 2016. Extrinsically Smooth Direction Fields. Comput. Graph. 58 C (Aug. 2016) 109--117. 10.1016/j.cag.2016.05.015",
+                "DOI": "10.1016/j.cag.2016.05.015",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1111/cgf.12032",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.5555/1281957.1281965",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1145/2487228.2487237",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/1361192.1361195",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "unstructured": "S\u00f6ren K\u00f6nig and Stefan Gumhold. 2009. Consistent Propagation of Normal Orientations in Point Clouds. In VMV.  S\u00f6ren K\u00f6nig and Stefan Gumhold. 2009. Consistent Propagation of Normal Orientations in Point Clouds. In VMV."
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1016/j.cag.2010.01.004",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "unstructured": "Shengjun Liu Charlie C.L. Wang Guido Brunnett and Jun Wang. 2016. A Closed-form Formulation of HRBF-based Surface Reconstruction by Approximate Solution. Comput. Aided Des. 78 C (Sept. 2016) 147--157. 10.1016/j.cad.2016.05.001   Shengjun Liu Charlie C.L. Wang Guido Brunnett and Jun Wang. 2016. A Closed-form Formulation of HRBF-based Surface Reconstruction by Approximate Solution. Comput. Aided Des. 78 C (Sept. 2016) 147--157. 10.1016/j.cad.2016.05.001",
+                "DOI": "10.1016/j.cad.2016.05.001",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "unstructured": "Xiuping Liu Jie Zhang Junjie Cao Bo Li and Ligang Liu. 2015. Quality Point Cloud Normal Estimation by Guided Least Squares Representation. Comput. Graph. 51 C (Oct. 2015) 106--116. 10.1016/j.cag.2015.05.024   Xiuping Liu Jie Zhang Junjie Cao Bo Li and Ligang Liu. 2015. Quality Point Cloud Normal Estimation by Guided Least Squares Representation. Comput. Graph. 51 C (Oct. 2015) 106--116. 10.1016/j.cag.2015.05.024",
+                "DOI": "10.1016/j.cag.2015.05.024",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1007/11567646_24",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1145/3233984",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.5555/1731309.1731324",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1109/TVCG.2010.261",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "unstructured": "N. J. Mitra A. Nguyen and L. Guibas. 2004. Estimating Surface Normals in Noisy Point Cloud Data. In special issue of International Journal of Computational Geometry and Applications Vol. 14. 261--276.  N. J. Mitra A. Nguyen and L. Guibas. 2004. Estimating Surface Normals in Noisy Point Cloud Data. In special issue of International Journal of Computational Geometry and Applications Vol. 14. 261--276.",
+                "DOI": "10.1142/S0218195904001470",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "author": "Morse B. S.",
+                "volume-title": "Proceedings International Conference on Shape Modeling and Applications. 89--98"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "DOI": "10.1111/j.1467-8659.2010.01782.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "DOI": "10.1145/882262.882293",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "author": "Ohtake Yutaka",
+                "year": "2003",
+                "volume-title": "Shape Modeling International"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "DOI": "10.1111/j.1467-8659.2009.01388.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "DOI": "10.1145/2766990",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "DOI": "10.1007/s00371-011-0604-9",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "DOI": "10.1145/882262.882319",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_55_1",
+                "author": "Poranne Roi",
+                "volume-title": "Computer Graphics Forum"
+            },
+            {
+                "key": "e_1_2_2_56_1",
+                "DOI": "10.1145/37401.37420",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_57_1",
+                "author": "Samozino M.",
+                "volume-title": "Proceedings of the Fourth Eurographics Symposium on Geometry Processing. 51--60"
+            },
+            {
+                "key": "e_1_2_2_58_1",
+                "DOI": "10.1111/cgf.12795",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_59_1",
+                "DOI": "10.5555/2976040.2976190",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_60_1",
+                "DOI": "10.1145/1015706.1015816",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_61_1",
+                "author": "Alex",
+                "volume-title": "Proceedings of the Seventeenth International Conference on Machine Learning (ICML '00)"
+            },
+            {
+                "key": "e_1_2_2_62_1",
+                "DOI": "10.1016/j.cag.2016.07.001",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_63_1",
+                "DOI": "10.1007/978-3-642-33275-3_4",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_64_1",
+                "DOI": "10.1145/571647.571650",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_65_1",
+                "author": "Vaxman Amir",
+                "volume-title": "Computer Graphics Forum"
+            },
+            {
+                "key": "e_1_2_2_66_1",
+                "DOI": "10.1145/1102351.1102469",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_67_1",
+                "unstructured": "Christian Walder Olivier Chapelle and Bernhard Sch\u00f6lkopf. 2007. Implicit surfaces with globally regularised and compactly supported basis functions. In Advances in Neural Information Processing Systems. 273--280.   Christian Walder Olivier Chapelle and Bernhard Sch\u00f6lkopf. 2007. Implicit surfaces with globally regularised and compactly supported basis functions. In Advances in Neural Information Processing Systems. 273--280."
+            },
+            {
+                "key": "e_1_2_2_68_1",
+                "DOI": "10.1007/s00371-011-0607-6",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_69_1",
+                "unstructured": "Holger Wendland. 2004. Scattered data approximation. Vol. 17. Cambridge university press.  Holger Wendland. 2004. Scattered data approximation. Vol. 17. Cambridge university press.",
+                "DOI": "10.1017/CBO9780511617539",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_70_1",
+                "DOI": "10.1109/VISUAL.2003.1250359",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_71_1",
+                "DOI": "10.5555/832286.835639",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "https://dl.acm.org/doi/pdf/10.1145/3306346.3322994",
+                "content-type": "application/pdf",
+                "content-version": "vor",
+                "intended-application": "syndication"
+            },
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3322994&ftid=2071680&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    9,
+                    12
+                ]
+            ],
+            "date-time": "2020-09-12T03:20:51Z",
+            "timestamp": 1599880851000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "references-count": 71,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        12
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3306346.3322994"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3306346.3322994",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

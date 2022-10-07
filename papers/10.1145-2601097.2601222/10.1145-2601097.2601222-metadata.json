@@ -1,0 +1,325 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:11:21Z",
+            "timestamp": 1586002281482
+        },
+        "reference-count": 28,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100004063",
+                "name": "Knut och Alice Wallenbergs Stiftelse",
+                "doi-asserted-by": "publisher",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601222",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-9",
+        "source": "Crossref",
+        "is-referenced-by-count": 11,
+        "title": [
+            "Dynamic ray stream traversal"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Rasmus",
+                "family": "Barringer",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Lund University"
+                    }
+                ]
+            },
+            {
+                "given": "Tomas",
+                "family": "Akenine-M\u00f6ller",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Lund University and Intel Corporation"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1111/cgf.12259",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "first-page": "1",
+                "article-title": "Dynamic Stackless Binary Tree Traversal",
+                "volume": "2",
+                "author": "Barringer R.",
+                "year": "2013",
+                "journal-title": "Journal of Computer Graphics Techniques"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1109/TVCG.2011.277",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "author": "Boulos S.",
+                "volume-title": "Adaptive Ray Packet Reordering. In Symposium on Interactive Ray Tracing, 131--138"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1111/j.1467-8659.2008.01261.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1111/cgf.12158",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "unstructured": "Ernst M. and Greiner G. 2008. Multi Bounding Volume Hierarchies. In IEEE Interactive Ray Tracing 35--40.  Ernst M. and Greiner G. 2008. Multi Bounding Volume Hierarchies. In IEEE Interactive Ray Tracing 35--40.",
+                "DOI": "10.1109/RT.2008.4634618",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1111/j.1467-8659.2009.01598.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "author": "Gribble C. P.",
+                "volume-title": "Symposium on Interactive Ray Tracing, 59--66"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "Hanrahan P. 1986. Using Caches and Breadth-First Search to Speed Up Ray Tracing. In Graphics Interface 56--61.   Hanrahan P. 1986. Using Caches and Breadth-First Search to Speed Up Ray Tracing. In Graphics Interface 56--61."
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/2461217.2461219",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "author": "Hennessey J. L.",
+                "year": "2011",
+                "edition": "5",
+                "volume-title": "Computer Architecture: A Quantitative Approach"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1109/TVCG.2009.161",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1111/j.1467-8659.2011.01861.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "unstructured": "Kajiya J. T. 1986. The Rendering Equation. Computer Graphics (Proceedings of ACM SIGGRAPH 86) 20 4 143--150. 10.1145/15922.15902   Kajiya J. T. 1986. The Rendering Equation. Computer Graphics (Proceedings of ACM SIGGRAPH 86) 20 4 143--150. 10.1145/15922.15902",
+                "DOI": "10.1145/15886.15902",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "Laine S. Karras T. and Aila T. 2013. Megakernels Considered Harmful: Wavefront Path Tracing on GPUs. In High Performance Graphics 137--143. 10.1145/2492045.2492060   Laine S. Karras T. and Aila T. 2013. Megakernels Considered Harmful: Wavefront Path Tracing on GPUs. In High Performance Graphics 137--143. 10.1145/2492045.2492060"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "Laine S. 2010. Restart Trail for Stackless BVH Traversal. In High Performance Graphics 107--111.   Laine S. 2010. Restart Trail for Stackless BVH Traversal. In High Performance Graphics 107--111."
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1080/10867651.1997.10487468",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/2019627.2019636",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "Pharr M. and Mark W. 2012. ispc: A SPMD Compiler for High-Performance CPU Programming. In Innovative Parallel Computing (InPar) 1--13.  Pharr M. and Mark W. 2012. ispc: A SPMD Compiler for High-Performance CPU Programming. In Innovative Parallel Computing (InPar) 1--13.",
+                "DOI": "10.1109/InPar.2012.6339601",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/1508244.1508282",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "unstructured": "Tsakok J. A. 2009. Faster Incoherent Rays: Multi-BVH Ray Stream Tracing. In High Performance Graphics 151--158. 10.1145/1572769.1572793   Tsakok J. A. 2009. Faster Incoherent Rays: Multi-BVH Ray Stream Tracing. In High Performance Graphics 151--158. 10.1145/1572769.1572793"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1111/1467-8659.00508",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "author": "Wald I.",
+                "year": "2007",
+                "volume-title": "Tech. Rep. UUSCI-2007-012."
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "author": "Wald I.",
+                "volume-title": "IEEE Symposium on Interactive Ray Tracing, 49--57"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1109/RT.2007.4342588",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/358876.358882",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/2504459.2504515",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601222&amp;ftid=1488960&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:50:34Z",
+            "timestamp": 1586001034000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 28,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601222"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601222",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

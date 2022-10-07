@@ -1,0 +1,394 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:11:20Z",
+            "timestamp": 1586002280439
+        },
+        "reference-count": 35,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100000145",
+                "name": "Division of Information and Intelligent Systems",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "IIS-1219241, IIS-1116718"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100000038",
+                "name": "Natural Sciences and Engineering Research Council of Canada",
+                "doi-asserted-by": "publisher",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601122",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 29,
+        "title": [
+            "Eyeglasses-free display"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Fu-Chung",
+                "family": "Huang",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Computer Science Division, UC Berkeley and Microsoft Corporation"
+                    }
+                ]
+            },
+            {
+                "given": "Gordon",
+                "family": "Wetzstein",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "MIT Media Lab"
+                    }
+                ]
+            },
+            {
+                "given": "Brian A.",
+                "family": "Barsky",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Computer Science Division, UC Berkeley and School of Optometry, UC Berkeley"
+                    }
+                ]
+            },
+            {
+                "given": "Ramesh",
+                "family": "Raskar",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "MIT Media Lab"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/1015706.1015804",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1109/IEMBS.2003.1279804",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "unstructured": "Archand P. Pite E. Guillemet H. and Trocme L. 2011. Systems and methods for rendering a display to compensate for a viewer's visual impairment. International Patent Application PCT/US2011/039993.  Archand P. Pite E. Guillemet H. and Trocme L. 2011. Systems and methods for rendering a display to compensate for a viewer's visual impairment. International Patent Application PCT/US2011/039993."
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1137/0916069",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "Chai J.-X. Tong X. Chan S.-C. and Shum H.-Y. 2000. Plenoptic sampling. In ACM SIGGRAPH 307--318. 10.1145/344779.344932   Chai J.-X. Tong X. Chan S.-C. and Shum H.-Y. 2000. Plenoptic sampling. In ACM SIGGRAPH 307--318. 10.1145/344779.344932"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1364/AO.46.001244",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/1186822.1073320",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/237170.237200",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "Hecht E. 2001. Optics (Fourth Edition). Addison-Wesley.  Hecht E. 2001. Optics (Fourth Edition) . Addison-Wesley."
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/2601097.2601144",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "author": "Huang F.-C.",
+                "year": "2011",
+                "volume-title": "Tech. Rep. UCB/EECS-2011-162"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/2366145.2366204",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "first-page": "567",
+                "article-title": "Parallax stereogram and process of making same",
+                "volume": "725",
+                "author": "Ives F. E.",
+                "year": "1903",
+                "journal-title": "U.S. Patent"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/1276377.1276427",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/2508363.2508366",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/1882261.1866164",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/1531326.1531403",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/237170.237199",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "first-page": "821",
+                "article-title": "\u00c9preuves r\u00e9versibles donnant la sensation du relief",
+                "volume": "7",
+                "author": "Lippmann G.",
+                "year": "1908",
+                "journal-title": "Journal of Physics"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1364/OE.17.015716",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/2503144",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/1964921.1964935",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1016/j.cag.2013.10.003",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "author": "Ng R.",
+                "volume-title": "Proc. SPIE International Optical Design."
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/1186822.1073256",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/1778765.1778814",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/2010324.1964942",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/2185520.2185577",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/1189762.1189764",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1109/JPROC.2006.870684",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1001/archophthalmol.2009.303",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/2010324.1964990",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/2185520.2185576",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "first-page": "2486",
+                "article-title": "Prevalence and risk factors for refractive errors in adult chinese in singapore",
+                "volume": "41",
+                "author": "Wong T. Y.",
+                "year": "2000",
+                "journal-title": "Invest Ophthalmol Vis Sci"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "author": "Yellott J. I.",
+                "volume-title": "Proc. SPIE 6492"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601122&amp;ftid=1488867&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:53:59Z",
+            "timestamp": 1586001239000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "towards correcting visual aberrations with computational light field displays"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 35,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601122"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601122",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

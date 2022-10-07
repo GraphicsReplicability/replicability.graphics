@@ -1,0 +1,599 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    5,
+                    5
+                ]
+            ],
+            "date-time": "2020-05-05T17:41:03Z",
+            "timestamp": 1588700463897
+        },
+        "reference-count": 72,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2019,
+                            7,
+                            12
+                        ]
+                    ],
+                    "date-time": "2019-07-12T00:00:00Z",
+                    "timestamp": 1562889600000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "DOI": "10.1145/3306346.3323024",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2019-07-12T19:04:08Z",
+            "timestamp": 1562958248000
+        },
+        "page": "1-18",
+        "source": "Crossref",
+        "is-referenced-by-count": 4,
+        "title": [
+            "Handheld multi-frame super-resolution"
+        ],
+        "prefix": "10.1145",
+        "volume": "38",
+        "author": [
+            {
+                "given": "Bartlomiej",
+                "family": "Wronski",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Google Research"
+                    }
+                ]
+            },
+            {
+                "given": "Ignacio",
+                "family": "Garcia-Dorado",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Google Research"
+                    }
+                ]
+            },
+            {
+                "given": "Manfred",
+                "family": "Ernst",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Google Research"
+                    }
+                ]
+            },
+            {
+                "given": "Damien",
+                "family": "Kelly",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Google Research"
+                    }
+                ]
+            },
+            {
+                "given": "Michael",
+                "family": "Krainin",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Google Research"
+                    }
+                ]
+            },
+            {
+                "given": "Chia-Kai",
+                "family": "Liang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Google Research"
+                    }
+                ]
+            },
+            {
+                "given": "Marc",
+                "family": "Levoy",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Google Research"
+                    }
+                ]
+            },
+            {
+                "given": "Peyman",
+                "family": "Milanfar",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Google Research"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "Adobe. 2012. Digital Negative (DNG) Specification. https://www.adobe.com/content/dam/acom/en/products/photoshop/pdfs/dng_spec_1.4.0.0.pdf.  Adobe. 2012. Digital Negative (DNG) Specification. https://www.adobe.com/content/dam/acom/en/products/photoshop/pdfs/dng_spec_1.4.0.0.pdf."
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1109/TPAMI.2002.1033210",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "first-page": "971",
+                "article-title": "Color imaging array",
+                "volume": "3",
+                "author": "Bayer Bryce E",
+                "year": "1976",
+                "journal-title": "US Patent"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1109/TIP.2010.2042115",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1109/TPAMI.2005.129",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1109/34.85668",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/357306.357310",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1117/12.342861",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "CIPA. 2018. CIPA Report. www.cipa.jp/stats/report_e.html. {Online; accessed 29-Nov-2018}.  CIPA. 2018. CIPA Report. www.cipa.jp/stats/report_e.html. {Online; accessed 29-Nov-2018}."
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "first-page": "217",
+                "article-title": "Image synthesis by rank-1 lattices",
+                "volume": "2006",
+                "author": "Dammertz Sabrina",
+                "year": "2008",
+                "journal-title": "Monte Carlo and Quasi-Monte Carlo Methods"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "Michael Drobot. 2014. Hybrid reconstruction anti-aliasing. In ACM SIGGRAPH Courses.  Michael Drobot. 2014. Hybrid reconstruction anti-aliasing. In ACM SIGGRAPH Courses."
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1109/TIP.2014.2341928",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1109/83.650118",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1109/TIP.2005.860336",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1007/BF00056772",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "Flickr. 2017. Top Devices of 2017 on Flickr. https://blog.flickr.net/en/2017/12/07/top-devices-of-2017/. {Online; accessed 11-Jan-2019}.  Flickr. 2017. Top Devices of 2017 on Flickr. https://blog.flickr.net/en/2017/12/07/top-devices-of-2017/. {Online; accessed 11-Jan-2019}."
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1109/TIP.2008.2001399",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/2980179.2982399",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "first-page": "560",
+                "article-title": "Deep burst denoising",
+                "volume": "11219",
+                "author": "Godard Cl\u00e9ment",
+                "year": "2018",
+                "journal-title": "Proc. ECCV"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.5555/1896300.1896387",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.5244/C.2.23",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/2980179.2980254",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1109/CVPR.2014.430",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/2661229.2661260",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1364/JOSA.59.000164",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/1730804.1730819",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1109/TIP.2004.838691",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1109/TIP.2006.875241",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "unstructured": "Michal Irani and Shmuel Peleg. 1991. Improving resolution by image registration. CVGIP: Graphical models and image processing 53 3 (1991) 231--239. 10.1016/1049-9652(91)90045-L   Michal Irani and Shmuel Peleg. 1991. Improving resolution by image registration. CVGIP: Graphical models and image processing 53 3 (1991) 231--239. 10.1016/1049-9652(91)90045-L"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "unstructured": "Jorge Jimenez Diego Gutierrez Jason Yang Alexander Reshetov Pete Demoreuille Tobias Berghoff Cedric Perthuis Henry Yu Morgan McGuire Timothy Lottes Hugh Malan Emil Persson Dmitry Andreev and Tiago Sousa. 2011. Filtering Approaches for Real-Time Anti-Aliasing. In ACM SIGGRAPH Courses. 10.1145/2037636.2037642   Jorge Jimenez Diego Gutierrez Jason Yang Alexander Reshetov Pete Demoreuille Tobias Berghoff Cedric Perthuis Henry Yu Morgan McGuire Timothy Lottes Hugh Malan Emil Persson Dmitry Andreev and Tiago Sousa. 2011. Filtering Approaches for Real-Time Anti-Aliasing. In ACM SIGGRAPH Courses. 10.1145/2037636.2037642",
+                "DOI": "10.1145/2037636.2037642",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1109/ROBOT.1991.131738",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "unstructured": "Brian Karis. 2014. High-Quality Temporal Supersampling. In ACM SIGGRAPH Courses.  Brian Karis. 2014. High-Quality Temporal Supersampling. In ACM SIGGRAPH Courses."
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1109/TPAMI.1985.4767641",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1109/TIP.2010.2050108",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1109/TIP.2011.2107524",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/3197517.3201383",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "author": "Li Xin",
+                "volume": "6822",
+                "year": "2008",
+                "volume-title": "Visual Communications and Image Processing"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1109/CVPR.2011.5995614",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "unstructured": "Xiao-Ming Lu Hari Krovi Ranjith Nair Saikat Guha and Jeffrey H Shapiro. 2018. Quantum-optimal detection of one-versus-two incoherent optical sources with arbitrary separation. arXiv preprint arXiv:1802.02300 (2018).  Xiao-Ming Lu Hari Krovi Ranjith Nair Saikat Guha and Jeffrey H Shapiro. 2018. Quantum-optimal detection of one-versus-two incoherent optical sources with arbitrary separation. arXiv preprint arXiv:1802.02300 (2018)."
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "unstructured": "Bruce D Lucas and Takeo Kanade. 1981. An iterative image registration technique with an application to stereo vision. (1981).  Bruce D Lucas and Takeo Kanade. 1981. An iterative image registration technique with an application to stereo vision. (1981)."
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1109/TCE.2004.1309456",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "unstructured": "Hugh Malan. 2012. Real-Time Global Illumination and Reflections in Dust 514. In ACM SIGGRAPH Courses.  Hugh Malan. 2012. Real-Time Global Illumination and Reflections in Dust 514. In ACM SIGGRAPH Courses."
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1136/jnnp.19.4.260",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1109/CVPR.2018.00265",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1109/ICIP.2015.7351528",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "DOI": "10.1145/1073368.1073402",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "unstructured": "NIH. 2018. Tremor Fact. www.ninds.nih.gov/Disorders/Patient-Caregiver-Education/Fact-Sheets/Tremor-Fact-Sheet. {Online; accessed 29-Nov-2018}.  NIH. 2018. Tremor Fact. www.ninds.nih.gov/Disorders/Patient-Caregiver-Education/Fact-Sheets/Tremor-Fact-Sheet. {Online; accessed 29-Nov-2018}."
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "DOI": "10.1109/T-AIEE.1928.5055024",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "DOI": "10.1109/TCS.1977.1084284",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "DOI": "10.1109/10.686791",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "DOI": "10.1109/TIP.2004.832923",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "DOI": "10.1109/TIP.2006.871079",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "DOI": "10.1109/TCI.2016.2629284",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_55_1",
+                "DOI": "10.1109/CVPR.2018.00693",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_56_1",
+                "author": "Salvi Marco",
+                "year": "2016",
+                "volume-title": "GDC2016 From the Lab Bench: Real-Time Rendering Advances from NVIDIA Research"
+            },
+            {
+                "key": "e_1_2_2_57_1",
+                "DOI": "10.1113/jphysiol.1886.sp000210",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_58_1",
+                "DOI": "10.1109/TIT.2006.878180",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_59_1",
+                "DOI": "10.1007/s11263-005-6878-5",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_60_1",
+                "unstructured": "Tiago Sousa. 2013. Graphics Gems CryENGINE3. In ACM SIGGRAPH Courses.  Tiago Sousa. 2013. Graphics Gems CryENGINE3. In ACM SIGGRAPH Courses."
+            },
+            {
+                "key": "e_1_2_2_61_1",
+                "DOI": "10.1152/jn.01218.2004",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_62_1",
+                "DOI": "10.1109/ICIP.2006.312573",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_63_1",
+                "DOI": "10.1109/TIP.2006.888330",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_64_1",
+                "DOI": "10.1109/ICIP.2017.8296823",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_65_1",
+                "first-page": "317",
+                "article-title": "Multiframe image restoration and registration",
+                "volume": "1",
+                "author": "Tsai R.Y.",
+                "year": "1984",
+                "journal-title": "Advance Computer Visual and Image Processing"
+            },
+            {
+                "key": "e_1_2_2_66_1",
+                "DOI": "10.1117/12.703980",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_67_1",
+                "DOI": "10.1145/3197517.3201329",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_68_1",
+                "unstructured": "Hermann Weyl. 1910. \u00dcber die Gibbs'sche Erscheinung und verwandte Konvergenzph\u00e4nomene. Rendiconti del Circolo Matematico di Palermo (1884--1940) 30 1 (01 Dec 1910) 377--407.  Hermann Weyl. 1910. \u00dcber die Gibbs'sche Erscheinung und verwandte Konvergenzph\u00e4nomene. Rendiconti del Circolo Matematico di Palermo (1884--1940) 30 1 (01 Dec 1910) 377--407.",
+                "DOI": "10.1007/BF03014883",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_69_1",
+                "unstructured": "Bartlomiej Wronski and Peyman Milanfar. 2018. See Better and Further with Super Res Zoom on the Pixel 3. https://ai.googleblog.com/2018/10/see-better-and-further-with-super-res.html.  Bartlomiej Wronski and Peyman Milanfar. 2018. See Better and Further with Super Res Zoom on the Pixel 3. https://ai.googleblog.com/2018/10/see-better-and-further-with-super-res.html."
+            },
+            {
+                "key": "e_1_2_2_70_1",
+                "unstructured": "Xiaolin Wu and Lei Zhang. 2006. Temporal color video demosaicking via motion estimation and data fusion. IEEE Trans. Circuits and Systems for Video Technology 16 (2006). Issue 2. 10.1109/TCSVT.2005.860938   Xiaolin Wu and Lei Zhang. 2006. Temporal color video demosaicking via motion estimation and data fusion. IEEE Trans. Circuits and Systems for Video Technology 16 (2006). Issue 2. 10.1109/TCSVT.2005.860938"
+            },
+            {
+                "key": "e_1_2_2_71_1",
+                "DOI": "10.1109/TCT.1956.1086325",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_72_1",
+                "DOI": "10.1145/2421636.2421641",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_73_1",
+                "DOI": "10.1117/1.3600632",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3323024&ftid=2071728&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    5,
+                    5
+                ]
+            ],
+            "date-time": "2020-05-05T17:03:10Z",
+            "timestamp": 1588698190000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "references-count": 72,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        12
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3306346.3323024"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3306346.3323024",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

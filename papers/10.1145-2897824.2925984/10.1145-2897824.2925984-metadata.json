@@ -1,0 +1,506 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T02:11:27Z",
+            "timestamp": 1585966287367
+        },
+        "reference-count": 58,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100000038",
+                "name": "Natural Sciences and Engineering Research Council of Canada",
+                "doi-asserted-by": "crossref",
+                "award": []
+            },
+            {
+                "name": "Canada Foundation for Innovation",
+                "award": []
+            },
+            {
+                "name": "Ontario Research Fund",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925984",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 16,
+        "title": [
+            "JALI"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Pif",
+                "family": "Edwards",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of Toronto"
+                    }
+                ]
+            },
+            {
+                "given": "Chris",
+                "family": "Landreth",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Toronto"
+                    }
+                ]
+            },
+            {
+                "given": "Eugene",
+                "family": "Fiume",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Toronto"
+                    }
+                ]
+            },
+            {
+                "given": "Karan",
+                "family": "Singh",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Toronto"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1007/s10055-005-0153-5",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1109/CVPR.2013.434",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1111/1467-8721.00013",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1006/jpho.2002.0166",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1155/2009/769494",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "unstructured": "Bailly G. Perrier P. and Vatikiotis-Bateson E. Eds. 2012. Audiovisual Speech Processing. Cambridge University Press. Cambridge Books Online.  Bailly G. Perrier P. and Vatikiotis-Bateson E. Eds. 2012. Audiovisual Speech Processing. Cambridge University Press. Cambridge Books Online.",
+                "DOI": "10.1017/CBO9780511843891",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1016/S0167-6393(97)00025-3",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1037/0022-3514.70.3.614",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1002/cav.v15:3/4",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "Black A. W. Taylor P. and Caley R. 2001. The Festival Speech Synthesis System: System Documentation Festival version 1.4 1.4.2 ed.  Black A. W. Taylor P. and Caley R. 2001. The Festival Speech Synthesis System: System Documentation Festival version 1.4 1.4.2 ed."
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "author": "Blair P.",
+                "year": "1947",
+                "volume-title": "Advanced Animation: Learn how to draw animated cartoons. Walter T. Foster."
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "unstructured": "Boersma P. and Weenink D. 2014. Praat: doing phonetics by computer {Computer Program}. Version 5.4.04 retrieved 28 December 2014 from http://www.praat.org/.  Boersma P. and Weenink D. 2014. Praat: doing phonetics by computer {Computer Program}. Version 5.4.04 retrieved 28 December 2014 from http://www.praat.org/."
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/311535.311537",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/258734.258880",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1016/0167-6393(93)90083-W",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/1095878.1095881",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "Carnegie Mellon University 2014. CMU Sphinx: Open Source Toolkit for Speech Recognition {Computer Program}. Version 4 retrieved 28 December 2014 from http://cmusphinx.sourceforge.net/.  Carnegie Mellon University 2014. CMU Sphinx: Open Source Toolkit for Speech Recognition {Computer Program}. Version 4 retrieved 28 December 2014 from http://cmusphinx.sourceforge.net/."
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1371/journal.pcbi.1000436",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "unstructured": "Cohen M. M. and Massaro D. W. 1993. Modeling Coarticulation in Synthetic Visual Speech. Models and Techniques in Computer Animation 139--156.  Cohen M. M. and Massaro D. W. 1993. Modeling Coarticulation in Synthetic Visual Speech. Models and Techniques in Computer Animation 139--156.",
+                "DOI": "10.1007/978-4-431-66911-1_13",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1109/ICMI.2002.1167047",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1109/TVCG.2006.90",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "unstructured": "Ekman P. and Friesen W. V. 1978. Facial Action Coding System: A Technique for the Measurement of Facial Movement 1 ed. Consulting Psychologists Press Palo Alto California Aug.  Ekman P. and Friesen W. V. 1978. Facial Action Coding System: A Technique for the Measurement of Facial Movement 1 ed. Consulting Psychologists Press Palo Alto California Aug.",
+                "DOI": "10.1037/t27734-000",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/566570.566594",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1044/jshr.1104.796",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1167/5.10.4",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1152/japplphysiol.01048.2003",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "unstructured": "Jurafsky D. and Martin J. H. 2008. Speech and language processing: an introduction to natural language processing computational linguistics and speech recognition 2 ed. Prentice Hall.   Jurafsky D. and Martin J. H. 2008. Speech and language processing: an introduction to natural language processing computational linguistics and speech recognition 2 ed. Prentice Hall."
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1016/S0095-4470(19)31123-4",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1109/TVCG.2005.43",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/37402.37407",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/2461912.2462019",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "unstructured": "LibriVox 2014. LibriVox---free public domain audiobooks. Retrieved 28 December 2014 from https://librivox.org/.  LibriVox 2014. LibriVox---free public domain audiobooks. Retrieved 28 December 2014 from https://librivox.org/.",
+                "DOI": "10.1108/RR-08-2013-0197",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/2816795.2818122",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1109/TVCG.2012.67",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1109/TVCG.2006.18",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1121/1.2990715",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "unstructured": "Massaro D. W. Cohen M. M. Tabain M. Beskow J. and Clark R. 2012. Animated speech: research progress and applications. In Audiovisual Speech Processing G. Bailly P. Perrier and E. Vatikiotis-Bateson Eds. Cambridge University Press Cambridge 309--345.  Massaro D. W. Cohen M. M. Tabain M. Beskow J. and Clark R. 2012. Animated speech: research progress and applications. In Audiovisual Speech Processing G. Bailly P. Perrier and E. Vatikiotis-Bateson Eds. Cambridge University Press Cambridge 309--345.",
+                "DOI": "10.1017/CBO9780511843891.014",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1016/j.specom.2014.11.001",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "author": "Metzner J.",
+                "year": "2006",
+                "volume-title": "INTERSPEECH 2006 - ICSLP, Ninth International Conference on Spoken Language Processing"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "first-page": "33",
+                "article-title": "The Uncanny Valley (aka. 'Bukimi no tani')",
+                "volume": "7",
+                "author": "Mori M.",
+                "year": "1970",
+                "journal-title": "Energy"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "unstructured": "Orvalho V. Bastos P. Parke F. I. Oliveira B. and Alvarez X. 2012. A Facial Rigging Survey. Eurographics 2012 - STAR -- State of The Art Report 183--204.  Orvalho V. Bastos P. Parke F. I. Oliveira B. and Alvarez X. 2012. A Facial Rigging Survey. Eurographics 2012 - STAR -- State of The Art Report 183--204."
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "unstructured": "Osipa J. 2010. Stop staring: facial modeling and animation done right. John Wiley & Sons.   Osipa J. 2010. Stop staring: facial modeling and animation done right. John Wiley & Sons."
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "unstructured": "Pandzic I. S. and Forchheimer R. Eds. 2002. MPEG-4 Facial Animation 1 ed. The Standard Implementation and Applications. John Wiley & Sons West Sussex.   Pandzic I. S. and Forchheimer R. Eds. 2002. MPEG-4 Facial Animation 1 ed. The Standard Implementation and Applications. John Wiley & Sons West Sussex.",
+                "DOI": "10.1002/0470854626",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "unstructured": "Parke F. I. and Waters K. 1996. Computer Facial Animation. A. K. Peters.   Parke F. I. and Waters K. 1996. Computer Facial Animation. A. K. Peters.",
+                "DOI": "10.1037/e526112012-055",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1145/800193.569955",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1207/s15516709cog2001_1",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "DOI": "10.1016/j.bandc.2012.01.001",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "unstructured": "Schwartz J.-L. and Savariaux C. 2014. No There Is No 150 ms Lead of Visual Speech on Auditory Speech but a Range of Audiovisual Asynchronies Varying from Small Audio Lead to Large Audio Lag. PLoS Computational Biology (PLOSCB) 10(7) 10 7 1--10.  Schwartz J.-L. and Savariaux C. 2014. No There Is No 150 ms Lead of Visual Speech on Auditory Speech but a Range of Audiovisual Asynchronies Varying from Small Audio Lead to Large Audio Lag. PLoS Computational Biology (PLOSCB) 10(7) 10 7 1--10.",
+                "DOI": "10.1371/journal.pcbi.1003743",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "author": "Sifakis E.",
+                "volume-title": "Simulating Speech With A Physics-Based Facial Muscle Model. In SCA '06: Proceedings of the 2006 ACM SIGGRAPH/Eurographics symposium on Computer animation, Eurographics Association"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "DOI": "10.5555/2421731.2421770",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "author": "Taylor S. L.",
+                "volume-title": "Speech and Signal Processing (ICASSP), 2014 IEEE International Conference on, IEEE, Disney Research"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "DOI": "10.1145/1274940.1274947",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "DOI": "10.1109/ICASSP.2009.4960637",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "DOI": "10.1145/1599470.1599472",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_55_1",
+                "DOI": "10.1145/1964921.1964972",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_56_1",
+                "DOI": "10.1145/97879.97906",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_57_1",
+                "DOI": "10.1145/2522628.2522904",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_58_1",
+                "unstructured": "Young S. J. and Young S. 1993. The HTK Hidden Markov Model Toolkit: Design and Philosophy. University of Cambridge Department of Engineering.  Young S. J. and Young S. 1993. The HTK Hidden Markov Model Toolkit: Design and Philosophy. University of Cambridge Department of Engineering."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925984&amp;ftid=1755838&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:38:51Z",
+            "timestamp": 1585964331000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "an animator-centric viseme model for expressive lip synchronization"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 58,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925984"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925984",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

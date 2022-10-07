@@ -1,0 +1,665 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2021,
+                    7,
+                    28
+                ]
+            ],
+            "date-time": "2021-07-28T22:44:14Z",
+            "timestamp": 1627512254385
+        },
+        "reference-count": 73,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "start": {
+                    "date-parts": [
+                        [
+                            2022,
+                            7,
+                            19
+                        ]
+                    ],
+                    "date-time": "2022-07-19T00:00:00Z",
+                    "timestamp": 1658188800000
+                },
+                "content-version": "vor",
+                "delay-in-days": 352,
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100000001",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "IIS-1320635, DMS-1436591, DMS-1821334, OAC-1835712, OIA-1937043, CHS-1908767, CHS-1901091"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100000781",
+                "name": "European Research Council",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "757497"
+                ]
+            },
+            {
+                "name": "NSF CAREER",
+                "award": [
+                    "1652515"
+                ]
+            },
+            {
+                "name": "ISF-NSFC",
+                "award": [
+                    "2472/17"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100003977",
+                "name": "Israel Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "2492/20"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2021,
+                    8
+                ]
+            ]
+        },
+        "DOI": "10.1145/3450626.3459835",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2021,
+                    7,
+                    20
+                ]
+            ],
+            "date-time": "2021-07-20T00:04:26Z",
+            "timestamp": 1626739466000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+            "Orienting point clouds with dipole propagation"
+        ],
+        "prefix": "10.1145",
+        "volume": "40",
+        "author": [
+            {
+                "given": "Gal",
+                "family": "Metzer",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Tel Aviv University"
+                    }
+                ]
+            },
+            {
+                "given": "Rana",
+                "family": "Hanocka",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Tel Aviv University"
+                    }
+                ]
+            },
+            {
+                "given": "Denis",
+                "family": "Zorin",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "New York University"
+                    }
+                ]
+            },
+            {
+                "given": "Raja",
+                "family": "Giryes",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Tel Aviv University"
+                    }
+                ]
+            },
+            {
+                "given": "Daniele",
+                "family": "Panozzo",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "New York University"
+                    }
+                ]
+            },
+            {
+                "given": "Daniel",
+                "family": "Cohen-Or",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Tel Aviv University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "volume-title": "International conference on machine learning. PMLR, 40--49",
+                "author": "Achlioptas Panos",
+                "year": "2018"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "volume-title": "Fast Winding Numbers for Soups and Clouds. ACM Transactions on Graphics",
+                "author": "Barill Gavin",
+                "year": "2018"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "volume-title": "Proceedings of the European Conference on Computer Vision (ECCV).",
+                "author": "Cai Ruojin",
+                "year": "2020"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.5555/1056088.1648411"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "volume-title": "Binary orientation trees for",
+                "author": "Chen Yi-Ling",
+                "year": "2011"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/CVPR.2017.264"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "volume-title": "Introduction to partial differential equations",
+                "author": "Folland Gerald B"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/CVPR.2018.00030"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/1275808.1276406"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "volume-title": "Computer Graphics Forum",
+                "author": "Guerrero Paul"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/WACV.2019.00122"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/3306346.3322959"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/3386569.3392415"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "volume-title": "Proceedings of the IEEE International Conference on Computer Vision. 52--60",
+                "author": "Hermosilla Pedro",
+                "year": "2019"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/CVPR42600.2020.01207"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/133994.134011"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "volume-title": "Non-Local Part-Aware Point Cloud Denoising. arXiv preprint arXiv:2003.06631",
+                "author": "Huang Chao",
+                "year": "2020"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "volume-title": "Consolidation of unorganized point clouds for surface reconstruction. ACM transactions on graphics (TOG) 28, 5",
+                "author": "Huang Hui",
+                "year": "2009"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "doi-asserted-by": "crossref",
+                "first-page": "1",
+                "DOI": "10.1145/3306346.3322994",
+                "article-title": "Variational implicit point set surfaces",
+                "volume": "38",
+                "author": "Huang Zhiyang",
+                "year": "2019",
+                "journal-title": "ACM Transactions on Graphics (TOG)"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "volume-title": "Computer Graphics Forum",
+                "author": "Jakob Johannes"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1007/978-3-030-01237-3_49"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/1275808.1276407"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.5555/1281920.1281931"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "volume-title": "Proceedings of the fourth Eurographics symposium on Geometry processing",
+                "volume": "7",
+                "author": "Kazhdan Michael",
+                "year": "2006"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/2487228.2487237"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "unstructured": "S. K\u00f6nig and S. Gumhold. 2009. Consistent Propagation of Normal Orientations in Point Clouds. In VMV.  S. K\u00f6nig and S. Gumhold. 2009. Consistent Propagation of Normal Orientations in Point Clouds. In VMV."
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "volume-title": "Geometric Adversarial Attacks and Defenses on 3D Point Clouds. arXiv preprint arXiv:2012.05657",
+                "author": "Lang Itai",
+                "year": "2020"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "volume-title": "http://threedscans.com/info/",
+                "author": "Laric Oliver",
+                "year": "2012"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "volume-title": "Geometric modeling for scientific visualization",
+                "author": "Levin David"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "volume-title": "Point cloud gan. arXiv preprint arXiv:1810.05795",
+                "author": "Li Chun-Liang",
+                "year": "2018"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/CVPR.2018.00979"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/ICCV.2019.00730"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "volume-title": "Pointcnn: Convolution on x-transformed points. In Advances in neural information processing systems. 820--830.",
+                "author": "Li Yangyan",
+                "year": "2018"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1609/aaai.v34i07.6827"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/3343031.3350960"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/3394171.3413727"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/781606.781625"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "volume-title": "Self-Sampling for Neural Point Cloud Consolidation. arXiv preprint arXiv:2008.06471",
+                "author": "Metzer Gal",
+                "year": "2020"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/777792.777840"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "volume-title": "Mathieu Desbrun, David Cohen-Steiner, and Pierre Alliez.",
+                "author": "Mullen Patrick",
+                "year": "2010"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "volume-title": "DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation. In The IEEE Conference on Computer Vision and Pattern Recognition (CVPR).",
+                "author": "Park Jeong Joon",
+                "year": "2019"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/882262.882319"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "volume-title": "Learning Graph-Convolutional Representations for Point Cloud Denoising. In European Conference on Computer Vision. Springer, 103--118",
+                "author": "Pistilli Francesca",
+                "year": "2020"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "volume-title": "Proceedings of the IEEE conference on computer vision and pattern recognition. 652--660",
+                "author": "Qi Charles R",
+                "year": "2017"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "volume-title": "Deep hierarchical feature learning on point sets in a metric space. Advances in neural information processing systems 30",
+                "author": "Qi Charles Ruizhongtai",
+                "year": "2017"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "volume-title": "Paul Guerrero, Niloy J Mitra, and Maks Ovsjanikov.",
+                "author": "Rakotosaona Marie-Julie",
+                "year": "2020"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "volume-title": "Black",
+                "author": "Romero Javier",
+                "year": "2017"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/CVPR.2019.00605"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "volume-title": "Computer Graphics Forum",
+                "author": "Schertler Nico"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1016/j.cag.2011.03.012"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/2024156.2024160"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/WACV45572.2020.9093430"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/CVPR.2019.00047"
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "unstructured": "The CGAL Project. 2020. CGAL User and Reference Manual (5.2 ed.). CGAL Editorial Board. https://doc.cgal.org/5.2/Manual/packages.html  The CGAL Project. 2020. CGAL User and Reference Manual (5.2 ed.). CGAL Editorial Board. https://doc.cgal.org/5.2/Manual/packages.html"
+            },
+            {
+                "key": "e_1_2_2_55_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/1102351.1102469"
+            },
+            {
+                "key": "e_1_2_2_56_1",
+                "volume-title": "Marcelo H Ang Jr, and Gim Hee Lee",
+                "author": "Wang Xiaogang",
+                "year": "2020"
+            },
+            {
+                "key": "e_1_2_2_57_1",
+                "doi-asserted-by": "crossref",
+                "first-page": "1",
+                "DOI": "10.1145/2366145.2366184",
+                "article-title": "Active co-analysis of a set of shapes",
+                "volume": "31",
+                "author": "Wang Yunhai",
+                "year": "2012",
+                "journal-title": "ACM Transactions on Graphics (TOG)"
+            },
+            {
+                "key": "e_1_2_2_58_1",
+                "volume-title": "Dynamic graph cnn for learning on point clouds. Acm Transactions On Graphics (tog) 38, 5",
+                "author": "Wang Yue",
+                "year": "2019"
+            },
+            {
+                "key": "e_1_2_2_59_1",
+                "volume-title": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 1939--1948",
+                "author": "Wen Xin",
+                "year": "2020"
+            },
+            {
+                "key": "e_1_2_2_60_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/CVPR.2019.01037"
+            },
+            {
+                "key": "e_1_2_2_61_1",
+                "volume-title": "Proceedings of the IEEE conference on computer vision and pattern recognition. 1912--1920",
+                "author": "Wu Zhirong",
+                "year": "2015"
+            },
+            {
+                "key": "e_1_2_2_62_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/VISUAL.2004.101"
+            },
+            {
+                "key": "e_1_2_2_63_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/VISUAL.2003.1250359"
+            },
+            {
+                "key": "e_1_2_2_64_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1016/j.cag.2018.06.002"
+            },
+            {
+                "key": "e_1_2_2_65_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/ICCV.2019.00464"
+            },
+            {
+                "key": "e_1_2_2_66_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/CVPR.2018.00029"
+            },
+            {
+                "key": "e_1_2_2_67_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/3355089.3356513"
+            },
+            {
+                "key": "e_1_2_2_68_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/CVPR.2019.00611"
+            },
+            {
+                "key": "e_1_2_2_69_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1007/978-3-030-01234-2_24"
+            },
+            {
+                "key": "e_1_2_2_70_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/CVPR.2018.00295"
+            },
+            {
+                "key": "e_1_2_2_71_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/3DV.2018.00088"
+            },
+            {
+                "key": "e_1_2_2_72_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/CVPR.2019.00110"
+            },
+            {
+                "key": "e_1_2_2_73_1",
+                "first-page": "3D",
+                "article-title": "Thingi10K",
+                "volume": "10",
+                "author": "Zhou Qingnan",
+                "year": "2016",
+                "journal-title": "A Dataset of"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "https://dl.acm.org/doi/pdf/10.1145/3450626.3459835",
+                "content-type": "application/pdf",
+                "content-version": "vor",
+                "intended-application": "syndication"
+            },
+            {
+                "URL": "https://dl.acm.org/doi/pdf/10.1145/3450626.3459835",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2021,
+                    7,
+                    20
+                ]
+            ],
+            "date-time": "2021-07-20T00:07:52Z",
+            "timestamp": 1626739672000
+        },
+        "score": 1,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2021,
+                    8
+                ]
+            ]
+        },
+        "references-count": 73,
+        "journal-issue": {
+            "issue": "4",
+            "published-print": {
+                "date-parts": [
+                    [
+                        2021,
+                        8
+                    ]
+                ]
+            }
+        },
+        "alternative-id": [
+            "10.1145/3450626.3459835"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3450626.3459835",
+        "relation": {},
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ],
+        "subject": [
+            "Computer Graphics and Computer-Aided Design"
+        ],
+        "published": {
+            "date-parts": [
+                [
+                    2021,
+                    8
+                ]
+            ]
+        }
+    }
+}

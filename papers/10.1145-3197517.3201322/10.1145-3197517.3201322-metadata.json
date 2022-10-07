@@ -1,0 +1,545 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:54Z",
+            "timestamp": 1585962714732
+        },
+        "reference-count": 68,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201322",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-15",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+            "Perception-aware modeling and fabrication of digital drawing tools"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Michal",
+                "family": "Piovar\u010di",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Saarland University and Universit\u00e0 della Svizzera italiana, Switzerland"
+                    }
+                ]
+            },
+            {
+                "given": "David I. W.",
+                "family": "Levin",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Toronto, Canada"
+                    }
+                ]
+            },
+            {
+                "given": "Danny M.",
+                "family": "Kaufman",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "United States of America"
+                    }
+                ]
+            },
+            {
+                "given": "Piotr",
+                "family": "Didyk",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Saarland University and Universit\u00e0 della Svizzera italiana, Switzerland"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "author": "Annett Michelle",
+                "year": "2014",
+                "volume-title": "Proceedings of Graphics Interface"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1109/WHC.2013.6548446",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1063/1.1721448",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "Brian Armstrong-H\u00e9louvry. 1991. Control of Machines with Friction. Kluwer Academic Publishers Boston Massachusetts.  Brian Armstrong-H\u00e9louvry. 1991. Control of Machines with Friction. Kluwer Academic Publishers Boston Massachusetts.",
+                "DOI": "10.1007/978-1-4615-3972-8",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "author": "Avriel Mordecai",
+                "year": "2003",
+                "volume-title": "Nonlinear Programming: Analysis and Methods"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/1866029.1866074",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.3758/BF03193536",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "Wouter M Bergmann Tiest and Astrid ML Kappers. 2006. Analysis of haptic perception of materials by multidimensional scaling and physical measurements of roughness and compressibility. Acta psychologica 121 1 (2006) 1--20.  Wouter M Bergmann Tiest and Astrid ML Kappers. 2006. Analysis of haptic perception of materials by multidimensional scaling and physical measurements of roughness and compressibility. Acta psychologica 121 1 (2006) 1--20."
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/1899404.1899410",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "Brian Blood. 2009. Physics of musical instruments. (2009).  Brian Blood. 2009. Physics of musical instruments. (2009)."
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "first-page": "3",
+                "article-title": "A new model for control of systems with friction",
+                "volume": "40",
+                "author": "de Wit Carlos Canudas",
+                "year": "1995",
+                "journal-title": "IEEE Trans. Automat. Control"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/3072959.3073669",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/2984511.2984550",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/1198555.1198612",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1016/j.displa.2007.07.003",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "author": "Chouvardas Vasilios G",
+                "year": "2005",
+                "volume-title": "Proceedings of the 5th International Conference on Technology and Automation (ICTA'05)"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "Theresa Cooke Sebastian Kannengiesser Christian Wallraven and Heinrich H B\u00fclthoff.  Theresa Cooke Sebastian Kannengiesser Christian Wallraven and Heinrich H B\u00fclthoff."
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/1166087.1166093",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/1658349.1658356",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.2514/3.61511",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.3389/fpsyg.2015.00169",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/3126594.3126597",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "Claire Watson Garcia. 2003. Drawing for the Absolute and Utter Beginner. Watson-Guptill.  Claire Watson Garcia. 2003. Drawing for the Absolute and Utter Beginner. Watson-Guptill."
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/2516971.2516972",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "first-page": "6",
+                "article-title": "Modeling and measuring friction effects",
+                "volume": "28",
+                "author": "Harnoy Avraham",
+                "year": "2008",
+                "journal-title": "IEEE Control Systems"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "author": "Hayward Vincent",
+                "volume": "69",
+                "year": "2000",
+                "volume-title": "Proceedings of the haptic interfaces for virtual environment and teleoperator systems symposium"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/2978178.2978186",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1017/S0962492910000048",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.3758/BF03212154",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1523/JNEUROSCI.0028-06.2006",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "author": "Israr Ali",
+                "volume-title": "2006 IEEE/RSJ International Conference on Intelligent Robots and Systems. 472--477"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1121/1.2354022",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1007/BF00228884",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "first-page": "1",
+                "article-title": "Computer Simulation of Stick-Slip Friction in Mechanical Dynamic Systems. ASME Journal of dynamic Systems",
+                "volume": "107",
+                "author": "Karnopp Dean",
+                "year": "1985",
+                "journal-title": "Measurement and Control"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1145/1073204.1073295",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1145/1409060.1409117",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/2501988.2502020",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "unstructured": "Roberta L. Klatzky and Susan J. Lederman. 2002. Perceiving texture through a probe. Touch in virtual environments (2002) 180--193.  Roberta L. Klatzky and Susan J. Lederman. 2002. Perceiving texture through a probe. Touch in virtual environments (2002) 180--193."
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1201/b10636-3",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.3758/BF03194587",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1145/1029632.1029682",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1145/2897824.2925960",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "author": "Massie Thomas H.",
+                "volume": "55",
+                "volume-title": "Proceedings of the ASME winter annual meeting, symposium on haptic interfaces for virtual environment and teleoperator systems"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "unstructured": "Ralph Mayer. 1991. Artist's Handbook of Materials and Techniques: Revised and Updated. Viking Books.  Ralph Mayer. 1991. Artist's Handbook of Materials and Techniques: Revised and Updated. Viking Books."
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1145/2508462",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1145/199404.199436",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "DOI": "10.1109/TOH.2011.30",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "DOI": "10.1145/1012551.1012574",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "DOI": "10.1145/344779.344812",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "unstructured": "Alvaro G. Perez Daniel Lobo Francesco Chinello Gabriel Cirio Monica Malvezzi Jose San Martin Domenico Prattichizzo and Miguel A. Otaduy. 2017. Optimization-based wearable tactile rendering. IEEE transactions on haptics (2017).  Alvaro G. Perez Daniel Lobo Francesco Chinello Gabriel Cirio Monica Malvezzi Jose San Martin Domenico Prattichizzo and Miguel A. Otaduy. 2017. Optimization-based wearable tactile rendering. IEEE transactions on haptics (2017).",
+                "DOI": "10.1109/TOH.2016.2619708",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "unstructured": "Henry Petroski. 1992. The pencil: A history of design and circumstance. Alfred a Knopf Incorporated.  Henry Petroski. 1992. The pencil: A history of design and circumstance. Alfred a Knopf Incorporated."
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "DOI": "10.1145/2897824.2925885",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "DOI": "10.1007/s00530-007-0105-x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "DOI": "10.1145/985921.986051",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_55_1",
+                "DOI": "10.1109/TOH.2011.38",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_56_1",
+                "DOI": "10.1145/2766971",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_57_1",
+                "DOI": "10.1117/1.1344187",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_58_1",
+                "unstructured": "Hyunyoung Song Hrvoje Benko Francois Guimbretiere Shahram Izadi Xiang Cao and Ken Hinckley. 2011. Grips and Gestures on a Multi-Touch Pen. 1323--1332. https://www.microsoft.com/en-us/research/publication/grips-and-gestures-on-a-multi-touch-pen/ 10.1145/1978942.1979138   Hyunyoung Song Hrvoje Benko Francois Guimbretiere Shahram Izadi Xiang Cao and Ken Hinckley. 2011. Grips and Gestures on a Multi-Touch Pen. 1323--1332. https://www.microsoft.com/en-us/research/publication/grips-and-gestures-on-a-multi-touch-pen/ 10.1145/1978942.1979138",
+                "DOI": "10.1145/1978942.1979138",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_59_1",
+                "unstructured": "Gwidon W Stachowiak. 2006. Wear: materials mechanisms and practice. John Wiley & Sons.  Gwidon W Stachowiak. 2006. Wear: materials mechanisms and practice. John Wiley & Sons.",
+                "DOI": "10.1002/9780470017029",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_60_1",
+                "DOI": "10.1037/h0070288",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_61_1",
+                "DOI": "10.1109/TOH.2009.16",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_62_1",
+                "unstructured": "Stephen Van Dulken. 2002. Inventing the 20th Century: 100 Inventions that Shaped the World from the Airplane to the Zipper. NYU Press.  Stephen Van Dulken. 2002. Inventing the 20th Century: 100 Inventions that Shaped the World from the Airplane to the Zipper. NYU Press."
+            },
+            {
+                "key": "e_1_2_2_63_1",
+                "unstructured": "Hector Vazquez-Leal Roberto Castaneda-Sheissa Uriel Filobello-Nino Arturo Sarmiento-Reyes and Jesus Sanchez Orea. 2012. High Accurate Simple Approximation of Normal Distribution Integral. Mathematical Problems in Engineering 2012 (2012).  Hector Vazquez-Leal Roberto Castaneda-Sheissa Uriel Filobello-Nino Arturo Sarmiento-Reyes and Jesus Sanchez Orea. 2012. High Accurate Simple Approximation of Normal Distribution Integral. Mathematical Problems in Engineering 2012 (2012).",
+                "DOI": "10.1155/2012/124029",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_64_1",
+                "DOI": "10.1145/2992154.2992161",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_65_1",
+                "unstructured": "Rhiannon Williams. 2015. Jony Ive interview: The story of the Apple Pencil. http://www.telegraph.co.uk/technology/apple/11988396/Jony-Ive-interview-The-story-of-the-Apple-Pencil.html. (2015). accessed on: 8 January 2018.  Rhiannon Williams. 2015. Jony Ive interview: The story of the Apple Pencil. http://www.telegraph.co.uk/technology/apple/11988396/Jony-Ive-interview-The-story-of-the-Apple-Pencil.html. (2015). accessed on: 8 January 2018."
+            },
+            {
+                "key": "e_1_2_2_66_1",
+                "DOI": "10.1145/1559755.1559760",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_67_1",
+                "DOI": "10.1080/08990220701318163",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_68_1",
+                "DOI": "10.1163/156855309X431703",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201322&ftid=1991710&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:32:28Z",
+            "timestamp": 1585960348000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 68,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201322"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201322",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

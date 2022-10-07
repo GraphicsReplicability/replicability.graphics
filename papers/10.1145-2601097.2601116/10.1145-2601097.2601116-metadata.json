@@ -1,0 +1,443 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:11:21Z",
+            "timestamp": 1586002281518
+        },
+        "reference-count": 43,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100000781",
+                "name": "European Research Council",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "257453"
+                ]
+            },
+            {
+                "DOI": "10.13039/100000145",
+                "name": "Division of Information and Intelligent Systems",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "IIS-1350330"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100001711",
+                "name": "Schweizerischer Nationalfonds zur F\u00f6rderung der Wissenschaftlichen Forschung",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "20PA21L 129607"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601116",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 119,
+        "title": [
+            "Projective dynamics"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Sofien",
+                "family": "Bouaziz",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "EPFL"
+                    }
+                ]
+            },
+            {
+                "given": "Sebastian",
+                "family": "Martin",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "VM Research"
+                    }
+                ]
+            },
+            {
+                "given": "Tiantian",
+                "family": "Liu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Pennsylvania"
+                    }
+                ]
+            },
+            {
+                "given": "Ladislav",
+                "family": "Kavan",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Pennsylvania"
+                    }
+                ]
+            },
+            {
+                "given": "Mark",
+                "family": "Pauly",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "EPFL"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/280814.280821",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "Bender J. M\u00fcller M. Otaduy M. A. and Teschner M. 2013. Position-based methods for the simulation of solid objects in computer graphics. In EG State of the Art Reports.  Bender J. M\u00fcller M. Otaduy M. A. and Teschner M. 2013. Position-based methods for the simulation of solid objects in computer graphics. In EG State of the Art Reports ."
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "author": "Bergou M.",
+                "volume-title": "Proc. EG Symp. Geometry Processing."
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "Botsch M. Kobbelt L. Pauly M. Alliez P. and Levy B. 2010. Polygon Mesh Processing. AK Peters.  Botsch M. Kobbelt L. Pauly M. Alliez P. and Levy B. 2010. Polygon Mesh Processing . AK Peters.",
+                "DOI": "10.1201/b10688",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1111/j.1467-8659.2012.03171.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "unstructured": "Boyd S. P. and Vandenberghe L. 2004. Convex optimization. Cambridge university press.   Boyd S. P. and Vandenberghe L. 2004. Convex optimization . Cambridge university press.",
+                "DOI": "10.1017/CBO9780511804441",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "author": "Bridson R.",
+                "volume-title": "Proc. EG Symp. Computer Animation."
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "Chao I. Pinkall U. Sanan P. and Schr\u00f6der P. 2010. A simple geometric model for elastic deformations. ACM Trans. Graph.. 10.1145/1778765.1778775   Chao I. Pinkall U. Sanan P. and Schr\u00f6der P. 2010. A simple geometric model for elastic deformations. ACM Trans. Graph. . 10.1145/1778765.1778775",
+                "DOI": "10.1145/1833349.1778775",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "Desbrun M. Schr\u00f6der P. and Barr A. 1999. Interactive animation of structured deformable objects. In Graphics Interface.   Desbrun M. Schr\u00f6der P. and Barr A. 1999. Interactive animation of structured deformable objects. In Graphics Interface ."
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "author": "Garg A.",
+                "volume-title": "Proc. EG Symp. Computer Animation."
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "Goldenthal R. Harmon D. Fattal R. Bercovier M. and Grinspun E. 2007. Efficient simulation of inextensible cloth. ACM Trans. Graph.. 10.1145/1276377.1276438   Goldenthal R. Harmon D. Fattal R. Bercovier M. and Grinspun E. 2007. Efficient simulation of inextensible cloth. ACM Trans. Graph. . 10.1145/1276377.1276438",
+                "DOI": "10.1145/1275808.1276438",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "author": "Grinspun E.",
+                "volume-title": "Proc. EG Symp. Computer Animation."
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "H\u00e4ggstr\u00f6m O. 2009. Interactive Real Time Cloth Simulation with Adaptive Level of Detail. Master's thesis.  H\u00e4ggstr\u00f6m O. 2009. Interactive Real Time Cloth Simulation with Adaptive Level of Detail . Master's thesis."
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Hahn F. Martin S. Thomaszewski B. Sumner R. Coros S. and Gross M. 2012. Rig-space physics. ACM Trans. Graph.. 10.1145/2185520.2185568   Hahn F. Martin S. Thomaszewski B. Sumner R. Coros S. and Gross M. 2012. Rig-space physics. ACM Trans. Graph. . 10.1145/2185520.2185568"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "unstructured": "Hairer E. Lubich C. and Wanner G. 2002. Geometric Numerical Integration: Structure-Preserving Algorithms for Ordinary Differential Equations. Springer.  Hairer E. Lubich C. and Wanner G. 2002. Geometric Numerical Integration: Structure-Preserving Algorithms for Ordinary Differential Equations . Springer.",
+                "DOI": "10.1007/978-3-662-05018-7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/1531326.1531393",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "Hecht F. Lee Y. J. Shewchuk J. R. and O'brien J. F. 2012. Updated sparse cholesky factors for corotational elastodynamics. ACM Trans. Graph.. 10.1145/2231816.2231821   Hecht F. Lee Y. J. Shewchuk J. R. and O'brien J. F. 2012. Updated sparse cholesky factors for corotational elastodynamics. ACM Trans. Graph. . 10.1145/2231816.2231821"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "author": "Hernandez F.",
+                "volume-title": "Proc. of Congreso Espa\u00f1ol de Inform\u00e1tica Gr\u00e1fica."
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "unstructured": "Hughes T. J. R. 2000. The Finite Element Method. Linear Static and Dynamic Finite Element Analysis. Dover Publications.  Hughes T. J. R. 2000. The Finite Element Method. Linear Static and Dynamic Finite Element Analysis . Dover Publications."
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/1028523.1028541",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/2522628.2522631",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "author": "Kharevych L.",
+                "volume-title": "Proc. EG Symp. Computer Animation."
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.5555/2421731.2421735",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "Liu T. Bargteil A. W. O'Brien J. F. and Kavan L. 2013. Fast simulation of mass-spring systems. ACM Trans. Graph.. 10.1145/2508363.2508406   Liu T. Bargteil A. W. O'Brien J. F. and Kavan L. 2013. Fast simulation of mass-spring systems. ACM Trans. Graph. . 10.1145/2508363.2508406"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "unstructured": "Macklin M. and M\u00fcller M. 2013. Position based fluids. ACM Trans. Graph.. 10.1145/2461912.2461984   Macklin M. and M\u00fcller M. 2013. Position based fluids. ACM Trans. Graph. . 10.1145/2461912.2461984"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/2010324.1964967",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "unstructured": "McAdams A. Zhu Y. Selle A. Empey M. Tamstorf R. Teran J. and Sifakis E. 2011. Efficient elasticity for character skinning with contact and collisions. ACM Trans. Graph.. 10.1145/2010324.1964932   McAdams A. Zhu Y. Selle A. Empey M. Tamstorf R. Teran J. and Sifakis E. 2011. Efficient elasticity for character skinning with contact and collisions. ACM Trans. Graph. . 10.1145/2010324.1964932",
+                "DOI": "10.1145/1964921.1964932",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/1073204.1073216",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "M\u00fcller M. Heidelberger B. Hennix M. and Ratcliff J. 2007. Position based dynamics. J. Vis. Comun. Image Represent.. 10.1016/j.jvcir.2007.01.005   M\u00fcller M. Heidelberger B. Hennix M. and Ratcliff J. 2007. Position based dynamics. J. Vis. Comun. Image Represent. . 10.1016/j.jvcir.2007.01.005"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "unstructured": "Myles A. and Zorin D. 2012. Global parametrization by incremental flattening. ACM Trans. Graph.. 10.1145/2185520.2185605   Myles A. and Zorin D. 2012. Global parametrization by incremental flattening. ACM Trans. Graph. . 10.1145/2185520.2185605"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "unstructured": "Narain R. Samii A. and O'Brien J. F. 2012. Adaptive anisotropic remeshing for cloth simulation. ACM Trans. Graph.. 10.1145/2366145.2366171   Narain R. Samii A. and O'Brien J. F. 2012. Adaptive anisotropic remeshing for cloth simulation. ACM Trans. Graph. . 10.1145/2366145.2366171",
+                "DOI": "10.1145/2366145.2366171",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "unstructured": "Nocedal J. and Wright S. J. 2006. Numerical optimization. Springer Verlag.  Nocedal J. and Wright S. J. 2006. Numerical optimization . Springer Verlag."
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "unstructured": "Press W. H. Teukolsky S. A. Vetterling W. T. and Flannery B. P. 2007. Numerical recipes 3rd edition: The art of scientific computing. Cambridge university press.   Press W. H. Teukolsky S. A. Vetterling W. T. and Flannery B. P. 2007. Numerical recipes 3rd edition: The art of scientific computing . Cambridge university press."
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "unstructured": "Provot X. 1995. Deformation constraints in a mass-spring model to describe rigid cloth behavior. In Graphics Interface.  Provot X. 1995. Deformation constraints in a mass-spring model to describe rigid cloth behavior. In Graphics Interface ."
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "unstructured": "Rivers A. and James D. 2007. FastLSM: fast lattice shape matching for robust real-time deformation. ACM Trans. Graph.. 10.1145/1276377.1276480   Rivers A. and James D. 2007. FastLSM: fast lattice shape matching for robust real-time deformation. ACM Trans. Graph. . 10.1145/1276377.1276480",
+                "DOI": "10.1145/1275808.1276480",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "unstructured": "Sifakis E. and Barbic J. 2012. Fem simulation of 3d deformable solids: A practitioner's guide to theory discretization and model reduction. In ACM SIGGRAPH Courses. 10.1145/2343483.2343501   Sifakis E. and Barbic J. 2012. Fem simulation of 3d deformable solids: A practitioner's guide to theory discretization and model reduction. In ACM SIGGRAPH Courses . 10.1145/2343483.2343501",
+                "DOI": "10.1145/2343483.2343501",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "author": "Sorkine O.",
+                "volume-title": "Proc. EG Symp. Geometry Processing."
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1109/CADCG.2009.5246818",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "unstructured": "Stern A. and Grinspun E. 2009. Implicit-explicit variational integration of highly oscillatory problems. Multiscale Modeling & Simulation.  Stern A. and Grinspun E. 2009. Implicit-explicit variational integration of highly oscillatory problems. Multiscale Modeling & Simulation .",
+                "DOI": "10.1137/080732936",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "unstructured": "Su J. Sheth R. and Fedkiw R. 2013. Energy conservation for the simulation of deformable bodies. IEEE Trans. Vis. Comput. Graph.. 10.1109/TVCG.2012.132   Su J. Sheth R. and Fedkiw R. 2013. Energy conservation for the simulation of deformable bodies. IEEE Trans. Vis. Comput. Graph. . 10.1109/TVCG.2012.132"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "unstructured": "Terzopoulos D. Platt J. Barr A. and Fleischer K. 1987. Elastically deformable models. In Computer Graphics (Proceedings of SIGGRAPH). 10.1145/37401.37427   Terzopoulos D. Platt J. Barr A. and Fleischer K. 1987. Elastically deformable models. In Computer Graphics (Proceedings of SIGGRAPH) . 10.1145/37401.37427",
+                "DOI": "10.1145/37401.37427",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "unstructured": "Thomaszewski B. Pabst S. and Strasser W. 2009. Continuum-based strain limiting. In Comput. Graph. Forum.  Thomaszewski B. Pabst S. and Strasser W. 2009. Continuum-based strain limiting. In Comput. Graph. Forum .",
+                "DOI": "10.1111/j.1467-8659.2009.01397.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "unstructured": "Wang H. O'Brien J. and Ramamoorthi R. 2010. Multi-resolution isotropic strain limiting. ACM Trans. Graph.. 10.1145/1882261.1866182   Wang H. O'Brien J. and Ramamoorthi R. 2010. Multi-resolution isotropic strain limiting. ACM Trans. Graph. . 10.1145/1882261.1866182",
+                "DOI": "10.1145/1882262.1866182",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601116&amp;ftid=1488963&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:46:57Z",
+            "timestamp": 1586000817000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "fusing constraint projections for fast simulation"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 43,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601116"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601116",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

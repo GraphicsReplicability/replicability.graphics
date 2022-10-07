@@ -1,0 +1,505 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:54Z",
+            "timestamp": 1585962714322
+        },
+        "reference-count": 63,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2019,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2019-07-30T00:00:00Z",
+                    "timestamp": 1564444800000
+                },
+                "delay-in-days": 354,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100000145",
+                "name": "Division of Information and Intelligent Systems",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "1514258"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201397",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 13,
+        "title": [
+            "Learning symmetric and low-energy locomotion"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Wenhao",
+                "family": "Yu",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Georgia Institute of Technology"
+                    }
+                ]
+            },
+            {
+                "given": "Greg",
+                "family": "Turk",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Georgia Institute of Technology"
+                    }
+                ]
+            },
+            {
+                "given": "C. Karen",
+                "family": "Liu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Georgia Institute of Technology"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "Mazen Al Borno Martin De Lasa and Aaron Hertzmann. 2013. Trajectory optimization for full-body movements with complex contacts. IEEE transactions on visualization and computer graphics 19 8 (2013) 1405--1414. 10.1109/TVCG.2012.325   Mazen Al Borno Martin De Lasa and Aaron Hertzmann. 2013. Trajectory optimization for full-body movements with complex contacts. IEEE transactions on visualization and computer graphics 19 8 (2013) 1405--1414. 10.1109/TVCG.2012.325"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/1553374.1553380",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "unstructured": "Greg Brockman Vicki Cheung Ludwig Pettersson Jonas Schneider John Schulman Jie Tang and Wojciech Zaremba. 2016. OpenAI Gym. CoRR abs/1606.01540 (2016). arXiv:1606.01540 http://arxiv.org/abs/1606.01540  Greg Brockman Vicki Cheung Ludwig Pettersson Jonas Schneider John Schulman Jie Tang and Wojciech Zaremba. 2016. OpenAI Gym. CoRR abs/1606.01540 (2016). arXiv:1606.01540 http://arxiv.org/abs/1606.01540"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/1833349.1781156",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/2010324.1964954",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/1360612.1360681",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/1778765.1781157",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "Prafulla Dhariwal Christopher Hesse Matthias Plappert Alec Radford John Schulman Szymon Sidor and Yuhuai Wu. 2017. OpenAI Baselines https://github.com/openai/baselines. (2017).  Prafulla Dhariwal Christopher Hesse Matthias Plappert Alec Radford John Schulman Szymon Sidor and Yuhuai Wu. 2017. OpenAI Baselines https://github.com/openai/baselines. (2017)."
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "author": "Duan Yan",
+                "year": "2016",
+                "volume-title": "International Conference on Machine Learning. 1329--1338"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1109/ICRA.2016.7487294",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "Carlos Florensa David Held Markus Wulfmeier and Pieter Abbeel. 2017. Reverse curriculum generation for reinforcement learning. arXiv preprint arXiv:1707.05300 (2017).  Carlos Florensa David Held Markus Wulfmeier and Pieter Abbeel. 2017. Reverse curriculum generation for reinforcement learning. arXiv preprint arXiv:1707.05300 (2017)."
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1111/j.1467-8659.2012.03189.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/2508363.2508399",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Alex Graves Marc G Bellemare Jacob Menick Remi Munos and Koray Kavukcuoglu. 2017. Automated Curriculum Learning for Neural Networks. arXiv preprint arXiv:1704.03003 (2017).  Alex Graves Marc G Bellemare Jacob Menick Remi Munos and Koray Kavukcuoglu. 2017. Automated Curriculum Learning for Neural Networks. arXiv preprint arXiv:1704.03003 (2017)."
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "unstructured": "Sehoon Ha. 2016. PyDart2. (2016). https://github.com/sehoonha/pydart2  Sehoon Ha. 2016. PyDart2. (2016). https://github.com/sehoonha/pydart2"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/2682626",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1109/ICEC.1996.542381",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "unstructured": "Nicolas Heess Srinivasan Sriram Jay Lemmon Josh Merel Greg Wayne Yuval Tassa Tom Erez Ziyu Wang Ali Eslami Martin Riedmiller etal 2017. Emergence of locomotion behaviours in rich environments. arXiv preprint arXiv:1707.02286 (2017).  Nicolas Heess Srinivasan Sriram Jay Lemmon Josh Merel Greg Wayne Yuval Tassa Tom Erez Ziyu Wang Ali Eslami Martin Riedmiller et al. 2017. Emergence of locomotion behaviours in rich environments. arXiv preprint arXiv:1707.02286 (2017)."
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "unstructured": "David Held Xinyang Geng Carlos Florensa and Pieter Abbeel. 2017. Automatic Goal Generation for Reinforcement Learning Agents. arXiv preprint arXiv:1705.06366 (2017).  David Held Xinyang Geng Carlos Florensa and Pieter Abbeel. 2017. Automatic Goal Generation for Reinforcement Learning Agents. arXiv preprint arXiv:1705.06366 (2017)."
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1249/00005768-198902000-00020",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/218380.218414",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/1477926.1477936",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1007/978-3-642-30353-1_31",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "Yann LeCun Yoshua Bengio and Geoffrey Hinton. 2015. Deep learning. Nature 521 7553 (2015) 436--444.  Yann LeCun Yoshua Bengio and Geoffrey Hinton. 2015. Deep learning. Nature 521 7553 (2015) 436--444."
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/1778765.1781155",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/2661229.2661233",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "author": "Levine Sergey",
+                "year": "2014",
+                "volume-title": "Learning Complex Neural Network Policies with Trajectory Optimization. In ICML '14: Proceedings of the 31st International Conference on Machine Learning."
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "unstructured": "Timothy P Lillicrap Jonathan J Hunt Alexander Pritzel Nicolas Heess Tom Erez Yuval Tassa David Silver and Daan Wierstra. 2015. Continuous control with deep reinforcement learning. arXiv preprint arXiv:1509.02971 (2015).  Timothy P Lillicrap Jonathan J Hunt Alexander Pritzel Nicolas Heess Tom Erez Yuval Tassa David Silver and Daan Wierstra. 2015. Continuous control with deep reinforcement learning. arXiv preprint arXiv:1509.02971 (2015)."
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/1073204.1073314",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/3083723",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/2893476",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "unstructured": "Tambet Matiisen Avital Oliver Taco Cohen and John Schulman. 2017. Teacher-Student Curriculum Learning. arXiv preprint arXiv:1707.00183 (2017).  Tambet Matiisen Avital Oliver Taco Cohen and John Schulman. 2017. Teacher-Student Curriculum Learning. arXiv preprint arXiv:1707.00183 (2017)."
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "author": "Mnih Volodymyr",
+                "year": "2016",
+                "volume-title": "International Conference on Machine Learning. 1928--1937"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "unstructured": "Igor Mordatch Kendall Lowrey Galen Andrew Zoran Popovic and Emanuel V Todorov. 2015. Interactive control of diverse complex characters with neural networks. In Advances in Neural Information Processing Systems. 3132--3140.   Igor Mordatch Kendall Lowrey Galen Andrew Zoran Popovic and Emanuel V Todorov. 2015. Interactive control of diverse complex characters with neural networks. In Advances in Neural Information Processing Systems. 3132--3140."
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1145/2185520.2185539",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/2508363.2508365",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1145/1531326.1531387",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "author": "Narvekar Sanmit",
+                "year": "2016",
+                "volume-title": "Proceedings of the 2016 International Conference on Autonomous Agents & Multiagent Systems. International Foundation for Autonomous Agents and Multiagent Systems, 566--574"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "author": "Nigg B",
+                "volume": "10",
+                "year": "1987",
+                "article-title": "Use of Force Platform Variables to Ouantify the Effects of Chiropractic Manipulation on Gait Symmetry",
+                "journal-title": "Journal of manipulative and physiological therapeutics"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "unstructured": "Openai. 2017. openai/roboschool. (2017). https://github.com/openai/roboschool  Openai. 2017. openai/roboschool. (2017). https://github.com/openai/roboschool"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "unstructured": "Kara K Patterson Iwona Parafianowicz Cynthia J Danells Valerie Closson Mary C Verrier W Richard Staines Sandra E Black and William E McIlroy. 2008. Gait asymmetry in community-ambulating stroke survivors. Archives of physical medicine and rehabilitation 89 2 (2008) 304--310.  Kara K Patterson Iwona Parafianowicz Cynthia J Danells Valerie Closson Mary C Verrier W Richard Staines Sandra E Black and William E McIlroy. 2008. Gait asymmetry in community-ambulating stroke survivors. Archives of physical medicine and rehabilitation 89 2 (2008) 304--310.",
+                "DOI": "10.1016/j.apmr.2007.08.142",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1145/2766910",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1145/2897824.2925881",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1145/3072959.3073602",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1109/CVPR.2015.7299188",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "DOI": "10.1109/ICRA.2016.7487517",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "author": "Schulman John",
+                "year": "2015",
+                "volume-title": "Proceedings of the 32nd International Conference on Machine Learning (ICML-15)"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "unstructured": "John Schulman Philipp Moritz Sergey Levine Michael Jordan and Pieter Abbeel. 2015b. High-dimensional continuous control using generalized advantage estimation. arXiv preprint arXiv:1506.02438 (2015).  John Schulman Philipp Moritz Sergey Levine Michael Jordan and Pieter Abbeel. 2015b. High-dimensional continuous control using generalized advantage estimation. arXiv preprint arXiv:1506.02438 (2015)."
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "unstructured": "John Schulman Filip Wolski Prafulla Dhariwal Alec Radford and Oleg Klimov. 2017. Proximal policy optimization algorithms. arXiv preprint arXiv:1707.06347 (2017).  John Schulman Filip Wolski Prafulla Dhariwal Alec Radford and Oleg Klimov. 2017. Proximal policy optimization algorithms. arXiv preprint arXiv:1707.06347 (2017)."
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "DOI": "10.1145/1275808.1276511",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "unstructured": "Richard S Sutton David A McAllester Satinder P Singh and Yishay Mansour. 2000. Policy gradient methods for reinforcement learning with function approximation. In Advances in neural information processing systems. 1057--1063.   Richard S Sutton David A McAllester Satinder P Singh and Yishay Mansour. 2000. Policy gradient methods for reinforcement learning with function approximation. In Advances in neural information processing systems. 1057--1063."
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "DOI": "10.1145/2601097.2601121",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "DOI": "10.1109/MCG.2011.30",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_55_1",
+                "author": "de Panne Michiel Van",
+                "volume-title": "Computer animation and simulation"
+            },
+            {
+                "key": "e_1_2_2_56_1",
+                "DOI": "10.1145/1576246.1531366",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_57_1",
+                "DOI": "10.1145/2601097.2601192",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_58_1",
+                "DOI": "10.1145/1618452.1618514",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_59_1",
+                "DOI": "10.1145/2185520.2185521",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_60_1",
+                "DOI": "10.1145/3130800.3130833",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_61_1",
+                "DOI": "10.1145/1778765.1778809",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_62_1",
+                "DOI": "10.1145/1778765.1778811",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_63_1",
+                "DOI": "10.1145/1360612.1360680",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_64_1",
+                "DOI": "10.1145/1276377.1276509",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "https://dl.acm.org/doi/pdf/10.1145/3197517.3201397",
+                "content-type": "application/pdf",
+                "content-version": "vor",
+                "intended-application": "syndication"
+            },
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201397&ftid=1991636&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:45:58Z",
+            "timestamp": 1585961158000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 63,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201397"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201397",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

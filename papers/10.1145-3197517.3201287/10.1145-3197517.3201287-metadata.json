@@ -1,0 +1,438 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:55Z",
+            "timestamp": 1585962715969
+        },
+        "reference-count": 37,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100012166",
+                "name": "National Basic Research Program of China (973 Program)",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "2015CB352501"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100001809",
+                "name": "National Natural Science Foundation of China",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "61602311, 61528208"
+                ]
+            },
+            {
+                "name": "Guangdong Science and Technology Program",
+                "award": [
+                    "2015A030312015"
+                ]
+            },
+            {
+                "name": "Shenzhen Science and Technology Program",
+                "award": [
+                    "JCYJ20170302153208613, JCYJ20151015151249564"
+                ]
+            },
+            {
+                "name": "NSERC Canada",
+                "award": [
+                    "611370, 611649, 2015-05407"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201287",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 3,
+        "title": [
+            "Predictive and generative neural networks for object functionality"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Ruizhen",
+                "family": "Hu",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Shenzhen University"
+                    }
+                ]
+            },
+            {
+                "given": "Zihao",
+                "family": "Yan",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shenzhen University"
+                    }
+                ]
+            },
+            {
+                "given": "Jingwen",
+                "family": "Zhang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shenzhen University"
+                    }
+                ]
+            },
+            {
+                "given": "Oliver",
+                "family": "Van Kaick",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Carleton University"
+                    }
+                ]
+            },
+            {
+                "given": "Ariel",
+                "family": "Shamir",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "The Interdisciplinary Center"
+                    }
+                ]
+            },
+            {
+                "given": "Hao",
+                "family": "Zhang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Simon Fraser University"
+                    }
+                ]
+            },
+            {
+                "given": "Hui",
+                "family": "Huang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shenzhen University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "Yuri Boykov and Vladimir Kolmogorov. 2004. An experimental comparison of min-cut/max-flow algorithms for energy minimization in vision. IEEE transactions on pattern analysis and machine intelligence 26 9 (2004) 1124--1137. 10.1109/TPAMI.2004.60   Yuri Boykov and Vladimir Kolmogorov. 2004. An experimental comparison of min-cut/max-flow algorithms for energy minimization in vision. IEEE transactions on pattern analysis and machine intelligence 26 9 (2004) 1124--1137. 10.1109/TPAMI.2004.60"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1109/CVPR.2017.264",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/2366145.2366154",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/3130800.3130805",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1007/978-3-319-46466-4_29",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1109/CVPR.2011.5995327",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1037/xge0000129",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/2897824.2925939",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "author": "Han X.",
+                "volume-title": "Proc. Int. Conf. on Computer Vision. 85--93"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/3130800.3130811",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/2897824.2925870",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/2766914",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "Max Jaderberg Karen Simonyan Andrew Zisserman and koray kavukcuoglu. 2015. Spatial Transformer Networks. In NIPS. 2017--2025.   Max Jaderberg Karen Simonyan Andrew Zisserman and koray kavukcuoglu. 2015. Spatial Transformer Networks. In NIPS. 2017--2025."
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1109/CVPR.2013.385",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/2601097.2601117",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/3072959.3073637",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/2766929",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/2980179.2980223",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1109/ICCVW.2015.112",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "Niloy Mitra Michael Wand Hao Zhang Daniel Cohen-Or and Martin Bokeloh. 2013. Structure-aware shape processing. In Eurographics State-of-the-art Report (STAR). 175--197.  Niloy Mitra Michael Wand Hao Zhang Daniel Cohen-Or and Martin Bokeloh. 2013. Structure-aware shape processing. In Eurographics State-of-the-art Report (STAR). 175--197.",
+                "DOI": "10.1145/2542266.2542267",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1016/j.cviu.2007.06.002",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/3083725",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "Charles R. Qi Li Yi Hao Su and Leonidas J. Guibas. 2017. PointNet+ + : Deep Hierarchical Feature Learning on Point Sets in a Metric Space. In NIPS. 5105--5114.  Charles R. Qi Li Yi Hao Su and Leonidas J. Guibas. 2017. PointNet+ + : Deep Hierarchical Feature Learning on Point Sets in a Metric Space. In NIPS. 5105--5114."
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/2661229.2661230",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/2897824.2925867",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1109/34.99242",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/3130800.3130821",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1109/ICCV.2017.319",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1109/CVPR.2014.180",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1111/j.1467-8659.2011.01885.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "unstructured": "Jiajun Wu Chengkai Zhang Tianfan Xue William T. Freeman and Joshua B. Tenenbaum. 2016. Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling. In NIPS. 82--90.   Jiajun Wu Chengkai Zhang Tianfan Xue William T. Freeman and Joshua B. Tenenbaum. 2016. Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling. In NIPS. 82--90."
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "author": "Wu Z.",
+                "volume-title": "Proc. IEEE Conf. on Computer Vision & Pattern Recognition. 1912--1920"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/2980179.2982410",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/2574860",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "unstructured": "Youyi Zheng Daniel Cohen-Or and Niloy J. Mitra. 2013. Smart Variations: Functional Substructures for Part Compatibility. Computer Graphics Forum (Proc. of Eurographics) 32 2pt2 (2013) 195--204.  Youyi Zheng Daniel Cohen-Or and Niloy J. Mitra. 2013. Smart Variations: Functional Substructures for Part Compatibility. Computer Graphics Forum (Proc. of Eurographics) 32 2pt2 (2013) 195--204."
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1007/978-3-319-10605-2_27",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1109/CVPR.2015.7298903",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201287&ftid=1991763&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:54:28Z",
+            "timestamp": 1585961668000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 37,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201287"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201287",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}
