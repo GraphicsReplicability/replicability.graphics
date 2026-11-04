@@ -13,7 +13,7 @@ Companion website  and data of the [article](replicability.pdf):
 * Julie Digne (CNRS, LIRIS, Lyon, France)
 * Nicolas Mellado (CNRS, IRIT, Toulouse, France)
 
-More details: [https://replicability.graphics](https://replicability.graphics)
+More details: [https://graphicsreplicability.github.io/replicability.graphics/](https://graphicsreplicability.github.io/replicability.graphics/)
 
 ## Citing
 
