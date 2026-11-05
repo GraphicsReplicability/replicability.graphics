@@ -1,0 +1,375 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    5,
+                    5
+                ]
+            ],
+            "date-time": "2020-05-05T17:41:04Z",
+            "timestamp": 1588700464236
+        },
+        "reference-count": 39,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2019,
+                            7,
+                            12
+                        ]
+                    ],
+                    "date-time": "2019-07-12T00:00:00Z",
+                    "timestamp": 1562889600000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "DOI": "10.1145/3306346.3323018",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2019-07-12T19:04:08Z",
+            "timestamp": 1562958248000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+            "Hierarchical russian roulette for vertex connections"
+        ],
+        "prefix": "10.1145",
+        "volume": "38",
+        "author": [
+            {
+                "given": "Yusuke",
+                "family": "Tokuyoshi",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "SQUARE ENIX CO., LTD., Japan"
+                    }
+                ]
+            },
+            {
+                "given": "Takahiro",
+                "family": "Harada",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Advanced Micro Devices"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/97880.97886",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/357290.357293",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1111/cgf.12256",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "C. Dachsbacher and M. Stamminger. 2006. Splatting Indirect Illumination. In I3D '06. 93--100. 10.1145/1111411.1111428   C. Dachsbacher and M. Stamminger. 2006. Splatting Indirect Illumination. In I3D '06. 93--100. 10.1145/1111411.1111428",
+                "DOI": "10.1145/1111411.1111428",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/2602144",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/3233305",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/3214745.3214760",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "first-page": "475",
+                "article-title": "Combining Photon Mapping and Bidirectional Path Tracing. In SIGGRAPH Asia '13 Course",
+                "volume": "15",
+                "author": "Georgiev I.",
+                "year": "2013",
+                "journal-title": "State of the Art in Photon Density Estimation."
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/2366145.2366211",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "I. Georgiev J. K\u0159iv\u00e1nek S. Popov and P. Slusallek. 2012b. Importance Caching for Complex Illumination. Comput. Graph. Forum 31 2pt3 (2012) 701--710. 10.1111/j.1467-8659.2012.03049.x   I. Georgiev J. K\u0159iv\u00e1nek S. Popov and P. Slusallek. 2012b. Importance Caching for Complex Illumination. Comput. Graph. Forum 31 2pt3 (2012) 701--710. 10.1111/j.1467-8659.2012.03049.x",
+                "DOI": "10.1111/j.1467-8659.2012.03049.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/1409060.1409083",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/2366145.2366210",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.2312/sre.20181171",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.5555/3071773.3071781",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/311535.311555",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "author": "Jendersie J.",
+                "volume-title": "Ray Tracing Gems: High-Quality and Real-Time Rendering with DXR and Other APIs"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/258734.258769",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/1966394.1966404",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "author": "Kollig T.",
+                "volume-title": "Illumination in the Presence of Weak Singularities. In MCQMC '04"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "author": "Lafortune E. P.",
+                "volume-title": "Bi-Directional Path Tracing. In Compugraphics '93"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/2659467.2659475",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/360825.360839",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.5555/2858834.2858843",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "author": "Stewart J.",
+                "volume-title": "GPU Pro 6: Advanced Rendering Techniques."
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "first-page": "35",
+                "article-title": "Stochastic Light Culling",
+                "volume": "5",
+                "author": "Tokuyoshi Y.",
+                "year": "2016",
+                "journal-title": "J. Comput. Graph. Tech."
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1111/cgf.13224",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/3214745.3214750",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1364/JOSA.65.000531",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "E. Veach. 1998. Robust Monte Carlo Methods for Light Transport Simulation. Ph.D. Dissertation.   E. Veach. 1998. Robust Monte Carlo Methods for Light Transport Simulation. Ph.D. Dissertation."
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "author": "Veach E.",
+                "volume-title": "Bidirectional Estimators for Light Transport. In EGWR '94"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/218380.218498",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/2601097.2601203",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/1141911.1141997",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/1073204.1073318",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1145/2185520.2185555",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "author": "Walter B.",
+                "volume-title": "Microfacet Models for Refraction Through Rough Surfaces. In EGSR '07"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/1618452.1618479",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1145/2508363.2508386",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1111/cgf.13335",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3323018&ftid=2071731&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    5,
+                    5
+                ]
+            ],
+            "date-time": "2020-05-05T17:19:10Z",
+            "timestamp": 1588699150000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "references-count": 39,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        12
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3306346.3323018"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3306346.3323018",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

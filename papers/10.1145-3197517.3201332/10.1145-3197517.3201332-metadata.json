@@ -1,0 +1,460 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:55Z",
+            "timestamp": 1585962715509
+        },
+        "reference-count": 51,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201332",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 5,
+        "title": [
+            "Neural best-buddies"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Kfir",
+                "family": "Aberman",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Tel-Aviv University"
+                    }
+                ]
+            },
+            {
+                "given": "Jing",
+                "family": "Liao",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research Asia"
+                    }
+                ]
+            },
+            {
+                "given": "Mingyi",
+                "family": "Shi",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shandong University"
+                    }
+                ]
+            },
+            {
+                "given": "Dani",
+                "family": "Lischinski",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Hebrew University of Jerusalem"
+                    }
+                ]
+            },
+            {
+                "given": "Baoquan",
+                "family": "Chen",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shandong University and Peking University"
+                    }
+                ]
+            },
+            {
+                "given": "Daniel",
+                "family": "Cohen-Or",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Tel-Aviv University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/1531326.1531330",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "author": "Barnes Connelly",
+                "volume-title": "Proc"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1007/11744023_32",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1109/TPAMI.2013.23",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "author": "Benning Martin",
+                "year": "2017",
+                "volume-title": "Nonlinear Spectral Image Fusion. In International Conference on Scale Space and Variational Methods in Computer Vision. Springer, 41--53"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.5555/524467.796029",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/1360612.1360638",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "Christopher B Choy JunYoung Gwak Silvio Savarese and Manmohan Chandraker. 2016. Universal correspondence network. In Advances in Neural Information Processing Systems. 2414--2422.   Christopher B Choy JunYoung Gwak Silvio Savarese and Manmohan Chandraker. 2016. Universal correspondence network. In Advances in Neural Information Processing Systems. 2414--2422."
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1109/CVPR.2015.7298813",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "Philipp Fischer Alexey Dosovitskiy and Thomas Brox. 2014. Descriptor matching with convolutional neural networks: a comparison to sift. arXiv preprint arXiv:1405.5769 (2014).  Philipp Fischer Alexey Dosovitskiy and Thomas Brox. 2014. Descriptor matching with convolutional neural networks: a comparison to sift. arXiv preprint arXiv:1405.5769 (2014)."
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "Leon A Gatys Alexander S Ecker and Matthias Bethge. 2015. A neural algorithm of artistic style. arXiv preprint arXiv:1508.06576 (2015).  Leon A Gatys Alexander S Ecker and Matthias Bethge. 2015. A neural algorithm of artistic style. arXiv preprint arXiv:1508.06576 (2015)."
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1109/CVPR.2014.458",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "Yoav HaCohen Eli Shechtman Dan B Goldman and Dani Lischinski. 2011. Non-rigid dense correspondence with applications for image enhancement. ACM transactions on graphics (TOG) 30 4 (2011) 70. 10.1145/2010324.1964965   Yoav HaCohen Eli Shechtman Dan B Goldman and Dani Lischinski. 2011. Non-rigid dense correspondence with applications for image enhancement. ACM transactions on graphics (TOG) 30 4 (2011) 70. 10.1145/2010324.1964965"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1109/CVPR.2016.378",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.5244/C.2.23",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/2508363.2508373",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "Xun Huang and Serge Belongie. 2017. Arbitrary style transfer in real-time with adaptive instance normalization. arXiv preprint arXiv:1703.06868 (2017).  Xun Huang and Serge Belongie. 2017. Arbitrary style transfer in real-time with adaptive instance normalization. arXiv preprint arXiv:1703.06868 (2017)."
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "author": "Johnson Justin",
+                "volume-title": "Proc"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "author": "Kim Seungryong",
+                "year": "2017",
+                "volume-title": "FCSS: Fully convolutional self-similarity for dense semantic correspondence. arXiv preprint arXiv:1702.00926"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "Iryna Korshunova Wenzhe Shi Joni Dambre and Lucas Theis. 2016. Fast face-swap using convolutional neural networks. arXiv preprint arXiv:1611.09577 (2016).  Iryna Korshunova Wenzhe Shi Joni Dambre and Lucas Theis. 2016. Fast face-swap using convolutional neural networks. arXiv preprint arXiv:1611.09577 (2016)."
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "Marek Kowalski Jacek Naruniec and Tomasz Trzcinski. 2017. Deep Alignment Network: A convolutional neural network for robust face alignment. arXiv preprint arXiv:1706.01789 (2017).  Marek Kowalski Jacek Naruniec and Tomasz Trzcinski. 2017. Deep Alignment Network: A convolutional neural network for robust face alignment. arXiv preprint arXiv:1706.01789 (2017)."
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "unstructured": "Alex Krizhevsky Ilya Sutskever and Geoffrey E Hinton. 2012. Imagenet classification with deep convolutional neural networks. In Advances in neural information processing systems. 1097--1105.   Alex Krizhevsky Ilya Sutskever and Geoffrey E Hinton. 2012. Imagenet classification with deep convolutional neural networks. In Advances in neural information processing systems. 1097--1105."
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "author": "Jiang Bo",
+                "year": "2015",
+                "volume-title": "International Conference of Young Computer Scientists, Engineers and Educators. Springer, 276--283"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/2629494",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/3072959.3073683",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1007/s10851-014-0541-0",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1109/TPAMI.2010.147",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "unstructured": "Jonathan L Long Ning Zhang and Trevor Darrell. 2014. Do convnets learn correspondence?. In Advances in Neural Information Processing Systems. 1601--1609.   Jonathan L Long Ning Zhang and Trevor Darrell. 2014. Do convnets learn correspondence?. In Advances in Neural Information Processing Systems. 1601--1609."
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1023/B:VISI.0000029664.99615.94",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1109/CVPR.2015.7299155",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/1141911.1141919",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/882262.882269",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1007/s11263-015-0816-y",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "unstructured": "Scott Schaefer Travis McPhail and Joe Warren. 2006. Image deformation using moving least squares. ACM transactions on graphics (TOG) 25 3 (2006) 533--540. 10.1145/1141911.1141920   Scott Schaefer Travis McPhail and Joe Warren. 2006. Image deformation using moving least squares. ACM transactions on graphics (TOG) 25 3 (2006) 533--540. 10.1145/1141911.1141920"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1109/CVPR.2010.5540159",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1109/ICCV.2015.22",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1109/TPAMI.2014.2301163",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "unstructured": "Karen Simonyan and Andrew Zisserman. 2014. Very deep convolutional networks for large-scale image recognition. arXiv preprint arXiv:1409.1556 (2014).  Karen Simonyan and Andrew Zisserman. 2014. Very deep convolutional networks for large-scale image recognition. arXiv preprint arXiv:1409.1556 (2014)."
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1109/CVPR.2017.144",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1109/TPAMI.2009.77",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1109/CVPR.2017.628",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1109/TIP.2003.819861",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1109/ICCV.2013.175",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1007/s003710050148",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1109/WACV.2014.6836101",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1109/CVPR.2014.435",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "unstructured": "Jason Yosinski Jeff Clune Anh Mai Nguyen Thomas J. Fuchs and Hod Lipson. 2015. Understanding Neural Networks Through Deep Visualization. CoRR abs/1506.06579 (2015). arXiv: 1506.06579 http://arxiv.org/abs/1506.06579  Jason Yosinski Jeff Clune Anh Mai Nguyen Thomas J. Fuchs and Hod Lipson. 2015. Understanding Neural Networks Through Deep Visualization. CoRR abs/1506.06579 (2015). arXiv: 1506.06579 http://arxiv.org/abs/1506.06579"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "unstructured": "Matthew D. Zeiler and Rob Fergus. 2013. Visualizing and Understanding Convolutional Networks. CoRR abs/1311.2901 (2013). arXiv:1311.2901 http://arxiv.org/abs/1311.2901  Matthew D. Zeiler and Rob Fergus. 2013. Visualizing and Understanding Convolutional Networks. CoRR abs/1311.2901 (2013). arXiv:1311.2901 http://arxiv.org/abs/1311.2901"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "author": "Zhou Tinghui",
+                "year": "2015",
+                "volume-title": "Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 1191--1200"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "DOI": "10.1109/CVPR.2016.20",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "author": "Zhu Shizhan",
+                "year": "2015",
+                "volume-title": "Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 4998--5006"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201332&ftid=1991588&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:51:09Z",
+            "timestamp": 1585961469000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "sparse cross-domain correspondence"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 51,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201332"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201332",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

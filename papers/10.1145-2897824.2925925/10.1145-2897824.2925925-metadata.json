@@ -1,0 +1,293 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T02:11:27Z",
+            "timestamp": 1585966287426
+        },
+        "reference-count": 20,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925925",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 5,
+        "title": [
+            "ZoeMatrope"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Leo",
+                "family": "Miyashita",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of Tokyo"
+                    }
+                ]
+            },
+            {
+                "given": "Kota",
+                "family": "Ishihara",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "PKSHA Technology Inc."
+                    }
+                ]
+            },
+            {
+                "given": "Yoshihiro",
+                "family": "Watanabe",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Tokyo"
+                    }
+                ]
+            },
+            {
+                "given": "Masatoshi",
+                "family": "Ishikawa",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Tokyo"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1364/JOSA.36.000624",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/2601097.2601140",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/1778765.1778798",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1085/jgp.19.6.979",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1111/j.1467-8659.2011.01891.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "unstructured": "Hullin M. B. Ihrke I. Heidrich W. Weyrich T. Damberg G. and Fuchs M. 2013. Computational fabrication and display of material appearance. Eurographics State-of-the-Art Reports (STAR) 137--153.  Hullin M. B. Ihrke I. Heidrich W. Weyrich T. Damberg G. and Fuchs M. 2013. Computational fabrication and display of material appearance. Eurographics State-of-the-Art Reports (STAR) 137--153."
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/1276377.1276427",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1117/1.JEI.23.1.011005",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "author": "Kautz J.",
+                "year": "2000",
+                "volume-title": "Proceedings of the Graphics Interface, (GI '00)"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/1618452.1618474",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/1027411.1027414",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/2037715.2037775",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/2342896.2342907",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "author": "Raskar R.",
+                "volume-title": "Proceedings of the 12th Eurographics Workshop on Rendering Techniques, 89--102"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/2010324.1964940",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/1836821.1836827",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1016/j.infrared.2012.03.006",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.5555/2383847.2383874",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "author": "Watanabe Y.",
+                "volume-title": "Proceedings of the International Display Workshops, (IDW '15)"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/1531326.1531338",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925925&amp;ftid=1755858&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:42:49Z",
+            "timestamp": 1585964569000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "a system for physical material design"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 20,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925925"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925925",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

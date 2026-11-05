@@ -1,0 +1,436 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:11:21Z",
+            "timestamp": 1586002281072
+        },
+        "reference-count": 37,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100001809",
+                "name": "National Natural Science Foundation of China",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "61327902, 61035002, 61120106003"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100002855",
+                "name": "Ministry of Science and Technology of the People's Republic of China",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "2013AA01A604"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100003329",
+                "name": "Ministerio de Econom\u00eda y Competitividad",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "TIN2010-21543"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100004963",
+                "name": "Seventh Framework Programme",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "name": "Gobierno de Aragon",
+                "award": []
+            },
+            {
+                "name": "Beijing Key Laboratory of Multi-dimensional & Multi-scale Computational Photography",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601135",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 39,
+        "title": [
+            "Intrinsic video and applications"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Genzhi",
+                "family": "Ye",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Tsinghua University"
+                    }
+                ]
+            },
+            {
+                "given": "Elena",
+                "family": "Garces",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Universidad de Zaragoza"
+                    }
+                ]
+            },
+            {
+                "given": "Yebin",
+                "family": "Liu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Tsinghua University"
+                    }
+                ]
+            },
+            {
+                "given": "Qionghai",
+                "family": "Dai",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Tsinghua University"
+                    }
+                ]
+            },
+            {
+                "given": "Diego",
+                "family": "Gutierrez",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Universidad de Zaragoza"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/1531326.1531376",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/1731047.1731048",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/2461912.2461939",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/1618452.1618476",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "author": "Brox T.",
+                "volume-title": "Proc. ECCV, Springer, 25--36"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1007/978-3-642-33783-3_44",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/2010324.1964984",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1023/B:VISI.0000022288.19776.77",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "author": "Funt B. V.",
+                "volume-title": "Proc. ECCV, Springer, 124--132"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1111/j.1467-8659.2012.03137.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "author": "Gehler P. V.",
+                "volume-title": "Proc. NIPS, 765"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "author": "Grundmann M.",
+                "volume-title": "Proc. CVPR, IEEE."
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1109/CVPR.2013.325",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "author": "Jiang X.",
+                "volume-title": "Proc. ECCV, Springer, 58--71"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/2366145.2366221",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1364/JOSA.61.000001",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/2185520.2185530",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1007/978-3-642-33783-3_24",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/1015706.1015780",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/1015706.1015719",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "author": "Li Y.",
+                "volume": "29",
+                "year": "2049",
+                "volume-title": "Computer Graphics Forum"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/1409060.1409105",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1007/978-3-642-33783-3_42",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1109/TPAMI.2004.86",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1109/3DIMPVT.2012.36",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1007/978-3-540-88688-4_34",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/882262.882269",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1109/CVPR.2011.5995738",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "first-page": "1",
+                "article-title": "Intrinsic image decomposition with non-local texture cues. In Proc. CVPR",
+                "volume": "0",
+                "author": "Shen L.",
+                "year": "2008",
+                "journal-title": "IEEE"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1109/CVPR.2011.5995507",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/1276377.1276504",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1109/TPAMI.2005.185",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "first-page": "68",
+                "article-title": "Deriving intrinsic images from image sequences. In Proc. ICCV",
+                "volume": "2",
+                "author": "Weiss Y.",
+                "year": "2001",
+                "journal-title": "IEEE"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/1618452.1618464",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1109/DICTA.2010.88",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1109/TIP.2005.864231",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1109/TPAMI.2012.77",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601135&amp;ftid=1488888&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:53:09Z",
+            "timestamp": 1586001189000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 37,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601135"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601135",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

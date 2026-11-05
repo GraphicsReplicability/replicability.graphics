@@ -1,0 +1,507 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2020-07-12T20:10:15Z",
+            "timestamp": 1594584615582
+        },
+        "reference-count": 64,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2019,
+                            7,
+                            12
+                        ]
+                    ],
+                    "date-time": "2019-07-12T00:00:00Z",
+                    "timestamp": 1562889600000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "DOI": "10.1145/3306346.3322937",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2019-07-12T19:04:08Z",
+            "timestamp": 1562958248000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 17,
+        "title": [
+            "Wave-based non-line-of-sight imaging using fast\n            f-k\n            migration"
+        ],
+        "prefix": "10.1145",
+        "volume": "38",
+        "author": [
+            {
+                "given": "David B.",
+                "family": "Lindell",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Gordon",
+                "family": "Wetzstein",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Matthew",
+                "family": "O'Toole",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Carnegie Mellon University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/2816795.2818072",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "Fadel Adib and Dina Katabi. 2013. See through walls with WiFi!. In ACM SIGCOMM. 10.1145/2486001.2486039   Fadel Adib and Dina Katabi. 2013. See through walls with WiFi!. In ACM SIGCOMM. 10.1145/2486001.2486039",
+                "DOI": "10.1145/2486001.2486039",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "unstructured": "Yoann Altmann Stephen McLaughlin Miles J. Padgett Vivek K. Goyal Alfred O. Hero and Daniele Faccio. 2018. Quantum-inspired computational imaging. Science 361 6403 (2018).  Yoann Altmann Stephen McLaughlin Miles J. Padgett Vivek K. Goyal Alfred O. Hero and Daniele Faccio. 2018. Quantum-inspired computational imaging. Science 361 6403 (2018).",
+                "DOI": "10.1126/science.aat2298",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1364/OE.25.011574",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1109/CVPR.2018.00656",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "unstructured": "Jacopo Bertolotti Elbert G. van Putten Christian Blum Ad Lagendijk Willem L. Vos and Allard P. Mosk. 2012. Non-invasive imaging through opaque scattering layers. Nature 491 7423 (2012) 232.  Jacopo Bertolotti Elbert G. van Putten Christian Blum Ad Lagendijk Willem L. Vos and Allard P. Mosk. 2012. Non-invasive imaging through opaque scattering layers. Nature 491 7423 (2012) 232.",
+                "DOI": "10.1038/nature11578",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "unstructured": "Jeremy Boger-Lombard and Ori Katz. 2018. Non line-of-sight localization by passive optical time-of-flight. arXiv preprint arXiv:1808.01000 (2018).  Jeremy Boger-Lombard and Ori Katz. 2018. Non line-of-sight localization by passive optical time-of-flight. arXiv preprint arXiv:1808.01000 (2018)."
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1109/ICCV.2017.249",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1364/OE.23.020997",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1109/7.78293",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "Hayden J. Callow. 2003. Signal processing for synthetic aperture sonar image enhancement. Ph.D. Dissertation. University of Canterbury.  Hayden J. Callow. 2003. Signal processing for synthetic aperture sonar image enhancement. Ph.D. Dissertation. University of Canterbury."
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1364/OE.25.010109",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1109/JOE.1984.1145627",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "James R Fienup. 1982. Phase retrieval algorithms: a comparison. Applied optics 21 15 (1982) 2758--2769.  James R Fienup. 1982. Phase retrieval algorithms: a comparison. Applied optics 21 15 (1982) 2758--2769.",
+                "DOI": "10.1364/AO.21.002758",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "unstructured": "Kae Yeet Foo. 2004. Incoherent processing of synthetic aperture sonar. Ph.D. Dissertation. University of Birmingham.  Kae Yeet Foo. 2004. Incoherent processing of synthetic aperture sonar. Ph.D. Dissertation. University of Birmingham."
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1109/TUFFC.2013.2771",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1038/nphoton.2015.234",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/2766928",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1364/OE.20.019096",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "Felix Heide Matthew O'Toole Kai Zhang David B. Lindell Steven Diamond and Gordon Wetzstein. 2019. Non-line-of-sight imaging with partial occluders and surface normals. ACM Trans. Graph. (2019). 10.1145/3269977   Felix Heide Matthew O'Toole Kai Zhang David B. Lindell Steven Diamond and Gordon Wetzstein. 2019. Non-line-of-sight imaging with partial occluders and surface normals. ACM Trans. Graph. (2019). 10.1145/3269977",
+                "DOI": "10.1145/3269977",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1109/CVPR.2014.418",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "unstructured": "Julian Iseringhausen and Matthias B. Hullin. 2018. Non-line-of-sight reconstruction using efficient transient rendering. arXiv preprint arXiv:1809.08044 (2018).  Julian Iseringhausen and Matthias B. Hullin. 2018. Non-line-of-sight reconstruction using efficient transient rendering. arXiv preprint arXiv:1809.08044 (2018)."
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/2185520.2185554",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/2661229.2661251",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1016/j.visinf.2017.01.008",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1111/cgf.12604",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/2836164",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1038/nphoton.2014.189",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1109/ICCV.2009.5459160",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "author": "Klein Jonathan",
+                "volume-title": "Proc. BMVC."
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1038/srep32491",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "unstructured": "Marco La Manna Fiona Kine Eric Breitbach Jonathan Jackson Talha Sultan and Andreas Velten. 2018. Error backprojection algorithms for non-line-of-sight imaging. IEEE Trans. Pattern Anal. Mach. Intell. (2018).  Marco La Manna Fiona Kine Eric Breitbach Jonathan Jackson Talha Sultan and Andreas Velten. 2018. Error backprojection algorithms for non-line-of-sight imaging. IEEE Trans. Pattern Anal. Mach. Intell. (2018).",
+                "DOI": "10.1109/TPAMI.2018.2843363",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1109/ICCPHOT.2018.8368466",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1109/CVPR.2019.00694",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1109/CVPR.2019.01038",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "unstructured": "Xiaochun Liu Ib\u00f3n Guill\u00e9n Marco La Manna Ji Hyun Nam Syed Azer Reza Toan Huu Le Diego Gutierrez Adrian Jarabo and Andreas Velten. 2018. Virtual wave optics for non-line-of-sight imaging. arXiv preprint arXiv:1810.07535 (2018).  Xiaochun Liu Ib\u00f3n Guill\u00e9n Marco La Manna Ji Hyun Nam Syed Azer Reza Toan Huu Le Diego Gutierrez Adrian Jarabo and Andreas Velten. 2018. Virtual wave optics for non-line-of-sight imaging. arXiv preprint arXiv:1810.07535 (2018)."
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "unstructured": "Julio Marco Ib\u00f3n Guill\u00e9n Wojciech Jarosz Diego Gutierrez and Adrian Jarabo. 2019. Progressive transient photon beams. Computer Graphics Forum 38 1 (2019).  Julio Marco Ib\u00f3n Guill\u00e9n Wojciech Jarosz Diego Gutierrez and Adrian Jarabo. 2019. Progressive transient photon beams. Computer Graphics Forum 38 1 (2019).",
+                "DOI": "10.1111/cgf.13600",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "unstructured": "Gary F. Margrave and Michael P. Lamoureux. 2018. Numerical Methods of Exploration Seismology: With Algorithms in MATLAB\u00ae. Cambridge University Press.  Gary F. Margrave and Michael P. Lamoureux. 2018. Numerical Methods of Exploration Seismology: With Algorithms in MATLAB\u00ae. Cambridge University Press.",
+                "DOI": "10.1017/9781316756041",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "unstructured": "Nikhil Naik Shuang Zhao Andreas Velten Ramesh Raskar and Kavita Bala. 2011. Single view reflectance capture using multiplexed scattering and time-of-flight imaging. 30 6 (2011) 171. 10.1145/2070781.2024205   Nikhil Naik Shuang Zhao Andreas Velten Ramesh Raskar and Kavita Bala. 2011. Single view reflectance capture using multiplexed scattering and time-of-flight imaging. 30 6 (2011) 171. 10.1145/2070781.2024205",
+                "DOI": "10.1145/2070781.2024205",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1121/1.383964",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1109/CVPR.2017.246",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "unstructured": "Matthew O'Toole David B. Lindell and Gordon Wetzstein. 2018a. Confocal non-line-of-sight imaging based on the light-cone transform. Nature 555 7696 (2018) 338.  Matthew O'Toole David B. Lindell and Gordon Wetzstein. 2018a. Confocal non-line-of-sight imaging based on the light-cone transform. Nature 555 7696 (2018) 338."
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "unstructured": "Matthew O'Toole David B. Lindell and Gordon Wetzstein. 2018b. Real-time non-line-of-sight imaging. In ACM SIGGRAPH Emerging Technologies. 10.1145/3214907.3214920   Matthew O'Toole David B. Lindell and Gordon Wetzstein. 2018b. Real-time non-line-of-sight imaging. In ACM SIGGRAPH Emerging Technologies. 10.1145/3214907.3214920",
+                "DOI": "10.1145/3214907.3214920",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1109/ICCPHOT.2017.7951478",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1109/ICASSP.2017.7953355",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1002/jcc.20084",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "unstructured": "Matt Pharr Wenzel Jakob and Greg Humphreys. 2016. Physically based rendering: From theory to implementation. Morgan Kaufmann.   Matt Pharr Wenzel Jakob and Greg Humphreys. 2016. Physically based rendering: From theory to implementation. Morgan Kaufmann."
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "unstructured": "Albert Redo-Sanchez Barmak Heshmat Alireza Aghasi Salman Naqvi Mingjie Zhang Justin Romberg and Ramesh Raskar. 2016. Terahertz time-gated spectral imaging for content extraction through layered structures. Nature communications 7 (2016) 12665.  Albert Redo-Sanchez Barmak Heshmat Alireza Aghasi Salman Naqvi Mingjie Zhang Justin Romberg and Ramesh Raskar. 2016. Terahertz time-gated spectral imaging for content extraction through layered structures. Nature communications 7 (2016) 12665.",
+                "DOI": "10.1038/ncomms12665",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "unstructured": "Syed Azer Reza Marco La Manna and Andreas Velten. 2018a. Imaging with phasor fields for non-line-of sight applications. In Computational Optical Sensing and Imaging.  Syed Azer Reza Marco La Manna and Andreas Velten. 2018a. Imaging with phasor fields for non-line-of sight applications. In Computational Optical Sensing and Imaging."
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "unstructured": "Syed Azer Reza Marco La Manna and Andreas Velten. 2018b. A physical light transport model for non-line-of-sight imaging applications. arXiv preprint arXiv:1802.01823 (2018).  Syed Azer Reza Marco La Manna and Andreas Velten. 2018b. A physical light transport model for non-line-of-sight imaging applications. arXiv preprint arXiv:1802.01823 (2018)."
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "unstructured": "Charles Saunders John Murray-Bruce and Vivek K Goyal. 2019. Computational periscopy with an ordinary digital camera. Nature 565 7740 (2019) 472.  Charles Saunders John Murray-Bruce and Vivek K Goyal. 2019. Computational periscopy with an ordinary digital camera. Nature 565 7740 (2019) 472.",
+                "DOI": "10.1038/s41586-018-0868-6",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "DOI": "10.1109/AUV.1992.225217",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "DOI": "10.1109/CVPR.2018.00655",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "DOI": "10.1190/1.1440826",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_55_1",
+                "DOI": "10.1109/TCI.2018.2829599",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_56_1",
+                "author": "Torralba Antonio",
+                "volume-title": "Proc. CVPR."
+            },
+            {
+                "key": "e_1_2_2_57_1",
+                "author": "Tsai Chia-Yin",
+                "volume-title": "Proc. CVPR."
+            },
+            {
+                "key": "e_1_2_2_58_1",
+                "DOI": "10.1109/CVPR.2019.00164",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_59_1",
+                "unstructured": "Andreas Velten Thomas Willwacher Otkrist Gupta Ashok Veeraraghavan Moungi G. Bawendi and Ramesh Raskar. 2012. Recovering three-dimensional shape around a corner using ultrafast time-of-flight imaging. Nature communications 3 (2012) 745.  Andreas Velten Thomas Willwacher Otkrist Gupta Ashok Veeraraghavan Moungi G. Bawendi and Ramesh Raskar. 2012. Recovering three-dimensional shape around a corner using ultrafast time-of-flight imaging. Nature communications 3 (2012) 745.",
+                "DOI": "10.1038/ncomms1747",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_60_1",
+                "DOI": "10.1145/2461912.2461928",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_61_1",
+                "DOI": "10.1109/CVPR.2019.00696",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_62_1",
+                "unstructured": "Feihu Xu Gal Shulkind Christos Thrampoulidis Jeffrey H Shapiro Antonio Torralba Franco NC Wong and Gregory W Wornell. 2018. Revealing hidden scenes by photon-efficient occlusion-based opportunistic active imaging. Optics express 26 8 (2018) 9945--9962.  Feihu Xu Gal Shulkind Christos Thrampoulidis Jeffrey H Shapiro Antonio Torralba Franco NC Wong and Gregory W Wornell. 2018. Revealing hidden scenes by photon-efficient occlusion-based opportunistic active imaging. Optics express 26 8 (2018) 9945--9962.",
+                "DOI": "10.1364/OE.26.009945",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_63_1",
+                "unstructured": "\u00d6z Yilmaz. 2001. Seismic data analysis: Processing inversion and interpretation of seismic data. Society of Exploration Geophysicists.  \u00d6z Yilmaz. 2001. Seismic data analysis: Processing inversion and interpretation of seismic data. Society of Exploration Geophysicists.",
+                "DOI": "10.1190/1.9781560801580",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_64_1",
+                "DOI": "10.1109/CVPR.2018.00768",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3322937&ftid=2071722&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2020-07-12T19:29:48Z",
+            "timestamp": 1594582188000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "references-count": 64,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        12
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3306346.3322937"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3306346.3322937",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

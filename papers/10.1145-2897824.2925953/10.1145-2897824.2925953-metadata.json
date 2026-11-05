@@ -1,0 +1,674 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    5
+                ]
+            ],
+            "date-time": "2020-04-05T13:23:58Z",
+            "timestamp": 1586093038869
+        },
+        "reference-count": 86,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925953",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-19",
+        "source": "Crossref",
+        "is-referenced-by-count": 142,
+        "title": [
+            "Soli"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Jaime",
+                "family": "Lien",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Google ATAP"
+                    }
+                ]
+            },
+            {
+                "given": "Nicholas",
+                "family": "Gillian",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Google ATAP"
+                    }
+                ]
+            },
+            {
+                "given": "M. Emre",
+                "family": "Karagozler",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Google ATAP"
+                    }
+                ]
+            },
+            {
+                "given": "Patrick",
+                "family": "Amihood",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Google ATAP"
+                    }
+                ]
+            },
+            {
+                "given": "Carsten",
+                "family": "Schwesig",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Google ATAP"
+                    }
+                ]
+            },
+            {
+                "given": "Erik",
+                "family": "Olson",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Google ATAP"
+                    }
+                ]
+            },
+            {
+                "given": "Hakim",
+                "family": "Raja",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Google ATAP"
+                    }
+                ]
+            },
+            {
+                "given": "Ivan",
+                "family": "Poupyrev",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Google ATAP"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1109/TGRS.2004.834589",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "Azevedo S. and McEwan T. 1996. Micropower impulse radar. Science and Technology Review 17--29.  Azevedo S. and McEwan T. 1996. Micropower impulse radar. Science and Technology Review 17--29."
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1109/85.601730",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1109/5.104223",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "author": "Benezeth Y.",
+                "year": "2008",
+                "volume-title": "ICPR"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "unstructured": "Bishop C. M. 2006. Pattern recognition. Machine Learning.   Bishop C. M. 2006. Pattern recognition. Machine Learning."
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/800250.807503",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1023/A:1010933404324",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1038/scientificamerican0285-94",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "Brown L. 1999. A Radar History of World War II: Technical and Military Imperatives. Institute of Physics Publishing.  Brown L. 1999. A Radar History of World War II: Technical and Military Imperatives . Institute of Physics Publishing.",
+                "DOI": "10.1201/9781420050660",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "author": "Brunnbauer M.",
+                "year": "2008",
+                "volume-title": "IEMT"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "unstructured": "Card S. Moran T. and Newell A. 1983. The Psychology of Human-Computer Interaction. L. Erlbaum Associates.   Card S. Moran T. and Newell A. 1983. The Psychology of Human-Computer Interaction. L. Erlbaum Associates."
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/2702123.2702464",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Comscore Inc. 2014. The US mobile app report. Tech. rep.  Comscore Inc. 2014. The US mobile app report. Tech. rep."
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/260750.260774",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1109/TIM.2011.2161140",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "author": "Dietz P.",
+                "volume-title": "Diamond Touch. In UIST '01"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "author": "Dorfmuller-Ulhaas K.",
+                "year": "2001",
+                "volume-title": "ISMAR"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "author": "Duffner S.",
+                "year": "2014",
+                "volume-title": "ICASSP"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "FCC 2016. FCC online table of frequency allocations.  FCC 2016. FCC online table of frequency allocations."
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "first-page": "1",
+                "article-title": "Millimeter-wave propagation channel characterization for short-range wireless communications",
+                "volume": "58",
+                "author": "Geng S.",
+                "year": "2009",
+                "journal-title": "IEEE Transactions on Vehicular Technology"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "author": "Gillian N.",
+                "year": "2011",
+                "volume-title": "Proceedings of the 2011 International Conference on New Interfaces for Musical Expression (NIME 11)"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "Gillian N. 2011. Gesture Recognition for Musician Computer Interaction. PhD thesis School of Music and Sonic Arts Queen's University Belfast.  Gillian N. 2011. Gesture Recognition for Musician Computer Interaction. PhD thesis School of Music and Sonic Arts Queen's University Belfast."
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/2047196.2047233",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "author": "Guyon I.",
+                "year": "2003",
+                "article-title": "An introduction to variable and feature selection",
+                "journal-title": "The Journal of Machine Learning Research 3."
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1109/MWC.2011.6108325",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/1753326.1753394",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/1409240.1409250",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/1978942.1979060",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1109/62.715515",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1109/TPAMI.2012.59",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1016/j.patcog.2007.11.016",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1364/JOSA.52.000116",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "author": "Kellogg B.",
+                "volume-title": "11th USENIX Symposium on Networked Systems Design and Implementation (NSDI 14)"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "unstructured": "Keskin C. Kira\u00e7 F. Kara Y. E. and Akarun L. 2013. Real time hand pose estimation using depth sensors. In Consumer Depth Cameras for Computer Vision. Springer 119--137.  Keskin C. Kira\u00e7 F. Kara Y. E. and Akarun L. 2013. Real time hand pose estimation using depth sensors. In Consumer Depth Cameras for Computer Vision. Springer 119--137.",
+                "DOI": "10.1007/978-1-4471-4640-7_7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.3390/s120201437",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/2380116.2380139",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "unstructured": "Knott E. F. 2012. Radar Cross Section Measurements. Springer Science & Business Media.  Knott E. F. 2012. Radar Cross Section Measurements. Springer Science & Business Media."
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "author": "Kurakin A.",
+                "volume-title": "2012 Proceedings of the 20th European Signal Processing Conference (EUSIPCO)"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1145/317456.317461",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1049/ip-rsn:20000734",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "unstructured": "LoPresti L. LaCascia M. Sclaroff S. and \n      \n      \n      Camps O\n      \n  \n  . \n  2015\n  . Gesture modeling by Hanklet-based hidden Markov model. In Computer Vision -- ACCV 2014 D. Cremers I. Reid H. Saito and M.-H. Yang Eds. vol. \n  9005\n   of \n  Lecture Notes in Computer Science\n  . \n  Springer International Publishing 529--546.  LoPresti L. LaCascia M. Sclaroff S. and Camps O. 2015. Gesture modeling by Hanklet-based hidden Markov model. In Computer Vision -- ACCV 2014 D. Cremers I. Reid H. Saito and M.-H. Yang Eds. vol. 9005 of Lecture Notes in Computer Science. Springer International Publishing 529--546.",
+                "DOI": "10.1007/978-3-319-16811-1_35",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1145/2632048.2632095",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "author": "Molchanov P.",
+                "volume-title": "Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops, 1--7."
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "author": "Molchanov P.",
+                "volume-title": "IEEE Conference on Automatic Face and Gesture Recognition."
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "author": "Molchanov P.",
+                "year": "2015",
+                "volume-title": "IEEE Radar Conference (RadarCon"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "author": "Nasr I.",
+                "year": "2015",
+                "volume-title": "IEEE CSICS"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "unstructured": "Nasr I. Jungmaier R. Baheti A. Noppeney D. Bal J. S. Wojnowski M. Karagozler E. Raja H. Lien J. Poupyrev I. and Trotta S. 2016. A highly integrated 60 GHz 6-channel transceiver with antenna in package for smart sensing and short range communications. submitted to IEEE Journal of Solid State Circuits.  Nasr I. Jungmaier R. Baheti A. Noppeney D. Bal J. S. Wojnowski M. Karagozler E. Raja H. Lien J. Poupyrev I. and Trotta S. 2016. A highly integrated 60 GHz 6-channel transceiver with antenna in package for smart sensing and short range communications. submitted to IEEE Journal of Solid State Circuits.",
+                "DOI": "10.1109/JSSC.2016.2585621",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "unstructured": "Nathanson F. E. Reilly J. P. and Cohen M. N. 1991. Radar Design Principles -- Signal Processing and the Environment vol. 91.  Nathanson F. E. Reilly J. P. and Cohen M. N. 1991. Radar Design Principles -- Signal Processing and the Environment vol. 91."
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "unstructured": "Novelda. Novelda Xethru NVA620x IC.  Novelda. Novelda Xethru NVA620x IC."
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "DOI": "10.1117/12.607176",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "DOI": "10.1145/1120212.1120391",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "DOI": "10.1076/jnmr.28.2.130.3119",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "DOI": "10.2528/PIER10071901",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_55_1",
+                "DOI": "10.1109/8.467641",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_56_1",
+                "DOI": "10.1145/2500423.2500436",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_57_1",
+                "DOI": "10.1145/2750858.2804280",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_58_1",
+                "author": "Ralston T. S.",
+                "volume-title": "IEEE International Symposium on Phased Array Systems and Technology (ARRAY), IEEE."
+            },
+            {
+                "key": "e_1_2_2_59_1",
+                "DOI": "10.5555/580581.856565",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_60_1",
+                "unstructured": "Richards M. A. Scheer J. Holm W. A. etal 2010. Principles of modern radar: basic principles. SciTech Pub.  Richards M. A. Scheer J. Holm W. A. et al. 2010. Principles of modern radar: basic principles . SciTech Pub.",
+                "DOI": "10.1049/SBRA021E",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_61_1",
+                "DOI": "10.1016/j.imavis.2013.04.002",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_62_1",
+                "DOI": "10.1145/1047671.1047702",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_63_1",
+                "DOI": "10.1145/1622176.1622208",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_64_1",
+                "DOI": "10.1145/2702123.2702179",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_65_1",
+                "DOI": "10.1145/2398356.2398381",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_66_1",
+                "DOI": "10.1109/MCG.1986.276770",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_67_1",
+                "unstructured": "Skolnik M. I. 1962. Introduction to radar. Radar Handbook 2.  Skolnik M. I. 1962. Introduction to radar. Radar Handbook 2."
+            },
+            {
+                "key": "e_1_2_2_68_1",
+                "DOI": "10.1109/74.207649",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_69_1",
+                "DOI": "10.1109/38.674972",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_70_1",
+                "DOI": "10.1109/35.978061",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_71_1",
+                "DOI": "10.1145/2642918.2647373",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_72_1",
+                "author": "Storcheus D.",
+                "volume-title": "Proceedings of the 1st International Workshop on Feature Extraction: Modern Questions and Challenges, NIPS, 1--18"
+            },
+            {
+                "key": "e_1_2_2_73_1",
+                "DOI": "10.1049/ip-f-2.1992.0048",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_74_1",
+                "DOI": "10.1145/286498.286719",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_75_1",
+                "DOI": "10.1145/1461551.1461591",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_76_1",
+                "author": "Wan Q.",
+                "year": "2014",
+                "volume-title": "36th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC"
+            },
+            {
+                "key": "e_1_2_2_77_1",
+                "author": "Wang Y.",
+                "volume-title": "AP-S International Symposium (Digest), 2103--2106"
+            },
+            {
+                "key": "e_1_2_2_78_1",
+                "DOI": "10.1145/1576246.1531369",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_79_1",
+                "unstructured": "Watson-Watt R. 1945. Radar in war and in peace. Nature 155 3935 319--324.  Watson-Watt R. 1945. Radar in war and in peace. Nature 155 3935 319--324.",
+                "DOI": "10.1038/156319a0",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_80_1",
+                "DOI": "10.1145/2789168.2790113",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_81_1",
+                "DOI": "10.3390/s130506380",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_82_1",
+                "DOI": "10.1145/2702123.2702391",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_83_1",
+                "author": "Wu J.",
+                "year": "2013",
+                "volume-title": "ICASSP"
+            },
+            {
+                "key": "e_1_2_2_84_1",
+                "DOI": "10.1145/2370216.2370269",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_85_1",
+                "DOI": "10.1145/238386.238534",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_86_1",
+                "DOI": "10.1109/BSN.2015.7299364",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925953&amp;ftid=1755915&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:29:11Z",
+            "timestamp": 1585963751000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "ubiquitous gesture sensing with millimeter wave radar"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 86,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925953"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925953",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

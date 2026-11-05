@@ -1,0 +1,332 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:41:08Z",
+            "timestamp": 1586004068159
+        },
+        "reference-count": 26,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100000781",
+                "name": "European Research Council",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "257453"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601200",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 45,
+        "title": [
+            "High-contrast computational caustic design"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Yuliy",
+                "family": "Schwartzburg",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "EPFL"
+                    }
+                ]
+            },
+            {
+                "given": "Romain",
+                "family": "Testuz",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "EPFL"
+                    }
+                ]
+            },
+            {
+                "given": "Andrea",
+                "family": "Tagliasacchi",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "EPFL"
+                    }
+                ]
+            },
+            {
+                "given": "Mark",
+                "family": "Pauly",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "EPFL"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "Agarwal S. Mierle K. and Others 2013. Ceres solver. https://code.google.com/p/ceres-solver/.  Agarwal S. Mierle K. and Others 2013. Ceres solver. https://code.google.com/p/ceres-solver/."
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1007/PL00009187",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "unstructured": "Bogachev V. I. 2006. Measure theory. Springer.  Bogachev V. I. 2006. Measure theory . Springer.",
+                "DOI": "10.1007/978-3-540-34514-5",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "Botsch M. Kobbelt L. Pauly M. Alliez P. and L\u00e9vy B. 2010. Polygon Mesh Processing. Ak Peters Series. A K Peters.  Botsch M. Kobbelt L. Pauly M. Alliez P. and L\u00e9vy B. 2010. Polygon Mesh Processing . Ak Peters Series. A K Peters.",
+                "DOI": "10.1201/b10688",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "Chodosh O. Jain V. Lindsey M. Panchev L. and Rubinstein Y. A. 2013. On discontinuity of planar optimal transport maps. arXiv/1312.2929.  Chodosh O. Jain V. Lindsey M. Panchev L. and Rubinstein Y. A. 2013. On discontinuity of planar optimal transport maps. arXiv/1312.2929 ."
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/2366145.2366190",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "unstructured": "De Philippis G. and Figalli A. 2013. The Monge-Amp\u00e8re equation and its link to optimal transportation. arXiv preprint arXiv:1310.6167.  De Philippis G. and Figalli A. 2013. The Monge-Amp\u00e8re equation and its link to optimal transportation. arXiv preprint arXiv:1310.6167 .",
+                "DOI": "10.1007/978-88-7642-458-8_2",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "Fang F. Zhang X. Weckenmann A. Zhang G. and Evans C. 2013. Manufacturing and measurement of freeform optics. {CIRP} Annals - Manufacturing Technology 62 2.  Fang F. Zhang X. Weckenmann A. Zhang G. and Evans C. 2013. Manufacturing and measurement of freeform optics. { CIRP } Annals - Manufacturing Technology 62 2.",
+                "DOI": "10.1016/j.cirp.2013.05.003",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "Finckh M. Dammertz H. and Lensch H. P. 2010. Geometry construction from caustic images. In Computer Vision--ECCV 2010. Springer 464--477.   Finckh M. Dammertz H. and Lensch H. P. 2010. Geometry construction from caustic images. In Computer Vision--ECCV 2010 . Springer 464--477.",
+                "DOI": "10.1007/978-3-642-15555-0_34",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1023/A:1024856201493",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "Hullin M. B. Ihrke I. Heidrich W. Weyrich T. Damberg G. and Fuchs M. 2013. Computational fabrication and display of material appearance. In Eurographics State-of-the-Art Report.  Hullin M. B. Ihrke I. Heidrich W. Weyrich T. Damberg G. and Fuchs M. 2013. Computational fabrication and display of material appearance. In Eurographics State-of-the-Art Report ."
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "unstructured": "Kiser T. and Pauly M. 2012. Caustic art. Tech. rep. EPFL.  Kiser T. and Pauly M. 2012. Caustic art. Tech. rep. EPFL."
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "Kiser T. Eigensatz M. Nguyen M. M. Bompas P. and Pauly M. 2012. Architectural caustics - controlling light with geometry. In Advances in Architectural Geometry Springer.  Kiser T. Eigensatz M. Nguyen M. M. Bompas P. and Pauly M. 2012. Architectural caustics - controlling light with geometry. In Advances in Architectural Geometry Springer.",
+                "DOI": "10.1007/978-3-7091-1251-9_7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/2461912.2461981",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "unstructured": "Liu D. C. and Nocedal J. 1989. On the limited memory bfgs method for large scale optimization. Mathematical programming 45 1--3 503--528. 10.1007/BF01589116   Liu D. C. and Nocedal J. 1989. On the limited memory bfgs method for large scale optimization. Mathematical programming 45 1--3 503--528. 10.1007/BF01589116",
+                "DOI": "10.1007/BF01589116",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "author": "M\u00e9rigot Q.",
+                "volume-title": "Computer Graphics Forum"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1111/j.1467-8659.2011.01876.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "author": "Patow G.",
+                "volume": "24",
+                "volume-title": "Computer Graphics Forum"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "unstructured": "Pauly M. Eigensatz M. Bompas P. Rist F. and Krenmuller R. 2013. Controlling caustics. Glass Performance Days.  Pauly M. Eigensatz M. Bompas P. Rist F. and Krenmuller R. 2013. Controlling caustics. Glass Performance Days ."
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "Sibson R. 1981. A brief description of natural neighbour interpolation. Interpreting multivariate data 21.  Sibson R. 1981. A brief description of natural neighbour interpolation. Interpreting multivariate data 21 ."
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "Villani C. 2009. Optimal transport: old and new. Springer Verlag.  Villani C. 2009. Optimal transport: old and new . Springer Verlag.",
+                "DOI": "10.1007/978-3-540-71050-9",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/1531326.1531338",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1111/j.1467-8659.2012.03036.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/2580946",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "unstructured": "Yvinec M. 2013. 2D triangulations. In CGAL User and Reference Manual 4.3 ed. CGAL Editorial Board.  Yvinec M. 2013. 2D triangulations. In CGAL User and Reference Manual 4.3 ed. CGAL Editorial Board."
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "unstructured": "Zhang Z. and Zheng X. 2012. The representation of line Dirac delta function along a space curve. arXiv preprint arXiv:1209.3221 (Sept.).  Zhang Z. and Zheng X. 2012. The representation of line Dirac delta function along a space curve. arXiv preprint arXiv:1209.3221 (Sept.)."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601200&amp;ftid=1488882&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:00:18Z",
+            "timestamp": 1586001618000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 26,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601200"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601200",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

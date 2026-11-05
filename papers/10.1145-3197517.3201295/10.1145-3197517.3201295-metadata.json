@@ -1,0 +1,391 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:53Z",
+            "timestamp": 1585962713263
+        },
+        "reference-count": 32,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201295",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 4,
+        "title": [
+            "Object-aware guidance for autonomous scene reconstruction"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Ligang",
+                "family": "Liu",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of Science and Technology of China"
+                    }
+                ]
+            },
+            {
+                "given": "Xi",
+                "family": "Xia",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Science and Technology of China"
+                    }
+                ]
+            },
+            {
+                "given": "Han",
+                "family": "Sun",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Science and Technology of China"
+                    }
+                ]
+            },
+            {
+                "given": "Qi",
+                "family": "Shen",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Science and Technology of China"
+                    }
+                ]
+            },
+            {
+                "given": "Juzhan",
+                "family": "Xu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shenzhen University"
+                    }
+                ]
+            },
+            {
+                "given": "Bin",
+                "family": "Chen",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shenzhen University"
+                    }
+                ]
+            },
+            {
+                "given": "Hui",
+                "family": "Huang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shenzhen University"
+                    }
+                ]
+            },
+            {
+                "given": "Kai",
+                "family": "Xu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shenzhen University and National University of Defense Technology"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "author": "Agarwal Sameer",
+                "year": "2010",
+                "volume-title": "Bundle Adjustment in the Large. In European Conference on Computer Vision. 29--42"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "Bogdan Alexe Thomas Deselaers and Vittorio Ferrari. 2012. Measuring the objectness of image windows. IEEE transactions on pattern analysis and machine intelligence 34 11 (2012) 2189--2202. 10.1109/TPAMI.2012.28   Bogdan Alexe Thomas Deselaers and Vittorio Ferrari. 2012. Measuring the objectness of image windows. IEEE transactions on pattern analysis and machine intelligence 34 11 (2012) 2189--2202. 10.1109/TPAMI.2012.28"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "unstructured": "Iro Armeni Sasha Sax Amir R Zamir and Silvio Savarese. 2017. Joint 2D-3D-Semantic Data for Indoor Scene Understanding. arXiv preprint arXiv:1702.01105 (2017).  Iro Armeni Sasha Sax Amir R Zamir and Silvio Savarese. 2017. Joint 2D-3D-Semantic Data for Indoor Scene Understanding. arXiv preprint arXiv:1702.01105 (2017)."
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.15607/RSS.2015.XI.003",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/1531326.1531379",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "author": "Choi Sungjoon",
+                "year": "2015",
+                "volume-title": "Proc. CVPR. 5556--5565"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "author": "Dai Angela",
+                "year": "2017",
+                "volume-title": "Scannet: Richly-annotated 3d reconstructions of indoor scenes. arXiv preprint arXiv:1702.04405"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "author": "Engelhard Nikolas",
+                "year": "2011",
+                "volume-title": "Proc. of the RGB-D Workshop on 3D Perception in Robotics at the European Robotics Forum"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/2980179.2980225",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/2366145.2366154",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "Gazebo. 2013. The Gazebo Project http://wiki.ros.org/gazebo. (2013).  Gazebo. 2013. The Gazebo Project http://wiki.ros.org/gazebo. (2013)."
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1007/s10514-012-9321-0",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "author": "Krainin M",
+                "year": "2012",
+                "volume-title": "IEEE International Conference on Robotics and Automation. 5031--5037"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1109/IROS.2012.6385624",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1109/TIT.1982.1056489",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "author": "Low Kok-Lim",
+                "year": "2006",
+                "volume-title": "Proceedings of 14th Pacific Conference on Computer Graphics and Applications (Pacific Graphics"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/2366145.2366156",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1109/ISMAR.2011.6092378",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "unstructured": "Charles R Qi Li Yi Hao Su and Leonidas J Guibas. 2017. PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space. arXiv preprint arXiv:1706.02413 (2017).  Charles R Qi Li Yi Hao Su and Leonidas J Guibas. 2017. PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space. arXiv preprint arXiv:1706.02413 (2017)."
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "Manikandasriram Srinivasan Ramanagopal and Jerome Le Ny. 2016. Motion Planning Strategies for Autonomously Mapping 3D Structures. arXiv preprint arXiv:1602.06667 (2016).  Manikandasriram Srinivasan Ramanagopal and Jerome Le Ny. 2016. Motion Planning Strategies for Autonomously Mapping 3D Structures. arXiv preprint arXiv:1602.06667 (2016)."
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "Renato F. Salas-Moreno Richard A. Newcombe Hauke Strasdat Paul H. J. Kelly and Andrew J. Davison. 2012. SLAM++: Simultaneous Localisation and Mapping at the Level of Objects. In CVPR. 1352--1359. 10.1109/CVPR.2013.178   Renato F. Salas-Moreno Richard A. Newcombe Hauke Strasdat Paul H. J. Kelly and Andrew J. Davison. 2012. SLAM++: Simultaneous Localisation and Mapping at the Level of Objects. In CVPR. 1352--1359. 10.1109/CVPR.2013.178"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1109/CVPR.2017.28",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1109/IROS.2015.7354011",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "Sebastian Thrun. 2002. Robotic mapping: a survey. Morgan Kaufmann Publishers Inc. 2002 pages.  Sebastian Thrun. 2002. Robotic mapping: a survey. Morgan Kaufmann Publishers Inc. 2002 pages."
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/2751556",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.15607/RSS.2015.XI.001",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/2661229.2661242",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/2816795.2818075",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/2980179.2980224",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/3130800.3130812",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "unstructured": "Andy Zeng Shuran Song Matthias Nie\u00dfner Matthew Fisher Jianxiong Xiao and Thomas Funkhouser. 2016. 3DMatch: Learning Local Geometric Descriptors from RGB-D Reconstructions. arXiv preprint arXiv:1603.08182 (2016).  Andy Zeng Shuran Song Matthias Nie\u00dfner Matthew Fisher Jianxiong Xiao and Thomas Funkhouser. 2016. 3DMatch: Learning Local Geometric Descriptors from RGB-D Reconstructions. arXiv preprint arXiv:1603.08182 (2016).",
+                "DOI": "10.1109/CVPR.2017.29",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/2768821",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201295&ftid=1991783&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:51:57Z",
+            "timestamp": 1585961517000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 32,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201295"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201295",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

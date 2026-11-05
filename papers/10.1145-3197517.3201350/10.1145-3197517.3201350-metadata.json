@@ -1,0 +1,566 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:55Z",
+            "timestamp": 1585962715723
+        },
+        "reference-count": 73,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201350",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 8,
+        "title": [
+            "Headon"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Justus",
+                "family": "Thies",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Technical University of Munich"
+                    }
+                ]
+            },
+            {
+                "given": "Michael",
+                "family": "Zollh\u00f6fer",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Christian",
+                "family": "Theobalt",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Max-Planck-Institute for Informatics"
+                    }
+                ]
+            },
+            {
+                "given": "Marc",
+                "family": "Stamminger",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Erlangen-Nuremberg"
+                    }
+                ]
+            },
+            {
+                "given": "Matthias",
+                "family": "Niessner",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Technical University of Munich"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/1667239.1667251",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "Hadar Averbuch-Elor Daniel Cohen-Or Johannes Kopf and Michael F. Cohen. 2017. Bringing Portraits to Life. ACM Transactions on Graphics (Proceeding of SIGGRAPH Asia 2017) 36 4 (2017) to appear. 10.1145/3130800.3130818   Hadar Averbuch-Elor Daniel Cohen-Or Johannes Kopf and Michael F. Cohen. 2017. Bringing Portraits to Life. ACM Transactions on Graphics (Proceeding of SIGGRAPH Asia 2017) 36 4 (2017) to appear. 10.1145/3130800.3130818"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1109/34.121791",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1111/1467-8659.t01-1-00712",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "Volker Blanz and Thomas Vetter. 1999. A Morphable Model for the Synthesis of 3D Faces. In ACM TOG. 187--194. 10.1145/311535.311556   Volker Blanz and Thomas Vetter. 1999. A Morphable Model for the Synthesis of 3D Faces. In ACM TOG. 187--194. 10.1145/311535.311556"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "author": "Booth J.",
+                "volume-title": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR)."
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "unstructured": "Sofien Bouaziz Yangang Wang and Mark Pauly. 2013. Online Modeling for Realtime Facial Animation. ACM TOG 32 4 Article 40 (2013) 10 pages. 10.1145/2461912.2461976   Sofien Bouaziz Yangang Wang and Mark Pauly. 2013. Online Modeling for Realtime Facial Animation. ACM TOG 32 4 Article 40 (2013) 10 pages. 10.1145/2461912.2461976"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "Chen Cao Derek Bradley Kun Zhou and Thabo Beeler. 2015. Real-time High-fidelity Facial Performance Capture. ACM TOG 34 4 Article 46 (2015) 9 pages. 10.1145/2766943   Chen Cao Derek Bradley Kun Zhou and Thabo Beeler. 2015. Real-time High-fidelity Facial Performance Capture. ACM TOG 34 4 Article 46 (2015) 9 pages. 10.1145/2766943"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/2601097.2601204",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/2461912.2462012",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1109/TVCG.2013.249",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/2897824.2925873",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "author": "Xiao Jing",
+                "year": "2003",
+                "volume-title": "Proc. SCA. 193--206"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1016/0262-8856(92)90066-C",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1109/ICCV.2013.449",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "author": "Chuang E.",
+                "year": "2002",
+                "volume-title": "Technical Report CS-TR-2002--02. Stanford University."
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1109/34.927467",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/237170.237269",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/3054739",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/2070781.2024164",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/2638549",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "unstructured": "Yaroslav Ganin Daniil Kononenko Diana Sungatullina and Victor S. Lempitsky. 2016. DeepWarp: Photorealistic Image Resynthesis for Gaze Manipulation. In ECCV.  Yaroslav Ganin Daniil Kononenko Diana Sungatullina and Victor S. Lempitsky. 2016. DeepWarp: Photorealistic Image Resynthesis for Gaze Manipulation. In ECCV.",
+                "DOI": "10.1007/978-3-319-46475-6_20",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1109/CVPR.2014.537",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "Pablo Garrido Levi Valgaerts Hamid Sarmadi Ingmar Steiner Kiran Varanasi Patrick Perez and Christian Theobalt. 2015. VDub - Modifying Face Video of Actors for Plausible Visual Alignment to a Dubbed Audio Track. In CGF (Proc. EUROGRAPHICS). 10.1111/cgf.12552   Pablo Garrido Levi Valgaerts Hamid Sarmadi Ingmar Steiner Kiran Varanasi Patrick Perez and Christian Theobalt. 2015. VDub - Modifying Face Video of Actors for Plausible Visual Alignment to a Dubbed Audio Track. In CGF (Proc. EUROGRAPHICS). 10.1111/cgf.12552",
+                "DOI": "10.1111/cgf.12552",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/2508363.2508380",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/2890493",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/237170.237200",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1109/CVPR.2015.7298776",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/3130800.31310887",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "unstructured": "Alexandru Eugen Ichim Sofien Bouaziz and Mark Pauly. 2015. Dynamic 3D Avatar Creation from Hand-held Video Input. ACM TOG 34 4 Article 45 (2015) 14 pages. 10.1145/2766974   Alexandru Eugen Ichim Sofien Bouaziz and Mark Pauly. 2015. Dynamic 3D Avatar Creation from Hand-held Video Input. ACM TOG 34 4 Article 45 (2015) 14 pages. 10.1145/2766974"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/3072959.3073664",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/344779.344929",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1561/0600000012",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.2197/ipsjjip.22.401",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1145/2897824.2925871",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "unstructured": "Oliver Klehm Fabrice Rousselle Marios Papas Derek Bradley Christophe Hery Bernd Bickel Wojciech Jarosz and Thabo Beeler. 2015. Recent Advances in Facial Appearance Capture. CGF (EUROGRAPHICS STAR Reports) (2015). 10.1111/cgf.12594   Oliver Klehm Fabrice Rousselle Marios Papas Derek Bradley Christophe Hery Bernd Bickel Wojciech Jarosz and Thabo Beeler. 2015. Recent Advances in Facial Appearance Capture. CGF (EUROGRAPHICS STAR Reports) (2015). 10.1111/cgf.12594"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/2508363.2508369",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "unstructured": "J. P. Lewis Ken Anjyo Taehyun Rhee Mengjie Zhang Fred Pighin and Zhigang Deng. 2014. Practice and Theory of Blendshape Facial Models. In Eurographics STARs. 199--218.  J. P. Lewis Ken Anjyo Taehyun Rhee Mengjie Zhang Fred Pighin and Zhigang Deng. 2014. Practice and Theory of Blendshape Facial Models. In Eurographics STARs. 199--218."
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/2766939",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1145/2461912.2462019",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1145/3130800.3130813",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "unstructured": "Shu Liang Ira Kemelmacher-Shlizerman and Linda G. Shapiro. 2014. 3D Face Hallucination from a Single Depth Frame. In 3D Vision (3DV). IEEE Computer Society. 10.1109/3DV.2014.67   Shu Liang Ira Kemelmacher-Shlizerman and Linda G. Shapiro. 2014. 3D Face Hallucination from a Single Depth Frame. In 3D Vision (3DV). IEEE Computer Society. 10.1109/3DV.2014.67",
+                "DOI": "10.1109/3DV.2014.67",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1145/2816795.2818013",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1145/37401.37422",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "unstructured": "Kok-Lim Low. 2004. Linear Least-Squares Optimization for Point-to-Plane ICP Surface Registration. (01 2004).  Kok-Lim Low. 2004. Linear Least-Squares Optimization for Point-to-Plane ICP Surface Registration. (01 2004)."
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "unstructured": "Liqian Ma Xu Jia Qianru Sun Bernt Schiele Tinne Tuytelaars and Luc Van Gool. 2017. Pose Guided Person Image Generation. In NIPS.  Liqian Ma Xu Jia Qianru Sun Bernt Schiele Tinne Tuytelaars and Luc Van Gool. 2017. Pose Guided Person Image Generation. In NIPS."
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "DOI": "10.1109/ISMAR.2011.6092378",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "DOI": "10.1145/2508363.2508374",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "unstructured": "Kyle Olszewski Joseph J. Lim Shunsuke Saito and Hao Li. 2016. High-Fidelity Facial and Speech Animation for VR HMDs. ACM TOG 35 6 (2016). 10.1145/2980179.2980252   Kyle Olszewski Joseph J. Lim Shunsuke Saito and Hao Li. 2016. High-Fidelity Facial and Speech Animation for VR HMDs. ACM TOG 35 6 (2016). 10.1145/2980179.2980252",
+                "DOI": "10.1145/2980179.2980252",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "DOI": "10.1145/280814.280825",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "DOI": "10.1145/1186562.1015720",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "author": "Rusinkiewicz Szymon",
+                "year": "2001",
+                "volume-title": "Proceedings. Third International Conference on. IEEE, 145--152"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "unstructured": "Jason M. Saragih Simon Lucey and Jeffrey F. Cohn. 2011. Deformable Model Fitting by Regularized Landmark Mean-Shift. IJCV 91 2 (2011). 10.1007/s11263-010-0380-4   Jason M. Saragih Simon Lucey and Jeffrey F. Cohn. 2011. Deformable Model Fitting by Regularized Landmark Mean-Shift. IJCV 91 2 (2011). 10.1007/s11263-010-0380-4"
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "DOI": "10.1145/2661229.2661290",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_55_1",
+                "DOI": "10.1145/2661229.2661290",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_56_1",
+                "DOI": "10.1145/1073204.1073208",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_57_1",
+                "author": "Suwajanakorn Supasorn",
+                "volume-title": "Proc. ECCV. 796--812"
+            },
+            {
+                "key": "e_1_2_2_58_1",
+                "DOI": "10.1109/ICCV.2015.450",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_59_1",
+                "DOI": "10.1145/3072959.3073640",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_60_1",
+                "unstructured": "J. Rafael Tena Fernando De la Torre and Iain Matthews. 2011. Interactive Region-based Linear 3D Face Models. ACM TOG 30 4 Article 76 (2011) 10 pages. 10.1145/2010324.1964971   J. Rafael Tena Fernando De la Torre and Iain Matthews. 2011. Interactive Region-based Linear 3D Face Models. ACM TOG 30 4 Article 76 (2011) 10 pages. 10.1145/2010324.1964971"
+            },
+            {
+                "key": "e_1_2_2_61_1",
+                "unstructured": "Justus Thies Michael Zollh\u00f6fer Matthias Nie\u00dfner Levi Valgaerts Marc Stamminger and Christian Theobalt. 2015. Real-time Expression Transfer for Facial Reenactment. ACM TOG 34 6 Article 183 (2015) 14 pages. 10.1145/2816795.2818056   Justus Thies Michael Zollh\u00f6fer Matthias Nie\u00dfner Levi Valgaerts Marc Stamminger and Christian Theobalt. 2015. Real-time Expression Transfer for Facial Reenactment. ACM TOG 34 6 Article 183 (2015) 14 pages. 10.1145/2816795.2818056",
+                "DOI": "10.1145/2816795.2818056",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_62_1",
+                "author": "Thies Justus",
+                "volume-title": "Proc. CVPR."
+            },
+            {
+                "key": "e_1_2_2_63_1",
+                "DOI": "10.1145/3084822.3084841",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_64_1",
+                "DOI": "10.1145/3182644",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_65_1",
+                "DOI": "10.1145/2366145.2366206",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_66_1",
+                "DOI": "10.1145/1073204.1073209",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_67_1",
+                "DOI": "10.1145/2010324.1964972",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_68_1",
+                "DOI": "10.1145/1599470.1599472",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_69_1",
+                "DOI": "10.1145/344779.344925",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_70_1",
+                "author": "Xiao Jing",
+                "year": "2004",
+                "volume-title": "Proc. CVPR. 535 -- 542"
+            },
+            {
+                "key": "e_1_2_2_71_1",
+                "unstructured": "S. Zafeiriou A. Roussos A. Ponniah D. Dunaway and J. Booth. 2017. Large Scale 3D Morphable Models. International Journal of Computer Vision (2017).  S. Zafeiriou A. Roussos A. Ponniah D. Dunaway and J. Booth. 2017. Large Scale 3D Morphable Models. International Journal of Computer Vision (2017)."
+            },
+            {
+                "key": "e_1_2_2_72_1",
+                "DOI": "10.1145/2601097.2601165",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_73_1",
+                "unstructured": "M. Zollh\u00f6fer J. Thies P. Garrido D. Bradley T. Beeler P P\u00e9rez M. Stamminger M. Nie\u00dfner and C. Theobalt. 2018. State of the Art on Monocular 3D Face Reconstruction Tracking and Applications. Computer Graphics Forum (EUROGRAPHICS 2018) 37 2.  M. Zollh\u00f6fer J. Thies P. Garrido D. Bradley T. Beeler P P\u00e9rez M. Stamminger M. Nie\u00dfner and C. Theobalt. 2018. State of the Art on Monocular 3D Face Reconstruction Tracking and Applications. Computer Graphics Forum (EUROGRAPHICS 2018) 37 2.",
+                "DOI": "10.1111/cgf.13382",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201350&ftid=1991722&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:34:21Z",
+            "timestamp": 1585960461000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "real-time reenactment of human portrait videos"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 73,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201350"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201350",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

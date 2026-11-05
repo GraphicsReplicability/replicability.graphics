@@ -1,0 +1,401 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2020-07-12T19:40:18Z",
+            "timestamp": 1594582818795
+        },
+        "reference-count": 45,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2019,
+                            7,
+                            12
+                        ]
+                    ],
+                    "date-time": "2019-07-12T00:00:00Z",
+                    "timestamp": 1562889600000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "DOI": "10.1145/3306346.3323029",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2019-07-12T19:04:08Z",
+            "timestamp": 1562958248000
+        },
+        "page": "1-16",
+        "source": "Crossref",
+        "is-referenced-by-count": 2,
+        "title": [
+            "Symmetric moving frames"
+        ],
+        "prefix": "10.1145",
+        "volume": "38",
+        "author": [
+            {
+                "given": "Etienne",
+                "family": "Corman",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Carnegie Mellon University and University of Toronto"
+                    }
+                ]
+            },
+            {
+                "given": "Keenan",
+                "family": "Crane",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Carnegie Mellon University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "R. Abraham J. E. Marsden and R. Ratiu. 1988. Manifolds Tensor Analysis and Applications: 2nd Edition. Springer-Verlag Berlin Heidelberg.   R. Abraham J. E. Marsden and R. Ratiu. 1988. Manifolds Tensor Analysis and Applications: 2nd Edition. Springer-Verlag Berlin Heidelberg.",
+                "DOI": "10.1007/978-1-4612-1029-0",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "C. Armstrong H. Fogg C. Tierney and T. Robinson. 2015. Common Themes in Multiblock Structured Quad/Hex Mesh Generation. Proced. Eng. 124 (2015).  C. Armstrong H. Fogg C. Tierney and T. Robinson. 2015. Common Themes in Multiblock Structured Quad/Hex Mesh Generation. Proced. Eng. 124 (2015)."
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1017/S0962492906210018",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/1360612.1360662",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/1531326.1531383",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "unstructured": "D. Bommes H. Zimmer and L. Kobbelt. 2012. Practical Mixed-Integer Optimization for Geometry Processing. In Curves and Surfaces. 193--206. 10.1007/978-3-642-27413-8_12   D. Bommes H. Zimmer and L. Kobbelt. 2012. Practical Mixed-Integer Optimization for Geometry Processing. In Curves and Surfaces. 193--206. 10.1007/978-3-642-27413-8_12",
+                "DOI": "10.1007/978-3-642-27413-8_12",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.2140/pjm.1985.118.37",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/2504435.2504442",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1111/j.1467-8659.2010.01761.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/2897826.2927303",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/1185657.1185665",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/3132188",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/2461912.2462017",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "author": "Diamanti O.",
+                "year": "2014",
+                "volume-title": "Proc. Symp. Geom. Proc. 33"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "unstructured": "M.P. do Carmo. 1994. Differential Forms and Applications. Springer-Verlag.  M.P. do Carmo. 1994. Differential Forms and Applications. Springer-Verlag.",
+                "DOI": "10.1007/978-3-642-57951-6",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "J. Frauendiener. 2006. Discrete differential forms in general relativity. Classical and Quantum Gravity 23 16 (2006).  J. Frauendiener. 2006. Discrete differential forms in general relativity. Classical and Quantum Gravity 23 16 (2006).",
+                "DOI": "10.1088/0264-9381/23/16/S05",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/3072959.3073676",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/344779.345074",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "unstructured": "A. Hirani. 2003. Discrete Exterior Calculus. Ph.D. Dissertation. Caltech.   A. Hirani. 2003. Discrete Exterior Calculus. Ph.D. Dissertation. Caltech."
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/2070781.2024177",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/2766927",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "unstructured": "Junho Kim M. Jin Q. Zhou F. Luo and X. Gu. 2008. Computing Fundamental Group of General 3-Manifold. In Advances in Visual Computing. 10.1007/978-3-540-89639-5_92   Junho Kim M. Jin Q. Zhou F. Luo and X. Gu. 2008. Computing Fundamental Group of General 3-Manifold. In Advances in Visual Computing. 10.1007/978-3-540-89639-5_92"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/2461912.2462005",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "J. Lee. 2003. Introduction to Smooth Manifolds. Springer.  J. Lee. 2003. Introduction to Smooth Manifolds. Springer.",
+                "DOI": "10.1007/978-0-387-21752-9",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/2366145.2366196",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/1189762.1189767",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/1073204.1073217",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/3197517.3201344",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/2897824.2925976",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "unstructured": "E. Mansfield G. Mar\u00ed Beffa and J.P. Wang. 2013. Discrete moving frames and discrete integrable systems. Found. Comput. Math. 13 4 (2013). 10.1007/s10208-013-9153-0   E. Mansfield G. Mar\u00ed Beffa and J.P. Wang. 2013. Discrete moving frames and discrete integrable systems. Found. Comput. Math. 13 4 (2013). 10.1007/s10208-013-9153-0"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "author": "Mor\u00e9 J.",
+                "volume": "630",
+                "year": "1978",
+                "volume-title": "Lecture Notes in Mathematics"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "unstructured": "M. Nieser U. Reitebuch and K. Polthier. 2011. CubeCover: Parameterization of 3D Volumes. Computer Graphics Forum 30 5 (2011).  M. Nieser U. Reitebuch and K. Polthier. 2011. CubeCover: Parameterization of 3D Volumes. Computer Graphics Forum 30 5 (2011)."
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "unstructured": "P. Olver. 2000. Moving Frames in Geometry Algebra Computer Vision and Numerical Analysis. In Foundations of Computational Mathematics.  P. Olver. 2000. Moving Frames in Geometry Algebra Computer Vision and Numerical Analysis. In Foundations of Computational Mathematics.",
+                "DOI": "10.1017/CBO9781107360198.010",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/3130800.3130844",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1145/1276377.1276446",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1145/2766990",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/2980179.2982408",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "author": "Sharpe R.W.",
+                "year": "2000",
+                "volume-title": "Differential Geometry: Cartan's Generalization of Klein's Erlangen Program"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/2629697",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1145/3197517.3201367",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1145/3065254",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "unstructured": "Vaxman Campen Diamanti Panozzo Bommes Hildebrandt and Ben-Chen. 2016. Directional Field Synthesis Design and Processing. Comp. Graph. Forum (2016).  Vaxman Campen Diamanti Panozzo Bommes Hildebrandt and Ben-Chen. 2016. Directional Field Synthesis Design and Processing. Comp. Graph. Forum (2016).",
+                "DOI": "10.1145/2988458.2988478",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "author": "Vyas V.",
+                "volume-title": "Proc. Int. Mesh. Roundtable, Brett W. Clark (Ed.)."
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "unstructured": "F.W. Warner. 2013. Foundations of Differentiable Manifolds and Lie Groups.  F.W. Warner. 2013. Foundations of Differentiable Manifolds and Lie Groups."
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "author": "Yu W.",
+                "volume-title": "Int. Conf. Comp. Sci. Ed. 697--702"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3323029&ftid=2071661&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2020-07-12T19:16:06Z",
+            "timestamp": 1594581366000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "references-count": 45,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        12
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3306346.3323029"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3306346.3323029",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

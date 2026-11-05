@@ -1,0 +1,807 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2020-07-12T19:43:31Z",
+            "timestamp": 1594583011374
+        },
+        "reference-count": 115,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2020,
+                            7,
+                            12
+                        ]
+                    ],
+                    "date-time": "2020-07-12T00:00:00Z",
+                    "timestamp": 1594512000000
+                },
+                "delay-in-days": 366,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100000001",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "IIS-1755544, CCF-1813624"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "DOI": "10.1145/3306346.3322949",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2019-07-12T19:04:08Z",
+            "timestamp": 1562958248000
+        },
+        "page": "1-15",
+        "source": "Crossref",
+        "is-referenced-by-count": 5,
+        "title": [
+            "CD-MPM"
+        ],
+        "prefix": "10.1145",
+        "volume": "38",
+        "author": [
+            {
+                "given": "Joshuah",
+                "family": "Wolper",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of Pennsylvania"
+                    }
+                ]
+            },
+            {
+                "given": "Yu",
+                "family": "Fang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Pennsylvania"
+                    }
+                ]
+            },
+            {
+                "given": "Minchen",
+                "family": "Li",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Pennsylvania"
+                    }
+                ]
+            },
+            {
+                "given": "Jiecong",
+                "family": "Lu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Pennsylvania"
+                    }
+                ]
+            },
+            {
+                "given": "Ming",
+                "family": "Gao",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Pennsylvania"
+                    }
+                ]
+            },
+            {
+                "given": "Chenfanfu",
+                "family": "Jiang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Pennsylvania"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1016/0001-6160(72)90037-5",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1007/s00466-015-1225-3",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1016/j.jmps.2009.04.011",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "author": "Aoki K.",
+                "volume-title": "Proc. of the Comp. Graph. Int. 357--364"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1103/PhysRevLett.85.118",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1109/TVCG.2007.39",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1016/S0065-2156(08)70121-2",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1002/(SICI)1097-0207(19990620)45:5<601::AID-NME598>3.0.CO;2-S",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1007/BF00364080",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/2019406.2019409",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1016/j.cma.2016.09.005",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1016/j.cma.2012.01.008",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/2601097.2601116",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1016/S0022-5096(99)00028-9",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1007/s10659-007-9107-3",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1016/0021-9991(86)90211-1",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/2461912.2461920",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1063/1.1744102",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1016/j.cma.2006.04.008",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1002/cav.1514",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/2601097.2601115",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1016/j.cma.2017.10.009",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/2601097.2601146",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/2897824.2925899",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/2897824.2925877",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/3197517.3201392",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1016/S0022-5096(98)00034-9",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/3197517.3201309",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/3272127.3275044",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "unstructured": "J. Gaume T. Gast J. Teran A. van Herwijnen and C. Jiang. 2018. Dynamic anticrack propagation in snow. Nature communications 9 1 (2018) 3047.  J. Gaume T. Gast J. Teran A. van Herwijnen and C. Jiang. 2018. Dynamic anticrack propagation in snow. Nature communications 9 1 (2018) 3047."
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1109/TVCG.2012.121",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1109/TVCG.2013.98",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "unstructured": "P. Grassl and M. Jir\u00e1sek. 2004. On mesh bias of local damage models for concrete. (2004).  P. Grassl and M. Jir\u00e1sek. 2004. On mesh bias of local damage models for concrete. (2004)."
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1098/rsta.1921.0006",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1145/3197517.3201346",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1145/2766896",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/2897824.2925902",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1109/TVCG.2017.2755646",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/2786784.2786791",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1145/2485895.2485908",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1007/s003710050128",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1007/s003710000069",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1002/nme.5317",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1145/3197517.3201293",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "unstructured": "G. R. Irwin. 1957. Analysis of Stresses and Strains Near the End of a Crack Traversing a Plate. J. Appl. Mech. (1957).  G. R. Irwin. 1957. Analysis of Stresses and Strains Near the End of a Crack Traversing a Plate. J. Appl. Mech. (1957)."
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1145/311535.311542",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "DOI": "10.1145/3072959.3073623",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "DOI": "10.1145/2766996",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "DOI": "10.1145/2897826.2927348",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "DOI": "10.1145/2856400.2856415",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "DOI": "10.1023/A:1018671022008",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "author": "Kaufmann P.",
+                "volume-title": "Symp. Comp. Anim. 105--116"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "DOI": "10.1145/1028523.1028564",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "DOI": "10.1145/2897824.2925906",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_55_1",
+                "DOI": "10.1145/3072959.3073666",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_56_1",
+                "unstructured": "L. D. Landau and E. M. Lifshitz. 1971. The classical theory of fields. (1971).  L. D. Landau and E. M. Lifshitz. 1971. The classical theory of fields. (1971)."
+            },
+            {
+                "key": "e_1_2_2_57_1",
+                "author": "Levine J. A.",
+                "volume-title": "Symp. Comp. Anim. 47--55"
+            },
+            {
+                "key": "e_1_2_2_58_1",
+                "DOI": "10.1145/3203207",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_59_1",
+                "DOI": "10.1002/cav.412",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_60_1",
+                "DOI": "10.1145/2508363.2508406",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_61_1",
+                "DOI": "10.1145/2990496",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_62_1",
+                "DOI": "10.1016/0045-7825(95)00804-A",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_63_1",
+                "DOI": "10.1016/j.cma.2010.04.011",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_64_1",
+                "DOI": "10.1016/j.cma.2014.11.016",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_65_1",
+                "DOI": "10.1002/nme.2861",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_66_1",
+                "DOI": "10.1145/2816795.2818100",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_67_1",
+                "DOI": "10.1002/(SICI)1097-0207(19990910)46:1<131::AID-NME726>3.0.CO;2-J",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_68_1",
+                "DOI": "10.1145/1198555.1198574",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_69_1",
+                "author": "Mould D.",
+                "year": "2005",
+                "volume-title": "Image-guided Fracture. In Proc. of Graphics Interface"
+            },
+            {
+                "key": "e_1_2_2_70_1",
+                "author": "M\u00fcller M.",
+                "year": "2004",
+                "volume-title": "Proc. of Graphics Interface"
+            },
+            {
+                "key": "e_1_2_2_71_1",
+                "DOI": "10.1145/1028523.1028542",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_72_1",
+                "unstructured": "Ken Museth Jeff Lait John Johanson Jeff Budsberg Ron Henderson Mihai Alden Peter Cucka David Hill and Andrew Pearce. 2013. OpenVDB: an open-source data structure and toolkit for high-resolution volumes. In Acm siggraph 2013 courses. 19. 10.1145/2504435.2504454   Ken Museth Jeff Lait John Johanson Jeff Budsberg Ron Henderson Mihai Alden Peter Cucka David Hill and Andrew Pearce. 2013. OpenVDB: an open-source data structure and toolkit for high-resolution volumes. In Acm siggraph 2013 courses. 19. 10.1145/2504435.2504454",
+                "DOI": "10.1145/2504435.2504454",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_73_1",
+                "first-page": "649",
+                "article-title": "Material point method calculations with explicit cracks",
+                "volume": "4",
+                "author": "Nairn J. A.",
+                "year": "2003",
+                "journal-title": "Comp. Mod. in Eng. And Sci."
+            },
+            {
+                "key": "e_1_2_2_74_1",
+                "author": "Narain R.",
+                "volume-title": "Symp Comp Anim. 21--28"
+            },
+            {
+                "key": "e_1_2_2_75_1",
+                "author": "Neff M.",
+                "volume-title": "Proc. of the 1999 Conference on Graphics Interface '99"
+            },
+            {
+                "key": "e_1_2_2_76_1",
+                "author": "Ngo D.",
+                "year": "1967",
+                "article-title": "Finite Element Analysis of Reinforced Concrete Beams",
+                "journal-title": "Journal Proceedings 64. Issue 3."
+            },
+            {
+                "key": "e_1_2_2_77_1",
+                "DOI": "10.1007/s00371-012-0765-1",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_78_1",
+                "DOI": "10.1007/BF01900837",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_79_1",
+                "DOI": "10.1145/566654.566579",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_80_1",
+                "DOI": "10.1145/311535.311550",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_81_1",
+                "DOI": "10.1145/1073204.1073296",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_82_1",
+                "DOI": "10.1145/2601097.2601132",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_83_1",
+                "DOI": "10.1145/3072959.3073651",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_84_1",
+                "DOI": "10.1016/S0045-7825(98)00230-8",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_85_1",
+                "DOI": "10.1145/2786784.2786798",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_86_1",
+                "DOI": "10.1016/0029-5493(68)90066-6",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_87_1",
+                "unstructured": "K. Roscoe and J. Burland. 1968. On the generalised stress-strain behaviour of wet clay. Eng Plast (1968) 535--609.  K. Roscoe and J. Burland. 1968. On the generalised stress-strain behaviour of wet clay. Eng Plast (1968) 535--609."
+            },
+            {
+                "key": "e_1_2_2_88_1",
+                "DOI": "10.1016/j.compstruct.2017.08.071",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_89_1",
+                "author": "Sifakis E.",
+                "volume-title": "Symp. Comp. Anim. 73--80"
+            },
+            {
+                "key": "e_1_2_2_90_1",
+                "DOI": "10.1016/S0022-5096(99)00029-0",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_91_1",
+                "unstructured": "S. A. Silling and E. Askari. 2005. A meshfree method based on the peridynamic model of solid mechanics. Computers /& Structures 83 17 (2005) 1526 -- 1535. Advances in Meshfree Methods. 10.1016/j.compstruc.2004.11.026   S. A. Silling and E. Askari. 2005. A meshfree method based on the peridynamic model of solid mechanics. Computers /& Structures 83 17 (2005) 1526 -- 1535. Advances in Meshfree Methods. 10.1016/j.compstruc.2004.11.026"
+            },
+            {
+                "key": "e_1_2_2_92_1",
+                "DOI": "10.1016/0045-7825(88)90076-X",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_93_1",
+                "DOI": "10.1145/3180491",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_94_1",
+                "author": "Stomakhin A.",
+                "volume-title": "Symp. Comp. Anim. 25--32"
+            },
+            {
+                "key": "e_1_2_2_95_1",
+                "DOI": "10.1145/2461912.2461948",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_96_1",
+                "DOI": "10.1145/2601097.2601176",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_97_1",
+                "DOI": "10.1002/1097-0207(20000820)48:11<1549::AID-NME955>3.0.CO;2-A",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_98_1",
+                "DOI": "10.1007/s004660050235",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_99_1",
+                "DOI": "10.1016/0045-7825(94)90112-0",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_100_1",
+                "DOI": "10.1016/0010-4655(94)00170-7",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_101_1",
+                "DOI": "10.1145/378456.378522",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_102_1",
+                "DOI": "10.1145/2980179.2980236",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_103_1",
+                "author": "Wang Y.",
+                "volume-title": "Symp. Comp. Anim. 77--85"
+            },
+            {
+                "key": "e_1_2_2_104_1",
+                "DOI": "10.1145/1778765.1778786",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_105_1",
+                "unstructured": "J. Wolper Y. Fang M. Li J. Lu M. Gao and C. Jiang. 2019. CD-MPM: Continuum damage material point methods for dynamic fracture animation: Supplemental document. ACM Trans. Graph. (2019). 10.1145/3306346.3322949   J. Wolper Y. Fang M. Li J. Lu M. Gao and C. Jiang. 2019. CD-MPM: Continuum damage material point methods for dynamic fracture animation: Supplemental document. ACM Trans. Graph. (2019). 10.1145/3306346.3322949"
+            },
+            {
+                "key": "e_1_2_2_106_1",
+                "DOI": "10.1016/j.cag.2017.10.005",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_107_1",
+                "DOI": "10.1016/j.jmps.2017.03.015",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_108_1",
+                "DOI": "10.1016/j.cma.2017.09.027",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_109_1",
+                "DOI": "10.1145/3130800.3130882",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_110_1",
+                "DOI": "10.1145/2816795.2818117",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_111_1",
+                "unstructured": "J. Yu C. Wojtan G. Turk and C. Yap. 2012. Explicit Mesh Surfaces for Particle Based Fluids. Comput. Graph. Forum 31 2pt4 (2012) 815--824. 10.1111/j.1467-8659.2012.03062.x   J. Yu C. Wojtan G. Turk and C. Yap. 2012. Explicit Mesh Surfaces for Particle Based Fluids. Comput. Graph. Forum 31 2pt4 (2012) 815--824. 10.1111/j.1467-8659.2012.03062.x",
+                "DOI": "10.1111/j.1467-8659.2012.03062.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_112_1",
+                "DOI": "10.1145/2751541",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_113_1",
+                "DOI": "10.1145/3272127.3275095",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_114_1",
+                "DOI": "10.1145/1073204.1073298",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_115_1",
+                "DOI": "10.1145/2766942",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "https://dl.acm.org/doi/pdf/10.1145/3306346.3322949",
+                "content-type": "application/pdf",
+                "content-version": "vor",
+                "intended-application": "syndication"
+            },
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3322949&ftid=2071678&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2020-07-12T19:20:39Z",
+            "timestamp": 1594581639000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "continuum damage material point methods for dynamic fracture animation"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "references-count": 115,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        12
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3306346.3322949"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3306346.3322949",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

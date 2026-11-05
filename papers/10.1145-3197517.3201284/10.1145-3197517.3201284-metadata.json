@@ -1,0 +1,445 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:54Z",
+            "timestamp": 1585962714922
+        },
+        "reference-count": 39,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201284",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 4,
+        "title": [
+            "Creating and chaining camera moves for qadrotor videography"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Ke",
+                "family": "Xie",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Shenzhen University"
+                    }
+                ]
+            },
+            {
+                "given": "Hao",
+                "family": "Yang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shenzhen University"
+                    }
+                ]
+            },
+            {
+                "given": "Shengqiu",
+                "family": "Huang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shenzhen University"
+                    }
+                ]
+            },
+            {
+                "given": "Dani",
+                "family": "Lischinski",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "The Hebrew University of Jerusalem"
+                    }
+                ]
+            },
+            {
+                "given": "Marc",
+                "family": "Christie",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Univ Rennes, INRIA"
+                    }
+                ]
+            },
+            {
+                "given": "Kai",
+                "family": "Xu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shenzhen University and National University of Defense Technology"
+                    }
+                ]
+            },
+            {
+                "given": "Minglun",
+                "family": "Gong",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Memorial University of Newfoundland"
+                    }
+                ]
+            },
+            {
+                "given": "Daniel",
+                "family": "Cohen-Or",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shenzhen University and Tel Aviv University"
+                    }
+                ]
+            },
+            {
+                "given": "Hui",
+                "family": "Huang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shenzhen University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1007/BF01928918",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "author": "Andersson Olov",
+                "volume": "5",
+                "year": "2017",
+                "volume-title": "Proc. AAAI Conf. on Artificial Intelligence"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1111/j.1467-8659.2004.00781.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "author": "Bares William H.",
+                "year": "2000",
+                "volume-title": "Smart Graphics AAAI Spring Symposium. 84--91"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1109/38.7751",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/636593.636598",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/1665817.1665820",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1111/j.1467-8659.2008.01181.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1109/MSPEC.2015.7131693",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "author": "Drucker Steven M",
+                "year": "1994",
+                "volume-title": "Proc. of Graphics Interface. 190--190"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "author": "Dunkley Oliver",
+                "year": "2014",
+                "volume-title": "Aerial Open Source Robotics Workshop."
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/1315184.1315224",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "Jiankun Fan. 2014. Optimal path planning and control of quadrotor unmanned aerial vehicle for area coverage. Ph.D. Dissertation. The University of Toledo.  Jiankun Fan. 2014. Optimal path planning and control of quadrotor unmanned aerial vehicle for area coverage. Ph.D. Dissertation. The University of Toledo."
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/2935620.2935622",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/2522628.2522899",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.5555/3056983.3056987",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/2858036.2858353",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1111/1467-8659.00510",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/237170.237259",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1007/s12532-015-0080-8",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1109/TVCG.2013.123",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "unstructured": "Niels Joubert L. E. Jane Dan B. Goldman Floraine Berthouzoz Mike Roberts James A. Landay and Pat Hanrahan. 2016. Towards a Drone Cinematographer: Guiding Quadrotor Cameras using Visual Composition Principles. ArXiv e-prints (Oct. 2016). arXiv:cs.GR/1610.01691  Niels Joubert L. E. Jane Dan B. Goldman Floraine Berthouzoz Mike Roberts James A. Landay and Pat Hanrahan. 2016. Towards a Drone Cinematographer: Guiding Quadrotor Cameras using Visual Composition Principles. ArXiv e-prints (Oct. 2016). arXiv:cs.GR/1610.01691"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/2816795.2818106",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1007/978-3-540-85412-8_11",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/2766965",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "author": "Lino Christophe",
+                "year": "2010",
+                "volume-title": "Proc. ACM SIGGRAPH/Eurographics Symp. on Computer Animation. 139--148"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1109/ICRA.2011.5980409",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "unstructured": "A. Messina et al. 2017. Multidrone media production requirements. Technical Report. University of Bristol.  A. Messina et al. 2017. Multidrone media production requirements. Technical Report. University of Bristol."
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/3072959.3073712",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "first-page": "3870",
+                "article-title": "Motion Planning for Camera Movements",
+                "volume": "4",
+                "author": "Nieuwenhuisen Dennis",
+                "year": "2004",
+                "journal-title": "Proc. IEEE Int. Conf. on Robotics & Automation"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/1599470.1599478",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1109/TVCG.2013.2297932",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1007/978-3-319-28872-7_37",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/2897824.2925980",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1145/641480.641491",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1016/j.cag.2012.08.006",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1007/s00371-007-0182-z",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "author": "V\u00e1zquez Pere-Pau",
+                "volume": "1",
+                "year": "2001",
+                "volume-title": "Proc. of Vision Modeling and Visualization Conference"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "author": "Georgios",
+                "volume-title": "Proc. Int. Conf. on Affective Computing and Intelligent Interaction. 437--446"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201284&ftid=1991753&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:54:40Z",
+            "timestamp": 1585961680000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 39,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201284"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201284",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

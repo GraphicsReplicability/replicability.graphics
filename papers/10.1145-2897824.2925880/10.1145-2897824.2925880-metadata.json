@@ -1,0 +1,431 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T07:43:27Z",
+            "timestamp": 1585986207223
+        },
+        "reference-count": 49,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925880",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 11,
+        "title": [
+            "Subdivision exterior calculus for geometry processing"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Fernando",
+                "family": "de Goes",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Pixar Animation Studios"
+                    }
+                ]
+            },
+            {
+                "given": "Mathieu",
+                "family": "Desbrun",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Caltech"
+                    }
+                ]
+            },
+            {
+                "given": "Mark",
+                "family": "Meyer",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Pixar Animation Studios"
+                    }
+                ]
+            },
+            {
+                "given": "Tony",
+                "family": "DeRose",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Pixar Animation Studios"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/2010324.1964997",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1017/S0962492906210018",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1109/TMAG.2006.870932",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1137/1036141",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1016/j.apnum.2014.01.002",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "unstructured": "Barendrecht P. J. 2013. Isogeometric Analysis for Subdivision Surfaces. Master's thesis Eindhoven University of Technology.  Barendrecht P. J. 2013. Isogeometric Analysis for Subdivision Surfaces . Master's thesis Eindhoven University of Technology."
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "unstructured": "Bossavit A. Ed. 1998. Computational Electromagnetism. Academic Press.  Bossavit A. Ed. 1998. Computational Electromagnetism . Academic Press."
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "first-page": "203",
+                "article-title": "Computational electromagnetism and geometry. (5): The 'Galerkin Hodge",
+                "volume": "8",
+                "author": "Bossavit A.",
+                "year": "2000",
+                "journal-title": "J. Japan Soc. Appl. Electromagn. & Mech."
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "Botsch M. Kobbelt L. Pauly M. Alliez P. and L\u00e9vy B. 2010. Polygon Mesh Processing. AK Peters.  Botsch M. Kobbelt L. Pauly M. Alliez P. and L\u00e9vy B. 2010. Polygon Mesh Processing. AK Peters.",
+                "DOI": "10.1201/b10688",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1137/100786708",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1016/j.jcp.2013.08.015",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1016/S0010-4485(01)00061-6",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.5555/1816404",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Crane K. de Goes F. Desbrun M. and Schr\u00f6der P. 2013. Digital geometry processing with discrete exterior calculus. In ACM SIGGRAPH Courses. 10.1145/2504435.2504442   Crane K. de Goes F. Desbrun M. and Schr\u00f6der P. 2013. Digital geometry processing with discrete exterior calculus. In ACM SIGGRAPH Courses. 10.1145/2504435.2504442"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/2516971.2516977",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1016/0377-0427(86)90088-9",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/2602143",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "unstructured": "Desbrun M. Meyer M. Schr\u00f6der P. and Barr A. H. 1999. Implicit fairing of irregular meshes using diffusion and curvature flow. ACM SIGGRAPH 317--324. 10.1145/311535.311576   Desbrun M. Meyer M. Schr\u00f6der P. and Barr A. H. 1999. Implicit fairing of irregular meshes using diffusion and curvature flow. ACM SIGGRAPH 317--324. 10.1145/311535.311576"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "unstructured": "Desbrun M. Kanso E. and \n      \n      \n      Tong Y\n      \n  \n  . \n  2008\n  . Discrete differential forms for computational modeling. In Discrete Differential Geometry A. I. Bobenko et al. \n  (Eds) vol. \n  38\n   of \n  Oberwolfach Seminars\n  . 287--324.  Desbrun M. Kanso E. and Tong Y. 2008. Discrete differential forms for computational modeling. In Discrete Differential Geometry A. I. Bobenko et al. (Eds) vol. 38 of Oberwolfach Seminars. 287--324.",
+                "DOI": "10.1007/978-3-7643-8621-4_16",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/1189762.1189766",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/1276377.1276447",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "unstructured": "Frankel T. 2004. The Geometry of Physics: An Introduction. Cambridge University Press.  Frankel T. 2004. The Geometry of Physics: An Introduction. Cambridge University Press."
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/566654.566578",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/1778765.1778857",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "unstructured": "Hirani A. 2003. Discrete Exterior Calculus. PhD thesis Caltech.   Hirani A. 2003. Discrete Exterior Calculus . PhD thesis Caltech."
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1016/j.cma.2004.10.008",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1016/j.cma.2016.01.005",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/2661229.2661270",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/2816795.2818130",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "unstructured": "Loop C. van Gelder D. Litke N. El Guerrab R. Elmieh B. and Kraemer M. 2013. OpenSubdiv from research to industry adoption. In ACM SIGGRAPH Courses. 10.1145/2504435.2504451   Loop C. van Gelder D. Litke N. El Guerrab R. Elmieh B. and Kraemer M. 2013. OpenSubdiv from research to industry adoption. In ACM SIGGRAPH Courses. 10.1145/2504435.2504451"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/237748.237750",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1137/0721018",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.5555/1731309.1731335",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/2010324.1964998",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "unstructured": "Munkres J. R. 1984. Elements of Algebraic Topology. Addison-Wesley.  Munkres J. R. 1984. Elements of Algebraic Topology. Addison-Wesley."
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.3390/axioms3020280",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/2077341.2077347",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "unstructured": "Riffnaller-Schiefer A. Augsd\u00f6rfer U. H. and Fellner D. W. 2015. Isogeometric Analysis for Modelling and Design. In Eurographics (short papers).  Riffnaller-Schiefer A. Augsd\u00f6rfer U. H. and Fellner D. W. 2015. Isogeometric Analysis for Modelling and Design. In Eurographics (short papers)."
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "unstructured": "Stam J. 1998. Exact evaluation of Catmull-Clark subdivision surfaces at arbitrary parameter values. ACM SIGGRAPH 395--404. 10.1145/280814.280945   Stam J. 1998. Exact evaluation of Catmull-Clark subdivision surfaces at arbitrary parameter values. ACM SIGGRAPH 395--404. 10.1145/280814.280945"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1145/882262.882338",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "unstructured": "Strang G. and Fix G. 1973. An Analysis of the Finite Element Method. Wellesley-Cambridge.  Strang G. and Fix G. 1973. An Analysis of the Finite Element Method. Wellesley-Cambridge."
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "author": "Thomaszewski B.",
+                "volume-title": "Symp. Comp. Anim., 107--116"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1145/1141911.1141991",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "unstructured": "Wang K. 2008. A subdivision approach to the construction of smooth differential forms. PhD thesis Caltech.   Wang K. 2008. A subdivision approach to the construction of smooth differential forms . PhD thesis Caltech."
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "author": "Wardetzky M.",
+                "volume-title": "Symp. Geom. Process., 33--37"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "unstructured": "Warren J. and Weimer H. 2001. Subdivision Methods for Geometric Design: A Constructive Approach. Morgan Kaufmann Publishers Inc.   Warren J. and Weimer H. 2001. Subdivision Methods for Geometric Design: A Constructive Approach. Morgan Kaufmann Publishers Inc.",
+                "DOI": "10.1016/B978-155860446-9/50003-X",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "unstructured": "Whitney H. 1957. Geometric Integration Theory. Princeton University Press.  Whitney H. 1957. Geometric Integration Theory . Princeton University Press.",
+                "DOI": "10.1515/9781400877577",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "DOI": "10.1145/1276377.1276491",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "unstructured": "Zorin D. and Schr\u00f6der P. 2000. Subdivision for modeling and animation. In ACM SIGGRAPH Courses.  Zorin D. and Schr\u00f6der P. 2000. Subdivision for modeling and animation. In ACM SIGGRAPH Courses."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925880&amp;ftid=1755872&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:44:30Z",
+            "timestamp": 1585964670000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 49,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925880"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925880",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

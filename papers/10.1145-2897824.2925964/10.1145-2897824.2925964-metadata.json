@@ -1,0 +1,369 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T02:11:26Z",
+            "timestamp": 1585966286729
+        },
+        "reference-count": 29,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2017,
+                            7,
+                            24
+                        ]
+                    ],
+                    "date-time": "2017-07-24T00:00:00Z",
+                    "timestamp": 1500854400000
+                },
+                "delay-in-days": 378,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100000001",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "IIS-1064412, IIS-1218515."
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925964",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 10,
+        "title": [
+            "Multi-scale label-map extraction for texture synthesis"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Yitzchak David",
+                "family": "Lockerman",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Yale University, New Haven"
+                    }
+                ]
+            },
+            {
+                "given": "Basile",
+                "family": "Sauvage",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "ICube, Universit\u00e9 de Strasbourg, CNRS, France"
+                    }
+                ]
+            },
+            {
+                "given": "R\u00e9mi",
+                "family": "All\u00e8gre",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "ICube, Universit\u00e9 de Strasbourg, CNRS, France"
+                    }
+                ]
+            },
+            {
+                "given": "Jean-Michel",
+                "family": "Dischler",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "ICube, Universit\u00e9 de Strasbourg, CNRS, France"
+                    }
+                ]
+            },
+            {
+                "given": "Julie",
+                "family": "Dorsey",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Yale University, New Haven"
+                    }
+                ]
+            },
+            {
+                "given": "Holly",
+                "family": "Rushmeier",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Yale University, New Haven"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1109/TPAMI.2012.120",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1109/TPAMI.2010.161",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/364338.364405",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/1531326.1531330",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1016/j.csda.2006.11.006",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/882262.882265",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1109/CVPR.2014.387",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/2699641",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/383259.383296",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "Gillis N. 2011. Nonnegative Matrix Factorization: Complexity Algorithms and Applications. PhD thesis Universit\u00e9 Catholique de Louvain \u00c9cole Polytechnique de Louvain.  Gillis N. 2011. Nonnegative Matrix Factorization: Complexity Algorithms and Applications. PhD thesis Universit\u00e9 Catholique de Louvain \u00c9cole Polytechnique de Louvain."
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "author": "Gillis N.",
+                "volume-title": "Regularization, Optimization, Kernels, and Support Vector Machines"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/383259.383295",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1111/cgf.12565",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/1201775.882264",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/1179352.1141921",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1109/CADGraphics.2013.65",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1111/j.1467-8659.2009.01407.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/1620993.1621027",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.5555/2383894.2383929",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "Mount D. M. 2010. ANN programming manual. Tech. rep. University of Maryland College Park Maryland.  Mount D. M. 2010. ANN programming manual. Tech. rep. University of Maryland College Park Maryland."
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.5555/2383847.2383893",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/1618452.1618453",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/2508363.2508383",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1109/TIP.2013.2271426",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "author": "Wang B.",
+                "volume-title": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2312--2319"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1007/s00371-014-1054-y",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1007/s11263-005-4640-7",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "unstructured": "Zelnik-Manor L. and Perona P. 2004. Self-tuning spectral clustering. In Advances in neural information processing systems 1601--1608.  Zelnik-Manor L. and Perona P. 2004. Self-tuning spectral clustering. In Advances in neural information processing systems 1601--1608."
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/882262.882266",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "https://dl.acm.org/doi/pdf/10.1145/2897824.2925964",
+                "content-type": "application/pdf",
+                "content-version": "vor",
+                "intended-application": "syndication"
+            },
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925964&amp;ftid=1755882&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:33:03Z",
+            "timestamp": 1585963983000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 29,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925964"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925964",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

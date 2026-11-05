@@ -1,0 +1,476 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    5,
+                    5
+                ]
+            ],
+            "date-time": "2020-05-05T17:41:03Z",
+            "timestamp": 1588700463627
+        },
+        "reference-count": 52,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2020,
+                            7,
+                            12
+                        ]
+                    ],
+                    "date-time": "2020-07-12T00:00:00Z",
+                    "timestamp": 1594512000000
+                },
+                "delay-in-days": 366,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100000001",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "1717320,GRFP"
+                ]
+            },
+            {
+                "DOI": "10.13039/100000008",
+                "name": "David and Lucile Packard Foundation",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100004344",
+                "name": "Adobe Systems",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100005801",
+                "name": "Facebook",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100004675",
+                "name": "Autodesk",
+                "doi-asserted-by": "publisher",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "DOI": "10.1145/3306346.3322979",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2019-07-12T19:04:08Z",
+            "timestamp": 1562958248000
+        },
+        "page": "1-16",
+        "source": "Crossref",
+        "is-referenced-by-count": 2,
+        "title": [
+            "Navigating intrinsic triangulations"
+        ],
+        "prefix": "10.1145",
+        "volume": "38",
+        "author": [
+            {
+                "given": "Nicholas",
+                "family": "Sharp",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Carnegie Mellon University"
+                    }
+                ]
+            },
+            {
+                "given": "Yousuf",
+                "family": "Soliman",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Caltech"
+                    }
+                ]
+            },
+            {
+                "given": "Keenan",
+                "family": "Crane",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Carnegie Mellon University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "Gavin Barill Neil Dickson Ryan Schmidt David I.W. Levin and Alec Jacobson. 2018. Fast Winding Numbers for Soups and Clouds. ACM Transactions on Graphics (2018). 10.1145/3197517.3201337   Gavin Barill Neil Dickson Ryan Schmidt David I.W. Levin and Alec Jacobson. 2018. Fast Winding Numbers for Soups and Clouds. ACM Transactions on Graphics (2018). 10.1145/3197517.3201337"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1007/BF02573962",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "unstructured": "A. I. Bobenko and B. A. Springborn. 2005. A discrete Laplace-Beltrami operator for simplicial surfaces. ArXiv Mathematics e-prints (March 2005). arXiv:math/0503219  A. I. Bobenko and B. A. Springborn. 2005. A discrete Laplace-Beltrami operator for simplicial surfaces. ArXiv Mathematics e-prints (March 2005). arXiv:math/0503219"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "Jean-Daniel Boissonnat and Steve Oudot. 2005. Provably good sampling and meshing of surfaces. Graphical Models 67 5 (2005). 10.1016/j.gmod.2005.01.004   Jean-Daniel Boissonnat and Steve Oudot. 2005. Provably good sampling and meshing of surfaces. Graphical Models 67 5 (2005). 10.1016/j.gmod.2005.01.004"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "unstructured": "David Bommes Bruno L\u00e9vy Nico Pietroni Enrico Puppo Claudio Silva Marco Tarini and Denis Zorin. 2013. Quad-Mesh Generation and Processing: A Survey. Computer Graphics Forum 32 6 (2013). 10.1111/cgf.12014   David Bommes Bruno L\u00e9vy Nico Pietroni Enrico Puppo Claudio Silva Marco Tarini and Denis Zorin. 2013. Quad-Mesh Generation and Processing: A Survey. Computer Graphics Forum 32 6 (2013). 10.1111/cgf.12014",
+                "DOI": "10.1111/cgf.12014",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "unstructured": "Long Chen and Michael J. Holst. 2011. Efficient Mesh Optimization Schemes based on Optimal Delaunay Triangulations. Comput. Methods Appl. Mech. Engrg. 200 (2011).  Long Chen and Michael J. Holst. 2011. Efficient Mesh Optimization Schemes based on Optimal Delaunay Triangulations. Comput. Methods Appl. Mech. Engrg. 200 (2011)."
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "Long Chen and Jin-chao Xu. 2004. Optimal delaunay triangulations. Journal of Computational Mathematics (2004).  Long Chen and Jin-chao Xu. 2004. Optimal delaunay triangulations. Journal of Computational Mathematics (2004)."
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "Siu-Wing Cheng Tamal K. Dey and Jonathan Shewchuk. 2012. Delaunay Mesh Generation (1st ed.). Chapman & Hall/CRC.  Siu-Wing Cheng Tamal K. Dey and Jonathan Shewchuk. 2012. Delaunay Mesh Generation (1st ed.). Chapman & Hall/CRC."
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/41958.41981",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/160985.161150",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "author": "Cignoni Paolo",
+                "year": "2008",
+                "volume-title": "Eurographics Italian Chapter Conference. The Eurographics Association."
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/2516971.2516977",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/2897824.2925880",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1137/110842235",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "Jeff Erickson and Sariel Har-Peled. 2004. Optimally Cutting a Surface into a Disk. Discrete & Computational Geometry 31 1 (2004). 10.1007/s00454-003-2948-z   Jeff Erickson and Sariel Har-Peled. 2004. Optimally Cutting a Surface into a Disk. Discrete & Computational Geometry 31 1 (2004). 10.1007/s00454-003-2948-z"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/3197517.3201358",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "unstructured": "M. Fisher B. Springborn P. Schr\u00f6der and A. I. Bobenko. 2007. An algorithm for the construction of intrinsic delaunay triangulations with applications to digital geometry processing. Computing 81 2 (01 Nov 2007). 10.1007/s00607-007-0249-8   M. Fisher B. Springborn P. Schr\u00f6der and A. I. Bobenko. 2007. An algorithm for the construction of intrinsic delaunay triangulations with applications to digital geometry processing. Computing 81 2 (01 Nov 2007). 10.1007/s00607-007-0249-8"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1016/0167-8655(93)90142-Z",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "Free Software Foundation. 2008. GCC libquadmath.  Free Software Foundation. 2008. GCC libquadmath."
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1006/jagm.1995.0797",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/282918.282923",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "A. Hatcher. 2002. Algebraic Topology. Cambridge University Press.  A. Hatcher. 2002. Algebraic Topology. Cambridge University Press."
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/3197517.3201353",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/2461912.2461916",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/2461912.2462005",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/2767000",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1007/s10732-010-9137-z",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/2999532",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/2816795.2818076",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "unstructured": "Albert T. Lundell and Stephen Weingram. 1969. Regular and Semisimplicial CW Complexes. 77--115.  Albert T. Lundell and Stephen Weingram. 1969. Regular and Semisimplicial CW Complexes. 77--115.",
+                "DOI": "10.1007/978-1-4684-6254-8_4",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "unstructured": "Richard MacNeal. 1949. The Solution of Partial Differential Equations by Means of Electrical Networks. Ph.D. Dissertation. California Institute of Technology.  Richard MacNeal. 1949. The Solution of Partial Differential Equations by Means of Electrical Networks. Ph.D. Dissertation. California Institute of Technology."
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1137/04060929X",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "unstructured": "Pedro Morin Ricardo H Nochetto and Kunibert G Siebert. 2002. Convergence of adaptive finite element methods. SIAM review 44 4 (2002). 10.1137/S0036144502409093   Pedro Morin Ricardo H Nochetto and Kunibert G Siebert. 2002. Convergence of adaptive finite element methods. SIAM review 44 4 (2002). 10.1137/S0036144502409093"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1145/2601097.2601154",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.5555/3059330.3059334",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "unstructured": "Konrad Polthier and Markus Schmies. 1998. Straightest Geodesics on Polyhedral Surfaces. (1998).  Konrad Polthier and Markus Schmies. 1998. Straightest Geodesics on Polyhedral Surfaces. (1998)."
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "unstructured": "Samuel Rippa. 1990. Minimal roughness property of the Delaunay triangulation. Computer Aided Geometric Design 7 6 (1990). 10.1016/0167-8396(90)90011-F   Samuel Rippa. 1990. Minimal roughness property of the Delaunay triangulation. Computer Aided Geometric Design 7 6 (1990). 10.1016/0167-8396(90)90011-F",
+                "DOI": "10.1016/0167-8396(90)90011-F",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "unstructured": "Max Schindler and Evan Chen. 2012. Barycentric Coordinates in Olympiad Geometry.  Max Schindler and Evan Chen. 2012. Barycentric Coordinates in Olympiad Geometry."
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "unstructured": "Teseo Schneider Yixin Hu Jeremie Dumas Xifeng Gao Daniele Panozzo and Denis Zorin. 2018. Decoupling Simulation Accuracy from Mesh Quality. 37 5 (2018).  Teseo Schneider Yixin Hu Jeremie Dumas Xifeng Gao Daniele Panozzo and Denis Zorin. 2018. Decoupling Simulation Accuracy from Mesh Quality. 37 5 (2018)."
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "unstructured": "Silvia Sell\u00e1n Herng Yi Cheng Yuming Ma Mitchell Dembowski and Alec Jacobson. 2019. Solid Geometry Processing on Deconstructed Domains. Computer Graphics Forum (2019).  Silvia Sell\u00e1n Herng Yi Cheng Yuming Ma Mitchell Dembowski and Alec Jacobson. 2019. Solid Geometry Processing on Deconstructed Domains. Computer Graphics Forum (2019).",
+                "DOI": "10.1111/cgf.13592",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1145/3243651",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "author": "Sheffer Alla",
+                "volume-title": "Proceedings of the Conference on Visualization '02 (VIS '02)"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "unstructured": "Philip Shilane Patrick Min Michael Kazhdan and Thomas Funkhouser. 2004. The Princeton Shape Benchmark. In Shape Modeling International.  Philip Shilane Patrick Min Michael Kazhdan and Thomas Funkhouser. 2004. The Princeton Shape Benchmark. In Shape Modeling International."
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "unstructured": "J. Macgregor Smith D. T. Lee and Judith S. Liebman. 1981. An O(n log n) heuristic for steiner minimal tree problems on the euclidean metric. Networks 11 1 (1981).  J. Macgregor Smith D. T. Lee and Judith S. Liebman. 1981. An O(n log n) heuristic for steiner minimal tree problems on the euclidean metric. Networks 11 1 (1981)."
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "author": "Spielman Daniel A",
+                "volume": "4",
+                "year": "2010",
+                "volume-title": "Proceedings of the International Congress of Mathematicians"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "unstructured": "Jane Tournois Camille Wormser Pierre Alliez and Mathieu Desbrun. 2009. Interleaving Delaunay refinement and optimization for practical isotropic tetrahedron mesh generation. 28 3 (2009) 75. 10.1145/1531326.1531381   Jane Tournois Camille Wormser Pierre Alliez and Mathieu Desbrun. 2009. Interleaving Delaunay refinement and optimization for practical isotropic tetrahedron mesh generation. 28 3 (2009) 75. 10.1145/1531326.1531381",
+                "DOI": "10.1145/1531326.1531381",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "unstructured": "Godfried Toussaint. 1980. The Relative Neighborhood Graph of a Finite Planar Set. Pattern Recognition 12 (1980).  Godfried Toussaint. 1980. The Relative Neighborhood Graph of a Finite Planar Set. Pattern Recognition 12 (1980).",
+                "DOI": "10.1016/0031-3203(80)90066-7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "unstructured": "Shi-Qing Xin Shuang-Min Chen Ying He Guo-Jin Wang Xianfeng Gu and Hong Qin. 2011. Isotropic Mesh Simplification by Evolving the Geodesic Delaunay Triangulation. In ISVD. IEEE Computer Society. 10.1109/ISVD.2011.14   Shi-Qing Xin Shuang-Min Chen Ying He Guo-Jin Wang Xianfeng Gu and Hong Qin. 2011. Isotropic Mesh Simplification by Evolving the Geodesic Delaunay Triangulation. In ISVD. IEEE Computer Society. 10.1109/ISVD.2011.14"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "DOI": "10.1145/2159616.2159622",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "DOI": "10.1145/3272127.3275068",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "DOI": "10.1145/2897824.2925901",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_55_1",
+                "first-page": "3D",
+                "article-title": "Thingi10K",
+                "volume": "10",
+                "author": "Zhou Qingnan",
+                "year": "2016",
+                "journal-title": "A Dataset of"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "https://dl.acm.org/doi/pdf/10.1145/3306346.3322979",
+                "content-type": "application/pdf",
+                "content-version": "vor",
+                "intended-application": "syndication"
+            },
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3322979&ftid=2071734&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    5,
+                    5
+                ]
+            ],
+            "date-time": "2020-05-05T17:03:48Z",
+            "timestamp": 1588698228000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "references-count": 52,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        12
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3306346.3322979"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3306346.3322979",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

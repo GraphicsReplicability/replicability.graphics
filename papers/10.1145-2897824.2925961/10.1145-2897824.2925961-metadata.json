@@ -1,0 +1,466 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    7
+                ]
+            ],
+            "date-time": "2020-04-07T22:44:04Z",
+            "timestamp": 1586299444931
+        },
+        "reference-count": 52,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925961",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 31,
+        "title": [
+            "AutoHair"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Menglei",
+                "family": "Chai",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Zhejiang University"
+                    }
+                ]
+            },
+            {
+                "given": "Tianjia",
+                "family": "Shao",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Zhejiang University"
+                    }
+                ]
+            },
+            {
+                "given": "Hongzhi",
+                "family": "Wu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Zhejiang University"
+                    }
+                ]
+            },
+            {
+                "given": "Yanlin",
+                "family": "Weng",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Zhejiang University"
+                    }
+                ]
+            },
+            {
+                "given": "Kun",
+                "family": "Zhou",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Zhejiang University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "Balan A. O. Sigal L. Black M. J. Davis J. E. and Haussecker H. W. 2007. Detailed human shape and pose from images. In CVPR 1--8.  Balan A. O. Sigal L. Black M. J. Davis J. E. and Haussecker H. W. 2007. Detailed human shape and pose from images. In CVPR 1--8.",
+                "DOI": "10.1109/CVPR.2007.383340",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/311535.311556",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1109/34.24792",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "Cao X. Wei Y. Wen F. and Sun J. 2012. Face alignment by explicit shape regression. In CVPR 2887--2894.   Cao X. Wei Y. Wen F. and Sun J. 2012. Face alignment by explicit shape regression. In CVPR 2887--2894."
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/2185520.2185612",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/2461912.2461990",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/2816795.2818112",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "Chen L.-C. Papandreou G. Kokkinos I. Murphy K. and Yuille A. L. 2015. Semantic image segmentation with deep convolutional nets and fully connected CRFs. In ICLR.  Chen L.-C. Papandreou G. Kokkinos I. Murphy K. and Yuille A. L. 2015. Semantic image segmentation with deep convolutional nets and fully connected CRFs. In ICLR ."
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/2682628",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "Dai J. He K. and Sun J. 2015. BoxSup: Exploiting bounding boxes to supervise convolutional networks for semantic segmentation. In ICCV 1635--1643. 10.1109/ICCV.2015.191   Dai J. He K. and Sun J. 2015. BoxSup: Exploiting bounding boxes to supervise convolutional networks for semantic segmentation. In ICCV 1635--1643. 10.1109/ICCV.2015.191",
+                "DOI": "10.1109/ICCV.2015.191",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/311535.311576",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/2601097.2601133",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "Electronic Arts 2014. The Sims Resource. http://www.thesimsresource.com/.  Electronic Arts 2014. The Sims Resource. http://www.thesimsresource.com/."
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1109/PROC.1973.9030",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "unstructured": "Gephi 2016. The Open Graph Viz Platform. https://gephi.org.  Gephi 2016. The Open Graph Viz Platform. https://gephi.org."
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "Girshick R. Donahue J. Darrell T. and Malik J. 2014. Rich feature hierarchies for accurate object detection and semantic segmentation. In CVPR 580--587. 10.1109/CVPR.2014.81   Girshick R. Donahue J. Darrell T. and Malik J. 2014. Rich feature hierarchies for accurate object detection and semantic segmentation. In CVPR 580--587. 10.1109/CVPR.2014.81",
+                "DOI": "10.1109/CVPR.2014.81",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/2366145.2366165",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/2601097.2601194",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/2661229.2661254",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/2766931",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/1141911.1142003",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/2461912.2461954",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/2816795.2818097",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/1618452.1618510",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "author": "Jia Y.",
+                "year": "2013",
+                "volume-title": "Caffe: An open source convolutional architecture for fast feature embedding."
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "unstructured": "Karypis G. and Kumar V. 1998. A fast and high quality multilevel scheme for partitioning irregular graphs. SIAM Journal on scientific Computing 20 1 359--392. 10.1137/S1064827595287997   Karypis G. and Kumar V. 1998. A fast and high quality multilevel scheme for partitioning irregular graphs. SIAM Journal on scientific Computing 20 1 359--392. 10.1137/S1064827595287997",
+                "DOI": "10.1137/S1064827595287997",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/2185520.2185550",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "unstructured": "Kr\u00e4henb\u00fchl P. and Koltun V. 2011. Efficient inference in fully connected CRFs with Gaussian edge potentials. In NIPS 109--117.  Kr\u00e4henb\u00fchl P. and Koltun V. 2011. Efficient inference in fully connected CRFs with Gaussian edge potentials. In NIPS 109--117."
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/2816795.2818071",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1109/TPAMI.2007.1058",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/1531326.1531375",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "unstructured": "Liu Z. Li X. Luo P. Loy C. C. and Tang X. 2015. Semantic image segmentation via deep parsing network. In ICCV 1377--1385. 10.1109/ICCV.2015.162   Liu Z. Li X. Luo P. Loy C. C. and Tang X. 2015. Semantic image segmentation via deep parsing network. In ICCV 1377--1385. 10.1109/ICCV.2015.162",
+                "DOI": "10.1109/ICCV.2015.162",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1109/TIT.1982.1056489",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "unstructured": "Long J. Shelhamer E. and Darrell T. 2015. Fully convolutional networks for semantic segmentation. In CVPR 3431--3440.  Long J. Shelhamer E. and Darrell T. 2015. Fully convolutional networks for semantic segmentation. In CVPR 3431--3440.",
+                "DOI": "10.1109/CVPR.2015.7298965",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "unstructured": "Luo P. Wang X. and Tang X. 2012. Hierarchical face parsing via deep learning. In CVPR 2480--2487.   Luo P. Wang X. and Tang X. 2012. Hierarchical face parsing via deep learning. In CVPR 2480--2487."
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1145/2461912.2462026",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/2601097.2601110",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1145/2010324.1964928",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/1360612.1360629",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "unstructured": "Rabinovich A. Vedaldi A. Galleguillos C. Wiewiora E. and Belongie S. 2007. Objects in context. In ICCV 1--8.  Rabinovich A. Vedaldi A. Galleguillos C. Wiewiora E. and Belongie S. 2007. Objects in context. In ICCV 1--8.",
+                "DOI": "10.1109/ICCV.2007.4408986",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "unstructured": "Ren S. He K. Girshick R. and Sun J. 2015. Faster R-CNN: Towards real-time object detection with region proposal networks. In NIPS 91--99.   Ren S. He K. Girshick R. and Sun J. 2015. Faster R-CNN: Towards real-time object detection with region proposal networks. In NIPS 91--99."
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1145/1360612.1360663",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1007/11744023_1",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "unstructured": "Simonyan K. and Zisserman A. 2014. Very deep convolutional networks for large-scale image recognition. arXiv preprint arXiv:1409.1556.  Simonyan K. and Zisserman A. 2014. Very deep convolutional networks for large-scale image recognition. arXiv preprint arXiv:1409.1556 ."
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "unstructured": "Smith B. M. Zhang L. Brandt J. Lin Z. and Yang J. 2013. Exemplar-based face parsing. In CVPR 3484--3491. 10.1109/CVPR.2013.447   Smith B. M. Zhang L. Brandt J. Lin Z. and Yang J. 2013. Exemplar-based face parsing. In CVPR 3484--3491. 10.1109/CVPR.2013.447",
+                "DOI": "10.1109/CVPR.2013.447",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1007/s11263-013-0620-5",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "author": "Wang D.",
+                "volume-title": "IEEE Automatic Face Gesture Recognition and Workshops, 233--238"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "DOI": "10.1109/TVCG.2007.30",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "author": "Warrell J.",
+                "year": "2009",
+                "volume-title": "Labelfaces: Parsing facial features by multiclass labeling with an epitome prior. In ICIP, 2481--2484."
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "DOI": "10.1111/cgf.12214",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "DOI": "10.1145/1618452.1618512",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "unstructured": "Zheng S. Jayasumana S. Romera-Paredes B. Vineet V. Su Z. Du D. Huang C. and Torr P. H. S. 2015. Conditional random fields as recurrent neural networks. In ICCV 1529--1537. 10.1109/ICCV.2015.179   Zheng S. Jayasumana S. Romera-Paredes B. Vineet V. Su Z. Du D. Huang C. and Torr P. H. S. 2015. Conditional random fields as recurrent neural networks. In ICCV 1529--1537. 10.1109/ICCV.2015.179",
+                "DOI": "10.1109/ICCV.2015.179",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925961&amp;ftid=1755946&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:33:30Z",
+            "timestamp": 1585964010000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "fully automatic hair modeling from a single image"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 52,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925961"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925961",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

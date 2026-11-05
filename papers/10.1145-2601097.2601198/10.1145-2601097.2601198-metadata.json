@@ -1,0 +1,363 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:11:21Z",
+            "timestamp": 1586002281964
+        },
+        "reference-count": 33,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601198",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 60,
+        "title": [
+            "Automatic editing of footage from multiple social cameras"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Ido",
+                "family": "Arev",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "The Interdisciplinary Center Herzliya and Disney Research Pittsburgh"
+                    }
+                ]
+            },
+            {
+                "given": "Hyun Soo",
+                "family": "Park",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Carnegie Mellon University"
+                    }
+                ]
+            },
+            {
+                "given": "Yaser",
+                "family": "Sheikh",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Carnegie Mellon University and Disney Research Pittsburgh"
+                    }
+                ]
+            },
+            {
+                "given": "Jessica",
+                "family": "Hodgins",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Carnegie Mellon University and Disney Research Pittsburgh"
+                    }
+                ]
+            },
+            {
+                "given": "Ariel",
+                "family": "Shamir",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "The Interdisciplinary Center Herzliya and Disney Research Pittsburgh"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_1_1_1",
+                "unstructured": "Agarwal S. Furukawa Y. Snavely N. Simon I. Curless B. Seitz S. M. and Szeliski R. 2011. Building rome in a day. Communications of the ACM. 10.1145/2001269.2001293   Agarwal S. Furukawa Y. Snavely N. Simon I. Curless B. Seitz S. M. and Szeliski R. 2011. Building rome in a day. Communications of the ACM . 10.1145/2001269.2001293",
+                "DOI": "10.1145/2001269.2001293",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_2_1",
+                "unstructured": "Ballan L. Brostow G. J. Puwein J. and Pollefeys M. 2010. Unstructured video-based rendering: interactive exploration of casually captured videos. ACM Transactions on Graphics. 10.1145/1778765.1778824   Ballan L. Brostow G. J. Puwein J. and Pollefeys M. 2010. Unstructured video-based rendering: interactive exploration of casually captured videos. ACM Transactions on Graphics . 10.1145/1778765.1778824",
+                "DOI": "10.1145/1833349.1778824",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_3_1",
+                "DOI": "10.1145/1814433.1814468",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_4_1",
+                "author": "Barbieri M.",
+                "volume-title": "Proceedings of the SPIE Internet Multimedia Management Systems."
+            },
+            {
+                "key": "e_1_2_1_5_1",
+                "unstructured": "Berthouzoz F. Li W. and Agrawala M. 2012. Tools for placing cuts and transitions in interview video. ACM Transactions on Graphics. 10.1145/2185520.2185563   Berthouzoz F. Li W. and Agrawala M. 2012. Tools for placing cuts and transitions in interview video. ACM Transactions on Graphics . 10.1145/2185520.2185563"
+            },
+            {
+                "key": "e_1_2_1_6_1",
+                "unstructured": "Cricri F. Curcio I. D. D. Mate S. Dabov K. and Gabbouj M. 2012. Sensor-based analysis of user generated video for multi-camera video remixing. In Advances in Multimedia Modeling. 10.1007/978-3-642-27355-1_25   Cricri F. Curcio I. D. D. Mate S. Dabov K. and Gabbouj M. 2012. Sensor-based analysis of user generated video for multi-camera video remixing. In Advances in Multimedia Modeling . 10.1007/978-3-642-27355-1_25",
+                "DOI": "10.1155/2012/292064",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_7_1",
+                "author": "Dale K.",
+                "volume-title": "Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, Workshop on Large-Scale Video Search and Mining."
+            },
+            {
+                "key": "e_1_2_1_8_1",
+                "unstructured": "Dmytryk E. 1984. On Film Editing: An Introduction to the Art of Film Construction. Focal Press.  Dmytryk E. 1984. On Film Editing: An Introduction to the Art of Film Construction . Focal Press."
+            },
+            {
+                "key": "e_1_2_1_9_1",
+                "author": "Fathi A.",
+                "volume-title": "Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition."
+            },
+            {
+                "key": "e_1_2_1_10_1",
+                "DOI": "10.1145/1291233.1291246",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_11_1",
+                "author": "Hata T.",
+                "volume-title": "Proceedings of Visual Database Systems."
+            },
+            {
+                "key": "e_1_2_1_12_1",
+                "unstructured": "He L.-w. Cohen M. F. and Salesin D. H. 1996. The virtual cinematographer: A paradigm for automatic real-time camera control and directing. ACM Transactions on Graphics.  He L.-w. Cohen M. F. and Salesin D. H. 1996. The virtual cinematographer: A paradigm for automatic real-time camera control and directing. ACM Transactions on Graphics .",
+                "DOI": "10.1145/237170.237259",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_13_1",
+                "DOI": "10.1145/1198302.1198306",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_14_1",
+                "DOI": "10.1145/2517351.2517356",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_15_1",
+                "author": "Kim K.",
+                "volume-title": "Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition."
+            },
+            {
+                "key": "e_1_2_1_16_1",
+                "unstructured": "Kumar K. Prasad S. Banwral S. and Semwa V. 2010. Sports video summarization using priority curve algorithm. International Journal on Computer Science and Engineering.  Kumar K. Prasad S. Banwral S. and Semwa V. 2010. Sports video summarization using priority curve algorithm. International Journal on Computer Science and Engineering ."
+            },
+            {
+                "key": "e_1_2_1_17_1",
+                "author": "Lee Y. J.",
+                "volume-title": "Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition."
+            },
+            {
+                "key": "e_1_2_1_18_1",
+                "unstructured": "Lepetit V. Moreno-Noguer F. and Fua P. 2009. EPnP: An accurate O(n) solution to the PnP problem. International Journal of Computer Vision. 10.1007/s11263-008-0152-6   Lepetit V. Moreno-Noguer F. and Fua P. 2009. EPnP: An accurate O(n) solution to the PnP problem. International Journal of Computer Vision . 10.1007/s11263-008-0152-6"
+            },
+            {
+                "key": "e_1_2_1_19_1",
+                "DOI": "10.1109/CVPR.2013.350",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_20_1",
+                "author": "Machnicki E.",
+                "year": "2002",
+                "volume-title": "Proceedings of the SPIE Multimedia Computing and Networking."
+            },
+            {
+                "key": "e_1_2_1_21_1",
+                "unstructured": "Money A. and Agius H. 2008. Video summarisation: A conceptual framework and survey of the state of the art. Journal of Visual Communications and Image Representation. 10.1016/j.jvcir.2007.04.002   Money A. and Agius H. 2008. Video summarisation: A conceptual framework and survey of the state of the art. Journal of Visual Communications and Image Representation . 10.1016/j.jvcir.2007.04.002"
+            },
+            {
+                "key": "e_1_2_1_22_1",
+                "unstructured": "Park H. S. Jain E. and Sheikh Y. 2012. 3D social saliency from head-mounted cameras. In Advances in Neural Information Processing Systems.  Park H. S. Jain E. and Sheikh Y. 2012. 3D social saliency from head-mounted cameras. In Advances in Neural Information Processing Systems ."
+            },
+            {
+                "key": "e_1_2_1_23_1",
+                "unstructured": "Ponto K. Kohlmann J. and Gleicher M. 2012. Effective replays and summarization of virtual experiences. IEEE Transactions on Visualization and Computer Graphics. 10.1109/TVCG.2012.41   Ponto K. Kohlmann J. and Gleicher M. 2012. Effective replays and summarization of virtual experiences. IEEE Transactions on Visualization and Computer Graphics . 10.1109/TVCG.2012.41"
+            },
+            {
+                "key": "e_1_2_1_24_1",
+                "author": "Pundik D.",
+                "volume-title": "Proceedings of the European Conference on Computer Vision."
+            },
+            {
+                "key": "e_1_2_1_25_1",
+                "DOI": "10.1145/500141.500145",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_26_1",
+                "DOI": "10.1145/1873951.1874023",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_27_1",
+                "unstructured": "Snavely N. Seitz S. M. and Szeliski R. 2006. Photo tourism: exploring photo collections in 3D. ACM Transactions on Graphics. 10.1145/1141911.1141964   Snavely N. Seitz S. M. and Szeliski R. 2006. Photo tourism: exploring photo collections in 3D. ACM Transactions on Graphics . 10.1145/1141911.1141964",
+                "DOI": "10.1145/1179352.1141964",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_28_1",
+                "unstructured": "Sumec S. 2006. Multi camera automatic video editing. Computer Vision and Graphics.  Sumec S. 2006. Multi camera automatic video editing. Computer Vision and Graphics ."
+            },
+            {
+                "key": "e_1_2_1_29_1",
+                "unstructured": "Takemae Y. Otsuka K. and Mukawa N. 2004. Impact of video editing based on participants' gaze in multiparty conversation. In ACM CHI Extended Abstracts on Human Factors in Computing Systems. 10.1145/985921.986057   Takemae Y. Otsuka K. and Mukawa N. 2004. Impact of video editing based on participants' gaze in multiparty conversation. In ACM CHI Extended Abstracts on Human Factors in Computing Systems . 10.1145/985921.986057",
+                "DOI": "10.1145/985921.986057",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_30_1",
+                "unstructured": "Taskiran C. and Delp E. 2005. Video summarization. Digital Image Sequence Processing Compression and Analysis.  Taskiran C. and Delp E. 2005. Video summarization. Digital Image Sequence Processing Compression and Analysis ."
+            },
+            {
+                "key": "e_1_2_1_31_1",
+                "DOI": "10.1145/1198302.1198305",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_32_1",
+                "unstructured": "Wardrip-Fruin N. and Harrigan P. 2004. First person: New media as story performance and game. MIT Press.   Wardrip-Fruin N. and Harrigan P. 2004. First person: New media as story performance and game . MIT Press."
+            },
+            {
+                "key": "e_1_2_1_33_1",
+                "DOI": "10.1145/1995966.1996009",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601198&amp;ftid=1488889&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:46:21Z",
+            "timestamp": 1586000781000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 33,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601198"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601198",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

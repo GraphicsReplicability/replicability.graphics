@@ -1,0 +1,435 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:11:21Z",
+            "timestamp": 1586002281431
+        },
+        "reference-count": 41,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100004963",
+                "name": "Seventh Framework Programme",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100007065",
+                "name": "Nvidia",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/501100003329",
+                "name": "Ministerio de Econom\u00eda y Competitividad",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100002418",
+                "name": "Intel Corporation",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100004344",
+                "name": "Adobe Systems",
+                "doi-asserted-by": "publisher",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601125",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-10",
+        "source": "Crossref",
+        "is-referenced-by-count": 31,
+        "title": [
+            "How do people edit light fields?"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Adrian",
+                "family": "Jarabo",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Universidad de Zaragoza"
+                    }
+                ]
+            },
+            {
+                "given": "Belen",
+                "family": "Masia",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Universidad de Zaragoza"
+                    }
+                ]
+            },
+            {
+                "given": "Adrien",
+                "family": "Bousseau",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Inria"
+                    }
+                ]
+            },
+            {
+                "given": "Fabio",
+                "family": "Pellacini",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Sapienza University of Rome"
+                    }
+                ]
+            },
+            {
+                "given": "Diego",
+                "family": "Gutierrez",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Universidad de Zaragoza"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/1053427.1053450",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1109/MCG.2006.13",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.5555/2161896",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "Davis A. Levoy M. and Durand F. 2012. Unstructured light fields. Comp. Graph. Forum 31 2pt1 305--314. 10.1111/j.1467-8659.2012.03009.x   Davis A. Levoy M. and Durand F. 2012. Unstructured light fields. Comp. Graph. Forum 31 2pt1 305--314. 10.1111/j.1467-8659.2012.03009.x",
+                "DOI": "10.1111/j.1467-8659.2012.03009.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1167/3.5.3",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/1449715.1449719",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/237170.237200",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/2010324.1964965",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/97880.97902",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "author": "Hasinoff S.",
+                "volume-title": "Proc of ICCP'10"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1080/01621459.1987.10478551",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/1230100.1230121",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/344779.344929",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "author": "Jarabo A.",
+                "volume-title": "Proc. of SIACG'11"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/1531326.1531332",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/1778765.1778772",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/2461912.2461926",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/2448196.2448223",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/237170.237199",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/1882261.1866173",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "Lytro Inc. 2013. The Lytro camera. http://www.lytro.com.  Lytro Inc. 2013. The Lytro camera. http://www.lytro.com."
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1016/j.cag.2012.06.005",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1016/j.cag.2013.10.003",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "Ou J. Karl\u00edk O. K\u0159iv\u00e1nek J. and Pellacini F. 2012. Toward evaluating progressive rendering methods in appearance design tasks. IEEE Comput. Graph. Appl. 33. 10.1109/MCG.2012.109   Ou J. Karl\u00edk O. K\u0159iv\u00e1nek J. and Pellacini F. 2012. Toward evaluating progressive rendering methods in appearance design tasks. IEEE Comput. Graph. Appl. 33 . 10.1109/MCG.2012.109"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "unstructured": "Pharr M. and Humphreys G. 2010. Physically based rendering: From theory to implementation. Morgan Kaufmann.   Pharr M. and Humphreys G. 2010. Physically based rendering: From theory to implementation . Morgan Kaufmann."
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1109/ICCV.2011.6126363",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/1882261.1866186",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/2470654.2466148",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1023/A:1016046923611",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/990002.990005",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.5555/2383533.2383541",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/2185520.2185588",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/2343456.2343468",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "author": "Vaish V.",
+                "volume-title": "Proc. of CVPR'04"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1145/2508363.2508390",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "unstructured": "Vertical Horizon 2013. Lightfield Iris. http://www.verticalhorizon-software.com/LFI/index.html.  Vertical Horizon 2013. Lightfield Iris. http://www.verticalhorizon-software.com/LFI/index.html."
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1109/TVCG.2005.11",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "author": "Wanner S.",
+                "volume-title": "Proc. of CVPR'12"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/2343483.2343487",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1145/2366145.2366195",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1145/566654.566602",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601125&amp;ftid=1488955&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:54:16Z",
+            "timestamp": 1586001256000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 41,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601125"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601125",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

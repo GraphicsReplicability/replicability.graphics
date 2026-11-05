@@ -1,0 +1,459 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2021,
+                    7,
+                    28
+                ]
+            ],
+            "date-time": "2021-07-28T22:43:44Z",
+            "timestamp": 1627512224267
+        },
+        "reference-count": 44,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "funder": [
+            {
+                "name": "Natural Science Foundation of Guangdong Province, China",
+                "award": [
+                    "2019A1515011075"
+                ]
+            },
+            {
+                "name": "National Key R&D Program of China",
+                "award": [
+                    "2018AAA0100300"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2021,
+                    8
+                ]
+            ]
+        },
+        "DOI": "10.1145/3450626.3459833",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2021,
+                    7,
+                    20
+                ]
+            ],
+            "date-time": "2021-07-20T00:04:26Z",
+            "timestamp": 1626739466000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+            "General virtual sketching framework for vector line art"
+        ],
+        "prefix": "10.1145",
+        "volume": "40",
+        "author": [
+            {
+                "given": "Haoran",
+                "family": "Mo",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Sun Yat-sen University, China"
+                    }
+                ]
+            },
+            {
+                "given": "Edgar",
+                "family": "Simo-Serra",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Waseda University, Japan"
+                    }
+                ]
+            },
+            {
+                "given": "Chengying",
+                "family": "Gao",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Sun Yat-sen University, China"
+                    }
+                ]
+            },
+            {
+                "given": "Changqing",
+                "family": "Zou",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Huawei Technologies Canada, Canada"
+                    }
+                ]
+            },
+            {
+                "given": "Ruomei",
+                "family": "Wang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Sun Yat-sen University, China"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/3202661"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "doi-asserted-by": "crossref",
+                "unstructured": "Jifeng Dai Kaiming He and Jian Sun. 2016. Instance-aware Semantic Segmentation via Multi-task Network Cascades. In CVPR.  Jifeng Dai Kaiming He and Jian Sun. 2016. Instance-aware Semantic Segmentation via Multi-task Network Cascades. In CVPR.",
+                "DOI": "10.1109/CVPR.2016.343"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1007/978-3-030-58574-7_38"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "volume-title": "Deep Vectorization of Technical Drawings. arXiv preprint arXiv:2003.05471",
+                "author": "Egiazarian Vage",
+                "year": "2020"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/CVPR.2017.264"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/2897824.2925946"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "volume-title": "SM Ali Eslami, and Oriol Vinyals",
+                "author": "Ganin Yaroslav",
+                "year": "2018"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/ICCV.2015.169"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "Ian Goodfellow Jean Pouget-Abadie Mehdi Mirza Bing Xu David Warde-Farley Sherjil Ozair Aaron Courville and Yoshua Bengio. 2014. Generative adversarial nets. In Advances in neural information processing systems. 2672--2680.  Ian Goodfellow Jean Pouget-Abadie Mehdi Mirza Bing Xu David Warde-Farley Sherjil Ozair Aaron Courville and Yoshua Bengio. 2014. Generative adversarial nets. In Advances in neural information processing systems. 2672--2680."
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "volume-title": "Generating sequences with recurrent neural networks. arXiv preprint arXiv:1308.0850",
+                "author": "Graves Alex",
+                "year": "2013"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "volume-title": "Computer Graphics Forum",
+                "author": "Guo Yi"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "volume-title": "International Conference on Learning Representations.",
+                "author": "Ha David",
+                "year": "2018"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/ICCV.2017.322"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "volume-title": "Long short-term memory. Neural computation 9, 8",
+                "author": "Hochreiter Sepp",
+                "year": "1997"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/ICCV.2019.00880"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/CVPR.2017.632"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1007/978-3-319-46475-6_43"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "doi-asserted-by": "crossref",
+                "unstructured": "Tero Karras Samuli Laine and Timo Aila. 2019. A style-based generator architecture for generative adversarial networks. In CVPR.  Tero Karras Samuli Laine and Timo Aila. 2019. A style-based generator architecture for generative adversarial networks. In CVPR.",
+                "DOI": "10.1109/CVPR.2019.00453"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1111/cgf.13365"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "volume-title": "Adam: A method for stochastic optimization. arXiv preprint arXiv:1412.6980",
+                "author": "Kingma Diederik P",
+                "year": "2014"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "Cheng-Han Lee Ziwei Liu Lingyun Wu and Ping Luo. 2020. MaskGAN: Towards Diverse and Interactive Facial Image Manipulation. In CVPR.  Cheng-Han Lee Ziwei Liu Lingyun Wu and Ping Luo. 2020. MaskGAN: Towards Diverse and Interactive Facial Image Manipulation. In CVPR."
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/WACV.2019.00154"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/3414685.3417763"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "first-page": "1",
+                "article-title": "Strokeaggregator: Consolidating raw sketches into artist-intended curve drawings",
+                "volume": "37",
+                "author": "Liu Chenxi",
+                "year": "2018",
+                "journal-title": "ACM Transactions on Graphics (TOG)"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/3072959.3073682"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "volume-title": "Eric Frank, Alex Sergeev, and Jason Yosinski.",
+                "author": "Liu Rosanne",
+                "year": "2018"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "first-page": "1",
+                "article-title": "Closure-aware sketch simplification",
+                "volume": "34",
+                "author": "Liu Xueting",
+                "year": "2015",
+                "journal-title": "ACM Transactions on Graphics (TOG)"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/CVPR.2018.00539"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "volume-title": "Unsupervised Doodling and Painting with Improved SPIRAL. arXiv preprint arXiv:1910.01007",
+                "author": "Mellor John FJ",
+                "year": "2019"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "volume-title": "Neural painters: A learned differentiable constraint for generating brushstroke paintings. arXiv preprint arXiv:1904.08410",
+                "author": "Nakano Reiichiro",
+                "year": "2019"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/2421636.2421640"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "doi-asserted-by": "crossref",
+                "first-page": "1",
+                "DOI": "10.1145/3132703",
+                "article-title": "Mastering sketching: adversarial augmentation for structured prediction",
+                "volume": "37",
+                "author": "Simo-Serra Edgar",
+                "year": "2018",
+                "journal-title": "ACM Transactions on Graphics (TOG)"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "doi-asserted-by": "crossref",
+                "first-page": "1",
+                "DOI": "10.1145/3197517.3201370",
+                "article-title": "Real-time data-driven interactive rough sketch inking",
+                "volume": "37",
+                "author": "Simo-Serra Edgar",
+                "year": "2018",
+                "journal-title": "ACM Transactions on Graphics (TOG)"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/2897824.2925972"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "volume-title": "Very Deep Convolutional Networks for Large-Scale Image Recognition. In International Conference on Learning Representations.",
+                "author": "Simonyan Karen",
+                "year": "2015"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/CVPR.2018.00090"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "volume-title": "Computer Graphics Forum",
+                "author": "Stanko Tibor"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/3173574.3174236"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "volume-title": "Instance normalization: The missing ingredient for fast stylization. arXiv preprint arXiv:1607.08022",
+                "author": "Ulyanov Dmitry",
+                "year": "2016"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/ICCV.2015.164"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/TVCG.2019.2930512"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "first-page": "1",
+                "article-title": "A benchmark for rough sketch cleanup",
+                "volume": "39",
+                "author": "Yan Chuan",
+                "year": "2020",
+                "journal-title": "ACM Transactions on Graphics (TOG)"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/CVPR.2018.00068"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "volume-title": "StrokeNet: A Neural Painting Environment. In International Conference on Learning Representations.",
+                "author": "Zheng Ningyuan",
+                "year": "2019"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "https://dl.acm.org/doi/pdf/10.1145/3450626.3459833",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2021,
+                    7,
+                    20
+                ]
+            ],
+            "date-time": "2021-07-20T00:05:43Z",
+            "timestamp": 1626739543000
+        },
+        "score": 1,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2021,
+                    8
+                ]
+            ]
+        },
+        "references-count": 44,
+        "journal-issue": {
+            "issue": "4",
+            "published-print": {
+                "date-parts": [
+                    [
+                        2021,
+                        8
+                    ]
+                ]
+            }
+        },
+        "alternative-id": [
+            "10.1145/3450626.3459833"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3450626.3459833",
+        "relation": {},
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ],
+        "subject": [
+            "Computer Graphics and Computer-Aided Design"
+        ],
+        "published": {
+            "date-parts": [
+                [
+                    2021,
+                    8
+                ]
+            ]
+        }
+    }
+}

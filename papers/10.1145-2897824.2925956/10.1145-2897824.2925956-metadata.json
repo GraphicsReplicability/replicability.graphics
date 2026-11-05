@@ -1,0 +1,319 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T02:11:28Z",
+            "timestamp": 1585966288089
+        },
+        "reference-count": 22,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100003407",
+                "name": "Ministero dell\u2019Istruzione, dell\u2019Universit\u00e0 e della Ricerca",
+                "doi-asserted-by": "crossref",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/501100004271",
+                "name": "Sapienza Universit\u00e0 di Roma",
+                "doi-asserted-by": "crossref",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100002418",
+                "name": "Intel Corporation",
+                "doi-asserted-by": "crossref",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925956",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-8",
+        "source": "Crossref",
+        "is-referenced-by-count": 4,
+        "title": [
+            "cSculpt"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Claudio",
+                "family": "Calabrese",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Sapienza University of Rome"
+                    }
+                ]
+            },
+            {
+                "given": "Gabriele",
+                "family": "Salvati",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Sapienza University of Rome"
+                    }
+                ]
+            },
+            {
+                "given": "Marco",
+                "family": "Tarini",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "CNR-ISTI and Insubria University"
+                    }
+                ]
+            },
+            {
+                "given": "Fabio",
+                "family": "Pellacini",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Sapienza University of Rome"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1007/s00371-002-0180-0",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1016/j.gmod.2005.08.002",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "unstructured": "Blender 2014. Blender. http://www.blender.org/.  Blender 2014. Blender. http://www.blender.org/."
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1111/cgf.12558",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/2461912.2461942",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/2766936",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/2661229.2661282",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "Dobo\u0161 J. and Steed A. 2012. 3d diff: an interactive approach to mesh differencing and conflict resolution. In SIGGRAPH Asia 2012 Technical Briefs 20:1--20:4. 10.1145/2407746.2407766   Dobo\u0161 J. and Steed A. 2012. 3d diff: an interactive approach to mesh differencing and conflict resolution. In SIGGRAPH Asia 2012 Technical Briefs 20:1--20:4. 10.1145/2407746.2407766"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/166117.166119",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/1268517.1268567",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1111/j.1467-8659.2012.03052.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/1409625.1409627",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/344779.344922",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1111/j.1467-8659.2008.01252.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/311535.311586",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "Li F. W. B. Lau R. W. H. and Ng F. F. C. 2001. Collaborative distributed virtual sculpting. In IEEE VR '01 VR '01.   Li F. W. B. Lau R. W. H. and Ng F. F. C. 2001. Collaborative distributed virtual sculpting. In IEEE VR '01 VR '01."
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/1073204.1073217",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "unstructured": "Onshape 2014. Full-cloud 3d cad system. https://www.onshape.com/.  Onshape 2014. Full-cloud 3d cad system. https://www.onshape.com/."
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1007/s00371-008-0260-x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/2816795.2818110",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/1057432.1057456",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/1141911.1142002",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925956&amp;ftid=1755891&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:28:39Z",
+            "timestamp": 1585963719000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "a system for collaborative sculpting"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 22,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925956"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925956",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

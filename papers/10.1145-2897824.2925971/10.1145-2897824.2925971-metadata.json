@@ -1,0 +1,445 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T02:11:26Z",
+            "timestamp": 1585966286591
+        },
+        "reference-count": 43,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100003621",
+                "name": "Ministry of Science, ICT and Future Planning",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "0414-20150081"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100003662",
+                "name": "Korea Evaluation Institute of Industrial Technology",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "0414-20150081"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925971",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 26,
+        "title": [
+            "Additive light field displays"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Seungjae",
+                "family": "Lee",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Seoul National University"
+                    }
+                ]
+            },
+            {
+                "given": "Changwon",
+                "family": "Jang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Seoul National University"
+                    }
+                ]
+            },
+            {
+                "given": "Seokil",
+                "family": "Moon",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Seoul National University"
+                    }
+                ]
+            },
+            {
+                "given": "Jaebum",
+                "family": "Cho",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Seoul National University"
+                    }
+                ]
+            },
+            {
+                "given": "Byoungho",
+                "family": "Lee",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Seoul National University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/1015706.1015804",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "Andersen A. H. and Kak A. C. 1984. Simultaneous algebraic reconstruction technique (sart): a superior implementation of the art algorithm. Ultrasonic imaging 6 1 81--94.  Andersen A. H. and Kak A. C. 1984. Simultaneous algebraic reconstruction technique (sart): a superior implementation of the art algorithm. Ultrasonic imaging 6 1 81--94.",
+                "DOI": "10.1016/0161-7346(84)90008-7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "unstructured": "Azuma R. T. 1997. A survey of augmented reality. Presence: Teleoperators and virtual environments 6 4 355--385. 10.1162/pres.1997.6.4.355   Azuma R. T. 1997. A survey of augmented reality. Presence: Teleoperators and virtual environments 6 4 355--385. 10.1162/pres.1997.6.4.355",
+                "DOI": "10.1162/pres.1997.6.4.355",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1117/12.7971806",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1137/S1052623494240456",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "unstructured": "Coufal H. J. Sincerbox G. T. and Psaltis D. 2000. Holographic data storage. Springer-Verlag.   Coufal H. J. Sincerbox G. T. and Psaltis D. 2000. Holographic data storage . Springer-Verlag.",
+                "DOI": "10.1007/978-3-540-47864-5",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1109/TVCG.2010.241",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/2207676.2208405",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/2601097.2601144",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1364/OPEX.12.004579",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1364/OE.18.020628",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1364/AO.51.004201",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1364/OL.39.000127",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/2766922",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1364/AO.33.002115",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1364/AO.55.000A71",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1364/OE.22.013484",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1007/s10043-001-0241-z",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1016/S0097-8493(03)00028-1",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "author": "Kim H.-J.",
+                "volume-title": "IEEE International Conference on Consumer Electronics (ICCE), 132--133"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/1882261.1866164",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/2070781.2024220",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1038/44565",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1364/AO.55.000A95",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "unstructured": "Lee B. 2013. Three-dimensional displays past and present. Physics today 66 4 36--41.  Lee B. 2013. Three-dimensional displays past and present. Physics today 66 4 36--41.",
+                "DOI": "10.1063/PT.3.1947",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1364/OE.23.033170",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "unstructured": "Lippmann G. 1908. Epreuves reversibles donnant la sensation du relief. j. phys 7 4 821--825.  Lippmann G. 1908. Epreuves reversibles donnant la sensation du relief. j. phys 7 4 821--825.",
+                "DOI": "10.1051/jphystap:019080070082100",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1109/ISMAR.2008.4637321",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1364/OE.17.015716",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/2601097.2601141",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/2766909",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1109/ISMAR.2005.15",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1364/OE.17.017895",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1364/AO.48.000H77",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "unstructured": "Saleh B. E. Teich M. C. and Saleh B. E. 2007. Fundamentals of photonics vol. 22. Wiley New York.  Saleh B. E. Teich M. C. and Saleh B. E. 2007. Fundamentals of photonics vol. 22. Wiley New York."
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "first-page": "6177",
+                "article-title": "Large size three-dimensional video by electronic holography using multiple spatial light modulators. Sci",
+                "volume": "4",
+                "author": "Sasaki H.",
+                "year": "2014",
+                "journal-title": "Rep."
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/237170.237283",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1364/OE.18.008824",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1364/AO.48.003255",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1364/OL.40.001873",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1145/2010324.1964990",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1145/2185520.2185576",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "unstructured": "Yeom J. Jeong J. Jang C. Li G. Hong K. and Lee B. 2015. Three-dimensional/two-dimensional convertible projection screen using see-through integral imaging based on holographic optical element. Applied optics 54 30 8856--8862.  Yeom J. Jeong J. Jang C. Li G. Hong K. and Lee B. 2015. Three-dimensional/two-dimensional convertible projection screen using see-through integral imaging based on holographic optical element. Applied optics 54 30 8856--8862.",
+                "DOI": "10.1364/AO.54.008856",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925971&amp;ftid=1755897&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:31:51Z",
+            "timestamp": 1585963911000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "realization of augmented reality with holographic optical elements"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 43,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925971"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925971",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

@@ -1,0 +1,401 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    3
+                ]
+            ],
+            "date-time": "2020-07-03T23:40:40Z",
+            "timestamp": 1593819640297
+        },
+        "reference-count": 40,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2019,
+                            7,
+                            12
+                        ]
+                    ],
+                    "date-time": "2019-07-12T00:00:00Z",
+                    "timestamp": 1562889600000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "DOI": "10.1145/3306346.3322998",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2019-07-12T19:04:08Z",
+            "timestamp": 1562958248000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 3,
+        "title": [
+            "InteractionFusion"
+        ],
+        "prefix": "10.1145",
+        "volume": "38",
+        "author": [
+            {
+                "given": "Hao",
+                "family": "Zhang",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "BNRist and School of Software, Tsinghua University, China"
+                    }
+                ]
+            },
+            {
+                "given": "Zi-Hao",
+                "family": "Bo",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "BNRist and School of Software, Tsinghua University, China"
+                    }
+                ]
+            },
+            {
+                "given": "Jun-Hai",
+                "family": "Yong",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "BNRist and School of Software, Tsinghua University, China"
+                    }
+                ]
+            },
+            {
+                "given": "Feng",
+                "family": "Xu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "BNRist and School of Software, Tsinghua University, China"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_1_1_1",
+                "DOI": "10.1007/978-3-642-33783-3_46",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_2_1",
+                "unstructured": "Zihao Bo Hao Zhang Junhai Yong and Feng Xu. 2019. DenseAttentionSeg: Segment Hands from Interacted Objects Using Depth Input. arXiv preprint arXiv:1903.12368 (2019).  Zihao Bo Hao Zhang Junhai Yong and Feng Xu. 2019. DenseAttentionSeg: Segment Hands from Interacted Objects Using Depth Input. arXiv preprint arXiv:1903.12368 (2019)."
+            },
+            {
+                "key": "e_1_2_1_3_1",
+                "DOI": "10.1109/ICCV.2017.339",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_4_1",
+                "DOI": "10.1145/2897824.2925969",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_5_1",
+                "DOI": "10.1109/ICCV.2009.5459282",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_6_1",
+                "DOI": "10.1145/3197517.3201399",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_7_1",
+                "unstructured": "Sepp Hochreiter and J\u00fcrgen Schmidhuber. 1997. Long short-term memory. Neural computation 9 8 (1997) 1735--1780. 10.1162/neco.1997.9.8.1735   Sepp Hochreiter and J\u00fcrgen Schmidhuber. 1997. Long short-term memory. Neural computation 9 8 (1997) 1735--1780. 10.1162/neco.1997.9.8.1735"
+            },
+            {
+                "key": "e_1_2_1_8_1",
+                "author": "Kingma Diederik P",
+                "year": "2014",
+                "volume-title": "Adam: A method for stochastic optimization. arXiv preprint arXiv:1412.6980"
+            },
+            {
+                "key": "e_1_2_1_9_1",
+                "DOI": "10.1177/0278364911403178",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_10_1",
+                "DOI": "10.1109/CVPR.2013.9",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_11_1",
+                "DOI": "10.1109/CVPR.2014.438",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_12_1",
+                "DOI": "10.1109/CVPR.2018.00013",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_13_1",
+                "author": "Mueller Franziska",
+                "volume": "10",
+                "year": "2017",
+                "volume-title": "Proceedings of International Conference on Computer Vision (ICCV)"
+            },
+            {
+                "key": "e_1_2_1_14_1",
+                "DOI": "10.1109/CVPR.2015.7298631",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_15_1",
+                "DOI": "10.1109/ISMAR.2011.6092378",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_16_1",
+                "unstructured": "Iason Oikonomidis Nikolaos Kyriazis and Antonis A Argyros. 2011. Full dof tracking of a hand interacting with an object by modeling occlusions and physical constraints. (2011).  Iason Oikonomidis Nikolaos Kyriazis and Antonis A Argyros. 2011. Full dof tracking of a hand interacting with an object by modeling occlusions and physical constraints. (2011)."
+            },
+            {
+                "key": "e_1_2_1_17_1",
+                "first-page": "39",
+                "article-title": "Back to RGB: 3D tracking of hands and hand-object interactions based on short-baseline stereo",
+                "volume": "2",
+                "author": "Panteleris Paschalis",
+                "year": "2017",
+                "journal-title": "Hand"
+            },
+            {
+                "key": "e_1_2_1_18_1",
+                "unstructured": "Paschalis Panteleris Nikolaos Kyriazis and Antonis A Argyros. 2015. 3D Tracking of Human Hands in Interaction with Unknown Objects.. In BMVC. 123--1.  Paschalis Panteleris Nikolaos Kyriazis and Antonis A Argyros. 2015. 3D Tracking of Human Hands in Interaction with Unknown Objects.. In BMVC. 123--1.",
+                "DOI": "10.5244/C.29.123",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_19_1",
+                "author": "Petit Antoine",
+                "year": "2018",
+                "volume-title": "Capturing Deformations of Interacting Non-rigid Objects Using RGB-D Data. In IROS 2018-IEEE/RSJ International Conference on Intelligent Robots and Systems."
+            },
+            {
+                "key": "e_1_2_1_20_1",
+                "DOI": "10.1109/ICPR.2016.7900051",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_21_1",
+                "DOI": "10.1109/CVPR.2015.7299061",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_22_1",
+                "DOI": "10.1109/ICCV.2015.443",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_23_1",
+                "DOI": "10.1109/ROBOT.2010.5509753",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_24_1",
+                "DOI": "10.1145/566654.566600",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_25_1",
+                "author": "Rusinkiewicz Szymon",
+                "year": "2001",
+                "volume-title": "Proceedings. Third International Conference on. IEEE, 145--152"
+            },
+            {
+                "key": "e_1_2_1_26_1",
+                "DOI": "10.1109/ICRA.2015.7138989",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_27_1",
+                "author": "Slavcheva Miroslava",
+                "year": "2017",
+                "volume-title": "Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 1386--1395"
+            },
+            {
+                "key": "e_1_2_1_28_1",
+                "DOI": "10.1109/CVPR.2018.00280",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_29_1",
+                "DOI": "10.1007/978-3-319-46475-6_19",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_30_1",
+                "DOI": "10.1145/2897824.2925965",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_31_1",
+                "DOI": "10.1145/3130800.3130853",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_32_1",
+                "DOI": "10.1145/2980179.2980226",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_33_1",
+                "DOI": "10.1145/3130800.3130830",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_34_1",
+                "DOI": "10.1007/978-3-030-01264-9_30",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_35_1",
+                "DOI": "10.1007/s11263-016-0895-4",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_36_1",
+                "DOI": "10.1109/ICCV.2015.90",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_37_1",
+                "DOI": "10.1145/2461912.2462000",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_38_1",
+                "DOI": "10.1109/CVPR.2008.4587832",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_39_1",
+                "DOI": "10.1016/j.cviu.2010.11.023",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_40_1",
+                "DOI": "10.1109/ICCV.2013.197",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3322998&ftid=2071643&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    3
+                ]
+            ],
+            "date-time": "2020-07-03T23:12:16Z",
+            "timestamp": 1593817936000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "real-time reconstruction of hand poses and deformable objects in hand-object interactions"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "references-count": 40,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        12
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3306346.3322998"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3306346.3322998",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

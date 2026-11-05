@@ -1,0 +1,398 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:41:07Z",
+            "timestamp": 1586004067991
+        },
+        "reference-count": 41,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100000002",
+                "name": "National Institutes of Health",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/501100001809",
+                "name": "National Natural Science Foundation of China",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "61328204"
+                ]
+            },
+            {
+                "DOI": "10.13039/100000145",
+                "name": "Division of Information and Intelligent Systems",
+                "doi-asserted-by": "publisher",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601161",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-10",
+        "source": "Crossref",
+        "is-referenced-by-count": 43,
+        "title": [
+            "Robust and accurate skeletal rigging from mesh sequences"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Binh Huy",
+                "family": "Le",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of Houston"
+                    }
+                ]
+            },
+            {
+                "given": "Zhigang",
+                "family": "Deng",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Houston"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/2508363.2508415",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "author": "Anguelov D.",
+                "volume-title": "UAI'04: Proc. of Conf. on Uncertainty in Artificial Intelligence, 18--26"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/1073204.1073207",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/1360612.1360643",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/1276377.1276467",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "author": "Brice\u00f1o H. M.",
+                "volume-title": "SCA'03: Proc. of Symp. on Computer Animation, 136--146"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "unstructured": "de Aguiar E. Theobalt C. Thrun S. and Seidel H.-P. 2008. Automatic conversion of mesh animations into skeleton-based animations. Comput. Graph. Forum 27 2 (4) 389--397.  de Aguiar E. Theobalt C. Thrun S. and Seidel H.-P. 2008. Automatic conversion of mesh animations into skeleton-based animations. Comput. Graph. Forum 27 2 (4) 389--397.",
+                "DOI": "10.1111/j.1467-8659.2008.01136.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/1360612.1360697",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/2185520.2185568",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "Hasler N. Thorm\u00e4hlen T. Rosenhahn B. and Seidel H.-P. 2010. Learning skeletons for shape and pose. In I3D'10: Proc. of Symp. on Interactive 3D Graphics and Games 23--30. 10.1145/1730804.1730809   Hasler N. Thorm\u00e4hlen T. Rosenhahn B. and Seidel H.-P. 2010. Learning skeletons for shape and pose. In I3D'10: Proc. of Symp. on Interactive 3D Graphics and Games 23--30. 10.1145/1730804.1730809",
+                "DOI": "10.1145/1730804.1730809",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/2461912.2461913",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/2070781.2024199",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/2010324.1964973",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/1073204.1073206",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1107/S0567739478001680",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/2366145.2366215",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/1409625.1409627",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1111/j.1467-8659.2009.01602.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1007/s00371-010-0474-6",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "Kirk A. G. O'Brien J. F. and Forsyth D. A. 2005. Skeletal parameter estimation from optical motion capture data. In IEEE CVPR 782--788. 10.1109/CVPR.2005.326   Kirk A. G. O'Brien J. F. and Forsyth D. A. 2005. Skeletal parameter estimation from optical motion capture data. In IEEE CVPR 782--788. 10.1109/CVPR.2005.326"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1090/S0002-9939-1956-0078686-7",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1111/j.1467-8659.2010.01661.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/2366145.2366218",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/2461912.2461949",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/1559755.1559756",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1109/TCOM.1980.1094577",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/2508363.2508427",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/1882261.1866177",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/2010324.1964932",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/1183287.1183294",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/882262.882308",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/1141911.1141970",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "author": "Schaefer S.",
+                "volume-title": "SGP'07: Proc. of Symp. on Geometry Processing, 153--162"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/1882261.1866161",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1145/1015706.1015736",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1145/1531326.1531377",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "unstructured": "Utah 2013. The utah 3D animation repository.  Utah 2013. The utah 3D animation repository."
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1145/2461912.2461960",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/1360612.1360696",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1145/1618452.1618520",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1145/545261.545283",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601161&amp;ftid=1488892&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:01:26Z",
+            "timestamp": 1586001686000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 41,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601161"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601161",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

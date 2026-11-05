@@ -1,0 +1,544 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:11:20Z",
+            "timestamp": 1586002280607
+        },
+        "reference-count": 47,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100001691",
+                "name": "Japan Society for the Promotion of Science",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100002418",
+                "name": "Intel Corporation",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/501100001711",
+                "name": "Schweizerischer Nationalfonds zur F\u00f6rderung der Wissenschaftlichen Forschung",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "200021 137626"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100004963",
+                "name": "Seventh Framework Programme",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "257453"
+                ]
+            },
+            {
+                "DOI": "10.13039/100004675",
+                "name": "Autodesk",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/501100001742",
+                "name": "United States-Israel Binational Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100000145",
+                "name": "Division of Information and Intelligent Systems",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "IIS-1319483, CMMI-1331499, IIS-1217904, IIS-1117257, CMMI-1129917, IIS-0916129"
+                ]
+            },
+            {
+                "DOI": "10.13039/100007065",
+                "name": "Nvidia",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100000147",
+                "name": "Division of Civil, Mechanical and Manufacturing Innovation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "IIS-1319483, CMMI-1331499, IIS-1217904, IIS-1117257, CMMI-1129917, IIS-0916129"
+                ]
+            },
+            {
+                "DOI": "10.13039/100004795",
+                "name": "Walt Disney Company",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "name": "Side Effects",
+                "award": []
+            },
+            {
+                "name": "Niedersachsen-Israel",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601106",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 47,
+        "title": [
+            "Wire mesh design"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Akash",
+                "family": "Garg",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Columbia University"
+                    }
+                ]
+            },
+            {
+                "given": "Andrew O.",
+                "family": "Sageman-Furnas",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of G\u00f6ttingen"
+                    }
+                ]
+            },
+            {
+                "given": "Bailin",
+                "family": "Deng",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "EPFL"
+                    }
+                ]
+            },
+            {
+                "given": "Yonghao",
+                "family": "Yue",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Columbia University"
+                    }
+                ]
+            },
+            {
+                "given": "Eitan",
+                "family": "Grinspun",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Columbia University"
+                    }
+                ]
+            },
+            {
+                "given": "Mark",
+                "family": "Pauly",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "EPFL"
+                    }
+                ]
+            },
+            {
+                "given": "Max",
+                "family": "Wardetzky",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of G\u00f6ttingen"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1098/rsta.1956.0017",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1109/38.536276",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1016/S0010-4485(00)00135-4",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "Aono M. 1994. Computer-Aided Geometric Design for Forming Woven Cloth Composites. PhD thesis Rensselaer Polytechnic Institute.   Aono M. 1994. Computer-Aided Geometric Design for Forming Woven Cloth Composites . PhD thesis Rensselaer Polytechnic Institute."
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/2461912.2461994",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/2461912.2461953",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "first-page": "294",
+                "article-title": "\u00fcber Tchebychefsche Netze auf Fl\u00e4chen negativer kr\u00fcmmung, sowie auf einigen weiteren fl\u00e4chenarten",
+                "volume": "23",
+                "author": "Bieberbach L.",
+                "year": "1926",
+                "journal-title": "Preuss. Akad. Wiss., Phys. Math. Kl"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/2010324.1964996",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/2185520.2185545",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1111/j.1467-8659.2012.03171.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/2010324.1964993",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/2537852",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/2461912.2461932",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Deng B. Bouaziz S. Deuss M. Zhang J. Schwartzburg Y. and Pauly M. 2013. Exploring local modifications for constrained meshes. Computer Graphics Forum (EUROGRAPHICS '13) 32 2 11--20. 10.1145/2508363.2508389   Deng B. Bouaziz S. Deuss M. Zhang J. Schwartzburg Y. and Pauly M. 2013. Exploring local modifications for constrained meshes. Computer Graphics Forum (EUROGRAPHICS '13) 32 2 11--20. 10.1145/2508363.2508389",
+                "DOI": "10.1111/cgf.12021",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "unstructured": "Deng B. Bouaziz S. Deuss M. Kaspar A. Schwartzburg Y. and Pauly M. 2014. Interactive design exploration for constrained meshes. Computer-Aided Design. To appear. 10.1016/j.cad.2014.01.004   Deng B. Bouaziz S. Deuss M. Kaspar A. Schwartzburg Y. and Pauly M. 2014. Interactive design exploration for constrained meshes. Computer-Aided Design . To appear. 10.1016/j.cad.2014.01.004"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "Eigensatz M. Kilian M. Schiftner A. Mitra N. Pottmann H. and Pauly M. 2010. Paneling architectural freeform surfaces. ACM Trans. Graph. (SIGGRAPH '10) 29 4 45:1--45:10. 10.1145/1778765.1778782   Eigensatz M. Kilian M. Schiftner A. Mitra N. Pottmann H. and Pauly M. 2010. Paneling architectural freeform surfaces. ACM Trans. Graph. (SIGGRAPH '10) 29 4 45:1--45:10. 10.1145/1778765.1778782",
+                "DOI": "10.1145/1778765.1778782",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "Ghys \u00c9. 2011. Sur la coupe des v\u00eatements: variation autour d'un th\u00e8me de Tchebychev. L'Enseignement Math\u00e9matique Revue Internationale 2e S\u00e8rie 57 1--2 165--208. 10.1145/2461912.2461958   Ghys \u00c9. 2011. Sur la coupe des v\u00eatements: variation autour d'un th\u00e8me de Tchebychev. L'Enseignement Math\u00e9matique Revue Internationale 2e S\u00e8rie 57 1--2 165--208. 10.1145/2461912.2461958",
+                "DOI": "10.4171/LEM/57-1-8",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "first-page": "68",
+                "article-title": "\u00dcber einige Eigenschaften der Fl\u00e4chen mit constantem Kr\u00fcmmungsmass",
+                "volume": "88",
+                "author": "Hazzidakis J. N.",
+                "year": "1879",
+                "journal-title": "Journal f\u00fcr die reine und angewandte Mathematik"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "unstructured": "Hoffmann T. 1999. Discrete Amsler surfaces and a discrete Painlev\u00e9 III equation. Oxford Lecture Series in Mathematics and its Applications 16 83--96.  Hoffmann T. 1999. Discrete Amsler surfaces and a discrete Painlev\u00e9 III equation. Oxford Lecture Series in Mathematics and its Applications 16 83--96."
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/1141911.1141941",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/2461912.2461927",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1007/978-3-642-27413-8_31",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/2461912.2461958",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/2461912.2461915",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1007/BF00250867",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/2010324.1964985",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/2185520.2185582",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "unstructured": "Pottmann H. Schiftner A. Bo P. Schmiedhofer H. Wang W. Baldassini N. and Wallner J. 2008. Freeform surfaces from single curved panels. ACM Trans. Graph. (SIGGRAPH '08) 27 3 76:1--76:10. 10.1145/1360612.1360675   Pottmann H. Schiftner A. Bo P. Schmiedhofer H. Wang W. Baldassini N. and Wallner J. 2008. Freeform surfaces from single curved panels. ACM Trans. Graph. (SIGGRAPH '08) 27 3 76:1--76:10. 10.1145/1360612.1360675",
+                "DOI": "10.1145/1360612.1360675",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "Pottmann H. Huang Q. Deng B. Schiftner A. Kilian M. Guibas L. and Wallner J. 2010. Geodesic patterns. ACM Trans. Graph. (SIGGRAPH '10) 29 4 43:1--43:10. 10.1145/1778765.1778780   Pottmann H. Huang Q. Deng B. Schiftner A. Kilian M. Guibas L. and Wallner J. 2010. Geodesic patterns. ACM Trans. Graph. (SIGGRAPH '10) 29 4 43:1--43:10. 10.1145/1778765.1778780",
+                "DOI": "10.1145/1778765.1778780",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/2185520.2185600",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/2366145.2366178",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/2366145.2366146",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "unstructured": "Robertson R. E. Hsiue E. S. Sickafus E. N. and Yeh G. S. Y. 1981. Fiber rearrangements during the molding of continuous fiber composites. I. Flat cloth to a hemisphere. Polymer composites 2 3 126--131.  Robertson R. E. Hsiue E. S. Sickafus E. N. and Yeh G. S. Y. 1981. Fiber rearrangements during the molding of continuous fiber composites. I. Flat cloth to a hemisphere. Polymer composites 2 3 126--131.",
+                "DOI": "10.1002/pc.750020309",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1016/S1359-835X(00)00120-2",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1090/S0002-9947-1995-1233983-3",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1007/BF00385970",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "unstructured": "Sauer R. 1970. Differenzengeometrie. Springer Verlag Berlin.  Sauer R. 1970. Differenzengeometrie . Springer Verlag Berlin.",
+                "DOI": "10.1007/978-3-642-86411-7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "unstructured": "Schwartzburg Y. and Pauly M. 2013. Fabrication-aware design with intersecting planar pieces. Computer Graphics Forum (EUROGRAPHICS '13) 32 2 317--326.  Schwartzburg Y. and Pauly M. 2013. Fabrication-aware design with intersecting planar pieces. Computer Graphics Forum (EUROGRAPHICS '13) 32 2 317--326.",
+                "DOI": "10.1111/cgf.12051",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "unstructured": "Tschebyscheff P. L. 1878. Sur la coupe des v\u00eatements \"On the cutting of garments\". Association francaise pour l'avancement des sciences 154--155.  Tschebyscheff P. L. 1878. Sur la coupe des v\u00eatements \"On the cutting of garments\". Association francaise pour l'avancement des sciences 154--155."
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1080/00405009008658722",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1007/BF01447291",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1145/2185520.2185583",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1093/qjmam/39.3.343",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1016/S1359-835X(98)00187-0",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "unstructured": "Wang W. Liu Y. Yan D. Chan B. Ling R. and Sun F. 2008. Hexagonal meshes with planar faces. HKU CS Tech Report TR-2008-13.  Wang W. Liu Y. Yan D. Chan B. Ling R. and Sun F. 2008. Hexagonal meshes with planar faces. HKU CS Tech Report TR-2008-13 ."
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "unstructured": "Wunderlich W. 1951. Zur Differenzengeometrie der Fl\u00e4chen konstanter negativer Kr\u00fcmmung. Springer Verlag.  Wunderlich W. 1951. Zur Differenzengeometrie der Fl\u00e4chen konstanter negativer Kr\u00fcmmung . Springer Verlag."
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "DOI": "10.1016/S1359-835X(97)00053-5",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601106&amp;ftid=1488874&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:49:38Z",
+            "timestamp": 1586000978000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 47,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601106"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601106",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

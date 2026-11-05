@@ -1,0 +1,377 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:54Z",
+            "timestamp": 1585962714165
+        },
+        "reference-count": 41,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100007065",
+                "name": "Nvidia",
+                "doi-asserted-by": "crossref",
+                "award": []
+            },
+            {
+                "name": "Adobe",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201320",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 9,
+        "title": [
+            "Rule-free sewing pattern adjustment with precision and efficiency"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Huamin",
+                "family": "Wang",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "The Ohio State University and Frilly Inc."
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "Alvanon. 2018. Alvanon Form Measurements. https://alvanon.com/measurements-specs/. Online; accessed April 16 2018.  Alvanon. 2018. Alvanon Form Measurements. https://alvanon.com/measurements-specs/. Online; accessed April 16 2018."
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/280814.280821",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/2897824.2925896",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "author": "Bergou Miklos",
+                "year": "2006",
+                "volume-title": "Proceedings of SGP. 227--230"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/1531326.1531395",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/2601097.2601116",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "author": "Bridson R.",
+                "volume-title": "Proceedings of SCA. 28--36"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/2185520.2185532",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "Romain Casati Gilles Daviet and Florence Bertails-Descoubes. 2016. Inverse Elastic Cloth Design with Contact and Friction. Technical report. Inria Grenoble Rh\u00f4ne-Alpes Universit\u00e9 de Grenoble.  Romain Casati Gilles Daviet and Florence Bertails-Descoubes. 2016. Inverse Elastic Cloth Design with Contact and Friction. Technical report. Inria Grenoble Rh\u00f4ne-Alpes Universit\u00e9 de Grenoble."
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/566654.566624",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/2661229.2661279",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1111/j.1467-8659.2006.00982.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "author": "Garg Akash",
+                "year": "2007",
+                "volume-title": "Proceedings of SCA. 91--98"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/1276377.1276438",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/2185520.2185531",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1190/1.1801938",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/1276377.1276466",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/1778765.1778842",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "author": "Liu Ligang",
+                "volume-title": "Proceedings of SGP. 1495--1504"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/2508363.2508406",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1007/s00158-003-0288-5",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/2601097.2601152",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1016/j.cad.2010.11.008",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.5555/2318896.2318912",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1111/cgf.12840",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/2508363.2508389",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "author": "M\u00fcller Matthias",
+                "year": "2008",
+                "volume-title": "Proceedings of VRIPHYS. 1--10"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "author": "Narain Rahul",
+                "volume-title": "Proceedings of SCA. Eurographics Association, Aire-la-Ville"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/2366145.2366171",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "unstructured": "Jorge Nocedal and Stephen J. Wright. 2006. Numerical Optimization (2rd Ed.). Springer.  Jorge Nocedal and Stephen J. Wright. 2006. Numerical Optimization (2rd Ed.). Springer."
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1137/16M1079002",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/2601097.2601166",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1111/cgf.12851",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/2766969",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1145/2010324.1964985",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1145/1559755.1559762",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1016/j.cad.2004.08.007",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1145/2816795.2818063",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/2010324.1964966",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1145/2980179.2980236",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "unstructured": "ZOZO. 2018. ZOZOSUIT. https://zozosuit.com/teaser. Online; accessed April 16 2018.  ZOZO. 2018. ZOZOSUIT. https://zozosuit.com/teaser. Online; accessed April 16 2018."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201320&ftid=1991725&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:54:34Z",
+            "timestamp": 1585961674000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 41,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201320"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201320",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

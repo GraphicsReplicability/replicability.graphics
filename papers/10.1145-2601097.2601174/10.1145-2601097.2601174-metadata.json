@@ -1,0 +1,449 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:41:10Z",
+            "timestamp": 1586004070685
+        },
+        "reference-count": 33,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100002418",
+                "name": "Intel Corporation",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100005492",
+                "name": "Stanford University",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100007065",
+                "name": "Nvidia",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100006785",
+                "name": "Google",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100000185",
+                "name": "Defense Advanced Research Projects Agency",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "HR0011-11-C-0007"
+                ]
+            },
+            {
+                "DOI": "10.13039/100006192",
+                "name": "Advanced Scientific Computing Research",
+                "doi-asserted-by": "publisher",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601174",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 57,
+        "title": [
+            "Darkroom"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "James",
+                "family": "Hegarty",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "John",
+                "family": "Brunhaver",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Zachary",
+                "family": "DeVito",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Jonathan",
+                "family": "Ragan-Kelley",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "MIT CSAIL"
+                    }
+                ]
+            },
+            {
+                "given": "Noy",
+                "family": "Cohen",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Steven",
+                "family": "Bell",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Artem",
+                "family": "Vasilyev",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Mark",
+                "family": "Horowitz",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Pat",
+                "family": "Hanrahan",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/1778765.1778766",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "Aptina. Aptina MT9P111. http://www.aptina.com/products/soc/mt9p111/.  Aptina. Aptina MT9P111. http://www.aptina.com/products/soc/mt9p111/."
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "unstructured": "Berkelaar M. Eikland K. Notebaert P. etal 2004. lpsolve: Open source (mixed-integer) linear programming system. Eindhoven U. of Technology.  Berkelaar M. Eikland K. Notebaert P. et al. 2004. lpsolve: Open source (mixed-integer) linear programming system. Eindhoven U. of Technology ."
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "author": "Bilsen G.",
+                "volume": "5",
+                "volume-title": "1995 International Conference on Acoustics, Speech, and Signal Processing"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "Bouguet J.-Y. 2001. Pyramidal implementation of the affine Lucas Kanade feature tracker description of the algorithm. Tech. rep. Intel Corporation.  Bouguet J.-Y. 2001. Pyramidal implementation of the affine Lucas Kanade feature tracker description of the algorithm. Tech. rep. Intel Corporation."
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1109/TPAMI.1986.4767851",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "author": "Datta K.",
+                "volume-title": "Proceedings of the 2008 ACM/IEEE conference on Supercomputing, IEEE Press, 4."
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/2491956.2462166",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "author": "Elliott C.",
+                "year": "2001",
+                "volume-title": "Proceedings of Bridges."
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/1088149.1088197",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1109/MICRO.2005.32",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/1815961.1815968",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "author": "Harris C.",
+                "volume-title": "Proceedings of the 4th Alvey Vision Conference, 147--151"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "author": "Holzmann G.",
+                "year": "1988",
+                "volume-title": "Beyond Photography: The Digital Darkroom"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "author": "Kung H. T.",
+                "year": "1979",
+                "volume-title": "Proceedings of the Caltech Conference on Very Large Scale Integration."
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "author": "Lattner C.",
+                "volume-title": "Proceedings of the 2004 International Symposium on Code Generation and Optimization (CGO'04)"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1109/TC.1987.5009446",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1007/BF01759032",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "first-page": "674",
+                "article-title": "An iterative image registration technique with an application to stereo vision",
+                "volume": "81",
+                "author": "Lucas B. D.",
+                "year": "1981",
+                "journal-title": "IJCAI"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "author": "Malladi K.",
+                "volume-title": "2012 39th Annual International Symposium on Computer Architecture (ISCA), 37--48"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "Muralimanohar N. and Balasubramonian R. 2009. Cacti 6.0: A tool to understand large caches. Tech. rep. HP Labs.  Muralimanohar N. and Balasubramonian R. 2009. Cacti 6.0: A tool to understand large caches. Tech. rep. HP Labs."
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1023/A:1008633809454",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1109/SC.2010.2",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "OpenCV. OpenCV. http://opencv.org/.  OpenCV. OpenCV. http://opencv.org/."
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "unstructured": "Qualcomm. Qualcomm hexagon SDK. https://developer.qualcomm.com/mobile-development/maximize-hardware/mobile-multimedia-optimization-hexagon-sdk.  Qualcomm. Qualcomm hexagon SDK. https://developer.qualcomm.com/mobile-development/maximize-hardware/mobile-multimedia-optimization-hexagon-sdk."
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/2185520.2185528",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/2491956.2462176",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1364/JOSA.62.000055",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/2228360.2228472",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/192161.192191",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/1477926.1477930",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/1989493.1989508",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "unstructured": "Vivado. vivado. http://www.xilinx.com/products/design-tools/vivado/integration/esl-design/.  Vivado. vivado. http://www.xilinx.com/products/design-tools/vivado/integration/esl-design/."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601174&amp;ftid=1488953&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:58:28Z",
+            "timestamp": 1586001508000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "compiling high-level image processing code into hardware pipelines"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 33,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601174"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601174",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

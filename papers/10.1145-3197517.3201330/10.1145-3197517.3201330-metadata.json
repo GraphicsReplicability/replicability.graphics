@@ -1,0 +1,471 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:55Z",
+            "timestamp": 1585962715275
+        },
+        "reference-count": 51,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201330",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 10,
+        "title": [
+            "Dexterous manipulation and control with volumetric muscles"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Seunghwan",
+                "family": "Lee",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Seoul National University"
+                    }
+                ]
+            },
+            {
+                "given": "Ri",
+                "family": "Yu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Seoul National University"
+                    }
+                ]
+            },
+            {
+                "given": "Jungnam",
+                "family": "Park",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Seoul National University"
+                    }
+                ]
+            },
+            {
+                "given": "Mridul",
+                "family": "Aanjaneya",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Rutgers University"
+                    }
+                ]
+            },
+            {
+                "given": "Eftychios",
+                "family": "Sifakis",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Wisconsin-Madison"
+                    }
+                ]
+            },
+            {
+                "given": "Jehee",
+                "family": "Lee",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Seoul National University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/2601097.2601116",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "author": "Bridson Robert",
+                "year": "2003",
+                "volume-title": "Proceedings of the ACM SIGGRAPH/Eurographics Symposium on Computer Animation. 28--36"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/566654.566622",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/2185520.2185565",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1111/cgf.12863",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1016/j.simpat.2006.09.001",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1109/TBME.2007.901024",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/2601097.2601215",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "first-page": "283",
+                "article-title": "SOFA: A Multi-Model Framework for Interactive Physical Simulation. In Soft Tissue Biomechanical Modeling for Computer Assisted Surgery. Studies in Mechanobiology",
+                "volume": "11",
+                "author": "Faure Fran\u00e7ois",
+                "year": "2012",
+                "journal-title": "Tissue Engineering and Biomaterials"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/2508363.2508399",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/3072959.3073664",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/2980179.2982438",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/3072959.3073685",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.5555/3128975.3128984",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.21105/joss.00500",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/1559755.1559756",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/1141911.1142013",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/2816795.2818124",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/2661229.2661233",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "author": "Liu C. Karen",
+                "year": "2008",
+                "volume-title": "Proceedings of the ACMSIGGRAPH/Eurographics Symposium on Computer Animation. 163--171"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/2508363.2508427",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/2990496",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "John E. Lloyd Ian Stavness and Sidney Fels. 2012. ARTISYNTH: a fast interactive biomechanical modeling toolkit combining multibody and finite element simulation. (2012).  John E. Lloyd Ian Stavness and Sidney Fels. 2012. ARTISYNTH: a fast interactive biomechanical modeling toolkit combining multibody and finite element simulation. (2012)."
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/2786784.2786800",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/2816795.2818100",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/2766918",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1007/s41095-016-0065-1",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/2366145.2366216",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/3072959.3073602",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "unstructured": "Burkard Polster. 2003. The Mathematics of Juggling.  Burkard Polster. 2003. The Mathematics of Juggling."
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/2766993",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "unstructured": "HJ Ralston. 1976. Energetics of human walking. In Neural control of locomotion. 77--98.  HJ Ralston. 1976. Energetics of human walking. In Neural control of locomotion. 77--98.",
+                "DOI": "10.1007/978-1-4757-0964-3_5",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/2766987",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/2766957",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1145/2626346",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1145/2343483.2343501",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/1073204.1073208",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "unstructured": "Ian Stavness Alan G Hannam John E Lloyd and Sidney Fels. 2010. Predicting muscle patterns for hemimandibulectomy models. (2010) 483--91.  Ian Stavness Alan G Hannam John E Lloyd and Sidney Fels. 2010. Predicting muscle patterns for hemimandibulectomy models. (2010) 483--91."
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "unstructured": "Julien Stelletta Rapha\u00ebl Dumas and Yoann Lafon. 2017. Modeling of the thigh: a 3D deformable approach considering muscle interactions. In Biomechanics of Living Organs. 497--521.  Julien Stelletta Rapha\u00ebl Dumas and Yoann Lafon. 2017. Modeling of the thigh: a 3D deformable approach considering muscle interactions. In Biomechanics of Living Organs. 497--521.",
+                "DOI": "10.1016/B978-0-12-804009-6.00023-7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1145/1360612.1360682",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1145/2185520.2185522",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "author": "Teran Joseph",
+                "year": "2003",
+                "volume-title": "Proceedings of the ACM SIGGRAPH/Eurographics symposium on Computer animation. 68--74"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1109/TVCG.2005.42",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1145/1073368.1073394",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1115/1.1531112",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.5555/3114195.3114663",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "DOI": "10.1145/2185520.2185521",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "DOI": "10.1145/3130800.3130833",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "DOI": "10.1145/2897824.2925916",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "unstructured": "Felix E Zajac. 1989. Muscle and tendon Properties models scaling and application to biomechanics and motor. Critical reviews in biomedical engineering 17 4 (1989) 359--411.  Felix E Zajac. 1989. Muscle and tendon Properties models scaling and application to biomechanics and motor. Critical reviews in biomedical engineering 17 4 (1989) 359--411."
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "DOI": "10.1111/cgf.12575",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201330&ftid=1991585&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:51:36Z",
+            "timestamp": 1585961496000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 51,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201330"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201330",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

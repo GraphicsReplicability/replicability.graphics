@@ -1,0 +1,301 @@
+<html><head><meta charset="utf-8">
+ <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+ <script src="../../assets/js/chart-utils.js"></script>
+<link rel="stylesheet"
+       href="../../assets/css/default.min.css">
+ <script src="../../assets/js/highlight.min.js"></script>
+ <script>hljs.initHighlightingOnLoad();</script>
+ <link href="../../assets/css/all.css" rel="stylesheet">
+ <link rel="stylesheet" href="../../assets/css/customstyle.css">
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pretty-checkbox@3.0/dist/pretty-checkbox.min.css">
+
+  <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+  <script>
+  var currentReviewId = 0;
+
+  $( function() {
+    $( "#tabs" ).tabs({
+    activate: function (event, ui) {
+        var reviewId = parseInt(event.currentTarget.id.substring(6));
+
+        [myChart.data.datasets[0].data, myChart.data.datasets[currentReviewId].data] =
+ [myChart.data.datasets[currentReviewId].data, myChart.data.datasets[0].data];
+
+        currentReviewId = reviewId-1;
+
+        [myChart.data.datasets[0].data, myChart.data.datasets[currentReviewId].data] =
+ [myChart.data.datasets[currentReviewId].data, myChart.data.datasets[0].data];
+
+        myChart.update(0);
+    }
+  });
+  } );
+  </script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-164636527-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-164636527-1');
+</script>
+<title>Single-image SVBRDF capture with a rendering-aware deep network</title>
+<meta name="description" content="Replicability and source code of the article Single-image SVBRDF capture with a rendering-aware deep network.">
+
+  </head>
+<body>
+  <ul class="publist-inline" style="text-align:left;"><li class="web"><a href="../../browse.html">< The Data</a></ul><h1 class="title">Single-image SVBRDF capture with a rendering-aware deep network <i class="fas fa-circle graphcol0" style="font-size:150%;color:#0868ac;" title="code available and we were able to reproduce most results (score >= 4)"></i> <i class="fas fa-splotch graphcol5"  style="font-size:150%;color:#1b9e77;" title="PDF available as an ACM Open Access document"></i> <i class="fas fa-square graphcol6"  style="font-size:150%;color:#7570b3;" title="Preprint PDF available (author web page, project page, institution page, arxiv...)"></i></h1><ul class="authors">
+<li> Valentin <span class="family">Deschaintre</span></li>
+<li> Miika <span class="family">Aittala</span></li>
+<li> Fredo <span class="family">Durand</span></li>
+<li> George <span class="family">Drettakis</span></li>
+<li> Adrien <span class="family">Bousseau</span></li>
+</ul>
+<center> SIGGRAPH 2018</center><ul class="publist-inline">
+<li class="web"> <i class="fas fa-globe-americas"></i> <a href="https://doi.org/10.1145/3197517.3201378">ACM</a></li>
+<li class="pdf"> <i class="far fa-file-pdf"></i> <a href="https://www-sop.inria.fr/reves/Basilic/2018/DADDB18/Deep%20Material%20Acquisition%20Authors_version.pdf">preprint</a></li>
+<li class="web"> <i class="fas fa-globe-americas"></i> <a href="https://www-sop.inria.fr/reves/Basilic/2018/DADDB18/">Project page</a></li>
+<li class="web"> <i class="far fa-file-alt"></i> <a href="https://repo-sam.inria.fr/fungraph/deep-materials/">Code</a></li>
+<li class="web"> <i class="far fa-file-alt"></i> <a href="https://repo-sam.inria.fr/fungraph/deep-materials/InferenceCode_DeepMaterials.zip">Code 2</a></li>
+<li class="web"> <i class="fas fa-database"></i> <a href="10.1145-3197517.3201378-metadata.json">DOI Metadata</a></li>
+</ul>
+<center><img width="300" src="10.1145-3197517.3201378-thumb.png"></img></center><br><br><ul class="publist-inline" style="text-align:left;font-size:100%"><li > <i ></i> <a href="replicability.json">Download complete data for this entry</a></li></ul>
+    <div class="row">
+    <div class="column2 chart-container" style="position: relative; height:40vh; width:30vw">
+    <canvas width="300" height="250" id="myChart" class="chartjs-render-monitor"></canvas>
+    </div>
+    
+    <div class="column2">
+    <h2>Reviews</h2>
+       <div id="tabs">
+          <ul>             <li><a href="#review-1">Ubuntu 20.04 LTS</a></li>
+             <li><a href="#review-2">macOS Catalina</a></li>
+             <li><a style='color:gray;text-decoration:line-through;' href="#review-3">Ubuntu 20.04 LTS</a></li>
+             <li><a style='color:gray;text-decoration:line-through;' href="#review-4">macOS catalina</a></li>
+             <li><a href="#review-5">&#43;</a></li>
+</ul><div id="review-1"><h2>Information</h2><ul><li><span class="family">Paper topic</span>: Rendering</li>
+<li><span class="family">Software type</span>: Code</li>
+<li><span class="family">Able to run a replicability test</span>: True</li>
+<li><span class="family">Replicability score</span>: 5</li>
+<li><span class="family">Software language</span>: python</li>
+<li><span class="family">License</span>: For research only, not for commercial use. Do not distribute. (The license is temporary)</li>
+<li><span class="family">Build mechanism</span>: N/A</li>
+<li><span class="family">Dependencies</span>: tensorflow</li>
+<li><span class="family">Documentation score</span> {0,1,2}: 2</li>
+<li><span class="family">Reviewer</span>: David Coeurjolly &lt;david.coeurjolly@liris.cnrs.fr&gt;</li>
+<li><span class="family">Time spent for the test (build->first run, timeout at 100min)</span>: 10min</li>
+</ul><h2>Source code information</h2>
+<ul><li><span class="family">Code URL</span>:  <a href="https://repo-sam.inria.fr/fungraph/deep-materials/">https://repo-sam.inria.fr/fungraph/deep-materials/</a></li>
+<li><span class="family">Code URL 2</span>: <a href="https://repo-sam.inria.fr/fungraph/deep-materials/InferenceCode_DeepMaterials.zip">https://repo-sam.inria.fr/fungraph/deep-materials/InferenceCode_DeepMaterials.zip</a></li>
+<li><span class="family">MD5 hash of the code archive</span>: 6e3e9e8e2b13eb24a938fb27dae5bd9c</li>
+</ul><h2>Comments</h2><pre>Pretrained models are provided in the code archive. Results, datasets and supplemental materials are available on a second project page (https://team.inria.fr/graphdeco/projects/deep-materials/). This review corresponds to a new version of the code with a special fix to make it work with recent tensorflow (&gt;2). Just edit the first lines of material_net_test.py (lines 18-19) to enable tensorflow&gt;2. Once fixed, I was able to reproduce most results of the paper.</pre></div><div id="review-2"><h2>Information</h2><ul><li><span class="family">Paper topic</span>: Rendering</li>
+<li><span class="family">Software type</span>: Code</li>
+<li><span class="family">Able to run a replicability test</span>: True</li>
+<li><span class="family">Replicability score</span>: 5</li>
+<li><span class="family">Software language</span>: python</li>
+<li><span class="family">License</span>: For research only, not for commercial use. Do not distribute. (The license is temporary)</li>
+<li><span class="family">Build mechanism</span>: N/A</li>
+<li><span class="family">Dependencies</span>: tensorflow</li>
+<li><span class="family">Documentation score</span> {0,1,2}: 2</li>
+<li><span class="family">Reviewer</span>: David Coeurjolly &lt;david.coeurjolly@liris.cnrs.fr&gt;</li>
+<li><span class="family">Time spent for the test (build->first run, timeout at 100min)</span>: 10min</li>
+</ul><h2>Source code information</h2>
+<ul><li><span class="family">Code URL</span>:  <a href="https://repo-sam.inria.fr/fungraph/deep-materials/">https://repo-sam.inria.fr/fungraph/deep-materials/</a></li>
+<li><span class="family">Code URL 2</span>: <a href="https://repo-sam.inria.fr/fungraph/deep-materials/InferenceCode_DeepMaterials.zip">https://repo-sam.inria.fr/fungraph/deep-materials/InferenceCode_DeepMaterials.zip</a></li>
+<li><span class="family">MD5 hash of the code archive</span>: 6e3e9e8e2b13eb24a938fb27dae5bd9c</li>
+</ul><h2>Comments</h2><pre>Pretrained models are provided in the code archive. Results, datasets and supplemental materials are available on a second project page (https://team.inria.fr/graphdeco/projects/deep-materials/). This review corresponds to a new version of the code with a special fix to make it work with recent tensorflow (&gt;2). Just edit the first lines of material_net_test.py (lines 18-19) to enable tensorflow&gt;2. Once fixed, I was able to reproduce most results of the paper.
+
+On Catalina, you may have an issue with protobuf. The following upgrade of the packages solves the problem:
+  python -m pip install --upgrade pip
+  python -m pip uninstall tensorflow tensorflow_estimator protobuf
+  python -m pip install tensorflow
+  python -m pip install lxml
+</pre></div><div id="review-3"><h2>Information</h2><ul class="publist-inline-empty-dark"><li>This variant has been marked as deprecated (either the code or the build test have changed)</li></ul><ul><li><span class="family">Paper topic</span>: Rendering</li>
+<li><span class="family">Software type</span>: Code</li>
+<li><span class="family">Able to run a replicability test</span>: False</li>
+<li><span class="family">Replicability score</span>: 1</li>
+<li><span class="family">Software language</span>: python</li>
+<li><span class="family">License</span>: For research only, not for commercial use. Do not distribute. (The license is temporary)</li>
+<li><span class="family">Build mechanism</span>: N/A</li>
+<li><span class="family">Dependencies</span>: tensorflow</li>
+<li><span class="family">Documentation score</span> {0,1,2}: 1</li>
+<li><span class="family">Reviewer</span>: David Coeurjolly &lt;david.coeurjolly@liris.cnrs.fr&gt;</li>
+<li><span class="family">Time spent for the test (build->first run, timeout at 100min)</span>: 40min</li>
+</ul><h2>Source code information</h2>
+<ul><li><span class="family">Code URL</span>:  <a href="https://repo-sam.inria.fr/fungraph/deep-materials/">https://repo-sam.inria.fr/fungraph/deep-materials/</a></li>
+<li><span class="family">Code URL 2</span>: <a href="https://repo-sam.inria.fr/fungraph/deep-materials/InferenceCode_DeepMaterials.zip">https://repo-sam.inria.fr/fungraph/deep-materials/InferenceCode_DeepMaterials.zip</a></li>
+<li><span class="family">MD5 hash of the code archive</span>: 2da19dfe747fdf1498be6a236a8a8b1b</li>
+</ul><h2>Comments</h2><pre>Pretrained models are provided in the code archive. Results, datasets and supplemental materials are available on a second project page (https://team.inria.fr/graphdeco/projects/deep-materials/). No dependency issue (just tensorflow installed using conda, version 2.1, the authors do not give the exact tensorflow version they are using) but the runExampleTest.sh does not work directly (tensorflow API issues). After performing these edits:
+
+148c148
+&lt;         resized_images = tf.image.resize(batch_input, [in_height * 2, in_width * 2], method = tf.image.ResizeMethod.NEAREST_NEIGHBOR)
+---
+&gt;         resized_images = tf.image.resize_images(batch_input, [in_height * 2, in_width * 2], method = tf.image.ResizeMethod.NEAREST_NEIGHBOR)
+248c248
+&lt;     image_string = tf.io.read_file(filename)
+---
+&gt;     image_string = tf.read_file(filename)
+294c294
+&lt;         r = tf.image.resize(r, [a.scale_size, a.scale_size], method=tf.image.ResizeMethod.AREA)
+---
+&gt;         r = tf.image.resize_images(r, [a.scale_size, a.scale_size], method=tf.image.ResizeMethod.AREA)
+382c382
+&lt;     return  (tf.math.log(tf.add(tensor,0.01)) - tf.math.log(0.01)) / (tf.math.log(1.01)-tf.math.log(0.01))
+---
+&gt;     return  (tf.log(tf.add(tensor,0.01)) - tf.log(0.01)) / (tf.log(1.01)-tf.log(0.01))
+616c616
+&lt;     tf.random.set_seed(a.seed)
+---
+&gt;     tf.set_random_seed(a.seed)
+
+
+I ended up with an issue I was not able to solve:
+
+Traceback (most recent call last):
+  File  material_net_test.py , line 752, in &lt;module&gt;
+    main()
+  File  material_net_test.py , line 644, in main
+    examples = load_examples(a.input_dir, a.mode ==  train )
+  File  material_net_test.py , line 330, in load_examples
+    iterator = batched_dataset.make_initializable_iterator()
+AttributeError:  BatchDataset  object has no attribute  make_initializable_iterator 
+
+Editing line 330 with 
+    iterator = tf.compat.v1.data.make_initializable_iterator(batched_dataset)
+produces
+    RuntimeError: dataset.make_initializable_iterator is not supported when eager execution is enabled. Use  or element in dataset  instead.
+
+This a more complex issue than just some API changes (and I am not expert in tensorflow).
+
+I was not able to create a conda env with a 1.7 or 1.8 tensorflow (which may correspond to the tensorflow the authors used) due to CUDA incompatibility issues.</pre></div><div id="review-4"><h2>Information</h2><ul class="publist-inline-empty-dark"><li>This variant has been marked as deprecated (either the code or the build test have changed)</li></ul><ul><li><span class="family">Paper topic</span>: Rendering</li>
+<li><span class="family">Software type</span>: Code</li>
+<li><span class="family">Able to run a replicability test</span>: False</li>
+<li><span class="family">Replicability score</span>: 1</li>
+<li><span class="family">Software language</span>: python</li>
+<li><span class="family">License</span>: For research only, not for commercial use. Do not distribute. (The license is temporary)</li>
+<li><span class="family">Build mechanism</span>: N/A</li>
+<li><span class="family">Dependencies</span>: tensorflow</li>
+<li><span class="family">Documentation score</span> {0,1,2}: 1</li>
+<li><span class="family">Reviewer</span>: David Coeurjolly &lt;david.coeurjolly@liris.cnrs.fr&gt;</li>
+<li><span class="family">Time spent for the test (build->first run, timeout at 100min)</span>: 20min</li>
+</ul><h2>Source code information</h2>
+<ul><li><span class="family">Code URL</span>:  <a href="https://repo-sam.inria.fr/fungraph/deep-materials/">https://repo-sam.inria.fr/fungraph/deep-materials/</a></li>
+<li><span class="family">Code URL 2</span>: <a href="https://repo-sam.inria.fr/fungraph/deep-materials/InferenceCode_DeepMaterials.zip">https://repo-sam.inria.fr/fungraph/deep-materials/InferenceCode_DeepMaterials.zip</a></li>
+<li><span class="family">MD5 hash of the code archive</span>: 2da19dfe747fdf1498be6a236a8a8b1b</li>
+</ul><h2>Comments</h2><pre>Pretrained models are provided in the code archive. Results, datasets and supplemental materials are available on a second project page (https://team.inria.fr/graphdeco/projects/deep-materials/). No dependency issue (just tensorflow installed using pip, version 2.1.0, the authors do not give the exact tensorflow version they are using) but the runExampleTest.sh crashes on my system with the following error code (which I was not able to solve):
+
+[libprotobuf ERROR google/protobuf/descriptor_database.cc:394] Invalid file descriptor data passed to EncodedDescriptorDatabase::Add().
+[libprotobuf FATAL google/protobuf/descriptor.cc:1356] CHECK failed: GeneratedDatabase()-&gt;Add(encoded_file_descriptor, size):
+libc++abi.dylib: terminating with uncaught exception of type google::protobuf::FatalException: CHECK failed: GeneratedDatabase()-&gt;Add(encoded_file_descriptor, size):
+./runExampleTest.sh: line 2: 25883 Abort trap: 6           python3 material_net_test.py --input_dir inputExamples/ --mode eval --output_dir examples_outputs --checkpoint . --imageFormat png --scale_size 256
+
+</pre></div><div id=review-5>
+           <p> If you want to contribute with another review, please follow <a href="../../index.html#contribute">these instructions</a>. </p>
+
+            <p>Please consider to cut/paste/edit the <a href="replicability.json">raw JSON data</a> attached to this paper.</a></p>
+            </div>
+            </div></div>
+    </div>
+    </div>
+    </div>
+        <script>
+ 	  var color = Chart.helpers.color;
+          var colorNames = Object.keys(window.chartColors);
+          var ctx = document.getElementById('myChart');
+          var myChart = new Chart(ctx, {
+              type: 'polarArea',
+              data: {
+                labels: ['Dependencies', 'Build / Configure', 'Fixing bugs', 'Easy to adapt', 'Can replicate paper results'],
+                     datasets: [{
+                      label: 'Variant -- "Ubuntu 20.04 LTS" (the higher, the better,  {1..5}, 0=N/A )',
+                      showLine: false,
+           
+                      borderColor: "#000",
+                      borderWidth: 2,
+                      backgroundColor: [
+                          'rgba(255, 99, 132,.6)',
+                          'rgba(255, 159, 64,.6)',
+                          'rgba(255, 205, 86,.6)',
+                          'rgba(75, 192, 192,.6)',
+                          'rgba(54, 162, 235,.6)',
+                      ],
+                      data: [5,0,5,5,5]
+                  },{
+                      label: 'Variant -- "macOS Catalina" (the higher, the better,  {1..5}, 0=N/A )',
+                      showLine: false,
+           
+                      borderColor: "#fff",
+                      borderWidth: 0,
+                      backgroundColor: [
+                          'rgba(255, 99, 132,0.2)',
+                          'rgba(255, 159, 64,0.2)',
+                          'rgba(255, 205, 86,0.2)',
+                          'rgba(75, 192, 192,0.2)',
+                          'rgba(54, 162, 235,0.2)',
+                      ],
+                      data: [5,0,5,5,5]
+                  },{
+                      label: 'Variant -- "Ubuntu 20.04 LTS" (the higher, the better,  {1..5}, 0=N/A )',
+                      showLine: false,
+           
+                      borderColor: "#fff",
+                      borderWidth: 0,
+                      backgroundColor: [
+                          'rgba(255, 99, 132,0.2)',
+                          'rgba(255, 159, 64,0.2)',
+                          'rgba(255, 205, 86,0.2)',
+                          'rgba(75, 192, 192,0.2)',
+                          'rgba(54, 162, 235,0.2)',
+                      ],
+                      data: [5,0,3,0,1]
+                  },{
+                      label: 'Variant -- "macOS catalina" (the higher, the better,  {1..5}, 0=N/A )',
+                      showLine: false,
+           
+                      borderColor: "#fff",
+                      borderWidth: 0,
+                      backgroundColor: [
+                          'rgba(255, 99, 132,0.2)',
+                          'rgba(255, 159, 64,0.2)',
+                          'rgba(255, 205, 86,0.2)',
+                          'rgba(75, 192, 192,0.2)',
+                          'rgba(54, 162, 235,0.2)',
+                      ],
+                      data: [5,0,1,0,1]
+                  },
+                  ]
+              },
+              options: {
+  scale: {
+      ticks: {
+          suggestedMin: 0,
+          suggestedMax: 5,
+          stepSize: 1
+      }
+  }
+}
+          });
+
+        </script>
+    </code></pre></body><div style="height:30px;display:block;"></div><div id="disqus_thread"></div>
+ <script>
+ /**
+ *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+ *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+ /*
+ var disqus_config = function () {
+ this.page.url = 'https://replicability.graphics';  // Replace PAGE_URL with your page's canonical URL variable
+ this.page.identifier = '10.1145-3197517.3201378'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+ };
+ */
+ (function() { // DON'T EDIT BELOW THIS LINE
+ var d = document, s = d.createElement('script');
+ s.src = 'https://replicability-siggraph.disqus.com/embed.js';
+ s.setAttribute('data-timestamp', +new Date());
+ (d.head || d.body).appendChild(s);
+ })();
+ </script>
+ <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript></html>

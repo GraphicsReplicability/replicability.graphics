@@ -1,0 +1,362 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:11:20Z",
+            "timestamp": 1586002280310
+        },
+        "reference-count": 36,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601192",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 9,
+        "title": [
+            "Generalizing locomotion style to new animals with inverse optimal regression"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Kevin",
+                "family": "Wampler",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Adobe Research"
+                    }
+                ]
+            },
+            {
+                "given": "Zoran",
+                "family": "Popovi\u0107",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Washington"
+                    }
+                ]
+            },
+            {
+                "given": "Jovan",
+                "family": "Popovi\u0107",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe Research"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "Alexander R. 1996. Optima for Animals. Princeton paper-backs. Princeton University Press.  Alexander R. 1996. Optima for Animals . Princeton paper-backs. Princeton University Press."
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/566654.566606",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1016/j.cviu.2007.09.014",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "Boyd S. and Vandenberghe L. 2004. Convex Optimization. Cambridge University Press New York NY USA.   Boyd S. and Vandenberghe L. 2004. Convex Optimization . Cambridge University Press New York NY USA.",
+                "DOI": "10.1017/CBO9780511804441",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/218380.218421",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "unstructured": "Coros S. Beaudoin P. and van de Panne M. 2010. Generalized biped walking control. ACM Transctions on Graphics 29 4 Article 130. 10.1145/1778765.1781156   Coros S. Beaudoin P. and van de Panne M. 2010. Generalized biped walking control. ACM Transctions on Graphics 29 4 Article 130. 10.1145/1778765.1781156",
+                "DOI": "10.1145/1833349.1781156",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/2010324.1964954",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/1778765.1781157",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/882262.882286",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/2508363.2508399",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1137/S0036144504446096",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "unstructured": "Hansen N. Hansen N. Ostermeier A. and Ostermeier A. 1996. Adapting arbitrary normal mutation distributions in evolution strategies: the covariance matrix adaptation. Morgan Kaufmann 312--317.  Hansen N. Hansen N. Ostermeier A. and Ostermeier A. 1996. Adapting arbitrary normal mutation distributions in evolution strategies: the covariance matrix adaptation. Morgan Kaufmann 312--317."
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/1360612.1360626",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/258734.258822",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/2070781.2024197",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/566654.566605",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "Kry P. G. Reveret L. Faure F. and Cani M.-P. 2009. Modal locomotion: Animating virtual characters with natural vibrations. Computer Graphics Forum.  Kry P. G. Reveret L. Faure F. and Cani M.-P. 2009. Modal locomotion: Animating virtual characters with natural vibrations. Computer Graphics Forum .",
+                "DOI": "10.1111/j.1467-8659.2009.01368.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/1778765.1778859",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/566654.566607",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/1073204.1073314",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "MacIver M. A. Patankar N. A. and Shirgaonkar A. A. 2010. Energy-information trade-offs between movement and sensing. PLoS computational biology 6 5 e1000769.  MacIver M. A. Patankar N. A. and Shirgaonkar A. A. 2010. Energy-information trade-offs between movement and sensing. PLoS computational biology 6 5 e1000769.",
+                "DOI": "10.1371/journal.pcbi.1000769",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/2185520.2185539",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/2508363.2508365",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/2159616.2159631",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/127719.122755",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/1015706.1015754",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/192161.192167",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/2010324.1964953",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/1531326.1531366",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "unstructured": "Wampler K. 2012. Computational Generation of Terrestrial Animal Locomotion. PhD thesis Seattle WA USA. AAI3552870.   Wampler K. 2012. Computational Generation of Terrestrial Animal Locomotion . PhD thesis Seattle WA USA. AAI3552870."
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/2185520.2185521",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/1966394.1966398",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/218380.218422",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/882262.882360",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1145/1276377.1276509",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1145/1186562.1015759",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601192&amp;ftid=1488919&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:48:37Z",
+            "timestamp": 1586000917000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 36,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601192"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601192",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

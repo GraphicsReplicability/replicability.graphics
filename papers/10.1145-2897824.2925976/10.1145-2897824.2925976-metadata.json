@@ -1,0 +1,295 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    6
+                ]
+            ],
+            "date-time": "2020-04-06T18:25:08Z",
+            "timestamp": 1586197508355
+        },
+        "reference-count": 18,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100001659",
+                "name": "Deutsche Forschungsgemeinschaft",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "GSC 111"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100004963",
+                "name": "Seventh Framework Programme",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "340884"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925976",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 17,
+        "title": [
+            "HexEx"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Max",
+                "family": "Lyon",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "RWTH Aachen"
+                    }
+                ]
+            },
+            {
+                "given": "David",
+                "family": "Bommes",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "RWTH Aachen"
+                    }
+                ]
+            },
+            {
+                "given": "Leif",
+                "family": "Kobbelt",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "RWTH Aachen"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/2461912.2462014",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/2508363.2508372",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/2661229.2661240",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1111/j.1467-8659.2011.02015.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/2602141",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1109/TVCG.2013.250",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "author": "Kraemer P.",
+                "volume-title": "Proceedings of the 22nd International Meshing Roundtable."
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "author": "Kremer M.",
+                "volume-title": "Proceedings of the 21st International Meshing Roundtable."
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/2366145.2366196",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/2508363.2508388",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/2766905",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "unstructured": "Lyon M. Bommes D. and Kobbelt L. 2016. libHexEx: a robust hexahedral mesh extraction library. http://www.graphics.rwth-aachen.de/software/libHexEx.  Lyon M. Bommes D. and Kobbelt L. 2016. libHexEx: a robust hexahedral mesh extraction library. http://www.graphics.rwth-aachen.de/software/libHexEx.",
+                "DOI": "10.1145/2897824.2925976",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "M\u00f6bius J. and \n      \n      \n      Kobbelt L\n      \n  \n  . \n  2012\n  . OpenFlipper: \n  An\n   open source geometry processing and rendering framework. \n  In Curves and Surfaces vol. \n  6920\n   of \n  Lecture Notes in Computer Science\n  . 10.1007/978-3-642-27413-8_31   M\u00f6bius J. and Kobbelt L. 2012. OpenFlipper: An open source geometry processing and rendering framework. In Curves and Surfaces vol. 6920 of Lecture Notes in Computer Science. 10.1007/978-3-642-27413-8_31"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Nieser M. Reitebuch U. and Polthier K. 2011. Cube-Cover - parameterization of 3D volumes. Comp. Graph. Forum.  Nieser M. Reitebuch U. and Polthier K. 2011. Cube-Cover - parameterization of 3D volumes. Comp. Graph. Forum.",
+                "DOI": "10.1111/j.1467-8659.2011.02014.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "unstructured": "Ray N. and Sokolov D. 2015. On smooth 3D frame field design. Computing Research Repository.  Ray N. and Sokolov D. 2015. On smooth 3D frame field design. Computing Research Repository."
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.5555/3225268.3225437",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "first-page": "3",
+                "article-title": "Adaptive precision floating-point arithmetic and fast robust geometric predicates",
+                "volume": "18",
+                "author": "Shewchuk J. R.",
+                "year": "1997",
+                "journal-title": "Discrete & Computational Geometry"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1080/16864360.2006.10738427",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925976&amp;ftid=1755892&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:31:10Z",
+            "timestamp": 1585963870000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "robust hexahedral mesh extraction"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 18,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925976"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925976",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

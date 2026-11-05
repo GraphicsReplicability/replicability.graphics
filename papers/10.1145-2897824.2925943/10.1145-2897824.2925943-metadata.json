@@ -1,0 +1,338 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:23:31Z",
+            "timestamp": 1586003011220
+        },
+        "reference-count": 26,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925943",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 23,
+        "title": [
+            "Multiple-scattering microfacet BSDFs with the Smith model"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Eric",
+                "family": "Heitz",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Karlsruhe Institute of Technology"
+                    }
+                ]
+            },
+            {
+                "given": "Johannes",
+                "family": "Hanika",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Karlsruhe Institute of Technology"
+                    }
+                ]
+            },
+            {
+                "given": "Eugene",
+                "family": "d'Eon",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "8i"
+                    }
+                ]
+            },
+            {
+                "given": "Carsten",
+                "family": "Dachsbacher",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Karlsruhe Institute of Technology"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "Beckmann P. and Spizzichino A. 1963. The scattering of electromagnetic waves from rough surfaces. International series of monographs on electromagnetic waves. Pergamon Press.  Beckmann P. and Spizzichino A. 1963. The scattering of electromagnetic waves from rough surfaces . International series of monographs on electromagnetic waves. Pergamon Press."
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1088/0959-7174/14/3/003",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/357290.357293",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1080/00411450701456824",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1111/cgf.12417",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "unstructured": "Heitz E. and Dupuy J. 2015. Implementing a simple anisotropic rough diffuse material with stochastic evaluation. Research report.  Heitz E. and Dupuy J. 2015. Implementing a simple anisotropic rough diffuse material with stochastic evaluation. Research report."
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "unstructured": "Heitz E. Dupuy J. Crassin C. and Dachsbacher C. 2015. The SGGX microflake distribution. ACM Transactions on Graphics (Proc. SIGGRAPH) 34 4 48:1--48:11. 10.1145/2766988   Heitz E. Dupuy J. Crassin C. and Dachsbacher C. 2015. The SGGX microflake distribution. ACM Transactions on Graphics (Proc. SIGGRAPH) 34 4 48:1--48:11. 10.1145/2766988",
+                "DOI": "10.1145/2766988",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "first-page": "32",
+                "article-title": "Understanding the masking-shadowing function in microfacet-based BRDFs",
+                "volume": "3",
+                "author": "Heitz E.",
+                "year": "2014",
+                "journal-title": "Journal of Computer Graphics Techniques"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "Heitz E. 2015. Generating procedural Beckmann surfaces. Research report.  Heitz E. 2015. Generating procedural Beckmann surfaces. Research report."
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "Hill S. Mcauley S. Burley B. Chan D. Fascione L. Iwanicki M. Hoffman N. Jakob W. Neubelt D. Pesce A. and Pettineo M. 2015. Physically based shading in theory and practice. In ACM SIGGRAPH Courses. 10.1145/2776880.2787670   Hill S. Mcauley S. Burley B. Chan D. Fascione L. Iwanicki M. Hoffman N. Jakob W. Neubelt D. Pesce A. and Pettineo M. 2015. Physically based shading in theory and practice. In ACM SIGGRAPH Courses . 10.1145/2776880.2787670",
+                "DOI": "10.1145/2776880.2787670",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "Jakob W. Arbree A. Moon J. T. Bala K. and Marschner S. 2010. A radiative transfer framework for rendering materials with anisotropic structure. ACM Transactions on Graphics (Proc. SIGGRAPH) 29 4 53:1--53:13. 10.1145/1778765.1778790   Jakob W. Arbree A. Moon J. T. Bala K. and Marschner S. 2010. A radiative transfer framework for rendering materials with anisotropic structure. ACM Transactions on Graphics (Proc. SIGGRAPH) 29 4 53:1--53:13. 10.1145/1778765.1778790",
+                "DOI": "10.1145/1778765.1778790",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "unstructured": "Jakob W. d'Eon E. Jakob O. and Marschner S. 2014. A comprehensive framework for rendering layered materials. ACM Transactions on Graphics (Proc. SIGGRAPH) 33 4 118:1--118:14. 10.1145/2601097.2601139   Jakob W. d'Eon E. Jakob O. and Marschner S. 2014. A comprehensive framework for rendering layered materials. ACM Transactions on Graphics (Proc. SIGGRAPH) 33 4 118:1--118:14. 10.1145/2601097.2601139",
+                "DOI": "10.1145/2601097.2601139",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "Kelemen C. and Szirmay-Kalos L. 2001. A microfacet based coupled specular-matte brdf model with importance sampling. In Eurographics short presentations.  Kelemen C. and Szirmay-Kalos L. 2001. A microfacet based coupled specular-matte brdf model with importance sampling. In Eurographics short presentations ."
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1023/A:1008061730969",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "first-page": "3",
+                "article-title": "Symmetries in scattering of slow neutrons",
+                "volume": "188",
+                "author": "Ku\u0161\u010der I.",
+                "year": "1969",
+                "journal-title": "Phys. Rev."
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1080/17455030.2010.524263",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "first-page": "25",
+                "article-title": "Polarized infrared reflectivity of one-dimensional gaussian sea surfaces with surface reflections",
+                "volume": "52",
+                "author": "Li H.",
+                "year": "2013",
+                "journal-title": "Appl. Opt."
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1016/j.rse.2014.02.018",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1007/BF01679684",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1364/OL.30.002007",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "first-page": "591",
+                "article-title": "Unbiased global illumination with participating media",
+                "volume": "2006",
+                "author": "Raab M.",
+                "year": "2008",
+                "journal-title": "Monte Carlo and Quasi-Monte Carlo Methods"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1109/TAP.1967.1138991",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "Stam J. 2001. An illumination model for a skin layer bounded by rough surfaces. In Rendering Techniques 39--52.   Stam J. 2001. An illumination model for a skin layer bounded by rough surfaces. In Rendering Techniques 39--52.",
+                "DOI": "10.1007/978-3-7091-6242-2_4",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1364/JOSA.57.001105",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.5555/2383847.2383874",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1017/S0305004100055377",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925943&amp;ftid=1755849&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:30:25Z",
+            "timestamp": 1585963825000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 26,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925943"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925943",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

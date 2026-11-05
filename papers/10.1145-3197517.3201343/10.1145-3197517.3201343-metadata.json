@@ -1,0 +1,422 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:55Z",
+            "timestamp": 1585962715920
+        },
+        "reference-count": 43,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100005304",
+                "name": "Agence Nationale pour le D\u00e9veloppement de la Recherche en Sant\u00e9",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "ANR-17-CE10-0002"
+                ]
+            },
+            {
+                "DOI": "10.13039/100010663",
+                "name": "H2020 European Research Council",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "StG-2012-307877"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201343",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-15",
+        "source": "Crossref",
+        "is-referenced-by-count": 11,
+        "title": [
+            "Polyhedral voronoi diagrams for additive manufacturing"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Jon\u00e0s",
+                "family": "Mart\u00ednez",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Universit\u00e9 de Lorraine, France"
+                    }
+                ]
+            },
+            {
+                "given": "Samuel",
+                "family": "Hornus",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Universit\u00e9 de Lorraine, France"
+                    }
+                ]
+            },
+            {
+                "given": "Haichuan",
+                "family": "Song",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Universit\u00e9 de Lorraine, France"
+                    }
+                ]
+            },
+            {
+                "given": "Sylvain",
+                "family": "Lefebvre",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Universit\u00e9 de Lorraine, France"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/220279.220288",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "Guylaine Boittin Daniela Garajeu Alice Lab\u00e9 Herv\u00e9 Moulinec Fabrice Silva and Pierre Suquet. 2014. CraFT. http://craft.lma.cnrs-mrs.fr/  Guylaine Boittin Daniela Garajeu Alice Lab\u00e9 Herv\u00e9 Moulinec Fabrice Silva and Pierre Suquet. 2014. CraFT. http://craft.lma.cnrs-mrs.fr/"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1016/j.cma.2017.05.004",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/323233.323264",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1142/S0218195996000046",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "unstructured": "Lorna J Gibson and Michael F Ashby. 1999. Cellular solids: structure and properties. Cambridge university press.  Lorna J Gibson and Michael F Ashby. 1999. Cellular solids: structure and properties. Cambridge university press."
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1088/0370-1298/65/5/307",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.5555/3059592.3059594",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/380752.380815",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.5555/2383356.2383358",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1016/S0166-218X(00)00238-9",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/2984511.2984540",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "Rolf Klein and Derick Wood. 1988. Voronoi diagrams based on general metrics in the plane. Springer Berlin Heidelberg 281--291.   Rolf Klein and Derick Wood. 1988. Voronoi diagrams based on general metrics in the plane. Springer Berlin Heidelberg 281--291.",
+                "DOI": "10.1007/BFb0035852",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.4028/www.scientific.net/AMR.633.148",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1007/s00170-016-9239-3",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1016/j.cad.2018.03.007",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "Sylvain Lefebvre. 2015. 3D infilling: faster stronger simpler http://sylefeb.blogspot.fr/2015/07/3dprint-3d-infilling-faster-stronger.html.  Sylvain Lefebvre. 2015. 3D infilling: faster stronger simpler http://sylefeb.blogspot.fr/2015/07/3dprint-3d-infilling-faster-stronger.html."
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1016/j.cad.2016.05.017",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.5555/3128975.3129024",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/2601097.2601168",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1016/j.ijsolstr.2006.08.039",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "unstructured": "Lihong Ma. 2000. Bisectors and Voronoi diagrams for convex distance functions. Ph.D. Dissertation. Fernuniversit\u00e4t Fachbereich Informatik.  Lihong Ma. 2000. Bisectors and Voronoi diagrams for convex distance functions. Ph.D. Dissertation. Fernuniversit\u00e4t Fachbereich Informatik."
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/2897824.2925922",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/3072959.3073638",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "author": "Martini H.",
+                "year": "2004",
+                "volume-title": "Part II. Expositiones Mathematicae 22"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "author": "McMains Sara",
+                "year": "2000",
+                "volume-title": "Layered Manufacturing of Thin-Walled Parts. In ASME Design Engineering Technical Conference"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1007/s00371-015-1109-8",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1007/s10659-006-9082-0",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1016/S0045-7825(97)00218-1",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "author": "Okabe Atsuyuki",
+                "year": "2009",
+                "volume-title": "Spatial Tessellations: Concepts and Applications of Voronoi Diagrams"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/3072959.3073649",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/2766937",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1016/j.gmod.2011.03.001",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1016/S0022-5096(01)00056-4",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1145/2766926",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1007/s00158-016-1420-7",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1093/qjmamj/hbh021",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1145/2461912.2461993",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "unstructured": "W. Wang Y. J. Liu J. Wu S. Tian C. C. L. Wang L. Liu and X. Liu. 2017. Support-Free Hollowing. IEEE Transactions on Visualization and Computer Graphics (2017).  W. Wang Y. J. Liu J. Wu S. Tian C. C. L. Wang L. Liu and X. Liu. 2017. Support-Free Hollowing. IEEE Transactions on Visualization and Computer Graphics (2017)."
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1016/j.cad.2016.07.006",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1016/j.visinf.2017.01.002",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "unstructured": "Qingnan Zhou. 2015. A study in fabricating microstructures. https://medium.com/3d-printing-stories/a-study-in-fabricating-microstructures-part-1-f267d298326e.  Qingnan Zhou. 2015. A study in fabricating microstructures. https://medium.com/3d-printing-stories/a-study-in-fabricating-microstructures-part-1-f267d298326e."
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1145/3095815",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201343&ftid=1991758&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:35:55Z",
+            "timestamp": 1585960555000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 43,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201343"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201343",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

@@ -1,0 +1,281 @@
+<html><head><meta charset="utf-8">
+ <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+ <script src="../../assets/js/chart-utils.js"></script>
+<link rel="stylesheet"
+       href="../../assets/css/default.min.css">
+ <script src="../../assets/js/highlight.min.js"></script>
+ <script>hljs.initHighlightingOnLoad();</script>
+ <link href="../../assets/css/all.css" rel="stylesheet">
+ <link rel="stylesheet" href="../../assets/css/customstyle.css">
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pretty-checkbox@3.0/dist/pretty-checkbox.min.css">
+
+  <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+  <script>
+  var currentReviewId = 0;
+
+  $( function() {
+    $( "#tabs" ).tabs({
+    activate: function (event, ui) {
+        var reviewId = parseInt(event.currentTarget.id.substring(6));
+
+        [myChart.data.datasets[0].data, myChart.data.datasets[currentReviewId].data] =
+ [myChart.data.datasets[currentReviewId].data, myChart.data.datasets[0].data];
+
+        currentReviewId = reviewId-1;
+
+        [myChart.data.datasets[0].data, myChart.data.datasets[currentReviewId].data] =
+ [myChart.data.datasets[currentReviewId].data, myChart.data.datasets[0].data];
+
+        myChart.update(0);
+    }
+  });
+  } );
+  </script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-164636527-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-164636527-1');
+</script>
+<title>Topology-Varying 3D Shape Creation via Structural Blending</title>
+<meta name="description" content="Replicability and source code of the article Topology-Varying 3D Shape Creation via Structural Blending.">
+
+  </head>
+<body>
+  <ul class="publist-inline" style="text-align:left;"><li class="web"><a href="../../browse.html">< The Data</a></ul><h1 class="title">Topology-Varying 3D Shape Creation via Structural Blending <i class="fas fa-circle graphcol0" style="font-size:150%;color:#0868ac;" title="code available and we were able to reproduce most results (score >= 4)"></i> <i class="fas fa-square graphcol6"  style="font-size:150%;color:#7570b3;" title="Preprint PDF available (author web page, project page, institution page, arxiv...)"></i></h1><ul class="authors">
+<li> Ibraheem <span class="family">Alhashim</span></li>
+<li> Honghua <span class="family">Li</span></li>
+<li> Kai <span class="family">Xu</span></li>
+<li> Junjie <span class="family">Cao</span></li>
+<li> Rui <span class="family">Ma</span></li>
+<li> Hao <span class="family">Zhang</span></li>
+</ul>
+<center> SIGGRAPH 2014</center><ul class="publist-inline">
+<li class="web"> <i class="fas fa-globe-americas"></i> <a href="https://doi.org/10.1145/2601097.2601102">ACM</a></li>
+<li class="pdf"> <i class="far fa-file-pdf"></i> <a href="https://kevinkaixu.net/papers/alhashim_sig14_topo.pdf">preprint</a></li>
+<li class="web"> <i class="fas fa-globe-americas"></i> <a href="https://ialhashim.github.io/projects/topo/index.html">Project page</a></li>
+<li class="web"> <i class="far fa-file-alt"></i> <a href="https://github.com/ialhashim/topo-blend">Code</a></li>
+<li class="web"> <i class="fas fa-database"></i> <a href="10.1145-2601097.2601102-metadata.json">DOI Metadata</a></li>
+</ul>
+<center><img width="300" src="10.1145-2601097.2601102-thumb.png"></img></center><br><br><ul class="publist-inline" style="text-align:left;font-size:100%"><li > <i ></i> <a href="replicability.json">Download complete data for this entry</a></li></ul>
+    <div class="row">
+    <div class="column2 chart-container" style="position: relative; height:40vh; width:30vw">
+    <canvas width="300" height="250" id="myChart" class="chartjs-render-monitor"></canvas>
+    </div>
+    
+    <div class="column2">
+    <h2>Reviews</h2>
+       <div id="tabs">
+          <ul>             <li><a href="#review-1">main</a></li>
+             <li><a href="#review-2">&#43;</a></li>
+</ul><div id="review-1"><h2>Information</h2><ul><li><span class="family">Paper topic</span>: Geometry</li>
+<li><span class="family">Software type</span>: Code</li>
+<li><span class="family">Able to run a replicability test</span>: True</li>
+<li><span class="family">Replicability score</span>: 5</li>
+<li><span class="family">Software language</span>: C/C++</li>
+<li><span class="family">License</span>: unspecified</li>
+<li><span class="family">Build mechanism</span>: IDE Project (VS,..)</li>
+<li><span class="family">Dependencies</span>: Qt / GLee / starlib / Eigen</li>
+<li><span class="family">Documentation score</span> {0,1,2}: 1</li>
+<li><span class="family">Reviewer</span>: Nicolas Bonneel &lt;nicolas.bonneel@liris.cnrs.fr&gt;</li>
+<li><span class="family">Time spent for the test (build->first run, timeout at 100min)</span>: 100min</li>
+</ul><h2>Source code information</h2>
+<ul><li><span class="family">Code URL</span>:  <a href="https://github.com/ialhashim/topo-blend">https://github.com/ialhashim/topo-blend</a></li>
+<li><span class="family">Git commit hash</span>: 39b13612ebd645a65eda854771b517371f2f858a</li>
+<li><span class="family">Software Heritage link</span>: <a href="https://archive.softwareheritage.org/swh:1:rev:39b13612ebd645a65eda854771b517371f2f858a;origin=https://github.com/ialhashim/topo-blend/"><img src="https://archive.softwareheritage.org/badge/swh:1:rev:39b13612ebd645a65eda854771b517371f2f858a;origin=https://github.com/ialhashim/topo-blend/"></a></li>
+</ul><h2>Comments</h2><pre>I updated the code so that it runs on current generation of libraries, that is, Qt 5.14 (with VS 2017) instead of Qt 4.2, Glew instead of GLee, and the last version of the StarLib dependency, which compiles with Qt 5. For that, a large number of steps need to be performed, which took me more than a day to investigate.
+First, building the last Starlib:mini. First, install Qt 5.14 (about 40GB), add the Eigen path to the include paths in starlib.pro: INCLUDEPATH += c:\absolute_path_to_starlab\core\external\eigen-3.2.5\ and add the path to your Visual Studio cl.exe in the system path (typically, :\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\Hostx64\x64).
+Then, go to a command prompt, and "moc" the following cpp files by executing:
+moc ParametersFrame.h -o moc_ParametersFrame.cpp
+moc RichParameterSet.h -o moc_RichParameterSet.cpp
+moc RichParameterWidget.h -o moc_RichParameterWidget.cpp
+in the right folders.
+Then add moc_ParametersFrame.cpp, moc_RichParameterSet.cpp and moc_RichParameterWidget.cpp to the project for them to be compiled (folder core/starlib/Sources/parameters).
+
+Then you need to compile the old topo-blend project, and a number of edits need to be performed:
+* The Eigen constructor Vector3(float) doesn't exist. You thus need to edit:
+- CustomDrawObjects.h, line 332: glv(Vector3(center + ((Vector3d)n[i] * 0.2 * scale))); to glv(Vector3(center + (Vector3d(n[i].x(), n[i].y(), n[i].z()) * 0.2 * scale)));
+- CustomDrawObjects.h, line 299: Voxel corner (Vector3d((minimum - Vector3d(voxel_size)) / voxel_size)); to Voxel corner (Vector3d((minimum - Vector3d(voxel_size, voxel_size, voxel_size)) / voxel_size));
+- StructureNode.h, lines 48-49
+        inline Vector4d minCoord(){ return Vector4d(0.0); } to inline Vector4d minCoord(){ return Vector4d(0.0, 0.0, 0.0, 0.0); }
+        inline Vector4d maxCoord(){ return Vector4d(1.0); } to inline Vector4d maxCoord(){ return Vector4d(1.0, 1.0, 1.0, 1.0); }
+- nurbs_plugin.cpp, line 965: createSheet(Vector3d(0,0,0),Vector3d(0.01)); =&gt; createSheet(Vector3d(0,0,0),Vector3d(0.01, 0.01, 0.01));        
+
+* The file QtConcurrentRun is now in the folder QtConcurrent. You need to edit:
+#include &lt;QtConcurrentRun&gt; to #include &lt;QtConcurrent/QtConcurrentRun&gt;
+in GraphExplorer.cpp and Scheduler.cpp and SynthesisManager.cpp and DemoGlobal.cpp
+
+* For some reasons, colors like Qt::lightGray cannot be accessed. Changing them to the corresponding constants uglily but quickly fixes the error:
+- GraphModifyWidget.cpp, line 129: node-&gt;vis_property["color"] = Qt::lightGray; change  Qt::lightGray; to the constant 6
+- GraphModifyWidget.cpp, lines 135 and 138: change Qt::red to 7, and Qt::green to 8
+- QuickGroup.cpp, lines 82 and 88: same thing.
+- QuickAlignment.cpp, lines 99, 104, 110, 113:  same thing. 
+- landmarks_dialog.cpp, lines 248, 254, 257, 264, 270, 273, 289, 296, 306, 309, 677, 684, 693, 696: same things (use Qt::yellow=12)
+
+* A number of string literals are typed char* instead of const char* which produces compile errors.
+- StructureGlobal.h, line 532: static inline std::string exec(char* cmd) { should be changed to static inline std::string exec(const char* cmd) {
+- kmeans.h, line 296: void init_Mu( ExtMat &X, ExtMat &Mu, char* initname ) to void init_Mu( ExtMat &X, ExtMat &Mu, const char* initname )
+- PlyFile.cpp, line 41: char *type_names[] = to const char *type_names[] =
+- PlyFile.cpp, line 1457: int equal_strings(char *s1, char *s2) to int equal_strings(const char *s1, const char *s2), and change the definition in PlyFile.h
+- Ply.h, line 85: char *name; to QString name; and #include &lt;QString&gt;  (outside of the extern "C" !!)
+
+* stdext::hash_map is now obsolete and now part of the STL under the name "unordered_map". You thus need to change:
+- Geometry.h, line 278: hash_map&lt;long long,int&gt; edgeMap; to unordered_map&lt;long long,int&gt; edgeMap;
+- Hash.h, line 4: #include &lt;hash_map&gt; to #include &lt;unordered_map&gt;
+- Hash.h, line 5: using stdext::hash_map; to using std::unordered_map;
+- MultiGridOctreeData.h, lines 244, 310, 312: hash_map&lt; long long , std::pair&lt; RootInfo&lt; OutputDensity &gt; , int &gt; &gt;* vertexCount; to unordered_map&lt;...&gt;
+- Geometry.inl, line 325: same thing.
+- MultiGridOctreeData.inl, lines 2877, 3004, 3955, 3994, 4096, 4097: same thing. 
+- resample/disjoint_set.h and topoblenderlib/disjoint_set.h, lines 6--8 : hash_map to unordered_map, hash_set to unordered_set, and #define STDEXT stdext to #define STDEXT std
+- resample/disjoint_set.h and topoblenderlib/disjoint_set.h, lines 58-59 hash_map =&gt; unordered_map
+
+* some includes are missing.
+- MultiGridOctreeData.h, add #include "Octree.h"
+- GraphEmbed.h, add #include "StructureNode.h"
+- ShapeRenderer.cpp, add #include "qglviewer/manipulatedCameraFrame.h" before the #include "qglviewer/camera.h"
+- GraphItem.cpp, Scene.cpp, BlendPathRenderer.cpp, also add #include "qglviewer/manipulatedCameraFrame.h" 
+
+* other edits:
+- Task.h, line 9: add Q_OBJECT, before public
+- ProductEvaluators.h (in Eigen), lines 181--192: comment out the function. It produces an error otherwise, and should not impact much performances. 
+- PlyFile.h, lines 148-149: remove extern char *my_alloc(); and replace #define myalloc(mem_size) my_alloc((mem_size), __LINE__, __FILE__) by #define myalloc(mem_size) malloc((mem_size))
+- ProgressItem.cpp, line 9: replace items = new QGraphicsItemGroup(0,scene); by items = new QGraphicsItemGroup(0); and then immediately call scene-&gt;addItem(items);
+- ProgressItem.cpp, lines 98-100:
+        spinner-&gt;translate( 0.5 * x,  0.5 * y);
+        spinner-&gt;rotate(10);
+        spinner-&gt;translate(-0.5 * x, -0.5 * y);
+should be replace by 
+                spinner-&gt;setTransform(QTransform().translate(0.5*x, 0.5*y).rotate(10).translate(-0.5*x, -0.5*y));
+- qglviewer/camera.h, line 334: move the definition of ManipulatedCameraFrame* frame() const { return frame_; } to the cpp file.
+the .h file should look like ManipulatedCameraFrame* frame() const; 
+and the camera.cpp file should have a function ManipulatedCameraFrame* Camera::frame() const { return frame_; }        
+- BlendPathRenderer.cpp, lines 176 and 213: replace event-&gt;posF(); by event-&gt;localPos();
+- poissonrecon.cpp: add #pragma once at the begining        
+- QtAwesome.cpp, line 15: remove Q_INIT_RESOURCE_EXTERN(QtAwesome), and put Q_INIT_RESOURCE(QtAwesome); in line 121, in QtAwesome's constructor (this may not be needed though)
+- ShapeRenderer.cpp, line 124: replace setRevolveAroundPoint by setPivotPoint (otherwise annoying warnings during execution, but this is not mandatory)
+- GraphItem.cpp, line 52: replace setRevolveAroundPoint by setPivotPoint
+- BlendPathRenderer.cpp, line 185: replace revolveAroundPoint by pivotPoint
+- Scene.cpp, line 243: replace revolveAroundPoint by pivotPoint
+- topo-blend.cpp, line 640: replace revolveAroundPoint by pivotPoint
+
+* Replacing GLee by a fresh Glew install.
+- GlSplatRendererLib/GlSplatRendererLib.pro: replace Glee by Glew
+- change all the #include of Glee to GL/glew.h.
+- topo_blend_widget.cpp: add an #include &lt;GL/glew.h&gt; before all other includes, otherwise glew complains that other gl libraries were included before glew.
+- GLSplat.cpp, line 16: put an #include &lt;GL/glew.h&gt; before all other includes
+- GLSplat.cpp,line 124 and 314, 321, 329, 407, 421: glActiveTexture should be changed to __glewActiveTexture
+- GLSplat.cpp,line 191 and 206: glFramebufferTexture2DEXT =&gt; __glewFramebufferTexture2D
+- GLSplat.cpp,line 250: glDrawBuffersARB =&gt; __glewDrawBuffersARB
+- GLSplat.cpp,line 345, 350, 355, 360: glMultiTexCoord2f =&gt; __glewMultiTexCoord2f
+- GLSplat.cpp,line 411: glBlendFuncSeparate =&gt; __glewBlendFuncSeparate
+- GLSplat.cpp,line 426: glPointParameterf =&gt; __glewPointParameterf
+- Shader.h, lines 103, 109, 112, 115, 118, 121, 124: glUniform*(glGetUniformLocation(...)) =&gt; __glewUniform*(__glewGetUniformLocation
+- demo.pro and topo-blend.pro: add LIBS += -lglew32 -LC:/[path-to-glew]/glew-2.1.0/lib/Release/x64 
+
+
+* toAscii does not exist anymore:
+- GLSplat.cpp, line 56, 102, 103: .toAscii() =&gt; .toLocal8Bit()
+- nurbs_plugin.cpp, line 426: toAscii() =&gt; toLatin1()
+- poissonrecon.cpp, line 18: toAscii() =&gt; toLatin1()
+
+
+* the way Qt plugins are handled has changed:
+- voxel_resampler.cpp, line 170: remove the line Q_EXPORT_PLUGIN
+- nurbs_plugin.cpp, line 1014: remove the line Q_EXPORT_PLUGIN
+- topo-blend.cpp, line 996: remove the line Q_EXPORT_PLUGIN
+- voxel_resampler.h, line 10: add Q_PLUGIN_METADATA(IID "voxel_resampler") 
+- nurbs_plugin.h, line 25: add Q_PLUGIN_METADATA(IID "nurbs_plugin") 
+- topo-blend.h, line 26: add Q_PLUGIN_METADATA(IID "topoblend") 
+
+* __iob_func does not exist anymore:
+- voxel_resampler.cpp and nurbs_plugin.cpp: add at the begining: extern "C" { FILE __iob_func[3] = { *stdin,*stdout,*stderr }; }
+- voxel_resampler.pro and nurbs_plugin.pro: LIBS += -llegacy_stdio_definitions
+
+
+make sure starlib.lib is present in the newly created release directory
+
+* Now going to linking errors:
+- Src/PoissonRecon.cpp, line 494, add 
+    SimpleMesh s;
+    PoissonRecon::makeFromCloud(std::vector&lt;std::vector&lt;float&gt;&gt;(), std::vector&lt;std::vector&lt;float&gt;&gt;(), s, 0);
+and #include "poissonrecon.h" at the beginning. Otherwise the makeFromCloud symbol does not get exported if it is never used. This is a hack but works.
+- It is unclear if this is needed, but at some point I had to put  ../Reconstruction/poissonrecon.cpp in the compiled sources in the project file TopoBlenderLib.pro and add LIBS += $$PWD/../Reconstruction/$$CFG/lib/Reconstruction.lib at the end. It randomly changes between "undefined reference to ..." to "duplicate reference to ...", and changes if I compile in debug or release.
+
+* Now going to execution errors:
+- ShapesGallery.cpp, lines 94--10 : comment out everything. This relates to shadows, and crashes the program.
+- BlendPathRenderer.cpp, line 42 and 78, replace updateGL by paintGL. Otherwise the interpolated chair thumbnails are black. This is ackwards since updateGL is supposed to call paintGL though.
+- SynthesisManager.cpp, lines 971--973, comment out the inside of bufferCleanup(). This is a hack which can have side effects, but otherwise crashes.
+
+
+On my machine, the code only runs within the Qt Creator environment, otherwise some VCRUNTIME140_APP.dll/MSVCP140.dll error appear.
+Also the program crashes when exporting the mesh, during the rendering of the snapshot. However, it still outputs the obj mesh, so it is possible to use that mesh for comparison purpose. In practice, the authors have made available a demo compiled for Windows, and shows a better rendering output than the code compiled with the instructions above.
+While the interface is quite intuitive, my main issues are the lack of documentation, and most importantly, that I have no idea how the input data directories were generated and thus I have no clue as to how I would interpolate my own models. In particular, it seems that the provided xml files (likely?) contain the skeletonized and B-spline fits of the meshes, which is a non trivial step.</pre></div><div id=review-2>
+           <p> If you want to contribute with another review, please follow <a href="../../index.html#contribute">these instructions</a>. </p>
+
+            <p>Please consider to cut/paste/edit the <a href="replicability.json">raw JSON data</a> attached to this paper.</a></p>
+            </div>
+            </div></div>
+    </div>
+    </div>
+    </div>
+        <script>
+ 	  var color = Chart.helpers.color;
+          var colorNames = Object.keys(window.chartColors);
+          var ctx = document.getElementById('myChart');
+          var myChart = new Chart(ctx, {
+              type: 'polarArea',
+              data: {
+                labels: ['Dependencies', 'Build / Configure', 'Fixing bugs', 'Easy to adapt', 'Can replicate paper results'],
+                     datasets: [{
+                      label: 'Variant -- "main" (the higher, the better,  {1..5}, 0=N/A )',
+                      showLine: false,
+           
+                      borderColor: "#000",
+                      borderWidth: 2,
+                      backgroundColor: [
+                          'rgba(255, 99, 132,.6)',
+                          'rgba(255, 159, 64,.6)',
+                          'rgba(255, 205, 86,.6)',
+                          'rgba(75, 192, 192,.6)',
+                          'rgba(54, 162, 235,.6)',
+                      ],
+                      data: [1,1,1,1,5]
+                  },
+                  ]
+              },
+              options: {
+  scale: {
+      ticks: {
+          suggestedMin: 0,
+          suggestedMax: 5,
+          stepSize: 1
+      }
+  }
+}
+          });
+
+        </script>
+    </code></pre></body><div style="height:30px;display:block;"></div><div id="disqus_thread"></div>
+ <script>
+ /**
+ *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+ *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+ /*
+ var disqus_config = function () {
+ this.page.url = 'https://replicability.graphics';  // Replace PAGE_URL with your page's canonical URL variable
+ this.page.identifier = '10.1145-2601097.2601102'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+ };
+ */
+ (function() { // DON'T EDIT BELOW THIS LINE
+ var d = document, s = d.createElement('script');
+ s.src = 'https://replicability-graphics.disqus.com/embed.js';
+ s.setAttribute('data-timestamp', +new Date());
+ (d.head || d.body).appendChild(s);
+ })();
+ </script>
+ <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript></html>

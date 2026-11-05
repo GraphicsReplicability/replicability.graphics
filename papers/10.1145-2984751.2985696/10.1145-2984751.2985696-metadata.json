@@ -1,0 +1,264 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    3,
+                    26
+                ]
+            ],
+            "date-time": "2020-03-26T20:20:09Z",
+            "timestamp": 1585254009226
+        },
+        "publisher-location": "New York, New York, USA",
+        "reference-count": 3,
+        "publisher": "ACM Press",
+        "isbn-type": [
+            {
+                "value": "9781450345316",
+                "type": "print"
+            }
+        ],
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            10,
+                            16
+                        ]
+                    ],
+                    "date-time": "2016-10-16T00:00:00Z",
+                    "timestamp": 1476576000000
+                },
+                "delay-in-days": 289,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100000781",
+                "name": "European Research Council",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "StG-2012-306877"
+                ]
+            },
+            {
+                "DOI": "10.13039/100000001",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "IIS-14-09286, IIS-17257"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100001711",
+                "name": "Schweizerischer Nationalfonds zur Forderung der Wissenschaftlichen Forschung",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "200021_162958"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016
+                ]
+            ]
+        },
+        "DOI": "10.1145/2984751.2985696",
+        "type": "proceedings-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    10,
+                    17
+                ]
+            ],
+            "date-time": "2016-10-17T10:33:17Z",
+            "timestamp": 1476700397000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 2,
+        "title": [
+            "Rig Animation with a Tangible and Modular Input Device"
+        ],
+        "prefix": "10.1145",
+        "author": [
+            {
+                "given": "Oliver",
+                "family": "Glauser",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "ETH Zurich, Zurich, Switzerland"
+                    }
+                ]
+            },
+            {
+                "given": "Benedek",
+                "family": "Vartok",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "ETH Zurich, Zurich, Switzerland"
+                    }
+                ]
+            },
+            {
+                "given": "Wan-Chun",
+                "family": "Ma",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Activision Inc., Santa Monica, CA, USA"
+                    }
+                ]
+            },
+            {
+                "given": "Daniele",
+                "family": "Panozzo",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "New York University, New York, NY, USA"
+                    }
+                ]
+            },
+            {
+                "given": "Alec",
+                "family": "Jacobson",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Columbia University, New York, NY, USA"
+                    }
+                ]
+            },
+            {
+                "given": "Otmar",
+                "family": "Hilliges",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "ETH Zurich, Zurich, Switzerland"
+                    }
+                ]
+            },
+            {
+                "given": "Olga",
+                "family": "Sorkine-Hornung",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "ETH Zurich, Zurich, Switzerland"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "key-10.1145/2984751.2985696-1",
+                "unstructured": "Glauser, O., Ma, W.-C., Panozzo, D., Jacobson, A., Hilliges, O., and Sorkine-Hornung, O. Rig Animation with a Tangible and Modular Input Device. ACM Trans. Graph. 35, 4 (2016).",
+                "DOI": "10.1145/2897824.2925909",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2984751.2985696-2",
+                "unstructured": "Jacobson, A., Panozzo, D., Glauser, O., Pradalier, C., Hilliges, O., and Sorkine-Hornung, O. Tangible and modular input device for character articulation. ACM Trans. Graph. 33, 4 (2014).",
+                "DOI": "10.1145/2601097.2601112",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "key-10.1145/2984751.2985696-3",
+                "unstructured": "Sloan, P.-P. J., Rose, III, C. F., and Cohen, M. F. Shape by example. In Proceedings of the 2001 Symposium on Interactive 3D Graphics, I3D '01, ACM (New York, NY, USA, 2001), 135--143.",
+                "DOI": "10.1145/364338.364382",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "event": {
+            "name": "the 29th Annual Symposium",
+            "location": "Tokyo, Japan",
+            "sponsor": [
+                "SIGCHI, ACM Special Interest Group on Computer-Human Interaction",
+                "SIGGRAPH, ACM Special Interest Group on Computer Graphics and Interactive Techniques"
+            ],
+            "acronym": "UIST '16 Adjunct",
+            "number": "29",
+            "start": {
+                "date-parts": [
+                    [
+                        2016,
+                        10,
+                        16
+                    ]
+                ]
+            },
+            "end": {
+                "date-parts": [
+                    [
+                        2016,
+                        10,
+                        19
+                    ]
+                ]
+            }
+        },
+        "container-title": [
+            "Proceedings of the 29th Annual Symposium on User Interface Software and Technology - UIST '16 Adjunct"
+        ],
+        "original-title": [],
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2985696&amp;ftid=1801825&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2017,
+                    6,
+                    24
+                ]
+            ],
+            "date-time": "2017-06-24T21:20:45Z",
+            "timestamp": 1498339245000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016
+                ]
+            ]
+        },
+        "ISBN": [
+            "9781450345316"
+        ],
+        "references-count": 3,
+        "URL": "http://dx.doi.org/10.1145/2984751.2985696",
+        "relation": {
+            "cites": []
+        }
+    }
+}

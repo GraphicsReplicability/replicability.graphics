@@ -1,0 +1,401 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:11:20Z",
+            "timestamp": 1586002280968
+        },
+        "reference-count": 35,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100004963",
+                "name": "Seventh Framework Programme",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "251415, 288914"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100003329",
+                "name": "Ministerio de Econom\u00eda y Competitividad",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "TIN2010-21543"
+                ]
+            },
+            {
+                "DOI": "10.13039/100004344",
+                "name": "Adobe Systems",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "name": "Gobierno de Aragon",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601131",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-9",
+        "source": "Crossref",
+        "is-referenced-by-count": 37,
+        "title": [
+            "A similarity measure for illustration style"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Elena",
+                "family": "Garces",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Universidad de Zaragoza"
+                    }
+                ]
+            },
+            {
+                "given": "Aseem",
+                "family": "Agarwala",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe"
+                    }
+                ]
+            },
+            {
+                "given": "Diego",
+                "family": "Gutierrez",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Universidad de Zaragoza"
+                    }
+                ]
+            },
+            {
+                "given": "Aaron",
+                "family": "Hertzmann",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "author": "Aucouturier J.-J.",
+                "volume-title": "Proc. SMIR, 157--163"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/1141911.1141935",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/1345448.1345465",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/1618452.1618470",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/2433396.2433420",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/1348246.1348248",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/2185520.2185597",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/508530.508550",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "author": "Epshtein B.",
+                "volume-title": "Proc. CVPR, 2963--2970"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "Gooch B. and Gooch A. 2001. Non-Photorealistic Rendering. AK Peters Ltd.   Gooch B. and Gooch A. 2001. Non-Photorealistic Rendering . AK Peters Ltd.",
+                "DOI": "10.1201/9781439864173",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1109/TSMC.1973.4309314",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "author": "Hasler D.",
+                "volume": "5007",
+                "volume-title": "Measuring Colourfulness in Natural Images. In Proc. SPIE: Human Vision and Electronic Imaging"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/383259.383295",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/2001416.2001419",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/2077341.2077342",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1561/2200000019",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/1276377.1276381",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.5040/9781849662505",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1109/JSTSP.2009.2015077",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1111/cgf.12015",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.5555/1953048.1953063",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "author": "Murray N.",
+                "volume-title": "Proc. CVPR, 2408--2415"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "O'Donovan P. L\u012bbeks J. Agarwala A. and Hertzmann A. 2014. Exploratory Font Selection Using Crowdsourced Attributes. ACM Trans. Graphics 33. 10.1145/2601097.2601110   O'Donovan P. L\u012bbeks J. Agarwala A. and Hertzmann A. 2014. Exploratory Font Selection Using Crowdsourced Attributes. ACM Trans. Graphics 33 . 10.1145/2601097.2601110",
+                "DOI": "10.1145/2601097.2601110",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1109/TPAMI.2002.1017623",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1109/ICCV.2011.6126281",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/1670564.1670572",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "author": "Schultz M.",
+                "volume-title": "Proc. NIPS."
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/1670671.1670672",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "author": "Tamuz O.",
+                "volume-title": "Proc. ICML, 673--680"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1162/089976600300015349",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "first-page": "2579",
+                "article-title": "Visualizing High-Dimensional Data Using t-SNE",
+                "volume": "9",
+                "author": "van der Maaten L.",
+                "year": "2008",
+                "journal-title": "J. Machine Learning Research"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "author": "Welinder P.",
+                "volume-title": "Proc. NIPS, 2424--2432"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1007/s10516-004-5449-7",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/279232.279236",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1109/ICPR.2010.751",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601131&amp;ftid=1488901&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:53:27Z",
+            "timestamp": 1586001207000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 35,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601131"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601131",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

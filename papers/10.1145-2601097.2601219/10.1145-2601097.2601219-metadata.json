@@ -1,0 +1,406 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:41:08Z",
+            "timestamp": 1586004068056
+        },
+        "reference-count": 32,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100001824",
+                "name": "Grantov\u00e1 Agentura \u010cesk\u00e9 Republiky",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "P202-13-26189S"
+                ]
+            },
+            {
+                "DOI": "10.13039/100007397",
+                "name": "Univerzita Karlova v Praze",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "GA UK 1362413, SVV-2014-260103"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100000038",
+                "name": "Natural Sciences and Engineering Research Council of Canada",
+                "doi-asserted-by": "publisher",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601219",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 40,
+        "title": [
+            "Unifying points, beams, and paths in volumetric light transport simulation"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Jaroslav",
+                "family": "K\u0159iv\u00e1nek",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Charles University in Prague"
+                    }
+                ]
+            },
+            {
+                "given": "Iliyan",
+                "family": "Georgiev",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Light Transportation Ltd."
+                    }
+                ]
+            },
+            {
+                "given": "Toshiya",
+                "family": "Hachisuka",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Aarhus University"
+                    }
+                ]
+            },
+            {
+                "given": "Petr",
+                "family": "V\u00e9voda",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Charles University in Prague"
+                    }
+                ]
+            },
+            {
+                "given": "Martin",
+                "family": "\u0160ik",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Charles University in Prague"
+                    }
+                ]
+            },
+            {
+                "given": "Derek",
+                "family": "Nowrouzezahrai",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Universit\u00e9 de Montr\u00e9al"
+                    }
+                ]
+            },
+            {
+                "given": "Wojciech",
+                "family": "Jarosz",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Disney Research Z\u00fcrich"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/97879.97886",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "Arvo J. 1993. Transfer functions in global illumination. In ACM SIGGRAPH 93 Course Notes - Global Illumination.  Arvo J. 1993. Transfer functions in global illumination. In ACM SIGGRAPH 93 Course Notes - Global Illumination ."
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "unstructured": "Banerjee K. 2010. Kernel Density Estimator Methods for Monte Carlo Radiation Transport. PhD thesis University of Michigan.  Banerjee K. 2010. Kernel Density Estimator Methods for Monte Carlo Radiation Transport . PhD thesis University of Michigan."
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "Davidovi\u010d T. and Georgiev I. 2012. SmallVCM. http://www.smallvcm.com/.  Davidovi\u010d T. and Georgiev I. 2012. SmallVCM. http://www.smallvcm.com/."
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/2010324.1964951",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "first-page": "490",
+                "article-title": "Kernel density estimators for Monte Carlo tallies on unstructured meshes",
+                "volume": "107",
+                "author": "Dunn K.",
+                "year": "2012",
+                "journal-title": "Transactions of the American Nuclear Society"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/2366145.2366211",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/2508363.2508411",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/2508363.2508377",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/1409060.1409083",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/2366145.2366210",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/2601097.2601138",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/15886.15901",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1111/j.1467-8659.2008.01153.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/1899404.1899409",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/2070781.2024215",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/280814.280925",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.5555/275458.275461",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "unstructured": "Kajiya J. T. 1986. The rendering equation. In Computer Graphics (Proc. of SIGGRAPH). 10.1145/15922.15902   Kajiya J. T. 1986. The rendering equation. In Computer Graphics (Proc. of SIGGRAPH) . 10.1145/15922.15902"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/1966394.1966404",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "author": "Lafortune E. P.",
+                "volume-title": "Compugraphics '93"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "author": "Lafortune E. P.",
+                "volume-title": "Proc. of the Eurographics Workshop on Rendering."
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.13182/NSE66-A17358",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "author": "Nov\u00e1k J.",
+                "volume-title": "Proc. of Eurographics Symposium on Rendering 31"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/2185520.2185556",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "author": "Pauly M.",
+                "volume-title": "Rendering Techniques (Proc. of Eurographics Workshop on Rendering)."
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "unstructured": "Spanier J. and Gelbard E. M. 1969. Monte Carlo principles and neutron transport problems. Addison-Wesley.  Spanier J. and Gelbard E. M. 1969. Monte Carlo principles and neutron transport problems . Addison-Wesley.",
+                "DOI": "10.1063/1.3022338",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1137/0114059",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "author": "Veach E.",
+                "volume-title": "Proc. of Eurographics Rendering Workshop."
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/218380.218498",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "unstructured": "Veach E. 1997. Robust Monte Carlo methods for light transport simulation. PhD thesis Stanford CA USA.   Veach E. 1997. Robust Monte Carlo methods for light transport simulation . PhD thesis Stanford CA USA."
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "author": "Vorba J.",
+                "year": "2011",
+                "volume-title": "Proc. of the Central European Seminar on Computer Graphics (CESCG '11)"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601219&amp;ftid=1488911&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:59:17Z",
+            "timestamp": 1586001557000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 32,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601219"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601219",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

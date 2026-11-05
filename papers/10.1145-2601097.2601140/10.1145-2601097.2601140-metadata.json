@@ -1,0 +1,498 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:11:20Z",
+            "timestamp": 1586002280563
+        },
+        "reference-count": 53,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100000781",
+                "name": "European Research Council",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100002418",
+                "name": "Intel Corporation",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100000145",
+                "name": "Division of Information and Intelligent Systems",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "IIS-1012454, IIS-1212928"
+                ]
+            },
+            {
+                "name": "BSF",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601140",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 10,
+        "title": [
+            "A reflectance display"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Daniel",
+                "family": "Glasner",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Harvard University"
+                    }
+                ]
+            },
+            {
+                "given": "Todd",
+                "family": "Zickler",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Harvard University"
+                    }
+                ]
+            },
+            {
+                "given": "Anat",
+                "family": "Levin",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Weizmann Institute of Science"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/2159516.2159518",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1364/AO.47.001567",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "unstructured": "Benton S. A. and Bove V. M. 2007. Holographic Imaging. Wiley-Interscience.   Benton S. A. and Bove V. M. 2007. Holographic Imaging . Wiley-Interscience.",
+                "DOI": "10.1002/9780470224137",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "first-page": "247",
+                "article-title": "Experiments in holographic video imaging",
+                "volume": "08",
+                "author": "Benton S.",
+                "year": "1991",
+                "journal-title": "SPIE"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "Comiskey B. Albert J. D. Yoshizawa H. and Jacobson J. 1998. An electrophoretic ink for all-printed reflective electronic displays. Nature 394 6690 253--255.  Comiskey B. Albert J. D. Yoshizawa H. and Jacobson J. 1998. An electrophoretic ink for all-printed reflective electronic displays. Nature 394 6690 253--255.",
+                "DOI": "10.1038/28349",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "unstructured": "Cossairt O. Nayar S. K. and Ramamoorthi R. 2008. Light Field Transfer: Global Illumination Between Real and Synthetic Objects. ACM SIGGRAPH (Aug). 10.1145/1399504.1360656   Cossairt O. Nayar S. K. and Ramamoorthi R. 2008. Light Field Transfer: Global Illumination Between Real and Synthetic Objects. ACM SIGGRAPH (Aug). 10.1145/1399504.1360656",
+                "DOI": "10.1145/1399504.1360656",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1007/BFb0040187",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1364/AO.8.001740",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/1778765.1778799",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "Finckh M. Dammertz H. and Lensch H. P. A. 2010. Geometry construction from caustic images. In ECCV 464--477.   Finckh M. Dammertz H. and Lensch H. P. A. 2010. Geometry construction from caustic images. In ECCV 464--477.",
+                "DOI": "10.1007/978-3-642-15555-0_34",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/1360612.1360657",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "first-page": "237",
+                "article-title": "A practical algorithm for the determination of the phase from image and diffraction plane pictures",
+                "volume": "35",
+                "author": "Gerchberg R. W.",
+                "year": "1972",
+                "journal-title": "Optik"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "Goodman J. W. 1968. Introduction to Fourier Optics. McGraw-Hill Book Company.  Goodman J. W. 1968. Introduction to Fourier Optics . McGraw-Hill Book Company."
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/1778765.1778798",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "author": "Hermerschmidt A.",
+                "volume-title": "International Congress on Optics and Optoelectronics, International Society for Optics and Photonics, 65840E-65840E."
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/1618452.1618505",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/2396636.2396689",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/2470654.2481304",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1364/OE.21.011181",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "Hullin M. B. Lensch H. P. A. Raskar R. Seidel H.-P. and Ihrke I. 2011. Dynamic display of BRDFs. In EUROGRAPHICS 475--483.  Hullin M. B. Lensch H. P. A. Raskar R. Seidel H.-P. and Ihrke I. 2011. Dynamic display of BRDFs. In EUROGRAPHICS 475--483.",
+                "DOI": "10.1111/j.1467-8659.2011.01891.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "Hullin M. B. Ihrke I. Heidrich W. Weyrich T. Damberg G. and Fuchs M. 2013. Computational fabrication and display of material appearance. In Eurographics State-of-the-Art Reports (STAR).  Hullin M. B. Ihrke I. Heidrich W. Weyrich T. Damberg G. and Fuchs M. 2013. Computational fabrication and display of material appearance. In Eurographics State-of-the-Art Reports (STAR) ."
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "unstructured": "IMEC 2011. IMEC scientific report 2011. http://www.imec.be/ScientificReport/SR2011/1414043.html.  IMEC 2011. IMEC scientific report 2011. http://www.imec.be/ScientificReport/SR2011/1414043.html."
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "Kim S.-C. Moon J.-W. Lee D.-H. Son K.-C. and Kim E.-S. 2005. Holographic full-color 3D display system using color-LCoS spatial light modulator.  Kim S.-C. Moon J.-W. Lee D.-H. Son K.-C. and Kim E.-S. 2005. Holographic full-color 3D display system using color-LCoS spatial light modulator.",
+                "DOI": "10.1117/12.594455",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "Kiser T. Eigensatz M. Nguyen M. M. Bompas P. and Pauly M. 2012. Architectural caustics controlling light with geometry. In Advances in Architectural Geometry.  Kiser T. Eigensatz M. Nguyen M. M. Bompas P. and Pauly M. 2012. Architectural caustics controlling light with geometry. In Advances in Architectural Geometry .",
+                "DOI": "10.1007/978-3-7091-1251-9_7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "author": "Klug M. A.",
+                "year": "1914",
+                "volume-title": "Proc. SPIE"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1002/j.1538-7305.1969.tb01198.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/1394669.1394677",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/2461912.2461989",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/2070781.2024220",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "unstructured": "Levin A. Glasner D. Xiong Y. Durand F. Freeman B. Matusik W. and Zickler T. 2013. Fabricating BRDFs at high spatial resolution using wave optics. ACM SIGGRAPH. 10.1145/2461912.2461981   Levin A. Glasner D. Xiong Y. Durand F. Freeman B. Matusik W. and Zickler T. 2013. Fabricating BRDFs at high spatial resolution using wave optics. ACM SIGGRAPH . 10.1145/2461912.2461981",
+                "DOI": "10.1145/2461912.2461981",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1117/12.133376",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "unstructured": "Lucente M. 1994. Diffraction-specific Fringe Computation for Electro-holography. PhD thesis. AAI0575566.   Lucente M. 1994. Diffraction-specific Fringe Computation for Electro-holography . PhD thesis. AAI0575566."
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/2167076.2167078",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "unstructured": "Mann S. 1995. Recording Lightspace so Shadows and Highlights Vary with Varying Viewing Illumination. 2538--2540.  Mann S. 1995. Recording Lightspace so Shadows and Highlights Vary with Varying Viewing Illumination. 2538--2540.",
+                "DOI": "10.1364/OL.20.002538",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1145/1618452.1618474",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1145/1027411.1027414",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "author": "Ng R.",
+                "first-page": "2005",
+                "year": "2005",
+                "article-title": "Light field photography with a handheld plenoptic camera",
+                "journal-title": "Stanford U. Tech Rep CSTR"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "unstructured": "Ochiai Y. Oyama A. and Toyoshima K. 2012. A colloidal display: membrane screen that combines transparency BRDF and 3D volume. In ACM SIGGRAPH Emerging Technologies. 10.1145/2343456.2343458   Ochiai Y. Oyama A. and Toyoshima K. 2012. A colloidal display: membrane screen that combines transparency BRDF and 3D volume. In ACM SIGGRAPH Emerging Technologies . 10.1145/2343456.2343458",
+                "DOI": "10.1145/2343045.2343081",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/2503385.2503439",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1111/j.1467-8659.2011.01876.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1111/j.1467-8659.2005.00901.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1016/j.cag.2006.12.003",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "author": "Redman J.",
+                "year": "1968",
+                "volume-title": "Proceedings of SPIE Seminar-in Depth on Holography 15"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "unstructured": "Rusinkiewicz S. 1998. A new change of variables for efficient BRDF representation. In EGSR.  Rusinkiewicz S. 1998. A new change of variables for efficient BRDF representation. In EGSR .",
+                "DOI": "10.1007/978-3-7091-6453-2_2",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "first-page": "313317",
+                "article-title": "Anisotropic leaky-mode modulator for holographic video displays",
+                "volume": "7454",
+                "author": "Smalley D. E.",
+                "year": "2013",
+                "journal-title": "Nature"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "unstructured": "St-Hilaire P. Benton S. A. Lucente M. E. and Hubel P. M. 1992. Color images with the MIT holographic video display.  St-Hilaire P. Benton S. A. Lucente M. E. and Hubel P. M. 1992. Color images with the MIT holographic video display.",
+                "DOI": "10.1117/12.59642",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "DOI": "10.1364/JOSA.57.001105",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "DOI": "10.1364/AO.26.004351",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "DOI": "10.1145/2185520.2185576",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "DOI": "10.1145/1276377.1276417",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "DOI": "10.1145/1531326.1531338",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "unstructured": "Yaroslavsky L. 2004. Digital Holography and Digital Image Processing. Kluwer Academic Publishers.  Yaroslavsky L. 2004. Digital Holography and Digital Image Processing . Kluwer Academic Publishers.",
+                "DOI": "10.1007/978-1-4757-4988-5",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "DOI": "10.1111/j.1467-8659.2007.01066.x",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601140&amp;ftid=1488869&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:56:46Z",
+            "timestamp": 1586001406000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 53,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601140"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601140",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

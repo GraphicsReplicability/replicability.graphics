@@ -1,0 +1,333 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:11:21Z",
+            "timestamp": 1586002281370
+        },
+        "reference-count": 25,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100005144",
+                "name": "Qualcomm",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100007065",
+                "name": "Nvidia",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100002418",
+                "name": "Intel Corporation",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100000145",
+                "name": "Division of Information and Intelligent Systems",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "IIS-1253530"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601105",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 16,
+        "title": [
+            "Extending the graphics pipeline with adaptive, multi-rate shading"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Yong",
+                "family": "He",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Carnegie Mellon University"
+                    }
+                ]
+            },
+            {
+                "given": "Yan",
+                "family": "Gu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Carnegie Mellon University"
+                    }
+                ]
+            },
+            {
+                "given": "Kayvon",
+                "family": "Fatahalian",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Carnegie Mellon University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/166117.166131",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "author": "Annen T.",
+                "volume-title": "Proceedings of Graphics Interface 2008, GI '08, 155--161"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/2461912.2462022",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/1111411.1111440",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/1778765.1778804",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/2010324.1965002",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/218380.218470",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/2366145.2366183",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/1581073.1581080",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "author": "Lauritzen A.",
+                "year": "2010",
+                "volume-title": "ACM SIGGRAPH 2010 Courses: Beyond Programmable Shading II."
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/2159616.2159640",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1111/j.1467-8659.2010.01723.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "NVIDIA Corporation. 2013. TXAA - Temporal Anti-Aliasing Technology. Available at http://www.geforce.com/landing-page/txaa/technology.  NVIDIA Corporation. 2013. TXAA - Temporal Anti-Aliasing Technology . Available at http://www.geforce.com/landing-page/txaa/technology."
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "author": "Olano M.",
+                "volume-title": "Proceedings of the ACM SIGGRAPH/EUROGRAPHICS Conference on Graphics Hardware, Eurographics Association, HWWS '03"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/1073204.1073212",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "author": "Penner E.",
+                "volume-title": "GPU Pro2: advanced rendering techniques"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/383259.383275",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/1966394.1966396",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/37402.37435",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1111/j.1467-8659.2012.03075.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "Shebanow M. 2013. An evolution of mobile graphics. High Performance Graphics 2013 Keynote Address.  Shebanow M. 2013. An evolution of mobile graphics. High Performance Graphics 2013 Keynote Address."
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/2070781.2024186",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "author": "Tatarchuk N.",
+                "volume-title": "ACM SIGGRAPH 2013 Courses: Advanced in Real-Time Rendering in Games."
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.5555/2383795.2383798",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1111/j.1467-8659.2008.01256.x",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601105&amp;ftid=1488951&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:49:13Z",
+            "timestamp": 1586000953000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 25,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601105"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601105",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

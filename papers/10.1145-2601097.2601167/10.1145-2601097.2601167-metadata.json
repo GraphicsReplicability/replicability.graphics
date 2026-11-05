@@ -1,0 +1,388 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:41:08Z",
+            "timestamp": 1586004068329
+        },
+        "reference-count": 40,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100000038",
+                "name": "Natural Sciences and Engineering Research Council of Canada",
+                "doi-asserted-by": "publisher",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601167",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-9",
+        "source": "Crossref",
+        "is-referenced-by-count": 22,
+        "title": [
+            "Detailed water with coarse grids"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Essex",
+                "family": "Edwards",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of British Columbia"
+                    }
+                ]
+            },
+            {
+                "given": "Robert",
+                "family": "Bridson",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of British Columbia"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/1276377.1276437",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1109/TVCG.2012.87",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/2461912.2461982",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "Arnold D. Brezzi F. Cockburn B. and Marini L. 2002. Unified analysis of discontinuous Galerkin methods for elliptic problems. SIAM journal on numerical analysis 39 5 1749--1779. 10.1137/S0036142901384162   Arnold D. Brezzi F. Cockburn B. and Marini L. 2002. Unified analysis of discontinuous Galerkin methods for elliptic problems. SIAM journal on numerical analysis 39 5 1749--1779. 10.1137/S0036142901384162",
+                "DOI": "10.1137/S0036142901384162",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "first-page": "22550",
+                "article-title": "The h, p and hp version of the finite element method basic theory and applications",
+                "volume": "93",
+                "author": "Babuska I.",
+                "year": "1992",
+                "journal-title": "NASA STI/Recon Technical Report N"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "author": "Batty C.",
+                "volume-title": "Proceedings of Eurographics."
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "unstructured": "Bojsen-Hansen M. and Wojtan C. 2013. Liquid surface tracking with error compensation. ACM Transactions on Graphics (SIGGRAPH 2013) 32 4 79:1--79:10. 10.1145/2461912.2461991   Bojsen-Hansen M. and Wojtan C. 2013. Liquid surface tracking with error compensation. ACM Transactions on Graphics (SIGGRAPH 2013) 32 4 79:1--79:10. 10.1145/2461912.2461991"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "Boyd J. P. 2001. Chebyshev and Fourier spectral methods. Courier Dover Publications.  Boyd J. P. 2001. Chebyshev and Fourier spectral methods . Courier Dover Publications."
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "Bridson R. 2008. Fluid Simulation for Computer Graphics. A K Peters/CRC Press Sept.   Bridson R. 2008. Fluid Simulation for Computer Graphics . A K Peters/CRC Press Sept."
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1137/080737617",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/1778765.1778784",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1137/S0036142900371003",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "Castillo P. 2006. A review of the local discontinuous Galerkin (LDG) method applied to elliptic problems. Applied numerical mathematics 56 10 1307--1313. 10.1016/j.apnum.2006.03.016   Castillo P. 2006. A review of the local discontinuous Galerkin (LDG) method applied to elliptic problems. Applied numerical mathematics 56 10 1307--1313. 10.1016/j.apnum.2006.03.016",
+                "DOI": "10.1016/j.apnum.2006.03.016",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/1964921.1964977",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "author": "Chentanez N.",
+                "volume-title": "Proceedings of the 2007 ACM SIGGRAPH/Eurographics Symposium on Computer Animation, Eurographics Association, Aire-la-Ville, Switzerland, Switzerland, SCA '07, 219--228"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "Cockburn B. Kanschat G. and Sch\u00f6tzau D. 2005. The local discontinuous Galerkin method for linearized incompressible fluid flow: a review. Computers & fluids 34 4 491--506.  Cockburn B. Kanschat G. and Sch\u00f6tzau D. 2005. The local discontinuous Galerkin method for linearized incompressible fluid flow: a review. Computers & fluids 34 4 491--506.",
+                "DOI": "10.1016/j.compfluid.2003.08.005",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1002/nme.3356",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1017/S0022112011000231",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/2485895.2485897",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1006/jcph.2002.7166",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "Foster N. and Metaxas D. 1996. Realistic animation of liquids. Graphical models and image processing 58 5 471--483. 10.1006/gmip.1996.0039   Foster N. and Metaxas D. 1996. Realistic animation of liquids. Graphical models and image processing 58 5 471--483. 10.1006/gmip.1996.0039",
+                "DOI": "10.1006/gmip.1996.0039",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/1141911.1141959",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "Karniadakis G. E. and Sherwin S. J. 1999. Spectral/hp element methods for CFD. Oxford University Press.  Karniadakis G. E. and Sherwin S. J. 1999. Spectral/hp element methods for CFD . Oxford University Press."
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1016/j.gmod.2009.02.002",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/1015706.1015745",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/2167076.2167082",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "author": "Misztal M.",
+                "year": "2010",
+                "volume-title": "Proceedings of the 7th Workshop on Virtual Reality Interaction and Physical Simulation (VRIPHYS"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.5555/2421731.2421747",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1016/S0021-9991(02)00031-1",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/1599470.1599501",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "unstructured": "Osher S. and Fedkiw R. 2003. Level set methods and dynamic implicit surfaces vol. 153. Springer.  Osher S. and Fedkiw R. 2003. Level set methods and dynamic implicit surfaces vol. 153. Springer.",
+                "DOI": "10.1007/b98879",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "author": "Qin R.",
+                "year": "2012",
+                "article-title": "A discontinuous Galerkin method for solutions of the Euler equations on Cartesian grids with embedded geometries",
+                "journal-title": "Journal of Computational Science."
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "unstructured": "Schwab C. 1998. p-and hp-finite element methods: Theory and applications in solid and fluid mechanics. Clarendon Press Oxford.  Schwab C. 1998. p-and hp-finite element methods: Theory and applications in solid and fluid mechanics . Clarendon Press Oxford."
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/2010324.1964976",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1145/1833349.1778785",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1145/1360612.1360646",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/1531326.1531382",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1145/1778765.1778787",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/2037636.2037644",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1145/1186822.1073298",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601167&amp;ftid=1488945&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:00:06Z",
+            "timestamp": 1586001606000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "combining surface meshes and adaptive discontinuous Galerkin"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 40,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601167"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601167",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

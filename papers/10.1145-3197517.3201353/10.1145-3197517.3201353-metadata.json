@@ -1,0 +1,567 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:29Z",
+            "timestamp": 1585962689446
+        },
+        "reference-count": 65,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100000038",
+                "name": "Natural Sciences and Engineering Research Council of Canada",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "RGPIN-2017-05235,RGPAS-2017-507938"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100008982",
+                "name": "National Science Foundation of Sri Lanka",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "1652515,IIS-1320635,DMS-1436591"
+                ]
+            },
+            {
+                "name": "The Connaught Fund",
+                "award": []
+            },
+            {
+                "name": "Canada Research Chair award",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201353",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 24,
+        "title": [
+            "Tetrahedral meshing in the wild"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Yixin",
+                "family": "Hu",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "New York University"
+                    }
+                ]
+            },
+            {
+                "given": "Qingnan",
+                "family": "Zhou",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe Research"
+                    }
+                ]
+            },
+            {
+                "given": "Xifeng",
+                "family": "Gao",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "New York University"
+                    }
+                ]
+            },
+            {
+                "given": "Alec",
+                "family": "Jacobson",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Toronto"
+                    }
+                ]
+            },
+            {
+                "given": "Denis",
+                "family": "Zorin",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "New York University"
+                    }
+                ]
+            },
+            {
+                "given": "Daniele",
+                "family": "Panozzo",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "New York University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "author": "Alauzet Fr\u00e9d\u00e9ric",
+                "year": "2013",
+                "volume-title": "22nd International Meshing Roundtable, IMR 2013"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/1073204.1073238",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1007/s00371-010-0416-3",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1007/978-3-662-54563-8_5",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "Marco Attene Marcel Campen and Leif Kobbelt. 2013. Polygon Mesh Repairing: An Application Perspective. ACM Comput. Surv. 45 2 Article 15 (March 2013) 33 pages. 10.1145/2431211.2431214   Marco Attene Marcel Campen and Leif Kobbelt. 2013. Polygon Mesh Repairing: An Application Perspective. ACM Comput. Surv. 45 2 Article 15 (March 2013) 33 pages. 10.1145/2431211.2431214",
+                "DOI": "10.1145/2431211.2431214",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1016/j.cagd.2010.04.004",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1016/j.gmod.2005.01.004",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "David Bommes Bruno L\u00e9vy Nico Pietroni Enrico Puppo Claudio Silva Marco Tarini and Denis Zorin. 2012. State of the Art in Quad Meshing. In Eurographics STARS.  David Bommes Bruno L\u00e9vy Nico Pietroni Enrico Puppo Claudio Silva Marco Tarini and Denis Zorin. 2012. State of the Art in Quad Meshing. In Eurographics STARS."
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/1057432.1057457",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "author": "Bridson Robert",
+                "year": "2014",
+                "volume-title": "Quartet: A tetrahedral mesh generator that does isosurface stuffing with an acute tetrahedral tile. https://github.com/crawforddoran/quartet."
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "Herv\u00e9 Br\u00f6nnimann Andreas Fabri Geert-Jan Giezeman Susan Hert Michael Hoffmann Lutz Kettner Sylvain Pion and Stefan Schirra. 2017. 2D and 3D Linear Geometry Kernel. In CGAL User and Reference Manual (4.11 ed.). CGAL Editorial Board. http://doc.cgal.org/4.11/Manual/packages.html#PkgKernel23Summary  Herv\u00e9 Br\u00f6nnimann Andreas Fabri Geert-Jan Giezeman Susan Hert Michael Hoffmann Lutz Kettner Sylvain Pion and Stefan Schirra. 2017. 2D and 3D Linear Geometry Kernel. In CGAL User and Reference Manual (4.11 ed.). CGAL Editorial Board. http://doc.cgal.org/4.11/Manual/packages.html#PkgKernel23Summary"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "author": "Bronson Jonathan R.",
+                "year": "2012",
+                "volume-title": "Proceedings of the 21st International Meshing Roundtable, IMR 2012"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "Graham F Carey. 1997. Computational grids: generations adaptation & solution strategies. CRC Press.  Graham F Carey. 1997. Computational grids: generations adaptation & solution strategies. CRC Press."
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Long Chen and Jin-chao Xu. 2004. Optimal delaunay triangulations. Journal of Computational Mathematics (2004) 299--308.  Long Chen and Jin-chao Xu. 2004. Optimal delaunay triangulations. Journal of Computational Mathematics (2004) 299--308."
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "author": "Chen Xiaoshen",
+                "year": "2012",
+                "volume-title": "Proceedings of the 21st International Meshing Roundtable, IMR 2012"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/355483.355487",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1007/978-3-540-75103-8_27",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "unstructured": "Siu-Wing Cheng Tamal K Dey and Jonathan Shewchuk. 2012. Delaunay mesh generation. CRC Press.   Siu-Wing Cheng Tamal K Dey and Jonathan Shewchuk. 2012. Delaunay mesh generation. CRC Press."
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "unstructured": "L Paul Chew. 1989. Constrained delaunay triangulations. Algorithmica 4( 1989).  L Paul Chew. 1989. Constrained delaunay triangulations. Algorithmica 4( 1989).",
+                "DOI": "10.1007/BF01553881",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/160985.161150",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/513400.513425",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "author": "Cuilli\u00e8re Jean-Christophe",
+                "year": "2012",
+                "volume-title": "Proceedings of the 21st International Meshing Roundtable, IMR 2012"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/1377676.1377712",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/2504459.2504507",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "author": "Du Qiang",
+                "year": "2003",
+                "volume-title": "International journal for numerical methods in engineering 56, 9"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "author": "Dunyach Marion",
+                "volume-title": "Eurographics 2013 - Short Papers, M.-A"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "unstructured": "Darren Engwirda. 2016. Conforming restricted Delaunay mesh generation for piecewise smooth complexes. CoRR (2016). http://arxiv.org/abs/1606.01289  Darren Engwirda. 2016. Conforming restricted Delaunay mesh generation for piecewise smooth complexes. CoRR (2016). http://arxiv.org/abs/1606.01289"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "unstructured": "David Eppstein. 2001. Global optimization of mesh quality. Tutorial at the 10th Int. Meshing Roundtable (2001).  David Eppstein. 2001. Global optimization of mesh quality. Tutorial at the 10th Int. Meshing Roundtable (2001)."
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "Noura Faraj Jean-Marc Thiery and Tamy Boubekeur. 2016. Multi-material Adaptive Volume Remesher. Comput. Graph. 58 C (Aug. 2016) 150--160. 10.1016/j.cag.2016.05.019   Noura Faraj Jean-Marc Thiery and Tamy Boubekeur. 2016. Multi-material Adaptive Volume Remesher. Comput. Graph. 58 C (Aug. 2016) 150--160. 10.1016/j.cag.2016.05.019",
+                "DOI": "10.1016/j.cag.2016.05.019",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "author": "Farin Gerald",
+                "volume-title": "Curves and Surfaces for CAGD"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1002/(SICI)1097-0207(19971115)40:21<3979::AID-NME251>3.0.CO;2-9",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/3072959.3073676",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "author": "Gargallo-Peir\u00f3 Abel",
+                "year": "2013",
+                "volume-title": "Proceedings of the 22nd International Meshing Roundtable, IMR 2013"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1007/s00366-014-0375-9",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1109/TVCG.2016.2632720",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1145/2461912.2461916",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "unstructured": "Alec Jacobson Daniele Panozzo etal 2016. libigl: A simple C++ geometry processing library. http://libigl.github.io/libigl/.  Alec Jacobson Daniele Panozzo et al. 2016. libigl: A simple C++ geometry processing library. http://libigl.github.io/libigl/.",
+                "DOI": "10.1145/3134472.3134497",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1145/2816795.2818078",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/2699463",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "author": "Bhautik",
+                "year": "2003",
+                "volume-title": "Proceedings of the 12th International Meshing Roundtable, IMR 2003"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "author": "Klingner Bryan Matthew",
+                "year": "2007",
+                "volume-title": "Proceedings of the 16th International Meshing Roundtable"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1145/2897824.2925920",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1145/1276377.1276448",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "unstructured": "Bruno L\u00e9vy. 2018. Geogram. http://alice.loria.fr/index.php/software/4-library/75-geogram.html.  Bruno L\u00e9vy. 2018. Geogram. http://alice.loria.fr/index.php/software/4-library/75-geogram.html."
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1145/2766950",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1145/2167076.2167082",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "author": "Molino Neil",
+                "year": "2003",
+                "volume-title": "Proc. Symposium on Computer Animation."
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "DOI": "10.1142/S0218195901000699",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "unstructured": "Steven J Owen. 1998. A survey of unstructured mesh generation technology.. In IMR.  Steven J Owen. 1998. A survey of unstructured mesh generation technology.. In IMR."
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "DOI": "10.1145/2983621",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "DOI": "10.1016/j.cad.2016.07.018",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "DOI": "10.1006/jagm.1995.1021",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "unstructured": "Hanan Samet. 2005. Foundations of Multidimensional and Metric Data Structures (The Morgan Kaufmann Series in Computer Graphics and Geometric Modeling). Morgan Kaufmann Publishers Inc. San Francisco CA USA.   Hanan Samet. 2005. Foundations of Multidimensional and Metric Data Structures (The Morgan Kaufmann Series in Computer Graphics and Geometric Modeling). Morgan Kaufmann Publishers Inc. San Francisco CA USA."
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "DOI": "10.1007/BF01451597",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_55_1",
+                "DOI": "10.1145/882262.882295",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_56_1",
+                "unstructured": "Donald R Sheehy. 2012. New Bounds on the Size of Optimal Meshes. Comput. Graph. Forum 31 5 (2012). 10.1111/j.1467-8659.2012.03168.x   Donald R Sheehy. 2012. New Bounds on the Size of Optimal Meshes. Comput. Graph. Forum 31 5 (2012). 10.1111/j.1467-8659.2012.03168.x"
+            },
+            {
+                "key": "e_1_2_2_57_1",
+                "DOI": "10.1145/1186562.1015816",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_58_1",
+                "DOI": "10.1145/276884.276894",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_59_1",
+                "unstructured": "Jonathan Richard Shewchuk. 2002a. Constrained Delaunay Tetrahedralizations and Provably Good Boundary Recovery.. In IMR. 193--204.  Jonathan Richard Shewchuk. 2002a. Constrained Delaunay Tetrahedralizations and Provably Good Boundary Recovery.. In IMR. 193--204."
+            },
+            {
+                "key": "e_1_2_2_61_1",
+                "DOI": "10.1145/2629697",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_62_1",
+                "unstructured": "Hang Si and Klaus G\u00e4rtner. 2005. Meshing Piecewise Linear Complexes by Constrained Delaunay Tetrahedralizations.. In IMR. Springer 147--163.  Hang Si and Klaus G\u00e4rtner. 2005. Meshing Piecewise Linear Complexes by Constrained Delaunay Tetrahedralizations.. In IMR. Springer 147--163."
+            },
+            {
+                "key": "e_1_2_2_63_1",
+                "DOI": "10.1007/s00366-013-0331-0",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_64_1",
+                "DOI": "10.1145/1531326.1531380",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_65_1",
+                "DOI": "10.1145/1531326.1531381",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_66_1",
+                "first-page": "3D",
+                "article-title": "Thingi10K",
+                "volume": "10",
+                "author": "Zhou Qingnan",
+                "year": "2016",
+                "journal-title": "A Dataset of"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201353&ftid=1991645&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:33:59Z",
+            "timestamp": 1585960439000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 65,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201353"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201353",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

@@ -1,0 +1,785 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    8,
+                    12
+                ]
+            ],
+            "date-time": "2020-08-12T12:40:49Z",
+            "timestamp": 1597236049777
+        },
+        "reference-count": 103,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "funder": [
+            {
+                "DOI": "10.13039/100014718",
+                "name": "Innovative Research Group Project of the National Natural Science Foundation of China",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "CAREER award 1652515, IIS-1320635, DMS-1436591, DMS-1821334, OAC-1835712, OIA-1937043, CHS-1908767, CHS-1901091"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100012166",
+                "name": "National Basic Research Program of China (973 Program)",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "2018YFB1107402"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100001711",
+                "name": "Schweizerischer Nationalfonds zur F\u00f6rderung der Wissenschaftlichen Forschung",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "P2TIP2_175859"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    8
+                ]
+            ]
+        },
+        "DOI": "10.1145/3386569.3392385",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2020,
+                    8,
+                    12
+                ]
+            ],
+            "date-time": "2020-08-12T11:44:27Z",
+            "timestamp": 1597232667000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+            "Fast tetrahedral meshing in the wild"
+        ],
+        "prefix": "10.1145",
+        "volume": "39",
+        "author": [
+            {
+                "given": "Yixin",
+                "family": "Hu",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "New York University"
+                    }
+                ]
+            },
+            {
+                "given": "Teseo",
+                "family": "Schneider",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "New York University"
+                    }
+                ]
+            },
+            {
+                "given": "Bolun",
+                "family": "Wang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Beihang University, China and New York University"
+                    }
+                ]
+            },
+            {
+                "given": "Denis",
+                "family": "Zorin",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "New York University"
+                    }
+                ]
+            },
+            {
+                "given": "Daniele",
+                "family": "Panozzo",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "New York University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_1_1_1",
+                "unstructured": "L. A. Freitag and C. Ollivier-Gooch. 1998. Tetrahedral Mesh Improvement Using Swapping and Smoothing. Internat. J. Numer. Methods Engrg. 40 (05 1998).  L. A. Freitag and C. Ollivier-Gooch. 1998. Tetrahedral Mesh Improvement Using Swapping and Smoothing. Internat. J. Numer. Methods Engrg. 40 (05 1998)."
+            },
+            {
+                "key": "e_1_2_1_2_1",
+                "author": "Alauzet F.",
+                "volume-title": "Proceedings of the 22nd International Meshing Roundtable. Springer International Publishing, Cham, 241--261"
+            },
+            {
+                "key": "e_1_2_1_3_1",
+                "first-page": "54",
+                "article-title": "Harmonic Triangulations",
+                "volume": "38",
+                "author": "Alexa M.",
+                "year": "2019",
+                "journal-title": "ACM Transactions on Graphics (Proceedings of SIGGRAPH)"
+            },
+            {
+                "key": "e_1_2_1_4_1",
+                "DOI": "10.1145/1073204.1073238",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_5_1",
+                "DOI": "10.1145/1073204.1073238",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_6_1",
+                "unstructured": "M. Attene. 2010. A lightweight approach to repairing digitized polygon meshes. The Visual Computer 26 11 (01 Nov 2010) 1393--1406. 10.1007/s00371-010-0416-3  M. Attene. 2010. A lightweight approach to repairing digitized polygon meshes. The Visual Computer 26 11 (01 Nov 2010) 1393--1406. 10.1007/s00371-010-0416-3",
+                "DOI": "10.1007/s00371-010-0416-3",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_7_1",
+                "DOI": "10.1016/j.gmod.2014.09.002",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_8_1",
+                "unstructured": "M. Attene. 2017. ImatiSTL - Fast and Reliable Mesh Processing with a Hybrid Kernel. Springer Berlin Heidelberg Berlin Heidelberg 86--96.  M. Attene. 2017. ImatiSTL - Fast and Reliable Mesh Processing with a Hybrid Kernel. Springer Berlin Heidelberg Berlin Heidelberg 86--96.",
+                "DOI": "10.1007/978-3-662-54563-8_5",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_9_1",
+                "unstructured": "M. Attene M. Campen and L. Kobbelt. 2013. Polygon Mesh Repairing: An Application Perspective. ACM Comput. Surv. 45 2 Article 15 (March 2013) 33 pages.  M. Attene M. Campen and L. Kobbelt. 2013. Polygon Mesh Repairing: An Application Perspective. ACM Comput. Surv. 45 2 Article 15 (March 2013) 33 pages.",
+                "DOI": "10.1145/2431211.2431214",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_10_1",
+                "DOI": "10.1016/j.cagd.2009.06.002",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_11_1",
+                "DOI": "10.1145/116873.116880",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_12_1",
+                "unstructured": "F. Aurenhammer R. Klein and D.-T. Lee. 2013. Voronoi Diagrams and Delaunay Triangulations. WORLD SCIENTIFIC River Edge NJ USA. arXiv:https://www.worldscientific.com/doi/pdf/10.1142/8685 10.1142/8685  F. Aurenhammer R. Klein and D.-T. Lee. 2013. Voronoi Diagrams and Delaunay Triangulations. WORLD SCIENTIFIC River Edge NJ USA. arXiv:https://www.worldscientific.com/doi/pdf/10.1142/8685 10.1142/8685"
+            },
+            {
+                "key": "e_1_2_1_13_1",
+                "unstructured": "B. S. Baker E. Grosse and C. S. Rafferty. 1988. Nonobtuse triangulation of polygons. Discrete & Computational Geometry 3 2 (01 Jun 1988) 147--168.  B. S. Baker E. Grosse and C. S. Rafferty. 1988. Nonobtuse triangulation of polygons. Discrete & Computational Geometry 3 2 (01 Jun 1988) 147--168.",
+                "DOI": "10.1007/BF02187904",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_14_1",
+                "author": "Barill G.",
+                "volume": "37",
+                "year": "2018",
+                "article-title": "Fast Winding Numbers for Soups and Clouds",
+                "journal-title": "ACM Transactions on Graphics",
+                "DOI": "10.1145/3197517.3201337",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_15_1",
+                "DOI": "10.1016/j.camwa.2015.06.016",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_16_1",
+                "DOI": "10.1016/S0022-0000(05)80059-5",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_17_1",
+                "unstructured": "G. Bernstein. 2013. Cork Boolean Library. https://github.com/gilbo/cork.  G. Bernstein. 2013. Cork Boolean Library. https://github.com/gilbo/cork."
+            },
+            {
+                "key": "e_1_2_1_18_1",
+                "unstructured": "G. Bernstein and D. Fussell. 2009. Fast Exact Linear Booleans. In SGP. Eurographics Association Aire-la-Ville Switzerland Switzerland 1269--1278.  G. Bernstein and D. Fussell. 2009. Fast Exact Linear Booleans. In SGP. Eurographics Association Aire-la-Ville Switzerland Switzerland 1269--1278.",
+                "DOI": "10.1111/j.1467-8659.2009.01504.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_19_1",
+                "author": "Bieri H.",
+                "volume-title": "Proc. IWCGA. Springer-Verlag"
+            },
+            {
+                "key": "e_1_2_1_20_1",
+                "DOI": "10.1007/s00454-016-9772-8",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_21_1",
+                "DOI": "10.1016/S0925-7721(01)00054-2",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_22_1",
+                "unstructured": "J.-D. Boissonnat and S. Oudot. 2005. Provably Good Sampling and Meshing of Surfaces. Graphical Models 67 5 (09 2005) 405--451. 10.1016/j.gmod.2005.01.004  J.-D. Boissonnat and S. Oudot. 2005. Provably Good Sampling and Meshing of Surfaces. Graphical Models 67 5 (09 2005) 405--451. 10.1016/j.gmod.2005.01.004",
+                "DOI": "10.1016/j.gmod.2005.01.004",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_23_1",
+                "author": "Bridson R.",
+                "year": "2014",
+                "volume-title": "Quartet: A tetrahedral mesh generator that does isosurface stuffing with an acute tetrahedral tile. https://github.com/crawforddoran/quartet."
+            },
+            {
+                "key": "e_1_2_1_24_1",
+                "DOI": "10.1007/978-3-642-33573-0_12",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_25_1",
+                "author": "Busaryev O.",
+                "volume-title": "Repairing and Meshing Imperfect Shapes with Delaunay Refinement. In 2009 SIAM/ACM Joint Conference on Geometric and Physical Modeling (SPM '09)"
+            },
+            {
+                "key": "e_1_2_1_26_1",
+                "DOI": "10.1111/j.1467-8659.2009.01609.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_27_1",
+                "unstructured": "S. A. Canann S. N. Muthukrishnan and R. K. Phillips. 1996. Topological refinement procedures for triangular finite element meshes. Engineering with Computers 12 3 (01 Sep 1996) 243--255. 10.1007/BF01198738  S. A. Canann S. N. Muthukrishnan and R. K. Phillips. 1996. Topological refinement procedures for triangular finite element meshes. Engineering with Computers 12 3 (01 Sep 1996) 243--255. 10.1007/BF01198738",
+                "DOI": "10.1007/BF01198738",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_28_1",
+                "DOI": "10.1016/0168-874X(93)90056-V",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_29_1",
+                "first-page": "299",
+                "article-title": "Optimal Delaunay Triangulations",
+                "volume": "22",
+                "author": "Chen L.",
+                "year": "2004",
+                "journal-title": "Journal of Computational Mathematics"
+            },
+            {
+                "key": "e_1_2_1_30_1",
+                "author": "Cheng S.-W.",
+                "volume-title": "Proceedings of the 16th International Meshing Roundtable. Springer, Springer Berlin Heidelberg"
+            },
+            {
+                "key": "e_1_2_1_31_1",
+                "unstructured": "S.-W. Cheng T. K. Dey and J. Shewchuk. 2012. Delaunay Mesh Generation. Chapman and Hall/CRC Boca Raton Florida.  S.-W. Cheng T. K. Dey and J. Shewchuk. 2012. Delaunay Mesh Generation. Chapman and Hall/CRC Boca Raton Florida."
+            },
+            {
+                "key": "e_1_2_1_32_1",
+                "unstructured": "L. P. Chew. 1989. Constrained delaunay triangulations. Algorithmica 4 1 (01 Jun 1989) 97--108. 10.1007/BF01553881  L. P. Chew. 1989. Constrained delaunay triangulations. Algorithmica 4 1 (01 Jun 1989) 97--108. 10.1007/BF01553881",
+                "DOI": "10.1007/BF01553881",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_33_1",
+                "DOI": "10.1145/160985.161150",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_34_1",
+                "author": "Cohen-Steiner D.",
+                "volume-title": "Proceedings of the eighteenth annual symposium on Computational geometry - SCG '02"
+            },
+            {
+                "key": "e_1_2_1_35_1",
+                "DOI": "10.1007/978-3-642-33573-0_15",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_36_1",
+                "DOI": "10.1145/1377676.1377712",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_37_1",
+                "first-page": "214",
+                "article-title": "An efficient method of triangulating equi-valued surfaces by using tetrahedral cells",
+                "volume": "74",
+                "author": "Doi A.",
+                "year": "1991",
+                "journal-title": "IEICE TRANSACTIONS on Information and Systems"
+            },
+            {
+                "key": "e_1_2_1_38_1",
+                "DOI": "10.1145/2504459.2504507",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_39_1",
+                "author": "Douze M.",
+                "year": "2015",
+                "volume-title": "Technical Report 01121419. Inria Research Centre Grenoble, Rhone-Alpes."
+            },
+            {
+                "key": "e_1_2_1_40_1",
+                "unstructured": "Q. Du and D. Wang. 2003. Tetrahedral Mesh Generation and Optimization Based on Centroidal Voronoi Tessellations. International journal for numerical methods in engineering 56 9 (2003) 1355--1373.  Q. Du and D. Wang. 2003. Tetrahedral Mesh Generation and Optimization Based on Centroidal Voronoi Tessellations. International journal for numerical methods in engineering 56 9 (2003) 1355--1373."
+            },
+            {
+                "key": "e_1_2_1_41_1",
+                "unstructured": "N. Faraj J.-M. Thiery and T. Boubekeur. 2016. Multi-Material Adaptive Volume Remesher. Compurer and Graphics Journal (proc. Shape Modeling International 2016) 58 (2016) 150--160.  N. Faraj J.-M. Thiery and T. Boubekeur. 2016. Multi-Material Adaptive Volume Remesher. Compurer and Graphics Journal (proc. Shape Modeling International 2016) 58 (2016) 150--160."
+            },
+            {
+                "key": "e_1_2_1_42_1",
+                "author": "Feng L.",
+                "volume": "37",
+                "year": "2018",
+                "article-title": "Curved Optimal Delaunay Triangulation",
+                "journal-title": "ACM Trans. Graph.",
+                "DOI": "10.1145/3197517.3201358",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_43_1",
+                "DOI": "10.1145/2766938",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_44_1",
+                "unstructured": "J. A. George. 1971. Computer Implementation of the Finite Element Method. Ph.D. Dissertation. Stanford University Stanford CA USA. AAI7205916.  J. A. George. 1971. Computer Implementation of the Finite Element Method. Ph.D. Dissertation. Stanford University Stanford CA USA. AAI7205916."
+            },
+            {
+                "key": "e_1_2_1_45_1",
+                "DOI": "10.1002/nme.808",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_46_1",
+                "author": "Ghomi A. T.",
+                "year": "2018",
+                "volume-title": "Proceedings of the IASS Symposium"
+            },
+            {
+                "key": "e_1_2_1_47_1",
+                "author": "Granados M.",
+                "volume-title": "Proc. ESA. Springer Berlin Heidelberg"
+            },
+            {
+                "key": "e_1_2_1_48_1",
+                "unstructured": "G. Guennebaud B. Jacob etal 2010. Eigen v3.  G. Guennebaud B. Jacob et al. 2010. Eigen v3."
+            },
+            {
+                "key": "e_1_2_1_49_1",
+                "DOI": "10.1080/10867651.2003.10487580",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_50_1",
+                "unstructured": "P. Hachenberger and L. Kettner. 2019. 3D Boolean Operations on Nef Polyhedra. In CGAL User and Reference Manual (4.14 ed.). CGAL Editorial Board.  P. Hachenberger and L. Kettner. 2019. 3D Boolean Operations on Nef Polyhedra. In CGAL User and Reference Manual (4.14 ed.). CGAL Editorial Board."
+            },
+            {
+                "key": "e_1_2_1_51_1",
+                "DOI": "10.1007/978-3-319-02335-9_5",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_52_1",
+                "DOI": "10.1109/TVCG.2016.2632720",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_53_1",
+                "unstructured": "Y. Hu T. Schneider X. Gao Q. Zhou A. Jacobson D. Zorin and D. Panozzo. 2019. TriWild: Robust Triangulation with Curve Constraints. ACM Trans. Graph. (2019).  Y. Hu T. Schneider X. Gao Q. Zhou A. Jacobson D. Zorin and D. Panozzo. 2019. TriWild: Robust Triangulation with Curve Constraints. ACM Trans. Graph. (2019).",
+                "DOI": "10.1145/3306346.3323011",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_54_1",
+                "DOI": "10.1145/3197517.3201353",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_55_1",
+                "DOI": "10.1145/2699463",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_56_1",
+                "author": "Klingner B.",
+                "volume-title": "Proceedings of the 16th International Meshing Roundtable, IMR 2007, 3--23"
+            },
+            {
+                "key": "e_1_2_1_57_1",
+                "DOI": "10.1145/1275808.1276448",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_58_1",
+                "unstructured": "B. L\u00e9vy. 2019. Geogram. http://alice.loria.fr/index.php/software/4-library/75-geogram.html.  B. L\u00e9vy. 2019. Geogram. http://alice.loria.fr/index.php/software/4-library/75-geogram.html."
+            },
+            {
+                "key": "e_1_2_1_59_1",
+                "DOI": "10.1145/2185520.2185604",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_60_1",
+                "DOI": "10.1145/37402.37422",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_61_1",
+                "author": "Magalh\u00e3es S. V.",
+                "volume-title": "Proceedings of the 25th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems. ACM, ACM"
+            },
+            {
+                "key": "e_1_2_1_62_1",
+                "DOI": "10.1145/2766950",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_63_1",
+                "unstructured": "A. Masoud. 2016. 3D Graphical Statics Using Reciprocal Polyhedral Diagrams. Ph.D. Dissertation. ETH Zruich Stefano Franscini Platz 5 Zurich CH 8093.  A. Masoud. 2016. 3D Graphical Statics Using Reciprocal Polyhedral Diagrams. Ph.D. Dissertation. ETH Zruich Stefano Franscini Platz 5 Zurich CH 8093."
+            },
+            {
+                "key": "e_1_2_1_64_1",
+                "author": "Molino N.",
+                "volume-title": "Proc. Symposium on Computer Animation."
+            },
+            {
+                "key": "e_1_2_1_65_1",
+                "author": "Murphy M.",
+                "volume": "11",
+                "year": "2001",
+                "article-title": "A Point-Placement Strategy for Conforming Delaunay Tetrahedralization",
+                "journal-title": "International Journal of Computational Geometry & Applications",
+                "DOI": "10.1142/S0218195901000699",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_66_1",
+                "DOI": "10.1145/566654.566585",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_67_1",
+                "author": "Naylor B.",
+                "volume-title": "Proc. SIGGRAPH. ACM"
+            },
+            {
+                "key": "e_1_2_1_68_1",
+                "unstructured": "A. Paoluzzi V. Shapiro and A. DiCarlo. 2017. Arrangements of cellular complexes. CoRR abs/1704.00142 (2017). arXiv:1704.00142 http://arxiv.org/abs/1704.00142  A. Paoluzzi V. Shapiro and A. DiCarlo. 2017. Arrangements of cellular complexes. CoRR abs/1704.00142 (2017). arXiv:1704.00142 http://arxiv.org/abs/1704.00142"
+            },
+            {
+                "key": "e_1_2_1_69_1",
+                "DOI": "10.1111/j.1467-8659.2009.01545.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_70_1",
+                "doi-asserted-by": "crossref",
+                "first-page": "2",
+                "DOI": "10.1016/0021-9991(87)90093-3",
+                "article-title": "Adaptive Remeshing for Compressible Flow Computations",
+                "volume": "72",
+                "author": "Peraire J.",
+                "year": "1987",
+                "journal-title": "J. Comput. Phys."
+            },
+            {
+                "key": "e_1_2_1_71_1",
+                "doi-asserted-by": "crossref",
+                "first-page": "2",
+                "DOI": "10.1145/2983621",
+                "article-title": "Scalable Locally Injective Mappings",
+                "volume": "36",
+                "author": "Rabinovich M.",
+                "year": "2017",
+                "journal-title": "ACM Trans. Graph."
+            },
+            {
+                "key": "e_1_2_1_72_1",
+                "unstructured": "J.-F. Remacle. 2017. A Two-Level Multithreaded Delaunay Kernel. Computer-Aided Design 85 (04 2017) 2--9. 10.1016/j.cad.2016.07.018  J.-F. Remacle. 2017. A Two-Level Multithreaded Delaunay Kernel. Computer-Aided Design 85 (04 2017) 2--9. 10.1016/j.cad.2016.07.018",
+                "DOI": "10.1016/j.cad.2016.07.018",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_73_1",
+                "DOI": "10.1006/jagm.1995.1021",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_74_1",
+                "DOI": "10.1002/nme.1620151206",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_75_1",
+                "author": "Schmidt R.",
+                "volume-title": "ACM SIGGRAPH 2010 Talks. ACM, ACM"
+            },
+            {
+                "key": "e_1_2_1_76_1",
+                "DOI": "10.1145/3272127.3275067",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_77_1",
+                "unstructured": "M. Schweiger and S. Arridge. 2016. Basis mapping methods for forward and inverse problems: BASIS MAPPING METHODS. Internat. J. Numer. Methods Engrg. 109 (05 2016). 10.1002/nme.5271  M. Schweiger and S. Arridge. 2016. Basis mapping methods for forward and inverse problems: BASIS MAPPING METHODS. Internat. J. Numer. Methods Engrg. 109 (05 2016). 10.1002/nme.5271"
+            },
+            {
+                "key": "e_1_2_1_78_1",
+                "unstructured": "D. R. Sheehy. 2012. New Bounds on the Size of Optimal Meshes. Computer Graphics Forum 31 5 (08 2012) 1627--1635. 10.1111/j.1467-8659.2012.03168.x  D. R. Sheehy. 2012. New Bounds on the Size of Optimal Meshes. Computer Graphics Forum 31 5 (08 2012) 1627--1635. 10.1111/j.1467-8659.2012.03168.x",
+                "DOI": "10.1111/j.1467-8659.2012.03168.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_79_1",
+                "author": "Shen C.",
+                "year": "2004",
+                "volume-title": "Proceedings of ACM SIGGRAPH"
+            },
+            {
+                "key": "e_1_2_1_80_1",
+                "DOI": "10.1016/j.gmod.2018.03.001",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_81_1",
+                "DOI": "10.1016/j.cagd.2018.03.021",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_82_1",
+                "first-page": "257",
+                "article-title": "Unstructured Mesh Generation. Chapman and Hall/CRC, Boca Raton, Florida",
+                "volume": "10",
+                "author": "Shewchuk J.",
+                "year": "2012",
+                "journal-title": "Chapter"
+            },
+            {
+                "key": "e_1_2_1_83_1",
+                "unstructured": "J. R. Shewchuk. 1996. Triangle: Engineering a 2D quality mesh generator and Delaunay triangulator. In Applied Computational Geometry Towards Geometric Engineering Ming C. Lin and Dinesh Manocha (Eds.). Springer Berlin Heidelberg Berlin Heidelberg 203--222.  J. R. Shewchuk. 1996. Triangle: Engineering a 2D quality mesh generator and Delaunay triangulator. In Applied Computational Geometry Towards Geometric Engineering Ming C. Lin and Dinesh Manocha (Eds.). Springer Berlin Heidelberg Berlin Heidelberg 203--222.",
+                "DOI": "10.1007/BFb0014497",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_84_1",
+                "first-page": "3",
+                "article-title": "Adaptive Precision Floating-Point Arithmetic and Fast Robust Geometric Predicates",
+                "volume": "18",
+                "author": "Shewchuk J. R.",
+                "year": "1997",
+                "journal-title": "Discrete & Computational Geometry"
+            },
+            {
+                "key": "e_1_2_1_85_1",
+                "DOI": "10.1145/276884.276894",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_86_1",
+                "unstructured": "J. R. Shewchuk. 1999. Lecture Notes on Delaunay Mesh Generation. (1999).  J. R. Shewchuk. 1999. Lecture Notes on Delaunay Mesh Generation. (1999)."
+            },
+            {
+                "key": "e_1_2_1_87_1",
+                "unstructured": "J. R. Shewchuk. 2002a. Constrained Delaunay Tetrahedralizations and Provably Good Boundary Recovery. In Eleventh International Meshing Roundtable. Sandia National Laboratories 193--204.  J. R. Shewchuk. 2002a. Constrained Delaunay Tetrahedralizations and Provably Good Boundary Recovery. In Eleventh International Meshing Roundtable. Sandia National Laboratories 193--204."
+            },
+            {
+                "key": "e_1_2_1_88_1",
+                "author": "Shewchuk J. R.",
+                "year": "2002",
+                "volume-title": "11th International Meshing Roundtable. 115--126"
+            },
+            {
+                "key": "e_1_2_1_89_1",
+                "DOI": "10.1145/2629697",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_90_1",
+                "author": "Si H.",
+                "volume-title": "Proceedings of the 14th international meshing roundtable. Springer, Springer Berlin Heidelberg"
+            },
+            {
+                "key": "e_1_2_1_91_1",
+                "unstructured": "H. Si and J. R. Shewchuk. 2014. Incrementally Constructing and Updating Constrained Delaunay Tetrahedralizations With Finite-Precision Coordinates. Engineering with Computers 30 2 (04 2014) 253--269. 10.1007/s00366-013-0331-0  H. Si and J. R. Shewchuk. 2014. Incrementally Constructing and Updating Constrained Delaunay Tetrahedralizations With Finite-Precision Coordinates. Engineering with Computers 30 2 (04 2014) 253--269. 10.1007/s00366-013-0331-0",
+                "DOI": "10.1007/s00366-013-0331-0",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_92_1",
+                "first-page": "53",
+                "article-title": "A Simple Method for Correcting Facet Orientations in Polygon Meshes Based on Ray Casting",
+                "volume": "3",
+                "author": "Takayama K.",
+                "year": "2014",
+                "journal-title": "Journal of Computer Graphics Techniques"
+            },
+            {
+                "key": "e_1_2_1_93_1",
+                "author": "Thibault W. C.",
+                "volume-title": "Proc. SIGGRAPH. ACM"
+            },
+            {
+                "key": "e_1_2_1_94_1",
+                "DOI": "10.1145/1531326.1531381",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_95_1",
+                "unstructured": "G. Varadhan S. Krishnan T. Sriram and D. Manocha. 2004. Topology preserving surface extraction using adaptive subdivision. In SGP. ACM New York NY USA 235--244.  G. Varadhan S. Krishnan T. Sriram and D. Manocha. 2004. Topology preserving surface extraction using adaptive subdivision. In SGP. ACM New York NY USA 235--244.",
+                "DOI": "10.1145/1057432.1057464",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_96_1",
+                "doi-asserted-by": "crossref",
+                "first-page": "4",
+                "DOI": "10.1145/3386569.3392426",
+                "article-title": "Exact and Efficient Polyhedral Envelope Containment Check",
+                "volume": "39",
+                "author": "Wang B.",
+                "year": "2020",
+                "journal-title": "ACM Trans. Graph."
+            },
+            {
+                "key": "e_1_2_1_97_1",
+                "DOI": "10.1109/TVCG.2010.106",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_98_1",
+                "DOI": "10.1002/nme.1620371203",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_99_1",
+                "unstructured": "R. Wein E. Berberich E. Fogel D. Halperin M. Hemmer O. Salzman and B. Zukerman. 2018. 2D Arrangements. In CGAL User and Reference Manual (4.13 ed.). CGAL Editorial Board.  R. Wein E. Berberich E. Fogel D. Halperin M. Hemmer O. Salzman and B. Zukerman. 2018. 2D Arrangements. In CGAL User and Reference Manual (4.13 ed.). CGAL Editorial Board."
+            },
+            {
+                "key": "e_1_2_1_100_1",
+                "DOI": "10.1109/MCG.1983.262997",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_101_1",
+                "doi-asserted-by": "crossref",
+                "first-page": "6",
+                "DOI": "10.1007/s00371-011-0571-1",
+                "article-title": "Parallel and efficient Boolean on polygonal solids",
+                "volume": "27",
+                "author": "Zhao H.",
+                "year": "2011",
+                "journal-title": "The Visual Computer"
+            },
+            {
+                "key": "e_1_2_1_102_1",
+                "DOI": "10.1145/2897824.2925901",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_103_1",
+                "first-page": "3D",
+                "article-title": "Thingi10K",
+                "volume": "10",
+                "author": "Zhou Q.",
+                "year": "2016",
+                "journal-title": "A Dataset of"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    8,
+                    12
+                ]
+            ],
+            "date-time": "2020-08-12T12:26:58Z",
+            "timestamp": 1597235218000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    8
+                ]
+            ]
+        },
+        "references-count": 103,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2020,
+                        7,
+                        8
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3386569.3392385"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3386569.3392385",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

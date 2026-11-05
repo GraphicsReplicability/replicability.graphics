@@ -1,0 +1,415 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T07:43:27Z",
+            "timestamp": 1585986207227
+        },
+        "reference-count": 50,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100008982",
+                "name": "National Science Foundation of Sri Lanka",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "1717320"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201356",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 4,
+        "title": [
+            "Variational surface cutting"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Nicholas",
+                "family": "Sharp",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Carnegie Mellon University"
+                    }
+                ]
+            },
+            {
+                "given": "Keenan",
+                "family": "Crane",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Carnegie Mellon University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "Giovanni Alberti Rustum Choksi and Felix Otto. 2009. Uniform energy distribution for an isoperimetric problem with long-range interactions. Journal of the American Mathematical Society (2009).  Giovanni Alberti Rustum Choksi and Felix Otto. 2009. Uniform energy distribution for an isoperimetric problem with long-range interactions. Journal of the American Mathematical Society (2009)."
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "Marc Alexa and Jan Eric Kyprianidis. 2015. Error diffusion on meshes. Computers & Graphics (2015). 10.1016/j.cag.2014.09.010   Marc Alexa and Jan Eric Kyprianidis. 2015. Error diffusion on meshes. Computers & Graphics (2015). 10.1016/j.cag.2014.09.010"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "unstructured": "Gr\u00e9goire Allaire Fran\u00e7ois Jouve and Anca-Maria Toader. 2004. Structural optimization using sensitivity analysis and a level-set method. Journal of computational physics (2004). 10.1016/j.jcp.2003.09.032   Gr\u00e9goire Allaire Fran\u00e7ois Jouve and Anca-Maria Toader. 2004. Structural optimization using sensitivity analysis and a level-set method. Journal of computational physics (2004). 10.1016/j.jcp.2003.09.032"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "Thierry Aubin. 2013. Some nonlinear problems in Riemannian geometry. Springer Science & Business Media.  Thierry Aubin. 2013. Some nonlinear problems in Riemannian geometry. Springer Science & Business Media."
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "Mirela Ben-Chen Craig Gotsman and Guy Bunin. 2008. Conformal Flattening by Curvature Prescription and Metric Scaling. Comput. Graph. Forum (2008).  Mirela Ben-Chen Craig Gotsman and Guy Bunin. 2008. Conformal Flattening by Curvature Prescription and Metric Scaling. Comput. Graph. Forum (2008)."
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "unstructured": "Jean C\u00e9a. 1986. Conception optimale ou identification de formes calcul rapide de la d\u00e9riv\u00e9e directionnelle de la fonction co\u00fbt. RAIRO-Mod\u00e9lisation math\u00e9matique et analyse num\u00e9rique (1986).  Jean C\u00e9a. 1986. Conception optimale ou identification de formes calcul rapide de la d\u00e9riv\u00e9e directionnelle de la fonction co\u00fbt. RAIRO-Mod\u00e9lisation math\u00e9matique et analyse num\u00e9rique (1986).",
+                "DOI": "10.1051/m2an/1986200303711",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "unstructured": "Yanqing Chen Timothy A. Davis William W. Hager and Sivasankaran Rajamanickam. 2008. Algorithm 887: CHOLMOD Supernodal Sparse Cholesky Factorization and Update/Downdate. (2008).  Yanqing Chen Timothy A. Davis William W. Hager and Sivasankaran Rajamanickam. 2008. Algorithm 887: CHOLMOD Supernodal Sparse Cholesky Factorization and Update/Downdate. (2008).",
+                "DOI": "10.1145/1391989.1391995",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/2504435.2504442",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "Philippe Decaudin Dan Julius Jamie Wither Laurence Boissieux Alla Sheffer and Marie-Paule Cani. 2006. Virtual garments: A fully geometric approach for clothing design. In Computer Graphics Forum.  Philippe Decaudin Dan Julius Jamie Wither Laurence Boissieux Alla Sheffer and Marie-Paule Cani. 2006. Virtual garments: A fully geometric approach for clothing design. In Computer Graphics Forum.",
+                "DOI": "10.1111/j.1467-8659.2006.00982.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "author": "Delp Kelly",
+                "year": "2011",
+                "volume-title": "Proceedings of the 14th Annual Bridges Conference."
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "Marion Dunyach David Vanderhaeghe Lo\u00efc Barthe and Mario Botsch. 2013. Adaptive Remeshing for Real-Time Mesh Deformation. In Eurographics 2013 - Short Papers.  Marion Dunyach David Vanderhaeghe Lo\u00efc Barthe and Mario Botsch. 2013. Adaptive Remeshing for Real-Time Mesh Deformation. In Eurographics 2013 - Short Papers."
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "unstructured": "Jeff Erickson and Sariel Har-Peled. 2004. Optimally cutting a surface into a disk. Discrete & Computational Geometry (2004). 10.1007/s00454-003-2948-z   Jeff Erickson and Sariel Har-Peled. 2004. Optimally cutting a surface into a disk. Discrete & Computational Geometry (2004). 10.1007/s00454-003-2948-z"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.5555/1070432.1070581",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Jacqui Fletcher. 2005. Dressings: cutting and application guide. World Wide Wounds. (2005).  Jacqui Fletcher. 2005. Dressings: cutting and application guide. World Wide Wounds. (2005)."
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "unstructured": "Michael Gage and Richard S Hamilton. 1986. The heat equation shrinking convex plane curves. Journal of Differential Geometry (1986).  Michael Gage and Richard S Hamilton. 1986. The heat equation shrinking convex plane curves. Journal of Differential Geometry (1986)."
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "Henryk Gerlach and Heiko von der Mosel. 2011. On sphere-filling ropes. Amer. Math. Monthly (2011).  Henryk Gerlach and Heiko von der Mosel. 2011. On sphere-filling ropes. Amer. Math. Monthly (2011)."
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.5555/829510.830320",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "unstructured": "Matthew A Grayson. 1987. The heat equation shrinks embedded plane curves to round points. Journal of Differential geometry (1987).  Matthew A Grayson. 1987. The heat equation shrinks embedded plane curves to round points. Journal of Differential geometry (1987).",
+                "DOI": "10.4310/jdg/1214441371",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "unstructured": "Lin He Chiu-Yen Kao and Stanley Osher. 2007. Incorporating topological derivatives into shape derivatives based level set methods. J. Comput. Phys. (2007). 10.1016/j.jcp.2007.01.003   Lin He Chiu-Yen Kao and Stanley Osher. 2007. Incorporating topological derivatives into shape derivatives based level set methods. J. Comput. Phys. (2007). 10.1016/j.jcp.2007.01.003"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "Heinrich Hencky. 1928. \u00dcber die Form des Elastizit\u00e4tsgesetzes bei ideal elastischen Stoffen. Zeitschrift f\u00fcr technische Physik (1928).  Heinrich Hencky. 1928. \u00dcber die Form des Elastizit\u00e4tsgesetzes bei ideal elastischen Stoffen. Zeitschrift f\u00fcr technische Physik (1928)."
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "Sungchan Hong and Takeshi Asai. 2014. Effect of panel shape of soccer ball on its flight characteristics. Scientific reports (2014).  Sungchan Hong and Takeshi Asai. 2014. Effect of panel shape of soccer ball on its flight characteristics. Scientific reports (2014)."
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "author": "Isenburg Martin",
+                "year": "2005",
+                "volume-title": "Visualization"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "Dan Julius Vladislav Kraevoy and Alla Sheffer. 2005. D-Charts: Quasi-Developable Mesh Segmentation. Comput. Graph. Forum (2005).  Dan Julius Vladislav Kraevoy and Alla Sheffer. 2005. D-Charts: Quasi-Developable Mesh Segmentation. Comput. Graph. Forum (2005)."
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "Liliya Kharevych Boris Springborn and Peter Schr\u00f6der. 2006. Discrete conformal mappings via circle patterns. ACM Transactions on Graphics (TOG) (2006). 10.1145/1138450.1138461   Liliya Kharevych Boris Springborn and Peter Schr\u00f6der. 2006. Discrete conformal mappings via circle patterns. ACM Transactions on Graphics (TOG) (2006). 10.1145/1138450.1138461"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "unstructured": "Martin Kilian Simon Fl\u00f6ry Zhonggui Chen Niloy J Mitra Alla Sheffer and Helmut Pottmann. 2008. Curved folding. In ACM Transactions on Graphics (TOG). ACM. 10.1145/1360612.1360674   Martin Kilian Simon Fl\u00f6ry Zhonggui Chen Niloy J Mitra Alla Sheffer and Helmut Pottmann. 2008. Curved folding. In ACM Transactions on Graphics (TOG). ACM. 10.1145/1360612.1360674",
+                "DOI": "10.1145/1399504.1360674",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1073/pnas.95.15.8431",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "unstructured": "Felix Kn\u00f6ppel Keenan Crane Ulrich Pinkall and Peter Schr\u00f6der. 2013. Globally optimal direction fields. ACM Trans. Graph. (2013). 10.1145/2461912.2462005   Felix Kn\u00f6ppel Keenan Crane Ulrich Pinkall and Peter Schr\u00f6der. 2013. Globally optimal direction fields. ACM Trans. Graph. (2013). 10.1145/2461912.2462005"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "unstructured": "Bruno L\u00e9vy Sylvain Petitjean Nicolas Ray and J\u00e9rome Maillot. 2002. Least squares conformal maps for automatic texture atlas generation. In ACM transactions on graphics (TOG). 10.1145/566654.566590   Bruno L\u00e9vy Sylvain Petitjean Nicolas Ray and J\u00e9rome Maillot. 2002. Least squares conformal maps for automatic texture atlas generation. In ACM transactions on graphics (TOG). 10.1145/566654.566590",
+                "DOI": "10.1145/566570.566590",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/1179352.1141960",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "unstructured": "Yu F Maydanik. 2005. Loop heat pipes. Applied Thermal Engineering (2005).  Yu F Maydanik. 2005. Loop heat pipes. Applied Thermal Engineering (2005).",
+                "DOI": "10.1016/j.applthermaleng.2004.07.010",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "unstructured": "Jun Mitani and Hiromasa Suzuki. 2004. Making Papercraft Toys from Meshes Using Strip-based Approximate Unfolding. ACM Trans. Graph. (2004). 10.1145/1015706.1015711   Jun Mitani and Hiromasa Suzuki. 2004. Making Papercraft Toys from Meshes Using Strip-based Approximate Unfolding. ACM Trans. Graph. (2004). 10.1145/1015706.1015711"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "unstructured": "Maks Ovsjanikov Quentin M\u00e9rigot Viorica Patraucean and Leonidas Guibas. 2013. Shape matching via quotient spaces. In Computer Graphics Forum. 10.1111/cgf.12167   Maks Ovsjanikov Quentin M\u00e9rigot Viorica Patraucean and Leonidas Guibas. 2013. Shape matching via quotient spaces. In Computer Graphics Forum. 10.1111/cgf.12167",
+                "DOI": "10.1111/cgf.12167",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/1124728.1124742",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/3130800.3130845",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "unstructured": "Michael Rabinovich Tim Hoffmann and Olga Sorkine-Hornung. 2018. Discrete Geodesic Nets for Modeling Developable Surfaces. ACM Trans. Graph. (2018). 10.1145/3180494   Michael Rabinovich Tim Hoffmann and Olga Sorkine-Hornung. 2018. Discrete Geodesic Nets for Modeling Developable Surfaces. ACM Trans. Graph. (2018). 10.1145/3180494"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1145/383259.383307",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "unstructured": "Rohan Sawhney and Keenan Crane. 2017. Boundary First Flattening. ACM Trans. Graph. (2017). 10.1145/3132705   Rohan Sawhney and Keenan Crane. 2017. Boundary First Flattening. ACM Trans. Graph. (2017). 10.1145/3132705"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "unstructured": "C. Sch\u00fcller R. Poranne and O. Sorkine-Hornung. 2017. Shape Representation by Zippable Ribbons. ArXiv e-prints (2017).  C. Sch\u00fcller R. Poranne and O. Sorkine-Hornung. 2017. Shape Representation by Zippable Ribbons. ArXiv e-prints (2017)."
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.5555/602099.602144",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "unstructured": "Jan Sokolowski and Antoni Zochowski. 1999. On the topological derivative in shape optimization. SIAM journal on control and optimization (1999). 10.1137/S0363012997323230   Jan Sokolowski and Antoni Zochowski. 1999. On the topological derivative in shape optimization. SIAM journal on control and optimization (1999). 10.1137/S0363012997323230"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "unstructured": "Yousuf Soliman Dejan Slep\u010dev and Keenan Crane. 2018. Optimal Cone Singularities for Conformal Flattening. ACM Trans. Graph. (2018). 10.1145/3197517.3201367   Yousuf Soliman Dejan Slep\u010dev and Keenan Crane. 2018. Optimal Cone Singularities for Conformal Flattening. ACM Trans. Graph. (2018). 10.1145/3197517.3201367"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.5555/602099.602154",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1145/1399504.1360676",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "unstructured": "Natarajan Sukumar David L Chopp Nicolas Mo\u00ebs and Ted Belytschko. 2001. Modeling holes and inclusions by level sets in the extended finite-element method. Computer methods in applied mechanics and engineering (2001).  Natarajan Sukumar David L Chopp Nicolas Mo\u00ebs and Ted Belytschko. 2001. Modeling holes and inclusions by level sets in the extended finite-element method. Computer methods in applied mechanics and engineering (2001)."
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "unstructured": "Chengcheng Tang Pengbo Bo Johannes Wallner and Helmut Pottmann. 2016. Interactive design of developable surfaces. ACM Transactions on Graphics (TOG) (2016). 10.1145/2832906   Chengcheng Tang Pengbo Bo Johannes Wallner and Helmut Pottmann. 2016. Interactive design of developable surfaces. ACM Transactions on Graphics (TOG) (2016). 10.1145/2832906"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "unstructured": "Huy T Vo Claudio T Silva Luiz F Scheidegger and Valerio Pascucci. 2012. Simple and efficient mesh layout with space-filling curves. Journal of Graphics Tools (2012).  Huy T Vo Claudio T Silva Luiz F Scheidegger and Valerio Pascucci. 2012. Simple and efficient mesh layout with space-filling curves. Journal of Graphics Tools (2012)."
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "unstructured": "Charlie CL Wang and Kai Tang. 2004. Achieving developability of a polygonal surface by minimum deformation: a study of global and local optimization approaches. The Visual Computer (2004).  Charlie CL Wang and Kai Tang. 2004. Achieving developability of a polygonal surface by minimum deformation: a study of global and local optimization approaches. The Visual Computer (2004)."
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "unstructured": "Chunlin Wu and Xuecheng Tai. 2010. A level set formulation of geodesic curvature flow on simplicial surfaces. IEEE Trans. Vis. Comput. Graph. (2010). 10.1109/TVCG.2009.103   Chunlin Wu and Xuecheng Tai. 2010. A level set formulation of geodesic curvature flow on simplicial surfaces. IEEE Trans. Vis. Comput. Graph. (2010). 10.1109/TVCG.2009.103"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "unstructured": "Hitoshi Yamauchi Stefan Gumhold Rhaleb Zayer and Hans-Peter Seidel. 2005. Mesh segmentation driven by Gaussian curvature. The Visual Computer (2005).  Hitoshi Yamauchi Stefan Gumhold Rhaleb Zayer and Hans-Peter Seidel. 2005. Mesh segmentation driven by Gaussian curvature. The Visual Computer (2005).",
+                "DOI": "10.1007/s00371-005-0319-x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "DOI": "10.1145/1057432.1057439",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201356&ftid=1991690&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:32:56Z",
+            "timestamp": 1585960376000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 50,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201356"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201356",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

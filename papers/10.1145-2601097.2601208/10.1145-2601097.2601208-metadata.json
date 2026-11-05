@@ -1,0 +1,354 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:11:20Z",
+            "timestamp": 1586002280561
+        },
+        "reference-count": 30,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601208",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-10",
+        "source": "Crossref",
+        "is-referenced-by-count": 26,
+        "title": [
+            "VideoSnapping"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Oliver",
+                "family": "Wang",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Disney Research Zurich"
+                    }
+                ]
+            },
+            {
+                "given": "Christopher",
+                "family": "Schroers",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Disney Research Zurich"
+                    }
+                ]
+            },
+            {
+                "given": "Henning",
+                "family": "Zimmer",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Disney Research Zurich"
+                    }
+                ]
+            },
+            {
+                "given": "Markus",
+                "family": "Gross",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Disney Research Zurich and ETH Zurich"
+                    }
+                ]
+            },
+            {
+                "given": "Alexander",
+                "family": "Sorkine-Hornung",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Disney Research Zurich"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_1_1_1",
+                "DOI": "10.1145/1073204.1073268",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_2_1",
+                "DOI": "10.1023/B:VISI.0000011205.11775.fd",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_3_1",
+                "DOI": "10.1007/s11263-010-0390-2",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_4_1",
+                "author": "Bloom V.",
+                "volume-title": "CVPR Workshops, 7--12"
+            },
+            {
+                "key": "e_1_2_1_5_1",
+                "unstructured": "Bryan N. J. Smaragdis P. and Mysore G. J. 2012. Clustering and synchronizing multi-camera video via landmark cross-correlation. In ICASSP 2389--2392.  Bryan N. J. Smaragdis P. and Mysore G. J. 2012. Clustering and synchronizing multi-camera video via landmark cross-correlation. In ICASSP 2389--2392.",
+                "DOI": "10.1109/ICASSP.2012.6288396",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_6_1",
+                "DOI": "10.1109/TPAMI.2002.1046148",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_7_1",
+                "DOI": "10.1109/TIP.2010.2095873",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_8_1",
+                "DOI": "10.1109/TMM.2013.2247390",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_9_1",
+                "DOI": "10.1007/BF01386390",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_10_1",
+                "DOI": "10.1109/TPAMI.2013.56",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_11_1",
+                "unstructured": "Jiang Y.-G. Ngo C.-W. and Yang J. 2007. Towards optimal bag-of-features for object categorization and semantic video retrieval. In CIVR 494--501. 10.1145/1282280.1282352   Jiang Y.-G. Ngo C.-W. and Yang J. 2007. Towards optimal bag-of-features for object categorization and semantic video retrieval. In CIVR 494--501. 10.1145/1282280.1282352"
+            },
+            {
+                "key": "e_1_2_1_12_1",
+                "DOI": "10.1145/882262.882270",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_13_1",
+                "unstructured": "Li R. and Chellappa R. 2010. Aligning spatio-temporal signals on a special manifold. In ECCV (5) 547--560.   Li R. and Chellappa R. 2010. Aligning spatio-temporal signals on a special manifold. In ECCV (5) 547--560.",
+                "DOI": "10.1007/978-3-642-15555-0_40",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_14_1",
+                "DOI": "10.1109/TPAMI.2010.147",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_15_1",
+                "unstructured": "Lowe D. G. 1999. Object recognition from local scale-invariant features. In ICCV 1150--1157.   Lowe D. G. 1999. Object recognition from local scale-invariant features. In ICCV 1150--1157.",
+                "DOI": "10.1109/ICCV.1999.790410",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_16_1",
+                "DOI": "10.1109/TCSVT.2004.841694",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_17_1",
+                "DOI": "10.1109/TPAMI.2008.301",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_18_1",
+                "unstructured": "Prim R. C. 1957. Shortest connection networks and some generalizations. Bell system technical journal 36 6 1389--1401.  Prim R. C. 1957. Shortest connection networks and some generalizations. Bell system technical journal 36 6 1389--1401.",
+                "DOI": "10.1002/j.1538-7305.1957.tb01515.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_19_1",
+                "unstructured": "Rao C. Gritai A. Shah M. and Syeda-Mahmood T. F. 2003. View-invariant alignment and matching of video sequences. In ICCV 939--945.   Rao C. Gritai A. Shah M. and Syeda-Mahmood T. F. 2003. View-invariant alignment and matching of video sequences. In ICCV 939--945.",
+                "DOI": "10.1109/ICCV.2003.1238449",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_20_1",
+                "DOI": "10.1111/cgf.12025",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_21_1",
+                "DOI": "10.1145/1015706.1015765",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_22_1",
+                "DOI": "10.1023/A:1014573219977",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_23_1",
+                "unstructured": "Shrestha P. Barbieri M. and Weda H. 2007. Synchronization of multi-camera video recordings based on audio. In ACM Multimedia 545--548. 10.1145/1291233.1291367   Shrestha P. Barbieri M. and Weda H. 2007. Synchronization of multi-camera video recordings based on audio. In ACM Multimedia 545--548. 10.1145/1291233.1291367"
+            },
+            {
+                "key": "e_1_2_1_24_1",
+                "DOI": "10.1145/2185520.2185579",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_25_1",
+                "unstructured": "Ukrainitz Y. and Irani M. 2006. Aligning sequences and actions by maximizing space-time correlations. In ECCV (3) 538--550. 10.1007/11744078_42   Ukrainitz Y. and Irani M. 2006. Aligning sequences and actions by maximizing space-time correlations. In ECCV (3) 538--550. 10.1007/11744078_42",
+                "DOI": "10.1007/11744078_42",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_26_1",
+                "unstructured": "Vedaldi A. and Fulkerson B. 2008. VLFeat: An open and portable library of computer vision algorithms.  Vedaldi A. and Fulkerson B. 2008. VLFeat: An open and portable library of computer vision algorithms."
+            },
+            {
+                "key": "e_1_2_1_27_1",
+                "DOI": "10.1145/2366145.2366195",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_28_1",
+                "unstructured": "Zhou F. and la Torre F. D. 2009. Canonical time warping for alignment of human behavior. In NIPS 2286--2294.  Zhou F. and la Torre F. D. 2009. Canonical time warping for alignment of human behavior. In NIPS 2286--2294."
+            },
+            {
+                "key": "e_1_2_1_29_1",
+                "unstructured": "Zhou F. and la Torre F. D. 2012. Generalized time warping for multi-modal alignment of human motion. In CVPR 1282--1289.   Zhou F. and la Torre F. D. 2012. Generalized time warping for multi-modal alignment of human motion. In CVPR 1282--1289."
+            },
+            {
+                "key": "e_1_2_1_30_1",
+                "DOI": "10.1007/s11263-011-0422-6",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601208&amp;ftid=1488885&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:46:34Z",
+            "timestamp": 1586000794000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "interactive synchronization of multiple videos"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 30,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601208"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601208",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

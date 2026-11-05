@@ -1,0 +1,493 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T02:11:27Z",
+            "timestamp": 1585966287811
+        },
+        "reference-count": 54,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925866",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 10,
+        "title": [
+            "GazeStereo3D"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Petr",
+                "family": "Kellnhofer",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "MIT CSAIL and MPI Informatik"
+                    }
+                ]
+            },
+            {
+                "given": "Piotr",
+                "family": "Didyk",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "MPI Informatik and Saarland University, MMCI"
+                    }
+                ]
+            },
+            {
+                "given": "Karol",
+                "family": "Myszkowski",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "MPI Informatik"
+                    }
+                ]
+            },
+            {
+                "given": "Mohamed M.",
+                "family": "Hefeeda",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Qatar Computing Research Institute"
+                    }
+                ]
+            },
+            {
+                "given": "Hans-Peter",
+                "family": "Seidel",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "MPI Informatik"
+                    }
+                ]
+            },
+            {
+                "given": "Wojciech",
+                "family": "Matusik",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "MIT CSAIL"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1364/JOSAA.8.001775",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "Becker W. and Juergens R. 1975. Saccadic reactions to double-step stimuli: Evidence for model feedback and continuous information uptake. In Basic Mechanisms of Ocular Motility and their Clinical Implications 519--527.  Becker W. and Juergens R. 1975. Saccadic reactions to double-step stimuli: Evidence for model feedback and continuous information uptake. In Basic Mechanisms of Ocular Motility and their Clinical Implications 519--527."
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/2578153.2578169",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1016/S0042-6989(99)00015-2",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1068/p180601",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1007/978-3-642-33783-3_44",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1117/12.837532",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1111/cgf.12291",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1016/j.bbr.2004.11.019",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1111/j.1475-1313.1993.tb00419.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1068/p240105",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "author": "Didyk P.",
+                "volume-title": "Modeling and Visualization Workshop, 299--306"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/2010324.1964991",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/2366145.2366203",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/2578153.2578168",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/2628257.2628259",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "Fisker M. Gram K. Thomsen K. K. Vasilarou D. and Kraus M. 2013. Automatic convergence adjustment for stereoscopy using eye tracking. In Eurographics 2013-Posters 23--24.  Fisker M. Gram K. Thomsen K. K. Vasilarou D. and Kraus M. 2013. Automatic convergence adjustment for stereoscopy using eye tracking. In Eurographics 2013-Posters 23--24."
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "author": "Geisler W. S.",
+                "volume": "3299",
+                "volume-title": "Proc. SPIE"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/2366145.2366183",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "author": "Hanhart P.",
+                "volume": "9011",
+                "first-page": "1",
+                "volume-title": "Proc. SPIE"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1016/0042-6989(94)00194-Q",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1038/418",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1167/8.3.33",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1889/JSID19.3.271",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/2714573",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "first-page": "42",
+                "article-title": "Controlling perceived depth in stereoscopic images",
+                "volume": "4297",
+                "author": "Jones G. R.",
+                "year": "2001",
+                "journal-title": "SPIE"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1523/JNEUROSCI.1652-13.2014",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "author": "Kim T.",
+                "volume-title": "Asia-Pacific Signal and Information Proc. Assoc. (APSIPA), 1--4."
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/1344471.1344525",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1097/00006324-197312000-00001",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/1778765.1778812",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/1344471.1344507",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/1314303.1314310",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "unstructured": "Mantiuk R. Bazyluk B. and Tomaszewska A. 2011. Gaze-dependent depth-of-field effect rendering in virtual environments. In Serious Games Development and Appl. 1--12. 10.1007/978-3-642-23834-5_1   Mantiuk R. Bazyluk B. and Tomaszewska A. 2011. Gaze-dependent depth-of-field effect rendering in virtual environments. In Serious Games Development and Appl. 1--12. 10.1007/978-3-642-23834-5_1",
+                "DOI": "10.1007/978-3-642-23834-5_1",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1016/j.cag.2013.06.004",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.3758/BF03195477",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "unstructured": "Murphy H. and Duchowski A. T. 2001. Gaze-contingent level of detail rendering. Eurographics Short Presntations.  Murphy H. and Duchowski A. T. 2001. Gaze-contingent level of detail rendering. Eurographics Short Presntations."
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1145/2070781.2024223",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "author": "Peli E.",
+                "volume": "32",
+                "volume-title": "SID Symposium Digest of Technical Papers"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1016/0042-6989(96)00065-X",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1364/JOSA.59.000991",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "unstructured": "Reinhard E. Ward G. Debevec P. Pattanaik S. Heidrich W. and Myszkowski K. 2010. High Dynamic Range Imaging. Morgan Kaufmann Publishers 2nd edition.  Reinhard E. Ward G. Debevec P. Pattanaik S. Heidrich W. and Myszkowski K. 2010. High Dynamic Range Imaging . Morgan Kaufmann Publishers 2nd edition."
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "unstructured": "Scharstein D. Hirschm\u00fcller H. Kitajima Y. Krathwohl G. Ne\u0161i\u0107 N. Wang X. and Westling P. 2014. High-resolution stereo datasets with subpixel-accurate ground truth. In Pattern Recognition. Springer 31--42.  Scharstein D. Hirschm\u00fcller H. Kitajima Y. Krathwohl G. Ne\u0161i\u0107 N. Wang X. and Westling P. 2014. High-resolution stereo datasets with subpixel-accurate ground truth. In Pattern Recognition. Springer 31--42.",
+                "DOI": "10.1007/978-3-319-11752-2_3",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1364/JOSA.69.000639",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "first-page": "558",
+                "article-title": "Quantitative assessment of disparity vergence components",
+                "volume": "27",
+                "author": "Semmlow J.",
+                "year": "1986",
+                "journal-title": "Invest. Ophthalmol. Vis. Sci."
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1145/2159616.2159620",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "DOI": "10.1167/11.8.11",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "DOI": "10.1145/2601097.2601148",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "DOI": "10.1016/0042-6989(75)90306-5",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "DOI": "10.1145/2578153.2578170",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "DOI": "10.3758/BF03202828",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "DOI": "10.1109/ICCV.2013.26",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "DOI": "10.1109/JPROC.2010.2095810",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "DOI": "10.5555/2383894.2383905",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925866&amp;ftid=1755895&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:38:39Z",
+            "timestamp": 1585964319000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "seamless disparity manipulations"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 54,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925866"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925866",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

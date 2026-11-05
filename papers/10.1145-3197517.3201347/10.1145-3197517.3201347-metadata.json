@@ -1,0 +1,434 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:55Z",
+            "timestamp": 1585962715609
+        },
+        "reference-count": 51,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201347",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 5,
+        "title": [
+            "Shape representation by zippables"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Christian",
+                "family": "Sch\u00fcller",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "ETH Zurich, Switzerland"
+                    }
+                ]
+            },
+            {
+                "given": "Roi",
+                "family": "Poranne",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "ETH Zurich, Switzerland"
+                    }
+                ]
+            },
+            {
+                "given": "Olga",
+                "family": "Sorkine-Hornung",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "ETH Zurich, Switzerland"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/2816795.2818099",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1016/S0021-9800(70)80054-0",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/1778765.1778800",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1111/cgf.12014",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "author": "Chandra S.",
+                "volume-title": "Proc. Symposium on Simulation for Architecture & Urban Design, http://dl.acm.org/citation.cfm?id=2873042"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/2601097.2601189",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/997817.997888",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1016/j.cag.2017.05.017",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "K. Hormann B. L\u00e9vy and A. Sheffer. 2007. Mesh parameterization: theory and practice. In ACM SIGGRAPH Courses. 10.1145/1281500.1281510   K. Hormann B. L\u00e9vy and A. Sheffer. 2007. Mesh parameterization: theory and practice. In ACM SIGGRAPH Courses. 10.1145/1281500.1281510",
+                "DOI": "10.1145/1281500.1281510",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1007/978-3-540-85412-8_1",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1111/j.1467-8659.2009.01575.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1111/j.1467-8659.2005.00883.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/2749458",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "F. K\u00e4lberer M. Nieser and K. Polthier. 2011. Stripe parameterization of tubular surfaces. In Topological Methods in Data Analysis and Visualization. Springer 13--26.  F. K\u00e4lberer M. Nieser and K. Polthier. 2011. Stripe parameterization of tubular surfaces. In Topological Methods in Data Analysis and Visualization. Springer 13--26.",
+                "DOI": "10.1007/978-3-642-15014-2_2",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/1360612.1360674",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/2767000",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "author": "Kolmiani\u010d S.",
+                "volume-title": "Proc. Workshop on Geometric Modeling: Fundamentals and Applications. 35--46"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/2897824.2925920",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1109/TASE.2008.2009926",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "M. Livesu M. Attene G. Patan\u00e8 and M. Spagnuolo. 2017. Explicit cylindrical maps for general tubular shapes. Computer-Aided Design (2017). Accepted for publication.  M. Livesu M. Attene G. Patan\u00e8 and M. Spagnuolo. 2017. Explicit cylindrical maps for general tubular shapes. Computer-Aided Design (2017). Accepted for publication."
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "author": "Lubiw A.",
+                "year": "2010",
+                "volume-title": "Proceedings of the 22nd Annual Canadian Conference on Computational Geometry"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "author": "Mahdavi-Amiri A.",
+                "volume-title": "Proc. Graphics Interface. 73--80"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/1364901.1364938",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1109/PG.2007.46",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/1015706.1015711",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/1276377.1276433",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/2185520.2185605",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "unstructured": "J. O'Rourke. 2015. Spiral Unfoldings of Convex Polyhedra. arXiv preprint arXiv:1509.00321 (2015).  J. O'Rourke. 2015. Spiral Unfoldings of Convex Polyhedra. arXiv preprint arXiv:1509.00321 (2015)."
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "H. Pedersen. 2011. Methods for Creating Developable Surfaces. (July 14 2011). https://www.google.ch/patents/US20110169828 US Patent App. 13/005 384.  H. Pedersen. 2011. Methods for Creating Developable Surfaces. (July 14 2011). https://www.google.ch/patents/US20110169828 US Patent App. 13/005 384."
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/1124728.1124742",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/2983621",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/1183287.1183297",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "author": "Rose K.",
+                "volume-title": "Proc. Symp. Geom. Processing. 163--172"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1109/2945.764870",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1007/s00371-006-0067-6",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.5555/645908.673287",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/3072959.3073618",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1111/j.1467-8659.2012.03064.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/2461912.2461979",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1145/2601097.2601166",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1145/2766947",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "unstructured": "R. Straub and H. Prautzsch. 2011. Creating optimized cut-out sheets for paper models from meshes. Technical Report. Karlsruhe Institute of Technology.  R. Straub and H. Prautzsch. 2011. Creating optimized cut-out sheets for paper models from meshes. Technical Report. Karlsruhe Institute of Technology."
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1111/j.1467-8659.2011.02053.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1145/2832906",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1080/2151237X.2012.654054",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1111/j.1467-8659.2012.03215.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "DOI": "10.1109/MCG.2009.155",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "DOI": "10.1016/j.cagd.2012.03.009",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "DOI": "10.1145/2897824.2925958",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "DOI": "10.1145/2816795.2818074",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "unstructured": "zipit. 2017. zip it store online http://www.zipitstore.com/. (2017). Accessed: 2017-02-01.  zipit. 2017. zip it store online http://www.zipitstore.com/. (2017). Accessed: 2017-02-01."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201347&ftid=1991773&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:37:08Z",
+            "timestamp": 1585960628000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 51,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201347"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201347",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

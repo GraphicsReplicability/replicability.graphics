@@ -1,0 +1,391 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T02:11:28Z",
+            "timestamp": 1585966288097
+        },
+        "reference-count": 38,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925879",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 6,
+        "title": [
+            "Emulating displays with continuously varying frame rates"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Krzysztof",
+                "family": "Templin",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "MPI Informatik"
+                    }
+                ]
+            },
+            {
+                "given": "Piotr",
+                "family": "Didyk",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Saarland University, MMCI and MPI Informatik"
+                    }
+                ]
+            },
+            {
+                "given": "Karol",
+                "family": "Myszkowski",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "MPI Informatik"
+                    }
+                ]
+            },
+            {
+                "given": "Hans-Peter",
+                "family": "Seidel",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "MPI Informatik"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1111/j.1467-8659.2009.01646.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/383259.383325",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "unstructured": "Brownlow K. 1980. Silent films: What was the right speed? Sight and Sound Summer 164--167.  Brownlow K. 1980. Silent films: What was the right speed? Sight and Sound Summer 164--167."
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "Brox T. Bruhn A. Papenberg N. and \n      \n      \n      Weickert J\n      \n  \n  . \n  2004\n  . High accuracy optical flow estimation based on a theory for warping. In European Conference on \n  Computer Vision (ECCV) vol. \n  3024\n   of \n  Lecture Notes in Computer Science 25--36.  Brox T. Bruhn A. Papenberg N. and Weickert J. 2004. High accuracy optical flow estimation based on a theory for warping. In European Conference on Computer Vision (ECCV) vol. 3024 of Lecture Notes in Computer Science 25--36.",
+                "DOI": "10.1007/978-3-540-24673-2_3",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/344779.344932",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "author": "Daly S.",
+                "volume-title": "SMPTE Annual Technical Conference."
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1117/12.320110",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "Davis J. Hsieh Y.-H. and Lee H.-C. 2015. Humans perceive flicker artifacts at 500 Hz. Scientific Reports 5.  Davis J. Hsieh Y.-H. and Lee H.-C. 2015. Humans perceive flicker artifacts at 500 Hz. Scientific Reports 5 .",
+                "DOI": "10.1038/srep07861",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1364/JOSA.48.000777",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "Didyk P. Eisemann E. Ritschel T. Myszkowski K. and Seidel H.-P. 2010. Perceptually-motivated real-time temporal upsampling of 3D content for high-refresh-rate displays. Computer Graphics Forum (Proc. Eurographics 2010) 29 2 713--722.  Didyk P. Eisemann E. Ritschel T. Myszkowski K. and Seidel H.-P. 2010. Perceptually-motivated real-time temporal upsampling of 3D content for high-refresh-rate displays. Computer Graphics Forum (Proc. Eurographics 2010) 29 2 713--722.",
+                "DOI": "10.1111/j.1467-8659.2009.01641.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "Disney Research 2015. Lucid Dreams of Gabriel. http://www.disneyresearch.com/luciddreamsofgabriel/flowTime.html.  Disney Research 2015. Lucid Dreams of Gabriel . http://www.disneyresearch.com/luciddreamsofgabriel/flowTime.html."
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "first-page": "M1",
+                "article-title": "LCD motion blur analysis, perception, and reduction using synchronized backlight flashing. In Human Vision and Electronic Imaging XI",
+                "volume": "6057",
+                "author": "Feng X.-F.",
+                "year": "2006",
+                "journal-title": "SPIE"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1016/j.cag.2010.05.017",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Gupta M. Agrawal A. Veeraraghavan A. and \n      \n      \n      Narasimhan S. G\n      \n  \n  . \n  2010\n  . Flexible voxels for motion-aware videography. In Computer Vision -- ECCV 2010 K. Daniilidis P. Maragos and N. Paragios Eds\n  . vol. \n  6311\n   of \n  Lecture Notes in Computer Science\n  . 100--114.   Gupta M. Agrawal A. Veeraraghavan A. and Narasimhan S. G. 2010. Flexible voxels for motion-aware videography. In Computer Vision -- ECCV 2010 K. Daniilidis P. Maragos and N. Paragios Eds. vol. 6311 of Lecture Notes in Computer Science . 100--114.",
+                "DOI": "10.1007/978-3-642-15549-9_8",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1889/JSID19.3.271",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "Hummel R. Ed. 2002. American Cinematographer Manual (8th Edition). ASC Holding Corp.  Hummel R. Ed. 2002. American Cinematographer Manual (8th Edition) . ASC Holding Corp."
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "Kalloniatis M. and Luu C. 2009. Temporal resolution. http://webvision.med.utah.edu/temporal.html.  Kalloniatis M. and Luu C. 2009. Temporal resolution. http://webvision.med.utah.edu/temporal.html ."
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1016/0042-6989(94)90027-2",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/2010325.2010330",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "Quesnel D. Lantin M. Goldman A. and Arden S. 2013. An exploration into the creation of variable frame rate (VFR) stereoscopic 3D narrative productions. Emily Carr University of Art and Design. http://research.ecuad.ca/s3dcentre/projects/hfr-high-frame-rate-research/ accessed Apr 27 2015.  Quesnel D. Lantin M. Goldman A. and Arden S. 2013. An exploration into the creation of variable frame rate (VFR) stereoscopic 3D narrative productions. Emily Carr University of Art and Design. http://research.ecuad.ca/s3dcentre/projects/hfr-high-frame-rate-research/ accessed Apr 27 2015."
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/1141911.1141957",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "author": "Richards D.",
+                "year": "2014",
+                "volume-title": "SMPTE Annual Conference Abstracts. http://edas.info/p17109"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "Salt B. 2009. Film Style and Technology: History and Analysis. Starword.  Salt B. 2009. Film Style and Technology: History and Analysis . Starword."
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "author": "Samuelson D.",
+                "volume-title": "Hands-on Manual for Cinematographers",
+                "DOI": "10.4324/9780080507880",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "first-page": "1",
+                "article-title": "Temporal video filtering and exposure control for perceptual motion blur. Visualization and Computer Graphics",
+                "volume": "21",
+                "author": "Stengel M.",
+                "year": "2015",
+                "journal-title": "IEEE Transactions on"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/1394281.1394299",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "author": "Stump D.",
+                "volume-title": "Digital Cinematography: Fundamentals, Tools, Techniques, and Workflows",
+                "DOI": "10.4324/9780240817927",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1109/2945.998667",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "Taguchi Y. Agrawal A. and \n      \n      \n      Tuzel O\n      \n  \n  . \n  2012\n  . Motion-aware structured light using spatio-temporal decodable patterns. In Computer Vision -- ECCV 2012 A. Fitzgibbon S. Lazebnik P. Perona Y. Sato and C. Schmid Eds\n  . vol. \n  7576\n   of \n  Lecture Notes in Computer Science\n  . 832--845. 10.1007/978-3-642-33715-4_60   Taguchi Y. Agrawal A. and Tuzel O. 2012. Motion-aware structured light using spatio-temporal decodable patterns. In Computer Vision -- ECCV 2012 A. Fitzgibbon S. Lazebnik P. Perona Y. Sato and C. Schmid Eds. vol. 7576 of Lecture Notes in Computer Science . 832--845. 10.1007/978-3-642-33715-4_60",
+                "DOI": "10.1007/978-3-642-33715-4_60",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1109/ICCV.2013.129",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1111/j.1467-8659.2007.01082.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "unstructured": "Tessive 2014. Time Filter Time Shaper. http://tessive.com.  Tessive 2014. Time Filter Time Shaper. http://tessive.com."
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "unstructured": "Trumbull D. H. and Jackson B. 2013. Method and apparatus for photographing and projecting moving images. US Patent US8363117 B2.  Trumbull D. H. and Jackson B. 2013. Method and apparatus for photographing and projecting moving images. US Patent US8363117 B2."
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1111/j.1467-8659.2011.01983.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.5594/j18266XY",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1016/0141-9382(95)91178-5",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/2810039",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.5555/2383894.2383905",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925879&amp;ftid=1755947&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:34:55Z",
+            "timestamp": 1585964095000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 38,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925879"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925879",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

@@ -1,0 +1,275 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T02:11:27Z",
+            "timestamp": 1585966287087
+        },
+        "reference-count": 21,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925949",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 4,
+        "title": [
+            "Binary continuous image decomposition for multi-view display"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Gou",
+                "family": "Koutaki",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Kumaamoto University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/258734.258875",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "Bie T. D. Cristianini N. and Rosipal R. 2005. Eigenproblems in pattern recognition. Handbook of Geometric Computing.  Bie T. D. Cristianini N. and Rosipal R. 2005. Eigenproblems in pattern recognition. Handbook of Geometric Computing."
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "unstructured": "Cossairt O. Travis A. R. L. Moller C. and Benton S. A. 2004. Novel view sequential display based on dmd technology.  Cossairt O. Travis A. R. L. Moller C. and Benton S. A. 2004. Novel view sequential display based on dmd technology.",
+                "DOI": "10.1117/12.525888",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1364/AO.46.001244",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "first-page": "36",
+                "article-title": "An adaptive algorithm for spatial gray scale. In International Symposium Digest of Technical Papers",
+                "volume": "4",
+                "author": "Floyd R.",
+                "year": "1975",
+                "journal-title": "Society for Information Displays"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/2185520.2185576",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "author": "Gove R. J.",
+                "year": "1994",
+                "volume-title": "Information Display International Symposium, 1--12"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "first-page": "435",
+                "article-title": "Stereoscopic motion picture, Mar. 2",
+                "volume": "1",
+                "author": "Hammond L.",
+                "year": "1922",
+                "journal-title": "US Patent"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "Hornbeck L. J. 1995. Digital light processing and MEMS: Timely convergence for a bright future. In SPIE Micromachining and Microfabrication 27--40.  Hornbeck L. J. 1995. Digital light processing and MEMS: Timely convergence for a bright future. In SPIE Micromachining and Microfabrication 27--40.",
+                "DOI": "10.1117/12.221267",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/1276377.1276427",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/2782782.2792494",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "unstructured": "Karp R. M. 1972. Reducibility among Combinatorial Problems. Plenum Press.  Karp R. M. 1972. Reducibility among Combinatorial Problems . Plenum Press.",
+                "DOI": "10.1007/978-1-4684-2001-2_9",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "Lee D. D. and Seung H. S. 2000. Algorithms for non-negative matrix factorization. In NIPS MIT Press 556--562.  Lee D. D. and Seung H. S. 2000. Algorithms for non-negative matrix factorization. In NIPS MIT Press 556--562."
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.5687/iscie.27.254",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "unstructured": "Peddie J. 2013. The History of Visual Magic in Computers: How Beautiful Images Are Made in CAD 3D VR and AR. Springer Publishing Company Incorporated.   Peddie J. 2013. The History of Visual Magic in Computers: How Beautiful Images Are Made in CAD 3D VR and AR . Springer Publishing Company Incorporated."
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "Press W. H. Teukolsky S. A. Vetterling W. T. and Flannery B. P. 1992. Numerical Recipes in C (2Nd Ed.): The Art of Scientific Computing. Cambridge University Press.   Press W. H. Teukolsky S. A. Vetterling W. T. and Flannery B. P. 1992. Numerical Recipes in C (2Nd Ed.): The Art of Scientific Computing . Cambridge University Press."
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "Rashid R. 1980. Toward a system for the interpretation of moving light display. IEEE trans. on Pattern Analysis and Machine Intelligence 574--581.  Rashid R. 1980. Toward a system for the interpretation of moving light display. IEEE trans. on Pattern Analysis and Machine Intelligence 574--581.",
+                "DOI": "10.1109/TPAMI.1980.6447705",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "author": "Turk M.",
+                "volume-title": "Proceedings of Computer Vision and Pattern Recognition, 586--591"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1109/JPROC.2010.2098351",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "Woods A. and Helliwell J. 2011. White paper: A survey of 3d sync ir protocols.  Woods A. and Helliwell J. 2011. White paper: A survey of 3d sync ir protocols."
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "Wu J. H. and Steyn J. L. 2013. Reliability studies on mems shutters and displays.  Wu J. H. and Steyn J. L. 2013. Reliability studies on mems shutters and displays.",
+                "DOI": "10.1117/12.2020033",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925949&amp;ftid=1755898&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:29:42Z",
+            "timestamp": 1585963782000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 21,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925949"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925949",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

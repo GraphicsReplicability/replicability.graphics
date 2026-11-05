@@ -1,0 +1,383 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:55Z",
+            "timestamp": 1585962715499
+        },
+        "reference-count": 36,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201275",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 14,
+        "title": [
+            "Semantic soft segmentation"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Ya\u011fiz",
+                "family": "Aksoy",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "MIT CSAIL and ETH Z\u00fcrich, Switzerland"
+                    }
+                ]
+            },
+            {
+                "given": "Tae-Hyun",
+                "family": "Oh",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "MIT CSAIL"
+                    }
+                ]
+            },
+            {
+                "given": "Sylvain",
+                "family": "Paris",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe Research"
+                    }
+                ]
+            },
+            {
+                "given": "Marc",
+                "family": "Pollefeys",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "ETH Z\u00fcrich, Switzerland and Microsoft"
+                    }
+                ]
+            },
+            {
+                "given": "Wojciech",
+                "family": "Matusik",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "MIT CSAIL"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1109/TPAMI.2012.120",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1109/CVPR.2017.32",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/2907940",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/3002176",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/1360612.1360639",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "unstructured": "R. Barrett M. Berry T. Chan J. Demmel J. Donato J. Dongarra V. Eijkhout R. Pozo C. Romine and H. van der Vorst. 1994. Templates for the Solution of Linear Systems: Building Blocks for Iterative Methods. SIAM.  R. Barrett M. Berry T. Chan J. Demmel J. Donato J. Dongarra V. Eijkhout R. Pozo C. Romine and H. van der Vorst. 1994. Templates for the Solution of Linear Systems: Building Blocks for Iterative Methods. SIAM.",
+                "DOI": "10.1137/1.9781611971538",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1109/ICCV.2015.65",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1109/CVPR.2016.392",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1109/CVPR.2011.5995413",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "Holger Caesar Jasper Uijlings and Vittorio Ferrari. 2016. COCO-Stuff: Thing and Stuff Classes in Context. arXiv: 1612.03716 {cs.CV} (2016).  Holger Caesar Jasper Uijlings and Vittorio Ferrari. 2016. COCO-Stuff: Thing and Stuff Classes in Context. arXiv: 1612.03716 {cs.CV} (2016)."
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "Liang-Chieh Chen George Papandreou Iasonas Kokkinos Kevin Murphy and Alan L Yuille. 2017. DeepLab: Semantic Image Segmentation with Deep Convolutional Nets Atrous Convolution and Fully Connected CRFs. IEEE Trans. Pattern Anal. Mach. Intell. (2017).  Liang-Chieh Chen George Papandreou Iasonas Kokkinos Kevin Murphy and Alan L Yuille. 2017. DeepLab: Semantic Image Segmentation with Deep Convolutional Nets Atrous Convolution and Fully Connected CRFs. IEEE Trans. Pattern Anal. Mach. Intell. (2017).",
+                "DOI": "10.1109/TPAMI.2017.2699184",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1109/TPAMI.2013.18",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/2366145.2366151",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1111/cgf.12822",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1111/cgf.12295",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1109/TIP.2004.823819",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "Alireza Fathi Zbigniew Wojna Vivek Rathod Peng Wang Hyun Oh Song Sergio Guadarrama and Kevin P. Murphy. 2017. Semantic Instance Segmentation via Deep Metric Learning. arXiv: 1703.10277 {cs.CV} (2017).  Alireza Fathi Zbigniew Wojna Vivek Rathod Peng Wang Hyun Oh Song Sergio Guadarrama and Kevin P. Murphy. 2017. Semantic Instance Segmentation via Deep Metric Learning. arXiv: 1703.10277 {cs.CV} (2017)."
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1109/CVPR.2015.7298642",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "author": "He Kaiming",
+                "year": "2017",
+                "volume-title": "Mask R-CNN. In Proc. ICCV."
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1109/TPAMI.2012.213",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1007/978-3-319-24261-3_7",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1109/TPAMI.2007.1177",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1109/TPAMI.2008.168",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1111/j.1467-8659.2008.01264.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1007/978-3-319-10602-1_48",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "author": "Oh Tae-Hyun",
+                "volume-title": "So Kweon, and Sing Bing Kang. 2017. Personalized Cinemagraphs Using Semantic Understanding and Collaborative Learning. In Proc. ICCV."
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "author": "Qin S.",
+                "volume-title": "Proc. ICME."
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1109/ICCV.2017.123",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1109/CVPR.2009.5206503",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1007/978-3-319-46448-0_6",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1109/TPAMI.2010.206",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "author": "Sohn Kihyuk",
+                "year": "2016",
+                "volume-title": "Proc. NIPS."
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1109/TPAMI.2007.1168",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/2988229",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1109/CVPR.2017.41",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1109/CVPR.2017.660",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201275&ftid=1991772&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:45:35Z",
+            "timestamp": 1585961135000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 36,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201275"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201275",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

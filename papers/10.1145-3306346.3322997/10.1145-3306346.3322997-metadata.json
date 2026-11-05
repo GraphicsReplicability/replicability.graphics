@@ -1,0 +1,274 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2020-07-12T19:40:19Z",
+            "timestamp": 1594582819297
+        },
+        "reference-count": 21,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2019,
+                            7,
+                            12
+                        ]
+                    ],
+                    "date-time": "2019-07-12T00:00:00Z",
+                    "timestamp": 1562889600000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "DOI": "10.1145/3306346.3322997",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2019-07-12T19:04:08Z",
+            "timestamp": 1562958248000
+        },
+        "page": "1-16",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+            "Affine interpolation in a lie group framework"
+        ],
+        "prefix": "10.1145",
+        "volume": "38",
+        "author": [
+            {
+                "given": "Sumukh",
+                "family": "Bansal",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar, Gujrat, India"
+                    }
+                ]
+            },
+            {
+                "given": "Aditya",
+                "family": "Tatu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar, India"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/566654.566592",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/344779.344859",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/1141911.1142011",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1007/978-3-642-33718-5_1",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "Jean Gallier and Jocelyn Quaintance. 2017. Notes on Differential Geometry and Lie Groups. (2017). Available online at www.cis.upenn.edu/jean/gbooks/manif.html.  Jean Gallier and Jocelyn Quaintance. 2017. Notes on Differential Geometry and Lie Groups. (2017). Available online at www.cis.upenn.edu/jean/gbooks/manif.html."
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/2659467.2675048",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "author": "Kaji S.",
+                "volume-title": "Proceedings of the ACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA '12)"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/1409625.1409627",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/1053427.1053429",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1631/jzus.2006.A1168",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "author": "Magnenat-Thalmann Nadia",
+                "year": "1988",
+                "volume-title": "Proceedings on Graphics interface."
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "unstructured": "Richard M. Murray S. Shankar Sastry and Li Zexiang. 1994. A Mathematical Introduction to Robotic Manipulation (1st ed.). CRC Press Inc. Boca Raton FL USA.   Richard M. Murray S. Shankar Sastry and Li Zexiang. 1994. A Mathematical Introduction to Robotic Manipulation (1st ed.). CRC Press Inc. Boca Raton FL USA."
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/2542266.2542268",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1007/978-3-662-04433-9",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/2019627.2019635",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "J. M. Selig. 2010. Geometric Fundamentals of Robotics (2nd ed.). Springer Publishing Company Incorporated.   J. M. Selig. 2010. Geometric Fundamentals of Robotics (2nd ed.). Springer Publishing Company Incorporated."
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/325165.325242",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "year": "1992",
+                "volume-title": "Graphics Interface'92"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/1073204.1073218",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1111/j.1467-8659.2009.01630.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1016/S0010-4485(97)00060-2",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3322997&ftid=2071671&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2020-07-12T19:12:02Z",
+            "timestamp": 1594581122000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "references-count": 21,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        12
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3306346.3322997"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3306346.3322997",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

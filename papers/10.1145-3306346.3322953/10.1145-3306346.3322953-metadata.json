@@ -1,0 +1,569 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2020-07-12T19:40:18Z",
+            "timestamp": 1594582818265
+        },
+        "reference-count": 69,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2019,
+                            7,
+                            12
+                        ]
+                    ],
+                    "date-time": "2019-07-12T00:00:00Z",
+                    "timestamp": 1562889600000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100002784",
+                "name": "Canada Excellence Research Chairs, Government of Canada",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100011199",
+                "name": "FP7 Ideas: European Research Council",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "StG-2017-758800"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100000038",
+                "name": "Natural Sciences and Engineering Research Council of Canada",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "RGPIN2017-05235,RGPAS-2017-507938"
+                ]
+            },
+            {
+                "DOI": "10.13039/100004675",
+                "name": "Autodesk",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "name": "MESH",
+                "award": []
+            },
+            {
+                "name": "Fields Institute CQAM Labs",
+                "award": []
+            },
+            {
+                "name": "Mitacs Globalink",
+                "award": []
+            },
+            {
+                "name": "Adobe Inc.",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "DOI": "10.1145/3306346.3322953",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2019-07-12T19:04:08Z",
+            "timestamp": 1562958248000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 3,
+        "title": [
+            "Spectral coarsening of geometric operators"
+        ],
+        "prefix": "10.1145",
+        "volume": "38",
+        "author": [
+            {
+                "given": "Hsueh-Ti Derek",
+                "family": "Liu",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of Toronto, Canada"
+                    }
+                ]
+            },
+            {
+                "given": "Alec",
+                "family": "Jacobson",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Toronto, Canada"
+                    }
+                ]
+            },
+            {
+                "given": "Maks",
+                "family": "Ovsjanikov",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "\u00c9cole Polytechnique, France"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1007/s12532-010-0016-2",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "author": "Andreux Mathieu",
+                "year": "2014",
+                "volume-title": "European Conference on Computer Vision. Springer, 299--312"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "unstructured": "George B Arfken and Hans J Weber. 1999. Mathematical methods for physicists.  George B Arfken and Hans J Weber. 1999. Mathematical methods for physicists."
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1109/ICCVW.2011.6130444",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.5555/1496770.1496882",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "unstructured": "William N Bell. 2008. Algebraic multigrid for discrete differential forms. (2008).  William N Bell. 2008. Algebraic multigrid for discrete differential forms. (2008)."
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/2816795.2818108",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "Stephen Boyd and Lieven Vandenberghe. 2004. Convex optimization. Cambridge university press.   Stephen Boyd and Lieven Vandenberghe. 2004. Convex optimization. Cambridge university press.",
+                "DOI": "10.1017/CBO9780511804441",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "William L Briggs Steve F McCormick etal 2000. A multigrid tutorial. Vol. 72. Siam.  William L Briggs Steve F McCormick et al. 2000. A multigrid tutorial. Vol. 72. Siam."
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1109/MSP.2017.2693418",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1109/TCOM.1983.1095851",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/3072959.3073669",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/2766889",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/3197517.3201386",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1137/090775087",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "author": "Cignoni Paolo",
+                "volume-title": "Eurographics Italian"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1016/S0097-8493(97)00082-4",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "unstructured": "Gregory Cohen Saeed Afshar Jonathan Tapson and Andr\u00e9 van Schaik. 2017. EMNIST: an extension of MNIST to handwritten letters. arXiv preprint arXiv:1702.05373 (2017).  Gregory Cohen Saeed Afshar Jonathan Tapson and Andr\u00e9 van Schaik. 2017. EMNIST: an extension of MNIST to handwritten letters. arXiv preprint arXiv:1702.05373 (2017)."
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "unstructured": "David Cohen-Steiner Pierre Alliez and Mathieu Desbrun. 2004. Variational shape approximation. ACM Trans. on Graph. (2004). 10.1145/1015706.1015817   David Cohen-Steiner Pierre Alliez and Mathieu Desbrun. 2004. Variational shape approximation. ACM Trans. on Graph. (2004). 10.1145/1015706.1015817"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/2999535",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "Micha\u00ebl Defferrard Xavier Bresson and Pierre Vandergheynst. 2016. Convolutional neural networks on graphs with fast localized spectral filtering. In Advances in Neural Information Processing Systems. 3844--3852.   Micha\u00ebl Defferrard Xavier Bresson and Pierre Vandergheynst. 2016. Convolutional neural networks on graphs with fast localized spectral filtering. In Advances in Neural Information Processing Systems. 3844--3852."
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/311535.311576",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "Timothy Dozat. 2016. Incorporating nesterov momentum into adam. (2016).  Timothy Dozat. 2016. Incorporating nesterov momentum into adam. (2016)."
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/1185657.1185668",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/258734.258849",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "author": "Garland Michael",
+                "year": "1998",
+                "volume-title": "Proceedings. IEEE, 263--269"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "unstructured": "Daniela Giorgi Silvia Biasotti and Laura Paraboschi. 2007. SHape REtrieval Contest 2007: Watertight Models Track. http://watertight.ge.imati.cnr.it/.  Daniela Giorgi Silvia Biasotti and Laura Paraboschi. 2007. SHape REtrieval Contest 2007: Watertight Models Track. http://watertight.ge.imati.cnr.it/.",
+                "DOI": "10.1109/SMI.2008.4547976",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/513400.513443",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/237170.237216",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "author": "Hoppe Hugues",
+                "year": "1999",
+                "volume-title": "Proceedings. IEEE, 59--510"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/166117.166119",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/3197517.3201353",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "unstructured": "Alec Jacobson Daniele Panozzo etal 2018. libigl: A simple C++ geometry processing library. http://libigl.github.io/libigl/.  Alec Jacobson Daniele Panozzo et al. 2018. libigl: A simple C++ geometry processing library. http://libigl.github.io/libigl/.",
+                "DOI": "10.1145/3134472.3134497",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1109/TVCG.2008.57",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "unstructured": "Karsten Kahl and Matthias Rottmann. 2018. Least Angle Regression Coarsening in Bootstrap Algebraic Multigrid. arXiv preprint arXiv:1802.00595 (2018).  Karsten Kahl and Matthias Rottmann. 2018. Least Angle Regression Coarsening in Bootstrap Algebraic Multigrid. arXiv preprint arXiv:1802.00595 (2018)."
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "unstructured": "Lily Kharevych Patrick Mullen Houman Owhadi and Mathieu Desbrun. 2009. Numerical coarsening of inhomogeneous elastic materials. ACM Trans. on Graph. (2009). 10.1145/1531326.1531357   Lily Kharevych Patrick Mullen Houman Owhadi and Mathieu Desbrun. 2009. Numerical coarsening of inhomogeneous elastic materials. ACM Trans. on Graph. (2009). 10.1145/1531326.1531357",
+                "DOI": "10.1145/1576246.1531357",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/2010324.1964974",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1109/FOCS.2016.68",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1109/5.726791",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1145/2820612",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "unstructured": "Or Litany Tal Remez Emanuele Rodol\u00e0 Alexander M Bronstein and Michael M Bronstein. 2017. Deep Functional Maps: Structured Prediction for Dense Shape Correspondence.. In ICCV. 5660--5668.  Or Litany Tal Remez Emanuele Rodol\u00e0 Alexander M Bronstein and Michael M Bronstein. 2017. Deep Functional Maps: Structured Prediction for Dense Shape Correspondence.. In ICCV. 5660--5668.",
+                "DOI": "10.1109/ICCV.2017.603",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1137/110843563",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "unstructured": "Richard H MacNeal. 1949. The solution of partial differential equations by means of electrical networks. Ph.D. Dissertation. California Institute of Technology.  Richard H MacNeal. 1949. The solution of partial differential equations by means of electrical networks. Ph.D. Dissertation. California Institute of Technology."
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1137/16M1082706",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "author": "Nasikun Ahmad",
+                "volume-title": "Computer Graphics Forum"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1111/cgf.13124",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "DOI": "10.1002/nla.669",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "DOI": "10.1145/2185520.2185526",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "DOI": "10.1145/1882261.1866190",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "DOI": "10.1145/1073204.1073236",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "unstructured": "Ulrich Pinkall and Konrad Polthier. 1993. Computing discrete minimal surfaces and their conjugates. Experimental mathematics 2 1 (1993) 15--36.  Ulrich Pinkall and Konrad Polthier. 1993. Computing discrete minimal surfaces and their conjugates. Experimental mathematics 2 1 (1993) 15--36."
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "DOI": "10.1145/258734.258852",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "unstructured": "Yixuan Qiu. 2018. spectra: C++ Library For Large Scale Eigenvalue Problems.  Yixuan Qiu. 2018. spectra: C++ Library For Large Scale Eigenvalue Problems."
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "unstructured": "https://github.com/yixuan/spectra/.  https://github.com/yixuan/spectra/."
+            },
+            {
+                "key": "e_1_2_2_55_1",
+                "author": "Ruge John W",
+                "volume-title": "Multigrid methods"
+            },
+            {
+                "key": "e_1_2_2_56_1",
+                "DOI": "10.1145/2461912.2461959",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_57_1",
+                "DOI": "10.1109/5.488703",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_58_1",
+                "DOI": "10.1145/142920.134010",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_59_1",
+                "unstructured": "Andrei Sharf Thomas Lewiner Gil Shklarski Sivan Toledo and Daniel Cohen-Or. 2007. Interactive topology-aware surface reconstruction. ACM Trans. on Graph. (2007). 10.1145/1276377.1276431   Andrei Sharf Thomas Lewiner Gil Shklarski Sivan Toledo and Daniel Cohen-Or. 2007. Interactive topology-aware surface reconstruction. ACM Trans. on Graph. (2007). 10.1145/1276377.1276431",
+                "DOI": "10.1145/1275808.1276431",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_60_1",
+                "unstructured": "Anja Struyf Mia Hubert and Peter Rousseeuw. 1997. Clustering in an Object-Oriented Environment. Journal of Statistical Software (1997).  Anja Struyf Mia Hubert and Peter Rousseeuw. 1997. Clustering in an Object-Oriented Environment. Journal of Statistical Software (1997)."
+            },
+            {
+                "key": "e_1_2_2_61_1",
+                "unstructured": "Klaus Stuben. 2000. Algebraic multigrid (AMG): an introduction with applications. Multigrid (2000).  Klaus Stuben. 2000. Algebraic multigrid (AMG): an introduction with applications. Multigrid (2000)."
+            },
+            {
+                "key": "e_1_2_2_62_1",
+                "DOI": "10.1137/15M1011020",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_63_1",
+                "unstructured": "Rasmus Tamstorf Toby Jones and Stephen F McCormick. 2015. Smoothed aggregation multigrid for cloth simulation. ACM Trans. on Graph. (2015). 10.1145/2816795.2818081   Rasmus Tamstorf Toby Jones and Stephen F McCormick. 2015. Smoothed aggregation multigrid for cloth simulation. ACM Trans. on Graph. (2015). 10.1145/2816795.2818081"
+            },
+            {
+                "key": "e_1_2_2_64_1",
+                "unstructured": "Lieven Vandenberghe and Martin S. Andersen. 2015. Chordal Graphs and Semidefinite Optimization. Found. Trends Optim. 1 4 (2015). 10.1561/2400000006   Lieven Vandenberghe and Martin S. Andersen. 2015. Chordal Graphs and Semidefinite Optimization. Found. Trends Optim. 1 4 (2015). 10.1561/2400000006"
+            },
+            {
+                "key": "e_1_2_2_65_1",
+                "unstructured": "Matthias Vestner Zorah L\u00e4hner Amit Boyarski Or Litany Ron Slossberg Tal Remez Emanuele Rodol\u00e0 Alexander M. Bronstein Michael M. Bronstein Ron Kimmel and Daniel Cremers. 2017. Efficient Deformable Shape Correspondence via Kernel Matching. In 3DV.  Matthias Vestner Zorah L\u00e4hner Amit Boyarski Or Litany Ron Slossberg Tal Remez Emanuele Rodol\u00e0 Alexander M. Bronstein Michael M. Bronstein Ron Kimmel and Daniel Cremers. 2017. Efficient Deformable Shape Correspondence via Kernel Matching. In 3DV.",
+                "DOI": "10.1109/3DV.2017.00065",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_66_1",
+                "unstructured": "Han Xiao Kashif Rasul and Roland Vollgraf. 2017. Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning Algorithms. arXiv:cs.LG/cs.LG/1708.07747  Han Xiao Kashif Rasul and Roland Vollgraf. 2017. Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning Algorithms. arXiv:cs.LG/cs.LG/1708.07747"
+            },
+            {
+                "key": "e_1_2_2_67_1",
+                "DOI": "10.1017/S0962492917000083",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_68_1",
+                "DOI": "10.23919/ACC.2017.7963462",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_69_1",
+                "first-page": "3D",
+                "article-title": "Thingi10K",
+                "volume": "10",
+                "author": "Zhou Qingnan",
+                "year": "2016",
+                "journal-title": "A Dataset of"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3322953&ftid=2071738&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2020-07-12T19:23:44Z",
+            "timestamp": 1594581824000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "references-count": 69,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        12
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3306346.3322953"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3306346.3322953",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

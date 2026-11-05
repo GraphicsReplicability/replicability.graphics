@@ -1,0 +1,366 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:11:21Z",
+            "timestamp": 1586002281028
+        },
+        "reference-count": 29,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100003977",
+                "name": "Israel Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "324/11"
+                ]
+            },
+            {
+                "DOI": "10.13039/100000001",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "1138967"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601127",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 39,
+        "title": [
+            "Design and fabrication by example"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Adriana",
+                "family": "Schulz",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Massachusetts Institute of Technology"
+                    }
+                ]
+            },
+            {
+                "given": "Ariel",
+                "family": "Shamir",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "The Interdisciplinary Center Herzliya"
+                    }
+                ]
+            },
+            {
+                "given": "David I. W.",
+                "family": "Levin",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Massachusetts Institute of Technology"
+                    }
+                ]
+            },
+            {
+                "given": "Pitchaya",
+                "family": "Sitthi-amorn",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Massachusetts Institute of Technology"
+                    }
+                ]
+            },
+            {
+                "given": "Wojciech",
+                "family": "Matusik",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Massachusetts Institute of Technology"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/882262.882352",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/2070781.2024157",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/2185520.2185574",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/1882261.1866205",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/2010324.1964930",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "unstructured": "Chen D. Sitthi-amorn P. Lan J. and Matusik W. 2013. Computing and fabricating multiplanar models. Computer Graphics Forum (Proceedings of Eurographics 2013) 32 2.  Chen D. Sitthi-amorn P. Lan J. and Matusik W. 2013. Computing and fabricating multiplanar models. Computer Graphics Forum (Proceedings of Eurographics 2013) 32 2.",
+                "DOI": "10.1111/cgf.12050",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/2508363.2508378",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1016/S0094-114X(98)00037-8",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/1015706.1015775",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/1531326.1531339",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/1360612.1360657",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "unstructured": "Hildebrand K. Bickel B. and Alexa M. 2012. crdbrd: Shape fabrication by sliding planar slices. Computer Graphics Forum (Proceedings of Eurographics 2012) 31 2. 10.1111/j.1467-8659.2012.03037.x   Hildebrand K. Bickel B. and Alexa M. 2012. crdbrd: Shape fabrication by sliding planar slices. Computer Graphics Forum (Proceedings of Eurographics 2012) 31 2. 10.1111/j.1467-8659.2012.03037.x"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "Jain A. Thorm\u00e4hlen T. Ritschel T. and Seidel H.-P. 2012. Exploring shape variations by 3d-model decomposition and part-based recombination. Comp. Graph. Forum (Proc. Eurographics 2012) 31 2. 10.1111/j.1467-8659.2012.03042.x   Jain A. Thorm\u00e4hlen T. Ritschel T. and Seidel H.-P. 2012. Exploring shape variations by 3d-model decomposition and part-based recombination. Comp. Graph. Forum (Proc. Eurographics 2012) 31 2. 10.1111/j.1467-8659.2012.03042.x",
+                "DOI": "10.1111/j.1467-8659.2012.03042.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/2185520.2185551",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/1409060.1409117",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/2461912.2461933",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/1409060.1409064",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/2010324.1964980",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/2070781.2024217",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/1276377.1276433",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/2010324.1964928",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1016/S0010-4485(00)00100-7",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/1935701.1935717",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "Schwartzburg Y. and Pauly M. 2013. Fabrication-aware design with intersecting planar pieces. Computer Graphics Forum (Proceedings of Eurographics 2013) 32 2.  Schwartzburg Y. and Pauly M. 2013. Fabrication-aware design with intersecting planar pieces. Computer Graphics Forum (Proceedings of Eurographics 2013) 32 2.",
+                "DOI": "10.1111/cgf.12051",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/2366145.2366199",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1111/cgf.12044",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/2185520.2185582",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/2010324.1964975",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1111/j.1467-8659.2011.01880.x",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601127&amp;ftid=1488870&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:53:43Z",
+            "timestamp": 1586001223000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 29,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601127"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601127",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

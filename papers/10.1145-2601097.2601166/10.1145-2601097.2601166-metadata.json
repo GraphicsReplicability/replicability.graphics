@@ -1,0 +1,442 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:41:08Z",
+            "timestamp": 1586004068158
+        },
+        "reference-count": 42,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100001711",
+                "name": "Schweizerischer Nationalfonds zur F\u00f6rderung der Wissenschaftlichen Forschung",
+                "doi-asserted-by": "publisher",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601166",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-10",
+        "source": "Crossref",
+        "is-referenced-by-count": 53,
+        "title": [
+            "Designing inflatable structures"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "M\u00e9lina",
+                "family": "Skouras",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "ETH Zurich and Disney Research Zurich"
+                    }
+                ]
+            },
+            {
+                "given": "Bernhard",
+                "family": "Thomaszewski",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Disney Research Zurich"
+                    }
+                ]
+            },
+            {
+                "given": "Peter",
+                "family": "Kaufmann",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Disney Research Zurich"
+                    }
+                ]
+            },
+            {
+                "given": "Akash",
+                "family": "Garg",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Columbia University"
+                    }
+                ]
+            },
+            {
+                "given": "Bernd",
+                "family": "Bickel",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Disney Research Zurich"
+                    }
+                ]
+            },
+            {
+                "given": "Eitan",
+                "family": "Grinspun",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Columbia University"
+                    }
+                ]
+            },
+            {
+                "given": "Markus",
+                "family": "Gross",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "ETH Zurich and Disney Research Zurich"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/2185520.2185543",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1177/1081286507077256",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/1276377.1276397",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/2185520.2185614",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1007/s10107-008-0248-3",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/2366145.2366149",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/2508363.2508400",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/2461912.2461994",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/566654.566624",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "Choi K.-J. and Ko H.-S. 2003. Extending the immediate buckling model to triangular meshes for simulating complex clothes. Eurographics 2003 Short Presentations 187--191.  Choi K.-J. and Ko H.-S. 2003. Extending the immediate buckling model to triangular meshes for simulating complex clothes. Eurographics 2003 Short Presentations 187--191."
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/2461912.2461953",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "unstructured": "Furuta Y. Umetani N. Mitani J. Igarashi T. and Fukui Y. 2010. A film balloon design system integrated with shell element simulation. Eurographics - Short papers 33--36.  Furuta Y. Umetani N. Mitani J. Igarashi T. and Fukui Y. 2010. A film balloon design system integrated with shell element simulation. Eurographics - Short papers 33--36."
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "Hormann K. L\u00e9vy B. and Sheffer A. 2007. Mesh parameterization: Theory and practice. In ACM SIGGRAPH Courses. 10.1145/1281500.1281510   Hormann K. L\u00e9vy B. and Sheffer A. 2007. Mesh parameterization: Theory and practice. In ACM SIGGRAPH Courses . 10.1145/1281500.1281510",
+                "DOI": "10.1145/1281500.1281510",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Hullin M. B. Ihrke I. Heidrich W. Weyrich T. Damberg G. and Fuchs M. 2013. Computational fabrication and display of material appearance. In Eurographics STARs.  Hullin M. B. Ihrke I. Heidrich W. Weyrich T. Damberg G. and Fuchs M. 2013. Computational fabrication and display of material appearance. In Eurographics STARs ."
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1007/978-3-540-85412-8_1",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1111/j.1467-8659.2005.00883.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/1360612.1360674",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/2010324.1964980",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1109/PG.2007.46",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/1015706.1015711",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/1276377.1276433",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/2366145.2366171",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/311535.311550",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1111/j.1467-8659.2009.01388.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "unstructured": "Pipkin A. C. 1986. The relaxed energy density for isotropic elastic membranes. IMA Journal of Applied Mathematics 36.  Pipkin A. C. 1986. The relaxed energy density for isotropic elastic membranes. IMA Journal of Applied Mathematics 36 .",
+                "DOI": "10.1093/imamat/36.1.85",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/1882261.1866183",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1007/s00371-006-0067-6",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/1061347.1061354",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.5555/645908.673287",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1111/j.1467-8659.2012.03064.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/2461912.2461979",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1111/j.1467-8659.2012.03162.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1098/rspa.1990.0055",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/1073368.1073394",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "first-page": "13",
+                "article-title": "How to draw a graph",
+                "volume": "3",
+                "author": "Tutte W. T.",
+                "year": "1963",
+                "journal-title": "Proc. London Math. Soc."
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1145/2010324.1964985",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/2185520.2185582",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1016/j.cad.2009.02.018",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1109/TVCG.2007.1067",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1145/1778765.1778786",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1145/1360612.1360646",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1145/2366145.2366146",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601166&amp;ftid=1488871&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:59:53Z",
+            "timestamp": 1586001593000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 42,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601166"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601166",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

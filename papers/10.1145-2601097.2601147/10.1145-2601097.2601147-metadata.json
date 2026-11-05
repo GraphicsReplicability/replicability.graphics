@@ -1,0 +1,433 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:11:21Z",
+            "timestamp": 1586002281368
+        },
+        "reference-count": 41,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100000038",
+                "name": "Natural Sciences and Engineering Research Council of Canada",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/501100001659",
+                "name": "Deutsche Forschungsgemeinschaft",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "IH 114/1-1"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100000161",
+                "name": "Networks of Centres of Excellence of Canada",
+                "doi-asserted-by": "publisher",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601147",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 32,
+        "title": [
+            "From capture to simulation"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "James",
+                "family": "Gregson",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of British Columbia"
+                    }
+                ]
+            },
+            {
+                "given": "Ivo",
+                "family": "Ihrke",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "INRIA Bordeaux/LP2N"
+                    }
+                ]
+            },
+            {
+                "given": "Nils",
+                "family": "Thuerey",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "TU M\u00fcnchen"
+                    }
+                ]
+            },
+            {
+                "given": "Wolfgang",
+                "family": "Heidrich",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of British Columbia and King Abdullah University of Science and Technology"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/2185520.2185558",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/2461912.2461982",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/1409060.1409085",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "Barbu I. Herzet C. and M\u00e9min E. 2013. Joint Estimation of Volume and Velocity in TomoPIV. In International Symposium on Particle Image Velocimetry.  Barbu I. Herzet C. and M\u00e9min E. 2013. Joint Estimation of Volume and Velocity in TomoPIV. In International Symposium on Particle Image Velocimetry ."
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/1276377.1276502",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "unstructured": "Bridson R. 2008. Fluid Simulation for Computer Graphics. AK Peters/CRC Press.   Bridson R. 2008. Fluid Simulation for Computer Graphics . AK Peters/CRC Press."
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1007/s00348-006-0212-z",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1006/gmip.1996.0039",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/2185520.2185548",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "first-page": "555",
+                "article-title": "Compressive Structured Light for Recovering Inhomogeneous Participating Media",
+                "volume": "35",
+                "author": "Gu J.",
+                "year": "2013",
+                "journal-title": "IEEE Pattern Analysis and Machine Intelligence"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1063/1.1761178",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1109/TPAMI.2007.1056",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/1073204.1073266",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1016/0004-3702(81)90024-2",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/1028523.1028572",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1007/s11263-012-0595-7",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.5555/2381356.2381364",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/1360612.1360649",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1109/TVCG.2012.302",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1017/S0022112008003273",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/1015706.1015744",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.5201/ipol.2013.20",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "author": "M\u00fcller M.",
+                "volume-title": "Proceedings of the ACM SIGGRAPH/Eurographics Symposium on Computer Animation, 154--159"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/1409060.1409119",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/1599470.1599499",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "unstructured": "Panigrahi P. K. and Muralidhar K. 2012. Schlieren and Shadowgraph Methods in Heat and Mass Transfer. Springer.  Panigrahi P. K. and Muralidhar K. 2012. Schlieren and Shadowgraph Methods in Heat and Mass Transfer . Springer.",
+                "DOI": "10.1007/978-1-4614-4535-7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "first-page": "123",
+                "article-title": "Proximal Algorithms",
+                "volume": "1",
+                "author": "Parikh N.",
+                "year": "2013",
+                "journal-title": "Foundations and Trends in Optimization"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "unstructured": "Pfaff T. and Thuerey N. 2013. MantaFlow. http://mantaflow.ethz.ch.  Pfaff T. and Thuerey N. 2013. MantaFlow. http://mantaflow.ethz.ch."
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "Settles G. S. 2001. Schlieren and Shadowgraph Techniques. Experimental Fluid Mechanics. Springer.  Settles G. S. 2001. Schlieren and Shadowgraph Techniques . Experimental Fluid Mechanics. Springer.",
+                "DOI": "10.1007/978-3-642-56640-0",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/1073368.1073401",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/311535.311548",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/2461912.2461948",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "first-page": "1869",
+                "article-title": "Scalar Imaging Velocimetry Measurements of the Velocity Gradient Tensor Field in Turbulent Flows",
+                "volume": "8",
+                "author": "Su L. K.",
+                "year": "1996",
+                "journal-title": "I. Assessment of Errors. Physics of Fluids"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1007/s11263-013-0644-x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "author": "Thuerey N.",
+                "volume-title": "Proceedings of the ACM SIGGRAPH/Eurographics symposium on Computer animation, 7--12"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "unstructured": "Tropea C. Yarin A. L. and Foss J. F. 2006. Handbook of Experimental Fluid Mechanics. Springer.  Tropea C. Yarin A. L. and Foss J. F. 2006. Handbook of Experimental Fluid Mechanics . Springer.",
+                "DOI": "10.1007/978-3-540-30299-5",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1007/s00348-004-0779-1",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "author": "Vlasenko A.",
+                "volume": "106",
+                "volume-title": "Imaging Measurement Methods for Flow Analysis"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/1531326.1531396",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1007/s10851-007-0014-9",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1145/1073204.1073298",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601147&amp;ftid=1488948&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:56:33Z",
+            "timestamp": 1586001393000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "connecting forward and inverse problems in fluids"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 41,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601147"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601147",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

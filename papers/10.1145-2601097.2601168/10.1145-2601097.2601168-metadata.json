@@ -1,0 +1,483 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:41:08Z",
+            "timestamp": 1586004068240
+        },
+        "reference-count": 39,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100001809",
+                "name": "National Natural Science Foundation of China",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "61202147, 61025012, 61332015, U1035004"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100003977",
+                "name": "Israel Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/501100004963",
+                "name": "Seventh Framework Programme",
+                "doi-asserted-by": "publisher",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601168",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-10",
+        "source": "Crossref",
+        "is-referenced-by-count": 110,
+        "title": [
+            "Build-to-last"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Lin",
+                "family": "Lu",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Shandong University"
+                    }
+                ]
+            },
+            {
+                "given": "Andrei",
+                "family": "Sharf",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Ben-Gurion University"
+                    }
+                ]
+            },
+            {
+                "given": "Haisen",
+                "family": "Zhao",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shandong University"
+                    }
+                ]
+            },
+            {
+                "given": "Yuan",
+                "family": "Wei",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shandong University"
+                    }
+                ]
+            },
+            {
+                "given": "Qingnan",
+                "family": "Fan",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shandong University"
+                    }
+                ]
+            },
+            {
+                "given": "Xuelin",
+                "family": "Chen",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shandong University"
+                    }
+                ]
+            },
+            {
+                "given": "Yann",
+                "family": "Savoye",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Ben-Gurion University"
+                    }
+                ]
+            },
+            {
+                "given": "Changhe",
+                "family": "Tu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shandong University"
+                    }
+                ]
+            },
+            {
+                "given": "Daniel",
+                "family": "Cohen-Or",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Tel Aviv University"
+                    }
+                ]
+            },
+            {
+                "given": "Baoquan",
+                "family": "Chen",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shandong University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/2185520.2185543",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/1778765.1778800",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/2185520.2185614",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "Bronstein A. Bronstein M. and Kimmel R. 2008. Numerical Geometry of Non-Rigid Shapes 1 ed. Springer Publishing Company Incorporated.   Bronstein A. Bronstein M. and Kimmel R. 2008. Numerical Geometry of Non-Rigid Shapes 1 ed. Springer Publishing Company Incorporated.",
+                "DOI": "10.1007/978-0-387-73301-2_1",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/2366145.2366149",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/2508363.2508400",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/2461912.2461994",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/2461912.2461953",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "Crapo H. and Whiteley W. 1993. The geometry of rigid structures. Encyclopedia of Math. Cambridge University Press.  Crapo H. and Whiteley W. 1993. The geometry of rigid structures. Encyclopedia of Math. Cambridge University Press ."
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "first-page": "26",
+                "article-title": "Structural rigidity",
+                "volume": "1",
+                "author": "Crapo H.",
+                "year": "1979",
+                "journal-title": "Structural Topology"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1137/S0036144599352836",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1016/0045-7825(86)90072-1",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1038/nmat1421",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1016/j.cad.2013.07.003",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "first-page": "180",
+                "article-title": "Lightweight structural core",
+                "volume": "21",
+                "author": "Kindinger J.",
+                "year": "2001",
+                "journal-title": "ASM Handbook"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1016/j.cad.2010.06.006",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/1236246.1236263",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/2508363.2508407",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1109/TIT.1982.1056489",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "Patzak B. and Rypl D. 2012. Object-oriented parallel finite element framework with dynamic load balancing. Adv. Eng. Softw. 35--50. 10.1016/j.advengsoft.2011.12.008   Patzak B. and Rypl D. 2012. Object-oriented parallel finite element framework with dynamic load balancing. Adv. Eng. Softw . 35--50. 10.1016/j.advengsoft.2011.12.008",
+                "DOI": "10.1016/j.advengsoft.2011.12.008",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1016/j.cag.2012.04.003",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/2461912.2461957",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/2185520.2185584",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "author": "Rosenberg I.",
+                "series-title": "Annals of Discrete Mathematics",
+                "volume-title": "Combinatorics 79 Part I"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1016/j.cad.2004.03.008",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "unstructured": "Si H. 2007. Tetgen. a quality tetrahedral mesh generator.  Si H. 2007. Tetgen. a quality tetrahedral mesh generator."
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1111/j.1467-8659.2012.03064.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/2461912.2461979",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/2185520.2185544",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "author": "Telea A.",
+                "volume-title": "Proceedings of the 10th international conference on Mathematical morphology and its applications to image and signal processing, Springer-Verlag, ISMM'11, 393--404"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/2542355.2542361",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/2461912.2461993",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "first-page": "134",
+                "article-title": "Nouvelles applications des param\u00e8tres continus \u00e0 la th\u00e9orie des formes quadratiques. deuxi\u00e8me m\u00e9moire. recherches sur les p arall\u00e9llo\u00e8dres primitifs",
+                "volume": "1908",
+                "author": "Voronoi G.",
+                "year": "1908",
+                "journal-title": "Journal f\u00fcr die reine und angewandte Mathematik (Crelles Journal)"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/2508363.2508382",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1111/j.1467-8659.2007.01058.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1016/0261-3069(90)90016-D",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1016/j.cad.2011.09.004",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1145/2461912.2461967",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/2366145.2366146",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601168&amp;ftid=1488905&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:00:27Z",
+            "timestamp": 1586001627000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "strength to weight 3D printed objects"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 39,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601168"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601168",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

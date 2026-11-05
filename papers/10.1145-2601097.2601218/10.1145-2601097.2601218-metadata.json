@@ -1,0 +1,394 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:41:07Z",
+            "timestamp": 1586004067990
+        },
+        "reference-count": 36,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601218",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 23,
+        "title": [
+            "Online motion synthesis using sequential Monte Carlo"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Perttu",
+                "family": "H\u00e4m\u00e4l\u00e4inen",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Aalto University"
+                    }
+                ]
+            },
+            {
+                "given": "Sebastian",
+                "family": "Eriksson",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Aalto University"
+                    }
+                ]
+            },
+            {
+                "given": "Esa",
+                "family": "Tanskanen",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Aalto University"
+                    }
+                ]
+            },
+            {
+                "given": "Ville",
+                "family": "Kyrki",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Aalto University"
+                    }
+                ]
+            },
+            {
+                "given": "Jaakko",
+                "family": "Lehtinen",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Aalto University and NVIDIA"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1109/TVCG.2012.325",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1109/78.978374",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/133994.134083",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1111/j.1467-8659.2008.01134.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/1576246.1531388",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1016/j.jspi.2010.11.025",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "first-page": "126",
+                "article-title": "Articulated body motion capture by annealed particle filtering. In IEEE Conference on Computer Vision and Pattern Recognition, 2000",
+                "volume": "2",
+                "author": "Deutscher J.",
+                "year": "2000",
+                "journal-title": "Proceedings"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "first-page": "656",
+                "article-title": "A tutorial on particle filtering and smoothing: Fifteen years later",
+                "volume": "12",
+                "author": "Doucet A.",
+                "year": "2009",
+                "journal-title": "Handbook of Nonlinear Filtering"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "author": "Erez T.",
+                "volume-title": "Proc. IEEE/RAS International Conference on Humanoid Robots (HUMANOIDS), HUMANOIDS."
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/882262.882286",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "Geijtenbeek T. Pronost N. Egges A. and Overmars M. H. 2011. Interactive character animation using simulated physics. Eurographics-State of the Art Reports 2.  Geijtenbeek T. Pronost N. Egges A. and Overmars M. H. 2011. Interactive character animation using simulated physics. Eurographics-State of the Art Reports 2 ."
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/2508363.2508399",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/1230100.1230123",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "author": "H\u00e4m\u00e4l\u00e4inen P.",
+                "year": "2006",
+                "volume-title": "Proc. SCAI"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "first-page": "1",
+                "article-title": "Efficient multiscale sampling from products of gaussian mixtures",
+                "volume": "16",
+                "author": "Ihler A. T.",
+                "year": "2003",
+                "journal-title": "Advances in Neural Information Processing Systems"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/1477926.1477936",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/15922.15902",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "unstructured": "Kantas N. Maciejowski J. M. and Lecchini-Visintini A. 2009. Sequential monte carlo for model predictive control. In Nonlinear Model Predictive Control L. Magni D. M. Raimondo and F. Allg\u00f6wer Eds. no. 384 in Lecture Notes in Control and Information Sciences. Springer Berlin Heidelberg Jan. 263--273.  Kantas N. Maciejowski J. M. and Lecchini-Visintini A. 2009. Sequential monte carlo for model predictive control. In Nonlinear Model Predictive Control L. Magni D. M. Raimondo and F. Allg\u00f6wer Eds. no. 384 in Lecture Notes in Control and Information Sciences. Springer Berlin Heidelberg Jan. 263--273.",
+                "DOI": "10.1007/978-3-642-01094-1_21",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/37401.37407",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/1778765.1778865",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/2185520.2185539",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/1531326.1531387",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "author": "Muja M.",
+                "volume-title": "Proc. VISAPP (1), 331--340"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/166117.166160",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1111/j.1467-8659.2009.01591.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1109/4235.996015",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "author": "Rudoy D.",
+                "volume-title": "Proc. Fortieth Asilomar Conference on Signals, Systems and Computers, 2006. ACSSC '06"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/1015706.1015754",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1109/FGR.2006.69",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/192161.192167",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1016/j.sysconle.2011.05.001",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "author": "Tassa Y.",
+                "volume-title": "Proc. 2012 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), IEEE, IROS'12, 4906--4913"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "author": "Thrun S.",
+                "volume-title": "Proc. AAAI/IAAI, 859--865"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1111/j.1467-8659.2010.01822.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1145/1531326.1531366",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1145/54852.378507",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601218&amp;ftid=1488859&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:59:12Z",
+            "timestamp": 1586001552000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 36,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601218"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601218",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

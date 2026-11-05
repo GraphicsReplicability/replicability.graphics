@@ -1,0 +1,503 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T02:11:26Z",
+            "timestamp": 1585966286686
+        },
+        "reference-count": 62,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100000038",
+                "name": "Natural Sciences and Engineering Research Council of Canada",
+                "doi-asserted-by": "crossref",
+                "award": [
+                    "RGPIN-2015-04843"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925881",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 47,
+        "title": [
+            "Terrain-adaptive locomotion skills using deep reinforcement learning"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Xue Bin",
+                "family": "Peng",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of British Columbia"
+                    }
+                ]
+            },
+            {
+                "given": "Glen",
+                "family": "Berseth",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of British Columbia"
+                    }
+                ]
+            },
+            {
+                "given": "Michiel",
+                "family": "van de Panne",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of British Columbia"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "Assael J.-A. M. Wahlstr\u00f6m N. Sch\u00f6n T. B. and Deisenroth M. P. 2015. Data-efficient learning of feedback policies from image pixels using deep dynamical models. arXiv preprint arXiv:1510.02173.  Assael J.-A. M. Wahlstr\u00f6m N. Sch\u00f6n T. B. and Deisenroth M. P. 2015. Data-efficient learning of feedback policies from image pixels using deep dynamical models. arXiv preprint arXiv:1510.02173.",
+                "DOI": "10.1016/j.ifacol.2015.12.271",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "Bullet 2015. Bullet physics library Dec. http://bulletphysics.org.  Bullet 2015. Bullet physics library Dec. http://bulletphysics.org."
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1016/j.robot.2012.09.012",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/1409060.1409066",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "Coros S. Beaudoin P. and van de Panne M. 2009. Robust task-based control policies for physics-based characters. ACM Transctions on Graphics 28 5 Article 170. 10.1145/1618452.1618516   Coros S. Beaudoin P. and van de Panne M. 2009. Robust task-based control policies for physics-based characters. ACM Transctions on Graphics 28 5 Article 170. 10.1145/1618452.1618516",
+                "DOI": "10.1145/1618452.1618516",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "unstructured": "Coros S. Beaudoin P. and van de Panne M. 2010. Generalized biped walking control. ACM Transctions on Graphics 29 4 Article 130. 10.1145/1778765.1781156   Coros S. Beaudoin P. and van de Panne M. 2010. Generalized biped walking control. ACM Transctions on Graphics 29 4 Article 130. 10.1145/1778765.1781156",
+                "DOI": "10.1145/1833349.1781156",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/2010324.1964954",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/1360612.1360681",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/1531326.1531388",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "Doya K. Samejima K. Katagiri K.-i. and Kawato M. 2002. Multiple model-based reinforcement learning. Neural computation 14 6 1347--1369. 10.1162/089976602753712972   Doya K. Samejima K. Katagiri K.-i. and Kawato M. 2002. Multiple model-based reinforcement learning. Neural computation 14 6 1347--1369. 10.1162/089976602753712972",
+                "DOI": "10.1162/089976602753712972",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/383259.383287",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "unstructured": "Featherstone R. 2014. Rigid body dynamics algorithms. Springer.   Featherstone R. 2014. Rigid body dynamics algorithms . Springer."
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1111/j.1467-8659.2012.03189.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/280814.280816",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "unstructured": "Hansen N. 2006. The cma evolution strategy: A comparing review. In Towards a New Evolutionary Computation 75--102.  Hansen N. 2006. The cma evolution strategy: A comparing review. In Towards a New Evolutionary Computation 75--102.",
+                "DOI": "10.1007/11007937_4",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "Haruno M. Wolpert D. H. and Kawato M. 2001. Mosaic model for sensorimotor learning and control. Neural computation 13 10 2201--2220. 10.1162/089976601750541778   Haruno M. Wolpert D. H. and Kawato M. 2001. Mosaic model for sensorimotor learning and control. Neural computation 13 10 2201--2220. 10.1162/089976601750541778",
+                "DOI": "10.1162/089976601750541778",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "Hausknecht M. and Stone P. 2015. Deep reinforcement learning in parameterized action space. arXiv preprint arXiv:1511.04143.  Hausknecht M. and Stone P. 2015. Deep reinforcement learning in parameterized action space. arXiv preprint arXiv:1511.04143."
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "unstructured": "Heess N. Wayne G. Silver D. Lillicrap T. Erez T. and Tassa Y. 2015. Learning continuous control policies by stochastic value gradients. In Advances in Neural Information Processing Systems 2926--2934.   Heess N. Wayne G. Silver D. Lillicrap T. Erez T. and Tassa Y. 2015. Learning continuous control policies by stochastic value gradients. In Advances in Neural Information Processing Systems 2926--2934."
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1007/s10994-012-5322-7",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/218380.218414",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "Jacobs R. A. Jordan M. I. Nowlan S. J. and Hinton G. E. 1991. Adaptive mixtures of local experts. Neural computation 3 1 79--87. 10.1162/neco.1991.3.1.79   Jacobs R. A. Jordan M. I. Nowlan S. J. and Hinton G. E. 1991. Adaptive mixtures of local experts. Neural computation 3 1 79--87. 10.1162/neco.1991.3.1.79",
+                "DOI": "10.1162/neco.1991.3.1.79",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/2647868.2654889",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/237170.237231",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1016/j.gmod.2005.03.004",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "unstructured": "Lee Y. Lee S. J. and Popovi\u0107 Z. 2009. Compact character controllers. ACM Transctions on Graphics 28 5 Article 169. 10.1145/1618452.1618515   Lee Y. Lee S. J. and Popovi\u0107 Z. 2009. Compact character controllers. ACM Transctions on Graphics 28 5 Article 169. 10.1145/1618452.1618515",
+                "DOI": "10.1145/1618452.1618515",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "unstructured": "Lee Y. Wampler K. Bernstein G. Popovi\u0107 J. and Popovi\u0107 Z. 2010. Motion fields for interactive character locomotion. ACM Transctions on Graphics 29 6 Article 138. 10.1145/1882261.1866160   Lee Y. Wampler K. Bernstein G. Popovi\u0107 J. and Popovi\u0107 Z. 2010. Motion fields for interactive character locomotion. ACM Transctions on Graphics 29 6 Article 138. 10.1145/1882261.1866160",
+                "DOI": "10.1145/1882262.1866160",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "unstructured": "Lee Y. Kim S. and Lee J. 2010. Data-driven biped control. ACM Transctions on Graphics 29 4 Article 129. 10.1145/1778765.1781155   Lee Y. Kim S. and Lee J. 2010. Data-driven biped control. ACM Transctions on Graphics 29 4 Article 129. 10.1145/1778765.1781155",
+                "DOI": "10.1145/1833349.1781155",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "unstructured": "Levine S. and Abbeel P. 2014. Learning neural network policies with guided policy search under unknown dynamics. In Advances in Neural Information Processing Systems 27. 1071--1079.   Levine S. and Abbeel P. 2014. Learning neural network policies with guided policy search under unknown dynamics. In Advances in Neural Information Processing Systems 27 . 1071--1079."
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "author": "Levine S.",
+                "volume-title": "Proceedings of the 31st International Conference on Machine Learning (ICML-14)"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/2185520.2185524",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "unstructured": "Levine S. Finn C. Darrell T. and Abbeel P. 2015. End-to-end training of deep visuomotor policies. arXiv preprint arXiv:1504.00702.   Levine S. Finn C. Darrell T. and Abbeel P. 2015. End-to-end training of deep visuomotor policies. arXiv preprint arXiv:1504.00702."
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "unstructured": "Lillicrap T. P. Hunt J. J. Pritzel A. Heess N. Erez T. Tassa Y. Silver D. and Wierstra D. 2015. Continuous control with deep reinforcement learning. arXiv preprint arXiv:1509.02971.  Lillicrap T. P. Hunt J. J. Pritzel A. Heess N. Erez T. Tassa Y. Silver D. and Wierstra D. 2015. Continuous control with deep reinforcement learning. arXiv preprint arXiv:1509.02971."
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/2366145.2366173",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "unstructured": "Mnih V. Kavukcuoglu K. Silver D. Rusu A. A. Veness J. Bellemare M. G. Graves A. Riedmiller M. Fidjeland A. K. Ostrovski G. etal 2015. Human-level control through deep reinforcement learning. Nature 518 7540 529--533.  Mnih V. Kavukcuoglu K. Silver D. Rusu A. A. Veness J. Bellemare M. G. Graves A. Riedmiller M. Fidjeland A. K. Ostrovski G. et al. 2015. Human-level control through deep reinforcement learning. Nature 518 7540 529--533.",
+                "DOI": "10.1038/nature14236",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "author": "Mordatch I.",
+                "year": "2014",
+                "volume-title": "Robotics: Science and Systems (RSS)."
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1145/1778765.1778808",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "unstructured": "Mordatch I. Lowrey K. Andrew G. Popovic Z. and Todorov E. V. 2015. Interactive control of diverse complex characters with neural networks. In Advances in Neural Information Processing Systems 3114--3122.   Mordatch I. Lowrey K. Andrew G. Popovic Z. and Todorov E. V. 2015. Interactive control of diverse complex characters with neural networks. In Advances in Neural Information Processing Systems 3114--3122."
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1145/1531326.1531387",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/1966394.1966395",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "unstructured": "Nair A. Srinivasan P. Blackwell S. Alcicek C. Fearon R. De Maria A. Panneershelvam V. Suley-man M. Beattie C. Petersen S. et al. 2015. Massively parallel methods for deep reinforcement learning. arXiv preprint arXiv:1507.04296.  Nair A. Srinivasan P. Blackwell S. Alcicek C. Fearon R. De Maria A. Panneershelvam V. Suley-man M. Beattie C. Petersen S. et al. 2015. Massively parallel methods for deep reinforcement learning. arXiv preprint arXiv:1507.04296 ."
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "author": "Parisotto E.",
+                "year": "2015",
+                "volume-title": "Actor-mimic: Deep multitask and transfer reinforcement learning. arXiv preprint arXiv:1511.06342."
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "author": "Pastor P.",
+                "volume-title": "Humanoid Robots (Humanoids), 2012 12th IEEE-RAS International Conference on, IEEE, 309--315"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1145/2766910",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "unstructured": "Rusu A. A. Colmenarejo S. G. Gulcehre C. Desjardins G. Kirkpatrick J. Pascanu R. Mnih V. Kavukcuoglu K. and Hadsell R. 2015. Policy distillation. arXiv preprint arXiv:1511.06295.  Rusu A. A. Colmenarejo S. G. Gulcehre C. Desjardins G. Kirkpatrick J. Pascanu R. Mnih V. Kavukcuoglu K. and Hadsell R. 2015. Policy distillation. arXiv preprint arXiv:1511.06295."
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "unstructured": "Schaul T. Quan J. Antonoglou I. and Silver D. 2015. Prioritized experience replay. arXiv preprint arXiv:1511.05952.  Schaul T. Quan J. Antonoglou I. and Silver D. 2015. Prioritized experience replay. arXiv preprint arXiv:1511.05952."
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "unstructured": "Schulman J. Levine S. Moritz P. Jordan M. I. and Abbeel P. 2015. Trust region policy optimization. CoRR abs/1502.05477.  Schulman J. Levine S. Moritz P. Jordan M. I. and Abbeel P. 2015. Trust region policy optimization. CoRR abs/1502.05477."
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "unstructured": "Silver D. Lever G. Heess N. Degris T. Wierstra D. and Riedmiller M. 2014. Deterministic policy gradient algorithms. In ICML.  Silver D. Lever G. Heess N. Degris T. Wierstra D. and Riedmiller M. 2014. Deterministic policy gradient algorithms. In ICML."
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "DOI": "10.1145/1276377.1276511",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "unstructured": "Stadie B. C. Levine S. and Abbeel P. 2015. Incentiviz-ing exploration in reinforcement learning with deep predictive models. arXiv preprint arXiv:1507.00814.  Stadie B. C. Levine S. and Abbeel P. 2015. Incentiviz-ing exploration in reinforcement learning with deep predictive models. arXiv preprint arXiv:1507.00814."
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "DOI": "10.1109/MCG.2011.30",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "DOI": "10.1145/2601097.2601121",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "DOI": "10.1145/1276377.1276386",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "author": "Uchibe E.",
+                "volume-title": "Proc. of International Conference on Simulation of Adaptive Behavior: From Animals and Animats, 287--296"
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "first-page": "2579",
+                "article-title": "Visualizing high-dimensional data using t-sne",
+                "volume": "9",
+                "author": "van der Maaten L.",
+                "year": "2008",
+                "journal-title": "Journal of Machine Learning Research"
+            },
+            {
+                "key": "e_1_2_2_55_1",
+                "author": "Van Hasselt H.",
+                "volume-title": "Approximate Dynamic Programming and Reinforcement Learning, 2007. ADPRL 2007. IEEE International Symposium on, IEEE, 272--279"
+            },
+            {
+                "key": "e_1_2_2_56_1",
+                "unstructured": "Van Hasselt H. Guez A. and Silver D. 2015. Deep reinforcement learning with double q-learning. arXiv preprint arXiv:1509.06461.  Van Hasselt H. Guez A. and Silver D. 2015. Deep reinforcement learning with double q-learning. arXiv preprint arXiv:1509.06461."
+            },
+            {
+                "key": "e_1_2_2_57_1",
+                "author": "Van Hasselt H.",
+                "volume-title": "Reinforcement Learning"
+            },
+            {
+                "key": "e_1_2_2_58_1",
+                "unstructured": "Wang J. M. Fleet D. J. and Hertzmann A. 2009. Optimizing walking controllers. ACM Transctions on Graphics 28 5 Article 168. 10.1145/1618452.1618514   Wang J. M. Fleet D. J. and Hertzmann A. 2009. Optimizing walking controllers. ACM Transctions on Graphics 28 5 Article 168. 10.1145/1618452.1618514"
+            },
+            {
+                "key": "e_1_2_2_59_1",
+                "DOI": "10.1109/TSMCB.2008.920231",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_60_1",
+                "DOI": "10.1145/1778765.1778811",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_61_1",
+                "DOI": "10.1145/1276377.1276509",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_62_1",
+                "unstructured": "Yin K. Coros S. Beaudoin P. and van de Panne M. 2008. Continuation methods for adapting simulated skills. ACM Transctions on Graphics 27 3 Article 81. 10.1145/1360612.1360680   Yin K. Coros S. Beaudoin P. and van de Panne M. 2008. Continuation methods for adapting simulated skills. ACM Transctions on Graphics 27 3 Article 81. 10.1145/1360612.1360680",
+                "DOI": "10.1145/1360612.1360680",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925881&amp;ftid=1755860&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:44:22Z",
+            "timestamp": 1585964662000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 62,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925881"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925881",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

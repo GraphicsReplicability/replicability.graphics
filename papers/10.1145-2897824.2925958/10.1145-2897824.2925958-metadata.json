@@ -1,0 +1,416 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T02:11:27Z",
+            "timestamp": 1585966287305
+        },
+        "reference-count": 33,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925958",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-10",
+        "source": "Crossref",
+        "is-referenced-by-count": 19,
+        "title": [
+            "Connected fermat spirals for layered fabrication"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Haisen",
+                "family": "Zhao",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Shandong University"
+                    }
+                ]
+            },
+            {
+                "given": "Fanglin",
+                "family": "Gu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shandong University"
+                    }
+                ]
+            },
+            {
+                "given": "Qi-Xing",
+                "family": "Huang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "TTI Chicago"
+                    }
+                ]
+            },
+            {
+                "given": "Jorge",
+                "family": "Garcia",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Purdue University"
+                    }
+                ]
+            },
+            {
+                "given": "Yong",
+                "family": "Chen",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "USC"
+                    }
+                ]
+            },
+            {
+                "given": "Changhe",
+                "family": "Tu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shandong University"
+                    }
+                ]
+            },
+            {
+                "given": "Bedrich",
+                "family": "Benes",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Purdue University"
+                    }
+                ]
+            },
+            {
+                "given": "Hao",
+                "family": "Zhang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Simon Fraser University"
+                    }
+                ]
+            },
+            {
+                "given": "Daniel",
+                "family": "Cohen-Or",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Tel-Aviv University"
+                    }
+                ]
+            },
+            {
+                "given": "Baoquan",
+                "family": "Chen",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Shandong University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1016/S0925-7721(00)00015-8",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/2816795.2818087",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1111/1467-8659.00413",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1007/s00170-014-5808-5",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/2776880.2792702",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1016/S0278-6125(04)80040-2",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "unstructured": "El-Midany T. T. Elkeran A. and Tawfik H. 1993. Tool path pattern comparison: contour-parallel with direction-parallel. In Geom. model. and imaging --- new trends 77--82. 10.1109/GMAI.2006.45   El-Midany T. T. Elkeran A. and Tawfik H. 1993. Tool path pattern comparison: contour-parallel with direction-parallel. In Geom. model. and imaging --- new trends 77--82. 10.1109/GMAI.2006.45"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "Gibson I. Rosen D. and Stucker B. 2015. Additive Manufacturing Technologies 2nd ed. Springer.  Gibson I. Rosen D. and Stucker B. 2015. Additive Manufacturing Technologies 2nd ed. Springer.",
+                "DOI": "10.1007/978-1-4939-2113-3",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1080/16864360.2014.863508",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1016/j.cag.2013.05.011",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/2661229.2661244",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1016/j.rcim.2012.07.001",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1016/j.addma.2014.08.004",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Johnson A. 2015. Clipper - an open source freeware library for clipping and offsetting lines and polygons. http://www.angusj.com/delphi/clipper.php.  Johnson A. 2015. Clipper - an open source freeware library for clipping and offsetting lines and polygons. http://www.angusj.com/delphi/clipper.php."
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1108/13552540010309859",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/2601097.2601168",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/2366145.2366148",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/1124728.1124742",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1016/j.cagd.2008.01.002",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/2461912.2461957",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1007/s00170-008-1385-9",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "unstructured": "Slic3r 2016. Slic3r. http://slic3r.org/.  Slic3r 2016. Slic3r. http://slic3r.org/."
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/2185520.2185544",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1111/cgf.12353",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1111/cgf.12437",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1007/s00170-012-3924-7",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1007/s00170-009-2383-2",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "first-page": "95",
+                "article-title": "Implementation and evaluation of novel buildstyles in fused deposition modeling",
+                "volume": "5",
+                "author": "Wasser T.",
+                "year": "1999",
+                "journal-title": "Strain"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "Wikipedia 2015. Fermat's spiral --- wikipedia the free encyclopedia. {Online; accessed 28-November-2015}.  Wikipedia 2015. Fermat's spiral --- wikipedia the free encyclopedia. {Online; accessed 28-November-2015}."
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "unstructured": "Wikipedia 2016. Labyrinth --- wikipedia the free encyclopedia. {Online; accessed 10-April-2016}.  Wikipedia 2016. Labyrinth --- wikipedia the free encyclopedia. {Online; accessed 10-April-2016}."
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1108/13552540210413284",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/2816795.2818064",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/2816795.2818121",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925958&amp;ftid=1755885&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:28:29Z",
+            "timestamp": 1585963709000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 33,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925958"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925958",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

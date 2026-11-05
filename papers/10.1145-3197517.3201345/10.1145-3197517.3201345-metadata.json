@@ -1,0 +1,422 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:29Z",
+            "timestamp": 1585962689452
+        },
+        "reference-count": 46,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201345",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 5,
+        "title": [
+            "An extended partitioned method for conservative solid-fluid coupling"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Muzaffer",
+                "family": "Akbay",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of California"
+                    }
+                ]
+            },
+            {
+                "given": "Nicholas",
+                "family": "Nobles",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of California"
+                    }
+                ]
+            },
+            {
+                "given": "Victor",
+                "family": "Zordan",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Clemson University"
+                    }
+                ]
+            },
+            {
+                "given": "Tamar",
+                "family": "Shinar",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of California"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1002/cav.1499",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/2185520.2185558",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1016/j.jcp.2014.03.006",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/1531326.1531359",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/1276377.1276502",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1109/TVCG.2008.107",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "unstructured": "Jan Bender. 2017. SPlisHSPlasH Library. (2017). https://github.com/InteractiveComputerGraphics  Jan Bender. 2017. SPlisHSPlasH Library. (2017). https://github.com/InteractiveComputerGraphics"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1109/TVCG.2016.2578335",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/1015706.1015733",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "Paola Causin Jean-Fr\u00e9d\u00e9ric Gerbeau and Fabio Nobile. 2005. Added-mass effect in the design of partitioned algorithms for fluid-structure problems. Computer methods in applied mechanics and engineering 194 42 (2005) 4506--4527.  Paola Causin Jean-Fr\u00e9d\u00e9ric Gerbeau and Fabio Nobile. 2005. Added-mass effect in the design of partitioned algorithms for fluid-structure problems. Computer methods in applied mechanics and engineering 194 42 (2005) 4506--4527."
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "author": "Chentanez Nuttapong",
+                "year": "1806",
+                "volume-title": "Proceedings of the 2006 ACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA '06)"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1016/0021-9991(67)90037-X",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1007/s11831-013-9085-5",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1016/j.compstruc.2008.11.013",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1016/j.compstruc.2008.05.005",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "Joris Degroote Robby Haelterman Sebastiaan Annerel Peter Bruggeman and Jan Vierendeels. 2010. Performance of partitioned procedures in fluid-structure interaction. Computers & structures 88 7 (2010) 446--457. 10.1016/j.compstruc.2009.12.006   Joris Degroote Robby Haelterman Sebastiaan Annerel Peter Bruggeman and Jan Vierendeels. 2010. Performance of partitioned procedures in fluid-structure interaction. Computers & structures 88 7 (2010) 446--457. 10.1016/j.compstruc.2009.12.006",
+                "DOI": "10.1016/j.compstruc.2009.12.006",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1002/cav.1614",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1051/m2an:2003049",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/1073204.1073299",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "Ga\u00ebl Guennebaud Beno\u00eet Jacob and others. 2010. Eigen v3. http://eigen.tuxfamily.org. (2010).  Ga\u00ebl Guennebaud Beno\u00eet Jacob and others. 2010. Eigen v3. http://eigen.tuxfamily.org. (2010)."
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1016/j.compstruc.2016.04.001",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/2366145.2366168",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "Gene Hou Jin Wang and Anita Layton. 2012. Numerical Methods for Fluid-Structure Interaction - A Review. Communications in Computational Physics 12 2 (2012) 337\u00e2\u0102\u015e377.  Gene Hou Jin Wang and Anita Layton. 2012. Numerical Methods for Fluid-Structure Interaction - A Review. Communications in Computational Physics 12 2 (2012) 337\u00e2\u0102\u015e377."
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1109/TVCG.2013.105",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.5555/2386366.2386387",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/1141911.1141961",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1007/s00466-006-0066-5",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1007/s00466-008-0255-5",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1016/S0045-7825(00)00381-9",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "author": "Lu Wenlong",
+                "year": "2016",
+                "volume-title": "Proceedings of the ACM SIGGRAPH/Eurographics Symposium on Computer Animation. Eurographics Association, 67--76"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.5555/1071157.1071161",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/1882261.1866195",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.5555/1568678.1568685",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/2019406.2019411",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1016/j.jcp.2010.11.021",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1145/1360612.1360645",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1111/cgf.12467",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.5555/1229030.1229035",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/2601097.2601176",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1145/2980179.2980229",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1145/1141911.1141962",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "unstructured": "Jan Vierendeels. 2006. Implicit Coupling of Partitioned Fluid-Structure Interaction Solvers using Reduced-Order Models. Springer Berlin Heidelberg Berlin Heidelberg 1--18.  Jan Vierendeels. 2006. Implicit Coupling of Partitioned Fluid-Structure Interaction Solvers using Reduced-Order Models. Springer Berlin Heidelberg Berlin Heidelberg 1--18.",
+                "DOI": "10.1007/3-540-34596-5_1",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "unstructured": "Jan Vierendeels Joris Degroote Sebastiaan Annerel and Robby Haelterman. 2011. Stability issues in partitioned FSI calculations. In Fluid Structure Interaction II. Springer 83--102.  Jan Vierendeels Joris Degroote Sebastiaan Annerel and Robby Haelterman. 2011. Stability issues in partitioned FSI calculations. In Fluid Structure Interaction II. Springer 83--102.",
+                "DOI": "10.1007/978-3-642-14206-2_4",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "unstructured": "Jan Vierendeels Lieve Lanoye Joris Degroote and Pascal Verdonck. 2007. Implicit coupling of partitioned fluid-structure interaction problems with reduced order models. Computers & structures 85 11 (2007) 970--976. 10.1016/j.compstruc.2006.11.006   Jan Vierendeels Lieve Lanoye Joris Degroote and Pascal Verdonck. 2007. Implicit coupling of partitioned fluid-structure interaction problems with reduced order models. Computers & structures 85 11 (2007) 970--976. 10.1016/j.compstruc.2006.11.006",
+                "DOI": "10.1016/j.compstruc.2006.11.006",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "unstructured": "Andrew Witkin. 1997. Physically based modeling: principles and practice constrained dynamics. Computer graphics (1997).  Andrew Witkin. 1997. Physically based modeling: principles and practice constrained dynamics. Computer graphics (1997)."
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1145/3099564.3099572",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201345&ftid=1991627&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:35:23Z",
+            "timestamp": 1585960523000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 46,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201345"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201345",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

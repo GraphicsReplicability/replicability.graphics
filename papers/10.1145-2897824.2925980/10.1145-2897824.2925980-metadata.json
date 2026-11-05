@@ -1,0 +1,325 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T02:11:27Z",
+            "timestamp": 1585966287737
+        },
+        "reference-count": 30,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925980",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 16,
+        "title": [
+            "Generating dynamically feasible trajectories for quadrotor cameras"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Mike",
+                "family": "Roberts",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Pat",
+                "family": "Hanrahan",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "3D Robotics 2015. Solo. http://3drobotics.com/solo.  3D Robotics 2015. Solo. http://3drobotics.com/solo."
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "APM 2015. APM Autopilot Suite. http://ardupilot.com.  APM 2015. APM Autopilot Suite. http://ardupilot.com."
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.2514/2.4231",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "author": "Bouktir Y.",
+                "year": "2008",
+                "volume-title": "Mediterranean Conference on Control and Automation"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "Boyd S. 2008. Convex optimization II (course notes for Stanford EE364b). http://stanford.edu/class/ee364b.  Boyd S. 2008. Convex optimization II (course notes for Stanford EE364b). http://stanford.edu/class/ee364b."
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1177/0278364914558129",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "author": "Cowling I. D.",
+                "year": "2007",
+                "volume-title": "European Conference on Control (ECC)"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1109/70.62044",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "author": "Deits R.",
+                "year": "2015",
+                "volume-title": "International Conference on Robotics and Automation (ICRA)"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "DJI 2015. DJI Go. http://www.dji.com/product/goapp.  DJI 2015. DJI Go. http://www.dji.com/product/goapp."
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "DJI 2015. DJI Ground Station. http://www.dji.com/product/pc-ground-station.  DJI 2015. DJI Ground Station. http://www.dji.com/product/pc-ground-station."
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/882262.882286",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1016/j.automatica.2014.02.011",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/2858036.2858353",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1111/j.1467-8659.2012.03189.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1137/S1052623499350013",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "Joubert N. Roberts M. Truong A. Berthouzoz F. and Hanrahan P. 2015. An interactive tool for designing quadrotor camera shots. Transactions on Graphics (Proc. SIGGRAPH Asia 2015) 34 6. 10.1145/2816795.2818106   Joubert N. Roberts M. Truong A. Berthouzoz F. and Hanrahan P. 2015. An interactive tool for designing quadrotor camera shots. Transactions on Graphics (Proc. SIGGRAPH Asia 2015) 34 6. 10.1145/2816795.2818106",
+                "DOI": "10.1145/2816795.2818106",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.5772/53754",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1080/00207179.2013.875224",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "author": "McCann J.",
+                "year": "2006",
+                "volume-title": "SCA"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1007/s10514-012-9281-4",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "author": "Mellinger D.",
+                "year": "2011",
+                "volume-title": "International Conference on Robotics and Automation (ICRA)"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/1015706.1015754",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "first-page": "6",
+                "article-title": "Minimum-time control of robotic manipulators with geometric path constraints",
+                "volume": "30",
+                "author": "Shin K. G.",
+                "year": "1985",
+                "journal-title": "Transactions on Automatic Control"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1109/70.88024",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "unstructured": "SymPy 2014. SymPy: Python library for symbolic mathematics. http://www.sympy.org.  SymPy 2014. SymPy: Python library for symbolic mathematics. http://www.sympy.org."
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "unstructured": "Tedrake R. 2016. Underactuated robotics: Algorithms for walking running swimming flying and manipulation (course notes for MIT 6.832). http://underactuated.mit.edu.  Tedrake R. 2016. Underactuated robotics: Algorithms for walking running swimming flying and manipulation (course notes for MIT 6.832). http://underactuated.mit.edu."
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "author": "Van Loock W.",
+                "year": "2013",
+                "volume-title": "European Control Conference (ECC)"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1109/TAC.2009.2028959",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/378456.378507",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925980&amp;ftid=1755851&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:39:14Z",
+            "timestamp": 1585964354000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 30,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925980"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925980",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

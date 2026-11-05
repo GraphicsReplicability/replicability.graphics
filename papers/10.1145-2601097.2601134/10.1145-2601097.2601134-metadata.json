@@ -1,0 +1,408 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:11:21Z",
+            "timestamp": 1586002281523
+        },
+        "reference-count": 45,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601134",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-10",
+        "source": "Crossref",
+        "is-referenced-by-count": 72,
+        "title": [
+            "Color map optimization for 3D reconstruction with consumer depth cameras"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Qian-Yi",
+                "family": "Zhou",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Vladlen",
+                "family": "Koltun",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe Research"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "Aganj E. Monasse P. and Keriven R. 2009. Multi-view texturing of imprecise mesh. In ACCV. 10.1007/978-3-642-12304-7_44   Aganj E. Monasse P. and Keriven R. 2009. Multi-view texturing of imprecise mesh. In ACCV . 10.1007/978-3-642-12304-7_44"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "Baumberg A. 2002. Blending images for texturing 3D models. In BMVC.  Baumberg A. 2002. Blending images for texturing 3D models. In BMVC .",
+                "DOI": "10.5244/C.16.38",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1109/2945.965346",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "Bylow E. Sturm J. Kerl C. Kahl F. and Cremers D. 2013. Real-time camera tracking and 3D reconstruction using signed distance functions. In RSS.  Bylow E. Sturm J. Kerl C. Kahl F. and Cremers D. 2013. Real-time camera tracking and 3D reconstruction using signed distance functions. In RSS .",
+                "DOI": "10.15607/RSS.2013.IX.035",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1016/j.cag.2008.05.004",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "unstructured": "Chen Q. and Koltun V. 2013. A simple model for intrinsic image decomposition with depth cues. In ICCV. 10.1109/ICCV.2013.37   Chen Q. and Koltun V. 2013. A simple model for intrinsic image decomposition with depth cues. In ICCV . 10.1109/ICCV.2013.37",
+                "DOI": "10.1109/ICCV.2013.37",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/2461912.2461940",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.5555/1735603.1735633",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1111/j.1467-8659.2009.01552.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1007/s11263-012-0552-5",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "Crete F. Dolmiere T. Ladret P. and Nicolas M. 2007. The blur effect: perception and estimation with a new no-reference perceptual blur metric. In SPIE.  Crete F. Dolmiere T. Ladret P. and Nicolas M. 2007. The blur effect: perception and estimation with a new no-reference perceptual blur metric. In SPIE .",
+                "DOI": "10.1117/12.702790",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1109/TVCG.2011.75",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1109/TRO.2013.2279412",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1007/s00371-005-0309-z",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1111/j.1467-8659.2009.01617.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1007/s11263-007-0039-y",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "Izadi S. Kim D. Hilliges O. Molyneaux D. Newcombe R. A. Kohli P. Shotton J. Hodges S. Freeman D. Davison A. J. and Fitzgibbon A. W. 2011. KinectFusion: real-time 3D reconstruction and interaction using a moving depth camera. In UIST. 10.1145/2047196.2047270   Izadi S. Kim D. Hilliges O. Molyneaux D. Newcombe R. A. Kohli P. Shotton J. Hodges S. Freeman D. Davison A. J. and Fitzgibbon A. W. 2011. KinectFusion: real-time 3D reconstruction and interaction using a moving depth camera. In UIST . 10.1145/2047196.2047270",
+                "DOI": "10.1145/2037826.2037857",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1016/S0262-8856(98)00117-6",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1109/TVCG.2012.112",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "Lempitsky V. S. and Ivanov D. V. 2007. Seamless mosaicing of image-based texture maps. In CVPR.  Lempitsky V. S. and Ivanov D. V. 2007. Seamless mosaicing of image-based texture maps. In CVPR .",
+                "DOI": "10.1109/CVPR.2007.383078",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1006/gmod.2001.0554",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "unstructured": "Levoy M. Pulli K. Curless B. Rusinkiewicz S. Koller D. Pereira L. Ginzton M. Anderson S. Davis J. Ginsberg J. Shade J. and Fulk D. 2000. The digital Michelangelo project: 3D scanning of large statues. In SIGGRAPH. 10.1145/344779.344849   Levoy M. Pulli K. Curless B. Rusinkiewicz S. Koller D. Pereira L. Ginzton M. Anderson S. Davis J. Ginsberg J. Shade J. and Fulk D. 2000. The digital Michelangelo project: 3D scanning of large statues. In SIGGRAPH . 10.1145/344779.344849",
+                "DOI": "10.1145/344779.344849",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/2508363.2508407",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1016/j.cviu.2011.07.009",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1111/1467-8659.00345",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "unstructured": "Newcombe R. A. Izadi S. Hilliges O. Molyneaux D. Kim D. Davison A. J. Kohli P. Shotton J. Hodges S. and Fitzgibbon A. 2011. KinectFusion: Real-time dense surface mapping and tracking. In ISMAR. 10.1109/ISMAR.2011.6092378   Newcombe R. A. Izadi S. Hilliges O. Molyneaux D. Kim D. Davison A. J. Kohli P. Shotton J. Hodges S. and Fitzgibbon A. 2011. KinectFusion: Real-time dense surface mapping and tracking. In ISMAR . 10.1109/ISMAR.2011.6092378",
+                "DOI": "10.1109/ISMAR.2011.6092378",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/2508363.2508374",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1109/38.574667",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/263834.263851",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "unstructured": "Pighin F. H. Hecker J. Lischinski D. Szeliski R. and Salesin D. 1998. Synthesizing realistic facial expressions from photographs. In SIGGRAPH. 10.1145/280814.280825   Pighin F. H. Hecker J. Lischinski D. Szeliski R. and Salesin D. 1998. Synthesizing realistic facial expressions from photographs. In SIGGRAPH . 10.1145/280814.280825",
+                "DOI": "10.1145/280814.280825",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1006/gmod.1999.0519",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "unstructured": "Pulli K. Piiroinen S. Duchamp T. and Stuetzle W. 2005. Projective surface matching of colored 3D scans. In 3DIM. 10.1109/3DIM.2005.65   Pulli K. Piiroinen S. Duchamp T. and Stuetzle W. 2005. Projective surface matching of colored 3D scans. In 3DIM . 10.1109/3DIM.2005.65"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "unstructured": "Rocchini C. Cignoni P. Montani C. and Scopigno R. 1999. Multiple texture stitching and blending on 3D objects. In Rendering Techniques. 10.2312/EGWR/EGWR99/119-130   Rocchini C. Cignoni P. Montani C. and Scopigno R. 1999. Multiple texture stitching and blending on 3D objects. In Rendering Techniques . 10.2312/EGWR/EGWR99/119-130",
+                "DOI": "10.1007/978-3-7091-6809-7_12",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "unstructured": "Rusu R. B. and Cousins S. 2011. 3D is here: Point Cloud Library (PCL). In ICRA.  Rusu R. B. and Cousins S. 2011. 3D is here: Point Cloud Library (PCL). In ICRA .",
+                "DOI": "10.1109/ICRA.2011.5980567",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "unstructured": "Shan Q. Adams R. Curless B. Furukawa Y. and Seitz S. M. 2013. The visual Turing test for scene reconstruction. In 3DV. 10.1109/3DV.2013.12   Shan Q. Adams R. Curless B. Furukawa Y. and Seitz S. M. 2013. The visual Turing test for scene reconstruction. In 3DV . 10.1109/3DV.2013.12",
+                "DOI": "10.1109/3DV.2013.12",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1145/1409060.1409112",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "unstructured": "Stamos I. and Allen P. K. 2000. 3-D model construction using range and image data. In CVPR.  Stamos I. and Allen P. K. 2000. 3-D model construction using range and image data. In CVPR ."
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1006/cviu.2002.0963",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "unstructured": "Sturm J. Bylow E. Kahl F. and Cremers D. 2013. CopyMe3D: Scanning and printing persons in 3D. In GCPR.  Sturm J. Bylow E. Kahl F. and Cremers D. 2013. CopyMe3D: Scanning and printing persons in 3D. In GCPR .",
+                "DOI": "10.1007/978-3-642-40602-7_43",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1007/s11263-007-0100-x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1561/0600000022",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "unstructured": "Whelan T. Johannsson H. Kaess M. Leonard J. and McDonald J. 2013. Robust real-time visual odometry for dense RGB-D mapping. In ICRA.  Whelan T. Johannsson H. Kaess M. Leonard J. and McDonald J. 2013. Robust real-time visual odometry for dense RGB-D mapping. In ICRA .",
+                "DOI": "10.1109/ICRA.2013.6631400",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1007/s00371-005-0283-5",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1145/2461912.2461919",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "unstructured": "Zhou Q.-Y. Miller S. and Koltun V. 2013. Elastic fragments for dense scene reconstruction. In ICCV. 10.1109/ICCV.2013.65   Zhou Q.-Y. Miller S. and Koltun V. 2013. Elastic fragments for dense scene reconstruction. In ICCV . 10.1109/ICCV.2013.65",
+                "DOI": "10.1109/ICCV.2013.65",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601134&amp;ftid=1488964&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:53:03Z",
+            "timestamp": 1586001183000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 45,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601134"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601134",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

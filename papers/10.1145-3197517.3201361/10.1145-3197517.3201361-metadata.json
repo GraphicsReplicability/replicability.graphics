@@ -1,0 +1,497 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:54Z",
+            "timestamp": 1585962714295
+        },
+        "reference-count": 53,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100008982",
+                "name": "National Science Foundation of Sri Lanka",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "CAREER-1453101, 1717268, 1409286, 1717178, DGE-1656518"
+                ]
+            },
+            {
+                "name": "H2020 Marie SkBodowska-Curie Actions",
+                "award": [
+                    "706708"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201361",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 4,
+        "title": [
+            "Multi-scale simulation of nonlinear thin-shell sound with wave turbulence"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Gabriel",
+                "family": "Cirio",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Inria, Universit\u00e9 C\u00f4te d'Azur and Columbia University"
+                    }
+                ]
+            },
+            {
+                "given": "Ante",
+                "family": "Qu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "George",
+                "family": "Drettakis",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Inria and Universit\u00e9 C\u00f4te d'Azur"
+                    }
+                ]
+            },
+            {
+                "given": "Eitan",
+                "family": "Grinspun",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Columbia University"
+                    }
+                ]
+            },
+            {
+                "given": "Changxi",
+                "family": "Zheng",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Columbia University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/1409060.1409118",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/280814.280821",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/1073204.1073300",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "K.J. Bathe. 2007. Finite Element Procedures. Prentice-Hall Boston Mass.  K.J. Bathe. 2007. Finite Element Procedures. Prentice-Hall Boston Mass.",
+                "DOI": "10.1002/9780470050118.ecse159",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "author": "Bergou Miklos",
+                "year": "2006",
+                "volume-title": "Proceedings of the Eurographics Symposium on Geometry Processing (SGP '06)"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1002/num.20260",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1109/TASL.2009.2029710",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "author": "Bridson R.",
+                "volume-title": "Proceedings of the 2003 ACM SIGGRAPH/Eurographics symposium on Computer animation (SCA '03)"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "author": "Cadot Olivier",
+                "volume-title": "Handbook of applications of chaos theory, Charilaos Skiadas Christos H"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "Jeffrey N. Chadwick Steven S. An and Doug L. James. 2009. Harmonic shells: a practical nonlinear sound model for near-rigid thin shells. ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2009) 28 5 (2009). 10.1145/1618452.1618465   Jeffrey N. Chadwick Steven S. An and Doug L. James. 2009. Harmonic shells: a practical nonlinear sound model for near-rigid thin shells. ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2009) 28 5 (2009). 10.1145/1618452.1618465"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1250/ast.26.403",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "unstructured": "Dominique Chapelle and Klaus-Jurgen Bathe. 2010. The Finite Element Analysis of Shells - Fundamentals (2nd ed. 2011 edition ed.). Springer Berlin; New York.  Dominique Chapelle and Klaus-Jurgen Bathe. 2010. The Finite Element Analysis of Shells - Fundamentals (2nd ed. 2011 edition ed.). Springer Berlin; New York."
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "Chuen-Yuan Chia. 1980. Nonlinear analysis of plates. McGraw-Hill International Book Company.  Chuen-Yuan Chia. 1980. Nonlinear analysis of plates. McGraw-Hill International Book Company."
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/2980179.2982400",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "unstructured": "Lothar Cremer and Manfred Heckl. 2013. Structure-borne sound: structural vibrations and sound radiation at audio frequencies. Springer Science & Business Media.  Lothar Cremer and Manfred Heckl. 2013. Structure-borne sound: structural vibrations and sound radiation at audio frequencies. Springer Science & Business Media."
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "Michele Ducceschi Olivier Cadot Cyril Touz\u00e9 and Stefan Bilbao. 2014. Dynamics of the wave turbulence spectrum in vibrating plates: A numerical investigation using a conservative finite difference scheme. Physica D: Nonlinear Phenomena 280--281 Supplement C (July 2014) 73--85.  Michele Ducceschi Olivier Cadot Cyril Touz\u00e9 and Stefan Bilbao. 2014. Dynamics of the wave turbulence spectrum in vibrating plates: A numerical investigation using a conservative finite difference scheme. Physica D: Nonlinear Phenomena 280--281 Supplement C (July 2014) 73--85.",
+                "DOI": "10.1016/j.physd.2014.04.008",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "author": "Ducceschi M.",
+                "volume": "344",
+                "year": "2015",
+                "article-title": "Modal approach for nonlinear vibrations of damped impacted plates: Application to sound synthesis of gongs and cymbals",
+                "journal-title": "Journal of Sound and Vibration",
+                "DOI": "10.1016/j.jsv.2015.01.029",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1016/0167-2789(92)90090-A",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1103/PhysRevLett.97.025503",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "first-page": "9",
+                "article-title": "Observation of Gravity-Capillary Wave Turbulence",
+                "volume": "98",
+                "author": "Falcon \u00c9ric",
+                "year": "2007",
+                "journal-title": "Physical Review Letters"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1007/BF02429849",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1364/AO.21.002758",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "author": "Garg Akash",
+                "year": "2007",
+                "volume-title": "Cubic Shells. In Proceedings of ACM SIGGRAPH/Eurographics Symposium on Computer Animation. Eurographics Association, 91--98"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "author": "Grinspun Eitan",
+                "year": "2003",
+                "volume-title": "Discrete Shells. In Proceedings of ACM SIGGRAPH/Eurographics Symposium on Computer Animation. Eurographics Association, 62--67"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "unstructured": "T. Humbert C. Josserand C. Touz\u00e9 and O. Cadot. 2016. Phenomenological model for predicting stationary and non-stationary spectra of wave turbulence in vibrating plates. Physica D: Nonlinear Phenomena 316 Supplement C (Feb. 2016) 34--42.  T. Humbert C. Josserand C. Touz\u00e9 and O. Cadot. 2016. Phenomenological model for predicting stationary and non-stationary spectra of wave turbulence in vibrating plates. Physica D: Nonlinear Phenomena 316 Supplement C (Feb. 2016) 34--42.",
+                "DOI": "10.1016/j.physd.2015.11.006",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1007/s10909-006-9232-6",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/1360612.1360649",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1002/nme.167",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1063/1.1762300",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1006/jsvi.2001.4146",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1016/0370-1573(94)00071-A",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/2461912.2462010",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "unstructured": "Ali H. Nayfeh and Dean T. Mook. 1995. Nonlinear Oscillations. Wiley-VCH New York.  Ali H. Nayfeh and Dean T. Mook. 1995. Nonlinear Oscillations. Wiley-VCH New York.",
+                "DOI": "10.1002/9783527617586",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "unstructured": "Alan C. Newell Sergey Nazarenko and Laura Biven. 2001. Wave turbulence and intermittency. Physica D: Nonlinear Phenomena 152--153 (May 2001) 520--550.  Alan C. Newell Sergey Nazarenko and Laura Biven. 2001. Wave turbulence and intermittency. Physica D: Nonlinear Phenomena 152--153 (May 2001) 520--550.",
+                "DOI": "10.1016/S0167-2789(01)00192-0",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1145/383259.383321",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/545261.545290",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1145/325334.325247",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1121/1.418017",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1145/882262.882335",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1002/nme.560",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "unstructured": "Ahmed A Shabana. 2012. Theory of vibration: Volume II: discrete and continuous systems. Springer Science & Business Media.  Ahmed A Shabana. 2012. Theory of vibration: Volume II: discrete and continuous systems. Springer Science & Business Media."
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "first-page": "3",
+                "article-title": "An adaptive fast multipole boundary element method for three-dimensional acoustic wave problems based on the Burton-Miller formulation",
+                "volume": "40",
+                "author": "Shen L.",
+                "year": "2006",
+                "journal-title": "Computational Mechanics"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1145/2185520.2185602",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1145/37401.37427",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1016/j.jsv.2011.09.016",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "DOI": "10.1103/PhysRevB.61.1410",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "DOI": "10.1145/1559755.1559762",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "unstructured": "Stephen Wiggins. 2003. Introduction to Applied Nonlinear Dynamical Systems and Chaos (2nd edition ed.). Springer New York.  Stephen Wiggins. 2003. Introduction to Applied Nonlinear Dynamical Systems and Chaos (2nd edition ed.). Springer New York."
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "DOI": "10.1016/0167-2789(85)90011-9",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "unstructured": "V. E. Zakharov and N. N. Filonenko. 1967. Energy Spectrum for Stochastic Oscillations of the Surface of a Liquid. Soviet Physics Doklady 11 (April 1967) 881. http://adsabs.harvard.edu/abs/1967SPhD...11/...881Z  V. E. Zakharov and N. N. Filonenko. 1967. Energy Spectrum for Stochastic Oscillations of the Surface of a Liquid. Soviet Physics Doklady 11 (April 1967) 881. http://adsabs.harvard.edu/abs/1967SPhD...11/...881Z"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "unstructured": "Vladimir E. Zakharov Victor S. L'vov and Gregory Falkovich. 1992. Kolmogorov Spectra of Turbulence I: Wave Turbulence. Springer.  Vladimir E. Zakharov Victor S. L'vov and Gregory Falkovich. 1992. Kolmogorov Spectra of Turbulence I: Wave Turbulence. Springer.",
+                "DOI": "10.1007/978-3-642-50052-7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "DOI": "10.1145/1778765.1778806",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "DOI": "10.1145/2010324.1964933",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201361&ftid=1991599&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:41:07Z",
+            "timestamp": 1585960867000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 53,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201361"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201361",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

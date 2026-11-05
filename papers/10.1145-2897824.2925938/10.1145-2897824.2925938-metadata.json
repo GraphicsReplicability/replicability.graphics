@@ -1,0 +1,441 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T02:11:27Z",
+            "timestamp": 1585966287782
+        },
+        "reference-count": 45,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "name": "NSF",
+                "award": [
+                    "IIS-1319573,DBI-1356388,CCF-1054779."
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925938",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 11,
+        "title": [
+            "Erosion thickness on medial axes of 3D shapes"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Yajie",
+                "family": "Yan",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Washington Univ. in St. Louis"
+                    }
+                ]
+            },
+            {
+                "given": "Kyle",
+                "family": "Sykes",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "St. Louis Univ."
+                    }
+                ]
+            },
+            {
+                "given": "Erin",
+                "family": "Chambers",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "St. Louis Univ."
+                    }
+                ]
+            },
+            {
+                "given": "David",
+                "family": "Letscher",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "St. Louis Univ."
+                    }
+                ]
+            },
+            {
+                "given": "Tao",
+                "family": "Ju",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Washington Univ. in St. Louis"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1016/S0925-7721(01)00033-5",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/376957.376986",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1016/0262-8856(93)90055-L",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "author": "Attali D.",
+                "year": "1996",
+                "volume-title": "Proceedings 1996 International Conference on Image Processing"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "author": "Attali D.",
+                "volume-title": "8th International Conference, ICIAP '95, San Remo, Italy, September 13-15, 1995, Proceedings, 488--493"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1016/0167-8655(95)00034-E",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "unstructured": "Blum H. 1967. A transformation for extracting new descriptors of form. Models for the Perception of Speech and Visual Form 362--80.  Blum H. 1967. A transformation for extracting new descriptors of form. Models for the Perception of Speech and Visual Form 362--80."
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1016/0022-5193(73)90175-6",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1016/1049-9660(92)90030-7",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "first-page": "421",
+                "article-title": "A discrete lambda-medial axis",
+                "volume": "5810",
+                "author": "Chaussard J.",
+                "year": "2009",
+                "journal-title": "DGCI"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "author": "Chazal F.",
+                "volume-title": "Proceedings of the Ninth ACM Symposium on Solid Modeling and Applications, SM '04"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1023/B:JODS.0000024119.38784.ff",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1006/gmod.2001.0556",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1109/TVCG.2007.1002",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/2516971.2516977",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1016/j.cagd.2003.07.008",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "author": "Dey T. K.",
+                "volume-title": "SGP '06: Proceedings of the fourth Eurographics symposium on Geometry processing, Eurographics Association, Aire-la-Ville"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1016/S0010-4485(03)00061-7",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1109/TPAMI.1987.4767937",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1109/TMI.2004.831793",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1115/1.1631582",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1109/TPAMI.2004.1262192",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/1542362.1542388",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "author": "Golland P.",
+                "volume": "1",
+                "volume-title": "Computer Vision and Pattern Recognition, 2000. Proceedings. IEEE Conference on"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1109/TPAMI.1986.4767815",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/262839.263101",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/2753755",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/781606.781620",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1111/j.1467-8659.2010.01814.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1016/j.cad.2011.09.002",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/1778765.1778838",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "author": "Niblack W.",
+                "volume-title": "Computer Vision and Pattern Recognition, 1992. Proceedings CVPR '92., 1992 IEEE Computer Society Conference on, 826--828"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "author": "Ogniewicz R.",
+                "volume-title": "Computer Vision and Pattern Recognition, 1992. Proceedings CVPR '92., 1992 IEEE Computer Society Conference on, 63--69"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1016/0031-3203(94)00105-U",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1109/TPAMI.1987.4767938",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1023/A:1026313132218",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1109/JPROC.2003.817876",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1109/TVCG.2008.23",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1006/cviu.1997.0598",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "unstructured": "Siddiqi K. and Pizer S. M. 2008. Medial Representations. Springer.  Siddiqi K. and Pizer S. M. 2008. Medial Representations . Springer.",
+                "DOI": "10.1007/978-1-4020-8658-8",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1023/A:1016376116653",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1023/A:1026378916288",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1145/1060244.1060250",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "unstructured": "Tagliasacchi A. Delame T. Spagnuolo M. Amenta N. and Telea A. 2016. 3d skeletons: A state-of-the-art report. In Eurographics.  Tagliasacchi A. Delame T. Spagnuolo M. Amenta N. and Telea A. 2016. 3d skeletons: A state-of-the-art report. In Eurographics .",
+                "DOI": "10.1111/cgf.12865",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1109/VISUAL.2003.1250410",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925938&amp;ftid=1755864&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:39:34Z",
+            "timestamp": 1585964374000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 45,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925938"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925938",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

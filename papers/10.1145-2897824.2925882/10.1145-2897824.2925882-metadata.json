@@ -1,0 +1,407 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T02:11:27Z",
+            "timestamp": 1585966287594
+        },
+        "reference-count": 42,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925882",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 22,
+        "title": [
+            "An anatomically-constrained local deformation model for monocular face capture"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Chenglei",
+                "family": "Wu",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "ETH Zurich"
+                    }
+                ]
+            },
+            {
+                "given": "Derek",
+                "family": "Bradley",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Disney Research"
+                    }
+                ]
+            },
+            {
+                "given": "Markus",
+                "family": "Gross",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Disney Research and ETH Zurich"
+                    }
+                ]
+            },
+            {
+                "given": "Thabo",
+                "family": "Beeler",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Disney Research"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/2601097.2601182",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/1778765.1778777",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/2010324.1964970",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "Black M. and Yacoob Y. 1995. Tracking and recognizing rigid and non-rigid facial motions using local parametric models of image motion. In ICCV 374--381.   Black M. and Yacoob Y. 1995. Tracking and recognizing rigid and non-rigid facial motions using local parametric models of image motion. In ICCV 374--381."
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/311535.311556",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/2461912.2461976",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/1778765.1778778",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1023/B:VISI.0000011203.00237.9b",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "Brox T. Bruhn A. Papenberg N. and Weickert J. 2004. High accuracy optical flow estimation based on a theory for warping. In ECCV. 25--36.  Brox T. Bruhn A. Papenberg N. and Weickert J. 2004. High accuracy optical flow estimation based on a theory for warping. In ECCV . 25--36.",
+                "DOI": "10.1007/978-3-540-24673-2_3",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "Brunton A. Bolkart T. and Wuhrer S. 2014. Multilinear wavelets: A statistical shape space for human faces. In ECCV.  Brunton A. Bolkart T. and Wuhrer S. 2014. Multilinear wavelets: A statistical shape space for human faces. In ECCV .",
+                "DOI": "10.1007/978-3-319-10590-1_20",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/2461912.2462012",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/2601097.2601204",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/2766943",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Chen Y.-L. Wu H.-T. Shi F. Tong X. and Chai J. 2013. Accurate and robust 3d facial capture using a single rgbd camera. In ICCV. 10.1109/ICCV.2013.449   Chen Y.-L. Wu H.-T. Shi F. Tong X. and Chai J. 2013. Accurate and robust 3d facial capture using a single rgbd camera. In ICCV. 10.1109/ICCV.2013.449",
+                "DOI": "10.1109/ICCV.2013.449",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1109/34.927467",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "DeCarlo D. and Metaxas D. 1996. The integration of optical flow and deformable models with applications to human face shape and motion estimation. In CVPR 231.   DeCarlo D. and Metaxas D. 1996. The integration of optical flow and deformable models with applications to human face shape and motion estimation. In CVPR 231.",
+                "DOI": "10.1109/CVPR.1996.517079",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "Ekman P. and Friesen W. V. 1977. Facial action coding system.  Ekman P. and Friesen W. V. 1977. Facial action coding system.",
+                "DOI": "10.1037/t27734-000",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "author": "Essa I.",
+                "volume-title": "Proc. of Computer Animation, 68"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/2638549",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/2508363.2508380",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/2070781.2024163",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1007/BF02291478",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/2010324.1964969",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "Joshi P. Tien W. C. Desbrun M. and Pighin F. 2003. Learning controls for blend shape based realistic facial animation. In SCA 187--192.   Joshi P. Tien W. C. Desbrun M. and Pighin F. 2003. Learning controls for blend shape based realistic facial animation. In SCA 187--192.",
+                "DOI": "10.1145/965400.965571",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1016/S0925-7721(99)00032-2",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/1640443.1640446",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "unstructured": "Lewis J. P. Anjyo K. Rhee T. Zhang M. Pighin F. and Deng Z. 2014. Practice and Theory of Blendshape Facial Models. In Eurographics 2014 - State of the Art Reports The Eurographics Association S. Lefebvre and M. Spagnuolo Eds.  Lewis J. P. Anjyo K. Rhee T. Zhang M. Pighin F. and Deng Z. 2014. Practice and Theory of Blendshape Facial Models. In Eurographics 2014 - State of the Art Reports The Eurographics Association S. Lefebvre and M. Spagnuolo Eds."
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1109/34.216724",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/2461912.2462019",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1007/s00371-011-0591-x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/2508363.2508417",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/2019406.2019435",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1007/s11263-010-0380-4",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/2661229.2661290",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "unstructured": "Suwajanakorn S. Kemelmacher-Shlizerman I. and Seitz S. M. 2014. Total moving face reconstruction. In ECCV.  Suwajanakorn S. Kemelmacher-Shlizerman I. and Seitz S. M. 2014. Total moving face reconstruction. In ECCV .",
+                "DOI": "10.1007/978-3-319-10593-2_52",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1145/2010324.1964971",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/2366145.2366206",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1145/1073204.1073209",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/1599470.1599472",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1145/2010324.1964972",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "unstructured": "Zhang L. Snavely N. Curless B. and Seitz S. M. 2004. Spacetime faces: high resolution capture for modeling and animation. ACM Trans. Graphics (Proc. SIGGRAPH) 548--558. 10.1145/1015706.1015759   Zhang L. Snavely N. Curless B. and Seitz S. M. 2004. Spacetime faces: high resolution capture for modeling and animation. ACM Trans. Graphics (Proc. SIGGRAPH) 548--558. 10.1145/1015706.1015759",
+                "DOI": "10.1145/1186562.1015759",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1145/2601097.2601165",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925882&amp;ftid=1755933&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:44:04Z",
+            "timestamp": 1585964644000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 42,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925882"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925882",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

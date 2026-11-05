@@ -1,0 +1,499 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:55Z",
+            "timestamp": 1585962715825
+        },
+        "reference-count": 60,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100006785",
+                "name": "Google",
+                "doi-asserted-by": "crossref",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100004344",
+                "name": "Adobe Systems",
+                "doi-asserted-by": "publisher",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201366",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 13,
+        "title": [
+            "Mode-adaptive neural networks for quadruped motion control"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "He",
+                "family": "Zhang",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of Edinburgh"
+                    }
+                ]
+            },
+            {
+                "given": "Sebastian",
+                "family": "Starke",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Edinburgh"
+                    }
+                ]
+            },
+            {
+                "given": "Taku",
+                "family": "Komura",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Edinburgh"
+                    }
+                ]
+            },
+            {
+                "given": "Jun",
+                "family": "Saito",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe Research"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "author": "Abadi Mart\u00edn",
+                "year": "2016",
+                "volume-title": "Proceedings of the 12th USENIX Conference on Operating Systems Design and Implementation (OSDI'16)"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1109/TVCG.2012.325",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/566654.566606",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "Emad Barsoum John Kender and Zicheng Liu. 2017. HP-GAN: Probabilistic 3D human motion prediction via GAN. CoRR abs/1711.09561 (2017). arXiv:1711.09561 http://arxiv.org/abs/1711.09561  Emad Barsoum John Kender and Zicheng Liu. 2017. HP-GAN: Probabilistic 3D human motion prediction via GAN. CoRR abs/1711.09561 (2017). arXiv:1711.09561 http://arxiv.org/abs/1711.09561"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "Emmanuel Bengio Pierre-Luc Bacon Joelle Pineau and Doina Precup. 2015. Conditional computation in neural networks for faster models. arXiv preprint arXiv:1511.06297 (2015). https://arxiv.org/abs/1511.06297  Emmanuel Bengio Pierre-Luc Bacon Joelle Pineau and Doina Precup. 2015. Conditional computation in neural networks for faster models. arXiv preprint arXiv:1511.06297 (2015). https://arxiv.org/abs/1511.06297"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "author": "Bertinetto Luca",
+                "year": "2016",
+                "volume-title": "Proc. NIPS. 523--531"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/1073204.1073248",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "Xiaobin Chang Timothy M Hospedales and Tao Xiang. 2018. Multi-level factorisation net for person re-identification. arXiv preprint arXiv:1803.09132 (2018). https://arxiv.org/abs/1803.09132v2  Xiaobin Chang Timothy M Hospedales and Tao Xiang. 2018. Multi-level factorisation net for person re-identification. arXiv preprint arXiv:1803.09132 (2018). https://arxiv.org/abs/1803.09132v2"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "author": "Clavet Simon",
+                "year": "2016",
+                "volume-title": "Proc. of GDC"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "Djork-Arn\u00e9 Clevert Thomas Unterthiner and Sepp Hochreiter. 2015. Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs). CoRR abs/1511.07289 (2015). http://arxiv.org/abs/1511.07289  Djork-Arn\u00e9 Clevert Thomas Unterthiner and Sepp Hochreiter. 2015. Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs). CoRR abs/1511.07289 (2015). http://arxiv.org/abs/1511.07289"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/2010324.1964954",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "unstructured": "David Eigen Marc' Aurelio Ranzato and Ilya Sutskever. 2013. Learning factored representations in a deep mixture of experts. arXiv preprint arXiv:1312.4314 (2013).  David Eigen Marc' Aurelio Ranzato and Ilya Sutskever. 2013. Learning factored representations in a deep mixture of experts. arXiv preprint arXiv:1312.4314 (2013)."
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.5555/2919332.2919834",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/1015706.1015755",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/1360612.1360626",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/3072959.3073663",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/2897824.2925975",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "unstructured": "Daniel Holden Jun Saito Taku Komura and Thomas Joyce. 2015. Learning Motion Manifolds with Convolutional Autoencoders. In SIGGRAPH Asia 2015 Technical Briefs. Article 18 4 pages. 10.1145/2820903.2820918   Daniel Holden Jun Saito Taku Komura and Thomas Joyce. 2015. Learning Motion Manifolds with Convolutional Autoencoders. In SIGGRAPH Asia 2015 Technical Briefs. Article 18 4 pages. 10.1145/2820903.2820918",
+                "DOI": "10.1145/2820903.2820918",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/1073204.1073315",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1002/cav.1469",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/1477926.1477927",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1162/neco.1991.3.1.79",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1162/neco.1994.6.2.181",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1002/cav.1467",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/1015706.1015760",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/566654.566605",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "author": "Kry Paul G",
+                "volume-title": "Computer Graphics Forum"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/1073368.1073408",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/566654.566607",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/1882261.1866160",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "author": "Levine Sergey",
+                "year": "2012",
+                "volume-title": "Proc. SCA. 221--230"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/2185520.2185524",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "unstructured": "Zimo Li Yi Zhou Shuangjiu Xiao Chong He and Hao Li. 2017. Auto-Conditioned LSTM Network for Extended Complex Human Motion Synthesis. arXiv preprint arXiv:1707.05363 (2017). https://arxiv.org/abs/1707.05363  Zimo Li Yi Zhou Shuangjiu Xiao Chong He and Hao Li. 2017. Auto-Conditioned LSTM Network for Extended Complex Human Motion Synthesis. arXiv preprint arXiv:1707.05363 (2017). https://arxiv.org/abs/1707.05363"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/1073204.1073314",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1145/566654.566596",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1145/3083723",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "unstructured": "Ilya Loshchilov and Frank Hutter. 2017. Fixing Weight Decay Regularization in Adam. CoRR abs/1711.05101 (2017). arXiv:1711.05101 http://arxiv.org/abs/1711.05101  Ilya Loshchilov and Frank Hutter. 2017. Fixing Weight Decay Regularization in Adam. CoRR abs/1711.05101 (2017). arXiv:1711.05101 http://arxiv.org/abs/1711.05101"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "unstructured": "Josh Merel Yuval Tassa Sriram Srinivasan Jay Lemmon Ziyu Wang Greg Wayne and Nicolas Heess. 2017a. Learning human behaviors from motion capture by adversarial imitation. arXiv preprint arXiv:1707.02201 (2017). https://arxiv.org/abs/1707.02201  Josh Merel Yuval Tassa Sriram Srinivasan Jay Lemmon Ziyu Wang Greg Wayne and Nicolas Heess. 2017a. Learning human behaviors from motion capture by adversarial imitation. arXiv preprint arXiv:1707.02201 (2017). https://arxiv.org/abs/1707.02201"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "unstructured": "Josh Merel Yuval Tassa Dhruva TB Sriram  Srinivasan Jay Lemmon Ziyu Wang Greg Wayne and Nicolas Heess. 2017b. Learning human behaviors from motion capture by adversarial imitation. CoRR abs/1707.02201 (2017). arXiv:1707.02201 http://arxiv.org/abs/1707.02201  Josh Merel Yuval Tassa Dhruva TB Sriram Srinivasan Jay Lemmon Ziyu Wang Greg Wayne and Nicolas Heess. 2017b. Learning human behaviors from motion capture by adversarial imitation. CoRR abs/1707.02201 (2017). arXiv:1707.02201 http://arxiv.org/abs/1707.02201"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1145/2366145.2366172",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1145/1073204.1073313",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1145/2766910",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1145/2897824.2925881",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1145/122718.122755",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "unstructured": "Sylvestre-Alvise Rebuffi Hakan Bilen and Andrea Vedaldi. 2017. Learning multiple visual domains with residual adapters. arXiv preprint arXiv:1705.08045 (2017). https://arxiv.org/abs/1705.08045  Sylvestre-Alvise Rebuffi Hakan Bilen and Andrea Vedaldi. 2017. Learning multiple visual domains with residual adapters. arXiv preprint arXiv:1705.08045 (2017). https://arxiv.org/abs/1705.08045"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1109/38.708559",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "DOI": "10.1145/1276377.1276510",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "DOI": "10.1145/1015706.1015754",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "unstructured": "Noam Shazeer Azalia Mirhoseini Krzysztof Maziarz Andy Davis Quoc V Le Geoffrey E. Hinton and Jeff Dean. 2017. Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer. CoRR abs/1701.06538 (2017). arXiv:1701.06538 http://arxiv.org/abs/1701.06538  Noam Shazeer Azalia Mirhoseini Krzysztof Maziarz Andy Davis Quoc V Le Geoffrey E. Hinton and Jeff Dean. 2017. Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer. CoRR abs/1701.06538 (2017). arXiv:1701.06538 http://arxiv.org/abs/1701.06538"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "DOI": "10.1145/1966394.1966397",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "DOI": "10.1145/1553374.1553505",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "DOI": "10.5555/1953048.2021035",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "DOI": "10.1109/38.486679",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "DOI": "10.1145/1531326.1531366",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_55_1",
+                "DOI": "10.1145/2601097.2601192",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_56_1",
+                "DOI": "10.1109/TPAMI.2007.1167",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_57_1",
+                "DOI": "10.1145/2766999",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_58_1",
+                "DOI": "10.1145/2185520.2185537",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_59_1",
+                "DOI": "10.1145/1276377.1276509",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_60_1",
+                "DOI": "10.1109/TNNLS.2012.2200299",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201366&ftid=1991613&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:40:17Z",
+            "timestamp": 1585960817000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 60,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201366"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201366",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

@@ -1,0 +1,378 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:54Z",
+            "timestamp": 1585962714220
+        },
+        "reference-count": 37,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100001742",
+                "name": "United States-Israel Binational Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "504/16"
+                ]
+            },
+            {
+                "DOI": "10.13039/100010663",
+                "name": "H2020 European Research Council",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "714776 OPREP"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201375",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 2,
+        "title": [
+            "Integer-only cross field computation"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Nahum",
+                "family": "Farchi",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Technion Institute of Technology"
+                    }
+                ]
+            },
+            {
+                "given": "Mirela",
+                "family": "Ben-Chen",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Technion Institute of Technology"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/375551.375608",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "Erik Agrell Thomas Eriksson Alexander Vardy and Kenneth Zeger. 2002. Closest point search in lattices. IEEE transactions on information theory 48 8 (2002) 2201--2214. 10.1109/TIT.2002.800499   Erik Agrell Thomas Eriksson Alexander Vardy and Kenneth Zeger. 2002. Closest point search in lattices. IEEE transactions on information theory 48 8 (2002) 2201--2214. 10.1109/TIT.2002.800499",
+                "DOI": "10.1109/TIT.2002.800499",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "author": "Ben-Chen Mirela",
+                "volume-title": "Computer Graphics Forum"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "B\u00e9la Bollob\u00e1s. 2013. Modern graph theory. Vol. 184. Springer Science & Business Media.  B\u00e9la Bollob\u00e1s. 2013. Modern graph theory. Vol. 184. Springer Science & Business Media."
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/1531326.1531383",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/3072959.3073646",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "unstructured": "Marcel Campen and Denis Zorin. 2017a. On Discrete Conformal Seamless Similarity Maps. arXiv preprint arXiv:1705.02422 (2017).  Marcel Campen and Denis Zorin. 2017a. On Discrete Conformal Seamless Similarity Maps. arXiv preprint arXiv:1705.02422 (2017)."
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/3072959.3073647",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1007/BF01270385",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/2504435.2504442",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1111/j.1467-8659.2010.01761.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1002/rsa.10073",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/2491491.2491498",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "author": "Diamanti Olga",
+                "volume-title": "Computer Graphics Forum"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "unstructured": "Peter G Doyle and J Laurie Snell. 1984. Random walks and electric networks. Mathematical Association of America .  Peter G Doyle and J Laurie Snell. 1984. Random walks and electric networks. Mathematical Association of America .",
+                "DOI": "10.5948/UPO9781614440222",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/2508363.2508372",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.5555/644108.644208",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "unstructured": "Alec Jacobson Daniele Panozzo etal 2016. libigl: A simple C++ geometry processing library. (2016). http://libigl.github.io/libigl/.  Alec Jacobson Daniele Panozzo et al. 2016. libigl: A simple C++ geometry processing library. (2016). http://libigl.github.io/libigl/.",
+                "DOI": "10.1145/3134472.3134497",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/2816795.2818078",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "William B Johnson and Joram Lindenstrauss. 1984. Extensions of Lipschitz mappings into a Hilbert space. Contemporary mathematics 26 189--206 (1984) 1.  William B Johnson and Joram Lindenstrauss. 1984. Extensions of Lipschitz mappings into a Hilbert space. Contemporary mathematics 26 189--206 (1984) 1.",
+                "DOI": "10.1090/conm/026/737400",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "G Kirchhoff. 1958. On the solution of the equations obtained from the investigation of the linear distribution of galvanic currents. IRE transactions on circuit theory 5 1 (1958) 4--7.  G Kirchhoff. 1958. On the solution of the equations obtained from the investigation of the linear distribution of galvanic currents. IRE transactions on circuit theory 5 1 (1958) 4--7.",
+                "DOI": "10.1109/TCT.1958.1086426",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/2461912.2462005",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1016/j.dam.2006.06.007",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "author": "Meyer Mark",
+                "volume-title": "Visualization and mathematics"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1109/18.915688",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/2601097.2601154",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/2185520.2185605",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/2461912.2461970",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1016/j.cag.2013.03.006",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/2070781.2024175",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/1183287.1183297",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/1356682.1356683",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1109/TIT.2017.2759281",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1137/080734029",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1145/1360612.1360676",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1145/882262.882290",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "unstructured": "Amir Vaxman Marcel Campen Olga Diamanti Daniele Panozzo David Bommes Klaus Hildebrandt and Mirela Ben-Chen. 2016. Directional Field Synthesis Design and Processing. Computer Graphics Forum (2016).  Amir Vaxman Marcel Campen Olga Diamanti Daniele Panozzo David Bommes Klaus Hildebrandt and Mirela Ben-Chen. 2016. Directional Field Synthesis Design and Processing. Computer Graphics Forum (2016).",
+                "DOI": "10.1145/2988458.2988478",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201375&ftid=1991679&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:38:44Z",
+            "timestamp": 1585960724000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 37,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201375"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201375",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

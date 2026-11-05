@@ -1,0 +1,474 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    9,
+                    25
+                ]
+            ],
+            "date-time": "2020-09-25T09:34:36Z",
+            "timestamp": 1601026476996
+        },
+        "reference-count": 59,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    8
+                ]
+            ]
+        },
+        "DOI": "10.1145/3386569.3392389",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2020,
+                    8,
+                    12
+                ]
+            ],
+            "date-time": "2020-08-12T11:44:27Z",
+            "timestamp": 1597232667000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 1,
+        "title": [
+            "Discrete differential operators on polygonal meshes"
+        ],
+        "prefix": "10.1145",
+        "volume": "39",
+        "author": [
+            {
+                "given": "Fernando",
+                "family": "De Goes",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Pixar Animation Studios"
+                    }
+                ]
+            },
+            {
+                "given": "Andrew",
+                "family": "Butts",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Pixar Animation Studios"
+                    }
+                ]
+            },
+            {
+                "given": "Mathieu",
+                "family": "Desbrun",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "ShanghaiTech University, Shanghai, China"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_1_1_1",
+                "author": "Abraham Ralph",
+                "volume": "75",
+                "year": "1988",
+                "volume-title": "Applied Mathematical Sciences"
+            },
+            {
+                "key": "e_1_2_1_2_1",
+                "DOI": "10.1145/2010324.1964997",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_3_1",
+                "DOI": "10.1109/TMAG.2006.870932",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_4_1",
+                "DOI": "10.1145/2723158",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_5_1",
+                "DOI": "10.1142/S0218202512500492",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_6_1",
+                "DOI": "10.1142/S021820251750052X",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_7_1",
+                "DOI": "10.1142/S0218202505000832",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_8_1",
+                "unstructured": "Astrid Bunge Philipp Herholz Misha Kazhdan and Mario Botsch. 2020. Polygon Laplacian Made Simple. Computer Graphics Forum 39 2 (2020).  Astrid Bunge Philipp Herholz Misha Kazhdan and Mario Botsch. 2020. Polygon Laplacian Made Simple. Computer Graphics Forum 39 2 (2020)."
+            },
+            {
+                "key": "e_1_2_1_9_1",
+                "DOI": "10.5555/1056088.1648411",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_10_1",
+                "DOI": "10.1145/1391989.1391995",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_11_1",
+                "author": "Cohen-Steiner David",
+                "year": "2003",
+                "volume-title": "Restricted Delaunay Triangulations and Normal Cycle. In Symposium on Computational Geometry. 312--321"
+            },
+            {
+                "key": "e_1_2_1_12_1",
+                "first-page": "661",
+                "article-title": "Boundary-Element-Based Finite Element Methods for Helmholtz and Maxwell Equations on General Polyhedral Meshes",
+                "volume": "3",
+                "author": "Copeland Dylan M.",
+                "year": "2009",
+                "journal-title": "International Journal of Mathematical and Computational Sciences"
+            },
+            {
+                "key": "e_1_2_1_13_1",
+                "author": "Crane Keenan",
+                "year": "2013",
+                "volume-title": "Digital Geometry Processing with Discrete Exterior Calculus. In ACM SIGGRAPH 2013 Courses. Course #7."
+            },
+            {
+                "key": "e_1_2_1_14_1",
+                "DOI": "10.1111/j.1467-8659.2010.01761.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_15_1",
+                "DOI": "10.1145/2516971.2516977",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_16_1",
+                "DOI": "10.1016/j.finel.2007.05.009",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_17_1",
+                "DOI": "10.1145/2897824.2925880",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_18_1",
+                "unstructured": "Fernando de Goes Mathieu Desbrun and Yiying Tong. 2016a. Vector Field Processing on Triangle Meshes. In ACM SIGGRAPH Courses. Article 27 49 pages.  Fernando de Goes Mathieu Desbrun and Yiying Tong. 2016a. Vector Field Processing on Triangle Meshes. In ACM SIGGRAPH Courses. Article 27 49 pages.",
+                "DOI": "10.1145/2897826.2927303",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_19_1",
+                "DOI": "10.1111/cgf.12427",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_20_1",
+                "author": "DeCarlo Doug",
+                "year": "2004",
+                "volume-title": "Interactive Rendering of Suggestive Contours with Temporal Coherence. In Symposium on Non-Photorealistic Animation and Rendering. 135--145"
+            },
+            {
+                "key": "e_1_2_1_21_1",
+                "first-page": "287",
+                "article-title": "Discrete Differential Forms for Computational Modeling. In Discrete Differential Geometry, A.I. Bobenko et al. (Ed.). Birkh\u00e4user Basel",
+                "volume": "16",
+                "author": "Desbrun Mathieu",
+                "year": "2008",
+                "journal-title": "Chapter"
+            },
+            {
+                "key": "e_1_2_1_22_1",
+                "volume": "41",
+                "first-page": "637",
+                "year": "1999",
+                "article-title": "Centroidal Voronoi Tessellations",
+                "journal-title": "Applications and Algorithms. SIAM Rev."
+            },
+            {
+                "key": "e_1_2_1_23_1",
+                "DOI": "10.5555/775492.775496",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_24_1",
+                "DOI": "10.1016/j.cma.2014.05.005",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_25_1",
+                "DOI": "10.1515/cmam-2016-0019",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_26_1",
+                "DOI": "10.1111/j.1467-8659.2006.00974.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_27_1",
+                "DOI": "10.1145/3233304",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_28_1",
+                "DOI": "10.1111/cgf.12709",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_29_1",
+                "DOI": "10.1016/j.cagd.2011.05.001",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_30_1",
+                "unstructured": "Anil N. Hirani. 2003. Discrete Exterior Calculus. Ph.D. Dissertation. Caltech.  Anil N. Hirani. 2003. Discrete Exterior Calculus. Ph.D. Dissertation. Caltech."
+            },
+            {
+                "key": "e_1_2_1_31_1",
+                "DOI": "10.5555/3115491.3115876",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_32_1",
+                "author": "Kalogerakis Evangelos",
+                "year": "2007",
+                "volume-title": "Robust Statistical Estimation of Curvature on Discretized Surfaces. In Symposium on Geometry Processing. 13--22"
+            },
+            {
+                "key": "e_1_2_1_33_1",
+                "DOI": "10.1145/2461912.2462005",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_34_1",
+                "DOI": "10.1016/j.jcp.2013.07.031",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_35_1",
+                "DOI": "10.1145/2870629",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_36_1",
+                "DOI": "10.5555/1731309.1731336",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_37_1",
+                "DOI": "10.1016/j.cma.2019.02.043",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_38_1",
+                "unstructured": "Mark Meyer Mathieu Desbrun Peter Schr\u00f6der and Alan H. Barr. 2003. Discrete Differential-Geometry Operators for Triangulated 2-Manifolds. In Visualization and Mathematics III. 35--57.  Mark Meyer Mathieu Desbrun Peter Schr\u00f6der and Alan H. Barr. 2003. Discrete Differential-Geometry Operators for Triangulated 2-Manifolds. In Visualization and Mathematics III. 35--57.",
+                "DOI": "10.1007/978-3-662-05105-4_2",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_39_1",
+                "DOI": "10.5555/1731309.1731335",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_40_1",
+                "unstructured": "Konrad Polthier and Eike Preuss. 2003. Identifying Vector Field Singularities Using a Discrete Hodge Decomposition. Visualization and Mathematics 3 (2003).  Konrad Polthier and Eike Preuss. 2003. Identifying Vector Field Singularities Using a Discrete Hodge Decomposition. Visualization and Mathematics 3 (2003)."
+            },
+            {
+                "key": "e_1_2_1_41_1",
+                "unstructured": "Pierre-Arnaud Raviart and Jean-Marie Thomas. 1977. A Mixed Finite Element Method for Second Order Elliptic Problems. 66 (1977) 292--315.  Pierre-Arnaud Raviart and Jean-Marie Thomas. 1977. A Mixed Finite Element Method for Second Order Elliptic Problems. 66 (1977) 292--315."
+            },
+            {
+                "key": "e_1_2_1_42_1",
+                "DOI": "10.1137/110849481",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_43_1",
+                "author": "Rusinkiewicz Szymon",
+                "year": "2004",
+                "volume-title": "Estimating Curvatures and Their Derivatives on Triangle Meshes. In Symposium on 3D Data Processing, Visualization, and Transmission. 486--493"
+            },
+            {
+                "key": "e_1_2_1_44_1",
+                "DOI": "10.1145/3243651",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_45_1",
+                "DOI": "10.1145/3241041",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_46_1",
+                "DOI": "10.1145/2766947",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_47_1",
+                "DOI": "10.1111/j.1467-8659.2011.02028.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_48_1",
+                "DOI": "10.1002/nme.1141",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_49_1",
+                "first-page": "175",
+                "article-title": "Curvatures of Smooth and Discrete Surfaces. Birkh\u00e4user Basel",
+                "volume": "9",
+                "author": "Sullivan John M.",
+                "year": "2008",
+                "journal-title": "Chapter"
+            },
+            {
+                "key": "e_1_2_1_50_1",
+                "DOI": "10.1145/1015706.1015736",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_51_1",
+                "unstructured": "Xu-Hai Tang Sheng-Chuan Wu Chao Zheng and Jian-Hai Zhang. 2009. A novel virtual node method for polygonal elements. Appl. Math. Mech. 30 (2009) Article 1233.  Xu-Hai Tang Sheng-Chuan Wu Chao Zheng and Jian-Hai Zhang. 2009. A novel virtual node method for polygonal elements. Appl. Math. Mech. 30 (2009) Article 1233.",
+                "DOI": "10.1007/s10483-009-1003-3",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_52_1",
+                "DOI": "10.1109/ICCV.1995.466840",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_53_1",
+                "DOI": "10.1145/882262.882290",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_54_1",
+                "unstructured": "Amir Vaxman Marcel Campen Olga Diamanti David Bommes Klaus Hildebrandt Mirela Ben-Chen Technion and Daniele Panozzo. 2017. Directional Field Synthesis Design and Processing. In ACM SIGGRAPH Courses. Article 12 30 pages.  Amir Vaxman Marcel Campen Olga Diamanti David Bommes Klaus Hildebrandt Mirela Ben-Chen Technion and Daniele Panozzo. 2017. Directional Field Synthesis Design and Processing. In ACM SIGGRAPH Courses. Article 12 30 pages.",
+                "DOI": "10.1145/3084873.3084921",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_55_1",
+                "author": "Wachspress Eugene L.",
+                "volume": "114",
+                "year": "1975",
+                "volume-title": "Mathematics in Science and Engineering"
+            },
+            {
+                "key": "e_1_2_1_56_1",
+                "unstructured": "Max Wardetzky. 2006. Discrete Differential Operators on Polyhedral Surfaces: Convergence and Approximation. Ph.D. Dissertation. Freie Universit at Berlin.  Max Wardetzky. 2006. Discrete Differential Operators on Polyhedral Surfaces: Convergence and Approximation. Ph.D. Dissertation. Freie Universit at Berlin."
+            },
+            {
+                "key": "e_1_2_1_57_1",
+                "author": "Yang Yong-Liang",
+                "year": "2006",
+                "volume-title": "Robust Principal Curvatures on Multiple Scales. In Symposium on Geometry Processing. 223--226"
+            },
+            {
+                "key": "e_1_2_1_58_1",
+                "author": "Yu Yizhou",
+                "year": "2004",
+                "volume-title": "Mesh Editing with Poisson-Based Gradient Field Manipulation. In ACM Conference on Computer Graphics and Interactive Techniques (SIGGRAPH). 644--651"
+            },
+            {
+                "key": "e_1_2_1_59_1",
+                "DOI": "10.1145/1183287.1183290",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    9,
+                    25
+                ]
+            ],
+            "date-time": "2020-09-25T02:59:03Z",
+            "timestamp": 1601002743000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    8
+                ]
+            ]
+        },
+        "references-count": 59,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2020,
+                        7,
+                        8
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3386569.3392389"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3386569.3392389",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

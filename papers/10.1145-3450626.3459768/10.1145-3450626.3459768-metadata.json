@@ -1,0 +1,625 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2021,
+                    8,
+                    24
+                ]
+            ],
+            "date-time": "2021-08-24T18:12:39Z",
+            "timestamp": 1629828759702
+        },
+        "reference-count": 74,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "funder": [
+            {
+                "name": "European Research Council",
+                "award": [
+                    "714776 OPREP"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100001804",
+                "name": "Canada Research Chairs Program",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "name": "MESH Inc"
+            },
+            {
+                "name": "New Frontiers of Research Fund",
+                "award": [
+                    "NFRFE?201"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100000781",
+                "name": "Ontario Early Research Award",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "name": "Fields Centre for Quantitative Analysis and Modelling"
+            },
+            {
+                "name": "Adobe Inc"
+            },
+            {
+                "DOI": "10.13039/100004675",
+                "name": "Autodesk Inc",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "name": "NSERC Discovery",
+                "award": [
+                    "RGPIN2017?05235, RGPAS?2017?507938"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100001736",
+                "name": "German-Israeli Foundation for Scientific Research and Development",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "I-1339-407.6/2016"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100003977",
+                "name": "Israel Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "504/16"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2021,
+                    8
+                ]
+            ]
+        },
+        "DOI": "10.1145/3450626.3459768",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2021,
+                    7,
+                    20
+                ]
+            ],
+            "date-time": "2021-07-20T00:04:26Z",
+            "timestamp": 1626739466000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 5,
+        "title": [
+            "Surface multigrid via intrinsic prolongation"
+        ],
+        "prefix": "10.1145",
+        "volume": "40",
+        "author": [
+            {
+                "given": "Hsueh-Ti Derek",
+                "family": "Liu",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of Toronto, Canada"
+                    }
+                ]
+            },
+            {
+                "given": "Jiayi Eris",
+                "family": "Zhang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Toronto, Canada"
+                    }
+                ]
+            },
+            {
+                "given": "Mirela",
+                "family": "Ben-Chen",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Israel Institute of Technology, Israel"
+                    }
+                ]
+            },
+            {
+                "given": "Alec",
+                "family": "Jacobson",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Toronto, Canada"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_1_1_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/3340255"
+            },
+            {
+                "key": "e_1_2_1_2_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/331532.331559"
+            },
+            {
+                "key": "e_1_2_1_3_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1137/S1064827503430138"
+            },
+            {
+                "key": "e_1_2_1_4_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1016/j.cagd.2016.02.005"
+            },
+            {
+                "key": "e_1_2_1_5_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/2786784.2786793"
+            },
+            {
+                "key": "e_1_2_1_6_1",
+                "volume-title": "Multi-level adaptive solutions to boundary-value problems. Mathematics of computation 31, 138",
+                "author": "Brandt Achi",
+                "year": "1977"
+            },
+            {
+                "key": "e_1_2_1_7_1",
+                "doi-asserted-by": "crossref",
+                "unstructured": "Achi Brandt and Oren E Livne. 2011. Multigrid Techniques: 1984 Guide with Applications to Fluid Dynamics Revised Edition. SIAM.  Achi Brandt and Oren E Livne. 2011. Multigrid Techniques: 1984 Guide with Applications to Fluid Dynamics Revised Edition. SIAM.",
+                "DOI": "10.1137/1.9781611970753"
+            },
+            {
+                "key": "e_1_2_1_8_1",
+                "volume-title": "Algebraic multigrid (amg) for sparse matrix equati0ns. Sparsity and its Applications 257",
+                "author": "Brandt A",
+                "year": "1985"
+            },
+            {
+                "key": "e_1_2_1_9_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/1391989.1391995"
+            },
+            {
+                "key": "e_1_2_1_10_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/3386569.3392486"
+            },
+            {
+                "key": "e_1_2_1_11_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1111/j.1467-8659.2009.01524.x"
+            },
+            {
+                "key": "e_1_2_1_12_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1142/S0218195903001074"
+            },
+            {
+                "key": "e_1_2_1_13_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/3131280"
+            },
+            {
+                "key": "e_1_2_1_14_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/2897824.2925880"
+            },
+            {
+                "key": "e_1_2_1_15_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1016/j.simpat.2010.11.005"
+            },
+            {
+                "key": "e_1_2_1_16_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/2980179.2982437"
+            },
+            {
+                "key": "e_1_2_1_17_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/1027411.1027418"
+            },
+            {
+                "key": "e_1_2_1_18_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/258734.258849"
+            },
+            {
+                "key": "e_1_2_1_19_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1137/080713483"
+            },
+            {
+                "key": "e_1_2_1_20_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1016/j.cag.2006.02.016"
+            },
+            {
+                "key": "e_1_2_1_21_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/566282.566321"
+            },
+            {
+                "key": "e_1_2_1_22_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/513400.513443"
+            },
+            {
+                "key": "e_1_2_1_23_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/344779.344831"
+            },
+            {
+                "key": "e_1_2_1_24_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.5555/1089508.1089522"
+            },
+            {
+                "key": "e_1_2_1_25_1",
+                "doi-asserted-by": "crossref",
+                "volume-title": "Multi-grid methods and applications",
+                "author": "Hackbusch Wolfgang",
+                "DOI": "10.1007/978-3-662-02427-0"
+            },
+            {
+                "key": "e_1_2_1_26_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1016/0377-0427(90)90047-4"
+            },
+            {
+                "key": "e_1_2_1_27_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/3272127.3275107"
+            },
+            {
+                "key": "e_1_2_1_28_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/3414685.3417828"
+            },
+            {
+                "key": "e_1_2_1_29_1",
+                "volume-title": "Progressive Meshes. In Proceedings of the 23rd Annual Conference on Computer Graphics and Interactive Techniques, SIGGRAPH 1996",
+                "author": "Hoppe Hugues",
+                "year": "1996"
+            },
+            {
+                "key": "e_1_2_1_30_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/3386569.3392385"
+            },
+            {
+                "key": "e_1_2_1_31_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1111/j.1467-8659.2010.01765.x"
+            },
+            {
+                "key": "e_1_2_1_32_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/2816795.2818078"
+            },
+            {
+                "key": "e_1_2_1_33_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1111/cgf.12209"
+            },
+            {
+                "key": "e_1_2_1_34_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/3414685.3417769"
+            },
+            {
+                "key": "e_1_2_1_35_1",
+                "volume-title": "Oseledets",
+                "author": "Katrutsa Alexandr",
+                "year": "2020"
+            },
+            {
+                "key": "e_1_2_1_36_1",
+                "volume-title": "Computer Graphics Forum",
+                "author": "Kazhdan Misha"
+            },
+            {
+                "key": "e_1_2_1_37_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1111/j.1467-8659.2012.03179.x"
+            },
+            {
+                "key": "e_1_2_1_38_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/1360612.1360620"
+            },
+            {
+                "key": "e_1_2_1_39_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/882262.882275"
+            },
+            {
+                "key": "e_1_2_1_40_1",
+                "volume-title": "Proceedings of the Graphics Interface 1998 Conference, June 18--20",
+                "author": "Kobbelt Leif",
+                "year": "1998"
+            },
+            {
+                "key": "e_1_2_1_41_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/2461912.2461992"
+            },
+            {
+                "key": "e_1_2_1_42_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/2070781.2024211"
+            },
+            {
+                "key": "e_1_2_1_43_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1111/cgf.13909"
+            },
+            {
+                "key": "e_1_2_1_44_1",
+                "volume-title": "Proceedings of the 25th Annual Conference on Computer Graphics and Interactive Techniques, SIGGRAPH 1998",
+                "author": "Lee Aaron W. F.",
+                "year": "1998"
+            },
+            {
+                "key": "e_1_2_1_45_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/566654.566590"
+            },
+            {
+                "key": "e_1_2_1_46_1",
+                "first-page": "124",
+                "article-title": "Neural subdivision",
+                "volume": "39",
+                "author": "Derek Liu Hsueh-Ti",
+                "year": "2020",
+                "journal-title": "ACM Trans. Graph."
+            },
+            {
+                "key": "e_1_2_1_47_1",
+                "volume-title": "ACM Transactions on Graphics",
+                "author": "Derek Liu Hsueh-Ti",
+                "year": "2019"
+            },
+            {
+                "key": "e_1_2_1_48_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1111/j.1467-8659.2008.01290.x"
+            },
+            {
+                "key": "e_1_2_1_49_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/3130800.3130897"
+            },
+            {
+                "key": "e_1_2_1_50_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1111/j.1467-8659.2011.02074.x"
+            },
+            {
+                "key": "e_1_2_1_51_1",
+                "volume-title": "Proceedings of the 2010 Eurographics/ACM SIGGRAPH Symposium on Computer Animation, SCA 2010",
+                "author": "McAdams Aleka",
+                "year": "2010"
+            },
+            {
+                "key": "e_1_2_1_52_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/2010324.1964932"
+            },
+            {
+                "key": "e_1_2_1_53_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/1015706.1015769"
+            },
+            {
+                "key": "e_1_2_1_54_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1002/cav.255"
+            },
+            {
+                "key": "e_1_2_1_55_1",
+                "unstructured": "L. N. Olson and J. B. Schroder. 2018. PyAMG: Algebraic Multigrid Solvers in Python v4.0. https://github.com/pyamg/pyamg Release 4.0.  L. N. Olson and J. B. Schroder. 2018. PyAMG: Algebraic Multigrid Solvers in Python v4.0. https://github.com/pyamg/pyamg Release 4.0."
+            },
+            {
+                "key": "e_1_2_1_56_1",
+                "volume-title": "Proceedings of the 2007 ACM SIGGRAPH/Eurographics Symposium on Computer Animation, SCA 2007",
+                "author": "Otaduy Miguel A.",
+                "year": "2007"
+            },
+            {
+                "key": "e_1_2_1_57_1",
+                "volume-title": "Hierarchical Least Squares Conformal Map. In 11th Pacific Conference on Computer Graphics and Applications, PG 2003",
+                "author": "Ray Nicolas",
+                "year": "2003"
+            },
+            {
+                "key": "e_1_2_1_58_1",
+                "volume-title": "Multigrid methods",
+                "author": "Ruge John W"
+            },
+            {
+                "key": "e_1_2_1_59_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/2816795.2818093"
+            },
+            {
+                "key": "e_1_2_1_60_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/1837026.1837034"
+            },
+            {
+                "key": "e_1_2_1_61_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/2661229.2661269"
+            },
+            {
+                "key": "e_1_2_1_62_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/1141911.1142001"
+            },
+            {
+                "key": "e_1_2_1_63_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/1618452.1618519"
+            },
+            {
+                "key": "e_1_2_1_64_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1111/j.1467-8659.2012.03064.x"
+            },
+            {
+                "key": "e_1_2_1_65_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/3377406"
+            },
+            {
+                "key": "e_1_2_1_66_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/2816795.2818081"
+            },
+            {
+                "key": "e_1_2_1_67_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1111/cgf.13933"
+            },
+            {
+                "key": "e_1_2_1_68_1",
+                "unstructured": "Ulrich Trottenberg Cornelius W Oosterlee and Anton Schuller. 2000. Multigrid. Elsevier.  Ulrich Trottenberg Cornelius W Oosterlee and Anton Schuller. 2000. Multigrid. Elsevier."
+            },
+            {
+                "key": "e_1_2_1_69_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1007/BF02238511"
+            },
+            {
+                "key": "e_1_2_1_70_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1111/cgf.13554"
+            },
+            {
+                "key": "e_1_2_1_71_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1093/comjnl/10.1.85"
+            },
+            {
+                "key": "e_1_2_1_72_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/3355089.3356486"
+            },
+            {
+                "key": "e_1_2_1_73_1",
+                "volume-title": "Robust Edge-Preserved Surface Mesh Polycube Deformation. In 25th Pacific Conference on Computer Graphics and Applications, PG 2017 - Short Papers",
+                "author": "Zhao Hui",
+                "year": "2017"
+            },
+            {
+                "key": "e_1_2_1_74_1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/1731047.1731054"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "https://dl.acm.org/doi/pdf/10.1145/3450626.3459768",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2021,
+                    7,
+                    20
+                ]
+            ],
+            "date-time": "2021-07-20T00:56:52Z",
+            "timestamp": 1626742612000
+        },
+        "score": 1,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2021,
+                    8
+                ]
+            ]
+        },
+        "references-count": 74,
+        "journal-issue": {
+            "issue": "4",
+            "published-print": {
+                "date-parts": [
+                    [
+                        2021,
+                        8
+                    ]
+                ]
+            }
+        },
+        "alternative-id": [
+            "10.1145/3450626.3459768"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3450626.3459768",
+        "relation": {},
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ],
+        "subject": [
+            "Computer Graphics and Computer-Aided Design"
+        ],
+        "published": {
+            "date-parts": [
+                [
+                    2021,
+                    8
+                ]
+            ]
+        }
+    }
+}

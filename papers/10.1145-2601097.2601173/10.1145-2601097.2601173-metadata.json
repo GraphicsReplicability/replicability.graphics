@@ -1,0 +1,388 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:41:08Z",
+            "timestamp": 1586004068196
+        },
+        "reference-count": 39,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601173",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-8",
+        "source": "Crossref",
+        "is-referenced-by-count": 36,
+        "title": [
+            "Boxelization"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Yahan",
+                "family": "Zhou",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Disney Research Boston"
+                    }
+                ]
+            },
+            {
+                "given": "Shinjiro",
+                "family": "Sueda",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Disney Research Boston"
+                    }
+                ]
+            },
+            {
+                "given": "Wojciech",
+                "family": "Matusik",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "MIT CSAIL"
+                    }
+                ]
+            },
+            {
+                "given": "Ariel",
+                "family": "Shamir",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "The Interdisciplinary Center and Disney Research Boston"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/1377676.1377695",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1090/conm/342/06126",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/2185520.2185543",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/2601097.2601157",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1089/cmb.1998.5.27",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/2366145.2366149",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "unstructured": "Chang H.-H. Lai Y.-C. Yao C.-Y. Hua K.-L. Niu Y. and Liu F. 2013. Geometry-shader-based real-time voxelization and applications. The Visual Computer (July) 1--14. 10.1007/s00371-013-0858-5   Chang H.-H. Lai Y.-C. Yao C.-Y. Hua K.-L. Niu Y. and Liu F. 2013. Geometry-shader-based real-time voxelization and applications. The Visual Computer (July) 1--14. 10.1007/s00371-013-0858-5"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/1531326.1531379",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "Chen D. Sitthi-amorn P. Lan J. T. and Matusik W. 2013. Computing and fabricating multiplanar models. Computer Graphics Forum 32 2pt3 305--315.  Chen D. Sitthi-amorn P. Lan J. T. and Matusik W. 2013. Computing and fabricating multiplanar models. Computer Graphics Forum 32 2pt3 305--315.",
+                "DOI": "10.1111/cgf.12050",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "Demaine E. D. and O'Rourke J. 2007. Geometric Folding Algorithms: Linkages Origami Polyhedra. Cambridge Univ. Press New York NY.   Demaine E. D. and O'Rourke J. 2007. Geometric Folding Algorithms: Linkages Origami Polyhedra . Cambridge Univ. Press New York NY.",
+                "DOI": "10.1017/CBO9780511735172",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "Hildebrand K. Bickel B. and Alexa M. 2012. crdbrd: Shape fabrication by sliding planar slices. Computer Graphics Forum 31 2pt3 583--592. 10.1111/j.1467-8659.2012.03037.x   Hildebrand K. Bickel B. and Alexa M. 2012. crdbrd: Shape fabrication by sliding planar slices. Computer Graphics Forum 31 2pt3 583--592. 10.1111/j.1467-8659.2012.03037.x",
+                "DOI": "10.1111/j.1467-8659.2012.03037.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.4310/CIS.2009.v9.n4.a2",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/1360612.1360674",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Kirkpatrick S. Jr. D. G. and Vecchi M. P. 1983. Optimization by simmulated annealing. Science 220 4598 671--680.  Kirkpatrick S. Jr. D. G. and Vecchi M. P. 1983. Optimization by simmulated annealing. Science 220 4598 671--680.",
+                "DOI": "10.1126/science.220.4598.671",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/2010324.1964980",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1007/s003710050149",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/1778765.1778848",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/2010324.1964993",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/2366145.2366177",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/1618452.1618503",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/2492045.2492053",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "unstructured": "Lowere B. 1976. The HARPY speech recognition system. Ph.D. Thesis Carnegie Mellon University.   Lowere B. 1976. The HARPY speech recognition system. Ph.D. Thesis Carnegie Mellon University ."
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/2366145.2366148",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/2070781.2024202",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/1015706.1015711",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "unstructured": "O'Rourke J. 2011. How to Fold It: The Mathematics of Linkages Origami and Polyhedra. Cambridge Univ. Press New York NY.  O'Rourke J. 2011. How to Fold It: The Mathematics of Linkages Origami and Polyhedra . Cambridge Univ. Press New York NY."
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/2018323.2018339",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/2461912.2461957",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "Schwartzburg Y. and Pauly M. 2013. Fabrication-aware design with intersecting planar pieces. Computer Graphics Forum 32 2pt3 317--326.  Schwartzburg Y. and Pauly M. 2013. Fabrication-aware design with intersecting planar pieces. Computer Graphics Forum 32 2pt3 317--326.",
+                "DOI": "10.1111/cgf.12051",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/2159616.2159656",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1111/j.1467-8659.2007.01103.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/2366145.2366147",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1109/TVCG.2009.67",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "unstructured": "Transformers 2007. http://transformersmovie.com.  Transformers 2007. http://transformersmovie.com."
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "author": "Varadhan G.",
+                "volume-title": "Symposium on Geometry Processing, 116--126"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "unstructured": "Weeks D. 2013. Cubebots. http://tweekstudio.com.  Weeks D. 2013. Cubebots. http://tweekstudio.com."
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1007/s003710050148",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1145/2010324.1964992",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "author": "Zhou Y.",
+                "volume-title": "Proceedings of Bridges 2012: Mathematics, Music, Art, Architecture, Culture, 49--56"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601173&amp;ftid=1488879&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:58:20Z",
+            "timestamp": 1586001500000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "folding 3D objects into boxes"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 39,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601173"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601173",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

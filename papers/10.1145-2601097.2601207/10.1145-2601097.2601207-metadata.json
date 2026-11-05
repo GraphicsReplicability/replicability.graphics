@@ -1,0 +1,450 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:41:08Z",
+            "timestamp": 1586004068290
+        },
+        "reference-count": 44,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100000143",
+                "name": "Division of Computing and Communication Foundations",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "IIS:1116718, CCF:1117939"
+                ]
+            },
+            {
+                "DOI": "10.13039/100004359",
+                "name": "Sony Electronics",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100000145",
+                "name": "Division of Information and Intelligent Systems",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "IIS:1116718, CCF:1117939"
+                ]
+            },
+            {
+                "DOI": "10.13039/100000006",
+                "name": "Office of Naval Research",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "PO4100936535"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601207",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 5,
+        "title": [
+            "Compressive epsilon photography for post-capture control in digital imaging"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Atsushi",
+                "family": "Ito",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "SONY Corporation"
+                    }
+                ]
+            },
+            {
+                "given": "Salil",
+                "family": "Tambe",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Rice University"
+                    }
+                ]
+            },
+            {
+                "given": "Kaushik",
+                "family": "Mitra",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Rice University"
+                    }
+                ]
+            },
+            {
+                "given": "Aswin C.",
+                "family": "Sankaranarayanan",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Carnegie Mellon University"
+                    }
+                ]
+            },
+            {
+                "given": "Ashok",
+                "family": "Veeraraghavan",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Rice University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/1015706.1015718",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1109/MSP.2007.4286571",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1109/TSP.2009.2027773",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "author": "Boominathan V.",
+                "volume-title": "IEEE Intl. Conf. Computational Photography."
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1109/ICASSP.2013.6638821",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1007/s11263-006-0002-3",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "author": "Buades T.",
+                "volume-title": "Intl. Workshop on Local and Non-Local Approximation in Image Processing, 1--15"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1109/MSP.2007.914731",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "Debevec P. and Malik J. 1997. Recovering high dynamic range radiance maps from photographs. In SIGGRAPH 369--378. 10.1145/258734.258884   Debevec P. and Malik J. 1997. Recovering high dynamic range radiance maps from photographs. In SIGGRAPH 369--378. 10.1145/258734.258884"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "Flam J. T. Chatterjee S. Kansanen K. and Ekman T. 2011. Minimum mean square error estimation under gaussian mixture statistics. arXiv preprint arXiv:1108.3410.  Flam J. T. Chatterjee S. Kansanen K. and Ekman T. 2011. Minimum mean square error estimation under gaussian mixture statistics. arXiv preprint arXiv:1108.3410 ."
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1109/TSP.2012.2192112",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "unstructured": "Gortler S. Grzeszczuk R. Szeliski R. and Cohen M. 1996. The lumigraph. In SIGGRAPH 43--54. 10.1145/237170.237200   Gortler S. Grzeszczuk R. Szeliski R. and Cohen M. 1996. The lumigraph. In SIGGRAPH 43--54. 10.1145/237170.237200"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/1276377.1276462",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1016/0167-8655(87)90026-2",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1007/11744023_48",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "author": "Hasinoff S. W.",
+                "volume-title": "IEEE Intl. Conf. Computer Vision, 1--8."
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1007/s11263-008-0164-2",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "author": "Hasinoff S. W.",
+                "volume-title": "IEEE Conf. Computer Vision and Pattern Recognition, 553--560"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "author": "Joshi N.",
+                "volume-title": "IEEE Intl. Conf. Computational Photography, 1--8."
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1007/BF00127822",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1109/TPAMI.2010.66",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "author": "Kutulakos K.",
+                "volume-title": "Intl. Conf. Machine Vision and Applications, 332--337"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "Law N. M. Mackay C. D. and Baldwin J. E. 2005. Lucky imaging: High angular resolution imaging in the visible from the ground. arXiv preprint astro-ph/0507299. 10.1145/1477926.1477929   Law N. M. Mackay C. D. and Baldwin J. E. 2005. Lucky imaging: High angular resolution imaging in the visible from the ground. arXiv preprint astro-ph/0507299 . 10.1145/1477926.1477929"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "author": "Levin A.",
+                "volume-title": "IEEE Conf. Computer Vision and Pattern Recognition"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "unstructured": "Levoy M. and Hanrahan P. 1996. Light field rendering. In SIGGRAPH 31--42. 10.1145/237170.237199   Levoy M. and Hanrahan P. 1996. Light field rendering. In SIGGRAPH 31--42. 10.1145/237170.237199"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "unstructured": "Lytro. The lytro camera. https://www.lytro.com/.  Lytro. The lytro camera. https://www.lytro.com/."
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "unstructured": "Mann S. and Picard R. 1994. Being undigital with digital cameras. MIT Media Lab Perceptual.  Mann S. and Picard R. 1994. Being undigital with digital cameras . MIT Media Lab Perceptual."
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/2461912.2461914",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/2461912.2461928",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "author": "Mitra K.",
+                "volume-title": "IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 22--28"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "author": "Mitra K.",
+                "volume-title": "IEEE Intl. Conf. Computational Photography."
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "author": "Park J. Y.",
+                "volume-title": "Picture Coding Symposium, 1--4."
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/1477926.1477929",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1007/978-3-642-00826-9_10",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "unstructured": "Raytrix. 3d light field camera technology. http://www.raytrix.de/.  Raytrix. 3d light field camera technology. http://www.raytrix.de/."
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1109/JPROC.2010.2040551",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "unstructured": "Sibarita J.-B. 2005. Deconvolution microscopy. In Microscopy Techniques. 201--243.  Sibarita J.-B. 2005. Deconvolution microscopy. In Microscopy Techniques . 201--243.",
+                "DOI": "10.1007/b102215",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1109/TIP.2011.2175740",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1109/ICCV.2013.129",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "unstructured": "Wagadarikar A. John R. Willett R. and Brady D. 2008. Single disperser design for coded aperture snapshot spectral imaging. Applied optics 47 10 B44--B51.  Wagadarikar A. John R. Willett R. and Brady D. 2008. Single disperser design for coded aperture snapshot spectral imaging. Applied optics 47 10 B44--B51.",
+                "DOI": "10.1364/AO.47.000B44",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "unstructured": "Yang J. Liao X. Yuan X. Llull P. Brady D. J. Sapiro G. and Carin L. Compressive sensing by learning a gaussian mixture model from measurements.  Yang J. Liao X. Yuan X. Llull P. Brady D. J. Sapiro G. and Carin L. Compressive sensing by learning a gaussian mixture model from measurements."
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "author": "Yang J.",
+                "volume-title": "International Conference on Image Processing."
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "first-page": "5",
+                "article-title": "Solving inverse problems with piecewise linear estimators: From gaussian mixture models to structured sparsity",
+                "volume": "21",
+                "author": "Yu G.",
+                "year": "2012",
+                "journal-title": "IEEE Trans. Image Processing"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1145/1276377.1276379",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601207&amp;ftid=1488896&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:01:37Z",
+            "timestamp": 1586001697000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 44,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601207"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601207",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

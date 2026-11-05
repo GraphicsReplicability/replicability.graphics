@@ -1,0 +1,411 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:41:08Z",
+            "timestamp": 1586004068142
+        },
+        "reference-count": 36,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601160",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-9",
+        "source": "Crossref",
+        "is-referenced-by-count": 24,
+        "title": [
+            "Subspace clothing simulation using adaptive bases"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Fabian",
+                "family": "Hahn",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "ETH Zurich and Disney Research Zurich"
+                    }
+                ]
+            },
+            {
+                "given": "Bernhard",
+                "family": "Thomaszewski",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Disney Research Zurich"
+                    }
+                ]
+            },
+            {
+                "given": "Stelian",
+                "family": "Coros",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Disney Research Zurich"
+                    }
+                ]
+            },
+            {
+                "given": "Robert W.",
+                "family": "Sumner",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Disney Research Zurich"
+                    }
+                ]
+            },
+            {
+                "given": "Forrester",
+                "family": "Cole",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Pixar Animation Studios"
+                    }
+                ]
+            },
+            {
+                "given": "Mark",
+                "family": "Meyer",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Pixar Animation Studios"
+                    }
+                ]
+            },
+            {
+                "given": "Tony",
+                "family": "DeRose",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Pixar Animation Studios"
+                    }
+                ]
+            },
+            {
+                "given": "Markus",
+                "family": "Gross",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "ETH Zurich and Disney Research Zurich"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/1409060.1409118",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/280814.280821",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/1073204.1073300",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/1778765.1778818",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/2504459.2504468",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/566654.566623",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/1778765.1778843",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/1778765.1778845",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "author": "Grinspun E.",
+                "volume-title": "Proceedings of ACM SIGGRAPH/Eurographics Symposium on Computer Animation, 62--67"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/2185520.2185531",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/2185520.2185568",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/2485895.2485918",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/2461912.2461922",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/1073204.1073206",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/2010324.1964988",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/1618452.1618469",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "author": "Kim T.-Y.",
+                "volume-title": "Proceedings of the ACM SIGGRAPH/Eurographics Symposium on Computer Animation, 49--55"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/2461912.2462020",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/545261.545286",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1002/nme.167",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/1028523.1028571",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/1667146.1667199",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/344779.344862",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/2010324.1964967",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/1276377.1276469",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "author": "M\u00fcller M.",
+                "volume-title": "Proceedings of the ACM SIGGRAPH/Eurographics Symposium on Computer Animation, 85--92"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/2508363.2508417",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/1882261.1866183",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1109/TVCG.2008.79",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/364338.364382",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "author": "Thomaszewski B.",
+                "volume-title": "Proceedings of Computer Graphics International 08"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/1778765.1778844",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1111/j.1467-8659.2007.01048.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/2461912.2461951",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1145/2185520.2185594",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1109/TVCG.2012.79",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601160&amp;ftid=1488913&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:01:19Z",
+            "timestamp": 1586001679000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 36,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601160"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601160",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

@@ -1,0 +1,388 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:11:20Z",
+            "timestamp": 1586002280363
+        },
+        "reference-count": 32,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100000038",
+                "name": "Natural Sciences and Engineering Research Council of Canada",
+                "doi-asserted-by": "publisher",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601103",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 39,
+        "title": [
+            "Temporal frequency probing for 5D transient analysis of global light transport"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Matthew",
+                "family": "O'Toole",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of Toronto"
+                    }
+                ]
+            },
+            {
+                "given": "Felix",
+                "family": "Heide",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of British Columbia"
+                    }
+                ]
+            },
+            {
+                "given": "Lei",
+                "family": "Xiao",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of British Columbia"
+                    }
+                ]
+            },
+            {
+                "given": "Matthias B.",
+                "family": "Hullin",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Bonn"
+                    }
+                ]
+            },
+            {
+                "given": "Wolfgang",
+                "family": "Heidrich",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of British Columbia and KAUST"
+                    }
+                ]
+            },
+            {
+                "given": "Kiriakos N.",
+                "family": "Kutulakos",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Toronto"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "author": "Bai J.",
+                "volume-title": "Proc. ECCV, 294--307"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "Debevec P. Hawkins T. Tchou C. Duiker H.-P. Sarokin W. and Sagar M. 2000. Acquiring the reflectance field of a human face. ACM SIGGRAPH 145--156. 10.1145/344779.344855   Debevec P. Hawkins T. Tchou C. Duiker H.-P. Sarokin W. and Sagar M. 2000. Acquiring the reflectance field of a human face. ACM SIGGRAPH 145--156. 10.1145/344779.344855"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "author": "Dorrington A.",
+                "volume": "7864",
+                "volume-title": "Proc. SPIE"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1109/ICPR.2010.874",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.5555/2383894.2383926",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "author": "Godbaz J. P.",
+                "volume": "8296",
+                "volume-title": "Proc. SPIE"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "unstructured": "Goral C. M. Torrance K. E. Greenberg D. P. and Battaile B. 1984. Modeling the interaction of light between diffuse surfaces. ACM SIGGRAPH 213--222. 10.1145/800031.808601   Goral C. M. Torrance K. E. Greenberg D. P. and Battaile B. 1984. Modeling the interaction of light between diffuse surfaces. ACM SIGGRAPH 213--222. 10.1145/800031.808601",
+                "DOI": "10.1145/964965.808601",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "author": "Gupta M.",
+                "volume-title": "Proc. ICCV, 813--820"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/2503368.2503377",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "author": "Hlawitschka M.",
+                "volume-title": "Proc. IASTED VIIP, 78--83"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1016/j.imavis.2013.10.008",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/2508363.2508428",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "Kajiya J. T. 1986. The rendering equation. ACM SIGGRAPH 143--150. 10.1145/15922.15902   Kajiya J. T. 1986. The rendering equation. ACM SIGGRAPH 143--150. 10.1145/15922.15902",
+                "DOI": "10.1145/15886.15902",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1007/s11263-011-0470-y",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "author": "Kirmani A.",
+                "volume-title": "Proc. ICASSP, 5425--5428"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "Kirmani A. Venkatraman D. Shin D. Colaco A. Wong F. N. C. Shapiro J. H. and Goyal V. K. 2013. First-photon imaging. Science.  Kirmani A. Venkatraman D. Shin D. Colaco A. Wong F. N. C. Shapiro J. H. and Goyal V. K. 2013. First-photon imaging. Science .",
+                "DOI": "10.1126/science.1246775",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "author": "Mei J.",
+                "volume-title": "Proc. ICIP, 364--368"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "unstructured": "Nayar S. K. Krishnan G. Grossberg M. D. and Raskar R. 2006. Fast separation of direct and global components of a scene using high frequency illumination. ACM SIGGRAPH 935--944. 10.1145/1179352.1141977   Nayar S. K. Krishnan G. Grossberg M. D. and Raskar R. 2006. Fast separation of direct and global components of a scene using high frequency illumination. ACM SIGGRAPH 935--944. 10.1145/1179352.1141977",
+                "DOI": "10.1145/1141911.1141977",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "unstructured": "Ng R. Ramamoorthi R. and Hanrahan P. 2003. All-frequency shadows using non-linear wavelet lighting approximation. ACM SIGGRAPH 376--381. 10.1145/1201775.882280   Ng R. Ramamoorthi R. and Hanrahan P. 2003. All-frequency shadows using non-linear wavelet lighting approximation. ACM SIGGRAPH 376--381. 10.1145/1201775.882280",
+                "DOI": "10.1145/1201775.882280",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/1882261.1866165",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "O'Toole M. Raskar R. and Kutulakos K. N. 2012. Primal-dual coding to probe light transport.  O'Toole M. Raskar R. and Kutulakos K. N. 2012. Primal-dual coding to probe light transport.",
+                "DOI": "10.1145/2185520.2185535",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "author": "O'Toole M.",
+                "volume-title": "Proc. CVPR."
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/1477926.1477929",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1007/978-3-642-33783-3_43",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1109/ICCV.2005.25",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1111/j.1467-8659.2009.01401.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "unstructured": "Sen P. Chen B. Garg G. Marschner S. Horowitz M. Levoy M. and Lensch H. P. A. 2005. Dual photography. ACM SIGGRAPH 745--755. 10.1145/1186822.1073257   Sen P. Chen B. Garg G. Marschner S. Horowitz M. Levoy M. and Lensch H. P. A. 2005. Dual photography. ACM SIGGRAPH 745--755. 10.1145/1186822.1073257",
+                "DOI": "10.1145/1073204.1073257",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "unstructured": "Velten A. Willwacher T. Gupta O. Veeraraghavan A. Bawendi M. G. and Raskar R. 2012. Recovering three-dimensional shape around a corner using ultrafast time-of-flight imaging. Nature Communications.  Velten A. Willwacher T. Gupta O. Veeraraghavan A. Bawendi M. G. and Raskar R. 2012. Recovering three-dimensional shape around a corner using ultrafast time-of-flight imaging. Nature Communications .",
+                "DOI": "10.1038/ncomms1747",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/2461912.2461928",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "unstructured": "Wetzstein G. and Bimber O. 2007. Radiometric compensation through inverse light transport. 391--399. 10.1109/PG.2007.52   Wetzstein G. and Bimber O. 2007. Radiometric compensation through inverse light transport. 391--399. 10.1109/PG.2007.52"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "author": "Wu D.",
+                "volume-title": "Proc. CVPR, 366--373"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "unstructured": "Wu D. Wetzstein G. Barsi C. Willwacher T. Dai Q. and Raskar R. 2013. Ultra-fast lensless computational imaging through 5d frequency analysis of time-resolved light transport. Int. J. of Computer Vision 1--13.  Wu D. Wetzstein G. Barsi C. Willwacher T. Dai Q. and Raskar R. 2013. Ultra-fast lensless computational imaging through 5d frequency analysis of time-resolved light transport. Int. J. of Computer Vision 1--13.",
+                "DOI": "10.1007/s11263-013-0686-0",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601103&amp;ftid=1488895&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:50:57Z",
+            "timestamp": 1586001057000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 32,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601103"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601103",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

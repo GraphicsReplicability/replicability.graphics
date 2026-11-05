@@ -1,0 +1,509 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T02:11:27Z",
+            "timestamp": 1585966287520
+        },
+        "reference-count": 55,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100001711",
+                "name": "Schweizerischer Nationalfonds zur F\u00f6rderung der Wissenschaftlichen Forschung",
+                "doi-asserted-by": "crossref",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925944",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 40,
+        "title": [
+            "Beyond developable"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Mina",
+                "family": "Konakovi\u0107",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "EPFL"
+                    }
+                ]
+            },
+            {
+                "given": "Keenan",
+                "family": "Crane",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "CMU"
+                    }
+                ]
+            },
+            {
+                "given": "Bailin",
+                "family": "Deng",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Hull"
+                    }
+                ]
+            },
+            {
+                "given": "Sofien",
+                "family": "Bouaziz",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "EPFL"
+                    }
+                ]
+            },
+            {
+                "given": "Daniel",
+                "family": "Piker",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Mark",
+                "family": "Pauly",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "EPFL"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1137/110845860",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "Bazant M. Z. and Crowdy D. 2005. Conformal Mapping Methods for Interfacial Dynamics.  Bazant M. Z. and Crowdy D. 2005. Conformal Mapping Methods for Interfacial Dynamics.",
+                "DOI": "10.1007/978-1-4020-3286-8_71",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.5555/2381112.2381114",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1111/j.1467-8659.2008.01142.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "Bobenko A. I. and Suris Y. B. 2008. Discrete Differential Geometry: Integrable Structure. AMS.  Bobenko A. I. and Suris Y. B. 2008. Discrete Differential Geometry: Integrable Structure . AMS.",
+                "DOI": "10.1090/gsm/098",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1111/j.1467-8659.2012.03171.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/2601097.2601116",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "Caneparo L. 2014. Digital Fabrication in Architecture Engineering and Construction. Springer.   Caneparo L. 2014. Digital Fabrication in Architecture Engineering and Construction . Springer.",
+                "DOI": "10.1007/978-94-007-7137-6",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1073/pnas.1417276111",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/2537852",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/2010324.1964999",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/2461912.2461986",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1111/1467-8659.00580",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Deuss M. Deleuran A. Bouaziz S. Deng B. Piker D. and Pauly M. 2015. ShapeOp -- a robust and extensible geometric modelling paradigm. In Modelling Behaviour. Springer International Publishing 505--515.  Deuss M. Deleuran A. Bouaziz S. Deng B. Piker D. and Pauly M. 2015. ShapeOp -- a robust and extensible geometric modelling paradigm. In Modelling Behaviour . Springer International Publishing 505--515.",
+                "DOI": "10.1007/978-3-319-24208-8_42",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "unstructured": "Evans K. E. and Alderson A. 2000. Auxetic materials: Functional materials and structures from lateral thinking! Advanced Materials 12 9 617--628.  Evans K. E. and Alderson A. 2000. Auxetic materials: Functional materials and structures from lateral thinking! Advanced Materials 12 9 617--628.",
+                "DOI": "10.1002/(SICI)1521-4095(200005)12:9<617::AID-ADMA617>3.0.CO;2-3",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "Feeman T. G. 2002. Portraits of the Earth: A Mathematician Looks at Maps. American Mathematical Society.  Feeman T. G. 2002. Portraits of the Earth: A Mathematician Looks at Maps . American Mathematical Society.",
+                "DOI": "10.1090/mawrld/018",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/2601097.2601106",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "unstructured": "Gatt R. Mizzi L. Azzopardi J. I. Azzopardi K. M. Attard D. Casha A. Briffa J. and Grima J. N. 2015. Hierarchical auxetic mechanical metamaterials. Scientific Reports 5.  Gatt R. Mizzi L. Azzopardi J. I. Azzopardi K. M. Attard D. Casha A. Briffa J. and Grima J. N. 2015. Hierarchical auxetic mechanical metamaterials. Scientific Reports 5 .",
+                "DOI": "10.1038/srep08395",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "unstructured": "Gibson I. Rosen D. and Stucker B. 2015. Additive Manufacturing Technologies: 3D Printing Rapid Prototyping and Direct Digital Manufacturing 2nd ed. Springer.  Gibson I. Rosen D. and Stucker B. 2015. Additive Manufacturing Technologies: 3D Printing Rapid Prototyping and Direct Digital Manufacturing 2nd ed. Springer.",
+                "DOI": "10.1007/978-1-4939-2113-3",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "author": "Gu X.",
+                "volume-title": "Proc. SGP, 127--137"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "Gu X. D. and Yau S.-T. 2008. Computational conformal geometry. International Press of Boston Inc.  Gu X. D. and Yau S.-T. 2008. Computational conformal geometry . International Press of Boston Inc."
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1090/S0002-9947-2011-05239-6",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1111/j.1467-8659.2012.03037.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/2816795.2818118",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/2185520.2185545",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/1138450.1138461",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/1360612.1360674",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1126/science.1215309",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/566654.566590",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/1618452.1618521",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "unstructured": "Li S. Zeng W. Zhou D. Gu X. D. and Gao J. 2013. Compact conformal map for greedy routing in wireless mobile sensor networks. In INFOCOM IEEE 2409--2417.  Li S. Zeng W. Zhou D. Gu X. D. and Gao J. 2013. Compact conformal map for greedy routing in wireless mobile sensor networks. In INFOCOM IEEE 2409--2417.",
+                "DOI": "10.1109/INFCOM.2013.6567046",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/1531326.1531378",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/2185520.2185604",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/1141911.1141941",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1145/2816795.2818091",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.5555/1731309.1731335",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/2766998",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1016/j.cag.2014.11.002",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "author": "Rafsanjani A.",
+                "volume-title": "APS March Meeting."
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1145/1499586.1499744",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "unstructured": "R\u00f6hrig T. Sechelmann S. Kycia A. and Fleischmann M. 2014. Surface panelization using periodic conformal maps. In Advances in Architectural Geometry 2014. Springer International Publishing 199--214.  R\u00f6hrig T. Sechelmann S. Kycia A. and Fleischmann M. 2014. Surface panelization using periodic conformal maps. In Advances in Architectural Geometry 2014. Springer International Publishing 199--214.",
+                "DOI": "10.1007/978-3-319-11418-7_13",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1145/1618452.1618485",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1111/cgf.12051",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1145/2601097.2601166",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1145/2461912.2461915",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1145/1360612.1360676",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "first-page": "1376",
+                "article-title": "Circle packing: a mathematical tale",
+                "volume": "50",
+                "author": "Stephenson K.",
+                "year": "2003",
+                "journal-title": "Notices of the AMS"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "author": "Sullivan J. M.",
+                "volume-title": "Proceedings of Bridges 2011: Mathematics, Music, Art, Architecture, Culture"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "DOI": "10.1109/TVCG.2009.67",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "DOI": "10.1115/1.4025389",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "DOI": "10.1145/2832906",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "author": "Testuz R.",
+                "volume-title": "Proc. Eurographics."
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "DOI": "10.1145/2766915",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "DOI": "10.1111/j.1467-8659.2012.03173.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_55_1",
+                "first-page": "10",
+                "article-title": "Zometool rationalization of freeform surfaces. Visualization and Computer Graphics",
+                "volume": "20",
+                "author": "Zimmer H.",
+                "year": "2014",
+                "journal-title": "IEEE Transactions on"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925944&amp;ftid=1755942&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:30:15Z",
+            "timestamp": 1585963815000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "computational design and fabrication with auxetic materials"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 55,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925944"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925944",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

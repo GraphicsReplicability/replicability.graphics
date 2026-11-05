@@ -1,0 +1,396 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    6,
+                    28
+                ]
+            ],
+            "date-time": "2020-06-28T21:42:36Z",
+            "timestamp": 1593380556400
+        },
+        "reference-count": 42,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2019,
+                            7,
+                            12
+                        ]
+                    ],
+                    "date-time": "2019-07-12T00:00:00Z",
+                    "timestamp": 1562889600000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "DOI": "10.1145/3306346.3323026",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2019-07-12T19:04:08Z",
+            "timestamp": 1562958248000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+            "Gaussian-product subdivision surfaces"
+        ],
+        "prefix": "10.1145",
+        "volume": "38",
+        "author": [
+            {
+                "given": "Reinhold",
+                "family": "Preiner",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Graz University of Technology, Austria"
+                    }
+                ]
+            },
+            {
+                "given": "Tamy",
+                "family": "Boubekeur",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "LTCI, Telecom ParisTech, Paris-Saclay University, France"
+                    }
+                ]
+            },
+            {
+                "given": "Michael",
+                "family": "Wimmer",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "TU Wien, Austria"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/376957.376986",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/2451236.2451246",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/344779.344841",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "Wade Brainerd Tim Foley Manuel Kraemer Henry Moreton and Matthias Nie\u00dfner. 2016. Efficient GPU Rendering of Subdivision Surfaces using Adaptive Quadtrees. ACM Transactions on Graphics (TOG) (2016). 10.1145/2897824.2925874   Wade Brainerd Tim Foley Manuel Kraemer Henry Moreton and Matthias Nie\u00dfner. 2016. Efficient GPU Rendering of Subdivision Surfaces using Adaptive Quadtrees. ACM Transactions on Graphics (TOG) (2016). 10.1145/2897824.2925874"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/2980179.2980245",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/2601097.2601130",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1016/0010-4485(78)90110-0",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1007/s00371-003-0217-z",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1109/CVPR.2016.201",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1111/j.2517-6161.1977.tb01600.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/280814.280826",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1111/1467-8659.00439",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "Philipp Grohs. 2009. Smoothness of interpolatory multivariate subdivision in Lie groups. IMA J. Numer. Anal. 29 (07 2009).  Philipp Grohs. 2009. Smoothness of interpolatory multivariate subdivision in Lie groups. IMA J. Numer. Anal. 29 (07 2009)."
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Philipp Grohs. 2010. A General Proximity Analysis of Nonlinear Subdivision Schemes. SIAM J. Math. Analysis 42 (01 2010) 729--750.  Philipp Grohs. 2010. A General Proximity Analysis of Nonlinear Subdivision Schemes. SIAM J. Math. Analysis 42 (01 2010) 729--750.",
+                "DOI": "10.1137/09075963X",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1016/0024-3795(87)90307-7",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/192161.192233",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "Uri Itai and Nir Sharon. 2013. Subdivision Schemes for Positive Definite Matrices. Foundations of Computational Mathematics 13 3 (01 Jun 2013) 347--369. 10.1007/s10208-012-9131-y   Uri Itai and Nir Sharon. 2013. Subdivision Schemes for Positive Definite Matrices. Foundations of Computational Mathematics 13 3 (01 Jun 2013) 347--369. 10.1007/s10208-012-9131-y",
+                "DOI": "10.1007/s10208-012-9131-y",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1109/TPAMI.2010.223",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1109/TCOM.1967.1089532",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1016/j.cagd.2006.10.006",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1111/cgf.13313",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/2487228.2487237",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/1141911.1141990",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/1839778.1839808",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "author": "Linsen Lars",
+                "volume": "2616",
+                "year": "2003",
+                "volume-title": "Lecture Notes in Computer Science"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "unstructured": "Charles Loop. 1987. Smooth Subdivision Surfaces Based on Triangles. Ph.D. Dissertation.  Charles Loop. 1987. Smooth Subdivision Surfaces Based on Triangles. Ph.D. Dissertation."
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/2077341.2077347",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.5555/1953048.2021041",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/2601097.2601172",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1016/j.proeng.2016.11.026",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1016/j.cagd.2007.07.003",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/280814.280945",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "author": "Stam Jos",
+                "year": "1999",
+                "volume-title": "Evaluation of Loop Subdivision Surfaces. In SIGGRAPH '99 Course Notes."
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.5555/1281991.1282024",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "author": "Vasconcelos Nuno",
+                "volume-title": "Advances in Neural Information Processing Systems 11"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1145/3272127.3275007",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "unstructured": "Johannes Wallner. 2014. On Convergent Interpolatory Subdivision Schemes in Riemannian Geometry. Constructive Approximation 40 (12 2014).  Johannes Wallner. 2014. On Convergent Interpolatory Subdivision Schemes in Riemannian Geometry. Constructive Approximation 40 (12 2014).",
+                "DOI": "10.1007/s00365-014-9264-0",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.5555/1122905.1648458",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "unstructured": "Johannes Wallner Esfandiar Nava Yazdani and Andreas Weinmann. 2011. Convergence and smoothness analysis of subdivision rules in Riemannian and symmetric spaces. Advances in Computational Mathematics 34 2 (01 Feb 2011) 201--218. 10.1007/s10444-010-9150-7   Johannes Wallner Esfandiar Nava Yazdani and Andreas Weinmann. 2011. Convergence and smoothness analysis of subdivision rules in Riemannian and symmetric spaces. Advances in Computational Mathematics 34 2 (01 Feb 2011) 201--218. 10.1007/s10444-010-9150-7",
+                "DOI": "10.1007/s10444-010-9150-7",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "unstructured": "Andreas Weinmann. 2010. Nonlinear Subdivision Schemes on Irregular Meshes. Constructive Approximation 31 3 (01 Jun 2010) 395--415.  Andreas Weinmann. 2010. Nonlinear Subdivision Schemes on Irregular Meshes. Constructive Approximation 31 3 (01 Jun 2010) 395--415.",
+                "DOI": "10.1007/s00365-009-9063-1",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "unstructured": "Xunnian Yang. 2016. Matrix Weighted Rational Curves and Surfaces. Comput. Aided Geom. Des. 42 C (2016) 40--53. 10.1016/j.cagd.2015.11.005   Xunnian Yang. 2016. Matrix Weighted Rational Curves and Surfaces. Comput. Aided Geom. Des. 42 C (2016) 40--53. 10.1016/j.cagd.2015.11.005",
+                "DOI": "10.1016/j.cagd.2015.11.005",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "unstructured": "Denis Zorin and Peter Schroder. 2000. Subdivision for Modeling and Animation. In ACM SIGGRAPH Course.  Denis Zorin and Peter Schroder. 2000. Subdivision for Modeling and Animation. In ACM SIGGRAPH Course."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3323026&ftid=2071730&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    6,
+                    28
+                ]
+            ],
+            "date-time": "2020-06-28T21:01:53Z",
+            "timestamp": 1593378113000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "references-count": 42,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        12
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3306346.3323026"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3306346.3323026",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

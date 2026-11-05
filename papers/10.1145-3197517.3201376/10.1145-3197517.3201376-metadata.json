@@ -1,0 +1,575 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:54Z",
+            "timestamp": 1585962714755
+        },
+        "reference-count": 71,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100010663",
+                "name": "H2020 European Research Council",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "715767"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100003422",
+                "name": "Global Collaborative Research, King Abdullah University of Science and Technology",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "Baseline Funding"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201376",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-16",
+        "source": "Crossref",
+        "is-referenced-by-count": 3,
+        "title": [
+            "Computational design of nanostructural color for additive manufacturing"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Thomas",
+                "family": "Auzinger",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Institute of Science and Technology Austria, Austria"
+                    }
+                ]
+            },
+            {
+                "given": "Wolfgang",
+                "family": "Heidrich",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "King Abdullah University of Science and Technology, Kingdom of Saudi Arabia"
+                    }
+                ]
+            },
+            {
+                "given": "Bernd",
+                "family": "Bickel",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Institute of Science and Technology Austria, Austria"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1021/am100704f",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "first-page": "1",
+                "article-title": "Inverse design of nanostructured surfaces for color effects",
+                "volume": "31",
+                "author": "Andkj\u00e6r Jacob",
+                "year": "2013",
+                "journal-title": "Journal of the Optical Society of America B"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/3072959.3073605",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "first-page": "42",
+                "article-title": "Harnessing Photochemical Shrinkage in Direct Laser Writing for Shape Morphing of Polymer Sheets",
+                "volume": "29",
+                "author": "Bauhofer Anton A.",
+                "year": "2017",
+                "journal-title": "Advanced Materials"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1137/S0895479898336021",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/3072959.3073620",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.5555/1718379.1718399",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1111/cgf.13146",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/2832905",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1039/c3tc30919c",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1137/0916069",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "unstructured": "Jennefir Digaum. 2016. Fabrication and Characterization of Spatially-Variant Self-Collimating Photonic Crystals. phdthesis. University of Central Florida. http://purl.fcla.edu/fcla/etd/CFE0006527  Jennefir Digaum. 2016. Fabrication and Characterization of Spatially-Variant Self-Collimating Photonic Crystals. phdthesis. University of Central Florida. http://purl.fcla.edu/fcla/etd/CFE0006527"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/1778765.1778799",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/3130800.3130890",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1364/OME.2.000942",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "first-page": "1",
+                "article-title": "Emerging optical properties from the combination of simple optical effects",
+                "volume": "81",
+                "author": "England Grant T",
+                "year": "2017",
+                "journal-title": "Reports on Progress in Physics"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1364/OL.31.002972",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1002/wnan.1396",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "first-page": "5",
+                "article-title": "Scalable, ultra-resistant structural colors based on network metamaterials. Light",
+                "volume": "6",
+                "author": "Galinski Henning",
+                "year": "2016",
+                "journal-title": "Science & Applications"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1364/AO.30.003492",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "Walton C. Gibson. 2014. The Method of Moments in Electromagnetics (2 ed.). Chapman and Hall/CRC Boca Raton FL.  Walton C. Gibson. 2014. The Method of Moments in Electromagnetics (2 ed.). Chapman and Hall/CRC Boca Raton FL."
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1137/0917055",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "X. Wendy Gu and Julia. R. Greer. 2015. Ultra-strong architected Cu meso-lattices. Extreme Mechanics Letters 2 (mar 2015) 7--14.  X. Wendy Gu and Julia. R. Greer. 2015. Ultra-strong architected Cu meso-lattices. Extreme Mechanics Letters 2 (mar 2015) 7--14.",
+                "DOI": "10.1016/j.eml.2015.01.006",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1088/0960-1317/26/10/105011",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/1778765.1778798",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/3072959.3073621",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1364/OE.23.009516",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "author": "Hullin Matthias B.",
+                "volume-title": "Eurographics 2013 - State of the Art Reports"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "Jian-Ming Jin. 2014. The Finite Element Method in Electromagnetics (3 ed.). John Wiley & Sons New York.   Jian-Ming Jin. 2014. The Finite Element Method in Electromagnetics (3 ed.). John Wiley & Sons New York."
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1364/AO.53.002405",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1364/JOSAB.31.000207",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1364/OPTICA.2.000239",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1103/PhysRevE.65.066611",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "unstructured": "Eric Jones Travis Oliphant Pearu Peterson etal 2001--. SciPy: Open source scientific tools for Python. (2001--). http://www.scipy.org/ {Online; accessed 01.01.2018}.  Eric Jones Travis Oliphant Pearu Peterson et al. 2001--. SciPy: Open source scientific tools for Python. (2001--). http://www.scipy.org/ {Online; accessed 01.01.2018}."
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1088/0034-4885/71/7/076401",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1038/nnano.2012.128",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/2461912.2461989",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1021/cm4012603",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/2461912.2461981",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "unstructured": "Jacques Louis Lions. 1971. Optimal Control of Systems Governed by Partial Differential Equations (1 ed.). Grundlehren der mathematischen Wissenschaften Vol. 170. Springer-Verlag Berlin Heidelberg.  Jacques Louis Lions. 1971. Optimal Control of Systems Governed by Partial Differential Equations (1 ed.). Grundlehren der mathematischen Wissenschaften Vol. 170. Springer-Verlag Berlin Heidelberg."
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1145/1618452.1618474",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "first-page": "1",
+                "article-title": "Cellular Cargo Delivery: Toward Assisted Fertilization by Sperm-Carrying Micromotors",
+                "volume": "16",
+                "author": "Medina-S\u00e1nchez Mariana",
+                "year": "2015",
+                "journal-title": "Nano Letters"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1073/pnas.1509120112",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.2961/jlmn.2014.01.0009",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1364/OE.21.031919",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1016/j.cpc.2009.11.008",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "DOI": "10.1063/1.1754182",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "DOI": "10.1145/2461912.2461974",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "first-page": "1",
+                "article-title": "Trans-Reflective Color Filters Based on a Phase Compensated Etalon Enabling Adjustable Color Saturation",
+                "volume": "6",
+                "author": "Park Chul-Soon",
+                "year": "2016",
+                "journal-title": "Scientific Reports"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "DOI": "10.1145/3072959.3073701",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "DOI": "10.1038/nphoton.2011.355",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "DOI": "10.5301/JABFM.2012.9278",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "DOI": "10.1007/3-540-10861-0",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "unstructured": "Bahaa E. A. Saleh and Malvin Carl Teich. 2001. Fundamentals of Photonics. John Wiley & Sons Inc.  Bahaa E. A. Saleh and Malvin Carl Teich. 2001. Fundamentals of Photonics. John Wiley & Sons Inc."
+            },
+            {
+                "key": "e_1_2_2_55_1",
+                "DOI": "10.1021/ar700197v",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_56_1",
+                "DOI": "10.1111/j.1365-2435.2009.01584.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_57_1",
+                "unstructured": "Bokwang Song Villads Egede Johansen Ole Sigmund and Jung H. Shin. 2017. Reproducing the hierarchy of disorder for Morpho-inspired broad-angle color reflection. Scientific Reports 7 (apr 2017) 46023.  Bokwang Song Villads Egede Johansen Ole Sigmund and Jung H. Shin. 2017. Reproducing the hierarchy of disorder for Morpho-inspired broad-angle color reflection. Scientific Reports 7 (apr 2017) 46023.",
+                "DOI": "10.1038/srep46023",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_58_1",
+                "unstructured": "Allen Taflove and Susan C Hagness. 2005. Computational electrodynamics: the finite-difference time-domain method (3rd ed.). Artech House.  Allen Taflove and Susan C Hagness. 2005. Computational electrodynamics: the finite-difference time-domain method (3rd ed.). Artech House.",
+                "DOI": "10.1002/0471654507.eme123",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_59_1",
+                "DOI": "10.1109/MCSE.2011.37",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_60_1",
+                "DOI": "10.1364/JOSAB.34.002250",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_61_1",
+                "DOI": "10.1038/lsa.2016.148",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_62_1",
+                "DOI": "10.1038/nature01941",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_63_1",
+                "DOI": "10.1145/3130800.3130840",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_64_1",
+                "DOI": "10.1145/1531326.1531338",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_65_1",
+                "DOI": "10.1038/208519a0",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_66_1",
+                "DOI": "10.1007/BF01447872",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_67_1",
+                "DOI": "10.1364/OE.21.010831",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_68_1",
+                "author": "Wu Jun",
+                "volume-title": "Eurographics 2017 - Tutorials"
+            },
+            {
+                "key": "e_1_2_2_69_1",
+                "DOI": "10.1002/adom.201600110",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_70_1",
+                "DOI": "10.1007/s00158-016-1520-4",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_71_1",
+                "author": "Zyla Gordon",
+                "volume-title": "Advanced Fabrication Technologies for Micro/Nano Optics and Photonics XI, Georg von Freymann, Winston V"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201376&ftid=1991691&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:38:20Z",
+            "timestamp": 1585960700000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 71,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201376"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201376",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

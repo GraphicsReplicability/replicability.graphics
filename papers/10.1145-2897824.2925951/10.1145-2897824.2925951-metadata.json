@@ -1,0 +1,467 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T02:11:27Z",
+            "timestamp": 1585966287720
+        },
+        "reference-count": 47,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2017,
+                            7,
+                            24
+                        ]
+                    ],
+                    "date-time": "2017-07-24T00:00:00Z",
+                    "timestamp": 1500854400000
+                },
+                "delay-in-days": 378,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100000001",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "CBET 1250232, IIS 1302172"
+                ]
+            },
+            {
+                "DOI": "10.13039/100006785",
+                "name": "Google",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "Research Award"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100001665",
+                "name": "Agence Nationale de la Recherche",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "13-CORD-0003"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925951",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 44,
+        "title": [
+            "Interactive sketching of urban procedural models"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Gen",
+                "family": "Nishida",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Purdue University"
+                    }
+                ]
+            },
+            {
+                "given": "Ignacio",
+                "family": "Garcia-Dorado",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Purdue University"
+                    }
+                ]
+            },
+            {
+                "given": "Daniel G.",
+                "family": "Aliaga",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Purdue University"
+                    }
+                ]
+            },
+            {
+                "given": "Bedrich",
+                "family": "Benes",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Purdue University"
+                    }
+                ]
+            },
+            {
+                "given": "Adrien",
+                "family": "Bousseau",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Inria"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1109/TASLP.2014.2339736",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "author": "Akinlar C.",
+                "year": "2011",
+                "volume-title": "Edlines: Real-time line segment detection by edge drawing (ed). In ICIP, 2837--2840."
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1016/j.cag.2009.05.001",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1016/j.cag.2012.03.033",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "Bae S. Balakrishnan R. and Singh K. 2008. Ilovesketch: as-natural-as-possible sketching system for creating 3d curve models. In User Interface Software and Technology. 10.1145/1449715.1449740   Bae S. Balakrishnan R. and Singh K. 2008. Ilovesketch: as-natural-as-possible sketching system for creating 3d curve models. In User Interface Software and Technology. 10.1145/1449715.1449740"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/2766959",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/1360612.1360702",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/1356682.1356684",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "Eigen D. Puhrsch C. and Fergus R. 2014. Depth map prediction from a single image using a multi-scale deep network. In Neural Information Processing Systems (NIPS).   Eigen D. Puhrsch C. and Fergus R. 2014. Depth map prediction from a single image using a multi-scale deep network. In Neural Information Processing Systems (NIPS)."
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "author": "Eissen K.",
+                "year": "2009",
+                "volume-title": "Sketching: Drawing Techniques for Product Designers"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/2185520.2185527",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/2766975",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/311535.311602",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1007/11795018_13",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1016/j.cviu.2015.03.002",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "author": "Jia Y.",
+                "year": "2014",
+                "volume-title": "Caffe: Convolutional architecture for fast feature embedding. arXiv preprint arXiv:1408.5093."
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "Krizhevsky A. Sutskever I. and Hinton G. E. 2012. Imagenet classification with deep convolutional neural networks. In Advances in neural information processing systems 1097--1105.  Krizhevsky A. Sutskever I. and Hinton G. E. 2012. Imagenet classification with deep convolutional neural networks. In Advances in neural information processing systems 1097--1105."
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1109/5.726791",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/1360612.1360701",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1016/0010-4485(95)00081-X",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1017/S0890060400145044",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "author": "Longay S.",
+                "year": "2012",
+                "volume-title": "Treesketch: Interactive procedural modeling of trees on a tablet. In SBIM"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "Loomis A. and Ross A. 2014. I'd Love to Draw. Titan Books.  Loomis A. and Ross A. 2014. I'd Love to Draw. Titan Books."
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/1141911.1141931",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1016/j.cag.2008.09.013",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "unstructured": "Parish Y. I. and M\u00fcller P. 2001. Procedural modeling of cities. In Comp. graphics and interactive techniques ACM 301--308. 10.1145/383259.383292   Parish Y. I. and M\u00fcller P. 2001. Procedural modeling of cities. In Comp. graphics and interactive techniques ACM 301--308. 10.1145/383259.383292"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "unstructured": "Pfister T. Charles J. and Zisserman A. 2015. Flowing convnets for human pose estimation in videos. In ICCV. 10.1109/ICCV.2015.222   Pfister T. Charles J. and Zisserman A. 2015. Flowing convnets for human pose estimation in videos. In ICCV . 10.1109/ICCV.2015.222",
+                "DOI": "10.1109/ICCV.2015.222",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "unstructured": "Prusinkiewicz P. and Lindenmayer A. 2012. The algorithmic beauty of plants. Springer Science & Business Media.  Prusinkiewicz P. and Lindenmayer A. 2012. The algorithmic beauty of plants. Springer Science & Business Media."
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/2766895",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1007/s11263-015-0816-y",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/1618452.1618495",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1111/cgf.12044",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "author": "Smelik R.",
+                "volume-title": "Proceedings of eurographics."
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1111/cgf.12276",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1145/964965.808571",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1111/cgf.12282",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "unstructured": "Su H. Qi C. R. Li Y. and Guibas L. J. 2015. Render for cnn: Viewpoint estimation in images using cnns trained with rendered 3d model views. In ICCV. 10.1109/ICCV.2015.308   Su H. Qi C. R. Li Y. and Guibas L. J. 2015. Render for cnn: Viewpoint estimation in images using cnns trained with rendered 3d model views. In ICCV . 10.1109/ICCV.2015.308",
+                "DOI": "10.1109/ICCV.2015.308",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1145/1944846.1944851",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1111/j.1467-8659.2009.01535.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1145/2366145.2366187",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "unstructured": "Wang F. Kang L. and Li Y. 2015. Sketch-based 3d shape retrieval using convolutional neural networks. arXiv preprint arXiv:1504.03504.  Wang F. Kang L. and Li Y. 2015. Sketch-based 3d shape retrieval using convolutional neural networks. arXiv preprint arXiv:1504.03504."
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1145/882262.882324",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1111/cgf.12200",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1145/2601097.2601128",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "unstructured": "Xue T. Liu J. and Tang X. 2012. Example-based 3d object reconstruction from line drawings. In CVPR IEEE 302--309.   Xue T. Liu J. and Tang X. 2012. Example-based 3d object reconstruction from line drawings. In CVPR IEEE 302--309."
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1145/237170.237238",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "unstructured": "Zheng Y. Liu H. Dorsey J. and Mitra N. J. 2016. Smartcanvas; context-inferred interpretation of sketches for preparatory design studies. Comp. Graph. Forum.  Zheng Y. Liu H. Dorsey J. and Mitra N. J. 2016. Smartcanvas; context-inferred interpretation of sketches for preparatory design studies. Comp. Graph. Forum.",
+                "DOI": "10.1111/cgf.12809",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "https://dl.acm.org/doi/pdf/10.1145/2897824.2925951",
+                "content-type": "application/pdf",
+                "content-version": "vor",
+                "intended-application": "syndication"
+            },
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925951&amp;ftid=1755876&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:29:24Z",
+            "timestamp": 1585963764000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 47,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925951"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925951",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

@@ -1,0 +1,423 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:54Z",
+            "timestamp": 1585962714538
+        },
+        "reference-count": 46,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201314",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-15",
+        "source": "Crossref",
+        "is-referenced-by-count": 2,
+        "title": [
+            "StrokeAggregator"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Chenxi",
+                "family": "Liu",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of British Columbia"
+                    }
+                ]
+            },
+            {
+                "given": "Enrique",
+                "family": "Rosales",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of British Columbia and Universidad Panamericana"
+                    }
+                ]
+            },
+            {
+                "given": "Alla",
+                "family": "Sheffer",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of British Columbia"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "Rahul Arora Ishan Darolia Vinay P. Namboodiri Karan Singh and Adrien Bousseau. 2017. SketchSoup: Exploratory Ideation Using Design Sketches. Computer Graphics Forum (2017).  Rahul Arora Ishan Darolia Vinay P. Namboodiri Karan Singh and Adrien Bousseau. 2017. SketchSoup: Exploratory Ideation Using Design Sketches. Computer Graphics Forum (2017).",
+                "DOI": "10.1111/cgf.13081",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/1449715.1449740",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1023/B:MACH.0000033116.57574.95",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1109/ICIP.2012.6466982",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1111/j.1467-8659.2009.01635.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.5555/2383654.2383681",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/1384429.1384456",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/192426.192496",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/2801134",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/2980179.2980240",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1016/j.jcde.2015.05.001",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/2733381",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1111/cgf.12164",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "first-page": "1396",
+                "article-title": "On the shortest arborescence of a directed graph",
+                "volume": "14",
+                "author": "Chu Yoeng-Jin",
+                "year": "1965",
+                "journal-title": "Science Sinica"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.6028/jres.071B.032",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "author": "Eissen Koos",
+                "year": "2008",
+                "volume-title": "Sketching: Drawing Techniques for Product Designers"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/2897824.2925946",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/2070781.2024200",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.5555/1025128.1026054",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "author": "Grimm Cindy",
+                "year": "2012",
+                "volume-title": "Proc. SBIM. 121--130"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1016/S1364-6613(99)01410-2",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1109/TPAMI.2006.127",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/1073204.1073323",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "Pradeep Kumar Jayaraman Chi-Wing Fu Jianmin Zheng Xueting Liu and Tien-Tsin Wong. 2017. Globally Consistent Wrinkle-Aware Shading of Line Drawings. IEEE Trans. Vis. Comput. Graph (2017).  Pradeep Kumar Jayaraman Chi-Wing Fu Jianmin Zheng Xueting Liu and Tien-Tsin Wong. 2017. Globally Consistent Wrinkle-Aware Shading of Line Drawings. IEEE Trans. Vis. Comput. Graph (2017)."
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/882262.882355",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.5555/2919332.2919819",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "unstructured": "In-Kwon Lee. 2000. Curve reconstruction from unorganized points. Computer aided geometric design 17 2 (2000) 161--177.  In-Kwon Lee. 2000. Curve reconstruction from unorganized points. Computer aided geometric design 17 2 (2000) 161--177.",
+                "DOI": "10.1016/S0167-8396(99)00044-8",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "unstructured": "David Levin. 2004. Mesh-independent surface interpolation. In Geometric modeling for scientific visualization. 37--49.  David Levin. 2004. Mesh-independent surface interpolation. In Geometric modeling for scientific visualization. 37--49.",
+                "DOI": "10.1007/978-3-662-07443-5_3",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1016/0010-4485(95)00081-X",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/2816795.2818067",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1016/j.cag.2009.05.006",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/2070781.2024219",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/2070781.2024219",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/2421636.2421640",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1111/j.1467-8659.2012.03224.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1109/TVCG.2010.105",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "unstructured": "Paul L. Rosin. 1994. Grouping Curved Lines. In Machine Graphics and Vision 7. 625--644.  Paul L. Rosin. 1994. Grouping Curved Lines. In Machine Graphics and Vision 7. 625--644.",
+                "DOI": "10.5244/C.8.26",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1145/2185520.2185541",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1111/j.1467-8659.2008.01151.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1145/2897824.2925972",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1145/3132703",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1145/1057432.1057456",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "unstructured": "Johan Wagemans James H Elder Michael Kubovy Stephen E Palmer Mary A Peterson Manish Singh and R\u00fcdiger von der Heydt. 2012. A century of Gestalt psychology in visual perception: I. Perceptual grouping and figure-ground organization. Psychological bulletin 138 6 (2012) 1172.  Johan Wagemans James H Elder Michael Kubovy Stephen E Palmer Mary A Peterson Manish Singh and R\u00fcdiger von der Heydt. 2012. A century of Gestalt psychology in visual perception: I. Perceptual grouping and figure-ground organization. Psychological bulletin 138 6 (2012) 1172.",
+                "DOI": "10.1037/a0029333",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1145/987657.987674",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1145/2601097.2601128",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1145/2366145.2366161",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201314&ftid=1991596&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:47:03Z",
+            "timestamp": 1585961223000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "consolidating raw sketches into artist-intended curve drawings"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 46,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201314"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201314",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

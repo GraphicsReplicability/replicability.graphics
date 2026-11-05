@@ -1,0 +1,483 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:29Z",
+            "timestamp": 1585962689320
+        },
+        "reference-count": 48,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2019,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2019-07-30T00:00:00Z",
+                    "timestamp": 1564444800000
+                },
+                "delay-in-days": 354,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100004543",
+                "name": "China Scholarship Council",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "201506020099"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100001659",
+                "name": "Deutsche Forschungsgemeinschaft",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "GSC 111"
+                ]
+            },
+            {
+                "DOI": "10.13039/100000183",
+                "name": "Army Research Office",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "W911NF-12-R-0011"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201344",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-17",
+        "source": "Crossref",
+        "is-referenced-by-count": 7,
+        "title": [
+            "Singularity-constrained octahedral fields for hexahedral meshing"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Heng",
+                "family": "Liu",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "RWTH Aachen University"
+                    }
+                ]
+            },
+            {
+                "given": "Paul",
+                "family": "Zhang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "MIT"
+                    }
+                ]
+            },
+            {
+                "given": "Edward",
+                "family": "Chien",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "MIT"
+                    }
+                ]
+            },
+            {
+                "given": "Justin",
+                "family": "Solomon",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "MIT"
+                    }
+                ]
+            },
+            {
+                "given": "David",
+                "family": "Bommes",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "RWTH Aachen University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1016/j.proeng.2015.10.123",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "Tristan Carrier Baudouin Jean-Fran\u00e7ois Remade Emilie Marchandise Fran\u00e7ois Henrotte and Christophe Geuzaine. 2014. A frontal approach to hex-dominant mesh generation. Advanced Modeling and Simulation in Engineering Sciences 1 1 (10 Feb 2014) 8.  Tristan Carrier Baudouin Jean-Fran\u00e7ois Remade Emilie Marchandise Fran\u00e7ois Henrotte and Christophe Geuzaine. 2014. A frontal approach to hex-dominant mesh generation. Advanced Modeling and Simulation in Engineering Sciences 1 1 (10 Feb 2014) 8.",
+                "DOI": "10.1186/2213-7467-1-8",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1016/j.cad.2015.10.003",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/2461912.2462014",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1111/cgf.12014",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/1531326.1531383",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "first-page": "250",
+                "article-title": "Generations of Triangulations of the Sphere",
+                "volume": "21",
+                "author": "Bowen R.",
+                "year": "1967",
+                "journal-title": "Math. Comp."
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/2816795.2818140",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/3072959.3073647",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1111/j.1467-8659.2010.01761.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/274787.274810",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/2508363.2508372",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1007/s00454-014-9624-3",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/2897824.2925957",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.5555/3151666.3151677",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/2766941",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/3072959.3073676",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/3130800.3130848",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1111/j.1467-8659.2011.02015.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "Allen Hatcher. 2001. Algebraic Topology. Cambridge University Press Cambridge UK.  Allen Hatcher. 2001. Algebraic Topology. Cambridge University Press Cambridge UK."
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/2602141",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/2070781.2024177",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1109/TVCG.2013.250",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1111/j.1467-8659.2007.01060.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/2461912.2462005",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1016/j.proeng.2014.10.373",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1016/j.cad.2015.06.009",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "unstructured": "Michael Kremer David Bommes Isaak Lim and Leif Kobbelt. 2014. Advanced Automatic Hexahedral Mesh Generation from Surface Quad Meshes. Springer International Publishing Cham 147--164.  Michael Kremer David Bommes Isaak Lim and Leif Kobbelt. 2014. Advanced Automatic Hexahedral Mesh Generation from Surface Quad Meshes. Springer International Publishing Cham 147--164.",
+                "DOI": "10.1007/978-3-319-02335-9_9",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/2366145.2366196",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "author": "Liu Heng",
+                "year": "2018",
+                "volume-title": "Source Code: Singularity-Constrained Octahedral Fields for Hexahedral Meshing, https://graphics.rwth-aachen.de:9000/SCOF/SingularityConstrainedOctahedralFields"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/2766905",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/2897824.2925976",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1007/978-3-642-04319-2_5",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1016/j.cag.2012.03.008",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1007/978-3-540-75103-8_14",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "first-page": "17",
+                "article-title": "A Note on Non-Regular Planar Graphs",
+                "volume": "66",
+                "author": "Mishra N.",
+                "year": "2008",
+                "journal-title": "Journal of Combinatorial Mathematics and Combinatorial Computing"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1111/j.1467-8659.2011.02014.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1145/3130800.3130844",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/2980179.2982408",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1145/1356682.1356683",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1137/0132048",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1007/s00366-008-0091-4",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1145/2930662",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1145/3065254",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "DOI": "10.1145/1015706.1015810",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "DOI": "10.1111/cgf.12864",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "DOI": "10.1016/j.proeng.2016.11.060",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "author": "Yu W.",
+                "volume-title": "2015 10th International Conference on Computer Science Education (ICCSE). 697--702"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "https://dl.acm.org/doi/pdf/10.1145/3197517.3201344",
+                "content-type": "application/pdf",
+                "content-version": "vor",
+                "intended-application": "syndication"
+            },
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201344&ftid=1991779&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:36:10Z",
+            "timestamp": 1585960570000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 48,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201344"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201344",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

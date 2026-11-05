@@ -1,0 +1,379 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:41:10Z",
+            "timestamp": 1586004070607
+        },
+        "reference-count": 31,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100004052",
+                "name": "King Abdullah University of Science and Technology",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/501100002428",
+                "name": "Austrian Science Fund",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "P23735-N13, I706-N26"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601213",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-9",
+        "source": "Crossref",
+        "is-referenced-by-count": 52,
+        "title": [
+            "Form-finding with polyhedral meshes made simple"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Chengcheng",
+                "family": "Tang",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "King Abdullah University of Science and Technology (KAUST)"
+                    }
+                ]
+            },
+            {
+                "given": "Xiang",
+                "family": "Sun",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "King Abdullah University of Science and Technology (KAUST)"
+                    }
+                ]
+            },
+            {
+                "given": "Alexandra",
+                "family": "Gomes",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "King Abdullah University of Science and Technology (KAUST)"
+                    }
+                ]
+            },
+            {
+                "given": "Johannes",
+                "family": "Wallner",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "TU Graz"
+                    }
+                ]
+            },
+            {
+                "given": "Helmut",
+                "family": "Pottmann",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "KAUST/TU Wien"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "first-page": "167",
+                "article-title": "Thrust network analysis: A new methodology for three-dimensional equilibrium",
+                "volume": "48",
+                "author": "Block P.",
+                "year": "2007",
+                "journal-title": "J. Int. Assoc. Shell and Spatial Structures"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "Block P. 2009. Thrust Network Analysis: Exploring Three-dimensional Equilibrium. PhD thesis M.I.T.  Block P. 2009. Thrust Network Analysis: Exploring Three-dimensional Equilibrium . PhD thesis M.I.T."
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1111/j.1467-8659.2012.03171.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/2461912.2461932",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1111/cgf.12021",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "unstructured": "Deng B. Bouaziz S. Deuss M. Kaspar A. Schwartzburg Y. and Pauly M. 2014. Interactive design exploration for constrained meshes. Computer-Aided Design. to appear. 10.1016/j.cad.2014.01.004   Deng B. Bouaziz S. Deuss M. Kaspar A. Schwartzburg Y. and Pauly M. 2014. Interactive design exploration for constrained meshes. Computer-Aided Design . to appear. 10.1016/j.cad.2014.01.004"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1016/j.mechrescom.2009.12.010",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1016/j.autcon.2003.09.008",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "Gr\u00fcndig L. Moncrieff E. Singer P. and Str\u00f6bel D. 2000. A history of the principal developments and applications of the force density method in Germany 1970--1999. In 4th Int. Coll. Computation of Shell & Spatial Structures.  Gr\u00fcndig L. Moncrieff E. Singer P. and Str\u00f6bel D. 2000. A history of the principal developments and applications of the force density method in Germany 1970--1999. In 4th Int. Coll. Computation of Shell & Spatial Structures ."
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1017/CBO9780511529580",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "author": "Kaspar A.",
+                "volume-title": "Symposium on GPU Computing and Applications."
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1002/ad.1386",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1007/BF00532146",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/1141911.1141941",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/1559755.1559758",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/2070781.2024174",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/2461912.2461927",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/2461912.2461958",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/2541533",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "first-page": "4110",
+                "article-title": "On linear spaces of polyhedral meshes",
+                "volume": "1303",
+                "author": "Poranne R.",
+                "year": "2013",
+                "journal-title": "ArXiv"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1111/cgf.12005",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1007/s11263-006-5167-2",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/1276377.1276458",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "Schiftner A. and Balzer J. 2010. Statics-sensitive layout of planar quadrilateral meshes. In Advances in Architectural Geometry 2010. Springer 221--236.  Schiftner A. and Balzer J. 2010. Statics-sensitive layout of planar quadrilateral meshes. In Advances in Architectural Geometry 2010 . Springer 221--236.",
+                "DOI": "10.1007/978-3-7091-0309-8_16",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "unstructured": "Schiftner A. Leduc N. Bompas P. Baldassini N. and Eigensatz M. 2012. Architectural geometry from research to practice --- the Eiffel Tower Pavilions. In Advances in Architectural Geometry 2012. Springer 213--228.  Schiftner A. Leduc N. Bompas P. Baldassini N. and Eigensatz M. 2012. Architectural geometry from research to practice --- the Eiffel Tower Pavilions. In Advances in Architectural Geometry 2012 . Springer 213--228.",
+                "DOI": "10.1007/978-3-7091-1251-9_17",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/2461912.2461955",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/2185520.2185582",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1111/j.1467-8659.2012.03170.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/2185520.2185583",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/2070781.2024158",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1111/j.1467-8659.2010.01776.x",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601213&amp;ftid=1488878&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:58:12Z",
+            "timestamp": 1586001492000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 31,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601213"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601213",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

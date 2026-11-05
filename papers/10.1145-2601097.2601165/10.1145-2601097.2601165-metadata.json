@@ -1,0 +1,551 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:41:10Z",
+            "timestamp": 1586004070641
+        },
+        "reference-count": 52,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100000781",
+                "name": "European Research Council",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "335545"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100001659",
+                "name": "Deutsche Forschungsgemeinschaft",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "GRK-1773"
+                ]
+            },
+            {
+                "DOI": "10.13039/100006112",
+                "name": "Microsoft Research",
+                "doi-asserted-by": "publisher",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601165",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 162,
+        "title": [
+            "Real-time non-rigid reconstruction using an RGB-D camera"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Michael",
+                "family": "Zollh\u00f6fer",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of Erlangen-Nuremberg"
+                    }
+                ]
+            },
+            {
+                "given": "Matthias",
+                "family": "Nie\u00dfner",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Shahram",
+                "family": "Izadi",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research"
+                    }
+                ]
+            },
+            {
+                "given": "Christoph",
+                "family": "Rehmann",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research"
+                    }
+                ]
+            },
+            {
+                "given": "Christopher",
+                "family": "Zach",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research"
+                    }
+                ]
+            },
+            {
+                "given": "Matthew",
+                "family": "Fisher",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Chenglei",
+                "family": "Wu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Max Planck Institute for Informatics"
+                    }
+                ]
+            },
+            {
+                "given": "Andrew",
+                "family": "Fitzgibbon",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research"
+                    }
+                ]
+            },
+            {
+                "given": "Charles",
+                "family": "Loop",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research"
+                    }
+                ]
+            },
+            {
+                "given": "Christian",
+                "family": "Theobalt",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Max Planck Institute for Informatics"
+                    }
+                ]
+            },
+            {
+                "given": "Marc",
+                "family": "Stamminger",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Erlangen-Nuremberg"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/2010324.1964970",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/311535.311556",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "first-page": "1",
+                "article-title": "Patchmatch stereo: Stereo matching with slanted support windows",
+                "volume": "11",
+                "author": "Bleyer M.",
+                "year": "2011",
+                "journal-title": "Proc. BMVC"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/2185520.2185549",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1109/TVCG.2007.1054",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/1360612.1360698",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/1276377.1276404",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "author": "Cagniart C.",
+                "volume-title": "Proc. CVPR."
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/2461912.2462012",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/2380116.2380171",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/1360612.1360697",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "author": "Dou M.",
+                "volume-title": "Proc. ISMAR, 99--106"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "author": "Gall J.",
+                "volume-title": "Proc. CVPR, 1746--1753"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/2508363.2508380",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1109/3DV.2013.44",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "author": "Hern\u00e1ndez C.",
+                "volume-title": "Proc. ICCV, 1--8."
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/2047196.2047270",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "author": "Kolb A.",
+                "volume-title": "Proc. Eurographics State-of-the-art Reports, 119--134"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "author": "Li H.",
+                "volume-title": "Proc. SGP, Eurographics Association, 1421--1430"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/1618452.1618521",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/2508363.2508407",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/2461912.2462019",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "author": "Liao M.",
+                "volume-title": "Proc. ICCV, 167--174"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "author": "Mitra N. J.",
+                "volume-title": "Proc. SGP, 173--182"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1109/ISMAR.2011.6092378",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/2508363.2508374",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "author": "Oikonomidis I.",
+                "volume-title": "Proc. BMVC, 1--11"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "author": "Pradeep V.",
+                "volume-title": "Proc. ISMAR, 83--88"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "author": "Sorkine O.",
+                "volume-title": "Proc. SGP, 109--116"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1109/MCG.2007.68",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/1186562.1015736",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/1276377.1276478",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "author": "Taylor J.",
+                "volume-title": "Proc. CVPR, 103--110"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/2159516.2159517",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "unstructured": "Theobalt C. de Aguiar E. Stoll C. Seidel H.-P. and Thrun S. 2010. Performance capture from multi-view video. In Image and Geometry Processing for 3D-Cinematography R. Ronfard and G. Taubin Eds. Springer 127ff.  Theobalt C. de Aguiar E. Stoll C. Seidel H.-P. and Thrun S. 2010. Performance capture from multi-view video. In Image and Geometry Processing for 3D-Cinematography R. Ronfard and G. Taubin Eds. Springer 127ff.",
+                "DOI": "10.1007/978-3-642-12392-4_6",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1109/TVCG.2012.56",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/2366145.2366206",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "unstructured": "Vlasic D. Baran I. Matusik W. and Popovi\u0107 J. 2008. Articulated mesh animation from multi-view silhouettes. ACM TOG (Proc. SIGGRAPH). 10.1145/1399504.1360696   Vlasic D. Baran I. Matusik W. and Popovi\u0107 J. 2008. Articulated mesh animation from multi-view silhouettes. ACM TOG (Proc. SIGGRAPH) . 10.1145/1399504.1360696",
+                "DOI": "10.1145/1399504.1360696",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/1618452.1618520",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1145/1516522.1516526",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "author": "Waschb\u00fcsch M.",
+                "volume-title": "Proc. Pacific Graphics, 629--638"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1111/j.1467-8659.2012.03227.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1145/2366145.2366207",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "author": "Weise T.",
+                "volume-title": "IEEE International Workshop on 3-D Digital Imaging and Modeling."
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1145/1599470.1599472",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1145/2010324.1964972",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "DOI": "10.1109/ICCV.2011.6126465",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "DOI": "10.1145/1088149.1088195",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "DOI": "10.1109/TNN.2010.2045657",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "DOI": "10.1145/2508363.2508418",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "DOI": "10.5555/2964398.2964460",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "DOI": "10.1109/CVPR.2013.26",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601165&amp;ftid=1488965&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:01:15Z",
+            "timestamp": 1586001675000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 52,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601165"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601165",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

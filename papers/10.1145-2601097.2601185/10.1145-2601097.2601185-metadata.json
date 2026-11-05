@@ -1,0 +1,439 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:11:20Z",
+            "timestamp": 1586002280411
+        },
+        "reference-count": 34,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100005155",
+                "name": "Azrieli Foundation",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/501100003977",
+                "name": "Israel Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "1790/12"
+                ]
+            },
+            {
+                "DOI": "10.13039/100004344",
+                "name": "Adobe Systems",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/501100001742",
+                "name": "United States-Israel Binational Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "2012376"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100004963",
+                "name": "Seventh Framework Programme",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "303541"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100000765",
+                "name": "University College London",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/501100000781",
+                "name": "European Research Council",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "iModel (StG-2012-306877), SmartGeometry (StG-2013-335373)"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601185",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 42,
+        "title": [
+            "Meta-representation of shape families"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Noa",
+                "family": "Fish",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Tel Aviv University"
+                    }
+                ]
+            },
+            {
+                "given": "Melinos",
+                "family": "Averkiou",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University College London"
+                    }
+                ]
+            },
+            {
+                "given": "Oliver",
+                "family": "van Kaick",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Tel Aviv University"
+                    }
+                ]
+            },
+            {
+                "given": "Olga",
+                "family": "Sorkine-Hornung",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "ETH Zurich"
+                    }
+                ]
+            },
+            {
+                "given": "Daniel",
+                "family": "Cohen-Or",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Tel Aviv University"
+                    }
+                ]
+            },
+            {
+                "given": "Niloy J.",
+                "family": "Mitra",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University College London"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "author": "Averkiou M.",
+                "year": "2014",
+                "volume-title": "Shapesynth: Parameterizing model collections for coupled shape exploration and synthesis. Computer Graphics Forum (Eurographics) 33."
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/1778765.1778841",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1109/TVCG.2007.1054",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/2010324.1964930",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "first-page": "129",
+                "article-title": "A comparative review of bandwidth selection for kernel density estimation",
+                "volume": "6",
+                "author": "Chiu S.-T.",
+                "year": "1996",
+                "journal-title": "Statistica Sinica"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/2010324.1964929",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/1015706.1015775",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/1531326.1531339",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1111/j.1467-8659.2012.03175.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/2070781.2024159",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/1778765.1778839",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/2185520.2185551",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/2461912.2461933",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/2516971.2516975",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/1882261.1866178",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/2070781.2024217",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1016/j.cad.2012.10.014",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "author": "Mitra N. J.",
+                "volume-title": "Proc. Eurographics State-of-the-art Reports."
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/2010324.1964928",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "Schneider P. J. and Eberly D. H. 2003. Geometric Tools for Computer Graphics. Morgan Kaufmann San Francisco.   Schneider P. J. and Eberly D. H. 2003. Geometric Tools for Computer Graphics . Morgan Kaufmann San Francisco."
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1111/cgf.12044",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/2070781.2024160",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "Silverman B. W. 1986. Density Estimation for Statistics and Data Analysis. Chapman & Hall London.  Silverman B. W. 1986. Density Estimation for Statistics and Data Analysis . Chapman & Hall London.",
+                "DOI": "10.1007/978-1-4899-3324-9",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "author": "Sorkine O.",
+                "volume-title": "Symp. Geometry Processing, 109--116"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/1073204.1073218",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/2461912.2461924",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/2366145.2366184",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/1531326.1531341",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/2185520.2185553",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/2070781.2024158",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/2366145.2366185",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1111/j.1467-8659.2011.01880.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1111/cgf.12039",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "unstructured": "Zheng Y. Cohen-Or D. Averkiou M. and Mitra N. J. 2014. Recurring part arrangements in shape collections. Computer Graphics Forum (Eurographics) 33.  Zheng Y. Cohen-Or D. Averkiou M. and Mitra N. J. 2014. Recurring part arrangements in shape collections. Computer Graphics Forum (Eurographics) 33 .",
+                "DOI": "10.1111/cgf.12309",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601185&amp;ftid=1488843&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:51:18Z",
+            "timestamp": 1586001078000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 34,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601185"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601185",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

@@ -1,0 +1,421 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:11:21Z",
+            "timestamp": 1586002281144
+        },
+        "reference-count": 42,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100000781",
+                "name": "European Research Council",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "StG-2012-306877"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100003006",
+                "name": "Eidgen\u00f6ssische Technische Hochschule Z\u00fcrich",
+                "doi-asserted-by": "publisher",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601157",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-10",
+        "source": "Crossref",
+        "is-referenced-by-count": 96,
+        "title": [
+            "Spin-it"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Moritz",
+                "family": "B\u00e4cher",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Disney Research Zurich"
+                    }
+                ]
+            },
+            {
+                "given": "Emily",
+                "family": "Whiting",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "ETH Zurich"
+                    }
+                ]
+            },
+            {
+                "given": "Bernd",
+                "family": "Bickel",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Disney Research Zurich"
+                    }
+                ]
+            },
+            {
+                "given": "Olga",
+                "family": "Sorkine-Hornung",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "ETH Zurich"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/2185520.2185543",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "author": "Bends\u00f8e M.",
+                "year": "2012",
+                "volume-title": "Topology Optimization: Theory, Methods and Applications. Engineering online library"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/1778765.1778800",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "author": "Byrd R. H.",
+                "year": "2006",
+                "volume-title": "Knitro: An integrated package for nonlinear optimization. In Large-scale nonlinear optimization"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/2366145.2366149",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/2508363.2508400",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/2461912.2461994",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1119/1.10926",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/2461912.2461953",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "unstructured": "Crabtree H. 1909. An Elementary Treatment of the Theory of Spinning Tops. Longmans Green and Co.  Crabtree H. 1909. An Elementary Treatment of the Theory of Spinning Tops . Longmans Green and Co."
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1119/1.4776195",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "author": "DeRose G. C. J.",
+                "volume-title": "ASME Design Engineering Technical Conferences and Computers in Engineering Conference."
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "Eberly D. H. 2003. Game Physics. Elsevier Science Inc.   Eberly D. H. 2003. Game Physics . Elsevier Science Inc."
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Fletcher R. 1987. Practical Methods of Optimization; (2Nd Ed.). Wiley-Interscience New York NY USA.   Fletcher R. 1987. Practical Methods of Optimization; (2Nd Ed.) . Wiley-Interscience New York NY USA."
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.3722/cadaps.2010.533-546",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1109/IROS.2012.6385896",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "Goldstein H. Poole C. and Safko J. 2001. Classical Mechanics 3rd ed. Addison Wesley.  Goldstein H. Poole C. and Safko J. 2001. Classical Mechanics 3rd ed. Addison Wesley.",
+                "DOI": "10.1119/1.1484149",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "author": "Gould D.",
+                "year": "1975",
+                "volume-title": "The Top: Universal Toy Enduring Pastime"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "author": "Hirose M.",
+                "volume-title": "Proc. International Conference on Smart Graphics, 37--47"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "Hullin M. B. Ihrke I. Heidrich W. Weyrich T. Damberg G. and Fuchs M. 2013. Computational fabrication and display of material appearance. In Eurographics State-of-the-Art Reports (STAR) 17 pages.  Hullin M. B. Ihrke I. Heidrich W. Weyrich T. Damberg G. and Fuchs M. 2013. Computational fabrication and display of material appearance. In Eurographics State-of-the-Art Reports (STAR) 17 pages."
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/2010324.1964973",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "unstructured": "Jacobson A. Baran I. Kavan L. Popovi\u0107 J. and Sorkine O. 2012. Fast automatic skinning transformations. ACM Transactions on Graphics (proceedings of ACM SIGGRAPH) 31 4 77:1--77:10. 10.1145/2185520.2185573   Jacobson A. Baran I. Kavan L. Popovi\u0107 J. and Sorkine O. 2012. Fast automatic skinning transformations. ACM Transactions on Graphics (proceedings of ACM SIGGRAPH) 31 4 77:1--77:10. 10.1145/2185520.2185573",
+                "DOI": "10.1145/2185520.2185573",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1016/j.finel.2008.12.002",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "K\u00f6nig O. and Wintermantel M. 2004. CAD-based evolutionary design optimization with CATIA V5. 1st Weimar Optimization and Stochastic Days.  K\u00f6nig O. and Wintermantel M. 2004. CAD-based evolutionary design optimization with CATIA V5. 1st Weimar Optimization and Stochastic Days."
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1088/0951-7715/5/1/001",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/2366145.2366148",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/1531326.1531386",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "unstructured": "Malko G. 1978. The One and Only Yo-Yo Book. Avon.  Malko G. 1978. The One and Only Yo-Yo Book . Avon."
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "unstructured": "Nocedal J. and Wright S. J. 2000. Numerical Optimization. Springer.  Nocedal J. and Wright S. J. 2000. Numerical Optimization . Springer.",
+                "DOI": "10.1007/b98874",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "unstructured": "Perry J. 1957. Spinning Tops and Gyroscopic Motion. Dover Publications.  Perry J. 1957. Spinning Tops and Gyroscopic Motion . Dover Publications."
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/2461912.2461957",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1108/02644400110404028",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "first-page": "71",
+                "article-title": "Revisiting the spinning top",
+                "volume": "1",
+                "author": "Provatidis C. G.",
+                "year": "2012",
+                "journal-title": "International Journal of Material and Mechanical Engineering (IJMME)"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/2461912.2461979",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1145/1057432.1057456",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1145/2185520.2185544",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "unstructured": "Umetani N. and Schmidt R. 2013. Cross-sectional structural analysis for 3D printing optimization. In SIGGRAPH Asia 2013 Technical Briefs 5:1--5:4. 10.1145/2542355.2542361   Umetani N. and Schmidt R. 2013. Cross-sectional structural analysis for 3D printing optimization. In SIGGRAPH Asia 2013 Technical Briefs 5:1--5:4. 10.1145/2542355.2542361"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1145/2461912.2461993",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/2508363.2508382",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1145/2461912.2461967",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1145/2601097.2601173",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1145/2366145.2366146",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601157&amp;ftid=1488904&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:55:04Z",
+            "timestamp": 1586001304000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "optimizing moment of inertia for spinnable objects"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 42,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601157"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601157",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

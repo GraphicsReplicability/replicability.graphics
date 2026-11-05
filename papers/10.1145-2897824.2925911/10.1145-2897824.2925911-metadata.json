@@ -1,0 +1,357 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T02:11:28Z",
+            "timestamp": 1585966288113
+        },
+        "reference-count": 30,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925911",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 14,
+        "title": [
+            "Synthesis of filigrees for digital fabrication"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Weikai",
+                "family": "Chen",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "The University of Hong Kong"
+                    }
+                ]
+            },
+            {
+                "given": "Xiaolong",
+                "family": "Zhang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "The University of Hong Kong"
+                    }
+                ]
+            },
+            {
+                "given": "Shiqing",
+                "family": "Xin",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Ningbo University"
+                    }
+                ]
+            },
+            {
+                "given": "Yang",
+                "family": "Xia",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Dalian University of Technology"
+                    }
+                ]
+            },
+            {
+                "given": "Sylvain",
+                "family": "Lefebvre",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "INRIA"
+                    }
+                ]
+            },
+            {
+                "given": "Wenping",
+                "family": "Wang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "The University of Hong Kong"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "Bathe K.-J. 2006. Finite element procedures. Klaus-Jurgen Bathe.  Bathe K.-J. 2006. Finite element procedures . Klaus-Jurgen Bathe."
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "Cheng D. and Wong K. 2009. 3doodler seashell pattern lace plastic dress. http://www.s-h-i-g-o.com/#!project/c147c.  Cheng D. and Wong K. 2009. 3doodler seashell pattern lace plastic dress. http://www.s-h-i-g-o.com/#!project/c147c."
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1111/cgf.12426",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1109/ICPR.1994.576361",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/2766984",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "unstructured": "Harker J. 2011. Crania Anatomica Filigre: Me to You. https://www.kickstarter.com/projects/joshharker/crania-anatomica-filigre-me-to-you.  Harker J. 2011. Crania Anatomica Filigre: Me to You. https://www.kickstarter.com/projects/joshharker/crania-anatomica-filigre-me-to-you."
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1109/TVCG.2015.2498620",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/1572614.1572623",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "Jacobson A. Panozzo D. etal 2016. libigl: A simple C++ geometry processing library. http://libigl.github.io/libigl/.  Jacobson A. Panozzo D. et al. 2016. libigl: A simple C++ geometry processing library. http://libigl.github.io/libigl/.",
+                "DOI": "10.1145/3134472.3134497",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/2487228.2487237",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/1073204.1073261",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/1141911.1141921",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1109/TVCG.2010.36",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/2010324.1964957",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/2816795.2818101",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/344779.344987",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "Riccioti R. 2013. Mucem museum concrete filigree. http://www.lemayonline.com/en/wow/mucem-photographed-by-edmund-sumner.  Riccioti R. 2013. Mucem museum concrete filigree. http://www.lemayonline.com/en/wow/mucem-photographed-by-edmund-sumner."
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "unstructured": "Sederberg T. W. and Parry S. R. 1986. Free-form deformation of solid geometric models. In ACM SIGGRAPH computer graphics vol. 20 151--160. 10.1145/15886.15903   Sederberg T. W. and Parry S. R. 1986. Free-form deformation of solid geometric models. In ACM SIGGRAPH computer graphics vol. 20 151--160. 10.1145/15886.15903",
+                "DOI": "10.1145/15886.15903",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/2185520.2185544",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/383259.383297",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "Umetani N. and Schmidt R. 2013. Cross-sectional structural analysis for 3D printing optimization. In SIGGRAPH Asia 2013 Technical Briefs 5:1--5:4. 10.1145/2542355.2542361   Umetani N. and Schmidt R. 2013. Cross-sectional structural analysis for 3D printing optimization. In SIGGRAPH Asia 2013 Technical Briefs 5:1--5:4. 10.1145/2542355.2542361"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/383259.383298",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "author": "Wei L.-Y.",
+                "volume-title": "Eurographics '09 State of the Art Report, 93--117"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/1778765.1778816",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/2897824.2925888",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/882262.882266",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/1141911.1141942",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/2461912.2461967",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/2661229.2661238",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "unstructured": "Zienkiewicz O. C. and Taylor R. L. 2005. The finite element method for solid and structural mechanics. Butterworth-Heinemann.  Zienkiewicz O. C. and Taylor R. L. 2005. The finite element method for solid and structural mechanics. Butterworth-Heinemann."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925911&amp;ftid=1755920&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:35:19Z",
+            "timestamp": 1585964119000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 30,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925911"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925911",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

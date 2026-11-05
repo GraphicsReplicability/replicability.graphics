@@ -1,0 +1,391 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T02:11:28Z",
+            "timestamp": 1585966288036
+        },
+        "reference-count": 38,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925950",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 5,
+        "title": [
+            "PATEX"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Paul",
+                "family": "Guerrero",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University College London"
+                    }
+                ]
+            },
+            {
+                "given": "Gilbert",
+                "family": "Bernstein",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Stanford University"
+                    }
+                ]
+            },
+            {
+                "given": "Wilmot",
+                "family": "Li",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe Research"
+                    }
+                ]
+            },
+            {
+                "given": "Niloy J.",
+                "family": "Mitra",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University College London"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/2601097.2601102",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/1054972.1055014",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/2766980",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "Bier E. A. and Stone M. C. 1986. Snap-dragging. In ACM SIGGRAPH 233--240. 10.1145/15922.15912   Bier E. A. and Stone M. C. 1986. Snap-dragging. In ACM SIGGRAPH 233--240. 10.1145/15922.15912",
+                "DOI": "10.1145/15886.15912",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "Bokeloh M. Wand M. Seidel H.-P. and Koltun V. 2012. An algebraic model for parameterized shape editing. ACM SIGGRAPH 31 4 78:1--78:10. 10.1145/2185520.2185574   Bokeloh M. Wand M. Seidel H.-P. and Koltun V. 2012. An algebraic model for parameterized shape editing. ACM SIGGRAPH 31 4 78:1--78:10. 10.1145/2185520.2185574",
+                "DOI": "10.1145/2185520.2185574",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1137/S1064827595289108",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "unstructured": "Chen X. and Hoffmann C. M. 1995. Design compilation of feature-based and constraint-based cad. In Solid Modeling and Applications 13--19. 10.1145/218013.218021   Chen X. and Hoffmann C. M. 1995. Design compilation of feature-based and constraint-based cad. In Solid Modeling and Applications 13--19. 10.1145/218013.218021"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "Daniel M. and Lucas M. 1997. Towards declarative geometric modelling in mechanics. In Integrated Design and Manufacturing in Mechanical Engineering P. Chedmail J.-C. Bocquet and D. Dornfeld Eds. Springer Netherlands 427--436.  Daniel M. and Lucas M. 1997. Towards declarative geometric modelling in mechanics. In Integrated Design and Manufacturing in Mechanical Engineering P. Chedmail J.-C. Bocquet and D. Dornfeld Eds. Springer Netherlands 427--436.",
+                "DOI": "10.1007/978-94-011-5588-5_43",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/2010324.1964961",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1111/cgf.12311",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/2601097.2601185",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "unstructured": "Gal R. Sorkine O. Mitra N. J. and Cohen-Or D. 2009. iwires: An analyze-and-edit approach to shape manipulation. ACM SIGGRAPH 28 3 #33 1--10. 10.1145/1531326.1531339   Gal R. Sorkine O. Mitra N. J. and Cohen-Or D. 2009. iwires: An analyze-and-edit approach to shape manipulation. ACM SIGGRAPH 28 3 #33 1--10. 10.1145/1531326.1531339",
+                "DOI": "10.1145/1531326.1531339",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "Gleicher M. and Witkin A. 1991. Differential manipulation. In Graphics Interface 61--67.  Gleicher M. and Witkin A. 1991. Differential manipulation. In Graphics Interface 61--67."
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/142750.143074",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/2591010",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "Harada M. Witkin A. and Baraff D. 1995. Interactive physically-based manipulation of discrete/continuous models. In ACM SIGGRAPH ACM New York NY USA 199--208. 10.1145/218380.218443   Harada M. Witkin A. and Baraff D. 1995. Interactive physically-based manipulation of discrete/continuous models. In ACM SIGGRAPH ACM New York NY USA 199--208. 10.1145/218380.218443"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1111/j.1467-8659.2009.01567.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "unstructured": "Igarashi T. Matsuoka S. Kawachiya S. and Tanaka H. 1997. Interactive beautification: A technique for rapid geometric design. In UIST 105--114. 10.1145/263407.263525   Igarashi T. Matsuoka S. Kawachiya S. and Tanaka H. 1997. Interactive beautification: A technique for rapid geometric design. In UIST 105--114. 10.1145/263407.263525",
+                "DOI": "10.1145/263407.263525",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/882262.882353",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/2024156.2024219",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "Nelson G. 1985. Juno a constraint-based graphics system. In ACM SIGGRAPH 235--243. 10.1145/325334.325241   Nelson G. 1985. Juno a constraint-based graphics system. In ACM SIGGRAPH 235--243. 10.1145/325334.325241",
+                "DOI": "10.1145/325165.325241",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1109/TVCG.2014.48",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "2016. PATEX project website. http://geometry.cs.ucl.ac.uk/projects/2016/pattern-variations/. Accessed: 2016-19-04.  2016. PATEX project website. http://geometry.cs.ucl.ac.uk/projects/2016/pattern-variations/. Accessed: 2016-19-04."
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/325165.325240",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/2508363.2508409",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "unstructured": "Ryall K. Marks J. and Shieber S. 1997. An interactive constraint-based system for drawing graphs. In UIST 97--104. 10.1145/263407.263521   Ryall K. Marks J. and Shieber S. 1997. An interactive constraint-based system for drawing graphs. In UIST 97--104. 10.1145/263407.263521",
+                "DOI": "10.1145/263407.263521",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "unstructured": "Talton J. O. Gibson D. Yang L. Hanrahan P. and Koltun V. 2009. Exploratory modeling with collaborative design spaces. ACM SIGGRAPH Asia 28 5 167:1--167:10. 10.1145/1618452.1618513   Talton J. O. Gibson D. Yang L. Hanrahan P. and Koltun V. 2009. Exploratory modeling with collaborative design spaces. ACM SIGGRAPH Asia 28 5 167:1--167:10. 10.1145/1618452.1618513",
+                "DOI": "10.1145/1618452.1618513",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/2817721.2817729",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1111/j.1467-8659.2009.01636.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1111/j.1467-8659.2011.01885.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/1576246.1531341",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "unstructured": "Xu P. Fu H. Igarashi T. and Tai C.-L. 2014. Global beautification of layouts with interactive ambiguity resolution. In UIST. 10.1145/2642918.2647398   Xu P. Fu H. Igarashi T. and Tai C.-L. 2014. Global beautification of layouts with interactive ambiguity resolution. In UIST . 10.1145/2642918.2647398",
+                "DOI": "10.1145/2642918.2647398",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/2702123.2702198",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1111/j.1467-8659.2009.01411.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "unstructured": "Yeh Y.-T. Yang L. Watson M. Goodman N. D. and Hanrahan P. 2012. Synthesizing open worlds with constraints using locally annealed reversible jump mcmc. ACM SIGGRAPH 31 4 56:1--56:11. 10.1145/2185520.2185552   Yeh Y.-T. Yang L. Watson M. Goodman N. D. and Hanrahan P. 2012. Synthesizing open worlds with constraints using locally annealed reversible jump mcmc. ACM SIGGRAPH 31 4 56:1--56:11. 10.1145/2185520.2185552",
+                "DOI": "10.1145/2185520.2185552",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "unstructured": "Yeh Y.-T. Breeden K. Yang L. Fisher M. and Hanrahan P. 2013. Synthesis of tiled patterns using factor graphs. ACM TOG 32 1 3:1--3:13. 10.1145/2421636.2421639   Yeh Y.-T. Breeden K. Yang L. Fisher M. and Hanrahan P. 2013. Synthesis of tiled patterns using factor graphs. ACM TOG 32 1 3:1--3:13. 10.1145/2421636.2421639",
+                "DOI": "10.1145/2421636.2421639",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1007/s12008-008-0047-3",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "unstructured": "Zheng Y. Chen X. Cheng M.-M. Zhou K. Hu S.-M. and Mitra N. J. 2012. Interactive images: Cuboid proxies for smart image manipulation. ACM SIGGRAPH 31 4 99:1--99:11. 10.1145/2185520.2185595   Zheng Y. Chen X. Cheng M.-M. Zhou K. Hu S.-M. and Mitra N. J. 2012. Interactive images: Cuboid proxies for smart image manipulation. ACM SIGGRAPH 31 4 99:1--99:11. 10.1145/2185520.2185595",
+                "DOI": "10.1145/2185520.2185595",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925950&amp;ftid=1755896&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:29:37Z",
+            "timestamp": 1585963777000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "exploring pattern variations"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 38,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925950"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925950",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

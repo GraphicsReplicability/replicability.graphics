@@ -1,0 +1,466 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T02:11:26Z",
+            "timestamp": 1585966286438
+        },
+        "reference-count": 45,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "name": "National Grid Infrastructure MetaCentrum",
+                "award": [
+                    "CESNET LM2015042"
+                ]
+            },
+            {
+                "name": "Technology Agency of the Czech Republic",
+                "award": [
+                    "TE01020415"
+                ]
+            },
+            {
+                "name": "Grant Agency of the Czech Technical University in Prague",
+                "award": [
+                    "SGS16/237/OHK3/3T/13"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925948",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 26,
+        "title": [
+            "StyLit"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Jakub",
+                "family": "Fi\u0161er",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Czech Technical University in Prague"
+                    }
+                ]
+            },
+            {
+                "given": "Ond\u0159ej",
+                "family": "Jamri\u0161ka",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Czech Technical University in Prague"
+                    }
+                ]
+            },
+            {
+                "given": "Michal",
+                "family": "Luk\u00e1\u010d",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Czech Technical University in Prague"
+                    }
+                ]
+            },
+            {
+                "given": "Eli",
+                "family": "Shechtman",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe Research"
+                    }
+                ]
+            },
+            {
+                "given": "Paul",
+                "family": "Asente",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe Research"
+                    }
+                ]
+            },
+            {
+                "given": "Jingwan",
+                "family": "Lu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Adobe Research"
+                    }
+                ]
+            },
+            {
+                "given": "Daniel",
+                "family": "S\u00fdkora",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Czech Technical University in Prague"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/1531326.1531330",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "author": "Barnes C.",
+                "volume-title": "Proceedings of European Conference on Computer Vision, 29--43"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/2766934",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1111/j.1467-8659.2010.01747.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/2461912.2461929",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/360349.360353",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/1124728.1124751",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1007/s00371-009-0408-3",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/258734.258896",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/2185520.2185578",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/2699641",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1111/cgf.12407",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "Gatys L. A. Ecker A. S. and Bethge M. 2015. A neural algorithm of artistic style. CoRR abs/1508.06576.  Gatys L. A. Ecker A. S. and Bethge M. 2015. A neural algorithm of artistic style. CoRR abs/1508.06576."
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/97880.97902",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1007/s00371-007-0144-5",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1007/s00371-006-0078-3",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "author": "Hashimoto R.",
+                "volume-title": "Proceedings of Computer Graphics International, 312--317"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/97880.97895",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/383259.383295",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/2766983",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/15886.15902",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1111/cgf.12565",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/1276377.1276380",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/1073204.1073263",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1109/TVCG.2012.160",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/1809939.1809945",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/1141911.1141921",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "author": "Lu C.",
+                "volume-title": "Proceedings of International Symposium on Non-Photorealistic Animation and Rendering, 65--73"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1137/140954933",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/1111411.1111431",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/1618452.1618453",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/258734.258890",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "author": "Simakov D.",
+                "volume-title": "Proceedings of IEEE Conference on Computer Vision and Pattern Recognition."
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "unstructured": "Simonyan K. and Zisserman A. 2014. Very deep convolutional networks for large-scale image recognition. CoRR abs/1409.1556.  Simonyan K. and Zisserman A. 2014. Very deep convolutional networks for large-scale image recognition. CoRR abs/1409.1556."
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "author": "Sloan P.-P. J.",
+                "volume-title": "Proceedings of Graphics Interface, 143--150"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1007/s11263-005-6642-x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1109/TVCG.2004.1272726",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1145/1360612.1360651",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1109/TPAMI.2007.60",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1016/j.cag.2012.03.004",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1145/2661229.2661247",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1145/2816795.2818079",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1145/1640443.1640445",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1111/cgf.12536",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1145/2024676.2024696",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925948&amp;ftid=1755939&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:29:51Z",
+            "timestamp": 1585963791000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "illumination-guided example-based stylization of 3D renderings"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 45,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925948"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925948",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

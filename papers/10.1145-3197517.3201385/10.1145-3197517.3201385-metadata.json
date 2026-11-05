@@ -1,0 +1,390 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:54Z",
+            "timestamp": 1585962714374
+        },
+        "reference-count": 31,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2019,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2019-07-30T00:00:00Z",
+                    "timestamp": 1564444800000
+                },
+                "delay-in-days": 354,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100000183",
+                "name": "Army Research Office",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "W911NF-12-R-0011"
+                ]
+            },
+            {
+                "DOI": "10.13039/100000185",
+                "name": "Defense Advanced Research Projects Agency",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "N66001-15-C-4030"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100008982",
+                "name": "National Science Foundation of Sri Lanka",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "CMMI-1644558 and IIS-1409286"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201385",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-14",
+        "source": "Crossref",
+        "is-referenced-by-count": 3,
+        "title": [
+            "Interactive exploration of design trade-offs"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Adriana",
+                "family": "Schulz",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Massachusetts Institute of Technology"
+                    }
+                ]
+            },
+            {
+                "given": "Harrison",
+                "family": "Wang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Massachusetts Institute of Technology"
+                    }
+                ]
+            },
+            {
+                "given": "Eitan",
+                "family": "Grinspun",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Columbia University"
+                    }
+                ]
+            },
+            {
+                "given": "Justin",
+                "family": "Solomon",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Massachusetts Institute of Technology"
+                    }
+                ]
+            },
+            {
+                "given": "Wojciech",
+                "family": "Matusik",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Massachusetts Institute of Technology"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "Shailen Agrawal and Michiel van de Panne. 2013. Pareto Optimal Control for Natural and Supernatural Motions. (2013).  Shailen Agrawal and Michiel van de Panne. 2013. Pareto Optimal Control for Natural and Supernatural Motions. (2013)."
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/2766985",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "unstructured": "Sunith Bandaru and Kalyanmoy Deb. 2015. Temporal innovization: Evolution of design principles using multi-objective optimization. In Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics) (Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)) Vol. 9018. Springer Verlag 79--93.  Sunith Bandaru and Kalyanmoy Deb. 2015. Temporal innovization: Evolution of design principles using multi-objective optimization. In Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics) (Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)) Vol. 9018. Springer Verlag 79--93.",
+                "DOI": "10.1007/978-3-319-15934-8_6",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/2816795.2818108",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/1778765.1778800",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1109/34.969114",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1137/S1052623496307510",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "author": "Deb Kalyanmoy",
+                "volume-title": "Search Methodologies"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/1143997.1144266",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "author": "Deb K.",
+                "year": "2002",
+                "volume-title": "Scalable Multi-Objective Optimization Test Problems. In Congress on Evolutionary Computation (CEC"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/1778765.1778799",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/2980179.2982427",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "Claus Hillermeier. 2001. Nonlinear multiobjective optimization: a generalized homotopy approach. Vol. 135. Springer Science & Business Media.  Claus Hillermeier. 2001. Nonlinear multiobjective optimization: a generalized homotopy approach. Vol. 135. Springer Science & Business Media."
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/1073204.1073229",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.5555/645821.670214",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/2816795.2818137",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "A. Messac A. Ismail-Yahaya and C.A. Mattson. 2003. The normalized normal constraint method for generating the Pareto frontier. Structural and Multidisciplinary Optimization 25 2 (01 Jul 2003) 86--98.  A. Messac A. Ismail-Yahaya and C.A. Mattson. 2003. The normalized normal constraint method for generating the Pareto frontier. Structural and Multidisciplinary Optimization 25 2 (01 Jul 2003) 86--98.",
+                "DOI": "10.1007/s00158-002-0276-1",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/2766955",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/2461912.2461957",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/2983618",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/2766994",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/2185520.2185582",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/2601097.2601129",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/2366145.2366178",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "author": "Yau Siu-Man",
+                "year": "2006",
+                "volume-title": "20th International Parallel and Distributed Processing Symposium (IPDPS 2006), Proceedings, 25--29"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "unstructured": "M. Zeleny. 1973. Compromise Programming. In Multiple Criteria Decision Making J. Cochrane and M. Zeleny (Eds.). University of South Carolina Press Columbia 262--301.  M. Zeleny. 1973. Compromise Programming. In Multiple Criteria Decision Making J. Cochrane and M. Zeleny (Eds.). University of South Carolina Press Columbia 262--301."
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "author": "Zhang J.",
+                "volume": "1",
+                "volume-title": "2017 IEEE International Conference on Computational Science and Engineering (CSE) and IEEE International Conference on Embedded and Ubiquitous Computing (EUC)"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1109/TEVC.2007.892759",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1016/j.swevo.2011.03.001",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/3095815",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1162/106365600568202",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "https://dl.acm.org/doi/pdf/10.1145/3197517.3201385",
+                "content-type": "application/pdf",
+                "content-version": "vor",
+                "intended-application": "syndication"
+            },
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201385&ftid=1991786&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:49:05Z",
+            "timestamp": 1585961345000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 31,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201385"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201385",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

@@ -1,0 +1,307 @@
+<html><head><meta charset="utf-8">
+ <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+ <script src="../../assets/js/chart-utils.js"></script>
+<link rel="stylesheet"
+       href="../../assets/css/default.min.css">
+ <script src="../../assets/js/highlight.min.js"></script>
+ <script>hljs.initHighlightingOnLoad();</script>
+ <link href="../../assets/css/all.css" rel="stylesheet">
+ <link rel="stylesheet" href="../../assets/css/customstyle.css">
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pretty-checkbox@3.0/dist/pretty-checkbox.min.css">
+
+  <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+  <script>
+  var currentReviewId = 0;
+
+  $( function() {
+    $( "#tabs" ).tabs({
+    activate: function (event, ui) {
+        var reviewId = parseInt(event.currentTarget.id.substring(6));
+
+        [myChart.data.datasets[0].data, myChart.data.datasets[currentReviewId].data] =
+ [myChart.data.datasets[currentReviewId].data, myChart.data.datasets[0].data];
+
+        currentReviewId = reviewId-1;
+
+        [myChart.data.datasets[0].data, myChart.data.datasets[currentReviewId].data] =
+ [myChart.data.datasets[currentReviewId].data, myChart.data.datasets[0].data];
+
+        myChart.update(0);
+    }
+  });
+  } );
+  </script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-164636527-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-164636527-1');
+</script>
+<title>PiGraphs: Learning Interaction Snapshots from Observations</title>
+<meta name="description" content="Replicability and source code of the article PiGraphs: Learning Interaction Snapshots from Observations.">
+
+  </head>
+<body>
+  <ul class="publist-inline" style="text-align:left;"><li class="web"><a href="../../browse.html">< The Data</a></ul><h1 class="title">PiGraphs: Learning Interaction Snapshots from Observations <i class="fas fa-circle graphcol0" style="font-size:150%;color:#0868ac;" title="code available and we were able to reproduce most results (score >= 4)"></i> <i class="fas fa-square graphcol6"  style="font-size:150%;color:#7570b3;" title="Preprint PDF available (author web page, project page, institution page, arxiv...)"></i></h1><ul class="authors">
+<li> Manolis <span class="family">Savva</span></li>
+<li> Angel X. <span class="family">Chang</span></li>
+<li> Pat <span class="family">Hanrahan</span></li>
+<li> Matthew <span class="family">Fisher</span></li>
+<li> Matthias <span class="family">Nießner</span></li>
+</ul>
+<center> SIGGRAPH 2016</center><ul class="publist-inline">
+<li class="web"> <i class="fas fa-globe-americas"></i> <a href="https://doi.org/10.1145/2897824.2925867">ACM</a></li>
+<li class="pdf"> <i class="far fa-file-pdf"></i> <a href="https://graphics.stanford.edu/projects/pigraphs/pigraphs.pdf">preprint</a></li>
+<li class="web"> <i class="fas fa-globe-americas"></i> <a href="https://graphics.stanford.edu/projects/pigraphs/">Project page</a></li>
+<li class="web"> <i class="far fa-file-alt"></i> <a href="https://github.com/msavva/pigraphs/">Code</a></li>
+<li class="web"> <i class="far fa-file-alt"></i> <a href="http://aspis.cmpt.sfu.ca/falas_datasets/etherion_backup/data/pigraphs/pigraphs.vhd.bz2">Code 2</a></li>
+<li class="web"> <i class="fas fa-database"></i> <a href="10.1145-2897824.2925867-metadata.json">DOI Metadata</a></li>
+</ul>
+<center><img width="300" src="10.1145-2897824.2925867-thumb.png"></img></center><br><br><ul class="publist-inline" style="text-align:left;font-size:100%"><li > <i ></i> <a href="replicability.json">Download complete data for this entry</a></li></ul>
+    <div class="row">
+    <div class="column2 chart-container" style="position: relative; height:40vh; width:30vw">
+    <canvas width="300" height="250" id="myChart" class="chartjs-render-monitor"></canvas>
+    </div>
+    
+    <div class="column2">
+    <h2>Reviews</h2>
+       <div id="tabs">
+          <ul>             <li><a href="#review-1">main</a></li>
+             <li><a href="#review-2">&#43;</a></li>
+</ul><div id="review-1"><h2>Information</h2><ul><li><span class="family">Paper topic</span>: Geometry</li>
+<li><span class="family">Software type</span>: Code</li>
+<li><span class="family">Able to run a replicability test</span>: True</li>
+<li><span class="family">Replicability score</span>: 5</li>
+<li><span class="family">Software language</span>: C/C++, Other</li>
+<li><span class="family">License</span>: MIT</li>
+<li><span class="family">Build mechanism</span>: IDE Project (VS,..)</li>
+<li><span class="family">Dependencies</span>: DirectX / Java JNI / ANN / AntTweakBar / Boost / CGAL / flann / FreeImage / FW1FontWrapper / GMP / MPFR / OpenCV / Zlib / szip</li>
+<li><span class="family">Documentation score</span> {0,1,2}: 2</li>
+<li><span class="family">Reviewer</span>: Nicolas Bonneel &lt;nicolas.bonneel@liris.cnrs.fr&gt;</li>
+<li><span class="family">Time spent for the test (build->first run, timeout at 100min)</span>: 100min</li>
+</ul><h2>Source code information</h2>
+<ul><li><span class="family">Code URL</span>:  <a href="https://github.com/msavva/pigraphs/">https://github.com/msavva/pigraphs/</a></li>
+<li><span class="family">Code URL 2</span>: <a href="http://aspis.cmpt.sfu.ca/falas_datasets/etherion_backup/data/pigraphs/pigraphs.vhd.bz2">http://aspis.cmpt.sfu.ca/falas_datasets/etherion_backup/data/pigraphs/pigraphs.vhd.bz2</a></li>
+<li><span class="family">Git commit hash</span>: ee794f3acef4eac418ca0f69bb410fef34b99246</li>
+<li><span class="family">Software Heritage link</span>: <a href="https://archive.softwareheritage.org/swh:1:rev:ee794f3acef4eac418ca0f69bb410fef34b99246;origin=https://github.com/msavva/pigraphs//"><img src="https://archive.softwareheritage.org/badge/swh:1:rev:ee794f3acef4eac418ca0f69bb410fef34b99246;origin=https://github.com/msavva/pigraphs//"></a></li>
+</ul><h2>Comments</h2><pre>Using the Virtual Machine provided by the authors, everything ultimately worked, and I managed to at least see the interactions. The interface is not documented at all and quite complex though, so I am not sure what I was doing - some buttons make the program crash. Also, beware the licence for Visual Studio in the VM has expired, and since this is not a free Visual Studio version, you need a licence to be able to recompile from the VM (or reinstall free versions of Visual Studio within the VM).
+
+But getting there was a challenge.
+
+First, I tried to compile the code directly on my machine (on Windows, with VS2017 and Java JDK 13.0.1 instead of the old proposed JDK 8). I had to perform an number of steps and fixed a number of issues :
+
+
+- you need to set the JAVA_HOME environment variable to your java install, e.g., C:\Program Files\Java\jdk-13.0.1\
+- you need to add boost to the VS project includes (I tried with boost 1.70.0)
+- you need to download mLib and mLibExternal from the provided links and extracted them in the root of pigraphs
+- you need to download the 35GB of data.
+
+- in JACE/Integer.cpp line 399, replace  
+setJavaJniObject(object); 
+by  
+setJavaJniObject(object.getJavaJniClass().getClass());
+Same thing for Exception.cpp (line 87), Throwable (line 143), IOException (l.90), Collection (l.144), Number (l.100), List (l.200), AbstractList (l.135), AbstractCollection (l.138), ArrayList (l.230), String (l.591 and 612) in their respective files.
+
+- in String.cpp, line 619 replace 
+jstring thisString = static_cast&lt;jstring&gt;(static_cast&lt;jobject&gt;(*this));
+by 
+jstring thisString = static_cast&lt;jstring&gt;(static_cast&lt;jobject&gt;(String(*this)));
+
+- in libsg/core/synth/InteractionScorer.h, add : #include "../ModelInstance.h"  
+
+- in mlibExternal/include/cgal/segment_3.h, lines 101, 104, 107, 110, and 114 replace
+  typename cpp11::result_of&lt;typename R::Construct_min_vertex_3(Segment_3)&gt;::type
+  by
+  typename cpp11::result_of&lt;typename R_::Construct_min_vertex_3(Segment_3)&gt;::type
+  
+- in mlibExternal/include/cgal/segment_2.h, lines 104, 107, 110, 113, and 116, replace  
+  typename cpp11::result_of&lt;typename R::Construct_min_vertex_2( Segment_2)&gt;::type
+  by
+  typename cpp11::result_of&lt;typename R_::Construct_min_vertex_2( Segment_2)&gt;::type
+  
+- in libsg/vis/vislog.cpp, line 47, replace 
+  m_records.push_back({now, desc, images});
+  by 
+  m_records.push_back({uint64_t(now), desc, images});
+  
+- in libsg/core/LabeledGrid.cpp, line 99, replace
+    voxels[i] = { coords.x, coords.y, coords.z, label };
+	by
+	    voxels[i] = { int16_t(coords.x), int16_t(coords.y), int16_t(coords.z), int16_t(label) };
+
+- in mLibExternal/include/Eigen/src/core/util/Macros.h , line 309 replace 
+#if defined(_MSC_VER) && (!defined(__INTEL_COMPILER))
+by
+#if defined(_MSC_VER)  && (_MSC_VER &lt; 1900) && (!defined(__INTEL_COMPILER))
+
+* There is a number of issues due to move constructors overriding copy constructors (the copy constructor thus appears deleted), and similarly for operator-, which can be solved like :
+- in JACE/JArray.h, line 445, add a const operator- between iterators (for std::copy to work):
+		Iterator operator-(const Iterator &i) const {
+#ifdef JACE_CHECK_ARRAYS
+			if (current - i.current &lt; 0)
+				throw ::jace::JNIException("[JArray::Iterator::operator-] can not rewind iterator out of bounds.");
+#endif
+
+			Iterator it(*this);
+			it.current -= i.current;
+			return it;
+		}
+
+- in mLib/include/core-mesh/material.h line 19, add:
+Material(const Material& m) = default;
+Material& operator=(const Material& m) = default;
+
+- in mlib/include/core-mesh/meshdata.h, line 427, add the following functions:
+	MeshData(const MeshData& d) = default;
+	MeshData& operator=(const MeshData& d) = default;
+
+* There is a number of issues due to vectors of const objects, which is forbidden since C++11. This can be fixed tediously and with some ugly const_cast:
+
+- in libsg/segmentation/Segmentator.cpp, line 184, replace
+vec&lt;SegIndices&gt; Segmentator::segment(const vec&lt;const ml::TriMeshf&gt;& meshes) {
+by
+vec&lt;SegIndices&gt; Segmentator::segment(const vec&lt;ml::TriMeshf&gt;& meshes) {
+and similarly in Segmentator.h line 58.
+
+- in libsg/core/Skeleton.h, line 466, replace 
+std::shared_ptr&lt;const Skeleton&gt; m_skel = nullptr;
+by
+std::shared_ptr&lt;Skeleton&gt; m_skel = nullptr;
+
+and line 404, replace 
+explicit TransformedSkeleton(std::shared_ptr&lt;const Skeleton&gt; pSkel,
+by
+explicit TransformedSkeleton(std::shared_ptr&lt;Skeleton&gt; pSkel,
+
+and line 408, replace 
+TransformedSkeleton(const Skeleton& _skel, const ml::mat4f& _transform)
+by
+TransformedSkeleton(Skeleton& _skel, const ml::mat4f& _transform)
+
+and line 409, replace:
+    : m_skel(util::ptr_to_shared&lt;const Skeleton,const Skeleton&gt;(&_skel))
+by
+    : m_skel(util::ptr_to_shared&lt;Skeleton,Skeleton&gt;(&_skel))
+	
+- in libsg/core/learningUtil.cpp, line 561, replace
+const TransformedSkeleton tSkel(skel, ml::mat4f::identity());
+by
+const TransformedSkeleton tSkel(const_cast&lt;Skeleton&&gt;(skel), ml::mat4f::identity());
+
+- in libsg/interaction/InteractionSet.cpp, line 168, replace 
+TransformedSkeleton normalizedSkeleton(s, xform);
+by
+TransformedSkeleton normalizedSkeleton(const_cast&lt;Skeleton&&gt;(s), xform);
+
+- in libsg/core/learningUtil.cpp, line 115, replace
+tSkels.push_back(TransformedSkeleton(*skelInter.first, ml::mat4f::identity()));
+by
+tSkels.push_back(TransformedSkeleton(const_cast&lt;Skeleton&&gt;(*skelInter.first), ml::mat4f::identity()));
+
+- in libsg/core/learningUtil.cpp, line 135, replace
+      return std::make_pair(TransformedSkeleton(*x.first.getOriginalSkeleton(), perturbation), Dataset&lt;TransformedSkeleton&gt;::Label_NEG);
+by
+      return std::make_pair(TransformedSkeleton(const_cast&lt;Skeleton&&gt;(*x.first.getOriginalSkeleton()), perturbation), Dataset&lt;TransformedSkeleton&gt;::Label_NEG);
+	  
+	 
+- in libsg/core/learningUtil.cpp, line 158, replace
+      tSkels.push_back(TransformedSkeleton(*skelInter.first, ml::mat4f::identity()));
+ by
+	  tSkels.push_back(TransformedSkeleton(const_cast&lt;Skeleton&&gt;(*skelInter.first), ml::mat4f::identity()));
+  
+- in libsg/interaction/InteractionSet.cpp, line 93, replace
+        sampledSkeletons.emplace_back(s, xform);
+by
+        sampledSkeletons.emplace_back(const_cast&lt;Skeleton&&gt;(s), xform);		
+		
+- in core/synth/SkeletonPoser.cpp line 452, replace:
+ std::shared_ptr&lt;const Skeleton&gt; pSkel = std::make_shared&lt;const Skeleton&gt;(p.first);
+by
+ std::shared_ptr&lt;Skeleton&gt; pSkel = std::make_shared&lt;Skeleton&gt;(p.first);
+  
+- in libsg/core/Database.h, line 24, replace
+typedef map&lt;const Skeleton*, vec&lt;const InteractionRecord&gt;&gt; SkeletonToInteractionsMap;
+by
+typedef map&lt;const Skeleton*, vec&lt;InteractionRecord&gt;&gt; SkeletonToInteractionsMap;
+
+- in libsg/interaction/InteractionMap.h, line 56, replace:
+const Skeleton modelSkel = core::TransformedSkeleton(skel, worldToModelML).getSkeleton();
+by
+const Skeleton modelSkel = core::TransformedSkeleton(const_cast&lt;Skeleton&&gt;(skel), worldToModelML).getSkeleton();
+
+* You need to install DirectX 10 with the proposed link. However, first you need to uninstall Visual C++ 2010 x86 and x64 redistribuables from Windows otherwise the install fails.
+
+* At this point, the C++ code compile. But I got stuck to in the instructions for the Java part, as the explanations are very limited, and require knowledge of ANT, JavaApps, SceneGrok, Jace, WekaUtil, IntelliJ IDEA, and Maven. I know none of them, and the informations provided are not sufficient to build the project. This is apparently a known issue ( https://github.com/msavva/pigraphs/issues/5 ).
+
+* I falled back to installing the VM. The VM is a 70GB bz2 file, and is stored on a moderately fast server (it took me about 34 hours to download the VM with a fast connection ; this is about 600KB/s). I thought the file was corrupted as 7zip could not extract it, so I downloaded the VM 3 times in total, with 2 different computers and internet connections. It happens that 7zip just cannot extract such big files, but bzip2 can.
+
+Finally, to run the VirtualBox, you need to deactivate Hyper-V and the Ubuntu for Windows feature, otherwise VirtualBox produces an error.</pre></div><div id=review-2>
+           <p> If you want to contribute with another review, please follow <a href="../../index.html#contribute">these instructions</a>. </p>
+
+            <p>Please consider to cut/paste/edit the <a href="replicability.json">raw JSON data</a> attached to this paper.</a></p>
+            </div>
+            </div></div>
+    </div>
+    </div>
+    </div>
+        <script>
+ 	  var color = Chart.helpers.color;
+          var colorNames = Object.keys(window.chartColors);
+          var ctx = document.getElementById('myChart');
+          var myChart = new Chart(ctx, {
+              type: 'polarArea',
+              data: {
+                labels: ['Dependencies', 'Build / Configure', 'Fixing bugs', 'Easy to adapt', 'Can replicate paper results'],
+                     datasets: [{
+                      label: 'Variant -- "main" (the higher, the better,  {1..5}, 0=N/A )',
+                      showLine: false,
+           
+                      borderColor: "#000",
+                      borderWidth: 2,
+                      backgroundColor: [
+                          'rgba(255, 99, 132,.6)',
+                          'rgba(255, 159, 64,.6)',
+                          'rgba(255, 205, 86,.6)',
+                          'rgba(75, 192, 192,.6)',
+                          'rgba(54, 162, 235,.6)',
+                      ],
+                      data: [1,2,1,3,5]
+                  },
+                  ]
+              },
+              options: {
+  scale: {
+      ticks: {
+          suggestedMin: 0,
+          suggestedMax: 5,
+          stepSize: 1
+      }
+  }
+}
+          });
+
+        </script>
+    </code></pre></body><div style="height:30px;display:block;"></div><div id="disqus_thread"></div>
+ <script>
+ /**
+ *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+ *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+ /*
+ var disqus_config = function () {
+ this.page.url = 'https://replicability.graphics';  // Replace PAGE_URL with your page's canonical URL variable
+ this.page.identifier = '10.1145-2897824.2925867'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+ };
+ */
+ (function() { // DON'T EDIT BELOW THIS LINE
+ var d = document, s = d.createElement('script');
+ s.src = 'https://replicability-graphics.disqus.com/embed.js';
+ s.setAttribute('data-timestamp', +new Date());
+ (d.head || d.body).appendChild(s);
+ })();
+ </script>
+ <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript></html>

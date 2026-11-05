@@ -1,0 +1,511 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T02:11:27Z",
+            "timestamp": 1585966287679
+        },
+        "reference-count": 57,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2017,
+                            7,
+                            24
+                        ]
+                    ],
+                    "date-time": "2017-07-24T00:00:00Z",
+                    "timestamp": 1500854400000
+                },
+                "delay-in-days": 378,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100000001",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "1149853"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925954",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 89,
+        "title": [
+            "The sketchy database"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Patsorn",
+                "family": "Sangkloy",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Georgia Institute of Technology"
+                    }
+                ]
+            },
+            {
+                "given": "Nathan",
+                "family": "Burnell",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Brown University"
+                    }
+                ]
+            },
+            {
+                "given": "Cusuh",
+                "family": "Ham",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Georgia Institute of Technology"
+                    }
+                ]
+            },
+            {
+                "given": "James",
+                "family": "Hays",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Georgia Institute of Technology"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "Antol S. Zitnick C. L. and Parikh D. 2014. Zero-Shot Learning via Visual Abstraction. In ECCV.  Antol S. Zitnick C. L. and Parikh D. 2014. Zero-Shot Learning via Visual Abstraction. In ECCV .",
+                "DOI": "10.1007/978-3-319-10593-2_27",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1109/ICCVW.2013.80",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/2766959",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/2461912.2461964",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1073/pnas.0803390105",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1177/0956797612465439",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1109/CVPR.2011.5995460",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1109/ICCV.2013.46",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "Chen T. ming Cheng M. Tan P. Shamir A. and min Hu S. 2009. Sketch2photo: internet image montage. ACM SIGGRAPH Asia. 10.1145/1661412.1618470   Chen T. ming Cheng M. Tan P. Shamir A. and min Hu S. 2009. Sketch2photo: internet image montage. ACM SIGGRAPH Asia . 10.1145/1661412.1618470",
+                "DOI": "10.1145/1661412.1618470",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1109/TVCG.2012.148",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1109/CVPR.2005.202",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/1360612.1360687",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1109/34.574790",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Dosovitskiy A. Springenberg J. T. and Brox T. 2014. Learning to generate chairs with convolutional neural networks. CoRR abs/1411.5928.  Dosovitskiy A. Springenberg J. T. and Brox T. 2014. Learning to generate chairs with convolutional neural networks. CoRR abs/1411.5928.",
+                "DOI": "10.1109/CVPR.2015.7298761",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1016/j.cag.2010.07.002",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1109/TVCG.2010.266",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "Eitz M. Richter R. Hildebrand K. Boubekeur T. and Alexa M. 2011. Photosketcher: interactive sketch-based image synthesis. IEEE Computer Graphics and Applications. 10.1109/MCG.2011.67   Eitz M. Richter R. Hildebrand K. Boubekeur T. and Alexa M. 2011. Photosketcher: interactive sketch-based image synthesis. IEEE Computer Graphics and Applications. 10.1109/MCG.2011.67",
+                "DOI": "10.1109/MCG.2011.67",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/2185520.2185540",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/2185520.2185527",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1007/s11263-009-0275-4",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1109/TPAMI.2009.167",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1111/j.0956-7976.2005.00796.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1109/CVPR.2006.100",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "author": "Han X.",
+                "volume-title": "Computer Vision and Pattern Recognition (CVPR), 2015 IEEE Conference on, 3279--3286"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1016/j.cviu.2013.02.005",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/218380.218454",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "author": "Jia Y.",
+                "year": "2014",
+                "volume-title": "Caffe: Convolutional architecture for fast feature embedding. arXiv preprint arXiv:1408.5093."
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/2642918.2647399",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "author": "Kato T.",
+                "volume-title": "Pattern Recognition, 1992."
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "author": "Krizhevsky A.",
+                "volume-title": "26th Annual Conference on Neural Information Processing Systems (NIPS), 1106--1114"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "unstructured": "Lee D. and Chun M. M. What are the units of visual short-term memory objects or spatial locations? Perception & Psychophysics 63 2 253--257.  Lee D. and Chun M. M. What are the units of visual short-term memory objects or spatial locations? Perception & Psychophysics 63 2 253--257.",
+                "DOI": "10.3758/BF03194466",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "author": "Li Y.",
+                "volume-title": "British Machine Vision Conference (BMVC)."
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/2816795.2818071",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/2461912.2462016",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "unstructured": "Lin T. Maire M. Belongie S. J. Bourdev L. D. Girshick R. B. Hays J. Perona P. Ramanan D. Doll\u00e1r P. and Zitnick C. L. 2014. Microsoft COCO: common objects in context. CoRR abs/1405.0312.  Lin T. Maire M. Belongie S. J. Bourdev L. D. Girshick R. B. Hays J. Perona P. Ramanan D. Doll\u00e1r P. and Zitnick C. L. 2014. Microsoft COCO: common objects in context. CoRR abs/1405.0312.",
+                "DOI": "10.1007/978-3-319-10602-1_48",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "author": "Lin T.-Y.",
+                "volume-title": "The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)."
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "author": "Mainelli T.",
+                "volume-title": "March 20, 2015."
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1109/ICCV.2001.937655",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1037/a0035257",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1007/s11263-015-0816-y",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "first-page": "1",
+                "article-title": "Sketch based image retrieval using learned keyshapes (lks)",
+                "volume": "164",
+                "author": "Saavedra J. M.",
+                "year": "2015",
+                "journal-title": "Proceedings of the British Machine Vision Conference (BMVC)"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1145/2661229.2661231",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1016/S0031-3203(96)00108-2",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1145/2070781.2024188",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1109/34.895972",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1109/ICCV.2015.114",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "unstructured": "Szegedy C. Liu W. Jia Y. Sermanet P. Reed S. Anguelov D. Erhan D. Vanhoucke V. and Rabinovich A. 2014. Going deeper with convolutions. arXiv preprint arXiv:1409.4842.  Szegedy C. Liu W. Jia Y. Sermanet P. Reed S. Anguelov D. Erhan D. Vanhoucke V. and Rabinovich A. 2014. Going deeper with convolutions. arXiv preprint arXiv:1409.4842 .",
+                "DOI": "10.1109/CVPR.2015.7298594",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "DOI": "10.1109/CVPR.2014.220",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "first-page": "3",
+                "article-title": "Visualizing high-dimensional data using t-sne",
+                "volume": "9",
+                "author": "van der Maaten L.",
+                "year": "2008",
+                "journal-title": "Journal of Machine Learning Research"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "unstructured": "Wang J. Song Y. Leung T. Rosenberg C. Wang J. Philbin J. Chen B. and Wu Y. 2014. Learning fine-grained image similarity with deep ranking. CoRR abs/1404.4661. 10.1109/CVPR.2014.180   Wang J. Song Y. Leung T. Rosenberg C. Wang J. Philbin J. Chen B. and Wu Y. 2014. Learning fine-grained image similarity with deep ranking. CoRR abs/1404.4661. 10.1109/CVPR.2014.180",
+                "DOI": "10.1109/CVPR.2014.180",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "author": "Wang F.",
+                "volume-title": "The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)."
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "unstructured": "Xiao J. Ehinger K. A. Hays J. Torralba A. and Oliva A. 2014. Sun database: Exploring a large collection of scene categories. International Journal of Computer Vision 1--20. 10.1007/s11263-014-0748-y   Xiao J. Ehinger K. A. Hays J. Torralba A. and Oliva A. 2014. Sun database: Exploring a large collection of scene categories. International Journal of Computer Vision 1--20. 10.1007/s11263-014-0748-y"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "author": "Yu Q.",
+                "volume-title": "British Machine Vision Conference (BMVC)."
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "author": "Yu Q.",
+                "volume-title": "The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)."
+            },
+            {
+                "key": "e_1_2_2_55_1",
+                "unstructured": "Zeiler M. D. and Fergus R. 2014. Visualizing and understanding convolutional networks. In Computer Vision--ECCV 2014. Springer 818--833.  Zeiler M. D. and Fergus R. 2014. Visualizing and understanding convolutional networks. In Computer Vision--ECCV 2014 . Springer 818--833.",
+                "DOI": "10.1007/978-3-319-10590-1_53",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_56_1",
+                "author": "Zhou T.",
+                "volume-title": "The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)."
+            },
+            {
+                "key": "e_1_2_2_57_1",
+                "DOI": "10.1145/2601097.2601145",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "https://dl.acm.org/doi/pdf/10.1145/2897824.2925954",
+                "content-type": "application/pdf",
+                "content-version": "vor",
+                "intended-application": "syndication"
+            },
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925954&amp;ftid=1755909&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:28:53Z",
+            "timestamp": 1585963733000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "learning to retrieve badly drawn bunnies"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 57,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925954"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925954",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

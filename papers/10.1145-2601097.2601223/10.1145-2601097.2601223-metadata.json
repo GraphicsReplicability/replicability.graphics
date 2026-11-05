@@ -1,0 +1,518 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:11:20Z",
+            "timestamp": 1586002280946
+        },
+        "reference-count": 52,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601223",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 32,
+        "title": [
+            "Learning to be a depth camera for close-range human capture and interaction"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Sean Ryan",
+                "family": "Fanello",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research and Istituto Italiano di Tecnologia"
+                    }
+                ]
+            },
+            {
+                "given": "Cem",
+                "family": "Keskin",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research"
+                    }
+                ]
+            },
+            {
+                "given": "Shahram",
+                "family": "Izadi",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research"
+                    }
+                ]
+            },
+            {
+                "given": "Pushmeet",
+                "family": "Kohli",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research"
+                    }
+                ]
+            },
+            {
+                "given": "David",
+                "family": "Kim",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research"
+                    }
+                ]
+            },
+            {
+                "given": "David",
+                "family": "Sweeney",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research"
+                    }
+                ]
+            },
+            {
+                "given": "Antonio",
+                "family": "Criminisi",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research"
+                    }
+                ]
+            },
+            {
+                "given": "Jamie",
+                "family": "Shotton",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research"
+                    }
+                ]
+            },
+            {
+                "given": "Sing Bing",
+                "family": "Kang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research"
+                    }
+                ]
+            },
+            {
+                "given": "Tim",
+                "family": "Paek",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Microsoft Research"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "author": "Ahmed A. H.",
+                "volume-title": "Proc. CVPR, IEEE, 1--8."
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1162/neco.1997.9.7.1545",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "author": "Barron J. T.",
+                "year": "2013",
+                "volume-title": "Tech. Rep. UCB/EECS-2013-117, EECS, UC Berkeley, May."
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1016/S0031-3203(97)00074-5",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "author": "Ben-Arie J.",
+                "volume": "2",
+                "volume-title": "In Proc. ICIP 98"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "unstructured": "Besl P. J. 1988. Active optical range imaging sensors. Machine vision and applications 1 2 127--152. 10.1007/BF01212277   Besl P. J. 1988. Active optical range imaging sensors. Machine vision and applications 1 2 127--152. 10.1007/BF01212277",
+                "DOI": "10.1007/BF01212277",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1117/1.1631921",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/311535.311556",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1023/A:1010933404324",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1109/TPAMI.2003.1217603",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1109/34.1000236",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "unstructured": "Criminisi A. and Shotton J. 2013. Decision Forests for Computer Vision and Medical Image Analysis. Springer.   Criminisi A. and Shotton J. 2013. Decision Forests for Computer Vision and Medical Image Analysis . Springer.",
+                "DOI": "10.1007/978-1-4471-4929-3",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "author": "Fredembach C.",
+                "volume": "2008",
+                "volume-title": "Color and Imaging Conference"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/2070781.2024163",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1109/ICCV.2011.6126270",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "author": "Guan P.",
+                "volume-title": "Proc. ICCV."
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "author": "Gurbuz S.",
+                "volume-title": "SPIE Optical Engineering+ Applications"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1109/TPAMI.2007.70820",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1109/TPAMI.2005.158",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/1186822.1073232",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "Horn B. K. 1975. Obtaining shape from shading information. The psychology of computer vision 115--155.  Horn B. K. 1975. Obtaining shape from shading information. The psychology of computer vision 115--155."
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1007/s11554-007-0038-9",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "Jiang T. Liu B. Lu Y. and Evans D. 2003. A neural network approach to shape from shading. International journal of computer mathematics 80 4 433--439.  Jiang T. Liu B. Lu Y. and Evans D. 2003. A neural network approach to shape from shading. International journal of computer mathematics 80 4 433--439.",
+                "DOI": "10.1080/0020716021000038983",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1007/978-3-642-33715-4_56",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1007/978-3-642-33783-3_61",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "author": "Khan N.",
+                "volume-title": "Proc. ICCV Workshop."
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/2380116.2380139",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/1531326.1531402",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/1667239.1667247",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "author": "Liao M.",
+                "volume-title": "Proc. CVPR."
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1109/TMAG.2010.2103050",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "unstructured": "Marschner S. R. Westin S. H. Lafortune E. P. Torrance K. E. and Greenberg D. P. 1999. Image-based BRDF measurement including human skin. In Rendering Techniques 99. Springer 131--144. 10.2312/EGWR/EGWR99/131-144   Marschner S. R. Westin S. H. Lafortune E. P. Torrance K. E. and Greenberg D. P. 1999. Image-based BRDF measurement including human skin. In Rendering Techniques 99 . Springer 131--144. 10.2312/EGWR/EGWR99/131-144",
+                "DOI": "10.1007/978-3-7091-6809-7_13",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "author": "Mulligan J.",
+                "volume-title": "Proc. CVPR Workshop."
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1109/ISMAR.2011.6092378",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1109/CVPR.2005.319",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "unstructured": "Remondino F. and Stoppa D. 2013. ToF range-imaging cameras. Springer.   Remondino F. and Stoppa D. 2013. ToF range-imaging cameras . Springer.",
+                "DOI": "10.1007/978-3-642-27523-4",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "author": "Rother C.",
+                "volume-title": "Proc. NIPS."
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1109/TPAMI.2008.132",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "unstructured": "Scharstein D. and Szeliski R. 2002. A taxonomy and evaluation of dense two-frame stereo correspondence algorithms. In IJCV. 10.1023/A:1014573219977   Scharstein D. and Szeliski R. 2002. A taxonomy and evaluation of dense two-frame stereo correspondence algorithms. In IJCV . 10.1023/A:1014573219977"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1007/11744023_1",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1109/CVPR.2011.5995316",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1088/0031-9155/43/9/003",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1007/s11263-007-0074-8",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1145/2461912.2461944",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "author": "Vineet V.",
+                "volume-title": "Proc. NIPS, 557--565"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "author": "Visentini-Scarzanella M.",
+                "volume-title": "Image Processing (ICIP), 2012 19th IEEE International Conference on, IEEE, 25--28"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "DOI": "10.1007/978-3-642-02256-2_61",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "author": "Wang X.",
+                "volume-title": "Proc. CVPR."
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "DOI": "10.1109/72.508940",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "DOI": "10.1109/34.784284",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "DOI": "10.1109/34.888718",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "unstructured": "Zhang S. 2010. Recent progresses on real-time 3d shape measurement using digital fringe projection techniques. Optics and lasers in engineering 48 2 149--158.  Zhang S. 2010. Recent progresses on real-time 3d shape measurement using digital fringe projection techniques. Optics and lasers in engineering 48 2 149--158.",
+                "DOI": "10.1016/j.optlaseng.2009.03.008",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601223&amp;ftid=1488894&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:50:48Z",
+            "timestamp": 1586001048000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 52,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601223"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601223",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

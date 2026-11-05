@@ -1,0 +1,498 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:29Z",
+            "timestamp": 1585962689376
+        },
+        "reference-count": 54,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100008982",
+                "name": "National Science Foundation of Sri Lanka",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "IIS-1253598, IIS-1755544, CCF-1533885"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201309",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 14,
+        "title": [
+            "Animating fluid sediment mixture in particle-laden flows"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Ming",
+                "family": "Gao",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of Wisconsin, Madison"
+                    }
+                ]
+            },
+            {
+                "given": "Andre",
+                "family": "Pradhana",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Pennsylvania"
+                    }
+                ]
+            },
+            {
+                "given": "Xuchen",
+                "family": "Han",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of California, Los Angeles"
+                    }
+                ]
+            },
+            {
+                "given": "Qi",
+                "family": "Guo",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of California, Los Angeles"
+                    }
+                ]
+            },
+            {
+                "given": "Grant",
+                "family": "Kot",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Phosphorus"
+                    }
+                ]
+            },
+            {
+                "given": "Eftychios",
+                "family": "Sifakis",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Wisconsin, Madison"
+                    }
+                ]
+            },
+            {
+                "given": "Chenfanfu",
+                "family": "Jiang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Pennsylvania"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1021/i160024a007",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "author": "Becker M.",
+                "volume-title": "Proc ACM SIGGRAPH/Eurogmph Symp Comp Anim. 209--217"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/1360612.1360662",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1016/0021-9991(86)90211-1",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "R. Bridson. 2008. Fluid simulation for computer graphics. Taylor & Francis.   R. Bridson. 2008. Fluid simulation for computer graphics. Taylor & Francis."
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "unstructured": "G. Daviet. 2016. Modeling and Simulating Complex Materials subject to Frictional Contact. Ph.D. Dissertation. Universite Grenoble Alpes.  G. Daviet. 2016. Modeling and Simulating Complex Materials subject to Frictional Contact. Ph.D. Dissertation. Universite Grenoble Alpes."
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/2897824.2925877",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1016/0301-9322(94)90011-6",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1017/jfm.2015.383",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/383259.383260",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/3072959.3073630",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/3130800.3130879",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1006/jcph.2001.6977",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/1073204.1073299",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/3072959.3073623",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/2766996",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/2897824.2925906",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "author": "Kri\u0161tof P.",
+                "volume-title": "Comp Graph Forum"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/1360612.1360648",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1111/j.1467-8659.2009.01360.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1016/S0009-2509(99)00263-8",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/2601097.2601152",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "M. Manninen V. Taivassalo S. Kallio etal 1996. On the mixture model for multiphase flow.  M. Manninen V. Taivassalo S. Kallio et al. 1996. On the mixture model for multiphase flow."
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "author": "McAdams A.",
+                "volume-title": "Proc of the 2010 ACM SIGGRAPH/Eurograph Symp Comp Anim. Eurographics Association, 65--74"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1016/j.jvcir.2007.01.005",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/1073368.1073402",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "unstructured": "P. Mutabaruka and K. Kamrin. 2017. A simulation technique for slurries interacting with moving parts and deformable solids with applications. arXiv preprint arXiv:1703.05158 (2017).  P. Mutabaruka and K. Kamrin. 2017. A simulation technique for slurries interacting with moving parts and deformable solids with applications. arXiv preprint arXiv:1703.05158 (2017)."
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/1882261.1866195",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/2461912.2461918",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1063/1.3013896",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/2766925",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/3072959.3073651",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/2786784.2786798",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/2645703",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "author": "Robinson M.",
+                "volume-title": "Proc of the 6th SPHERIC Work. 72--78"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1111/j.1467-8659.2012.03191.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "author": "Rungjiratananon W",
+                "volume": "27",
+                "year": "1887",
+                "volume-title": "Real-time Animation of Sand-Water Interaction. In Comp Graph Forum"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1145/2185520.2185602",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1006/jcph.2001.6747",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1145/2461912.2461948",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1145/2601097.2601176",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1016/0010-4655(94)00170-7",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1016/j.advwatres.2016.03.018",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1016/j.cageo.2016.01.011",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1145/2980179.2980229",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1016/S0065-2377(06)31002-2",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "unstructured": "C. Wojtan M. Carlson P.J. Mucha and G. Turk. 2007. Animating Corrosion and Erosion. In Eurograph Work Nat Phen. 15--22.   C. Wojtan M. Carlson P.J. Mucha and G. Turk. 2007. Animating Corrosion and Erosion. In Eurograph Work Nat Phen. 15--22."
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "DOI": "10.4208/cicp.260509.230210a",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "DOI": "10.1016/S0009-2509(97)00081-X",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "DOI": "10.1145/2897824.2925897",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "DOI": "10.1145/3130800.3130882",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "DOI": "10.1145/2816795.2818117",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "DOI": "10.1145/2751541",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "DOI": "10.1016/j.jcp.2016.10.064",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201309&ftid=1991637&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:49:38Z",
+            "timestamp": 1585961378000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 54,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201309"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201309",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

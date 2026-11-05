@@ -1,0 +1,369 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:41:08Z",
+            "timestamp": 1586004068006
+        },
+        "reference-count": 34,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100004052",
+                "name": "King Abdullah University of Science and Technology",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100000001",
+                "name": "National Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "643822"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601164",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-11",
+        "source": "Crossref",
+        "is-referenced-by-count": 18,
+        "title": [
+            "Computing layouts with deformable templates"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Chi-Han",
+                "family": "Peng",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Arizona State University"
+                    }
+                ]
+            },
+            {
+                "given": "Yong-Liang",
+                "family": "Yang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "KAUST"
+                    }
+                ]
+            },
+            {
+                "given": "Peter",
+                "family": "Wonka",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Arizona State University/KAUST"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/1409060.1409113",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1109/MCG.2008.55",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "DOI": "10.1145/2421636.2421644",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1002/nme.1620320410",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "Bommes D. Lvy B. Pietroni N. Puppo E. a C. S. Tarini M. and Zorin D. 2012. State of the art in quad meshing. In Eurographics STARS.  Bommes D. Lvy B. Pietroni N. Puppo E. a C. S. Tarini M. and Zorin D. 2012. State of the art in quad meshing. In Eurographics STARS ."
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1111/j.1467-8659.2012.03171.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "unstructured": "cgal 2012. Cgal Computational Geometry Algorithms Library. http://www.cgal.org.  cgal 2012. Cgal Computational Geometry Algorithms Library. http://www.cgal.org."
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/882262.882265",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "unstructured": "Dai D. Riemenschneider H. Schmitt G. and Van Gool L. 2013. Example-based facade texture synthesis.  Dai D. Riemenschneider H. Schmitt G. and Van Gool L. 2013. Example-based facade texture synthesis.",
+                "DOI": "10.1109/ICCV.2013.136",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1007/s00373-007-0713-4",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "first-page": "161",
+                "article-title": "A mip approach for some practical packing problems: Balancing constraints and tetris-like items",
+                "volume": "2",
+                "author": "Fasano G.",
+                "year": "2004",
+                "journal-title": "Quarterly Journal of the Belgian, French and Italian Operations Research Societies"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "unstructured": "Gurobi Optimization I. 2014. Gurobi optimizer reference manual.  Gurobi Optimization I. 2014. Gurobi optimizer reference manual."
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/383259.383327",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/2070781.2024189",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/2185520.2185551",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/344779.345022",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "Kaplan C. S. 2009. Introductory Tiling Theory for Computer Graphics. Morgan-Claypool Publishers.   Kaplan C. S. 2009. Introductory Tiling Theory for Computer Graphics . Morgan-Claypool Publishers.",
+                "DOI": "10.2200/S00207ED1V01Y200907CGR011",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/566654.566633",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/1141911.1141916",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/566654.566590",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/2070781.2024217",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/2070781.2024174",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1109/TVCG.2013.245",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/1882261.1866203",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/2010324.1964982",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1016/j.cad.2006.12.002",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/2541533",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "unstructured": "Prokopyev O. and Karademir S. 2012. Irregular polyomino tiling via integer programming with application in phased array antenna design.  Prokopyev O. and Karademir S. 2012. Irregular polyomino tiling via integer programming with application in phased array antenna design."
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/2508363.2508409",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1111/j.1467-8659.2012.03047.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1145/2508363.2508405",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/2185520.2185552",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/2421636.2421639",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/2010324.1964981",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601164&amp;ftid=1488907&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:01:05Z",
+            "timestamp": 1586001665000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 34,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601164"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601164",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

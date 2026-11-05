@@ -1,0 +1,420 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    5,
+                    5
+                ]
+            ],
+            "date-time": "2020-05-05T17:41:03Z",
+            "timestamp": 1588700463629
+        },
+        "reference-count": 45,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2019,
+                            7,
+                            12
+                        ]
+                    ],
+                    "date-time": "2019-07-12T00:00:00Z",
+                    "timestamp": 1562889600000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "DOI": "10.1145/3306346.3322948",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ],
+            "date-time": "2019-07-12T19:04:08Z",
+            "timestamp": 1562958248000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 1,
+        "title": [
+            "Distortion-free wide-angle portraits on camera phones"
+        ],
+        "prefix": "10.1145",
+        "volume": "38",
+        "author": [
+            {
+                "given": "YiChang",
+                "family": "Shih",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Google"
+                    }
+                ]
+            },
+            {
+                "given": "Wei-Sheng",
+                "family": "Lai",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Google"
+                    }
+                ]
+            },
+            {
+                "given": "Chia-Kai",
+                "family": "Liang",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Google"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_1_1_1",
+                "first-page": "36",
+                "article-title": "Image processing with ImageJ",
+                "volume": "11",
+                "author": "Abr\u00e0moff Michael D",
+                "year": "2004",
+                "journal-title": "Biophotonics international"
+            },
+            {
+                "key": "e_1_2_1_2_1",
+                "unstructured": "Sameer Agarwal Keir Mierle and Others. 2012. Ceres Solver. http://ceres-solver.org.  Sameer Agarwal Keir Mierle and Others. 2012. Ceres Solver. http://ceres-solver.org."
+            },
+            {
+                "key": "e_1_2_1_3_1",
+                "DOI": "10.1145/1141911.1141966",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_4_1",
+                "unstructured": "Dimitri P Bertsekas. 1999. Nonlinear programming.  Dimitri P Bertsekas. 1999. Nonlinear programming."
+            },
+            {
+                "key": "e_1_2_1_5_1",
+                "unstructured": "Duane C Brown. 1966. Decentering distortion of lenses. Photogrammetric Engineering and Remote Sensing (1966).  Duane C Brown. 1966. Decentering distortion of lenses. Photogrammetric Engineering and Remote Sensing (1966)."
+            },
+            {
+                "key": "e_1_2_1_6_1",
+                "DOI": "10.1145/1778765.1778864",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_7_1",
+                "DOI": "10.1145/1531326.1531349",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_8_1",
+                "DOI": "10.5555/2354409.2354827",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_9_1",
+                "DOI": "10.1109/TMM.2011.2116775",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_10_1",
+                "DOI": "10.1109/CVPR.2014.422",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_11_1",
+                "DOI": "10.1007/978-3-319-46454-1_12",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_12_1",
+                "DOI": "10.1109/TVCG.2013.14",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_13_1",
+                "DOI": "10.1175/1520-0450(1979)018<1016:LFIOAT>2.0.CO;2",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_14_1",
+                "unstructured": "DxO. 2018. Correcting volume deformation with DxO ViewPoint. https://www.dxo.com/dxo-viewpoint/features/.  DxO. 2018. Correcting volume deformation with DxO ViewPoint. https://www.dxo.com/dxo-viewpoint/features/."
+            },
+            {
+                "key": "e_1_2_1_15_1",
+                "DOI": "10.1145/2897824.2925933",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_16_1",
+                "first-page": "2",
+                "article-title": "Feature-aware texturing",
+                "volume": "2006",
+                "author": "Gal Ran",
+                "year": "2006",
+                "journal-title": "Rendering Techniques"
+            },
+            {
+                "key": "e_1_2_1_17_1",
+                "unstructured": "GoPro. 2017. HERO6 Black Field of View (FOV) Information. https://gopro.com/help/articles/question_answer/hero6-black-field-of-view-fov-information.  GoPro. 2017. HERO6 Black Field of View (FOV) Information. https://gopro.com/help/articles/question_answer/hero6-black-field-of-view-fov-information."
+            },
+            {
+                "key": "e_1_2_1_18_1",
+                "first-page": "5491",
+                "article-title": "Joint video stitching and stabilization from moving cameras",
+                "volume": "25",
+                "author": "Guo Heng",
+                "year": "2016",
+                "journal-title": "IEEE TIP"
+            },
+            {
+                "key": "e_1_2_1_19_1",
+                "DOI": "10.1145/2461912.2462004",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_20_1",
+                "first-page": "117",
+                "article-title": "Perspective warp",
+                "volume": "9",
+                "author": "Intwala Chintan",
+                "year": "2015",
+                "journal-title": "US Patent"
+            },
+            {
+                "key": "e_1_2_1_21_1",
+                "DOI": "10.1145/2814815.2814821",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_22_1",
+                "DOI": "10.1145/2461217.2461228",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_23_1",
+                "DOI": "10.1111/j.1467-8659.2009.01485.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_24_1",
+                "author": "Lee Hyunjoon",
+                "year": "2012",
+                "volume-title": "Proc. CVPR. 877--884"
+            },
+            {
+                "key": "e_1_2_1_25_1",
+                "DOI": "10.1145/1360612.1360637",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_26_1",
+                "author": "Li Dongping",
+                "year": "2015",
+                "volume-title": "Proc. CVPR. 213--221"
+            },
+            {
+                "key": "e_1_2_1_27_1",
+                "DOI": "10.1145/1531326.1531350",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_28_1",
+                "DOI": "10.1145/1899404.1899408",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_29_1",
+                "DOI": "10.1007/s00371-006-0050-2",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_30_1",
+                "unstructured": "Samsung. 2017. GalaxyS7: About Shape Correction. www.samsung.com/nz/support/mobile-devices/galaxy-s7-about-shape-correction/.  Samsung. 2017. GalaxyS7: About Shape Correction. www.samsung.com/nz/support/mobile-devices/galaxy-s7-about-shape-correction/."
+            },
+            {
+                "key": "e_1_2_1_31_1",
+                "author": "Sharpless Thomas K",
+                "year": "2010",
+                "volume-title": "Proc. 6th international conference on Computational Aesthetics in Graphics, Visualization and Imaging. 9--16"
+            },
+            {
+                "key": "e_1_2_1_32_1",
+                "unstructured": "John Parr Snyder. 1987. Map projections-A working manual. Vol. 1395. US Government Printing Office.  John Parr Snyder. 1987. Map projections-A working manual. Vol. 1395. US Government Printing Office.",
+                "DOI": "10.3133/pp1395",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_33_1",
+                "DOI": "10.1109/ICCPHOT.2016.7492868",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_34_1",
+                "unstructured": "TensorFlow. 2018. TensorFlow-Mobile/Lite. https://www.tensorflow.org/mobile/.  TensorFlow. 2018. TensorFlow-Mobile/Lite. https://www.tensorflow.org/mobile/."
+            },
+            {
+                "key": "e_1_2_1_35_1",
+                "unstructured": "Kim H Veltman. 1986. Perspective anamorphosis and vision. Marburger Jahrbuch f\u00fcr (1986).  Kim H Veltman. 1986. Perspective anamorphosis and vision. Marburger Jahrbuch f\u00fcr (1986).",
+                "DOI": "10.2307/1348664",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_36_1",
+                "unstructured": "Dhanraj Vishwanath Ahna R Girshick and Martin S Banks. 2005. Why pictures look right when viewed from the wrong place. Nature neuroscience 8 10 (2005) 1401.  Dhanraj Vishwanath Ahna R Girshick and Martin S Banks. 2005. Why pictures look right when viewed from the wrong place. Nature neuroscience 8 10 (2005) 1401.",
+                "DOI": "10.1038/nn1553",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_37_1",
+                "unstructured": "Neal Wadhwa Rahul Garg David Jacobs Bryan Feldman Nori Kanazawa Robert Carroll Yair Movshovitz-Attias Jonathan Barron Yael Pritch and Marc Levoy. 2018. Synthetic depth-of-field with a single-camera mobile phone. ACM TOG 37 4 (2018). 10.1145/3197517.3201329   Neal Wadhwa Rahul Garg David Jacobs Bryan Feldman Nori Kanazawa Robert Carroll Yair Movshovitz-Attias Jonathan Barron Yael Pritch and Marc Levoy. 2018. Synthetic depth-of-field with a single-camera mobile phone. ACM TOG 37 4 (2018). 10.1145/3197517.3201329",
+                "DOI": "10.1145/3197517.3201329",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_1_38_1",
+                "DOI": "10.1145/1409060.1409071",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_39_1",
+                "DOI": "10.1109/TVCG.2011.130",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_40_1",
+                "unstructured": "Lior Wolf Moshe Guttmann and Daniel Cohen-Or. 2007. Non-homogeneous content-driven video-retargeting. (2007).  Lior Wolf Moshe Guttmann and Daniel Cohen-Or. 2007. Non-homogeneous content-driven video-retargeting. (2007)."
+            },
+            {
+                "key": "e_1_2_1_41_1",
+                "DOI": "10.1109/ICCV.2005.231",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_42_1",
+                "DOI": "10.1016/j.patcog.2010.10.013",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_43_1",
+                "DOI": "10.1145/2980179.2980243",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_44_1",
+                "DOI": "10.1109/34.888718",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_1_45_1",
+                "unstructured": "Denis Zorin and Alan H Barr. 1995. Correction of geometric perceptual distortions in pictures. In SIGGRAPH. 257--264. 10.1145/218380.218449   Denis Zorin and Alan H Barr. 1995. Correction of geometric perceptual distortions in pictures. In SIGGRAPH. 257--264. 10.1145/218380.218449"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3322948&ftid=2071654&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    5,
+                    5
+                ]
+            ],
+            "date-time": "2020-05-05T17:20:54Z",
+            "timestamp": 1588699254000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    12
+                ]
+            ]
+        },
+        "references-count": 45,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        12
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3306346.3322948"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3306346.3322948",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

@@ -1,0 +1,479 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:11:54Z",
+            "timestamp": 1585962714460
+        },
+        "reference-count": 55,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201323",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 27,
+        "title": [
+            "Stereo magnification"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Tinghui",
+                "family": "Zhou",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of California"
+                    }
+                ]
+            },
+            {
+                "given": "Richard",
+                "family": "Tucker",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Google"
+                    }
+                ]
+            },
+            {
+                "given": "John",
+                "family": "Flynn",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Google"
+                    }
+                ]
+            },
+            {
+                "given": "Graham",
+                "family": "Fyffe",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Google"
+                    }
+                ]
+            },
+            {
+                "given": "Noah",
+                "family": "Snavely",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Google"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "Mart\u00edn Abadi Paul Barham Jianmin Chen Zhifeng Chen Andy Davis Jeffrey Dean Matthieu Devin Sanjay Ghemawat Geoffrey Irving Michael Isard etal 2016. TensorFlow: A System for Large-Scale Machine Learning. In OSDI.   Mart\u00edn Abadi Paul Barham Jianmin Chen Zhifeng Chen Andy Davis Jeffrey Dean Matthieu Devin Sanjay Ghemawat Geoffrey Irving Michael Isard et al. 2016. TensorFlow: A System for Large-Scale Machine Learning. In OSDI."
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "Sameer Agarwal Keir Mierle and Others. 2016. Ceres Solver http://ceres-solver.org. (2016).  Sameer Agarwal Keir Mierle and Others. 2016. Ceres Solver http://ceres-solver.org. (2016)."
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "unstructured": "Apple. 2016. Portrait mode now available on iPhone 7 Plus with iOS 10.1. https://www.apple.com/newsroom/2016/10/portrait-mode-now-available-on-iphone-7-plus-with-ios-101/. (2016).  Apple. 2016. Portrait mode now available on iPhone 7 Plus with iOS 10.1. https://www.apple.com/newsroom/2016/10/portrait-mode-now-available-on-iphone-7-plus-with-ios-101/. (2016)."
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "Jimmy Lei Ba Jamie Ryan Kiros and Geoffrey E Hinton. 2016. Layer normalization. arXiv preprint arXiv.1607.06450 (2016).  Jimmy Lei Ba Jamie Ryan Kiros and Geoffrey E Hinton. 2016. Layer normalization. arXiv preprint arXiv.1607.06450 (2016)."
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "Alexandre Chapiro Simon Heinzle Tun\u00e7 Ozan Aydin Steven Poulakos Matthias Zwicker Aljosa Smolic and Markus Gross. 2014. Optimizing stereo-to-multiview conversion for autostereoscopic displays. In Computer graphics forum. 10.1111/cgf.12291   Alexandre Chapiro Simon Heinzle Tun\u00e7 Ozan Aydin Steven Poulakos Matthias Zwicker Aljosa Smolic and Markus Gross. 2014. Optimizing stereo-to-multiview conversion for autostereoscopic displays. In Computer graphics forum. 10.1111/cgf.12291",
+                "DOI": "10.1111/cgf.12291",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1109/TPAMI.2017.2699184",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "unstructured": "Qifeng Chen and Vladlen Koltun. 2017. Photographic image synthesis with cascaded refinement networks. In ICCV.  Qifeng Chen and Vladlen Koltun. 2017. Photographic image synthesis with cascaded refinement networks. In ICCV.",
+                "DOI": "10.1109/ICCV.2017.168",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/166117.166153",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/237170.237191",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/2508363.2508376",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "Alexey Dosovitskiy and Thomas Brox. 2016. Generating images with perceptual similarity metrics based on deep networks. In NIPS.   Alexey Dosovitskiy and Thomas Brox. 2016. Generating images with perceptual similarity metrics based on deep networks. In NIPS."
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1109/TPAMI.2017.2658577",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "unstructured": "John Flynn Ivan Neulander James Philbin and Noah Snavely. 2016. DeepStereo: Learning to Predict New Views From the World's Imagery. In CVPR.  John Flynn Ivan Neulander James Philbin and Noah Snavely. 2016. DeepStereo: Learning to Predict New Views From the World's Imagery. In CVPR.",
+                "DOI": "10.1109/CVPR.2016.595",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "author": "Forster Christian",
+                "year": "2014",
+                "volume-title": "SVO: Fast Semi-Direct Monocular Visual Odometry. In ICRA."
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "unstructured": "Ravi Garg and Ian Reid. 2016. Unsupervised CNN for Single View Depth Estimation: Geometry to the Rescue. In ECCV.  Ravi Garg and Ian Reid. 2016. Unsupervised CNN for Single View Depth Estimation: Geometry to the Rescue. In ECCV.",
+                "DOI": "10.1007/978-3-319-46484-8_45",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "unstructured": "Cl\u00e9ment Godard Oisin Mac Aodha and Gabriel J. Brostow. 2017. Unsupervised Monocular Depth Estimation with Left-Right Consistency. In CVPR.  Cl\u00e9ment Godard Oisin Mac Aodha and Gabriel J. Brostow. 2017. Unsupervised Monocular Depth Estimation with Left-Right Consistency. In CVPR.",
+                "DOI": "10.1109/CVPR.2017.699",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "Google. 2017a. Introducing VR180 cameras https://vr.google.com/vr180/. (2017).  Google. 2017a. Introducing VR180 cameras https://vr.google.com/vr180/. (2017)."
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "unstructured": "Google. 2017b. Portrait mode on the Pixel 2 and Pixel 2 XL smartphones. https://research.googleblog.com/2017/10/portrait-mode-on-pixel-2-and-pixel-2-xl.html. (2017).  Google. 2017b. Portrait mode on the Pixel 2 and Pixel 2 XL smartphones. https://research.googleblog.com/2017/10/portrait-mode-on-pixel-2-and-pixel-2-xl.html. (2017)."
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/237170.237200",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "unstructured": "Hyowon Ha Sunghoon Im Jaesik Park Hae-Gon Jeon and In So Kweon. 2016. High-quality Depth from Uncalibrated Small Motion Clip. In CVPR.  Hyowon Ha Sunghoon Im Jaesik Park Hae-Gon Jeon and In So Kweon. 2016. High-quality Depth from Uncalibrated Small Motion Clip. In CVPR."
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "unstructured": "Richard Hartley and Andrew Zisserman. 2003. Multiple View Geometry in Computer Vision. Cambridge University Press.   Richard Hartley and Andrew Zisserman. 2003. Multiple View Geometry in Computer Vision. Cambridge University Press.",
+                "DOI": "10.1017/CBO9780511811685",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/2980179.2980254",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/3130800.3130828",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/2024156.2024221",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "unstructured": "Max Jaderberg Karen Simonyan Andrew Zisserman and Koray Kavukcuoglu. 2015. Spatial transformer networks. In NIPS.   Max Jaderberg Karen Simonyan Andrew Zisserman and Koray Kavukcuoglu. 2015. Spatial transformer networks. In NIPS."
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "unstructured": "Justin Johnson Alexandre Alahi and Li Fei-Fei. 2016. Perceptual losses for real-time style transfer and super-resolution. In ECCV.  Justin Johnson Alexandre Alahi and Li Fei-Fei. 2016. Perceptual losses for real-time style transfer and super-resolution. In ECCV.",
+                "DOI": "10.1007/978-3-319-46475-6_43",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/2980179.2980251",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/3072959.3073617",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "author": "Kingma Diederik",
+                "year": "2014",
+                "volume-title": "Adam: A method for stochastic optimization. arXiv preprint arXiv:1412.6980"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/237170.237199",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "unstructured": "Ziwei Liu Raymond Yeh Xiaoou Tang Yiming Liu and Aseem Agarwala. 2017. Video Frame Synthesis Using Deep Voxel Flow. In ICCV.  Ziwei Liu Raymond Yeh Xiaoou Tang Yiming Liu and Aseem Agarwala. 2017. Video Frame Synthesis Using Deep Voxel Flow. In ICCV.",
+                "DOI": "10.1109/ICCV.2017.478",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "unstructured": "Lytro. 2018. Lytro. https://www.lytro.com/. (2018).  Lytro. 2018. Lytro. https://www.lytro.com/. (2018)."
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1109/TRO.2015.2463671",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/3130800.3130855",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1145/800031.808606",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "unstructured": "Christian Riechert Frederik Zilly Peter Kauff Jens G\u00fcther and Ralf Sch\u00e4fer. 2012. Fully automatic stereo-to-multiview conversion in autostereoscopic displays. The Best of IET and IBC 4 (09 2012).  Christian Riechert Frederik Zilly Peter Kauff Jens G\u00fcther and Ralf Sch\u00e4fer. 2012. Fully automatic stereo-to-multiview conversion in autostereoscopic displays. The Best of IET and IBC 4 (09 2012)."
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "unstructured": "Johannes Lutz Sch\u00f6nberger and Jan-Michael Frahm. 2016. Structure-from-Motion Revisited. In CVPR.  Johannes Lutz Sch\u00f6nberger and Jan-Michael Frahm. 2016. Structure-from-Motion Revisited. In CVPR.",
+                "DOI": "10.1109/CVPR.2016.445",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1145/280814.280882",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "unstructured": "Karen Simonyan and Andrew Zisserman. 2014. Very deep convolutional networks for large-scale image recognition. arXiv preprint arXiv:1409.1556 (2014).  Karen Simonyan and Andrew Zisserman. 2014. Very deep convolutional networks for large-scale image recognition. arXiv preprint arXiv:1409.1556 (2014)."
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "unstructured": "Pratul P. Srinivasan Tongzhou Wang Ashwin Sreelal Ravi Ramamoorthi and Ren Ng. 2017. Learning to Synthesize a 4D RGBD Light Field from a Single Image. In ICCV.  Pratul P. Srinivasan Tongzhou Wang Ashwin Sreelal Ravi Ramamoorthi and Ren Ng. 2017. Learning to Synthesize a 4D RGBD Light Field from a Single Image. In ICCV.",
+                "DOI": "10.1109/ICCV.2017.246",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "unstructured": "Shubham Tulsiani Tinghui Zhou Alexei A. Efros and Jitendra Malik. 2017. Multi-view Supervision for Single-view Reconstruction via Differentiable Ray Consistency. In CVPR.  Shubham Tulsiani Tinghui Zhou Alexei A. Efros and Jitendra Malik. 2017. Multi-view Supervision for Single-view Reconstruction via Differentiable Ray Consistency. In CVPR.",
+                "DOI": "10.1109/CVPR.2017.30",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "author": "Vijayanarasimhan Sudheendra",
+                "year": "2017",
+                "volume-title": "Sfm-net: Learning of structure and motion from video. arXiv preprint arXiv:1704.07804"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1109/83.334981",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1109/TIP.2003.819861",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "unstructured": "Sven Wanner Stephan Meister and Bastian Goldluecke. 2013. Datasets and benchmarks for densely sampled 4d light fields. In VMV.  Sven Wanner Stephan Meister and Bastian Goldluecke. 2013. Datasets and benchmarks for densely sampled 4d light fields. In VMV."
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1145/1964921.1964990",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "unstructured": "Wikipedia. 2017. Multiplane camera. https://en.wikipedia.org/wiki/Multiplane_camera. (2017).  Wikipedia. 2017. Multiplane camera. https://en.wikipedia.org/wiki/Multiplane_camera. (2017)."
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "unstructured": "Junyuan Xie Ross B. Girshick and Ali Farhadi. 2016. Deep3D: Fully Automatic 2D-to-3D Video Conversion with Deep Convolutional Neural Networks. In ECCV.  Junyuan Xie Ross B. Girshick and Ali Farhadi. 2016. Deep3D: Fully Automatic 2D-to-3D Video Conversion with Deep Convolutional Neural Networks. In ECCV."
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "unstructured": "Fisher Yu and David Gallup. 2014. 3D Reconstruction from Accidental Motion. In CVPR. 10.1109/CVPR.2014.509   Fisher Yu and David Gallup. 2014. 3D Reconstruction from Accidental Motion. In CVPR. 10.1109/CVPR.2014.509"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "unstructured": "Fisher Yu and Vladlen Koltun. 2016. Multi-Scale Context Aggregation by Dilated Convolutions. In ICLR.  Fisher Yu and Vladlen Koltun. 2016. Multi-Scale Context Aggregation by Dilated Convolutions. In ICLR."
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "unstructured": "Richard Zhang Phillip Isola Alexei A Efros Eli Shechtman and Oliver Wang. 2018. The Unreasonable Effectiveness of Deep Networks as a Perceptual Metric. In CVPR.  Richard Zhang Phillip Isola Alexei A Efros Eli Shechtman and Oliver Wang. 2018. The Unreasonable Effectiveness of Deep Networks as a Perceptual Metric. In CVPR.",
+                "DOI": "10.1109/CVPR.2018.00068",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "unstructured": "Zhoutong Zhang Yebin Liu and Qionghai Dai. 2015. Light field from micro-baseline image pair. In CVPR.  Zhoutong Zhang Yebin Liu and Qionghai Dai. 2015. Light field from micro-baseline image pair. In CVPR.",
+                "DOI": "10.1109/CVPR.2015.7299004",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "unstructured": "Tinghui Zhou Matthew Brown Noah Snavely and David Lowe. 2017. Unsupervised learning of depth and ego-motion from video. In CVPR.  Tinghui Zhou Matthew Brown Noah Snavely and David Lowe. 2017. Unsupervised learning of depth and ego-motion from video. In CVPR.",
+                "DOI": "10.1109/CVPR.2017.700",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "unstructured": "Tinghui Zhou Shubham Tulsiani Weilun Sun Jitendra Malik and Alexei A Efros. 2016. View synthesis by appearance flow. In ECCV.  Tinghui Zhou Shubham Tulsiani Weilun Sun Jitendra Malik and Alexei A Efros. 2016. View synthesis by appearance flow. In ECCV.",
+                "DOI": "10.1007/978-3-319-46493-0_18",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_55_1",
+                "DOI": "10.1145/1186562.1015766",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201323&ftid=1991587&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:53:51Z",
+            "timestamp": 1585961631000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "learning view synthesis using multiplane images"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 55,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201323"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201323",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

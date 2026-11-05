@@ -1,0 +1,502 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T05:03:50Z",
+            "timestamp": 1585976630121
+        },
+        "reference-count": 54,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            7,
+                            30
+                        ]
+                    ],
+                    "date-time": "2018-07-30T00:00:00Z",
+                    "timestamp": 1532908800000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100006785",
+                "name": "Google",
+                "doi-asserted-by": "crossref",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/501100004405",
+                "name": "Toyota Motor Corporation",
+                "doi-asserted-by": "crossref",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/501100004830",
+                "name": "Siemens",
+                "doi-asserted-by": "crossref",
+                "award": []
+            },
+            {
+                "name": "ADEPT Lab industrial sponsors",
+                "award": []
+            },
+            {
+                "name": "Intel Science and Technology Center for Agile Design",
+                "award": []
+            },
+            {
+                "name": "NSF/Intel Partnership on Computer Assisted Programming for Heterogeneous Architectures",
+                "award": [
+                    "CCF-1723445"
+                ]
+            },
+            {
+                "name": "SK Hynix",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "DOI": "10.1145/3197517.3201383",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2018-07-31T15:56:23Z",
+            "timestamp": 1533052583000
+        },
+        "page": "1-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 7,
+        "title": [
+            "Differentiable programming for image processing and deep learning in halide"
+        ],
+        "prefix": "10.1145",
+        "volume": "37",
+        "author": [
+            {
+                "given": "Tzu-Mao",
+                "family": "Li",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "MIT CSAIL"
+                    }
+                ]
+            },
+            {
+                "given": "Micha\u00ebl",
+                "family": "Gharbi",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "MIT CSAIL"
+                    }
+                ]
+            },
+            {
+                "given": "Andrew",
+                "family": "Adams",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Facebook AI Research"
+                    }
+                ]
+            },
+            {
+                "given": "Fr\u00e9do",
+                "family": "Durand",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "MIT CSAIL"
+                    }
+                ]
+            },
+            {
+                "given": "Jonathan",
+                "family": "Ragan-Kelley",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "UC Berkeley &amp; Google"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "Mart\u00edn Abadi Ashish Agarwal Paul Barham Eugene Brevdo Zhifeng Chen Craig Citro Greg S. Corrado Andy Davis Jeffrey Dean Matthieu Devin Sanjay Ghemawat Ian Goodfellow Andrew Harp Geoffrey Irving Michael Isard Yangqing Jia Rafal Jozefowicz Lukasz Kaiser Manjunath Kudlur Josh Levenberg Dan Man\u00e9 Rajat Monga Sherry Moore Derek Murray Chris Olah Mike Schuster Jonathon Shlens Benoit Steiner Ilya Sutskever Kunal Talwar Paul Tucker Vincent Vanhoucke Vijay Vasudevan Fernanda Vi\u00e9gas Oriol Vinyals Pete Warden Martin Wattenberg Martin Wicke Yuan Yu and Xiaoqiang Zheng. 2015. TensorFlow: Large-Scale Machine Learning on Heterogeneous Systems.  Mart\u00edn Abadi Ashish Agarwal Paul Barham Eugene Brevdo Zhifeng Chen Craig Citro Greg S. Corrado Andy Davis Jeffrey Dean Matthieu Devin Sanjay Ghemawat Ian Goodfellow Andrew Harp Geoffrey Irving Michael Isard Yangqing Jia Rafal Jozefowicz Lukasz Kaiser Manjunath Kudlur Josh Levenberg Dan Man\u00e9 Rajat Monga Sherry Moore Derek Murray Chris Olah Mike Schuster Jonathon Shlens Benoit Steiner Ilya Sutskever Kunal Talwar Paul Tucker Vincent Vanhoucke Vijay Vasudevan Fernanda Vi\u00e9gas Oriol Vinyals Pete Warden Martin Wattenberg Martin Wicke Yuan Yu and Xiaoqiang Zheng. 2015. TensorFlow: Large-Scale Machine Learning on Heterogeneous Systems."
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1007/978-3-319-46487-9_38",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "author": "Bergstra James",
+                "year": "2010",
+                "volume-title": "Proceedings of the Python for Scientific Computing Conference (SciPy)."
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/143242.143335",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1109/CVPR.2011.5995332",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/1276377.1276506",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "unstructured": "Sharan Chetlur Cliff Woolley Philippe Vandermersch Jonathan Cohen John Tran Bryan Catanzaro and Evan Shelhamer. 2014. cuDNN: Efficient Primitives for Deep Learning. arXiv preprint arXiv:1410.0759 (2014).  Sharan Chetlur Cliff Woolley Philippe Vandermersch Jonathan Cohen John Tran Bryan Catanzaro and Evan Shelhamer. 2014. cuDNN: Efficient Primitives for Deep Learning. arXiv preprint arXiv:1410.0759 (2014)."
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "J. Deng W. Dong R. Socher L.-J. Li K. Li and L. Fei-Fei. 2009. ImageNet: A Large-Scale Hierarchical Image Database. In CVPR09.  J. Deng W. Dong R. Socher L.-J. Li K. Li and L. Fei-Fei. 2009. ImageNet: A Large-Scale Hierarchical Image Database. In CVPR09.",
+                "DOI": "10.1109/CVPR.2009.5206848",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/3132188",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/358669.358692",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1007/s00371-014-0966-x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1109/CVPR.2016.265",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/2980179.2982399",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/3072959.3073592",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1111/j.1467-9868.2010.00765.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/229473.229474",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "unstructured": "Andreas Griewank and Shawn Reese. 1991. On the Calculation of Jacobian Matrices by the Markowitz Rule. In Automatic Differentiation of Algorithms: Theory Implementation and Application Andreas Griewank and George F. Corliss (Eds.). 126--135.  Andreas Griewank and Shawn Reese. 1991. On the Calculation of Jacobian Matrices by the Markowitz Rule. In Automatic Differentiation of Algorithms: Theory Implementation and Application Andreas Griewank and George F. Corliss (Eds.). 126--135."
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.5555/1455489",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/1276377.1276512",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/2450153.2450158",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/2897824.2925875",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/2661229.2661260",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1109/TIP.2004.838691",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/2560359",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "unstructured": "Berthold KP Horn and Brian G Schunck. 1981. Determining optical flow. Artificial intelligence 17 1--3 (1981) 185--203. 10.1016/0004-3702(81)90024-2   Berthold KP Horn and Brian G Schunck. 1981. Determining optical flow. Artificial intelligence 17 1--3 (1981) 185--203. 10.1016/0004-3702(81)90024-2"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/2897824.2925974",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "author": "Ilg E.",
+                "volume-title": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR)."
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "unstructured": "Max Jaderberg Karen Simonyan Andrew Zisserman etal 2015. Spatial transformer networks. In Advances in Neural Information Processing Systems. 2017--2025.   Max Jaderberg Karen Simonyan Andrew Zisserman et al. 2015. Spatial transformer networks. In Advances in Neural Information Processing Systems. 2017--2025."
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/2647868.2654889",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "author": "Kingma Diederik",
+                "year": "2014",
+                "volume-title": "Adam: A method for stochastic optimization. arXiv preprint arXiv:1412.6980"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "unstructured": "Orest Kupyn Volodymyr Budzan Mykola Mykhailych Dmytro Mishkin and Jiri Matas. 2017. DeblurGAN: Blind Motion Deblurring Using Conditional Adversarial Networks. arXiv preprint arXiv:1711.07064 (2017).  Orest Kupyn Volodymyr Budzan Mykola Mykhailych Dmytro Mishkin and Jiri Matas. 2017. DeblurGAN: Blind Motion Deblurring Using Conditional Adversarial Networks. arXiv preprint arXiv:1711.07064 (2017).",
+                "DOI": "10.1109/CVPR.2018.00854",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.5555/647406.724265",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "unstructured": "Gunther Lange. 1957. Gauss type photographic objective containing two outer collective and two inner dispersive members. U.S. Patent 2 799 207 A.  Gunther Lange. 1957. Gauss type photographic objective containing two outer collective and two inner dispersive members. U.S. Patent 2 799 207 A."
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "unstructured": "Seppo Linnainmaa. 1970. The representation of the cumulative rounding error of an algorithm as a Taylor expansion of the local rounding errors. Master's thesis. Univ. Helsinki.  Seppo Linnainmaa. 1970. The representation of the cumulative rounding error of an algorithm as a Taylor expansion of the local rounding errors. Master's thesis. Univ. Helsinki."
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1023/B:VISI.0000029664.99615.94",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "unstructured": "Fujun Luan Sylvain Paris Eli Shechtman and Kavita Bala. 2017. Deep Photo Style Transfer. arXiv preprint arXiv:1703.07511 (2017).  Fujun Luan Sylvain Paris Eli Shechtman and Kavita Bala. 2017. Deep Photo Style Transfer. arXiv preprint arXiv:1703.07511 (2017)."
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/2897824.2925952",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1145/2786763.2694364",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "unstructured": "Adam Paszke Sam Gross Soumith Chintala Gregory Chanan Edward Yang Zachary DeVito Zeming Lin Alban Desmaison Luca Antiga and Adam Lerer. 2017. Automatic differentiation in PyTorch. (2017).  Adam Paszke Sam Gross Soumith Chintala Gregory Chanan Edward Yang Zachary DeVito Zeming Lin Alban Desmaison Luca Antiga and Adam Lerer. 2017. Automatic differentiation in PyTorch. (2017)."
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1145/2185520.2185528",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1145/2499370.2462176",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1109/CVPR.2005.160",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1016/0167-2789(92)90242-F",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "author": "Rumelhart D. E.",
+                "volume": "1",
+                "volume-title": "Parallel Distributed Processing: Explorations in the Microstructure of Cognition"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.5555/3049832.3049863",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "unstructured": "Dmitry Ulyanov Andrea Vedaldi and Victor Lempitsky. 2017. Deep Image Prior. arXiv preprint arXiv:1711.10925 (2017).  Dmitry Ulyanov Andrea Vedaldi and Victor Lempitsky. 2017. Deep Image Prior. arXiv preprint arXiv:1711.10925 (2017)."
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "DOI": "10.1016/0898-1221(85)90188-9",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "author": "Werbos Paul J",
+                "volume-title": "System modeling and optimization"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "unstructured": "Alexander B Wiltschko Bart van Merri\u00c3\u0144nboer and Dan Moldovan. 2017. Tangent: automatic differentiation using source code transformation in Python.  Alexander B Wiltschko Bart van Merri\u00c3\u0144nboer and Dan Moldovan. 2017. Tangent: automatic differentiation using source code transformation in Python."
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "author": "Xu Li",
+                "year": "2015",
+                "volume-title": "Proceedings of the 32nd International Conference on Machine Learning (ICML-15)"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "DOI": "10.1145/2980179.2982403",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "unstructured": "Kai Zhang Wangmeng Zuo Yunjin Chen Deyu Meng and Lei Zhang. 2017. Beyond a gaussian denoiser: Residual learning of deep cnn for image denoising. IEEE Transactions on Image Processing (2017). 10.1109/TIP.2017.2662206   Kai Zhang Wangmeng Zuo Yunjin Chen Deyu Meng and Lei Zhang. 2017. Beyond a gaussian denoiser: Residual learning of deep cnn for image denoising. IEEE Transactions on Image Processing (2017). 10.1109/TIP.2017.2662206"
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "DOI": "10.1007/978-3-319-46487-9_40",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_55_1",
+                "unstructured": "Barbara Zitova and Jan Flusser. 2003. Image registration methods: a survey. Image and vision computing 21 11 (2003) 977--1000.  Barbara Zitova and Jan Flusser. 2003. Image registration methods: a survey. Image and vision computing 21 11 (2003) 977--1000."
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=3201383&ftid=1991788&dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T00:49:26Z",
+            "timestamp": 1585961366000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    10
+                ]
+            ]
+        },
+        "references-count": 54,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/3197517.3201383"
+        ],
+        "URL": "http://dx.doi.org/10.1145/3197517.3201383",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

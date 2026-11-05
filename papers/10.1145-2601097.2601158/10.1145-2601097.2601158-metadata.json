@@ -1,0 +1,448 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:11:20Z",
+            "timestamp": 1586002280350
+        },
+        "reference-count": 46,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100005386",
+                "name": "Israeli Centers for Research Excellence",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "11-Apr"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100000781",
+                "name": "European Research Council",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/501100003977",
+                "name": "Israel Science Foundation",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "1284/12"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601158",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 50,
+        "title": [
+            "Lifted bijections for low distortion surface mappings"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Noam",
+                "family": "Aigerman",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Weizmann Institute of Science"
+                    }
+                ]
+            },
+            {
+                "given": "Roi",
+                "family": "Poranne",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Weizmann Institute of Science"
+                    }
+                ]
+            },
+            {
+                "given": "Yaron",
+                "family": "Lipman",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Weizmann Institute of Science"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "Allen B. Curless B. and Popovi\u0107 Z. 2003. The space of all body shapes: reconstruction and parameterization from range scans. ACM Transactions on Graphics (proc. SIGGRAPH). 10.1145/882262.882311   Allen B. Curless B. and Popovi\u0107 Z. 2003. The space of all body shapes: reconstruction and parameterization from range scans. ACM Transactions on Graphics (proc. SIGGRAPH) . 10.1145/882262.882311",
+                "DOI": "10.1145/1201775.882311",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "unstructured": "Andersen E. D. and Andersen K. D. 1999. The MOSEK interior point optimization for linear programming: an implementation of the homogeneous algorithm. Kluwer Academic Publishers 197--232.  Andersen E. D. and Andersen K. D. 1999. The MOSEK interior point optimization for linear programming: an implementation of the homogeneous algorithm . Kluwer Academic Publishers 197--232.",
+                "DOI": "10.1007/978-1-4757-3216-0_8",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "author": "Anguelov D.",
+                "volume-title": "Proc. of the Neural Information Processing Systems."
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "DOI": "10.1145/1073204.1073207",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1109/34.121791",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "unstructured": "Boyd S. P. and Vandenberghe L. 2004. Convex optimization. Cambridge university press.   Boyd S. P. and Vandenberghe L. 2004. Convex optimization . Cambridge university press.",
+                "DOI": "10.1017/CBO9780511804441",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/1360612.1360698",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "unstructured": "Bronstein A. M. Bronstein M. M. and Kimmel R. 2006. Generalized multidimensional scaling: a framework for isometry-invariant partial surface matching. Proc. National Academy of Sciences (PNAS).  Bronstein A. M. Bronstein M. M. and Kimmel R. 2006. Generalized multidimensional scaling: a framework for isometry-invariant partial surface matching. Proc. National Academy of Sciences (PNAS) .",
+                "DOI": "10.1073/pnas.0508601103",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/1276377.1276404",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1016/S1077-3142(03)00009-2",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "unstructured": "Floater M. S. and Hormann K. 2005. Surface parameterization: a tutorial and survey. In Advances in multiresolution for geometric modelling. Springer 157--186.  Floater M. S. and Hormann K. 2005. Surface parameterization: a tutorial and survey. In Advances in multiresolution for geometric modelling . Springer 157--186.",
+                "DOI": "10.1007/3-540-26808-1_9",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "unstructured": "Floater M. 2003. One-to-one piecewise linear mappings over triangulations. Mathematics of Computation 72 242 685--696. 10.1090/S0025-5718-02-01466-7   Floater M. 2003. One-to-one piecewise linear mappings over triangulations. Mathematics of Computation 72 242 685--696. 10.1090/S0025-5718-02-01466-7"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1016/S0167-8396(02)00002-5",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "author": "Giorgi D.",
+                "year": "2007",
+                "volume-title": "SHREC: SHape REtrieval Contest: Watertight models track"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/566654.566589",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1109/TMI.2004.831226",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "author": "Hormann K.",
+                "year": "2000",
+                "volume-title": "MIPS: An efficient global parametrization method. In Curve and Surface Design: Saint-Malo"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/1281500.1281510",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "author": "Huang Q.",
+                "year": "2008",
+                "volume-title": "Computer Graphics Forum (Proc. SGP"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1142/S0218654307000968",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/2010324.1964974",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/1015706.1015811",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/311535.311586",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.5555/1731309.1731326",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/604471.604502",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/1531326.1531378",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/2185520.2185604",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1109/CACSD.2004.1393890",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "first-page": "309",
+                "article-title": "Extensions of normal immersions of S1 into R2",
+                "volume": "187",
+                "author": "Marx M. L.",
+                "year": "1974",
+                "journal-title": "Transactions of the American Mathematical Society"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1007/s10208-004-0145-y",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "author": "Michikawa T.",
+                "volume-title": "Computer Graphics and Applications, 2001. Proceedings. Ninth Pacific Conference on, 60--69"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "unstructured": "Ovsjanikov M. M\u00e9rigot Q. M\u00e9moli F. and Guibas L. 2010. One point isometric matching with the heat kernel. In Computer Graphics Forum (Proc. of SGP).  Ovsjanikov M. M\u00e9rigot Q. M\u00e9moli F. and Guibas L. 2010. One point isometric matching with the heat kernel. In Computer Graphics Forum (Proc. of SGP) .",
+                "DOI": "10.1111/j.1467-8659.2010.01764.x",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/2185520.2185526",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1111/cgf.12076",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1145/2461912.2461935",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "author": "Pauly M.",
+                "volume-title": "Symposium on Geometry Processing, 23--32"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/383259.383277",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1145/383259.383307",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/1015706.1015812",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1561/0600000011",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1111/j.1467-8659.2012.03167.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "author": "Sorkine O.",
+                "volume-title": "Proceedings of the Conference on Visualization '02, IEEE Computer Society, Washington, DC, USA, VIS '02, 355--362"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1145/1073204.1073228",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "author": "Tevs A.",
+                "volume-title": "Proc. IEEE Conference on Computer Vision and Pattern Recognition."
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "DOI": "10.1111/j.1467-8659.2011.01884.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "unstructured": "Zeng W. Luo F. Yau S.-T. and Gu X. D. 2009. Surface quasi-conformal mapping by solving beltrami equations. In Mathematics of Surfaces XIII. Springer Berlin Heidelberg 391--408. 10.1007/978-3-642-03596-8_23   Zeng W. Luo F. Yau S.-T. and Gu X. D. 2009. Surface quasi-conformal mapping by solving beltrami equations. In Mathematics of Surfaces XIII . Springer Berlin Heidelberg 391--408. 10.1007/978-3-642-03596-8_23",
+                "DOI": "10.1007/978-3-642-03596-8_23",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601158&amp;ftid=1488877&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:55:13Z",
+            "timestamp": 1586001313000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 46,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601158"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601158",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

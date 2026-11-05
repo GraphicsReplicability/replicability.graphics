@@ -1,0 +1,511 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T02:11:27Z",
+            "timestamp": 1585966287366
+        },
+        "reference-count": 62,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925873",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 49,
+        "title": [
+            "Real-time facial animation with image-based dynamic avatars"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Chen",
+                "family": "Cao",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "Zhejiang University"
+                    }
+                ]
+            },
+            {
+                "given": "Hongzhi",
+                "family": "Wu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Zhejiang University"
+                    }
+                ]
+            },
+            {
+                "given": "Yanlin",
+                "family": "Weng",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Zhejiang University"
+                    }
+                ]
+            },
+            {
+                "given": "Tianjia",
+                "family": "Shao",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Zhejiang University"
+                    }
+                ]
+            },
+            {
+                "given": "Kun",
+                "family": "Zhou",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Zhejiang University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "DOI": "10.1145/1667239.1667251",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/2503385.2503387",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "author": "Amberg B.",
+                "volume-title": "Proceedings of ICCV, 1--8."
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "author": "Baltru\u0161aitis T.",
+                "volume-title": "Proceedings of IEEE CVPR, 2610--2617"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1145/1531326.1531330",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/2010324.1964970",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/311535.311556",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/2461912.2461976",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/1778765.1778778",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/2461912.2462012",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/2601097.2601204",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1109/TVCG.2013.249",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/2766943",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/2699276.2721398",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "author": "Chai J.-X.",
+                "volume-title": "Symp. Comp. Anim., 193--206"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1145/2185520.2185612",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/2461912.2461990",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/2601097.2601211",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/2816795.2818112",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1023/A:1008122917811",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "DOI": "10.1145/311535.311576",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "unstructured": "Essa I. Basu S. Darrell T. and Pentland A. 1996. Modeling tracking and interactive animation of faces and heads: using input from video. In Computer Animation 68--79.   Essa I. Basu S. Darrell T. and Pentland A. 1996. Modeling tracking and interactive animation of faces and heads: using input from video. In Computer Animation 68--79."
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "DOI": "10.1145/2508363.2508380",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/2890493",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/2601097.2601194",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/2661229.2661254",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "DOI": "10.1145/2766931",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/1141911.1142003",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1145/2010324.1964969",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1145/2766974",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "DOI": "10.1109/CVPR.2011.5995693",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/1882261.1866167",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "unstructured": "Jimenez J. Echevarria J. I. Oat C. and Gutierrez D. 2011. GPU Pro 2. AK Peters Ltd. ch. Practical and Realistic Facial Wrinkles Animation.  Jimenez J. Echevarria J. I. Oat C. and Gutierrez D. 2011. GPU Pro 2. AK Peters Ltd. ch. Practical and Realistic Facial Wrinkles Animation.",
+                "DOI": "10.1201/b11325-4",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "author": "Kazhdan M.",
+                "volume-title": "Proceedings of the Fourth Eurographics Symposium on Geometry Processing, Eurographics Association, Aire-la-Ville"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "DOI": "10.1109/TPAMI.2007.1177",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "DOI": "10.1145/1015706.1015719",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/1778765.1778769",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "DOI": "10.1145/2461912.2462019",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/2766939",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1145/2816795.2818122",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1145/2461912.2462026",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "unstructured": "McMillan L. 1997. An Image-Based Approach to Three-Dimensional Computer Graphics. PhD thesis University of North Carolina at Chapel Hill.   McMillan L. 1997. An Image-Based Approach to Three-Dimensional Computer Graphics. PhD thesis University of North Carolina at Chapel Hill."
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "DOI": "10.1145/2766894",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1145/1360612.1360629",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "author": "Pighin F.",
+                "volume-title": "Int. Conf. Computer Vision, 143--150"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "unstructured": "Saragih J. Lucey S. and Cohn J. 2011. Real-time avatar animation from a single image. In AFGR 213--220.  Saragih J. Lucey S. and Cohn J. 2011. Real-time avatar animation from a single image. In AFGR 213--220.",
+                "DOI": "10.1109/FG.2011.5771400",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "DOI": "10.1145/237170.237196",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "DOI": "10.1145/2661229.2661290",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "unstructured": "Shum H.-Y. Chan S.-C. and Kang S. B. 2007. Image-Based Rendering. Springer.   Shum H.-Y. Chan S.-C. and Kang S. B. 2007. Image-Based Rendering . Springer."
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "author": "Stich T.",
+                "volume": "27",
+                "volume-title": "Computer Graphics Forum"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "DOI": "10.1145/2816795.2818056",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "DOI": "10.1145/2366145.2366206",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_53_1",
+                "DOI": "10.1016/j.cag.2005.08.024",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_54_1",
+                "DOI": "10.1145/1073204.1073209",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_55_1",
+                "DOI": "10.1145/1073204.1073267",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_56_1",
+                "DOI": "10.1145/1599470.1599472",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_57_1",
+                "DOI": "10.1145/2010324.1964972",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_58_1",
+                "DOI": "10.1145/1964921.1964927",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_59_1",
+                "DOI": "10.1145/2661229.2661284",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_60_1",
+                "author": "Yang F.",
+                "volume-title": "Proceedings of Graphics Interface 2012, GI '12, 93--99"
+            },
+            {
+                "key": "e_1_2_2_61_1",
+                "DOI": "10.1007/978-3-540-71629-7_63",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_62_1",
+                "DOI": "10.1145/1015706.1015759",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925873&amp;ftid=1755862&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:35:56Z",
+            "timestamp": 1585964156000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 62,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925873"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925873",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

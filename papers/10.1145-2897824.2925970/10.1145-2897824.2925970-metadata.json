@@ -1,0 +1,496 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T02:11:27Z",
+            "timestamp": 1585966287046
+        },
+        "reference-count": 52,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2016,
+                            7,
+                            11
+                        ]
+                    ],
+                    "date-time": "2016-07-11T00:00:00Z",
+                    "timestamp": 1468195200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "name": "Korea government",
+                "award": [
+                    "2014R1A2A1A01002871"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "DOI": "10.1145/2897824.2925970",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ],
+            "date-time": "2016-07-11T16:04:33Z",
+            "timestamp": 1468253073000
+        },
+        "page": "1-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 9,
+        "title": [
+            "SketchiMo"
+        ],
+        "prefix": "10.1145",
+        "volume": "35",
+        "author": [
+            {
+                "given": "Byungkuk",
+                "family": "Choi",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "KAIST"
+                    }
+                ]
+            },
+            {
+                "given": "Roger Blanco",
+                "family": "i Ribera",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "KAIST"
+                    }
+                ]
+            },
+            {
+                "given": "J. P.",
+                "family": "Lewis",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Weta Digital"
+                    }
+                ]
+            },
+            {
+                "given": "Yeongho",
+                "family": "Seol",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Weta Digital"
+                    }
+                ]
+            },
+            {
+                "given": "Seokpyo",
+                "family": "Hong",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "KAIST"
+                    }
+                ]
+            },
+            {
+                "given": "Haegwang",
+                "family": "Eom",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "KAIST"
+                    }
+                ]
+            },
+            {
+                "given": "Sunjin",
+                "family": "Jung",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "KAIST"
+                    }
+                ]
+            },
+            {
+                "given": "Junyong",
+                "family": "Noh",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "KAIST"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "author": "Annett M.",
+                "volume-title": "Proceedings of GI '14"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/1073204.1073246",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "unstructured": "Autodesk. Maya MotionBuilder products. www.autodesk.com.  Autodesk. Maya MotionBuilder products. www.autodesk.com."
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "Autodesk. Mudbox. www.autodesk.com/mudbox.  Autodesk. Mudbox. www.autodesk.com/mudbox."
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "unstructured": "Blender Foundation. Blender. www.blender.org.  Blender Foundation. Blender. www.blender.org."
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/2366145.2366217",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/344779.344865",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1111/j.1467-8659.2012.03198.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "author": "Coleman P.",
+                "volume-title": "Proceedings of SCA '08"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "DOI": "10.1145/2766948",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "DOI": "10.1145/253284.253321",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1145/280814.280820",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1145/364338.364400",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "DOI": "10.1145/1015706.1015755",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "DOI": "10.1145/2508363.2508397",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "author": "Guay M.",
+                "volume-title": "Proceedings of SBIM '15"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1145/2766893",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1145/2786784.2786785",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "DOI": "10.1145/1778765.1778770",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/1073204.1073315",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "author": "Hsu E.",
+                "volume-title": "Proceedings of SCA '07"
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/311535.311602",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "Johnson S. G. 2010. The nlopt nonlinear-optimization package. http://ab-initio.mit.edu/nlopt.  Johnson S. G. 2010. The nlopt nonlinear-optimization package. http://ab-initio.mit.edu/nlopt."
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "DOI": "10.1145/1073204.1073291",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_25_1",
+                "DOI": "10.1145/1531326.1531385",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_26_1",
+                "DOI": "10.1145/37402.37407",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_27_1",
+                "author": "Le Callennec B.",
+                "volume-title": "Proceedings of SCA '06"
+            },
+            {
+                "key": "e_1_2_2_28_1",
+                "DOI": "10.1145/311535.311539",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_29_1",
+                "DOI": "10.1109/MCG.2008.37",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_30_1",
+                "DOI": "10.1111/cgf.12043",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_31_1",
+                "author": "Lin J.",
+                "volume-title": "Proceedings of SBIM '10"
+            },
+            {
+                "key": "e_1_2_2_32_1",
+                "DOI": "10.1145/2037636.2037641",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_33_1",
+                "DOI": "10.1145/1599470.1599485",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_34_1",
+                "DOI": "10.1145/1073204.1073324",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_35_1",
+                "author": "Neff M.",
+                "volume-title": "Proceedings of SCA '03"
+            },
+            {
+                "key": "e_1_2_2_36_1",
+                "unstructured": "Nocedal J. and Wright S. 2006. Numerical optimization. Springer Science & Business Media.  Nocedal J. and Wright S. 2006. Numerical optimization. Springer Science & Business Media."
+            },
+            {
+                "key": "e_1_2_2_37_1",
+                "DOI": "10.1145/2485895.2485916",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_38_1",
+                "unstructured": "Pixologic. Zbrush. www.pixologic.com.  Pixologic. Zbrush. www.pixologic.com."
+            },
+            {
+                "key": "e_1_2_2_39_1",
+                "DOI": "10.1145/311535.311536",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_40_1",
+                "DOI": "10.1145/944020.944025",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_41_1",
+                "DOI": "10.1109/38.708559",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_42_1",
+                "DOI": "10.1145/2010324.1964923",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_43_1",
+                "author": "Shapiro A.",
+                "volume-title": "Proceedings of GI '06"
+            },
+            {
+                "key": "e_1_2_2_44_1",
+                "DOI": "10.1145/2461912.2461955",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_45_1",
+                "unstructured": "Tassa Y. Erez T. and Todorov E. 2012. Synthesis and stabilization of complex behaviors through online trajectory optimization. Intelligent Robots and Systems (Oct.) 4906--4913.  Tassa Y. Erez T. and Todorov E. 2012. Synthesis and stabilization of complex behaviors through online trajectory optimization. Intelligent Robots and Systems (Oct.) 4906--4913.",
+                "DOI": "10.1109/IROS.2012.6386025",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_46_1",
+                "DOI": "10.1145/1028523.1028556",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_47_1",
+                "DOI": "10.1145/1015706.1015740",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_48_1",
+                "DOI": "10.1145/1141911.1142010",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_49_1",
+                "DOI": "10.1109/MCG.2009.132",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_50_1",
+                "DOI": "10.1145/218380.218422",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_51_1",
+                "DOI": "10.1007/s00371-013-0797-1",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_52_1",
+                "DOI": "10.1016/j.cag.2014.11.001",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2925970&amp;ftid=1755923&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T01:31:57Z",
+            "timestamp": 1585963917000
+        },
+        "score": 1.0,
+        "subtitle": [
+            "sketch-based motion editing for articulated characters"
+        ],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "references-count": 52,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2897824.2925970"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2897824.2925970",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}

@@ -1,0 +1,299 @@
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T12:11:20Z",
+            "timestamp": 1586002280690
+        },
+        "reference-count": 24,
+        "publisher": "Association for Computing Machinery (ACM)",
+        "issue": "4",
+        "license": [
+            {
+                "URL": "http://www.acm.org/publications/policies/copyright_policy#Background",
+                "start": {
+                    "date-parts": [
+                        [
+                            2014,
+                            7,
+                            27
+                        ]
+                    ],
+                    "date-time": "2014-07-27T00:00:00Z",
+                    "timestamp": 1406419200000
+                },
+                "delay-in-days": 0,
+                "content-version": "vor"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100007065",
+                "name": "Nvidia",
+                "doi-asserted-by": "publisher",
+                "award": []
+            },
+            {
+                "DOI": "10.13039/100004344",
+                "name": "Adobe Systems",
+                "doi-asserted-by": "publisher",
+                "award": []
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "ACM Trans. Graph."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "DOI": "10.1145/2601097.2601114",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2014-07-22T15:08:20Z",
+            "timestamp": 1406041700000
+        },
+        "page": "1-10",
+        "source": "Crossref",
+        "is-referenced-by-count": 17,
+        "title": [
+            "Defending continuous collision detection against errors"
+        ],
+        "prefix": "10.1145",
+        "volume": "33",
+        "author": [
+            {
+                "given": "Huamin",
+                "family": "Wang",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "The Ohio State University"
+                    }
+                ]
+            }
+        ],
+        "member": "320",
+        "reference": [
+            {
+                "key": "e_1_2_2_1_1",
+                "unstructured": "Ainsley S. Vouga E. Grinspun E. and Tamstorf R. 2012. Speculative parallel asynchronous contact mechanics. ACM Transactions on Graphics (SIGGRAPH Asia 2012) 31 6 (Nov.) 151:1. 10.1145/2366145.2366170   Ainsley S. Vouga E. Grinspun E. and Tamstorf R. 2012. Speculative parallel asynchronous contact mechanics. ACM Transactions on Graphics (SIGGRAPH Asia 2012) 31 6 (Nov.) 151:1. 10.1145/2366145.2366170",
+                "DOI": "10.1145/2366145.2366170",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_2_1",
+                "DOI": "10.1145/882262.882357",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_3_1",
+                "unstructured": "Bridson R. Fedkiw R. and \n      \n      \n      Anderson J\n      \n  \n  . \n  2002\n  . Robust treatment of collisions contact and friction for cloth animation. In Proc. of ACM SIGGRAPH 2002 E. Fiume Ed. vol. \n  21\n   of \n  Computer Graphics Proceedings Annual Conference Series 594--603. 10.1145/566570.566623   Bridson R. Fedkiw R. and Anderson J. 2002. Robust treatment of collisions contact and friction for cloth animation. In Proc. of ACM SIGGRAPH 2002 E. Fiume Ed. vol. 21 of Computer Graphics Proceedings Annual Conference Series 594--603. 10.1145/566570.566623",
+                "DOI": "10.1145/566654.566623",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_4_1",
+                "unstructured": "Brochu T. Edwards E. and Bridson R. 2012. Efficient geometrically exact continuous collision detection. ACM Transactions on Graphics (SIGGRAPH 2012) 31 4 (July) 96:1--96:7. 10.1145/2185520.2185592   Brochu T. Edwards E. and Bridson R. 2012. Efficient geometrically exact continuous collision detection. ACM Transactions on Graphics (SIGGRAPH 2012) 31 4 (July) 96:1--96:7. 10.1145/2185520.2185592",
+                "DOI": "10.1145/2185520.2185592",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_5_1",
+                "DOI": "10.1109/56.2083",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_6_1",
+                "DOI": "10.1145/103162.103163",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_7_1",
+                "DOI": "10.1145/1360612.1360622",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_8_1",
+                "DOI": "10.1145/1531326.1531393",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_9_1",
+                "DOI": "10.1145/2019406.2019439",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_10_1",
+                "author": "Huh S.",
+                "volume-title": "Proc. of Computer Animation, IEEE, 122--127"
+            },
+            {
+                "key": "e_1_2_2_11_1",
+                "author": "Larsen E.",
+                "volume-title": "Proc. of Robotics and Automation, 3719--3726"
+            },
+            {
+                "key": "e_1_2_2_12_1",
+                "DOI": "10.1111/j.1467-8659.2009.01611.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_13_1",
+                "DOI": "10.1111/j.1467-8659.2010.01769.x",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_14_1",
+                "unstructured": "Provot X. 1997. Collision and self-collision handling in cloth model dedicated to design garments. In Computer Animation and Simulation 177--189.  Provot X. 1997. Collision and self-collision handling in cloth model dedicated to design garments. In Computer Animation and Simulation 177--189.",
+                "DOI": "10.1007/978-3-7091-6874-5_13",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_15_1",
+                "unstructured": "Schvartzman S. C. P\u00e9rez A. G. and Otaduy M. A. 2010. Star-contours for efficient hierarchical self-collision detection. ACM Transactions on Graphics (SIGGRAPH 2010) 29 (July) 80:1. 10.1145/1778765.1778817   Schvartzman S. C. P\u00e9rez A. G. and Otaduy M. A. 2010. Star-contours for efficient hierarchical self-collision detection. ACM Transactions on Graphics (SIGGRAPH 2010) 29 (July) 80:1. 10.1145/1778765.1778817",
+                "DOI": "10.1145/1833349.1778817",
+                "doi-asserted-by": "crossref"
+            },
+            {
+                "key": "e_1_2_2_16_1",
+                "DOI": "10.1109/TVCG.2008.79",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_17_1",
+                "DOI": "10.1007/PL00009321",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_18_1",
+                "DOI": "10.1109/CADCG.2009.5246818",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_19_1",
+                "unstructured": "Tang M. Kim Y. J. and Manocha D. 2010. Continuous collision detection for non-rigid contact computations using local advancement. In ICRA 4016--4021.  Tang M. Kim Y. J. and Manocha D. 2010. Continuous collision detection for non-rigid contact computations using local advancement. In ICRA 4016--4021."
+            },
+            {
+                "key": "e_1_2_2_20_1",
+                "DOI": "10.1145/2019627.2019630",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_21_1",
+                "author": "Thomaszewski B.",
+                "volume-title": "Proc. of Computer Graphics International."
+            },
+            {
+                "key": "e_1_2_2_22_1",
+                "DOI": "10.1145/1141911.1142007",
+                "doi-asserted-by": "publisher"
+            },
+            {
+                "key": "e_1_2_2_23_1",
+                "unstructured": "Wilkinson J. H. 1994. Rounding Errors in Algebraic Processes. Dover Publications Incorporated.   Wilkinson J. H. 1994. Rounding Errors in Algebraic Processes . Dover Publications Incorporated."
+            },
+            {
+                "key": "e_1_2_2_24_1",
+                "unstructured": "Zheng C. and James D. L. 2012. Energy-based self-collision culling for arbitrary mesh deformations. ACM Transactions on Graphics (SIGGRAPH 2012) 31 4 (July) 98:1--98:12. 10.1145/2185520.2185594   Zheng C. and James D. L. 2012. Energy-based self-collision culling for arbitrary mesh deformations. ACM Transactions on Graphics (SIGGRAPH 2012) 31 4 (July) 98:1--98:12. 10.1145/2185520.2185594",
+                "DOI": "10.1145/2185520.2185594",
+                "doi-asserted-by": "crossref"
+            }
+        ],
+        "container-title": [
+            "ACM Transactions on Graphics"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://dl.acm.org/ft_gateway.cfm?id=2601114&amp;ftid=1488930&amp;dwn=1",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    4
+                ]
+            ],
+            "date-time": "2020-04-04T11:47:55Z",
+            "timestamp": 1586000875000
+        },
+        "score": 1.0,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    7,
+                    27
+                ]
+            ]
+        },
+        "references-count": 24,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2014,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "issue": "4"
+        },
+        "alternative-id": [
+            "10.1145/2601097.2601114"
+        ],
+        "URL": "http://dx.doi.org/10.1145/2601097.2601114",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0730-0301",
+            "1557-7368"
+        ],
+        "issn-type": [
+            {
+                "value": "0730-0301",
+                "type": "print"
+            },
+            {
+                "value": "1557-7368",
+                "type": "electronic"
+            }
+        ]
+    }
+}
